@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 54 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <editor ref="#jeffreycwitt">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 54 [Bnf 12926 Transcription]</title>
+          <date when="2024-05-23">May 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="229-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e750">
+        <head xml:id="lca8s8-d1e750-Hd1e90">Caput 54 [Bnf 12926 Transcription]</head>
+        <!-- P: https://gallica.bnf.fr/ark:/12148/btv1b9080777g/f236.item.zoom -->
+        <p xml:id="lca8s8-d1e750-d1e94">
+          <lb ed="#P" n="7"/>Caput 54m
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e99">
+          <lb ed="#P" n="8"/><pc type="pilcrow"/> Docet ergo <name xml:id="lca8s8-d1e750-Nd1e104">Ioannes Maioris</name> primo: regem 
+          <lb ed="#P" n="9"/>imperio exuendum si populus conuerta<lb ed="#P" break="no" n="10"/>tur
+          ad fidem et ipse eam nolit suscipere: 
+          <lb ed="#P" n="11"/>Sed errat <name xml:id="lca8s8-d1e750-Nd1e113">Maioris</name> in facto nesciens dispo<lb ed="#P" break="no" n="12"/>sitionem
+          indorum, nulli enim vel liben<lb ed="#P" break="no" n="13"/>tius 
+          vel prius si recte instituantur sus<lb ed="#P" break="no" n="14"/>cipiunt
+          fidem quam reges et principes il<lb ed="#P" break="no" n="15"/>larum 
+          nationum (quos vulgo caciques ap<lb ed="#P" break="no" n="16"/>pellamus
+          <pc type="punctus"/> Iterum errat injure. Neque enim 
+          <lb ed="#P" n="17"/>Rex cogendus est ad fidem. Deinde non 
+          <lb ed="#P" n="18"/>ex eo quod quis possit nocere puniendus est 
+          <lb ed="#P" n="19"/>si nondum peccauit vel aliquid in popu<lb ed="#P" break="no" n="20"/>lum 
+          suum commisit, ex eo quod religionem 
+          <lb ed="#P" n="21"/>christianam suscepit. Innumera enim 
+          <lb ed="#P" n="22"/>non succedunt: quae secundum potentiam acti<lb ed="#P" break="no" n="23"/>uam 
+          et passiuam fieri possunt vt per philosophum
+          <lb ed="#P" n="24"/>(5 et 9 Metaphysicae: Deus numquam vult Innocen<lb ed="#P" break="no" n="25"/>tem 
+          puniri et opus recte ceptum forsan 
+          <lb ed="#P" n="26"/>euerteretur si regem tyranice regno spolie<lb ed="#P" break="no" n="27"/>mus 
+          ob peccatum non commissum, etiam si 
+          <lb ed="#P" n="28"/>illud possit committere: Prudentius face<lb ed="#P" break="no" n="29"/>ret 
+          <name xml:id="lca8s8-d1e750-Nd1e156">Ioannis Maioris</name> si adderet hoc intel<lb ed="#P" break="no" n="30"/>ligendum 
+          quando probabiliter et uehemen<pb ed="#P" n="230-r"/><lb ed="#P" break="no" n="1"/>ter 
+          non vanis coniecturis presumeretur re<lb ed="#P" break="no" n="2"/>gem 
+          illum Iacturam allaturum fidei vel cas<lb ed="#P" break="no" n="3"/>tigaturum 
+          populum: quod vix credendum 
+          <lb ed="#P" n="4"/>est de indis principibus pro suo mitissi<lb ed="#P" break="no" n="5"/>mo 
+          ingenio. Quod si suspicio uehemens es<lb ed="#P" break="no" n="6"/>set 
+          tunc illi dandum esset aliquid in com<lb ed="#P" break="no" n="7"/>pensationem 
+          regni ut per <ref xml:id="lca8s8-d1e750-Rd1e177" target="http://scta.info/resource/cice-l3t34-d1e225"><name xml:id="lca8s8-d1e750-Nd1e178">Innocentium</name> in c. 
+          <lb ed="#P" n="8"/>quod super his de voto</ref> ubi loquens de prin<lb ed="#P" break="no" n="9"/>cipibus 
+          paganis qui nostras prouintias 
+          <lb ed="#P" n="10"/>occuparunt docet eos non esse spoliandos vel 
+          <lb ed="#P" n="11"/>deponendos <!-- "a" possibly added above line --> regno etiam si populus 
+          <lb ed="#P" n="12"/>conuertatur ad christum: ne seditio et 
+          <lb ed="#P" n="13"/>odium christiani nominis inseratur pa<lb ed="#P" break="no" n="14"/>ganorum 
+          animis. Quanto magis id do<lb ed="#P" break="no" n="15"/>cere 
+          debuisset, hic theologus, loquens de 
+          <lb ed="#P" n="16"/>indis quos nunquam viderat: qui chris<lb ed="#P" break="no" n="17"/>tianas 
+          prouincias non occuparunt: neque 
+          <lb ed="#P" n="18"/>unquam christianum nomen audierunt 
+          <lb ed="#P" n="19"/>remotissima regna a nostro orbe incolen<lb ed="#P" break="no" n="20"/>tes
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e212">
+          <pc type="pilcrow"/> Secundo <ref xml:id="lca8s8-d1e750-Rd1e216"><sic>Ioanes</sic> maioris</ref> docet ta<lb ed="#P" break="no" n="21"/>lem 
+          principem exui ditione debere: ut sub<lb ed="#P" break="no" n="22"/>diti 
+          eius libere profiteri possint catholicam 
+          <lb ed="#P" n="23"/>fidem. Sed errat quoniam cum iurisdictio 
+          <lb ed="#P" n="24"/>principum etiam paganorum sit de iure 
+          <lb ed="#P" n="25"/>naturali et de iure gentium et diuino ut
+          <lb ed="#P" n="26"/>alibi latissime rationibus irrefragabilibus 
+          <lb ed="#P" n="27"/>et diuinae scripturae autoritatibus proba<lb ed="#P" break="no" n="28"/>uimus
+          certe etiam si eius subditi conuer<lb ed="#P" break="no" n="29"/>tantur 
+          ad fidem debent illi reuerentiam 
+          <lb ed="#P" n="30"/>et obedientiam in his quae contra Deum 
+          <lb ed="#P" n="31"/>non sunt tamquam domino et eius Iuris<pb ed="#P" n="230-v"/><lb ed="#P" break="no" n="1"/>jurisdictio 
+          durat et illi tributa soluenda sunt 
+          <lb ed="#P" n="2"/>si modo jurisdictionem exerceant ab
+          <lb ed="#P" n="3"/>damno fidelium. Etiam si ipse princeps 
+          <lb ed="#P" n="4"/>ad fidem conuerti nolit. Veritas enim ipsa
+          <lb ed="#P" n="5"/><ref xml:id="lca8s8-d1e750-Rd1e255" target="http://scta.info/resource/mt22_21">Matthei 22</ref> docuit Iudaeos debere solue<lb ed="#P" break="no" n="6"/>re 
+          tributa Tiberio Caesari principi paga<lb ed="#P" break="no" n="7"/>no
+          Reddite inquit quae sunt Caesaris Cae<lb ed="#P" break="no" n="8"/>sari: 
+          cui responsioni Paulus apostolus con<lb ed="#P" break="no" n="9"/>gruens 
+          docet principatibus et potestatibus 
+          <lb ed="#P" n="10"/>credentes debere esse subiectos etc Hoc 
+          <lb ed="#P" n="11"/><name xml:id="lca8s8-d1e750-Nd1e270">Hieronimus</name> docet in loco infra citando 
+          <lb ed="#P" n="12"/>inquit et addit verba <ref xml:id="lca8s8-d1e750-Rd1e274">Diui Pauli ad Romanos 
+          <lb ed="#P" n="13"/>13.</ref> <quote xml:id="lca8s8-d1e750-Qd1e280" source="http://scta.info/resource/rom13_1@1-6">omnis anima potestatibus sublimioribus subdita sit</quote>. Et infra:
+          <quote xml:id="lca8s8-d1e750-Qd1e283" source="http://scta.info/resource/rom13_5@1-8">Ideoque necessi<lb ed="#P" break="no" n="14"/>tate 
+          subditi estote: non solum propter iram</quote> 
+          <lb ed="#P" n="15"/>id est propter periculum vel poenam tempora<lb ed="#P" break="no" n="16"/>lem 
+          vel corporalem vitandam: <quote xml:id="lca8s8-d1e750-Qd1e292" source="http://scta.info/resource/rom13_5@9-12">sed etiam 
+          <lb ed="#P" n="17"/>propter conscientiam</quote> id est ne peccatum sit 
+          <lb ed="#P" n="18"/>in conscientia: quia <quote xml:id="lca8s8-d1e750-Qd1e300" source="http://scta.info/resource/rom13_2@2-14">qui potestati resistit 
+          <lb ed="#P" n="19"/>Dei ordinationi resistit et sibi damnationem 
+          <lb ed="#P" n="20"/>acquirit</quote>
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e309">
+          Quod autem Christiani preciperen<lb ed="#P" break="no" n="21"/>tur 
+          obedire principibus suis licet infideli<lb ed="#P" break="no" n="22"/>bus
+          probatur 1o ex sacris doctoribus ita 
+          <lb ed="#P" n="23"/>exponentibus verba Pauli ad Romanos 13
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e318">
+          <lb ed="#P" n="24"/>Secundo probatur: quoniam ut ex hys<lb ed="#P" break="no" n="25"/>toriis 
+          tam sacris quam profanis liquet tem<lb ed="#P" break="no" n="26"/>pore 
+          quo Paulus illud scripsit principes 
+          <lb ed="#P" n="27"/>omnes erant pagani sub quibus apostoli
+          <lb ed="#P" n="28"/>et fideles videbant. Quod etiam docet 
+          <lb ed="#P" n="29"/><ref xml:id="lca8s8-d1e750-Rd1e332"><name xml:id="lca8s8-d1e750-Nd1e333">chrisostomus</name> super illis verbis</ref>: ministri
+          <lb ed="#P" n="30"/>enim Dei. Tunc autem christiani ut pluri<pb ed="#P" n="231-r"/><lb ed="#P" break="no" n="1"/>mum 
+          erant populares Iuxta <name xml:id="lca8s8-d1e750-Nd1e341">Chrisostomi</name>
+          <lb ed="#P" n="2"/>verba. Paulus ergo suis hoc est christia<lb ed="#P" break="no" n="3"/>nis 
+          preceptum illud tradit omnis anima 
+          <lb ed="#P" n="4"/>non paganis qui illud vel ridebant 
+          <lb ed="#P" n="5"/>vel non agnoscebant. Addit autem Paulus 
+          <lb ed="#P" n="6"/>reddite omnibus debita cui tributum tri<lb ed="#P" break="no" n="7"/>butum: 
+          cui uectigal uectigal. Quod etiam 
+          <lb ed="#P" n="8"/>idem Paulus manifeste docet <ref xml:id="lca8s8-d1e750-Rd1e359">1 ad Thi<lb ed="#P" break="no" n="9"/>motheum 6</ref> <quote xml:id="lca8s8-d1e750-Qd1e364" source="http://scta.info/resource/Itim6_1@1-4">Quicunque sub iugo</quote> scilicet infide<lb ed="#P" break="no" n="10"/>lium 
+          <lb ed="#P" n="11"/>secundum glossam interlinealem sunt 
+          <lb ed="#P" n="12"/><quote xml:id="lca8s8-d1e750-Qd1e372" source="http://scta.info/resource/Itim6_1@5-7">serui dominos suos</quote> scilicet infideles <quote xml:id="lca8s8-d1e750-Qd1e376" source="http://scta.info/resource/Itim6_1@8-17">omni 
+          <lb ed="#P" n="13"/>honore dignos arbitretur: ne nomen 
+          <lb ed="#P" n="14"/>domini <del rend="strikethrough">arbitretur</del> et doctrina blasphemetur</quote>. 
+          <lb ed="#P" n="15"/>Et sequitur: <quote xml:id="lca8s8-d1e750-Qd1e388" source="http://scta.info/resource/Itim6_2@1-13">qui autem fideles habent domi<lb ed="#P" break="no" n="16"/>nos 
+          non contemnant quia fratres sunt: 
+          <lb ed="#P" n="17"/>sed magis seruiant</quote> infidelibus ergo heris 
+          <lb ed="#P" n="18"/>vel principibus obsequium prestari debet 
+          <lb ed="#P" n="19"/>a subditis etiam si subditi christiani sint 
+          <lb ed="#P" n="20"/>dominus autem infidelis. Quod apertius do<lb ed="#P" break="no" n="21"/>cet 
+          glossa super illa verba omnis anima po<lb ed="#P" break="no" n="22"/>testatibus 
+          sublimioribus inquit <ref xml:id="lca8s8-d1e750-Rd1e406">glosa</ref>: <quote xml:id="lca8s8-d1e750-Qd1e408">vi<lb ed="#P" break="no" n="23"/>debatur 
+          enim quod infideles domini fidelibus 
+          <lb ed="#P" n="24"/>deberent esse aequales: quam etiam super<lb ed="#P" break="no" n="25"/>biam 
+          apostolus remouet. Non est enim potes<lb ed="#P" break="no" n="26"/>tas 
+          nisi a Deo.</quote> <ref xml:id="lca8s8-d1e750-Rd1e419">haec glossa</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e422">
+          Et Rursus super 
+          <lb ed="#P" n="27"/>illa verba <quote xml:id="lca8s8-d1e750-Qd1e426">ne nomen domini et doctrina blas<lb ed="#P" break="no" n="28"/>phemetur 
+          <lb ed="#P" n="29"/>inquit glosa interlinealis: quasi 
+          <lb ed="#P" n="30"/>aliena inuadentis: sed potius per obsequia 
+          <lb ed="#P" n="31"/>seruorum fidelium domini infideles con<lb ed="#P" break="no" n="32"/>uertantur: 
+          et doctrina scilicet christiana qua<lb ed="#P" break="no" n="33"/>si 
+          injusta et contra legem predicata blas<pb ed="#P" n="231-v"/><lb ed="#P" break="no" n="1"/>phemetur</quote> 
+          haec illa.
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e446">
+          Et <ref xml:id="lca8s8-d1e750-Rd1e448"><name xml:id="lca8s8-d1e750-Nd1e449">Sanctus Thomas</name> super 
+          <lb ed="#P" n="2"/>epistola 1 a ad corinthios 6 lectione 1a in 
+          <lb ed="#P" n="3"/>principio</ref> inquit: <quote xml:id="lca8s8-d1e750-Qd1e456">esse contra Ius diuinum 
+          <lb ed="#P" n="4"/>prohibere: quod fideles non compareant co<lb ed="#P" break="no" n="5"/>ram 
+          Iudicio principum infidelium si 
+          <lb ed="#P" n="6"/>vocentur: vel coram constitutis: hoc est 
+          <lb ed="#P" n="7"/>magistratibus vel Iudicibus ab eis positis 
+          <lb ed="#P" n="8"/>cum pertineat ad autoritatem principis 
+          <lb ed="#P" n="9"/>Iudicare de subditis. Hoc enim esset con<lb ed="#P" break="no" n="10"/>tra 
+          subiectionem quae debetur principi<lb ed="#P" break="no" n="11"/>bus</quote> 
+          haec ex illo quasi in forma. Non 
+          <lb ed="#P" n="12"/>ergo princeps infidelis deponi debet et 
+          <lb ed="#P" n="13"/>spoliari regno oblibertatem fidei catho<lb ed="#P" break="no" n="14"/>licae;
+          immo vero subditi illi debent tribu<lb ed="#P" break="no" n="15"/>ta 
+          soluere. Quod euidenti ratione con<lb ed="#P" break="no" n="16"/>firmat
+          <ref xml:id="lca8s8-d1e750-Rd1e487" target="http://scta.info/resource/jsnvu6-e146938-d1e441"><name xml:id="lca8s8-d1e750-Nd1e488">Durandus</name> 2o Sententiarum distinctio 44 
+          <lb ed="#P" n="17"/>q. 3</ref> quoniam conuerti ad fidem subdi<lb ed="#P" break="no" n="18"/>tos 
+          alicuius pagani principis non auget 
+          <lb ed="#P" n="19"/>eius peccata nec nouum crimen est illi
+          <lb ed="#P" n="20"/>unde meritum eorum est solum et non culpa 
+          <lb ed="#P" n="21"/>eius. Ergo cum non mereatur deponi si 
+          <lb ed="#P" n="22"/>sui non susciperent fidem: multo minus 
+          <lb ed="#P" n="23"/>deponeretur si subditi illam suscipiant.
+          <lb ed="#P" n="24"/>Et certe opinio <name xml:id="lca8s8-d1e750-Nd1e508">Ioanis Maioris</name> sapit he<lb ed="#P" break="no" n="25"/>resim 
+          eorum qui per baptismum existimant 
+          <lb ed="#P" n="26"/>sese liberatos ab omni obedientia et obli<lb ed="#P" break="no" n="27"/>gatione 
+          soluendi tributa: quos <ref xml:id="lca8s8-d1e750-Rd1e517"><name xml:id="lca8s8-d1e750-Nd1e518">Hieronymus</name> super Epistola Pauli ad Titum, c. 
+          <lb ed="#P" n="28"/>3</ref> refert sese tueri verbis <ref xml:id="lca8s8-d1e750-Rd1e523">Pauli ad Gala<lb ed="#P" break="no" n="29"/>tas
+          2a c. 4</ref> illa (scilicet) qua liberta<lb ed="#P" break="no" n="30"/>te 
+          christus nos liberauit
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

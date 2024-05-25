@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 53 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <editor ref="#jeffreycwitt">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 53 [Bnf 12926 Transcription]</title>
+          <date when="2024-05-23">May 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="226-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e737">
+        <head xml:id="lca8s8-d1e737-Hd1e90">Caput 53 [Bnf 12926 Transcription]</head>
+        <!-- P: https://gallica.bnf.fr/ark:/12148/btv1b9080777g/f233.item.zoom -->
+        <p xml:id="lca8s8-d1e737-d1e94">
+          <lb ed="#P" n="15"/>Caput 53m
+        </p>
+        <p xml:id="lca8s8-d1e737-d1e99">
+          <lb ed="#P" n="16"/><pc type="pilcrow"/> Quantum ad indorum calumniatores: 
+          <lb ed="#P" n="17"/>proferunt <add place="above-line">etiam</add> quod in hac specie scripsit <ref xml:id="lca8s8-d1e737-Rd1e109">Ioan<lb ed="#P" break="no" n="18"/>nes 
+            de Maioris 2o Sententiarum c. 44. q. 
+            <lb ed="#P" n="19"/>3</ref> qui reuera salua eius reuerentia par<lb ed="#P" break="no" n="20"/>tim 
+          circa omnes infideles valde confuse 
+          <lb ed="#P" n="21"/>locutus est: partim erronee sentit et 
+          <lb ed="#P" n="22"/>contra naturalem rationem et diuinam 
+          <lb ed="#P" n="23"/>legem in scandalum et impedimentum fi<lb ed="#P" break="no" n="24"/>dei: 
+          nonnulla in presenti indorum negocio 
+          dixit. Cuius tamen doctrinam impro<lb ed="#P" break="no" n="25"/>bat 
+          <ref xml:id="lca8s8-d1e737-Rd1e129" target="http://scta.info/resource/jsnvu6-e146938"><name xml:id="lca8s8-d1e737-Nd1e130">Durandus</name> maioris autoritatis theolo<lb ed="#P" break="no" n="26"/>gus 
+            in eo Libro Sententiarum eadem distinctione</ref>
+        </p>
+        <p xml:id="lca8s8-d1e737-d1e136">
+          <lb ed="#P" n="27"/>Sed ut apertius hominis Errores ius et fac<lb ed="#P" break="no" n="28"/>tum 
+          ignorantis appareant eius verba sub<lb ed="#P" break="no" n="29"/>ijciam
+          Cum linguam inquit hyspani<pb ed="#P" n="227-r"/><lb ed="#P" n="1" break="no"/>cam
+          non intellexerunt scilicet indi: nec con<lb ed="#P" break="no" n="2"/>cionatores 
+          verbi diuini sine magno mi<lb ed="#P" break="no" n="3"/>lite 
+          admitterent necesse erat arces muni<lb ed="#P" break="no" n="4"/>tas 
+          hic et illic struere ut successu tem<lb ed="#P" break="no" n="5"/>porum 
+          effrenis populus ad mores chris<lb ed="#P" break="no" n="6"/>tianorum 
+          assuesceret intelligendo se mu<lb ed="#P" break="no" n="7"/>tuo. 
+          Et quia in omnibus istis magnae 
+          <lb ed="#P" n="8"/>requiruntur impensae: quas rex alius 
+          <lb ed="#P" n="9"/>non ministrat: licitum est ergo illas ca<lb ed="#P" n="10" break="no"/>pere 
+          quia alius hoc velle rationabiliter 
+          <lb ed="#P" n="11"/>debebit. Et tunc cum populus fuerit chris<lb ed="#P" break="no" n="12"/>tianus 
+          vel antiquus Rex fidem suscipit 
+          <lb ed="#P" n="13"/>vel non. Si secundum cum potest vergere 
+          <lb ed="#P" n="14"/>in iacturam fidei deponendus est ob liber<lb ed="#P" break="no" n="15"/>tatem 
+          orthodoxae fidei etiam meretur de<lb ed="#P" break="no" n="16"/>poni: 
+          et hoc vult ille populus si bene chris<lb ed="#P" break="no" n="17"/>tianitatem 
+          suscipiat Quod si ponas po<lb ed="#P" break="no" n="18"/>pulum 
+          velle adhuc habere illum antiquum 
+          <lb ed="#P" n="19"/>regem licet gentilis maneat: grande Iudi<lb ed="#P" break="no" n="20"/>cium 
+          est quod non sincere adhuc suscipitur 
+          <lb ed="#P" n="21"/>fides: et tunc non est relinquendum ei 
+          <lb ed="#P" n="22"/>regnum etiam non decet regem infidelem 
+          <lb ed="#P" n="23"/>habere populum Christianum, cum per 
+          <lb ed="#P" n="24"/>munera et honores potest eos a fide auertere 
+          <lb ed="#P" n="25"/>Sed si idem voluerit suscipere cum aliis 
+          <lb ed="#P" n="26"/>soluendo pro impensis assumptis: non vi<lb ed="#P" break="no" n="27"/>deo 
+          quod deponendus sit. Et hoc si prudens 
+          <lb ed="#P" n="28"/>fuerit nisi timeatur de lapsu in infidelita<lb ed="#P" break="no" n="29"/>tem 
+          etc. Haec <name xml:id="lca8s8-d1e737-Nd1e208">Ioannis maioris</name>
+        </p>
+        <p xml:id="lca8s8-d1e737-d1e212">
+          Primo dum 
+          <lb ed="#P" n="30"/>supponit indos non suscepturos predica<lb ed="#P" break="no" n="31"/>tores 
+          absque magno milite plane labitur
+          <pb ed="#P" n="227-v"/>
+          <lb ed="#P" n="1"/>ignorans quomodo res se habeat. Indi 
+          <lb ed="#P" n="2"/>enim mansuetissimi sunt et, ubi primum 
+          <lb ed="#P" n="3"/>hyspani in eas prouincias penetrarunt 
+          <lb ed="#P" n="4"/>ingens eorum numerus, sincero animo 
+          <lb ed="#P" n="5"/>alacriter ingrediebatur christianorum 
+          <lb ed="#P" n="6"/>naues hyspanosque in suas domos diuer<lb ed="#P" break="no" n="7"/>tentes 
+          tanquam homines diuinos et coelitus 
+          <lb ed="#P" n="8"/>missos impensissime colebant Ex quo 
+          <lb ed="#P" n="9"/>plane liquet illos suscepturos et tantum 
+          <lb ed="#P" n="10"/>non adoraturos predicatores si moribus
+          <lb ed="#P" n="11"/>Christi et apostolorum exemplum referant 
+          <lb ed="#P" n="12"/>talesque sint quales esse oportet euangeli<lb ed="#P" break="no" n="13"/>cae
+          veritatis anuntiatores
+        </p>
+        <p xml:id="lca8s8-d1e737-d1e249">
+          Dum autem <name xml:id="lca8s8-d1e737-Nd1e251"><sic>Ioanes</sic> 
+          <lb ed="#P" n="14"/>maioris</name> asserit reges spoliari posse regnis 
+          <lb ed="#P" n="15"/>suis quousque soluant expensas factas a 
+          <lb ed="#P" n="16"/>regibus hyspaniae in mittendo milites ac 
+          <lb ed="#P" n="17"/>predicatores Certe errat. An regnum pig<lb ed="#P" break="no" n="18"/>noris 
+          nomine arripiemus: quemadmodum 
+          <lb ed="#P" n="19"/>pallium quod soluto debito facile redditur? 
+          <lb ed="#P" n="20"/>Deinde ut rex spolietur regno hoc tyrani<lb ed="#P" break="no" n="21"/>co 
+          fuco quot cedes / quot incendia / quot 
+          <lb ed="#P" n="22"/>miserandae calamitates necessario precedent? 
+          <lb ed="#P" n="23"/>Vbinam legit homo theologus huiusmodi 
+          <lb ed="#P" n="24"/>pignora quae tot animarum exitium <seg type="correction">pari<subst><del>t</del><add place="above-line">unt</add></subst></seg> 
+          Quid praeterea sentient Indorum reges cum 
+          <lb ed="#P" n="25"/>viderint hyspanos gentem barbatam fe<lb ed="#P" break="no" n="26"/>ram 
+          robustam ac formidabilem arces: eri<lb ed="#P" break="no" n="27"/>gere, 
+          ac lapideas domos edificare absque re<lb ed="#P" break="no" n="28"/>gia 
+          facultate? Exossum facient haec ado<lb ed="#P" break="no" n="29"/>randum 
+          nomen christi ex eisque sequen<lb ed="#P" break="no" n="30"/>tur 
+          innumera mala supra relata? An Pau<pb ed="#P" n="228-r"/><lb ed="#P" break="no" n="1"/>lus 
+          huiusmodi pignora accipiebat ab his 
+          <lb ed="#P" n="2"/>quibus euangelium praedicabat? An po<lb ed="#P" break="no" n="3"/>tius 
+          laborabat manibus ne offendiculum prestaretur euangelio? Omnia inquit, sus<lb ed="#P" break="no" n="4"/>tinemus: 
+          ne offendiculum demus euan<lb ed="#P" break="no" n="5"/>gelio 
+          christi <ref xml:id="lca8s8-d1e737-Rd1e311" target="http://scta.info/resource/Icor9_12">1a Corinth. 9</ref> Numquid 
+          <lb ed="#P" n="6"/>pro se solo quasi solus teneretur euange<lb ed="#P" break="no" n="7"/>lium 
+          gratis dare: et non potius pro omni<lb ed="#P" break="no" n="8"/>bus 
+          illud dixit quod in <ref xml:id="lca8s8-d1e737-Rd1e320">actibus aposto<lb ed="#P" break="no" n="9"/>lorum 
+          c. 20</ref> narratur episcopo ac prela<lb ed="#P" break="no" n="10"/>tis 
+          Mileti dixisse: argentum et aurum aut 
+          <lb ed="#P" n="11"/>vestem nullius concupiui sicut ipsi scitis: 
+          <lb ed="#P" n="12"/>quoniam ad ea quae mihi opus erant et 
+          <lb ed="#P" n="13"/>his qui mecum sunt ministrauerunt manus 
+          <lb ed="#P" n="14"/>istae. Omnia ostendi vobis: quoniam sic 
+          <lb ed="#P" n="15"/>laborantes oportet suscipere in firmos: ac me<lb ed="#P" break="no" n="16"/>minisse 
+          verbi domini <sic>Iesus</sic>: quoniam ipse dixit: 
+          <lb ed="#P" n="17"/><quote xml:id="lca8s8-d1e737-Qd1e344">beatius est dare quam accipere?</quote> Cur non imitta<lb ed="#P" break="no" n="18"/>mus 
+          hunc generosae mentis virum?
+        </p>
+        <p xml:id="lca8s8-d1e737-d1e349">
+          Cur pe<lb ed="#P" break="no" n="19"/>cuniae 
+          vel expensarum ratione quas iste pre<lb ed="#P" break="no" n="20"/>texit 
+          occasionem prebeamus ut indi co<lb ed="#P" break="no" n="21"/>gitent 
+          euangelij legem molestam et grauem 
+          <lb ed="#P" n="22"/>esse? Sequamur Pauli vestigia dicentis quoniam 
+          <lb ed="#P" n="23"/>sic oportet suscipere infirmos. Illud verbum 
+          <lb ed="#P" n="24"/>oportet preceptiuum est et necessitatem in<lb ed="#P" break="no" n="25"/>ducit 
+          ut supra dixi. Errat ergo <name xml:id="lca8s8-d1e737-Nd1e366">Ioannes 
+          <lb ed="#P" n="26"/>Maioris</name> qui concedens regna indorum esse: 
+          asserit pignoris nomine reges debere spolia<lb ed="#P" break="no" n="27"/>ri 
+          regnis ut solutis expensis illa recipiant 
+          <lb ed="#P" n="28"/>si christi fidem susceperint. Quod vanis<lb ed="#P" break="no" n="29"/>simum 
+          est. Supponamus enim illos nolle
+          <pb ed="#P" n="228-v"/>
+          <lb ed="#P" n="1"/><sic>nolle</sic> suscipere fidem christi neque solue<lb ed="#P" break="no" n="2"/>re 
+          expensas: quaero quo titulo regno spo<lb ed="#P" break="no" n="3"/>liari 
+          possunt? Non quidem titulo de 
+          <lb ed="#P" n="4"/>actione negotiorum gestorum utiliter. 
+          <lb ed="#P" n="5"/>Neque enim dici potest negocium illorum 
+          <lb ed="#P" n="6"/>vtiliter gestum: cum ex aduentu hyspa<lb ed="#P" break="no" n="7"/>norum 
+          spolientur a proprijs regnis et in<lb ed="#P" break="no" n="8"/>numera 
+          oriantur mala ex bello quod ne<lb ed="#P" break="no" n="9"/>cessarium 
+          est geri: ut rex indus ditio<lb ed="#P" break="no" n="10"/>ne 
+          sua spolietur. Cum ergo negocium 
+          <lb ed="#P" n="11"/>non sit utiliter gestum: non est quod ex<lb ed="#P" break="no" n="12"/>pensas 
+          soluant ut in <ref xml:id="lca8s8-d1e737-Rd1e407">L. sed si ideo, ff 
+          <lb ed="#P" n="13"/>soluto matrimonio</ref>. Cum ergo ex doctrina 
+          <lb ed="#P" n="14"/>christi nemo sit puniendus ex eo quod no<lb ed="#P" break="no" n="15"/>lit 
+          fidem christianam recipere: neque sit 
+          <lb ed="#P" n="16"/>cogendus ad fidem: quod exemplum est 
+          <lb ed="#P" n="17"/>spoliare regno principem quia fidem sus<lb ed="#P" break="no" n="18"/>cipere
+          nolit: presertim predicatam ab 
+          <lb ed="#P" n="19"/>hominibus impijs quos potius dicas ca<lb ed="#P" break="no" n="20"/>codemones
+          et sathanae ministros inimi<lb ed="#P" break="no" n="21"/>cosque 
+          gloriae christi quam angelos pacis et ve<lb ed="#P" break="no" n="22"/>ritatis 
+          anuntiatores?
+        </p>
+        <p xml:id="lca8s8-d1e737-d1e432">
+          Abeat ergo <name xml:id="lca8s8-d1e737-Nd1e434">Ioannes 
+          <lb ed="#P" n="23"/>Maioris</name> cum suis somnijs. Ignorat enim 
+          <lb ed="#P" n="24"/>Ius et factum. Ridendum vero quod hic theo<lb ed="#P" break="no" n="25"/>logus 
+          ait regem indum etiam antequam intel<lb ed="#P" break="no" n="26"/>ligat 
+          linguam hyspanicam et etiam antequam 
+          <lb ed="#P" n="27"/>intelligat quo consilio hyspani arces mu<lb ed="#P" break="no" n="28"/>nitas 
+          erigant debere suo regno spoliari 
+          <lb ed="#P" n="29"/>si fidem non suscipiat ratione expensa<lb ed="#P" break="no" n="30"/>rum. 
+          Si linguam hyspanicam miser rex 
+          <pb ed="#P" n="229-r"/>
+          <lb ed="#P" n="1"/>non intelligit: quomodo percipiet aut 
+          <lb ed="#P" n="2"/>credet veritatem Christi et a religione sua 
+          <lb ed="#P" n="3"/>tot seculorum consensu comprobata disce<lb ed="#P" break="no" n="4"/>det? 
+          Nonne qui hoc faceret insanus es<lb ed="#P" break="no" n="5"/>set? 
+          An christiana dogmata: similia sunt 
+          <lb ed="#P" n="6"/>principijs quae natura ipsa peculiari lu<lb ed="#P" break="no" n="7"/>mine 
+          unicuique homini gentili et infide<lb ed="#P" break="no" n="8"/>li 
+          inserto docet et demonstrat? Quis adeo 
+          <lb ed="#P" n="9"/>caecus est ut non videat has esse Satha<lb ed="#P" break="no" n="10"/>nae 
+          artes spoliari principem Innocentem 
+          <lb ed="#P" n="11"/>et prorsus ignorantem et in captiuitatem 
+          <lb ed="#P" n="12"/>duci bonis exutum: sub pretextu expen<lb ed="#P" break="no" n="13"/>sarum? 
+          Quid habet hoc commune cum charitate christi vel cum communi ratione?
+          <lb ed="#P" n="14"/>Indus qui nomen christi numquam au<lb ed="#P" break="no" n="15"/>diuit 
+          <lb ed="#P" n="16"/>non minus credit saltem modo hu<lb ed="#P" break="no" n="17"/>mano 
+          religionem suam veram esse: quam chris<lb ed="#P" break="no" n="18"/>tianus 
+          christianam? Addit <name xml:id="lca8s8-d1e737-Nd1e495">Ioannes Ma<lb ed="#P" break="no" n="19"/>ioris</name> 
+          indum regem rationabiliter debere 
+          <lb ed="#P" n="20"/>hoc pati. Haud quaquam existimo ipsum
+          <lb ed="#P" n="21"/><name xml:id="lca8s8-d1e737-Nd1e504">Ioannem Maioris</name> haec toleraturum tam im<lb ed="#P" break="no" n="22"/>pia 
+          et crassa <del rend="strikethrough">ut recusive confutasse sit:</del> 
+          <lb ed="#P" n="23"/>etiam, si indus esset, si ungari vel bohe<lb ed="#P" break="no" n="24"/>mi 
+          quorum linguam ignoraret etiam si 
+          <lb ed="#P" n="25"/>mouerentur ob bonum duntaxat illius spo<lb ed="#P" break="no" n="26"/>liarent 
+          scilicet in primo ingressu illorum sua 
+          <lb ed="#P" n="27"/>dignitate vel regno si rex fuerat: omnia 
+          <lb ed="#P" n="28"/><sic>euerti</sic> prouincias bellico tumultu concuti
+          <lb ed="#P" n="29"/>Reciperet ne gratiose cum letitia bonum 
+          <lb ed="#P" n="30"/>illud solueretque libenter expensas ubi 
+          <lb ed="#P" n="31"/>iam cum temporis intervallo linguam in<lb ed="#P" break="no" n="32"/>telligerent 
+          adinvicem? Opinor quod non. Quid
+          <pb ed="#P" n="29-v"/>
+          <lb ed="#P" n="1"/>est cogere ad fidem si hoc non est neque est 
+          <lb ed="#P" n="2"/>simplex coactio: sed mortibus et bellico 
+          <lb ed="#P" n="3"/>terrore quo non aliud maius? Noua (in<lb ed="#P" break="no" n="4"/>quit 
+          <lb ed="#P" n="5"/><name xml:id="lca8s8-d1e737-Nd1e546">Gregorius</name> in loco supra citato) atque 
+          <lb ed="#P" n="6"/>inaudita est ista predicatio quae verberi<lb ed="#P" break="no" n="7"/>bus 
+          exigit fidem
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

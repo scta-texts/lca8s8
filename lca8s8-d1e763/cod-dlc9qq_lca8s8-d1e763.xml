@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 55 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <editor ref="#jeffreycwitt">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 55 [Bnf 12926 Transcription]</title>
+          <date when="2024-05-23">May 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="232-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e750">
+        <head xml:id="lca8s8-d1e750-Hd1e90">Caput 55 [Bnf 12926 Transcription]</head>
+        <!-- P: https://gallica.bnf.fr/ark:/12148/btv1b9080777g/f236.item.zoom -->
+        <p xml:id="lca8s8-d1e750-d1e94">
+          <pb ed="#P" n="232-r"/>
+          <lb ed="#P" n="1"/>Caput 55m
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e101">
+          <lb ed="#P" n="2"/><pc type="pilcrow"/> Non aduersatur his quod sanctus Thomas 
+          <lb ed="#P" n="3"/>scribit 2a 2ae, q. 10 argumento 10 in corpore Infide<lb ed="#P" break="no" n="4"/>les 
+          inquit: merito suae infidelitatis me<lb ed="#P" break="no" n="5"/>rentur 
+          potestatem amittere super fideles: 
+          <lb ed="#P" n="6"/>qui transferuntur in filios Dei. Haec con<lb ed="#P" break="no" n="7"/>gruere 
+          videntur opinioni Ioanis Maioris 
+          <lb ed="#P" n="8"/>sed ipse Thomas opinionem suam exponit 
+          <lb ed="#P" n="9"/>in corpore quaestionis et in solutione 2i 
+          <lb ed="#P" n="10"/>argumenti ubi docet quod cum regna sint 
+          <lb ed="#P" n="11"/>de Iure gentium deriuato a iure natura<lb ed="#P" break="no" n="12"/>li 
+          Et distinctio fidelis et infidelis sit 
+          <lb ed="#P" n="13"/>de jure diuino et ius diuinum non abole<lb ed="#P" break="no" n="14"/>at 
+          ius humanum deriuatum a Iure di<lb ed="#P" break="no" n="15"/>uino 
+          certe infidelitas absolute considera<lb ed="#P" break="no" n="16"/>ta 
+          non abolet Iurisdictionem principis 
+          <lb ed="#P" n="17"/>infidelis super subditos fideles. In res<lb ed="#P" break="no" n="18"/>ponsione 
+          autem ad 2m scribit quod imperium 
+          <lb ed="#P" n="19"/><name xml:id="lca8s8-d1e750-Nd1e142">Neronis</name> et eius Iurisdictio quae seculo di<lb ed="#P" break="no" n="20"/>ui 
+          Pauli florebat: non abolebatur etiam 
+          <lb ed="#P" n="21"/>Si subditi eius imperio conuerterentur 
+          <lb ed="#P" n="22"/>ad fidem. Ergo nisi subesset aliqua no<lb ed="#P" break="no" n="23"/>ua 
+          et Iusta causa propter quam domini<lb ed="#P" break="no" n="24"/>um 
+          et Iurisdictionem amittere mereretur: 
+          <lb ed="#P" n="25"/>semper subditi ei christiani permanebant 
+          <lb ed="#P" n="26"/>Ergo ilia prima verba sancti Thomae necessario 
+          <lb ed="#P" n="27"/>intelligenda sunt quando est aliquod 
+          <lb ed="#P" n="28"/>magnum et probabile fidei periculum si 
+          <lb ed="#P" n="29"/>paganus regnet. Puta si tyranice et vio<lb ed="#P" break="no" n="30"/>lenter 
+          tractet subditos suos ob id quod fidem 
+          <lb ed="#P" n="31"/>susceperint: vel si blasphemus esset in chris<pb ed="#P" n="232-v"/><lb ed="#P" break="no" n="1"/>tum 
+          vel si aliquid faceret aut diceret quod ipsius gloriam obscuraret Has cau<lb ed="#P" break="no" n="2"/>sas 
+          assignat <ref xml:id="lca8s8-d1e750-Rd1e175">sanctus Thomas articulo 8 eiusdem quaes<lb ed="#P" break="no" n="3"/>tionis</ref> 
+          Cum principibus autem talia per<lb ed="#P" break="no" n="4"/>petrantibus 
+          quid sit agendum Iam su<lb ed="#P" break="no" n="5"/>pra 
+          docuimus in casu 4o. Quod si prin<lb ed="#P" break="no" n="6"/>ceps 
+          vexaret suos directe, in odium fi<lb ed="#P" break="no" n="7"/>dei 
+          ipso Iure priuatus esset regno vel 
+          <lb ed="#P" n="8"/>saltem per sententiam priuari posset 
+          <lb ed="#P" n="9"/>ab ecclesia ex potestate illi a Deo comis<lb ed="#P" break="no" n="10"/>sa. 
+          Ut ibi notat sanctus Thomas. Hoc casu 
+          <lb ed="#P" n="11"/>quadrat argumentum illud <name xml:id="lca8s8-d1e750-Nd1e198">Ioanis Maioris</name> 
+          <lb ed="#P" n="12"/>quod ad probationem suae 2ae conclu<lb ed="#P" break="no" n="13"/>sionis 
+          adducit scilicet quod sicut regulus 
+          <lb ed="#P" n="14"/>subditus regi inducens suos ad rebellan<lb ed="#P" break="no" n="15"/>dum 
+          aduersus regem posset licite priuari 
+          <lb ed="#P" n="16"/>ditione sua ita etiam princeps conten<lb ed="#P" break="no" n="17"/>dens 
+          ut sui resiliant a fide christi cui 
+          <lb ed="#P" n="18"/>omnia coelestia et terrestria subdita sunt 
+          <lb ed="#P" n="19"/>privari debet regno. 
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e218">
+          Attamen extra <!-- possible deletion here --> 
+          <lb ed="#P" n="20"/>hunc casum non quadrat. Quid enim si 
+          <lb ed="#P" n="21"/>princeps non impediat suos suscipere 
+          <lb ed="#P" n="22"/>fidem Christi? vel quid si subditi no<lb ed="#P" break="no" n="23"/>lint 
+          eam suscipere? Certe hic nihil ad rem facit 
+          <lb ed="#P" n="24"/>ratio Ioannis Maioris, presertim 
+          <lb ed="#P" n="25"/>erga infideles qui numquam de christo vel 
+          <lb ed="#P" n="26"/>fide aut ecclesia eius aliquid audierunt 
+          <lb ed="#P" n="27"/>quando ergo sanctus doctor dixit quod infi<lb ed="#P" break="no" n="28"/>deles 
+          merito suae infidelitatis merentur 
+          <lb ed="#P" n="29"/>potestatem amittere supra fideles: hoc 
+          <lb ed="#P" n="30"/>intendit supponendo scilicet aliquam condi<pb ed="#P" n="233-r"/><lb ed="#P" break="no" n="1"/>tionem 
+          repugnantem fidei profectui 
+          <lb ed="#P" n="2"/>Verum quoniam ecclesia ex pluribus et antiquioribus seculis experientia do<lb ed="#P" break="no" n="3"/>cente:
+          supponit obstinatam Iudaeorum 
+          <lb ed="#P" n="4"/>caecitatem: et impiam Sarracenorum 
+          <lb ed="#P" n="5"/>truculentiam qui ex professo opugnant 
+          <lb ed="#P" n="6"/>euangelium christi: in his quidem in<lb ed="#P" break="no" n="7"/>fidelibus 
+          qui ecclesiae vel membris eius 
+          <lb ed="#P" n="8"/>subditi sunt Iudicabit seruum Iudaeorum 
+          <lb ed="#P" n="9"/>vel Maurorum libertatem consequi si 
+          <lb ed="#P" n="10"/>agnoscat veritatem christi ut in <ref xml:id="lca8s8-d1e750-Rd1e269" target="http://scta.info/resource/gd-p1d54-d1e304">c. man<lb ed="#P" break="no" n="11"/>cipia</ref>
+          et in <ref xml:id="lca8s8-d1e750-Rd1e274" target="http://scta.info/resource/gd-p1d54-d1e335"><add place="above-line">c.</add> Fraternitatem, 54 distinctio</ref>, et 
+          <lb ed="#P" n="12"/>in <ref xml:id="lca8s8-d1e750-Rd1e281" target="http://scta.info/resource/cice-l5t6-d1e392">c. ultimo de Iudaeis</ref>. Quoniam ecclesia 
+          <lb ed="#P" n="13"/>credit illos pro viribus laboraturos vt 
+          <lb ed="#P" n="14"/>seruus ad fidem conuersus ab ea resiliat. 
+          <lb ed="#P" n="15"/>Idem posset disponere ecclesia de seruis Iu<lb ed="#P" break="no" n="16"/>deorum 
+          vel Sarracenorum qui nobis non sunt 
+          <lb ed="#P" n="17"/>subditi. Quod tamen non facit ne scan<lb ed="#P" break="no" n="18"/>dalum 
+          oriatur. Haec docuit <ref xml:id="lca8s8-d1e750-Rd1e297" target="http://scta.info/resource/TAca84-d1e1324-Dd1e184"><!-- target imprecise -->sanctus Thomas 
+          <lb ed="#P" n="19"/>in illo articulo</ref>
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e308">
+          Hanc autem ese rationem 
+          <lb ed="#P" n="20"/>constitutionis probatur in <ref xml:id="lca8s8-d1e750-Rd1e302" corresp="#lca8s8-d1e750-Qd1e305">dicto c. man<lb ed="#P" break="no" n="21"/>cipia</ref>. 
+          ibi: <quote xml:id="lca8s8-d1e750-Qd1e305" source="http://scta.info/resource/gd-p1d54-d1e304@1-21">mancipia christiana quaecumque 
+          <lb ed="#P" n="22"/>Iudaeum comparasse patuerit: ad liberta<lb ed="#P" break="no" n="23"/>tem 
+          Iuxta legem precepta sine omni am<lb ed="#P" break="no" n="24"/>biguitate 
+          perducite: ne (quod absit) reli<lb ed="#P" break="no" n="25"/>gio 
+          christiana Iudaeis subiecta polluatur</quote> 
+          <lb ed="#P" n="26"/>haec ibi. Facit textus in <ref xml:id="lca8s8-d1e750-Rd1e327" target="http://scta.info/resource/cice-l3t33-d1e134">c. ex literis 
+          <lb ed="#P" n="27"/>de conuersione infidelium</ref> Quia vero 
+          <lb ed="#P" n="28"/>ecclesia in turcis et sarracenis ex vetus<lb ed="#P" break="no" n="29"/>tissima 
+          experientia habet pro completa 
+          <lb ed="#P" n="30"/>dicta conditione: quod scilicet semper parati 
+          <pb ed="#P" n="233-v"/>
+          <lb ed="#P" n="1"/>sunt ad impugnandum fidem et tur<lb ed="#P" break="no" n="2"/>bandum 
+          populum christianum. Ideo 
+          <lb ed="#P" n="3"/>merito semper parata modo facultas ad<lb ed="#P" break="no" n="4"/>sit 
+          illos inuadere: etiam si per aliquot 
+          <lb ed="#P" n="5"/>annos ab infestatione cessarent. Ubi autem 
+          <lb ed="#P" n="6"/>ratio ilia cessare contigerit vt in infide<lb ed="#P" break="no" n="7"/>libus 
+          qui nec ecclesiam nec populum chris<lb ed="#P" break="no" n="8"/>tianum 
+          <seg type="correction"><subst><del rend="strikethrough">m</del><add>n</add></subst>ouerunt</seg> qui nec de christo aut 
+          <lb ed="#P" n="9"/>fide catholica quicquam audierunt ut est mani<lb ed="#P" break="no" n="10"/>festum 
+          in nostris indis: certe illud ius 
+          <lb ed="#P" n="11"/>constitutum per ecclesiam locum mini<lb ed="#P" break="no" n="12"/>me 
+          habebit. 
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e376">
+          <pc type="pilcrow"/> Confirmantur haec omnia 
+          <lb ed="#P" n="13"/>ex verbis <ref xml:id="lca8s8-d1e750-Rd1e382" corresp="#lca8s8-d1e750-Qd1e387">sancti Thomae articulo 1o eiusdem decimae 
+          <lb ed="#P" n="14"/>quaestionis</ref> ubi scribit <quote xml:id="lca8s8-d1e750-Qd1e387" source="http://scta.info/resource/TAca84-d1e1324-d1e297@1-32" type="paraphrase">infidelitatem eorum 
+          <lb ed="#P" n="15"/>qui numquam fidem audierunt, et qui non 
+          <lb ed="#P" n="16"/>resistunt ei <del rend="strikethrough">quod illa oderint</del> non habere ra<lb ed="#P" break="no" n="17"/>tionem 
+          culpae, sed poenae. Quoniam primo<lb ed="#P" break="no" n="18"/>rum 
+          parentum peccato ignoramus res diui<lb ed="#P" break="no" n="19"/>nas</quote> 
+          et quamquam tales infideles in eter<lb ed="#P" break="no" n="20"/>num <del rend="strikethrough"><add place="above-line">non</add></del><add place="margin-left">damnentur</add> ratione pec<lb ed="#P" break="no" n="21"/>catorum 
+          quae committunt quae absque christianis 
+          <lb ed="#P" n="22"/>sacramentis purgari non possunt <add place="margin-left">non tamen quia non crediderunt in christum de quo nihil unquam audierunt</add> Ergo nul<lb ed="#P" break="no" n="23"/>lo 
+          modo dicendum est infideles debere ra<lb ed="#P" break="no" n="24"/>tione 
+          suae infidelitatis: amittere Iurisdi<lb ed="#P" break="no" n="25"/>ctionem 
+          et potestatem quam habent super subditos suos ex eo quod subditi fidem sus<lb ed="#P" break="no" n="26"/>cipiant 
+          ipsi autem illam nolint suscipere 
+          <lb ed="#P" n="27"/>presertim si non obstinati animi peruica<lb ed="#P" break="no" n="28"/>tia: 
+          sed ignorantia vel volentes plenius 
+          edoceri desinant fidem suscipere. Cum me<lb ed="#P" break="no" n="29"/>ritum 
+          subditorum transeuntium ad chris<lb ed="#P" break="no" n="30"/>tianam 
+          militiam: non addat nouum pec<pb ed="#P" n="234-r"/><lb ed="#P" break="no" n="1"/>catum 
+          ipsis principibus in infidelitate 
+          <lb ed="#P" n="2"/>remanentibus. Ut diximus. Difficile 
+          <lb ed="#P" n="3"/>enim est paganis vetustissimam fidem 
+          <lb ed="#P" n="4"/>suam relinquere autore Chrisostomo ho<lb ed="#P" break="no" n="5"/>mel. 7 super I ad Corinthios c. 2.
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e453">
+          Ergo sanctus Thomas intelligit de principibus tur<lb ed="#P" break="no" n="6"/>carum 
+          vel maurorum qui tempore suo 
+          <lb ed="#P" n="7"/>noti erant in mundo <subst><del>esse</del> <add place="above-line">qui sum</add></subst> hostes chris<lb ed="#P" break="no" n="8"/>tianorum 
+          quia non solum non patiuntur 
+          <lb ed="#P" n="9"/>subditos suos fidem christianam sus<lb ed="#P" break="no" n="10"/>cipere: 
+          verum etiam vniuersam christi
+          <lb ed="#P" n="11"/>religionem funditus cupiunt Iamdiu 
+          <lb ed="#P" n="12"/>fuisse extinctam et christianos genera<lb ed="#P" break="no" n="13"/>liter 
+          omni loco et omni tempore quoad 
+          <lb ed="#P" n="14"/>possunt non sinunt tranquillam agere 
+          <lb ed="#P" n="15"/>vitam. Hic verus est sensus verborum 
+          <lb ed="#P" n="16"/>sancti Thomae: alias parum sibi constaret 
+          <lb ed="#P" n="17"/>vir ille diuersa scribendo: quod dicen<lb ed="#P" break="no" n="18"/>dum 
+          non est de sancti doctoris doctrina 
+          <lb ed="#P" n="19"/>In dubio autem ille sensus est amplectendus 
+          <lb ed="#P" n="20"/>tanquam germanus <add place="above-line">qui</add> repugnantiam tollit, 
+          et diuersas prima specie sententias redi<lb ed="#P" break="no" n="21"/>git 
+          in concordiam secundum Iuristas vt in <ref xml:id="lca8s8-d1e750-Rd1e499" target="http://scta.info/resource/cice-l3t42-d1e149">c. 
+          <lb ed="#P" n="22"/>maiores: de baptismo</ref> et in <ref xml:id="lca8s8-d1e750-Rd1e504" target="http://scta.info/resource/cice-l2t28-d1e923">c. sollicitu<lb ed="#P" break="no" n="23"/>dinem 
+          de appellationibus</ref>. Et in ll. vbi 
+          <lb ed="#P" n="24"/>repugnantia, ff. de regulis juris. Hanc 
+          <lb ed="#P" n="25"/>nostram determinationem nominatim 
+          <lb ed="#P" n="26"/>probant <ref xml:id="lca8s8-d1e750-Rd1e516" target="http://scta.info/resource/jsnvu6-e146938-d1e441"><name xml:id="lca8s8-d1e750-Nd1e517">Durandus</name> 2o Sententiarum distinctio 44 
+          <lb ed="#P" n="27"/>q. 3</ref> <ref xml:id="lca8s8-d1e750-Rd1e522"><name xml:id="lca8s8-d1e750-Nd1e523">Abulensis</name> super Mattheum, c. 20. 
+          <lb ed="#P" n="28"/>q. 96a</ref>. <ref xml:id="lca8s8-d1e750-Rd1e528"><name xml:id="lca8s8-d1e750-Nd1e529">Albertus Campensis</name> ecclesiasticae 
+          <pb ed="#P" n="234-v"/>
+          <lb ed="#P" n="1"/>hierarchiae libro 5</ref> et <ref xml:id="lca8s8-d1e750-Rd1e536">libro controuersiarum 
+          <lb ed="#P" n="2"/>controuersia 16</ref>. <ref xml:id="lca8s8-d1e750-Rd1e541"><name xml:id="lca8s8-d1e750-Nd1e542">Ioanes Driedonius</name> de 
+          <lb ed="#P" n="3"/>libertate ecclesiastica parte 1a. c. 1o.</ref> <ref xml:id="lca8s8-d1e750-Rd1e547">Et 
+          <lb ed="#P" n="4"/>parte 4a in principio</ref> Et <ref xml:id="lca8s8-d1e750-Rd1e553">sententia 7a</ref>, et <ref xml:id="lca8s8-d1e750-Rd1e555">parte 5 c. 2. parte 2</ref> et
+          <ref xml:id="lca8s8-d1e750-Rd1e557">parte 3a</ref>
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e560">
+          Horum autem sententia in principibus 
+          <lb ed="#P" n="5"/>indis multo magis indubitata est. Et 
+          <lb ed="#P" n="6"/>sic patet <name xml:id="lca8s8-d1e750-Nd1e566">Ioanem de Maioris</name> multum 
+          <lb ed="#P" n="7"/>in errore excessisse quando dixit quod prin<lb ed="#P" break="no" n="8"/>ceps 
+          infidelis si conuerso eius populo 
+          <lb ed="#P" n="9"/>ad fidem ipse voluerit remanere in sua 
+          <lb ed="#P" n="10"/>perfidia a suo principatu debeat depo<lb ed="#P" break="no" n="11"/>ni 
+          propter libertatem fidei
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

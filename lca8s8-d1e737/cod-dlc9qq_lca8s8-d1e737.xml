@@ -4,7 +4,11 @@
       <titleStmt>
         <title>Caput 53 [Bnf 12926 Transcription]</title>
         <author ref="#per-bdlcbd">Bartolome de las Casas</author>
-        <editor ref="#jeffreycwitt">Jeffrey C. Witt</editor>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">

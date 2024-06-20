@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 63 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 63 [Bnf 12926 Transcription]</title>
+          <date when="2024-06-20">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="252-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e868">
+        <p xml:id="lca8s8-d1e868-d1e97">
+          <lb ed="#P" n="12"/>CPut. 63m
+        </p>
+        <p xml:id="lca8s8-d1e868-d1e102">
+          <lb ed="#P" n="13"/><pc type="pilcrow"/> Rursus <name xml:id="lca8s8-d1e868-Nd1e107">Sepulueda</name> in sui erroris con<lb ed="#P" break="no" n="14"/>firmationem 
+          notat aliud verbum <ref xml:id="lca8s8-d1e868-Rd1e111">eiusdem 
+          <lb ed="#P" n="15"/>bullae Alexandri 6i</ref> qua pontifex dicit 
+          <lb ed="#P" n="16"/>se nihil magis desiderare quam exaltationem
+          <lb ed="#P" n="17"/>gloriae christi, et ut barbari deprimantur. 
+          <lb ed="#P" n="18"/>Haec ultima veluti <name xml:id="lca8s8-d1e868-Nd1e123">Achilaeum</name> argumentum nobis 
+          <lb ed="#P" n="19"/>obiicit <name xml:id="lca8s8-d1e868-Nd1e127">Sepulueda</name>: si tamen tota bullae se<lb ed="#P" break="no" n="20"/>ries 
+          legatur: manifeste patebit horum ca<lb ed="#P" break="no" n="21"/>lumnia 
+          ne dicam impudentia. Res sic habet: 
+          <lb ed="#P" n="22"/>pontifex collaudat catholicorum regum stu<lb ed="#P" break="no" n="23"/>dium, 
+          et cum multo verborum honore refert 
+          <lb ed="#P" n="24"/>Granatensis regni victoriam deuicto saeuo 
+          <lb ed="#P" n="25"/>et barbaro hoste toto orbe notissimam. his 
+          <lb ed="#P" n="26"/>verbis. Vnde cum ad hanc Petri sedem 
+          <lb ed="#P" n="27"/>euocati fuerimus cognoscentes vos tamquam 
+          <lb ed="#P" n="28"/>veros catholicos reges et principes semper 
+          <lb ed="#P" n="29"/>fuisse nouimus, et a vobis praeclare gesta 
+          <pb ed="#P" n="252-v"/>
+          <lb ed="#P" n="1"/>toti pene Iam orbi notissima demonstrant: 
+          <lb ed="#P" n="2"/>nedum id exhortare: sed omni conatu studio  
+          <lb ed="#P" n="3"/>et diligentia nullis laboribus. Et infra: quem<lb ed="#P" break="no" n="4"/>admodum 
+          recuperatio regni Granatae a ty<lb ed="#P" break="no" n="5"/>ranide 
+          Sarracenorum hodiernis temporibus 
+          <lb ed="#P" n="6"/>per vos cum tanta diuini nominis gloria 
+          <lb ed="#P" n="7"/>facta testatur.
+        </p>
+        <p xml:id="lca8s8-d1e868-d1e169">
+          Ex his verbis ellicitur 
+          <lb ed="#P" n="8"/>verba pontificis dicentis se nihil magis op<lb ed="#P" break="no" n="9"/>tare 
+          quam videre barbaros depressos: referri 
+          <lb ed="#P" n="10"/>ad mauros Granatenses, qui barbari sunt 
+          <lb ed="#P" n="11"/>ut supra dixi et ad alios barbaros nominis 
+          <lb ed="#P" n="12"/>christiani hostes infestissimos. Nihil ergo 
+          <lb ed="#P" n="13"/>faciunt ad confirmationem impiae opinio<lb ed="#P" break="no" n="14"/>nis 
+          illa bullae verba. Romanus enim 
+          <lb ed="#P" n="15"/>pontifex quomodo probare potuit: quod 
+          <lb ed="#P" n="16"/>longissime distat a doctrina Christi: ut 
+          <lb ed="#P" n="17"/>supra satis argumentatum fuit? 
+        </p>
+        <p xml:id="lca8s8-d1e868-d1e193">
+          <pc type="pilcrow"/> Haec 
+          <lb ed="#P" n="18"/>habui: quae pro modulo gratiae mihi do<lb ed="#P" break="no" n="19"/>natae 
+          proferrem: pro defensione huius lon<lb ed="#P" break="no" n="20"/>ge 
+          sanctissimae causae cum christiana pie<lb ed="#P" break="no" n="21"/>tate 
+          coniunctae. Quod superest <name xml:id="lca8s8-d1e868-Nd1e206">Sepuluedam fratrem</name> et collegam in Christo caeterosque in<lb ed="#P" break="no" n="22"/>dorum 
+          hostes, hortor ac moneo, per Iesum 
+          <lb ed="#P" n="23"/>christum: ut verbis domini obtemperent 
+          <lb ed="#P" n="24"/>sanctorumque patrum traditionibus auscul<lb ed="#P" break="no" n="25"/>tent 
+          reuereanturque: ac timeant Deum per<lb ed="#P" break="no" n="26"/>uersarum 
+          molitionum ultorem. Indi fra<lb ed="#P" break="no" n="27"/>tres 
+          nostri sunt pro quibus Christus impen<lb ed="#P" break="no" n="28"/>dit 
+          animam suam: cur eos nihil tale meri<lb ed="#P" break="no" n="29"/>tos 
+          tam immani seuitia <del>et bellicus appara</del>
+          <pb ed="#P" n="253-r"/>
+          <lb ed="#P" n="1"/>persequimur? <seg type="correction">Preter<subst><del rend="strikethrough">itos</del><add place="above-line">ita</add></subst></seg> quoniam in facta fieri non
+          <lb ed="#P" n="2"/>possunt: tribuantur infirmitati nostrae <pc type="virgula">/</pc> dum<lb ed="#P" break="no" n="3"/>modo 
+          adsit restitutio impie raptorum
+        </p>
+        <p xml:id="lca8s8-d1e868-d1e248">
+          De<lb ed="#P" break="no" n="4"/>inceps 
+          vero absit omnis saeuitia et bellicus 
+          <lb ed="#P" n="5"/>apparatus Machometanis aptior quam christia<lb ed="#P" break="no" n="6"/>nis. 
+          mittantur ad eos integri precones, qui 
+          <lb ed="#P" n="7"/>Iesum christum moribus exprimant Petrique 
+          <lb ed="#P" n="8"/>ac Pauli spiritus referant. Amplectentur illi 
+          <lb ed="#P" n="9"/>sat scio euangelicam doctrinam. Non enim 
+          <lb ed="#P" n="10"/>stupidi seu barbari sunt: sed innata qua<lb ed="#P" break="no" n="11"/>dam 
+          sinceritate <pc type="virgula">/</pc> simplices modesti <pc type="virgula">/</pc> man<lb ed="#P" break="no" n="12"/>sueti 
+          denique tales ut nesciam sit ne aliqua 
+          <lb ed="#P" n="13"/>gens aptior suscipiendo euangelio. Quod 
+          <lb ed="#P" n="14"/>semel susceptum, mirum <add place="above-line">est</add> qua pietate, quo 
+          <lb ed="#P" n="15"/>ardore <pc type="virgula">/</pc> qua fide et charitate christi praecepta 
+          <lb ed="#P" n="16"/>praestent: sacramentaque venerentur. Sunt 
+          <lb ed="#P" n="17"/>enim dociles et ingeniosi: industriaque ac 
+          <lb ed="#P" n="18"/>naturae dotibus plurimas cogniti orbis gen<lb ed="#P" break="no" n="19"/>tes 
+          superant: quod secunda huius nostrae apo<lb ed="#P" break="no" n="20"/>logiae 
+          pars hyspanicae scripta liquidissimis 
+          <lb ed="#P" n="21"/>rationibus exemplis, ac vera eius orbis des<lb ed="#P" break="no" n="22"/>criptione
+          omnibus ob oculos ponet: vt deinceps 
+          <lb ed="#P" n="23"/>sileant impiissimi praedones: qui virulentis 
+          <lb ed="#P" n="24"/>obtrectationibus et criminosis mendaciis gen<lb ed="#P" break="no" n="25"/>tem 
+          omnium sincerissimam <pc type="virgula">/</pc> docilem mo<lb ed="#P" break="no" n="26"/>destam
+          et ingeniosam infamarunt
+        </p>
+        <p xml:id="lca8s8-d1e868-d1e317">
+          <lb ed="#P" n="27"/>Deo gratias
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

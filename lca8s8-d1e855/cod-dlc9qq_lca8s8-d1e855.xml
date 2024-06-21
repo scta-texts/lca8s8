@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 62 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 62 [Bnf 12926 Transcription]</title>
+          <date when="2024-06-20">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="250-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e855">
+        <p xml:id="lca8s8-d1e855-d1e97">
+          <lb ed="#P" n="30"/>CAPut 62m
+        </p>
+        <p xml:id="lca8s8-d1e855-d1e102">
+          <lb ed="#P" n="31"/><pc type="pilcrow"/> Verbum ergo illud contentum in bulla
+          <pb ed="#P" n="250-v"/>
+          <lb ed="#P" n="1"/>subiicere <del rend="strikethrough">cuilibet</del> ciuiliter et christiane 
+          <lb ed="#P" n="2"/>intelligendum est: quod ultra superiora 
+          <lb ed="#P" n="3"/>probatur ex vulgatis iuris principiis quod 
+          <lb ed="#P" n="4"/>quaelibet lex vel constitutio debet ampliari 
+          <lb ed="#P" n="5"/>vel restringi: ad limites rationis expres<lb ed="#P" break="no" n="6"/>sae: 
+          etiam si verba non patiantur vt in L. 
+          <lb ed="#P" n="7"/>adigere. §. quamuis. ff. de Iure patio et in l. 
+          <lb ed="#P" n="8"/>cum pater, § dulcissimis. ff. de le<lb ed="#P" break="no" n="9"/>gatis 
+          <lb ed="#P" n="10"/>2o et in L. pater. §. fundum. ff. de le<lb ed="#P" break="no" n="11"/>ga. 
+          3o et in c. cum dilecta de confir. vtili. 
+          <lb ed="#P" n="12"/>Et in <ref xml:id="lca8s8-d1e855-Rd1e138">regula fi. de regulis Iuris. lib. 6</ref> vbi di<lb ed="#P" break="no" n="13"/>citur: 
+          <quote xml:id="lca8s8-d1e855-Qd1e143" source="http://scta.info/resource/wef6td-d1e1612-d1e735">certum <sic>esse</sic> quod is committit in legem: 
+          <lb ed="#P" n="14"/>qui legis verba complectens: contra legis ni<lb ed="#P" break="no" n="15"/>titur 
+          voluntatem</quote>. Semperque mens principis 
+          <lb ed="#P" n="16"/>est inspicienda obseruanda et sequenda 
+          <lb ed="#P" n="17"/>etiam si proprietati verborum non conue<lb ed="#P" break="no" n="18"/>niat 
+          in dicto § dulcissimis. Semper enim 
+          <lb ed="#P" n="19"/>mens dicentis consideranda est potius quam 
+          <lb ed="#P" n="20"/>vox. ff. de suppellecti. lega. L. labeo. Nec 
+          <lb ed="#P" n="21"/>plus verbum quam voluntas loquentis inspi<lb ed="#P" break="no" n="22"/>ci 
+          debet. c. quae res pigno. obliga. possunt. 
+          <lb ed="#P" n="23"/>l. ultima Et <ref xml:id="lca8s8-d1e855-Rd1e169" target="http://scta.info/resource/gd-p2c22q5-d1e297">22. q. 5 c. humanae aures.</ref> 
+          <lb ed="#P" n="24"/>et in l. scire leges: cum duabus sequen. ff. 
+          <lb ed="#P" n="25"/>de legi. et notatur in l. quamuis et ibi glossa. finalis. ff. 
+          <lb ed="#P" n="26"/>de in ius vocando <name xml:id="lca8s8-d1e855-Nd1e179">Panormitanus</name> et alii in c. quia 
+          <lb ed="#P" n="27"/>insulis de regularibus post <name xml:id="lca8s8-d1e855-Nd1e183">Ioanem de lignano</name> 
+          <lb ed="#P" n="28"/>in c. audientiam. de decimis. Verba enim 
+          <lb ed="#P" n="29"/>intentioni non vero intentio verbis serui<lb ed="#P" break="no" n="30"/>re 
+          debet: ut supra probatum est. Et <name xml:id="lca8s8-d1e855-Nd1e192">Ioannes 
+          <lb ed="#P" n="31"/>de Lignano</name> in c. ad audientiam de <sic>de<pb ed="#P" n="251-r"/><lb ed="#P" break="no" n="1"/>mis</sic> Et generaliter in litteris principis 
+          <lb ed="#P" n="2"/>mens est consideranda: et ratio qua eius man<lb ed="#P" break="no" n="3"/>data 
+          innituntur ut in c. si propter tua debita et ibi doctores. 
+          <lb ed="#P" n="4"/><ref xml:id="lca8s8-d1e855-Rd1e209"><name xml:id="lca8s8-d1e855-Nd1e210">Ancharranus</name> in repetitione 
+          <lb ed="#P" n="5"/>eiusdem capitis de Rescriptis libro 6.</ref> et <ref xml:id="lca8s8-d1e855-Rd1e215">in 
+          <lb ed="#P" n="6"/>c. 2, eo titulo</ref> et <ref xml:id="lca8s8-d1e855-Rd1e220">c. ultimo de concessione
+          <lb ed="#P" n="7"/>praebendae libro 6</ref>, et in <ref xml:id="lca8s8-d1e855-Rd1e225">c. ex multiplici de deci<lb ed="#P" break="no" n="8"/>mis.</ref> 
+          <ref xml:id="lca8s8-d1e855-Rd1e230">Archidiaconnus. 25. q. 2. c. Seruatis.</ref> 
+          <lb ed="#P" n="9"/>inquit, quod ubi apparet de intentione papae ilia 
+          <lb ed="#P" n="10"/>omnino est sequenda. Item, quod verba papae enun<lb ed="#P" break="no" n="11"/>ciatiua 
+          intentionis ab olim disponunt et 
+          <lb ed="#P" n="12"/>probant. <ref xml:id="lca8s8-d1e855-Rd1e241" target="http://scta.info/resource/gd-p2c25q2-d1e106"><!-- canon 6 servatis is suggested which would be http://scta.info/resource/gd-p2c25q2-d1e190, but "quod autem" matches the incipit of the opening dictum which is the current target-->25. q. 2. § quod autem</ref> Ista refert 
+          <lb ed="#P" n="13"/>et firmat <name xml:id="lca8s8-d1e855-Nd1e247">baldus</name> in prohemio libri feudorum
+          <lb ed="#P" n="14"/>§ aliqua in principio.
+        </p>
+        <p xml:id="lca8s8-d1e855-d1e253">
+          Mens autem pontifi<lb ed="#P" break="no" n="15"/>cis 
+          fuit ut illae gentes ad christum adduce<lb ed="#P" break="no" n="16"/>rentur. 
+          Hoc autem nequaquam fieri potest bello 
+          <lb ed="#P" n="17"/>quod potius religionis nostrae odium quam amo<lb ed="#P" break="no" n="18"/>rem
+          <lb ed="#P" n="19"/>gignit. Ergo mansuetudine chari<lb ed="#P" break="no" n="20"/>tate 
+          sanctis moribus et verbo Dei addu<lb ed="#P" break="no" n="21"/>cendi 
+          sunt indi ad fidem non bello de 
+          <lb ed="#P" n="22"/>quo numquam pontifex somniauit (vt saepe 
+          <lb ed="#P" n="23"/>diximus) et reges ipsi non bello sed ver<lb ed="#P" break="no" n="24"/>bo 
+          Dei gentes illas subigendas intellexerunt 
+          <lb ed="#P" n="25"/>sibi mandatum a pontifice ut supra ma<lb ed="#P" break="no" n="26"/>nifestissime 
+          probatum est. His congruit 
+          quod in odiosis verba sunt stricte interpretan<lb ed="#P" break="no" n="27"/>da 
+          Fauorabilia autem amplianda et di<lb ed="#P" break="no" n="28"/>latanda 
+          sunt. <quote xml:id="lca8s8-d1e855-Qd1e285" source="http://scta.info/resource/wef6td-d1e1612-d1e213">Odia restringi et fauores 
+          <lb ed="#P" n="29"/>conuenit ampliari</quote> <ref xml:id="lca8s8-d1e855-Rd1e290">c. odia de regulis juris 
+          <lb ed="#P" n="30"/>lib. 6.</ref> Bellum autem quod ab inferis mitti 
+          <pb ed="#P" n="251-v"/>
+          <lb ed="#P" n="1"/><name xml:id="lca8s8-d1e855-Nd1e299">Homerus</name> scribit omnium quae sub coelo sunt 
+          <lb ed="#P" n="2"/>miserrimum et pestilentissimum est: et cum 
+          <lb ed="#P" n="3"/>christi vita et doctrina prorsus pugnans 
+          <lb ed="#P" n="4"/>nisi quando ineuitabilis necessitas ad id 
+          <lb ed="#P" n="5"/>cogit Inuitare autem verbo Dei et euangelicis 
+          <lb ed="#P" n="6"/>moribus paganos ad fidem sanctissimum 
+          <lb ed="#P" n="7"/>est et vere christianum et aptum ad dila<lb ed="#P" break="no" n="8"/>tandum 
+          et exaltandum christi gloriam 
+        </p>
+        <p xml:id="lca8s8-d1e855-d1e317">
+          <pc type="pilcrow"/> Res<lb ed="#P" break="no" n="9"/>tringamus ergo bellum corporis et animae pes<lb ed="#P" break="no" n="10"/>tem: 
+          et amplectamur euangelicam praedica<lb ed="#P" break="no" n="11"/>tionem 
+          et gladium verbi diuini omnibus 
+          <lb ed="#P" n="12"/>humanis armis efficaciorem. His acce<lb ed="#P" break="no" n="13"/>dit 
+          quod etiam illa quae regulariter restrin<lb ed="#P" break="no" n="14"/>gi 
+          debent veluti poenae: ampliantur <pc type="virgula">/</pc> Si 
+          <lb ed="#P" n="15"/>agitur de publica vtilitate autore Bar<lb ed="#P" break="no" n="16"/>tho. 
+          in l. quemadmodum. C. de agricol. 
+          <lb ed="#P" n="17"/>et censib. haec autem pertinent ad publicam 
+          <lb ed="#P" n="18"/>illarum gentium salutem: ut non bello mor<lb ed="#P" break="no" n="19"/>talibus 
+          exitiali: sed verbo dei adducantur 
+          <lb ed="#P" n="20"/>ad fidem et ad regum hyspaniae imperium 
+          <lb ed="#P" n="21"/>Bello enim potius fiet ut odio habeant fi<lb ed="#P" break="no" n="22"/>dem 
+          quam ut eam amplectantur. Deinde 
+          <lb ed="#P" n="23"/>nullam utilitatem magis publicam esse 
+          <lb ed="#P" n="24"/>credo: quam quae preter tranquillitatem tot 
+          <lb ed="#P" n="25"/>prouintiarum salutem <pc type="virgula">/</pc> tot mortalium mi<lb ed="#P" break="no" n="26"/>riadibus 
+          parit. Anima enim omnibus 
+          <lb ed="#P" n="27"/>rebus praeferenda est. vt in. <ref xml:id="lca8s8-d1e855-Rd1e368" target="http://scta.info/resource/cice-l5t38-d1e301">c. cum infir<lb ed="#P" break="no" n="28"/>mitas. 
+          de penitentiis et remissionibus</ref> et in <ref xml:id="lca8s8-d1e855-Rd1e374" target="http://scta.info/resource/gd-p2c12q1-d1e494">c. prae<lb ed="#P" break="no" n="29"/>cipimus. 
+          12. q. 1</ref>
+        </p>
+        <p xml:id="lca8s8-d1e855-d1e380">
+          Restringamus igitur 
+          <lb ed="#P" n="30"/>illud verbum subiicere: ut intelligatur 
+          <lb ed="#P" n="31"/>de subiectione quae nascetur ex predica<pb ed="#P" n="252-r"/><lb ed="#P" break="no" n="1"/>tione 
+          verbi diuini: Blanda et mansueta: 
+          in quo sensu verbum illud accipiendum 
+          <lb ed="#P" n="2"/>est etiam si eius propria significatio repu<lb ed="#P" break="no" n="3"/>gnaret 
+          Praesertim cum adsit bulla Pauli 
+          <lb ed="#P" n="4"/>iii. Romani pontificis quae expresse haec 
+          <lb ed="#P" n="5"/>detestanda bella quae sub pretextu religio<lb ed="#P" break="no" n="6"/>nis 
+          indis inferuntur prohibet: praecipiens: 
+          <lb ed="#P" n="7"/>ut non bellico terrore sed verbo Dei et san<lb ed="#P" break="no" n="8"/>ctis 
+          moribus adducantur ad fidem eius 
+          <lb ed="#P" n="9"/>bullae datae Anno MDXXXVII tenorem 
+          <lb ed="#P" n="10"/>retuli supra capitulo
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

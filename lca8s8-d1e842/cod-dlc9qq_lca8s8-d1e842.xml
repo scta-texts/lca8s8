@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 61 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 61 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-02">July 02, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="249-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e842">
+        <p xml:id="lca8s8-d1e842-d1e97">
+          <lb ed="#P" n="10"/>CAPut 61m
+        </p>
+        <p xml:id="lca8s8-d1e842-d1e102">
+          <lb ed="#P" n="11"/><pc type="pilcrow"/> Ita catholicos reges intellexisse hanc 
+          <lb ed="#P" n="12"/>fuisse mentem pontificis immo et christi
+          <lb ed="#P" n="13"/>(ut scilicet gentes illae blande et humanitate 
+          <lb ed="#P" n="14"/>christiana non vero bellico terrore ad<lb ed="#P" break="no" n="15"/>moto
+          conuerterentur ad fidem: probatur 
+          <lb ed="#P" n="16"/>ex verbis testamenti serenissimae Hyspa<lb ed="#P" break="no" n="17"/>niarum
+          <name xml:id="lca8s8-d1e842-Nd1e120">Isabelae</name> matronarum sui seculi de<lb ed="#P" break="no" n="18"/>coris 
+          cui tanquam castellae reginae concessio fuit 
+          <lb ed="#P" n="19"/>a pontifice precipue facta quae ita dicit.
+        </p>
+        <p xml:id="lca8s8-d1e842-d1e127">
+          <lb ed="#P" n="20"/><pc type="pilcrow"/>Item <quote xml:id="lca8s8-d1e842-Qd1e132" xml:lang="es">por quanto al tiempo que nos fue<lb ed="#P" break="no" n="21"/>ron 
+          concedidas por la sancta sede apostolica
+          <lb ed="#P" n="22"/>las islas y tierra firme del mar occeano 
+          <lb ed="#P" n="23"/>descubiertas y por descubrir nuestra principal
+          <lb ed="#P" n="24"/>intencion fue, al tiempo que lo supplicamos 
+          <lb ed="#P" n="25"/>al <name xml:id="lca8s8-d1e842-Nd1e145">papa Alexandro Sexto</name> de buena memo<lb ed="#P" break="no" n="26"/>ria
+          que nos hizo la dicha concession: de 
+          <lb ed="#P" n="27"/>procurar de induzir y traer los pueblos de<lb ed="#P" break="no" n="28"/>llas 
+          y los convertir a nuestra sancta fe catholica 
+          <lb ed="#P" n="29"/>y embiar a las dichas islas y tierra firme
+          <pb ed="#P" n="249-v"/>
+          <lb ed="#P" n="1"/>prelados y religiosos y clerigos y otras per<lb ed="#P" break="no" n="2"/>sonas 
+          doctas y temerosas de Dios para ins<lb ed="#P" break="no" n="3"/>truyr 
+          los vezinos y moradores dellas en la 
+          <lb ed="#P" n="4"/>fe catholica y los enseñiar y dotar de buenas 
+          <lb ed="#P" n="5"/>costumbres y poner en ello la diligencia de<lb ed="#P" break="no" n="6"/>vida 
+          segun mas largamente en las letras 
+          <lb ed="#P" n="7"/>de la dicha concession se contiene. Poren<lb ed="#P" break="no" n="8"/>de 
+          supplico al Rey mi señior muy affectuo<lb ed="#P" break="no" n="9"/>samente 
+            y encargo y mando a la dicha prin<lb ed="#P" break="no" n="10"/>cesa 
+            mi hija y al dicho principe su marido 
+            <lb ed="#P" n="11"/>que assi lo hagan y cumplan y que este sea 
+            <lb ed="#P" n="12"/>su principal fin y que en ello pongan mucha 
+            <lb ed="#P" n="13"/>diligencia y no consientan ni den lugar que 
+            <lb ed="#P" n="14"/>los yndios vezinos y moradores de las dichas 
+            <lb ed="#P" n="15"/>yndias y tierra firme ganadas y por ganar 
+            <lb ed="#P" n="16"/>resciban agravio alguno en sus personas ni 
+            <lb ed="#P" n="17"/>bienes: mas manden que sean bien y jus<lb ed="#P" break="no" n="18"/>tamente
+            tractados: y si algun agravio an 
+            <lb ed="#P" n="19"/>rescebido lo remedien y prouean por mane<lb ed="#P" break="no" n="20"/>ra
+            que no excedan cosa alguna de lo <add place="above-line">que</add> por las 
+            <lb ed="#P" n="21"/>letras de la dicha concession nos es injungi<lb ed="#P" break="no" n="22"/>do
+            y mandado</quote>. Haec sunt verba eius for<lb ed="#P" break="no" n="23"/>malia.
+        </p>
+        <p xml:id="lca8s8-d1e842-d1e212">
+          Audis lector reginam intellexis<lb ed="#P" break="no" n="24"/>se 
+          non bellum indis ex bulla pontificis 
+          <lb ed="#P" n="25"/>esse inferendum: sed christiana doctrina 
+          <lb ed="#P" n="26"/>eos institui sibi mandatum fuisse. Vides 
+          <lb ed="#P" n="27"/>etiam iubere expresse: ut ab omni iniuria 
+          <lb ed="#P" n="28"/>tam indi quam etiam finitimi sint immunes: 
+          <lb ed="#P" n="29"/>non enim preda fuerat obiecta sed prouincia 
+          <lb ed="#P" n="30"/>Ideo heredibus suis precipit ut sarciant om<pb ed="#P" n="250-r"/><lb ed="#P" break="no" n="1"/>nem
+          iniuriam indis illatam: et ut per 
+          <lb ed="#P" n="2"/>omnia prestent quod a pontifice sibi in<lb ed="#P" break="no" n="3"/>iunctum
+          fuit. Et ita pluribus regum nos<lb ed="#P" break="no" n="4"/>trorum 
+          instructionibus decretis et man<lb ed="#P" break="no" n="5"/>datis: 
+          expresse decretum et declaratum fuit.
+        </p>
+        <p xml:id="lca8s8-d1e842-d1e242">
+          <lb ed="#P" n="6"/>His congruit quod pontifex non concedit regi<lb ed="#P" break="no" n="7"/>bus 
+          castellae ut regna illa sibi subiiciant
+          <lb ed="#P" n="8"/>ut imperii sui fines tot nouis regnis ad<lb ed="#P" break="no" n="9"/>iectis 
+          amplificarent: sed ut gentes illae chris<lb ed="#P" break="no" n="10"/>tum 
+          verum Deum agnoscerent et ex tene<lb ed="#P" break="no" n="11"/>bris 
+          in lucem e morte in vitam pertraheren<lb ed="#P" break="no" n="12"/>tur 
+          Itaque negari non potest concessionem 
+          <lb ed="#P" n="13"/>illam pontificis potius in fauorem indorum 
+          <lb ed="#P" n="14"/>quam in fauorem regum factam fuisse. Quod 
+          <lb ed="#P" n="15"/>si bello gentem illam prorsus delemus et tru<lb ed="#P" break="no" n="16"/>culente 
+          affligimus iniquissime facimus: 
+          <lb ed="#P" n="17"/>ut patet <ref xml:id="lca8s8-d1e842-Rd1e270">de regulis Iuris libro 6o</ref> <quote xml:id="lca8s8-d1e842-Qd1e272" source="http://scta.info/resource/wef6td-d1e1612-d1e526">quod ob 
+          <lb ed="#P" n="18"/>causam alicuius conceditur, non est in eius 
+            <lb ed="#P" n="19"/>dispendium retorquendum</quote>. Et <ref xml:id="lca8s8-d1e842-Rd1e279" target="http://scta.info/resource/azsw2e-d1e204"><!-- target imprecise; Codex 1.14.6 -->C. de legi<lb ed="#P" break="no" n="20"/>bus 
+          L. quod fauore</ref> et ff <ref xml:id="lca8s8-d1e842-Rd1e285"><!-- Digest 1.3.25 -->eo titulo L. nul<lb ed="#P" break="no" n="21"/>la 
+            juris</ref> <!-- separation between ref incipit and quote is fuzzy --> <quote xml:id="lca8s8-d1e842-Qd1e294" source="http://scta.info/resource/bgy6gt-d1e81"><!-- source imprecise -->ratio aut aequitatis benignitas pati<lb ed="#P" break="no" n="22"/>tur 
+          ut quae salubriter pro hominum uti<lb ed="#P" break="no" n="23"/>litate 
+          introducuntur: ea nos duriore inter<lb ed="#P" break="no" n="24"/>pretatione 
+          contra ipsorum commodum produ<lb ed="#P" break="no" n="25"/>camus 
+          ad seueritatem</quote> haec ibi.
+        </p>
+        <p xml:id="lca8s8-d1e842-d1e308">
+          Ergo Reges 
+          <lb ed="#P" n="26"/>castellae neque directe neque oblique possunt 
+          <lb ed="#P" n="27"/>facere rem aduersantem spirituali vel etiam 
+          <lb ed="#P" n="28"/>temporali profectui illarum gentium: immo 
+          <lb ed="#P" n="29"/>nec temporali.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

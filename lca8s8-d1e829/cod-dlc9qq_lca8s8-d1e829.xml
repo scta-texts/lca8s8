@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 60 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 60 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-03">July 03, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="246-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e829">
+        <p xml:id="lca8s8-d1e829-d1e97">
+          <lb ed="#P" n="14"/>CAPvt 60m
+        </p>
+        <p xml:id="lca8s8-d1e829-d1e102">
+          <lb ed="#P" n="15"/><pc type="pilcrow"/> Ex prima et quinta parte bullae appa<lb ed="#P" break="no" n="16"/>ret 
+          mens pontificis et animus quem reges cas<lb ed="#P" break="no" n="17"/>tellae 
+          ostendebant, et praeceptum ipsis impo<lb ed="#P" break="no" n="18"/>situm 
+          ut rem perficiant. Et hoc est quod 
+          <lb ed="#P" n="19"/>pontifex in quarta parte laudat reges sci<lb ed="#P" break="no" n="20"/>licet 
+          animo dilatandi religionem chris<lb ed="#P" break="no" n="21"/>tianam 
+          nouas querere regiones prioribus 
+          <lb ed="#P" n="22"/>seculis incognitas. Ex secunda parte bul<lb ed="#P" break="no" n="23"/>lae
+          ubi pontifex refert mansuetudinem sin<lb ed="#P" break="no" n="24"/>ceritatem 
+          ac simplicitatem indorum atque 
+          <lb ed="#P" n="25"/>item aptitudinem et docilitatem ad sus<lb ed="#P" break="no" n="26"/>cipiendum 
+          verbum Dei manifeste innu<lb ed="#P" break="no" n="27"/>it 
+          censuram qua pars tertia debeat esse 
+          <lb ed="#P" n="28"/>predita scilicet ut subiiciant id est dis<lb ed="#P" break="no" n="29"/>ponant 
+          ad fidem <sic>illas</sic> eo modo quo sub<lb ed="#P" break="no" n="30"/>iicere 
+          conuenit gentem humanissimam
+          <lb ed="#P" n="31"/>sin<pb ed="#P" n="247-r"/><lb ed="#P" break="no" n="1"/>cerissimam 
+          nudam docilem modestam pacifi<lb ed="#P" break="no" n="2"/>cam 
+          et ad obsequendum promptissimam, blan<lb ed="#P" break="no" n="3"/>de 
+          scilicet humaniter denique christiane: ut 
+          <lb ed="#P" n="4"/>cognito prius Deo vero per euangelicam fidem
+          <lb ed="#P" n="5"/>demum subiiciant sese voluntarie castellae re<lb ed="#P" break="no" n="6"/>gi 
+          a quo tantum beneficium accepissent: tamquam 
+          <lb ed="#P" n="7"/>principi ac supremo imperatori suo saluis 
+          <lb ed="#P" n="8"/>tamen Iuribus naturalium dominorum
+        </p>
+        <p xml:id="lca8s8-d1e829-d1e163">
+          Quod 
+          <lb ed="#P" n="9"/>autem illud verbum subiicere interpretari debeat 
+          <lb ed="#P" n="10"/>pro disponere probatur: quoniam subiicere 
+          <lb ed="#P" n="11"/>eas gentes assumitur ut est medium quod<lb ed="#P" break="no" n="12"/>dam 
+          ut predicationem libenter audiant et 
+          <lb ed="#P" n="13"/>voluntarie suscipiant fidem. Sed predica<lb ed="#P" break="no" n="14"/>tio 
+          fidei secundum institutionem christi de<lb ed="#P" break="no" n="15"/>bet 
+          pacifica et amorosa esse: media autem 
+          <lb ed="#P" n="16"/>proportionata ad finem autore <ref xml:id="lca8s8-d1e829-Rd1e182" target="http://scta.info/resource/aristdp-d1e56"><!-- target imprecise; should be book 2, c. 8, and then somewhere within c. 8 -->Philosopho 2o phi<lb ed="#P" break="no" n="17"/>sicorum</ref> 
+          ergo subiicere illas gentes nihil est ali<lb ed="#P" break="no" n="18"/>ud 
+          quam disponere pacifice humaniterque gentes 
+          <lb ed="#P" n="19"/>illas ad audiendum euangelium et fidem 
+          <lb ed="#P" n="20"/>voluntarie suscipiendam. Et sic debet fieri 
+          <lb ed="#P" n="21"/>iuxta traditiones fidei christianae: quoniam
+          <lb ed="#P" n="22"/>adducere illas ad fidem: est finis et consili<lb ed="#P" break="no" n="23"/>um 
+          unitum tam pontificis quam etiam regis 
+          <lb ed="#P" n="24"/>ut dictum est. Et confirmantur haec ex 
+          <lb ed="#P" n="25"/>regula Iuris: <quote xml:id="lca8s8-d1e829-Qd1e206" source="http://scta.info/resource/cice-l5t40-d1e195"><!-- liber extra text is actually a quote from hillary -->intelligentia dictorum ex cau<lb ed="#P" break="no" n="26"/>sis
+          est assumenda dicendi quia non ser<lb ed="#P" break="no" n="27"/>moni 
+          res <pc type="virgula">/</pc> sed rei est sermo subiectus</quote>. <ref xml:id="lca8s8-d1e829-Rd1e217">de regulis Iuris
+          c. intelligentia</ref> Id est intentio<lb ed="#P" break="no" n="28"/>ni 
+          seu intellectui sermo seruire debet: quia 
+          <lb ed="#P" n="29"/>non in foliis sed in radice rationis et in sen<lb ed="#P" break="no" n="30"/>su  
+          consistit euangelium <ref xml:id="lca8s8-d1e829-Rd1e225" target="http://scta.info/resource/gd-p2c1q1-d1e1098">1 q. 1 c. Mar<lb ed="#P" break="no" n="31"/>chion</ref>. Et verba ad extraneum sensum sunt 
+          <pb ed="#P" n="247-v"/>
+          <lb ed="#P" n="1"/>trahenda: ubi res aliter salua esse non 
+          <lb ed="#P" n="2"/>potest argumentum <ref xml:id="lca8s8-d1e829-Rd1e237">C. de verborum significatione, L. cum quidam</ref> 
+          <lb ed="#P" n="3"/>et <ref xml:id="lca8s8-d1e829-Rd1e241">C. de legibus, L. cum quaestio</ref> Vide <ref xml:id="lca8s8-d1e829-Rd1e244">glossam in 
+          <lb ed="#P" n="4"/>secunda regula</ref>. Gentes ergo illae subigendae sunt 
+          <lb ed="#P" n="5"/>mansuetudine euangelica prout christus 
+          <lb ed="#P" n="6"/>docuit et illarum nuditas et simplicitas 
+          <lb ed="#P" n="7"/>exigit.
+        </p>
+        <p xml:id="lca8s8-d1e829-d1e256">
+          Ita ergo sunt intelligenda illa ver<lb ed="#P" break="no" n="8"/>ba 
+          bullae vobis subiicere proposuistis. Su<lb ed="#P" break="no" n="9"/>bigere
+          enim principis nostri ditioni suae 
+          <lb ed="#P" n="10"/>gentem illam per predicationem verbi Dei:
+          <lb ed="#P" n="11"/>facillimum erat absque bellico tumultu: a 
+          <lb ed="#P" n="12"/>negotio euangelico alienissimo. Esset enim
+          <lb ed="#P" n="13"/>agere prepostere medium (scilicet) facere fi<lb ed="#P" break="no" n="14"/>nem 
+          et finem medium: quod pessimum er<lb ed="#P" break="no" n="15"/>rorem 
+          appellat <ref xml:id="lca8s8-d1e829-Rd1e275" target="http://scta.info/resource/ArNeTH-d1e145-Dd1e109"><!-- target imprecise; should be targeted [1.138 b 29-30] in book 6, c. 1 -->Philosophus Ethicorum 6</ref>. Et ita bel<lb ed="#P" break="no" n="16"/>lum 
+          impiissimum esset. Illud enim impe<lb ed="#P" break="no" n="17"/>diret 
+          finem (scilicet) dilatationem nomi<lb ed="#P" break="no" n="18"/>nis 
+          christiani et conuersionem illarum 
+          <lb ed="#P" n="19"/>gentium ut supra probauimus. Quare ma<lb ed="#P" break="no" n="20"/>nifestissimum 
+          est vicarium Christi numquam 
+          <lb ed="#P" n="21"/>somniasse per illud verbum, subiicere, in<lb ed="#P" break="no" n="22"/>dos 
+          bello subigendos. Bellum enim mani<lb ed="#P" break="no" n="23"/>feste 
+          euerteret Dei et pontificis vicarii eius 
+          <lb ed="#P" n="24"/>consilium (scilicet) fidei dilatationem et 
+          <lb ed="#P" n="25"/>conuersionem illarum gentium contra precep<lb ed="#P" break="no" n="26"/>tum 
+          <ref xml:id="lca8s8-d1e829-Rd1e303">apostoli 1ae de Ad Corinthios 10</ref>: <quote xml:id="lca8s8-d1e829-Qd1e305" source="http://scta.info/resource/Icor10_31"><!-- source precise -->omnia quae<lb ed="#P" break="no" n="27"/>cunque 
+          agitis in verbo vel opere: in gloriam 
+            <lb ed="#P" n="28"/>Dei facite</quote> et ad <ref xml:id="lca8s8-d1e829-Rd1e313">Collossenses 3</ref>. <quote xml:id="lca8s8-d1e829-Qd1e316" source="http://scta.info/resource/col3_17@1-13">Omnia quaecumque 
+          <lb ed="#P" n="29"/>agitis in verbo vel in opere: in nomine domini 
+          <lb ed="#P" n="30"/>Iesu christi facite</quote>. Falso ergo <name xml:id="lca8s8-d1e829-Nd1e323">Sepulue<lb ed="#P" break="no" n="31"/>da</name> 
+          asserit pontificem approbare bellum 
+          <pb ed="#P" n="248-r"/>
+          <lb ed="#P" n="1"/>in Indos et hortari catholicos reges ut illos 
+          <lb ed="#P" n="2"/>bello subiiciant
+        </p>
+        <p xml:id="lca8s8-d1e829-d1e335">
+          verba bullae haec sunt. 
+          <lb ed="#P" n="3"/><pc type="pilcrow"/> <quote xml:id="lca8s8-d1e829-Qd1e340">Hortamur vos quamplurimum in domino
+          <lb ed="#P" n="4"/>per sacri lauachri susceptionem populos in 
+          <lb ed="#P" n="5"/>huiusmodi insulis et terris degentes ad 
+          <lb ed="#P" n="6"/>christianam religionem suscipiendum in<lb ed="#P" break="no" n="7"/>ducere 
+          velitis et debeatis etc Nota illa 
+          <lb ed="#P" n="8"/>verba inducere ad fidem</quote>. An est inducere 
+          <lb ed="#P" n="9"/>ad fidem aggredi gentes mitissimas / man<lb ed="#P" break="no" n="10"/>suetas 
+          pacificas. et nihil tale meritas? An 
+          <lb ed="#P" n="11"/>hoc est inducere an potius cogere ut fidem 
+          <lb ed="#P" n="12"/>fucate non vero ex animo suscipiant: vi<lb ed="#P" break="no" n="13"/>dentes 
+          christianorum impietatem? Immo 
+          <lb ed="#P" n="14"/>certius est longius abigere. Precipitur regibus 
+          <lb ed="#P" n="15"/>ut finis ut indos inducant ad fidem. Conce<lb ed="#P" break="no" n="16"/>ditur 
+          autem ut imperio suo subiiam ut medi<lb ed="#P" break="no" n="17"/>um 
+          conueniens et Iuuans ad consequendum 
+          <lb ed="#P" n="18"/>finem ergo illud subiicere proportionari et 
+          <lb ed="#P" n="19"/>conuenire oportet fini qui est (scilicet) dila<lb ed="#P" break="no" n="20"/>tatio
+          diuini nominis <sic>gloria</sic>, et gentium il<lb ed="#P" break="no" n="21"/>larum 
+          conuersio. Bellum autem non est medi<lb ed="#P" break="no" n="22"/>um 
+          aptum ad dilatandum christi gloriam 
+          <lb ed="#P" n="23"/>et euangelicam veritatem: sed potius ut no<lb ed="#P" break="no" n="24"/>men 
+          christianum odiosum et abominabi<lb ed="#P" break="no" n="25"/>le 
+          sit bellica incommoda patientibus. Bellum 
+          <lb ed="#P" n="26"/>ergo aduersus indos quod vulgo vocamus 
+          <lb ed="#P" n="27"/>conquistas: impium est et antichristianum
+          <lb ed="#P" n="28"/>de per se. Neque enim illa est causa qua illos 
+          <lb ed="#P" n="29"/>bello persequamur: neque unquam prioribus 
+          <lb ed="#P" n="30"/>seculis culpam aliquam bello dignam in nos 
+          <lb ed="#P" n="31"/>commiserunt: nimirum nostris regionibus 
+          <lb ed="#P" n="32"/>prorsus incogniti. Cum ergo bellum moueri 
+          <pb ed="#P" n="248-v"/>
+          <lb ed="#P" n="1"/>non debeat nisi precedat iniuria eius in 
+          <lb ed="#P" n="2"/>quem arma parantur in eum qui bellum in<lb ed="#P" break="no" n="3"/>fert 
+          autore <ref xml:id="lca8s8-d1e829-Rd1e416" target="http://scta.info/resource/TAca84-d1e1479-d1e302"><!-- target precise -->Sancto Thoma 2a2ae q. 40. articulo 1o c.</ref> 
+          <lb ed="#P" n="4"/>Et refertur ex <ref xml:id="lca8s8-d1e829-Rd1e422" target="http://scta.info/resource/bnh77y-d1e77-d1e224"><name xml:id="lca8s8-d1e829-Nd1e423">Augustino</name></ref> in <ref xml:id="lca8s8-d1e829-Rd1e425" target="http://scta.info/resource/gd-p2c23q2-d1e132">c. dominus
+          <lb ed="#P" n="5"/>noster. 23. q. 2.</ref> Et ibi tradunt canonistae. 
+          <lb ed="#P" n="6"/>Sequitur bellum in indos illicitum esse: quod 
+          <lb ed="#P" n="7"/>etiam probatur ex pluribus argumentis in 
+          <lb ed="#P" n="8"/>precedentibus relatis. Posset tamen bellum 
+          <lb ed="#P" n="9"/>in eos Iustum esse, si aliquid committerent 
+          <lb ed="#P" n="10"/>ex his quae in sex casibus supra relatis
+          <lb ed="#P" n="11"/>scripsimus. Rursus bellum aduersus indos 
+          <lb ed="#P" n="12"/>injustum esse probatur ex verbis bullae 
+          <lb ed="#P" n="13"/>quae hic subijciam. 
+          <lb ed="#P" n="14"/><pc type="pilcrow"/> <quote xml:id="lca8s8-d1e829-Qd1e451">Et insuper mandamus vobis in virtute 
+          <lb ed="#P" n="15"/>sanctae obedientiae sicut etiam pollicemini et 
+          <lb ed="#P" n="16"/>non dubitamus pro vestra maxima deuo<lb ed="#P" break="no" n="17"/>tione 
+          et regia magnanimitate vos esse factu<lb ed="#P" break="no" n="18"/>ros 
+          ad terras firmas et insulas predictas 
+          <lb ed="#P" n="19"/>viros probos Deum timentes / doctos / peritos / 
+          <lb ed="#P" n="20"/>et expertos ad instruendum incolas et habi<lb ed="#P" break="no" n="21"/>tatores 
+          prefatos in fide catholica et bonis mo<lb ed="#P" break="no" n="22"/>ribus 
+          imbuendum destinare debeatis omnem 
+          <lb ed="#P" n="23"/>debitam diligentiam in premissis adhiben<lb ed="#P" break="no" n="24"/>tes</quote>
+        </p>
+        <p xml:id="lca8s8-d1e829-d1e477">
+          Aduerte lector quae fuerit mens pon<lb ed="#P" break="no" n="25"/>tificis 
+          (scilicet) ut gentes illae sancta et ca<lb ed="#P" break="no" n="26"/>tholica
+          institutione ad veritatem adduce<lb ed="#P" break="no" n="27"/>rentur. 
+          Deinde nota quos milites iubeat 
+          <lb ed="#P" n="28"/>in eas prouincias mitti: viros probos Deum 
+          <lb ed="#P" n="29"/>timentes doctos peritos ad instruendum 
+          <lb ed="#P" n="30"/>incolas in fide catholica et bonis moribus
+        </p>
+        <p xml:id="lca8s8-d1e829-d1e493">
+          <lb ed="#P" n="31"/>Quid his militibus cum armatis latronibus 
+          <pb ed="#P" n="294-r"/>
+          <lb ed="#P" n="1"/>et immani truculentia predonibus omnia 
+          <lb ed="#P" n="2"/>igne ferroque miscentibus? Falsum ergo 
+          <lb ed="#P" n="3"/>est pontificem monuisse reges castellae 
+          <lb ed="#P" n="4"/>ut indis bellum inferrent. Non enim ca<lb ed="#P" break="no" n="5"/>dere 
+          poterat in mentem pontificis sanc<lb ed="#P" break="no" n="6"/>tissimi 
+          quod medium assumeretur finis quem 
+          <lb ed="#P" n="7"/>Deus intendit et ipse utpote vicarius eius 
+          <lb ed="#P" n="8"/>necessario impeditiuum immo et prorsus 
+          <lb ed="#P" n="9"/>destructiuum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 59 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 59 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-04">July 04, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="244-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e816">
+        <p xml:id="lca8s8-d1e816-d1e97">
+          <lb ed="#P" n="2"/>Capvt 59m
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e102">
+          <lb ed="#P" n="3"/><pc type="pilcrow"/> Contendit demum Sepulueda Alexan<lb ed="#P" break="no" n="4"/>drum 
+          6m pontificem maximum monuis<lb ed="#P" break="no" n="5"/>se 
+          reges castellae ut indos bello subigerent 
+          <lb ed="#P" n="6"/>approbasseque bellum quo gentes illae nostro 
+          <lb ed="#P" n="7"/>imperio subactae sunt. Hoc falsissimum 
+          <lb ed="#P" n="8"/>est. Concessit pontifex castellae regibus 
+          <lb ed="#P" n="9"/>ut indis principibus quos ad fidem christi 
+          <lb ed="#P" n="10"/>conuertissent superiores essent: illosque 
+          <lb ed="#P" n="11"/>sub tutela et ditione sua tanquam subditos ha<lb ed="#P" break="no" n="12"/>berent 
+          Vt autem bello eos subigerent numquam 
+          <lb ed="#P" n="13"/>pontifex Iussit vel permisit. Quid enim 
+          <lb ed="#P" n="14"/>permittat quod pugnat cum precepto et insti<lb ed="#P" break="no" n="15"/>tutione 
+          christi et quod in cordibus infi<lb ed="#P" break="no" n="16"/>delium 
+          gignit odium christiani nominis? 
+          <lb ed="#P" n="17"/>Et quod omnino impium est? Voluntas 
+          <lb ed="#P" n="18"/>enim principis: semper censetur esse Iuri 
+          <lb ed="#P" n="19"/>conformis ut 25. q. 1, c. Sunt quidam 
+          <lb ed="#P" n="20"/>et. c. contra statuta et. c. si est qui pre<lb ed="#P" break="no" n="21"/>est. 
+          11. q. 3. et 1. q. 7. c. Etsi illa. et 
+          <lb ed="#P" n="22"/>c. litteras. de restitutione spoliatorum et in c. quae 
+          <lb ed="#P" n="23"/>in ecclesiarum. de constitutionibus. et ibi doctores. 
+          <lb ed="#P" n="24"/>Et Innocentius in c. Inquisitioni. de sententia 
+          <lb ed="#P" n="25"/>excommunicationis. Et in c. <sic>quanto</sic> de rescriptis. Et per 
+          <lb ed="#P" n="26"/>legistas in L. quod principi placet ff. 
+          <lb ed="#P" n="27"/>de constitutionibus principum et C. de legibus L. 
+          <lb ed="#P" n="28"/>digna vox. et c. si contra Iu. Et vtilitatem pu<lb ed="#P" break="no" n="29"/>blicam. 
+          L. finali etc. Iuri autem repugnat indos 
+          <lb ed="#P" n="30"/>bello cogere ad fidem: vel bellicis incommodis
+          <pb ed="#P" n="244-r"/>
+          <lb ed="#P" n="1"/>efficere ut odio habeant religionem christia<lb ed="#P" break="no" n="2"/>nam: 
+          ob cuius praedicationem tot miseranda 
+          <lb ed="#P" n="3"/>mala vident sibi inferri. Non est ergo cre<lb ed="#P" break="no" n="4"/>dendum 
+          vicarium Christi permisisse bel<lb ed="#P" break="no" n="5"/>lum 
+          illis inferri, cum id sit aduersus omnia 
+          <lb ed="#P" n="6"/>diuina et humana Iura: presertim cum cu<lb ed="#P" break="no" n="7"/>ra 
+          dilatandae fidei ad eum praecipue per<lb ed="#P" break="no" n="8"/>tineat 
+          ut in c. officii nostri: 24, q. 1. Ideo
+          <lb ed="#P" n="9"/>credendum est ilium velle quod Iustum 
+          <lb ed="#P" n="10"/>est: et quod christi preceptis et exemplo con<lb ed="#P" break="no" n="11"/>uenit.
+          Ita enim decet ilium facere ut in 
+          <lb ed="#P" n="12"/>c. sane de officio delegati et c. super litteris. 
+          <lb ed="#P" n="13"/>de rescriptis. et in c. vt nostrum extra 
+          <lb ed="#P" n="14"/>vt ecclesiastici beneficii. Et de sententia excommunicationis 
+          <lb ed="#P" n="15"/>c. a nobis col. 2o et 11. q. 3. c. tune ve<lb ed="#P" break="no" n="16"/>ra 
+          est.
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e205">
+          Christus autem euangelium suum 
+          <lb ed="#P" n="17"/>blande suauiter et cum omni mansuetu<lb ed="#P" break="no" n="18"/>dine
+          praedicari voluit paganosque non arma<lb ed="#P" break="no" n="19"/>tis 
+          copiis: sed sanctis exemplis <pc type="virgula">/</pc> christia<lb ed="#P" break="no" n="20"/>nis
+          moribus: et verbo Dei ad veritatem 
+          <lb ed="#P" n="21"/>adduci. Ita ne ullo modo praestetur occasio 
+          <lb ed="#P" n="22"/>qua eius adorandum nomen blasphemetur 
+          <lb ed="#P" n="23"/>veraque religio praedicantium moribus odio
+          <lb ed="#P" n="24"/>habeatur.
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e228">
+          Hoc enim nihil aliud est quam in<lb ed="#P" break="no" n="25"/>utilem 
+          reddere aduentum et passionem christi 
+          <lb ed="#P" n="26"/>dum prius euangelica veritas odio habe<lb ed="#P" break="no" n="27"/>tur: 
+          quam vel intelligitur vel auditur: 
+          vel dum innumeri mortales illato bello sub 
+          <lb ed="#P" n="28"/>titulo predicandi euangelii et dilatandae 
+          <lb ed="#P" n="29"/>religionis occiduntur. Pontifex ergo chris<lb ed="#P" break="no" n="30"/>tiana 
+          mansuetudine: sentiendum est voluis<pb ed="#P" n="245-r"/><lb ed="#P" n="1"/>se
+          euangelium praedicari. Hanc autem fuisse 
+          <lb ed="#P" n="2"/>mentem pontificis probatur quoniam in 
+          <lb ed="#P" n="3"/>bulla ab eo concessa refertur petitio regum 
+          <lb ed="#P" n="4"/>catholicorum <pc type="virgula">/</pc> continens indos gentem esse 
+          <lb ed="#P" n="5"/>mansuetam habentem aliquam Dei cogni<lb ed="#P" break="no" n="6"/>tionem: 
+          ac denique talem ut si in fide insti<lb ed="#P" break="no" n="7"/>tuerentur 
+          spes esset religionem christi lon<lb ed="#P" break="no" n="8"/>ge 
+          lateque propagari posse. Non ergo creden<lb ed="#P" break="no" n="9"/>dum 
+          est papam sensisse: gentem quam 
+          <lb ed="#P" n="10"/>petentes narrant mansuetam perdoman<lb ed="#P" break="no" n="11"/>dam 
+          esse bello.
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e272">
+          Et ita falsum est quod 
+          <lb ed="#P" n="12"/><name xml:id="lca8s8-d1e816-Nd1e275">sepulueda</name> asserit Alexandrum pontificem 
+          <lb ed="#P" n="13"/>adhortari reges ut bello gentes illas subi<lb ed="#P" break="no" n="14"/>gant. 
+          Iam vero quo res sit dilucidior ver<lb ed="#P" break="no" n="15"/>ba 
+          ipsa subiiciam.
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e285">
+          <pc type="pilcrow"/> Sane accepimus quod vos qui dudum ani<lb ed="#P" break="no" n="16"/>mum 
+          proposueratis aliquas insulas et ter<lb ed="#P" break="no" n="17"/>ras 
+          firmas remotas et incognitas ac per ali<lb ed="#P" break="no" n="18"/>os 
+          hactenus non repertas querere et inueni<lb ed="#P" break="no" n="19"/>re 
+          ut illarum incolas et habitatores ad co<lb ed="#P" break="no" n="20"/>lendum 
+          redemptorem nostrum et fidem catho<lb ed="#P" break="no" n="21"/>licam 
+          profitendum reduceretis etc. Et in<lb ed="#P" break="no" n="22"/>fra 
+          qui tandem diuino auxilio facta extre<lb ed="#P" break="no" n="23"/>ma
+          diligentia in mari Occeano nauigantes 
+          <lb ed="#P" n="24"/>certas insulas remotas et incognitas (et
+          <lb ed="#P" n="25"/>etiam terras firmas) inuenerunt: in quibus 
+          <lb ed="#P" n="26"/>quam plurimae gentes pacifice viuentes nec car<lb ed="#P" break="no" n="27"/>nibus 
+          uescentes inhabitant: et ut prefati 
+          <lb ed="#P" n="28"/>nuntii vestri possunt opinari gentes ipsae 
+          <lb ed="#P" n="29"/>insulis et terris predictis habitantes cre<pb ed="#P" n="245-v"/><lb ed="#P" n="1"/>dunt 
+          unum Deum creatorem in coelis esse:
+          <lb ed="#P" n="2"/>ac ad fidem catholicam amplexandum et bo<lb ed="#P" break="no" n="3"/>nis 
+          moribus imbuendum: satis apti viden<lb ed="#P" break="no" n="4"/>tur
+          <pc type="virgula">/</pc> spesque habetur quod si erudirentur nomen 
+          <lb ed="#P" n="5"/>saluatoris domini nostri Iesu christi in terris
+          <lb ed="#P" n="6"/>et insulis praedictis facile induceretur. 
+          <lb ed="#P" n="7"/>Vnde omnibus diligenter et presertim fidei
+          <lb ed="#P" n="8"/>catholicae exaltatione et dilatatione (prout 
+          <lb ed="#P" n="9"/>decet catholicos reges et principes), conside<lb ed="#P" break="no" n="10"/>ratis
+          more progenitorum vestrorum clarae memo<lb ed="#P" break="no" n="11"/>riae 
+          regum: terras firmas et insulas prae<lb ed="#P" break="no" n="12"/>dictas
+          illarumque incolas et habitatores 
+          <lb ed="#P" n="13"/>vobis diuina fauente clementia subiice<lb ed="#P" break="no" n="14"/>re 
+          et ad fidem catholicam reducere propo<lb ed="#P" break="no" n="15"/>suistis 
+          Nos igitur huiusmodi vestrum 
+          <lb ed="#P" n="16"/><del rend="strikethrough">et</del> sanctum et laudabile propositum plu<lb ed="#P" break="no" n="17"/>rimum 
+          in domino commendantes ac cupientes 
+          <lb ed="#P" n="18"/>ut illud ad debitum finem perducatur, et 
+          <lb ed="#P" n="19"/>ipsum nomen saluatoris nostri in partibus 
+          <lb ed="#P" n="20"/>illis inducatur. Hortamur vos quamplurimum
+          <lb ed="#P" n="21"/>in domino et per sacri lauachri susceptionem 
+          <lb ed="#P" n="22"/>qua mandatis apostolicis obligati estis, et vis<lb ed="#P" break="no" n="23"/>cera 
+          domini nostri Iesu christi attente requirimus: 
+          <lb ed="#P" n="24"/>ut cum huiusmodi expeditionem omnino prosequi 
+          <lb ed="#P" n="25"/>et assumere prona mente orthodoxae fidei ze<lb ed="#P" break="no" n="26"/>lo 
+          intendatis populos in huiusmodi insu<lb ed="#P" break="no" n="27"/>lis 
+          et terris degentes: ad christianam reli<lb ed="#P" break="no" n="28"/>gionem
+          suscipiendum inducere velitis et 
+          <lb ed="#P" n="29"/>debeatis: nec pericula nec labores ullo unquam 
+          <lb ed="#P" n="30"/>tempore vos detereant firma spe fiduciaque 
+          <lb ed="#P" n="31"/>conceptis quod Deus omnipotens conatus vestros 
+          <lb ed="#P" n="32"/>feliciter prosequetur. haec ibi.
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e396">
+          In cuius 
+          <pb ed="#P" n="246-r"/>
+          <lb ed="#P" n="1"/>quidem apostolici decreti verbis quinque par<lb ed="#P" break="no" n="2"/>tes 
+          possunt adnotari.
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e405">
+          Prima: Reges catho<lb ed="#P" break="no" n="3"/>licos 
+          animo proposuisse aliquas insulas et 
+          <lb ed="#P" n="4"/>terras remotas et incognitas ac per alios non<lb ed="#P" break="no" n="5"/>dum 
+          repertas querere per nuncios suos et 
+          <lb ed="#P" n="6"/>inuenire: ut illarum incolas ad colendum De<lb ed="#P" break="no" n="7"/>um 
+          et fidem catholicam profitendum sua 
+          <lb ed="#P" n="8"/>industria ope atque regia solertia induceret. 
+          <lb ed="#P" n="9"/>Ecce finis totius huius rei. Quem ipse sum<lb ed="#P" break="no" n="10"/>mus 
+          pontifex declarat intendere ut debet in 
+          <lb ed="#P" n="11"/>principio prefati decreti dicens. Inter caete<lb ed="#P" break="no" n="12"/>ra 
+          diuinae maiestatis opera beneplacita et 
+          <lb ed="#P" n="13"/>cordis nostri desiderabilia illud profecto potis<lb ed="#P" break="no" n="14"/>simum
+          existit: ut fides catholica et christia<lb ed="#P" break="no" n="15"/>na 
+          religio nostris presertim temporibus exal<lb ed="#P" break="no" n="16"/>tetur 
+          et ubilibet amplietur et dilatetur anima<lb ed="#P" break="no" n="17"/>rumque 
+          salus procuretur etc.
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e440">
+          <pc type="pilcrow"/> 2a pars con<lb ed="#P" break="no" n="18"/>tinet 
+          quod diuino auxilio facta extrema di<lb ed="#P" break="no" n="19"/>ligentia 
+          in mari occeano certas insulas et 
+          <lb ed="#P" n="20"/>terras firmas inuenerunt: in quibus quam plu<lb ed="#P" break="no" n="21"/>rimae 
+          gentes pacificae viuentes inhabitant: 
+          <lb ed="#P" n="22"/>et ut argonautae sui opinari potuerunt cre<lb ed="#P" break="no" n="23"/>debant 
+          unum Deum creatorem in coelis esse: 
+          <lb ed="#P" n="24"/>et ad fidem catholicam amplexandum et 
+          <lb ed="#P" n="25"/>bonis moribus imbuendum satis apti vide<lb ed="#P" break="no" n="26"/>bantur 
+          quodque si erudirentur nomen saluatoris 
+          <lb ed="#P" n="27"/>in terris praedictis facile inducendum habeba<lb ed="#P" break="no" n="28"/>tur 
+          spes.
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e469">
+          <pc type="pilcrow"/> 3a subiicitur reges catholicos 
+          <lb ed="#P" n="29"/>immittantes maiorum suorum exempla: velle
+          <lb ed="#P" n="30"/>gentem illam <pc type="virgula">/</pc> nudam simplicem <pc type="virgula">/</pc> sinceram 
+          <lb ed="#P" n="31"/>ac mansuetam imperio suo subiicere fauore 
+          <pb ed="#P" n="246-v"/>
+          <lb ed="#P" n="1"/>christi optimi maximi.
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e491">
+          <pc type="pilcrow"/> 4a Pontifex lau<lb ed="#P" break="no" n="2"/>dat 
+          in domino pium hoc principum nostro<lb ed="#P" break="no" n="3"/>rum 
+          consilium: addens se magnopere cupe<lb ed="#P" break="no" n="4"/>re 
+          nomen christi illorum cordibus infigi et 
+          <lb ed="#P" n="5"/>tanquam verum Deum ab illis christianae co<lb ed="#P" break="no" n="6"/>li.
+        </p>
+        <p xml:id="lca8s8-d1e816-d1e508">
+          <pc type="pilcrow"/>5a pontifex hortatur catholicos prin<lb ed="#P" break="no" n="7"/>cipes 
+          per viscera christi et per votum in bap<lb ed="#P" break="no" n="8"/>tismo 
+          editum quo praecepta apostolica seruare 
+          <lb ed="#P" n="9"/>tenebantur ut rem contempto omni pericu<lb ed="#P" break="no" n="10"/>lo 
+          ac proinde omni suo particulari tempo<lb ed="#P" break="no" n="11"/>rali 
+          bono aggrediantur: non dubitantes de 
+          <lb ed="#P" n="12"/>successu fauore christi omnipotentis: qui eo<lb ed="#P" break="no" n="13"/>rum 
+          consilia prosperabit.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

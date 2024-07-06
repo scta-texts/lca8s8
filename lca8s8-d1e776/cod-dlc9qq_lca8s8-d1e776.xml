@@ -9,7 +9,7 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
-       <respStmt>
+        <respStmt>
           <name ref="#a1wilson">Andrew L. Wilson</name>
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
@@ -56,303 +56,303 @@
     </front>
     <body>
       <div xml:id="lca8s8-d1e776">
-        <head>Caput 56 [Bnf 12926 Transcription]</head>
-        <p>
-          <lb ed="#P"/>Caput 56m
+        <head xml:id="lca8s8-d1e776-Hd1e107">Caput 56 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e776-d1e109">
+          <lb ed="#P" n="14"/>Caput 56m
         </p>
-        <p>
-          <lb ed="#P"/>¶ Tertio docet <name>Ioannes Maioris</name> populum 
-          <lb ed="#P"/>qui christi fidem suscepit: debere si eam
-          <lb ed="#P"/>suscepit ex animo velle ut princeps suus 
-          <lb ed="#P"/>qui in paganismo perseuerat deponatur.
-          <lb ed="#P"/>Equidem populus natura vel quasi na<lb ed="#P" break="no"/>tura 
+        <p xml:id="lca8s8-d1e776-d1e114">
+          <lb ed="#P" n="15"/>¶ Tertio docet <name xml:id="lca8s8-d1e776-Nd1e118">Ioannes Maioris</name> populum 
+          <lb ed="#P" n="16"/>qui christi fidem suscepit: debere si eam
+          <lb ed="#P" n="17"/>suscepit ex animo velle ut princeps suus 
+          <lb ed="#P" n="18"/>qui in paganismo perseuerat deponatur.
+          <lb ed="#P" n="19"/>Equidem populus natura vel quasi na<lb ed="#P" break="no" n="20"/>tura 
           diligit antiquum principem suum
-          <lb ed="#P"/>secundum <ref>Philosophum 8o Ethicorum, c. 7.</ref> et <ref>3 po<lb ed="#P" break="no"/>liticorum
-          c. 10.</ref> <ref>Augustinum de ciuitate Dei 
-          <lb ed="#P"/>libro 19, c. 16.</ref> Ideo populus non minus 
-          <lb ed="#P"/>difficulter hoc admittat quam nouam 
-          <lb ed="#P"/>religionem. Presertim si pro deposito ve<lb ed="#P" break="no"/>tere 
+          <lb ed="#P" n="21"/>secundum <ref xml:id="lca8s8-d1e776-Rd1e133" target="http://scta.info/resource/ArNeTH-d1e250-d1e674@1-29">Philosophum 8o Ethicorum, c. 7.</ref> et <ref xml:id="lca8s8-d1e776-Rd1e135">3 po<lb ed="#P" break="no" n="22"/>liticorum
+          c. 10.</ref> <ref xml:id="lca8s8-d1e776-Rd1e140" target="http://scta.info/resource/adcd-l19-d1e3137@40-81">Augustinum de ciuitate Dei 
+          <lb ed="#P" n="23"/>libro 19, c. 16.</ref> Ideo populus non minus 
+          <lb ed="#P" n="24"/>difficulter hoc admittat quam nouam 
+          <lb ed="#P" n="25"/>religionem. Presertim si pro deposito ve<lb ed="#P" break="no" n="26"/>tere 
           domino: substituatur exterus, quod 
           populo ingratum et odiosum esse solet. 
-          <lb ed="#P"/>Ideo deus omnipotens <ref target="http://scta.info/resource/deut17_14 http://scta.info/resource/deut17_15">Deu. 17</ref> praeci<lb ed="#P"/>pit
+          <lb ed="#P" n="27"/>Ideo deus omnipotens <ref xml:id="lca8s8-d1e776-Rd1e154" target="http://scta.info/resource/deut17_14 http://scta.info/resource/deut17_15">Deu. 17</ref> praeci<lb ed="#P" break="no" n="28"/>pit
           Iudaeis ut si regem electuri essent
           <pb ed="#P" n="235-r"/>
-          <lb ed="#P"/>eligerent ex sua ipsorum. Cuius rei rat<lb ed="#P"/>ionem 
-          assignat <ref>sanctus Thomas 1 2 226, q. 105<lb ed="#P"/>a
-          <lb ed="#P"/>a. 1 ad 2m.</ref> Ideo non est sinistre sus<lb ed="#P"/>picandum
+          <lb ed="#P" n="1"/>eligerent ex sua ipsorum. Cuius rei rat<lb ed="#P" break="no" n="2"/>ionem 
+          assignat <ref xml:id="lca8s8-d1e776-Rd1e166" target="http://scta.info/resource/TAca84-d1e1214-d1e486@1-47">sanctus Thomas 1a 2ae, q. 105 
+          <lb ed="#P" n="3"/>articulo 1o ad 2m.</ref> Ideo non est sinistre sus<lb ed="#P" break="no" n="4"/>picandum
           de populo nouiter conuerso: ex 
-          <lb ed="#P"/>eo quod nolit veterem principem suum de<lb ed="#P"/>poni:
+          <lb ed="#P" n="5"/>eo quod nolit veterem principem suum de<lb ed="#P" break="no" n="6"/>poni:
           etiam si paganus sit. Spectare 
-          <lb ed="#P"/>enim potest illum aliquando susceptu<lb ed="#P"/>rum 
+          <lb ed="#P" n="7"/>enim potest illum aliquando susceptu<lb ed="#P" break="no" n="8"/>rum 
           fidem. Deinde populus recenter 
-          <lb ed="#P"/>conuersus non est mirandus quod non ha<lb ed="#P"/>beat 
-          tantum Euangelici vigoris: ut stat<lb ed="#P"/>im
-		  exutis omnibus affectibus exosum
-		  <lb ed="#P"/>habeat veterem principem suum mult<lb ed="#P"/>orum
-          annorum consuetudine cogni<lb ed="#P"/>tum. 
+          <lb ed="#P" n="9"/>conuersus non est mirandus quod non ha<lb ed="#P" break="no" n="10"/>beat 
+          tantum Euangelici vigoris: ut stat<lb ed="#P" break="no" n="11"/>im
+          exutis omnibus affectibus exosum
+          <lb ed="#P" n="12"/>habeat veterem principem suum mult<lb ed="#P" break="no" n="13"/>orum
+          annorum consuetudine cogni<lb ed="#P" break="no" n="14"/>tum. 
           Ideo ipsorum affectibus etiam si 
-          <lb ed="#P"/>non sint pure christiani aliquid permit<lb ed="#P"/>tendum
-          et dandum est, autore <ref>Gregorio
-          <lb ed="#P"/>libro 12 epistola 31.</ref> et <ref>Ad interrogationes 
-          <lb ed="#P"/>Augustini c. 7</ref> quarum fragmenta 
-          <lb ed="#P"/>leguntur <ref>35 q. 2 et 3, c. quaedam 
-          <lb ed="#P"/>lex</ref>. <quote>Ne bonum (inquit) quod infirma ad
-          <lb ed="#P"/>huc radice plantatum est eruatur: sed 
-          <lb ed="#P"/>coeptum firmetur et usque ad perfectio<lb ed="#P"/>nem
-          custodiatur.</quote> Haec ille. Ex consequen<lb ed="#P"/>ti 
-          <name>Ioannes Maioris</name> excessit <ref>quarto dicendo
-          <lb ed="#P"/>quod, in illo casu, talis Rex erat deponendus.</ref>
+          <lb ed="#P" n="15"/>non sint pure christiani aliquid permit<lb ed="#P" break="no" n="16"/>tendum
+          et dandum est, autore <ref xml:id="lca8s8-d1e776-Rd1e201">Gregorio
+          <lb ed="#P" n="17"/>libro 12 epistola 31.</ref> et <ref xml:id="lca8s8-d1e776-Rd1e207">Ad interrogationes 
+          <lb ed="#P" n="18"/>Augustini c. 7</ref> quarum fragmenta 
+          <lb ed="#P" n="19"/>leguntur <ref xml:id="lca8s8-d1e776-Rd1e214">35 q. 2 et 3, c. quaedam 
+          <lb ed="#P" n="20"/>lex</ref>. <quote xml:id="lca8s8-d1e776-Qd1e219">Ne bonum (inquit) quod infirma ad
+          <lb ed="#P" n="21"/>huc radice plantatum est eruatur: sed 
+          <lb ed="#P" n="22"/>coeptum firmetur et usque ad perfectio<lb ed="#P" break="no" n="23"/>nem
+          custodiatur.</quote> Haec ille. Ex consequen<lb ed="#P" break="no" n="24"/>ti 
+          <name xml:id="lca8s8-d1e776-Nd1e230">Ioannes Maioris</name> excessit <ref xml:id="lca8s8-d1e776-Rd1e233">quarto dicendo
+            <lb ed="#P" n="25"/>quod, in illo casu, talis Rex erat deponendus.</ref>
         </p>
-        <p>
-         <lb ed="#P"/>¶ Deinde addit <name>Ioannes Maioris</name> quod si in<lb ed="#P"/>dianae
-         gentes illius insulae (ubi apparet 
-         <lb ed="#P"/>quam ieiunus de indianis rebus loquebatur 
-         <lb ed="#P"/>Ioannis Maioris) non gubernabantur re<lb ed="#P"/>gibus:
-         sed jurisdictio et imperium sit
-         <pb ed="#P" n="235-v"/>
-         <lb ed="#P"/>penes rempublicam: respublica debet im<lb ed="#P"/>perio 
-         spoliari ad plantationem fidei. Hic 
-         <lb ed="#P"/>mihi Joanes ridiculus videtur. Nam
-         <lb ed="#P"/>valde celeriter per hoc negotium reuera 
-		 <lb ed="#P"/>pergebat. Etenim si regi relinquit reg<lb ed="#P"/>num
-		 si resartiat expensas, cur etiam
-		 <lb ed="#P"/>illud nolit relinqui reipublicae sub ea<lb ed="#P"/>dem
-		 conditione? Rex enim quidquid
-		 <lb ed="#P"/>juris habet a populi habuit consensu:
-		 <lb ed="#P"/>unde si Rex absque prole moriatur: ius
-		 <lb ed="#P"/>eligendi regem pertinet ad populum. Qua<lb ed="#P"/>re
-		 ergo voluit spoliare electione rempu<lb ed="#P"/>blicam
-		 magis quam regem, cum jurisdictio
-		 <lb ed="#P"/>et potestas reipublicae magis naturalis sit
-		 <lb ed="#P"/>quam imperium regis quod a reipublicae con<lb ed="#P"/>sensu
-		 originem ducit? Manifestum enim
-		 <lb ed="#P"/>est maiorem injustitiam committi spo<lb ed="#P"/>liando
-		 communitatem vel populum jure
-		 <lb ed="#P"/>eligendi absque causa legitima: quam ipsum
-		 <lb ed="#P"/>principem regno, cum repugnet maiori
-		 <lb ed="#P"/>justitiae. Hinc scribit <name>Petrus de Palude</name>
-		 <lb ed="#P"/>in tractatu <ref>De Potestate papae a. 4.</ref> <ref>de
-		 <lb ed="#P"/>causa immediata potestatis papalis in
-		 <lb ed="#P"/>1a q.</ref> in solutione cuiusdam argumenti:
-		 <lb ed="#P"/>quod si papa ex justa causa deponit regem:
-		 <add place="margin-left" hand="?????">
-		 Notanda sententia 
-		  quod si Papa deponit 
-		  regem non potest aliquem
-		  substituere quia ius
-		  eligendi non potest
-		 auferri a populo
-		 </add>
-		 <lb ed="#P"/>non potest alium in eius locum substi<lb ed="#P"/>tuere:
-		 neque enim potest auferre a popu<lb ed="#P"/>lo
-		 ius sibi naturae lege competens ad eli<lb ed="#P"/>gendum
-		 regem.
+        <p xml:id="lca8s8-d1e776-d1e239">
+          <lb ed="#P" n="26"/>¶ Deinde addit <name xml:id="lca8s8-d1e776-Nd1e243">Ioannes Maioris</name> quod si in<lb ed="#P" break="no" n="27"/>dianae
+          gentes illius insulae (ubi apparet 
+          <lb ed="#P" n="28"/>quam ieiunus de indianis rebus loquebatur 
+          <lb ed="#P" n="29"/>Ioannis Maioris) non gubernabantur re<lb ed="#P" break="no" n="30"/>gibus:
+          sed jurisdictio et imperium sit
+          <pb ed="#P" n="235-v"/>
+          <lb ed="#P" n="1"/>penes rempublicam: respublica debet im<lb ed="#P" break="no" n="2"/>perio 
+          spoliari ad plantationem fidei. Hic 
+          <lb ed="#P" n="3"/>mihi Joanes ridiculus videtur. Nam
+          <lb ed="#P" n="4"/>valde celeriter per hoc negotium reuera 
+          <lb ed="#P" n="5"/>pergebat. Etenim si regi relinquit reg<lb ed="#P" break="no" n="6"/>num
+          si resartiat expensas, cur etiam
+          <lb ed="#P" n="7"/>illud nolit relinqui reipublicae sub ea<lb ed="#P" break="no" n="8"/>dem
+          conditione? Rex enim quidquid
+          <lb ed="#P" n="9"/>juris habet a populi habuit consensu:
+          <lb ed="#P" n="10"/>unde si Rex absque prole moriatur: ius
+          <lb ed="#P" n="11"/>eligendi regem pertinet ad populum. Qua<lb ed="#P" break="no" n="12"/>re
+          ergo voluit spoliare electione rempu<lb ed="#P" break="no" n="13"/>blicam
+          magis quam regem, cum jurisdictio
+          <lb ed="#P" n="14"/>et potestas reipublicae magis naturalis sit
+          <lb ed="#P" n="15"/>quam imperium regis quod a reipublicae con<lb ed="#P" break="no" n="16"/>sensu
+          originem ducit? Manifestum enim
+          <lb ed="#P" n="17"/>est maiorem injustitiam committi spo<lb ed="#P" break="no" n="18"/>liando
+          communitatem vel populum jure
+          <lb ed="#P" n="19"/>eligendi absque causa legitima: quam ipsum
+          <lb ed="#P" n="20"/>principem regno, cum repugnet maiori
+          <lb ed="#P" n="21"/>justitiae. Hinc scribit <name xml:id="lca8s8-d1e776-Nd1e301">Petrus de Palude</name>
+          <lb ed="#P" n="22"/>in tractatu <ref xml:id="lca8s8-d1e776-Rd1e306">De Potestate papae a. 4.</ref> <ref xml:id="lca8s8-d1e776-Rd1e308">de
+            <lb ed="#P" n="23"/>causa immediata potestatis papalis in
+            <lb ed="#P" n="24"/>1a q.</ref> in solutione cuiusdam argumenti:
+          <lb ed="#P" n="25"/>quod si papa ex justa causa deponit regem:
+          <add place="margin-left" hand="?????">
+            Notanda sententia 
+            quod si Papa deponit 
+            regem non potest aliquem
+            substituere quia ius
+            eligendi non potest
+            auferri a populo
+          </add>
+          <lb ed="#P" n="26"/>non potest alium in eius locum substi<lb ed="#P" break="no" n="27"/>tuere:
+          neque enim potest auferre a popu<lb ed="#P" break="no" n="28"/>lo
+          ius sibi naturae lege competens ad eli<lb ed="#P" break="no" n="29"/>gendum
+          regem.
         </p> 
-		<p>
-		  ¶ Pergit <name>Joanes Maio<lb ed="#P"/>ris</name>
-		  de indis non veraciter loqui his verbis:
-		  <pb ed="#P" n="236-r"/>
-		  <lb ed="#P"/><quote>Etiam aliud est; Populus ille bestialiter
-		  <lb ed="#P"/>viuit citra ultraque equatorem et sub polis
-		  <lb ed="#P"/>viuunt homines ferini ut <name>Ptholomaeus</name>
-		  <lb ed="#P"/>in Quadripartito dicit. Et jam boc expe<lb ed="#P"/>rientia
-		  compertum est</quote> et caetera. Adducit etiam
-		  <lb ed="#P"/>illud <ref><name>Philosophi</name> 1o <title>Politicorum</title></ref>: Graecos debere im<lb ed="#P"/>perare
-		  barbaris. Hinc (ni fallor) venena
-		  <lb ed="#P"/>sua colligit <name>Sepulueda</name>: sed <name>Joanem Ma<lb ed="#P"/>ioris</name>
-		  demiror ita facile fidem adhibuisse
-		  <lb ed="#P"/>his qui indos gentem docilem, sinceram
-		  <lb ed="#P"/>et ingeniosam, mendacijs impudentissi<lb ed="#P"/>mis
-		  tamquam stupidos et feros traducunt: 
-		  <lb ed="#P"/>quo in illos licentius predones immanis<lb ed="#P"/>simos
-		  agant. Non decuit hominem Theo<lb ed="#P"/>logum
-		  sententiam in re tanti momenti
-		  <lb ed="#P"/>ita precipitare: presertim cum bulla <name>Ale<lb ed="#P"/>xandri
-		  Sexti</name> ex relatione regum Castellae 
-		  <lb ed="#P"/>narrat <name>Christophorum Colon</name> gentes quas<lb ed="#P"/>dam
-		  denuo reperisse mansuetas tran<lb ed="#P"/>quille
-		  absque ullius injuria,viuentes neque
-		  <lb ed="#P"/>omnino diuini numinis ignorantes. 
-		  </p>
-		  <p>
-		  Quis
-		  <lb ed="#P"/>unquam vir grauis absque exacta facti et 
-		  <lb ed="#P"/>juris cognitione calamum sumpsit? Hic
-		  <lb ed="#P"/>vero juris imperitissimum sese demonstrat:
-		  <lb ed="#P"/>et cum ad factum orationem dirigit: to<lb ed="#P"/>to
-		  aberrat coelo. Quod ex <name>Ptholomaeo</name> in
-		  <lb ed="#P"/><ref>quadripartito</ref> citat, falsum est: neque enim
-		  <lb ed="#P"/><name>Ptholomaeus</name> tale quidquam scripsit. Describit
-		  <lb ed="#P"/>orbem suo seculo cognitum, in <ref>2o tracta<lb ed="#P"/>tu
-		  Tripartiti. c. 3o</ref>. Sed de hoc ad quod illum
-		  <lb ed="#P"/>citat <name>Ioannes Maioris</name> nullum verbum foe<lb ed="#P"/>cit
-		  <pb ed="#P" n="236-v"/>
-  		  <lb ed="#P"/>Neque enim prouincias Equatoris desc<lb ed="#P"/>ripsit
-		  quas ipse incultas et inhabitab<lb ed="#P"/>iles 
-		  putabat. Quos <name>Ptholomaeus</name> ferinos
-		  <lb ed="#P"/>vocat Mauritaniam Africae incolunt ad
-		  <lb ed="#P"/>promontorium quod nunc vulgo appellam<lb ed="#P"/>us
-		  Cabo de Aguer, ubi Arabes vulgo Ala<lb ed="#P"/>rabes
-		  degunt. Cumque <name>Ptholomaeus</name> nos<lb ed="#P"/>tros
-		  indos numquam nouerit: quomodo eo<lb ed="#P"/>rum
-		  meminisse potuit? Quod scribit <quote>homi<lb ed="#P"/>nes
-		  feros et siluestres viuere citra et ul<lb ed="#P"/>tra
-		  equinoctialem, falsum est: nisi lon<lb ed="#P"/>gissime
-		  ab equatore recederent ita ut, in<lb ed="#P"/>clementia
-		  frigoris et regionis intemperan<lb ed="#P"/>tia
-		  hominum ratione quasi carerent.</quote>
-		  <lb ed="#P"/>Ita scribit <ref><name>Philosophus</name> 7o <title>Politicorum</title></ref>, et <ref><name>Vege<lb ed="#P"/>tius</name> de re militari, libro 1o, c. 2o</ref>. Quo enim 
-		  <lb ed="#P"/>regio proximior est zonis et circulo arcti<lb ed="#P"/>co
-		  et antarctico: et quo propinquior est
-		  <lb ed="#P"/>polis, tanto frigidior est, ob solis distan<lb ed="#P"/>tiam.
-		  Vnde incolae minus valent ratio<lb ed="#P"/>ne.
-		  Cum autem huiusmodi homines na<lb ed="#P"/>turae
-		  monstrua judicentur necessario erunt
-		  <lb ed="#P"/>rarissimi, ut supra probauimus. Ideo
-		  <lb ed="#P"/>zonae illae nimio frigore rigentes exis<lb ed="#P"/>timantur
-		  inhabitabiles, non quia a nullo
-		  <lb ed="#P"/>incolantur, sed quia incolae rari sint. Quid
-		  <lb ed="#P"/>quod indi noui orbis prouincias incolunt
-		  <lb ed="#P"/>equinoctiali lineae proximas: omnes enim
-		  <lb ed="#P"/>eorum prouinciae viginti vel viginti 25 vel 30 
-		  <lb ed="#P"/>gradibus distant ab arctico et paulo plus ab
-		  <lb ed="#P"/>antarctico Norte et Sur. Equinoctialis
-		  <pb ed="#P" n="237-r"/> 
-		  <lb ed="#P"/>autem linea, cum dies prestet noctibus equa<lb ed="#P"/>les:
-		  temperatissima est. Vnde infertur 
-		  <lb ed="#P"/>Indos felicissimas totius orbis regiones
-		  <lb ed="#P"/>incolere, quod non modo theorice: sed prac<lb ed="#P"/>tice
-		  scimus et experti sumus. Et, ex conse<lb ed="#P"/>quenti,
-		  ingeniosos esse et plurimum va<lb ed="#P"/>lere
-		  ratione juxta Aristotelis, Vegetij
-		  <lb ed="#P"/>et Ptholomaei sententiam. Cuius rei ipsi
-		  <lb ed="#P"/>testes sumus, qui perplures anos regiones
-		  <lb ed="#P"/>illas peragrauimus gentesque illas peni<lb ed="#P"/>tissime
-		  perspeximus eiusque mores et
-		  <lb ed="#P"/>ingenia cognita habemus scimusque lon<lb ed="#P"/>ge
-		  alia esse: quam quae <name>Joanes Maioris</name> vaniss<lb ed="#P"/>ime
-		  scribit: ignorans gentis et equinoc<lb ed="#P"/>tialis
-		  lineae felicem naturam quam si no<lb ed="#P"/>uisset
-		  solum: satis erat ut reijceret calu<lb ed="#P"/>mnias
-		  et mendacia eorum qui, in eas pro<lb ed="#P"/>uincias
-		  penetrantes, gentem mansuetis<lb ed="#P"/>simam/.
-		  sinceram et modestissimam: quod
-		  <lb ed="#P"/>vix absque lacrimis referri potest: imma<lb ed="#P"/>nissime
-		  vastarunt, et caetera.
-		  </p>
-		  <p>
-		  ¶ Ex his elicitur
-		  <lb ed="#P"/>nequaquam hic quadrare quod <name>Joanes Maio<lb ed="#P"/>ris</name>
-		  profert ex Philosopho Graecum barbaro debere
-		  <lb ed="#P"/>imperare. Indi enim nequaquam barbari sunt
-		  <lb ed="#P"/>quos putabat ut supra c. 2o docuimus. 
-		  <lb ed="#P"/>Hunc absurdum <name>Joanis Maioris</name> errorem
-		  <lb ed="#P"/>fortassis secutus est quidam eius dis<lb ed="#P"/>cipulus
-		  nomine Carolus. Hic missus
-		  <lb ed="#P"/>in vicarium Episcopatus Conceptionis qui
-		  <lb ed="#P"/>est in insula Hyspaniola anno 1513, sen[tentiam protulit]
-		  <pb ed="#P" n="237-v" />
-		  <lb ed="#P"/>qua diremit matrimonium inter foeminam
-		  <lb ed="#P"/>indam et hominem Hyspanum: 
-	  <add place="lm" hand="F">Quidam judex 
-                  Episcopi in insula Hyspaniola
-		  dinortij 
-		  sententiam protulit inter
-		  Hyspanum et
-		  indam dicens quod
-		  stolida esset foemina
-		  quae ex gente 
-		  indorum
-	  </add>
-		  ea scilicet 
-		  <lb ed="#P"/>ratione quod ipsam, quoniam erat inda judi<lb ed="#P"/>cauit
-		  stupidam et expertem rationis. Qui
-		  <lb ed="#P"/>paulo post, reuersus in Hyspaniam jus<lb ed="#P"/>to
-		  Dei judicio permissus est cadere in mul<lb ed="#P"/>tos
-		  errores super quibus accusatus apud
-		  <lb ed="#P"/>officium sanctum inquisitionis a fratri<lb ed="#P"/>bus
-		  Ordinis Predicatorum: <name>Burgis</name> tandem
-		  <lb ed="#P"/>condemnatus: publice abjurauit errores il<lb ed="#P"/>los
-		  cum magna ignominia et confusio<lb ed="#P"/>ne
-		  sua: priuatusque munere predicationis
-		  <lb ed="#P"/>et detrusus perpetuo vel carceri vel monas<lb ed="#P"/>terio
-		  pro carcere assignato. Qui demum
-		  <lb ed="#P"/>numquam amplius comparuit. Vide quid
-		  <lb ed="#P"/>egerint hae <name>Joanis Maioris</name> absurdae ne
-		  <lb ed="#P"/>dicam impiae neniae.
-	  </p>
-	  <p>
-		  ¶ Preterea <name>Se<lb ed="#P"/>pulueda</name>
-		  in confirmationem suae impiae
-		  <lb ed="#P"/>sententiae: citat doctissimum patrem <name>Fran<lb ed="#P"/>ciscum
-		  victoriensem</name> <ref>bellum in indos</ref> pro<lb ed="#P"/>basse
-	  </p>
-	  <p> ¶ Addit Sepulueda ne sua, scilicet, 
-		  <lb ed="#P"/>gloria spolietur patrem illum doctissi<lb ed="#P"/>mum
-		  nequaquam protulisse precipua argu<lb ed="#P"/>menta
-		  quae ipse adducit. Sed qui lege<lb ed="#P"/>rit
-		  illius viri doctissimi duas Primae Re<lb ed="#P"/>lectionis
-		  partes: facile perspiciet virum
-		  <lb ed="#P"/>illum, in prima, septem capita proposuisse
-		  <lb ed="#P"/>et catholice confutasse: quibus bellum
-		  <lb ed="#P"/>aduersus indos justum videri potest.
-		  <lb ed="#P"/>In secunda vero parte adduxit vir ille
-		  <pb ed="#P" n="238-r" /> 
-		  <lb ed="#P"/>octo titulos quibus vel aliquo illorum pote<lb ed="#P"/>rant
-		  indi venire in ditionem Hyspanorum.
-		  <lb ed="#P"/>In quibus supponit pro maiori parte quaedam 
-		  <lb ed="#P"/>ut bellum hoc justum censeri possit falsis<lb ed="#P"/>sima:
-		  et ab istis predonibus qui totum il<lb ed="#P"/>lum
-		  orbem effusissime populantur ipsi dela<lb ed="#P"/>ta
-		  fuere. In aliquibus autem eorum titulis
-		  <lb ed="#P"/>aliqualiter remissius se habuit: volens
-		  <lb ed="#P"/>temperare quod caesarianis videbatur 
-		  <lb ed="#P"/>durius dixisse: quamuis apud veritatis ama<lb ed="#P"/>tores
-		  in parte prima cuncta quae disseruit
-		  <lb ed="#P"/>non dura id est non modo vera fuere: sed catholica 
-		  <lb ed="#P"/>et quidem verissima. Quod ipse satis signi<lb ed="#P"/>ficat
-		  dum conditionaliter loquitur: metu<lb ed="#P"/>ens
-		  ne pro veris falsa supponeret aut di<lb ed="#P"/>ceret.
-		  Cum autem circunstantiae quas doctiss
-		  <lb ed="#P"/>imus ille pater supponit falsae sint: et
-		  <lb ed="#P"/>aliqua timide dicat: certe <name>Sepulueda</name> eius
-		  <lb ed="#P"/>opinonem falsis delationibus innixam 
-		  <lb ed="#P"/>nobis obijcere non debuit.
-		  </p>
-		  <p> ¶ Similiter pud<lb ed="#P"/>oris
-		  tui <name>Sepuluede</name> frater fuisset: non 
-		  <lb ed="#P"/>citare Reuerendos patres <name>Michaelem de 
-		  <lb ed="#P"/>Arcos</name> et <name>Magistrum Herrera</name> et <name>Magis<lb ed="#P"/>trum
-		  Esbarroya</name> et presentatum fratrem 
-		  <lb ed="#P"/><name>Didacum victoriensem</name> ex instituto bea<lb ed="#P"/>ti
-		  patris Diui dominici monachos eruditos: 
-		  <lb ed="#P"/>quorum nomina jactas quasi tecum sen<lb ed="#P"/>tiant
-		  impiamque tuam opinionem probent. 
-		  <lb ed="#P"/>Sed dum meliora non ignoras <name>Sepulueda</name>: 
-		  <lb ed="#P"/>quam fortiter tibi, ista jactanti aliqui eo<lb ed="#P"/>rum
-		  in hoc presentes restiterint: conque<lb ed="#P"/>rentes
-		  te illis impingere quod numquam 
-		  <lb ed="#P" n="238-v"/> 
-		  <lb ed="#P"/>dixerunt. Alij falsis delationibus et im<lb ed="#P"/>pijs
-		  mendacijs instructi responderunt non
-		  <lb ed="#P"/>absolute: bellum hoc justum esse posse sup<lb ed="#P"/>positis
-		  omnibus illis criminosis menda<lb ed="#P"/>cijs
-		  quibus cum consulerentur fuerunt 
-		  <lb ed="#P"/>adducti. Addiderunt tamen opus tuum 
-		  <lb ed="#P"/>haec impia continens nullo modo publi<lb ed="#P"/>cari
-		  debere: ne impijs quibus nihil deest
-		  <lb ed="#P"/>preter occasionem: hic tuus tantopere ja<lb ed="#P"/>ctatus
-		  libellus animos ad rapinas et ce<lb ed="#P"/>des
-		  adderet. Quod ipsi ultro nullis meis
-		  <lb ed="#P"/>litteris prouocati ad me scripserunt. 
-		  </p>
-		  <p>
-		  De<lb ed="#P"/>sine
-		  igitur tuo errori tantorum virorum 
-		  <lb ed="#P"/>nomina pretexere: sed potius Christi cau<lb ed="#P"/>sam
-		  uti doctissimum virum decet gra<lb ed="#P"/>uiter
-		  adiuua.
-</p>
+        <p xml:id="lca8s8-d1e776-d1e330">
+          ¶ Pergit <name xml:id="lca8s8-d1e776-Nd1e332">Joanes Maio<lb ed="#P" break="no" n="30"/>ris</name>
+          de indis non veraciter loqui his verbis:
+          <pb ed="#P" n="236-r"/>
+          <lb ed="#P" n="1"/><quote xml:id="lca8s8-d1e776-Qd1e340">Etiam aliud est; Populus ille bestialiter
+            <lb ed="#P" n="2"/>viuit citra ultraque equatorem et sub polis
+            <lb ed="#P" n="3"/>viuunt homines ferini ut <name xml:id="lca8s8-d1e776-Nd1e346">Ptholomaeus</name>
+            <lb ed="#P" n="4"/>in Quadripartito dicit. Et jam boc expe<lb ed="#P" break="no" n="5"/>rientia
+            compertum est</quote> et caetera. Adducit etiam
+          <lb ed="#P" n="6"/>illud <ref xml:id="lca8s8-d1e776-Rd1e355"><name xml:id="lca8s8-d1e776-Nd1e356">Philosophi</name> 1o <title>Politicorum</title></ref>: Graecos debere im<lb ed="#P" break="no" n="7"/>perare
+          barbaris. Hinc (ni fallor) venena
+          <lb ed="#P" n="8"/>sua colligit <name xml:id="lca8s8-d1e776-Nd1e365">Sepulueda</name>: sed <name xml:id="lca8s8-d1e776-Nd1e367">Joanem Ma<lb ed="#P" break="no" n="9"/>ioris</name>
+          demiror ita facile fidem adhibuisse
+          <lb ed="#P" n="10"/>his qui indos gentem docilem, sinceram
+          <lb ed="#P" n="11"/>et ingeniosam, mendacijs impudentissi<lb ed="#P" break="no" n="12"/>mis
+          tamquam stupidos et feros traducunt: 
+          <lb ed="#P" n="13"/>quo in illos licentius predones immanis<lb ed="#P" break="no" n="14"/>simos
+          agant. Non decuit hominem Theo<lb ed="#P" break="no" n="15"/>logum
+          sententiam in re tanti momenti
+          <lb ed="#P" n="16"/>ita precipitare: presertim cum bulla <name xml:id="lca8s8-d1e776-Nd1e387">Ale<lb ed="#P" break="no" n="17"/>xandri
+            Sexti</name> ex relatione regum Castellae 
+          <lb ed="#P" n="18"/>narrat <name xml:id="lca8s8-d1e776-Nd1e395">Christophorum Colon</name> gentes quas<lb ed="#P" break="no" n="19"/>dam
+          denuo reperisse mansuetas tran<lb ed="#P" break="no" n="20"/>quille
+          absque ullius injuria,viuentes neque
+          <lb ed="#P" n="21"/>omnino diuini numinis ignorantes. 
+        </p>
+        <p xml:id="lca8s8-d1e776-d1e405">
+          Quis
+          <lb ed="#P" n="22"/>unquam vir grauis absque exacta facti et 
+          <lb ed="#P" n="23"/>juris cognitione calamum sumpsit? Hic
+          <lb ed="#P" n="24"/>vero juris imperitissimum sese demonstrat:
+          <lb ed="#P" n="25"/>et cum ad factum orationem dirigit: to<lb ed="#P" break="no" n="26"/>to
+          aberrat coelo. Quod ex <name xml:id="lca8s8-d1e776-Nd1e418">Ptholomaeo</name> in
+          <lb ed="#P" n="27"/><ref xml:id="lca8s8-d1e776-Rd1e421">quadripartito</ref> citat, falsum est: neque enim
+          <lb ed="#P" n="28"/><name xml:id="lca8s8-d1e776-Nd1e424">Ptholomaeus</name> tale quidquam scripsit. Describit
+          <lb ed="#P" n="29"/>orbem suo seculo cognitum, in <ref xml:id="lca8s8-d1e776-Rd1e428">2o tracta<lb ed="#P" break="no" n="30"/>tu
+            Tripartiti. c. 3o</ref>. Sed de hoc ad quod illum
+          <lb ed="#P" n="31"/>citat <name xml:id="lca8s8-d1e776-Nd1e436">Ioannes Maioris</name> nullum verbum foe<lb ed="#P" break="no" n="32"/>cit
+          <pb ed="#P" n="236-v"/>
+          <lb ed="#P" n="1"/>Neque enim prouincias Equatoris desc<lb ed="#P" break="no" n="2"/>ripsit
+          quas ipse incultas et inhabitab<lb ed="#P" break="no" n="3"/>iles 
+          putabat. Quos <name xml:id="lca8s8-d1e776-Nd1e449">Ptholomaeus</name> ferinos
+          <lb ed="#P" n="4"/>vocat Mauritaniam Africae incolunt ad
+          <lb ed="#P" n="5"/>promontorium quod nunc vulgo appellam<lb ed="#P" break="no" n="6"/>us
+          Cabo de Aguer, ubi Arabes vulgo Ala<lb ed="#P" break="no" n="7"/>rabes
+          degunt. Cumque <name xml:id="lca8s8-d1e776-Nd1e460">Ptholomaeus</name> nos<lb ed="#P" break="no" n="8"/>tros
+          indos numquam nouerit: quomodo eo<lb ed="#P" break="no" n="9"/>rum
+          meminisse potuit? Quod scribit <quote xml:id="lca8s8-d1e776-Qd1e466">homi<lb ed="#P" break="no" n="10"/>nes
+            feros et siluestres viuere citra et ul<lb ed="#P" break="no" n="11"/>tra
+            equinoctialem, falsum est: nisi lon<lb ed="#P" break="no" n="12"/>gissime
+            ab equatore recederent ita ut, in<lb ed="#P" break="no" n="13"/>clementia
+            frigoris et regionis intemperan<lb ed="#P" break="no" n="14"/>tia
+            hominum ratione quasi carerent.</quote>
+          <lb ed="#P" n="15"/>Ita scribit <ref xml:id="lca8s8-d1e776-Rd1e481"><name xml:id="lca8s8-d1e776-Nd1e482">Philosophus</name> 7o <title>Politicorum</title></ref>, et <ref xml:id="lca8s8-d1e776-Rd1e487"><name xml:id="lca8s8-d1e776-Nd1e488">Vege<lb ed="#P" break="no" n="16"/>tius</name> de re militari, libro 1o, c. 2o</ref>. Quo enim 
+          <lb ed="#P" n="17"/>regio proximior est zonis et circulo arcti<lb ed="#P" break="no" n="18"/>co
+          et antarctico: et quo propinquior est
+          <lb ed="#P" n="19"/>polis, tanto frigidior est, ob solis distan<lb ed="#P" break="no" n="20"/>tiam.
+          Vnde incolae minus valent ratio<lb ed="#P" break="no" n="21"/>ne.
+          Cum autem huiusmodi homines na<lb ed="#P" break="no" n="22"/>turae
+          monstrua judicentur necessario erunt
+          <lb ed="#P" n="23"/>rarissimi, ut supra probauimus. Ideo
+          <lb ed="#P" n="24"/>zonae illae nimio frigore rigentes exis<lb ed="#P" break="no" n="25"/>timantur
+          inhabitabiles, non quia a nullo
+          <lb ed="#P" n="26"/>incolantur, sed quia incolae rari sint. Quid
+          <lb ed="#P" n="27"/>quod indi noui orbis prouincias incolunt
+          <lb ed="#P" n="28"/>equinoctiali lineae proximas: omnes enim
+          <lb ed="#P" n="29"/>eorum prouinciae viginti vel viginti 25 vel 30 
+          <lb ed="#P" n="30"/>gradibus distant ab arctico et paulo plus ab
+          <lb ed="#P" n="31"/>antarctico Norte et Sur. Equinoctialis
+          <pb ed="#P" n="237-r"/> 
+          <lb ed="#P" n="1"/>autem linea, cum dies prestet noctibus equa<lb ed="#P" break="no" n="2"/>les:
+          temperatissima est. Vnde infertur 
+          <lb ed="#P" n="3"/>Indos felicissimas totius orbis regiones
+          <lb ed="#P" n="4"/>incolere, quod non modo theorice: sed prac<lb ed="#P" break="no" n="5"/>tice
+          scimus et experti sumus. Et, ex conse<lb ed="#P" break="no" n="6"/>quenti,
+          ingeniosos esse et plurimum va<lb ed="#P" break="no" n="7"/>lere
+          ratione juxta Aristotelis, Vegetij
+          <lb ed="#P" n="8"/>et Ptholomaei sententiam. Cuius rei ipsi
+          <lb ed="#P" n="9"/>testes sumus, qui perplures anos regiones
+          <lb ed="#P" n="10"/>illas peragrauimus gentesque illas peni<lb ed="#P" break="no" n="11"/>tissime
+          perspeximus eiusque mores et
+          <lb ed="#P" n="12"/>ingenia cognita habemus scimusque lon<lb ed="#P" break="no" n="13"/>ge
+          alia esse: quam quae <name xml:id="lca8s8-d1e776-Nd1e557">Joanes Maioris</name> vaniss<lb ed="#P" break="no" n="14"/>ime
+          scribit: ignorans gentis et equinoc<lb ed="#P" break="no" n="15"/>tialis
+          lineae felicem naturam quam si no<lb ed="#P" break="no" n="16"/>uisset
+          solum: satis erat ut reijceret calu<lb ed="#P" break="no" n="17"/>mnias
+          et mendacia eorum qui, in eas pro<lb ed="#P" break="no" n="18"/>uincias
+          penetrantes, gentem mansuetis<lb ed="#P" break="no" n="19"/>simam/.
+          sinceram et modestissimam: quod
+          <lb ed="#P" n="20"/>vix absque lacrimis referri potest: imma<lb ed="#P" break="no" n="21"/>nissime
+          vastarunt, et caetera.
+        </p>
+        <p xml:id="lca8s8-d1e776-d1e577">
+          ¶ Ex his elicitur
+          <lb ed="#P" n="22"/>nequaquam hic quadrare quod <name xml:id="lca8s8-d1e776-Nd1e581">Joanes Maio<lb ed="#P" break="no" n="23"/>ris</name>
+          profert ex Philosopho Graecum barbaro debere
+          <lb ed="#P" n="24"/>imperare. Indi enim nequaquam barbari sunt
+          <lb ed="#P" n="25"/>quos putabat ut supra c. 2o docuimus. 
+          <lb ed="#P" n="26"/>Hunc absurdum <name xml:id="lca8s8-d1e776-Nd1e593">Joanis Maioris</name> errorem
+          <lb ed="#P" n="27"/>fortassis secutus est quidam eius dis<lb ed="#P" break="no" n="28"/>cipulus
+          nomine Carolus. Hic missus
+          <lb ed="#P" n="29"/>in vicarium Episcopatus Conceptionis qui
+          <lb ed="#P" n="30"/>est in insula Hyspaniola anno 1513, sen[tentiam protulit]
+          <pb ed="#P" n="237-v"/>
+          <lb ed="#P" n="1"/>qua diremit matrimonium inter foeminam
+          <lb ed="#P" n="2"/>indam et hominem Hyspanum: 
+          <add place="lm" hand="F">Quidam judex 
+            Episcopi in insula Hyspaniola
+            dinortij 
+            sententiam protulit inter
+            Hyspanum et
+            indam dicens quod
+            stolida esset foemina
+            quae ex gente 
+            indorum
+          </add>
+          ea scilicet 
+          <lb ed="#P" n="3"/>ratione quod ipsam, quoniam erat inda judi<lb ed="#P" break="no" n="4"/>cauit
+          stupidam et expertem rationis. Qui
+          <lb ed="#P" n="5"/>paulo post, reuersus in Hyspaniam jus<lb ed="#P" break="no" n="6"/>to
+          Dei judicio permissus est cadere in mul<lb ed="#P" break="no" n="7"/>tos
+          errores super quibus accusatus apud
+          <lb ed="#P" n="8"/>officium sanctum inquisitionis a fratri<lb ed="#P" break="no" n="9"/>bus
+          Ordinis Predicatorum: <name xml:id="lca8s8-d1e776-Nd1e628">Burgis</name> tandem
+          <lb ed="#P" n="10"/>condemnatus: publice abjurauit errores il<lb ed="#P" break="no" n="11"/>los
+          cum magna ignominia et confusio<lb ed="#P" break="no" n="12"/>ne
+          sua: priuatusque munere predicationis
+          <lb ed="#P" n="13"/>et detrusus perpetuo vel carceri vel monas<lb ed="#P" break="no" n="14"/>terio
+          pro carcere assignato. Qui demum
+          <lb ed="#P" n="15"/>numquam amplius comparuit. Vide quid
+          <lb ed="#P" n="16"/>egerint hae <name xml:id="lca8s8-d1e776-Nd1e646">Joanis Maioris</name> absurdae ne
+          <lb ed="#P" n="17"/>dicam impiae neniae.
+        </p>
+        <p xml:id="lca8s8-d1e776-d1e651">
+          ¶ Preterea <name xml:id="lca8s8-d1e776-Nd1e653">Se<lb ed="#P" break="no" n="18"/>pulueda</name>
+          in confirmationem suae impiae
+          <lb ed="#P" n="19"/>sententiae: citat doctissimum patrem <name xml:id="lca8s8-d1e776-Nd1e660">Fran<lb ed="#P" break="no" n="20"/>ciscum
+            victoriensem</name> <ref xml:id="lca8s8-d1e776-Rd1e665">bellum in indos</ref> pro<lb ed="#P" break="no" n="21"/>basse
+        </p>
+        <p xml:id="lca8s8-d1e776-d1e670"> ¶ Addit Sepulueda ne sua, scilicet, 
+          <lb ed="#P" n="22"/>gloria spolietur patrem illum doctissi<lb ed="#P" break="no" n="23"/>mum
+          nequaquam protulisse precipua argu<lb ed="#P" break="no" n="24"/>menta
+          quae ipse adducit. Sed qui lege<lb ed="#P" break="no" n="25"/>rit
+          illius viri doctissimi duas Primae Re<lb ed="#P" break="no" n="26"/>lectionis
+          partes: facile perspiciet virum
+          <lb ed="#P" n="27"/>illum, in prima, septem capita proposuisse
+          <lb ed="#P" n="28"/>et catholice confutasse: quibus bellum
+          <lb ed="#P" n="29"/>aduersus indos justum videri potest.
+          <lb ed="#P" n="30"/>In secunda vero parte adduxit vir ille
+          <pb ed="#P" n="238-r"/> 
+          <lb ed="#P" n="1"/>octo titulos quibus vel aliquo illorum pote<lb ed="#P" break="no" n="2"/>rant
+          indi venire in ditionem Hyspanorum.
+          <lb ed="#P" n="3"/>In quibus supponit pro maiori parte quaedam 
+          <lb ed="#P" n="4"/>ut bellum hoc justum censeri possit falsis<lb ed="#P" break="no" n="5"/>sima:
+          et ab istis predonibus qui totum il<lb ed="#P" break="no" n="6"/>lum
+          orbem effusissime populantur ipsi dela<lb ed="#P" break="no" n="7"/>ta
+          fuere. In aliquibus autem eorum titulis
+          <lb ed="#P" n="8"/>aliqualiter remissius se habuit: volens
+          <lb ed="#P" n="9"/>temperare quod caesarianis videbatur 
+          <lb ed="#P" n="10"/>durius dixisse: quamuis apud veritatis ama<lb ed="#P" break="no" n="11"/>tores
+          in parte prima cuncta quae disseruit
+          <lb ed="#P" n="12"/>non dura id est non modo vera fuere: sed catholica 
+          <lb ed="#P" n="13"/>et quidem verissima. Quod ipse satis signi<lb ed="#P" break="no" n="14"/>ficat
+          dum conditionaliter loquitur: metu<lb ed="#P" break="no" n="15"/>ens
+          ne pro veris falsa supponeret aut di<lb ed="#P" break="no" n="16"/>ceret.
+          Cum autem circunstantiae quas doctiss
+          <lb ed="#P" n="17"/>imus ille pater supponit falsae sint: et
+          <lb ed="#P" n="18"/>aliqua timide dicat: certe <name xml:id="lca8s8-d1e776-Nd1e732">Sepulueda</name> eius
+          <lb ed="#P" n="19"/>opinonem falsis delationibus innixam 
+          <lb ed="#P" n="20"/>nobis obijcere non debuit.
+        </p>
+        <p xml:id="lca8s8-d1e776-d1e740"> ¶ Similiter pud<lb ed="#P" break="no" n="21"/>oris
+          tui <name xml:id="lca8s8-d1e776-Nd1e744">Sepuluede</name> frater fuisset: non 
+          <lb ed="#P" n="22"/>citare Reuerendos patres <name xml:id="lca8s8-d1e776-Nd1e748">Michaelem de 
+            <lb ed="#P" n="23"/>Arcos</name> et <name xml:id="lca8s8-d1e776-Nd1e753">Magistrum Herrera</name> et <name xml:id="lca8s8-d1e776-Nd1e756">Magis<lb ed="#P" break="no" n="24"/>trum
+              Esbarroya</name> et presentatum fratrem 
+          <lb ed="#P" n="25"/><name xml:id="lca8s8-d1e776-Nd1e762">Didacum victoriensem</name> ex instituto bea<lb ed="#P" break="no" n="26"/>ti
+          patris Diui dominici monachos eruditos: 
+          <lb ed="#P" n="27"/>quorum nomina jactas quasi tecum sen<lb ed="#P" break="no" n="28"/>tiant
+          impiamque tuam opinionem probent. 
+          <lb ed="#P" n="29"/>Sed dum meliora non ignoras <name xml:id="lca8s8-d1e776-Nd1e773">Sepulueda</name>: 
+          <lb ed="#P" n="30"/>quam fortiter tibi, ista jactanti aliqui eo<lb ed="#P" break="no" n="31"/>rum
+          in hoc presentes restiterint: conque<lb ed="#P" break="no" n="32"/>rentes
+          te illis impingere quod numquam 
+          <pb ed="#P" n="238-v"/> 
+          <lb ed="#P" n="1"/>dixerunt. Alij falsis delationibus et im<lb ed="#P" break="no" n="2"/>pijs
+          mendacijs instructi responderunt non
+          <lb ed="#P" n="3"/>absolute: bellum hoc justum esse posse sup<lb ed="#P" break="no" n="4"/>positis
+          omnibus illis criminosis menda<lb ed="#P" break="no" n="5"/>cijs
+          quibus cum consulerentur fuerunt 
+          <lb ed="#P" n="6"/>adducti. Addiderunt tamen opus tuum 
+          <lb ed="#P" n="7"/>haec impia continens nullo modo publi<lb ed="#P" break="no" n="8"/>cari
+          debere: ne impijs quibus nihil deest
+          <lb ed="#P" n="9"/>preter occasionem: hic tuus tantopere ja<lb ed="#P" break="no" n="10"/>ctatus
+          libellus animos ad rapinas et ce<lb ed="#P" break="no" n="11"/>des
+          adderet. Quod ipsi ultro nullis meis
+          <lb ed="#P" n="12"/>litteris prouocati ad me scripserunt. 
+        </p>
+        <p xml:id="lca8s8-d1e776-d1e810">
+          De<lb ed="#P" break="no" n="13"/>sine
+          igitur tuo errori tantorum virorum 
+          <lb ed="#P" n="14"/>nomina pretexere: sed potius Christi cau<lb ed="#P" break="no" n="15"/>sam
+          uti doctissimum virum decet gra<lb ed="#P" break="no" n="16"/>uiter
+          adiuua.
+        </p>
       </div>
     </body>
   </text>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 58 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 58 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-05">July 05, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="240-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e803">
+        <p xml:id="lca8s8-d1e803-d1e97">
+          <lb ed="#P" n="2"/>CAPut 58m
+        </p>
+        <p xml:id="lca8s8-d1e803-d1e102">
+          <lb ed="#P" n="3"/><pc type="pilcrow"/> Non est mirandum si <name xml:id="lca8s8-d1e803-Nd1e107">Ouiedus</name> tot cri<lb ed="#P" break="no" n="4"/>minosis 
+          mendaciis gentem indorum pro<lb ed="#P" break="no" n="5"/>scindit
+          quod ei obuenit ex duobus. Primo 
+          <lb ed="#P" n="6"/>enim is unus fuit ex predonibus illis qui
+          <lb ed="#P" n="7"/>etate <add place="margin-left">alias Petri Arias</add> Pedrariae in continentem penetrauit 
+          <lb ed="#P" n="8"/>anno MDXIII illi enim ante omnes in<lb ed="#P" break="no" n="9"/>cipientes 
+          a prouincia Dariena quae ad Vra<lb ed="#P" break="no" n="10"/>banum 
+          sinum pertinet: omnem continen<lb ed="#P" break="no" n="11"/>tem 
+          immanissima truculentia vastarunt 
+          <lb ed="#P" n="12"/>non solum non parcentes infantibus foe<lb ed="#P" break="no" n="13"/>minis 
+          vel senibus: quinimo viuos etiam ho<lb ed="#P" break="no" n="14"/>mines 
+          concremando ut aurum illorum 
+          <lb ed="#P" n="15"/>diriperent: illosque inter se diuiderent hoc 
+          <lb ed="#P" n="16"/>est, in seruitutem pertraherent. Erat tum 
+          <lb ed="#P" n="17"/>temporis <name xml:id="lca8s8-d1e803-Nd1e143">Ouiedus</name> prepositus inspicien<lb ed="#P" break="no" n="18"/>dis 
+          regis rationibus. Hoc enim est officium 
+          <lb ed="#P" n="19"/>eius qui vulgo appellatur veedor. Et ad 
+          <lb ed="#P" n="20"/>eum pertinebat pars predae ex his abominan<lb ed="#P" break="no" n="21"/>dis 
+          incursionibus collectae. Dormiebant scilicet 
+          <lb ed="#P" n="22"/>miseri indi nihil tale cogitantes: et ecce 
+          <lb ed="#P" n="23"/>sub auroram immanissimi isti latrones ve<lb ed="#P" break="no" n="24"/>rius 
+          quam milites eorum domos ex paleis 
+          <lb ed="#P" n="25"/>constructas impetu facto adoriebantur: 
+          <lb ed="#P" n="26"/>admotoque igne: et domos et homines viuos 
+          <lb ed="#P" n="27"/>concremabant: exstinctisque flammis: aurum 
+          <lb ed="#P" n="28"/>igne conflatum quaerebant. Neque his con<lb ed="#P" break="no" n="29"/>tenti 
+          indos quos viuos ceperant imma<lb ed="#P" break="no" n="30"/>nissime 
+          tormentis dilaniabant ut indi<lb ed="#P" break="no" n="31"/>carent 
+          ubinam maior auri vis lateret
+          <pb ed="#P" n="241-r"/>
+          <lb ed="#P" n="1"/>Haec autem omnia ex consilio atque ex consen<lb ed="#P" break="no" n="2"/>su 
+          ipsius <name xml:id="lca8s8-d1e803-Nd1e182">Ouiedi</name> et caeterorum officiariorum 
+          <lb ed="#P" n="3"/>regis fiebant: ut tot predae partes haberent: 
+          <lb ed="#P" n="4"/>quot famulos ministros misissent ad 
+          <lb ed="#P" n="5"/>impium facinus: cum caeteris perpetran<lb ed="#P" break="no" n="6"/>dum. 
+          Haec abominanda flagitia presta<lb ed="#P" break="no" n="7"/>ret 
+          <name xml:id="lca8s8-d1e803-Nd1e195">Ouiedum</name> restitutione sarcire quam cri<lb ed="#P" break="no" n="8"/>minosis 
+          calumniis et impudentibus men<lb ed="#P" break="no" n="9"/>daciis 
+          traducere gentem mitissimam <pc type="virgula">/</pc> mo<lb ed="#P" break="no" n="10"/>destissimam 
+          et christi sanguine redem<lb ed="#P" break="no" n="11"/>ptam. 
+          Scit ipse Ouiedus quot indos in<lb ed="#P" break="no" n="12"/>usto 
+          fronti ferro in seruitutem pertraxe<lb ed="#P" break="no" n="13"/>rint 
+          quorum <seg type="correction">par<subst><add place="above-line">s</add><del rend="strikethrough">tem</del></subst></seg> ipsi obueniebat. Quot 
+          <lb ed="#P" n="14"/>regulos et primarios viros truculenter dis<lb ed="#P" break="no" n="15"/>cerpserint? 
+          quamque tyranice populos vel 
+          <lb ed="#P" n="16"/>indos inter se diuiserint: ut indi non uni 
+          <lb ed="#P" n="17"/>sed pluribus tyranis seruirent. Meminit
+          <lb ed="#P" n="18"/>quam duras et iniquas operas usque ad exala<lb ed="#P" break="no" n="19"/>tionem 
+          animae illis imposuerunt: non 
+          <lb ed="#P" n="20"/>parcentes teneris pueris: non foeminis: 
+          <lb ed="#P" n="21"/>non etate confractis senibus: quominus 
+          <lb ed="#P" n="22"/>aurum a terrae visceribus eruerent. Non 
+          <lb ed="#P" n="23"/>ignorat huius impietatis infelicissimum 
+          <lb ed="#P" n="24"/>exitum. Quid enim ignoret quod toti 
+          <lb ed="#P" n="25"/>orbi notissimum est? regiones illae im<lb ed="#P" break="no" n="26"/>mensa
+          prope incolarum multitudine cul<lb ed="#P" break="no" n="27"/>tissimae: 
+          per mille et ducentum millia ad 
+          <lb ed="#P" n="28"/>Nicaraguam usque dirutae euastatae <pc type="virgula">/</pc> ac pro<lb ed="#P" break="no" n="29"/>rsus 
+          incolis desertae: horum latronum tru<lb ed="#P" break="no" n="30"/>culentissimae immanitatis testimonium 
+          <lb ed="#P" n="31"/>miserandum prebuere: suas hie partes 
+          <lb ed="#P" n="32"/>egit Ouiedus. Nimirum unus ex im<pb ed="#P" n="241-v"/><lb ed="#P" n="1"/>impiis 
+          illis predonibus quod ipse non vult 
+          <lb ed="#P" n="2"/>clam haberi. Sic enim inquit in prefatio<lb ed="#P" break="no" n="3"/>ne 
+          primae partis nugacissimae suae hystoriae. 
+          <lb ed="#P" n="4"/>Sic me occupaui pro vestrae maiestatis ob<lb ed="#P" break="no" n="5"/>sequio 
+          in inspiciendis rationibus quando 
+          <lb ed="#P" n="6"/>et quomodo oportuit: ut non bello et paci<lb ed="#P" break="no" n="7"/>ficatione 
+          illarum cum armis defuerim. 
+          <lb ed="#P" n="8"/>haec ille. Pacificationem vocat sicophan<lb ed="#P" break="no" n="9"/>ta 
+          creaturas Dei rationales turcica im<lb ed="#P" break="no" n="10"/>manitate 
+          absque ulla vel leuissima causa 
+          <lb ed="#P" n="11"/>occidisse innumerasque animas quae for<lb ed="#P" break="no" n="12"/>san 
+          christum agnoscerent orcolitasse: cum 
+          <lb ed="#P" n="13"/>infamia mira christiani nominis. Mi<lb ed="#P" break="no" n="14"/>rabitur 
+          <sic>forsam</sic> aliquis criminum im<lb ed="#P" break="no" n="15"/>manitatem: 
+          sed ita mihi christus sit pro<lb ed="#P" break="no" n="16"/>pitius 
+          et istis impartiat spiritum peniten<lb ed="#P" break="no" n="17"/>tiae 
+          ad suam gloriam: ut haec si vera refe<lb ed="#P" break="no" n="18"/>rantur 
+          leuia et humana ut ita dicam 
+          <lb ed="#P" n="19"/>videri possint respectu eorum quae me 
+          <lb ed="#P" n="20"/>silere cogit multitudo et immensitas gra<lb ed="#P" break="no" n="21"/>uitasque 
+          crudelitatum per illos patrata<lb ed="#P" break="no" n="22"/>rum.
+        </p>
+        <p xml:id="lca8s8-d1e803-d1e317">
+          Vlterius <name xml:id="lca8s8-d1e803-Nd1e319">Ouiedus</name> scribit libro 
+          <lb ed="#P" n="23"/>6 c. 8 haec verba narrans formam 
+          <lb ed="#P" n="24"/>qua aurum eruitur in illis regionibus. 
+          <lb ed="#P" n="25"/>Ego (inquit) foci aurum extrahi ab in<lb ed="#P" break="no" n="26"/>dis 
+          meis seruis. Vides hunc fuisse 
+          <lb ed="#P" n="27"/>unum ex his qui indis pro seruis ute<lb ed="#P" break="no" n="28"/>batur: 
+          fuisse ducem et ipse gloriatur il<lb ed="#P" break="no" n="29"/>lius 
+          diabolici belli. Quinimo desolationis 
+          <lb ed="#P" n="30"/>et direptionis earum prouinciarum quae
+          <lb ed="#P" n="31"/>dicebantur del Darien. Quisquis ergo 
+          <lb ed="#P" n="32"/>legerit Ouiedi hystoriam illud certo sci<pb ed="#P" n="242-r"/><lb ed="#P" n="1"/>at
+          tot tamque immania facinora in ea expe<lb ed="#P" break="no" n="2"/>ditione 
+          fuisse commissa: ut si indi <sic>peccora</sic> essent:
+          <lb ed="#P" n="3"/>potuissent non solum bonos mortales: verum 
+          <lb ed="#P" n="4"/>etiam ferrei pectoris homines ad misericor<lb ed="#P" break="no" n="5"/>diam 
+          mouere. Quod si <name xml:id="lca8s8-d1e803-Nd1e357">Ouiedus</name> huius im<lb ed="#P" break="no" n="6"/>piae 
+          expeditionis socius fuit: quid non di<lb ed="#P" break="no" n="7"/>cet 
+          de indis? Quibus vitiis non scribet illos 
+          <lb ed="#P" n="8"/>esse contaminatos? Sed quaenam fides hos<lb ed="#P" break="no" n="9"/>ti 
+          adhibenda est: et ei qui totam illam hys<lb ed="#P" break="no" n="10"/>toriam 
+          ex impudentissimis mendacijs con<lb ed="#P" break="no" n="11"/>texuit? 
+          Cuius oculos ob haec saeua crimina Deus 
+          <lb ed="#P" n="12"/>excaecauit: simul cum aliis predonibus qui 
+          <lb ed="#P" n="13"/>superbia <pc type="virgula">/</pc> cupiditate <pc type="virgula">/</pc> saeuitia <pc type="virgula">/</pc> libidine do<lb ed="#P" break="no" n="14"/>minandi 
+          et ambitione fuerant infames: 
+          <lb ed="#P" n="15"/>ne foret dignus quatenus illi Deus conce<lb ed="#P" break="no" n="16"/>deret 
+          cognoscere gentem illam nudam, mo<lb ed="#P" break="no" n="17"/>destam, 
+          simplicem <pc type="virgula">/</pc> et mitem esse: quam 
+          <lb ed="#P" n="18"/>predam habuerunt: non intelligentes quo 
+          <lb ed="#P" n="19"/>ingenio quaque docilitate predita <sic>essent</sic>: quam<lb ed="#P" break="no" n="20"/>que 
+          <sic>essent</sic> apti et prompti ad suscipiendum 
+          <lb ed="#P" n="21"/>christianam religionem. Et haec fuit secun<lb ed="#P" break="no" n="22"/>da 
+          ratio quare <name xml:id="lca8s8-d1e803-Nd1e413">Ouiedus</name> tot scripsit con<lb ed="#P" break="no" n="23"/>tra 
+          innoxias gentes perniciosa mendacia.
+        </p>
+        <p xml:id="lca8s8-d1e803-d1e418">
+          <lb ed="#P" n="24"/>Cur non is imitatus est diuum Grego<lb ed="#P" break="no" n="25"/>rium 
+          qui videns Anglos quosdam in ser<lb ed="#P" break="no" n="26"/>uitutem
+          pertractos: rogauit quomodo ap<lb ed="#P" break="no" n="27"/>pellaretur 
+          prouincia unde fuerunt abdu<lb ed="#P" break="no" n="28"/>cti:
+          responsum est appellari Dei. Recte 
+          <lb ed="#P" n="29"/>quidem dixit vir sanctissimus appella<lb ed="#P" break="no" n="30"/>tur 
+          Dei: nam ab ira ducuntur ad mise<lb ed="#P" break="no" n="31"/>ricordiam 
+          christi. Interrogauit quomodo 
+          <lb ed="#P" n="32"/>appellaretur illorum rex: responsum est 
+          <pb ed="#P" n="242-v"/>
+          <lb ed="#P" n="1"/>vocari Adelle: recte quidem dixit <name xml:id="lca8s8-d1e803-Nd1e444">Gregorius</name> 
+          Canet enim domino alleluia. Ita debuit fac<lb ed="#P" break="no" n="2"/>ere 
+          <name xml:id="lca8s8-d1e803-Nd1e448">Ouiedus</name>: cogitare (scilicet) quod quamuis indi 
+          <lb ed="#P" n="3"/>essent nudi: indui poterant vestimento fi<lb ed="#P" break="no" n="4"/>dei 
+          spei et charitatis. Equumque esset homi<lb ed="#P" break="no" n="5"/>nem 
+          qui vetustas hystorias legisse videri 
+          <lb ed="#P" n="6"/>cupit: hyspanice scriptas tamen: meminis<lb ed="#P" break="no" n="7"/>se
+          Persas <pc type="virgula">/</pc> et Scythas <pc type="virgula">/</pc> Massagetas <pc type="virgula">/</pc> Derbices <pc type="virgula">/</pc> 
+          Tybarenos <pc type="virgula">/</pc> Hyrcanos: atque adeo ipsos Ro<lb ed="#P" break="no" n="8"/>manos 
+          Anglos et cantabros et alias hyspania<lb ed="#P" break="no" n="9"/>rum 
+          gentes vitiis, <seg type="correction">eferis<add place="above-line">que</add></seg> moribus longe super<lb ed="#P" break="no" n="10"/>asse 
+          indos: quos isti veluti pecora infamant: 
+          <lb ed="#P" n="11"/>ut ex strabane <pc type="virgula">/</pc> Mela <pc type="virgula">/</pc> Solino <pc type="virgula">/</pc> Diodoro <pc type="virgula">/</pc> 
+          <lb ed="#P" n="12"/>Herodoto, et Hieronimo libro 2o aduersus 
+          <lb ed="#P" n="13"/>Iouinianum apparet. Quis tamen unquam 
+          <lb ed="#P" n="14"/>legit eos hoc nomine abiectos vel contemp<lb ed="#P" break="no" n="15"/>tos 
+          fuisse: ut non pro hominibus sed pro 
+          <lb ed="#P" n="16"/>Iumentis haberentur? Anuntiatum est 
+          <lb ed="#P" n="17"/>eis gentibus euangelium: sed christiane 
+          <lb ed="#P" n="18"/>sed modestia euangelica. Superauit Egip<lb ed="#P" break="no" n="19"/>tus 
+          omnes regiones monstruosis et abomi<lb ed="#P" break="no" n="20"/>nandis 
+          demonum cultibus: sed tamen cor<lb ed="#P" break="no" n="21"/>uscante 
+          euangelii luce: abundauit ibi gra<lb ed="#P" break="no" n="22"/>tia 
+          Dei: adeo ut sanctorum monachorum tur<lb ed="#P" break="no" n="23"/>mis 
+          incolerentur solitudines et monstruo<lb ed="#P" break="no" n="24"/>sa 
+          deserta. Quid scit <name xml:id="lca8s8-d1e803-Nd1e531">Ouiedus</name> an indiae 
+          <lb ed="#P" n="25"/>regiones idem habiturae essent, nisi im<lb ed="#P" break="no" n="26"/>maniter 
+          fuissent euastatae? Quid enim 
+          <lb ed="#P" n="27"/>non potest verbum Dei et baptismi gratia 
+          <lb ed="#P" n="28"/>Verumtamen si <name xml:id="lca8s8-d1e803-Nd1e542">ouiedus</name> tantam adhi<lb ed="#P" break="no" n="29"/>buerat 
+          diligentiam in interrogandis doc<lb ed="#P" break="no" n="30"/>tis 
+          viris ut sciret effectus mirabilis effi<pb ed="#P" n="243-r"/><lb ed="#P" break="no" n="1"/>caciae 
+          quos parit verbum Dei et fidei ha<lb ed="#P" break="no" n="2"/>bitus 
+          caeterique supernaturales qui certissime 
+          infunduntur animae in sacramento baptismi
+          <lb ed="#P" n="3"/>Similiter occuparet se in consideratione quam 
+          <lb ed="#P" n="4"/>suaue est Iugum christi et onus leue: 
+          <lb ed="#P" n="5"/>moremque pium et modestiam uniuersa<lb ed="#P" break="no" n="6"/>lis 
+          ecclesiae qua in trahendis ad gremium 
+          <lb ed="#P" n="7"/>suum his qui nondum fores ipsius fue<lb ed="#P" break="no" n="8"/>runt 
+          ingressi: semper usa est: sicut se to<lb ed="#P" break="no" n="9"/>tum 
+          in vita profanis rebus dedit ut doc<lb ed="#P" break="no" n="10"/>tus 
+          appareret: qui nunquam literas didi<lb ed="#P" break="no" n="11"/>cit 
+          latinas: profecto maledicta tempera<lb ed="#P" break="no" n="12"/>ret 
+          quae in miseros innocentes falso ut 
+          <lb ed="#P" n="13"/>in plurimum congessit.
+        </p>
+        <p xml:id="lca8s8-d1e803-d1e579">
+          Preterea scripsit 
+          <lb ed="#P" n="14"/>Ouiedus libro 5 c. 3. incolas insulae hys<lb ed="#P" break="no" n="15"/>panicae 
+          sodomitas aliisque nefandis crimi<lb ed="#P" break="no" n="16"/>nibus 
+          obnoxios esse: sed reuera falso id 
+          <lb ed="#P" n="17"/>scripsit. Ego enim unus sum ex eorum 
+          <lb ed="#P" n="18"/>numero, qui primo vel saltem Secundo in 
+          <lb ed="#P" n="19"/>eam insulam nauigarunt circiter annum 
+          <lb ed="#P" n="20"/><num>MDoo</num> eo tempore quo Bobadilla commenda<lb ed="#P" break="no" n="21"/>tarius,
+          qui Colonem in vinculis hyspani<lb ed="#P" break="no" n="22"/>am 
+          misit ibi adesset, ubi moratus sum per 
+          <lb ed="#P" n="23"/>plures annos. Factaque a me de hac re dili<lb ed="#P" break="no" n="24"/>gentissima 
+          inquisitione reperi nefandum vicium
+          sodomiae apud eos esse vel nullum 
+          <lb ed="#P" n="25"/>vel rarissimum. Solummodo intellexi quod si quis 
+          <lb ed="#P" n="26"/>de abominando eo scelere infamatus nos<lb ed="#P" break="no" n="27"/>cebatur:
+          vix iratarum foeminarum qui
+          <lb ed="#P" n="28"/>in eos consurgebant manus effugiebat. 
+          <pb ed="#P" n="243-v"/>
+          <lb ed="#P" n="1"/>Tempore <add place="above-line">autem</add> quo <name xml:id="lca8s8-d1e803-Nd1e622">Ouiedus</name> in eam Insulam intra<lb ed="#P" break="no" n="2"/>uit: 
+          Iam omnis Indorum gens funditus pe<lb ed="#P" break="no" n="3"/>rierat 
+          ex immensa mortalium multitudi<lb ed="#P" break="no" n="4"/>ne: 
+          hyspanorum quoque de occisoribus Indo<lb ed="#P" break="no" n="5"/>rum 
+          nisi duo tresue nemo extabat, sed 
+          <lb ed="#P" n="6"/>omnes mortui erant.
+        </p>
+        <p xml:id="lca8s8-d1e803-d1e637">
+          <name xml:id="lca8s8-d1e803-Nd1e639">Ouiedus</name> autem suam 
+          <lb ed="#P" n="7"/>hystoriam vel nugamenta potius contexuit 
+          <lb ed="#P" n="8"/>ex fabellis quas sibi narrauit unus is<lb ed="#P" break="no" n="9"/>torum 
+          nauta quidam cui nomen erat <name xml:id="lca8s8-d1e803-Nd1e647">Fer<lb ed="#P" break="no" n="10"/>dinandus 
+          Perez</name>, qui nauem seruans nun<lb ed="#P" break="no" n="11"/>quam 
+          vel tarde in terram descendebat. So<lb ed="#P" break="no" n="12"/>lebatque 
+          nautico more indos infamare 
+          <lb ed="#P" n="13"/>quo ipsorum labore et facultatibus predones 
+          <lb ed="#P" n="14"/>verius quam milites largius saginarentur: 
+          hoc certissimum fuisse credimus: quod 
+          <lb ed="#P" n="15"/>Deo dante latius docebo in hystoria a me 
+          <lb ed="#P" n="16"/>de indianis rebus scripta quod omnes in<lb ed="#P" break="no" n="17"/>colae
+          insulae hyspanicae: et insulae diui Ioa<lb ed="#P" break="no" n="18"/>nis: 
+          Cubae atque Iamaicae et caeterarum quae 
+          <lb ed="#P" n="19"/>lucayae vocantur. Quae quondam cultis<lb ed="#P" break="no" n="20"/>simae 
+          nunc istorum immanitate desertae 
+          <lb ed="#P" n="21"/>sunt: a tribus viciis prorsus immunes erant. 
+          <lb ed="#P" n="22"/>Neque enim homines immolabant: vel 
+          <lb ed="#P" n="23"/>carnes humanas comedebant: vel sodo<lb ed="#P" break="no" n="24"/>mitae 
+          erant. Didicerunt illi plurima pro<lb ed="#P" break="no" n="25"/>fecto
+          peccata ab hispanis: credentes sancta 
+          <lb ed="#P" n="26"/>esse omnia quae ab illis agerentur. Quod 
+          <lb ed="#P" n="27"/>vero <name xml:id="lca8s8-d1e803-Nd1e689">Ouiedus</name> Indos asserit indociles, et 
+          <lb ed="#P" n="28"/>incorrigibiles esse falso falsius est ut 
+          <lb ed="#P" n="29"/>ex secunda huius apologiae parte mani<pb ed="#P" n="244-r"/><lb ed="#P" break="no" n="1"/>feste 
+          apparebit <pc type="virgula">//</pc>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

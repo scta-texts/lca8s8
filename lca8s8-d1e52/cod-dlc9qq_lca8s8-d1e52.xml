@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 56 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 1 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-09">July 9, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="11-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e52">
+		<head id="P">Caput 56 [Bnf 12926 Transcription]</head>
+		<p>
+			<lb ed="#P" n="P"/>ADVERSVS PERSECVTORES ET CALVMNIATORES GENTIVM
+			<lb ed="#P" n="P"/>NOVI ORBIS AD OCEANVM REPERTI APOLOGIA ADMODVM
+			<lb ed="#P" n="P"/>REVERENDISSIMI DOMINI D. FRATRIS
+			<lb ed="#P" n="P"/>BARTHOLOMEI CASAVS, EPISCOPI QVONDAM CHIADPENSIS,
+			<lb ed="#P" n="P"/>SACRI ORDINIS PREDICATORVM.
+		</p>
+		<p>
+			<lb ed="#P" n="P"/>Capvt primum
+		</p>
+		<p>
+			<lb ed="#P" n="P"/>Quicumque vel voce vel scriptis docent noui
+			<lb ed="#P" n="P"/>orbis habitatores, quos vulgo indos appella<lb ed="#P" break="no" n="P"/>mus, 
+			debere bello domari subigique antequam il<lb ed="#P" break="no" n="P"/>lis 
+			anuntietur et predicetur euangelium: ut
+			<lb ed="#P" n="P"/>demum postquam sint perdomiti instruantur
+			<lb ed="#P" n="P"/>et audiant verbum dei: fede errant circa duo 
+			<pb ed="#P" n="11-v"/>
+			<lb ed="#P" n="P"/>Primo circa ius diuinum et humanum ab<lb ed="#P" break="no" n="P"/>utentes 
+			diuinis verbis: vim facientes scriptu<lb ed="#P" break="no" n="P"/>ris,
+			et decretis pontificis: traditionibusque san<lb ed="#P" break="no" n="P"/>ctorum 
+			patruum: ac rursus errant dum ad<lb ed="#P" break="no" n="P"/>ducunt 
+			hystorias, quae nihil aliud sunt quam
+			<lb ed="#P" n="P"/>merae fabulae: et impudentissima nugamenta:
+			<lb ed="#P" n="P"/>quibus infensissimi miserae indorum gentis: fal<lb ed="#P" break="no" n="P"/>sissimi 
+			inimici traducunt cos. Preterea er<lb ed="#P" break="no" n="P"/>rant 
+			circa sensum decreti seu bullae Alexandri
+			<lb ed="#P" n="P"/>Sexti pontificis maximi cuius verba depra<lb ed="#P" break="no" n="P"/>uant 
+			et detorquent, in comprobationem suae
+			<lb ed="#P" n="P"/>opinionis, ut per sequentia erunt cuncta ma<lb ed="#P" break="no" n="P"/>nifesta. 
+			Rursus eorum error et ignorantia pro<lb ed="#P" break="no" n="P"/>batur 
+			manifestissime: quoniam definiunt
+			<lb ed="#P" n="P"/>de rebus pertinentibus ad infinitam morta<lb ed="#P" break="no" n="P"/>lium 
+			multitudinem et vastissima latissimarum
+			<lb ed="#P" n="P"/>prouinciarum spatia: quae omnia cum non
+			<lb ed="#P" n="P"/>plene cognoscant: impudentia temeritasque su<lb ed="#P" break="no" n="P"/>ma 
+			est de eis pronuntiare deffectus grauissi<lb ed="#P" break="no" n="P"/>mos:
+			tum naturales: tum de moribus: tot
+			<lb ed="#P" n="P"/>hominum miriades in uniuersum damnan<lb ed="#P" break="no" n="P"/>tes:
+			cum reuera maxima copia eorum ab hu<lb ed="#P" break="no" n="P"/>iusmodi 
+			libera sit. Quae omnia innumeras animas trahunt in exitium impediuntque
+			<lb ed="#P" n="P"/>utilitatem dilatandae religionis christianae:
+			<lb ed="#P" n="P"/>obturantes oculos eorum qui caeca ambitione fu<lb ed="#P" break="no" n="P"/>rentes
+			in id unum corporis et animi vires in<lb ed="#P" break="no" n="P"/>tendunt: 
+			ut opes: ut imperium: honores et di<lb ed="#P" break="no" n="P"/>gnitates 
+			consequantur: atque in eum usum oc<lb ed="#P" break="no" n="P"/>cidunt 
+			discerpuntque immani saeuitia popu<lb ed="#P" break="no" n="P"/>los 
+			innocentissimos mansuetissimos innoxios
+			<pb ed="#P" n="12-r"/>
+			<lb ed="#P" n="P"/>modestos, paratissimos promptissimosque ad
+			<lb ed="#P" n="P"/>suscipiendum amplectendumque verbum dei.
+		</p>
+		<p>
+			<lb ed="#P" n="P"/>Quis, non jam dicam in theologia <name>paulo</name> doc<lb ed="#P" break="no" n="P"/>tior:
+			sed vel sani cerebri est: qui judicium
+			<lb ed="#P" n="P"/><ref>sententiamque</ref> adeo male christianam proferre
+			<lb ed="#P" n="P"/>ausit: ex qua tot saeua bella: tot cedes: tot or<lb ed="#P" break="no" n="P"/>bitates:
+			tot miseranda mala producuntur?
+			<lb ed="#P" n="P"/>Nonne habemus verbum Christi: <quote>videte ne
+			<lb ed="#P" n="P"/>contemnatis unum ex his pusillis!</quote> Et <quote>vae ei per
+			<lb ed="#P" n="P"/>quem scandalum venit?</quote> Et <quote>qui non est me<lb ed="#P" break="no" n="P"/>cum 
+			contra me est</quote>: et <quote>qui non colligit mecum
+			<lb ed="#P" n="P"/>dispergit.</quote> Et alibi: <quote>Sufficit diei malitia sua</quote>.
+			<lb ed="#P" n="P"/>Qis tam impius est ut excitare velit homi<lb ed="#P" break="no" n="P"/>nes 
+			saeuos, ambitiosos, superbos, auaros, effre<lb ed="#P" break="no" n="P"/>nes 
+			et semper ociosos ad expilandum fratres
+			<lb ed="#P" n="P"/>suos: et ad delendum animas eorum simul
+			<lb ed="#P" n="P"/>cum rebus: cum bellum licitum numquam sit:
+			<lb ed="#P" n="P"/>nisi quando ineuitabili necessitate geritur?
+			<lb ed="#P" n="P"/>Quis igitur sani capitis probabit bellum ad<lb ed="#P" break="no" n="P"/>uersus 
+			homines innocentes, ignorantes, mites,
+			<lb ed="#P" n="P"/>modestos, inermes, omnique presidio humano
+			<lb ed="#P" n="P"/>destitutos: cum ex tali bello oriatur certissi<lb ed="#P" break="no" n="P"/>mum 
+			exitium animarum eius gentis, quae <quote>pe<lb ed="#P" break="no" n="P"/>rit 
+			absque cognitione dei, absque robore sacramen<lb ed="#P" break="no" n="P"/>torum</quote>, 
+			et his qui supersunt odiosa reddatur,
+			<lb ed="#P" n="P"/>et abominabilis religio christiana: unde finis
+			<lb ed="#P" n="P"/>quem deus intendit et pro illius consecutio<lb ed="#P" break="no" n="P"/>ne 
+			tot tantaque passus est frustretur: ex impie<lb ed="#P" break="no" n="P"/>tatibus 
+			et atrocitate quam nostri immani sae<lb ed="#P" break="no" n="P"/>uitia 
+			in eos exercent? Quam opinionem conci<lb ed="#P" break="no" n="P"/>piet 
+			de christo, christianorum vero Deo, ea gens
+			<pb ed="#P" n="12-v"/>
+			<lb ed="#P" n="P"/>cum videat christianos absque ulla justa causa, saltem ipsis cognita, nec imaginabili quidem, et absque ulla culpa ab eis commissa in christianos, tot stragibus tanto profuso sanguine in eos saeuire? Quod bonum potest ex his bellicis expeditionibus oriri quod apud Deum, inefabili charitate cuncta aestimantem, par sit tot malis, tot injurijs, tot inusitatis cladibus? Rursus quomodo ea gens amabit, quomodo amicitiam contrahet cum nostris, (quod necessarium est ut nostram fidem suscipiant), cum filij videant sese orbatos parentibus, uxores viris, patres liberis et amicis? Item cum videant eos quos diligunt vulneratos, captos, spoliatos, et ex innumera multitudine ad paucos redactos? Cum videant principes sua ditione spoliatos, oppressos, et miserabili seruitute afflictos? Quae omnia necessario succedunt ex bello. Quisnam est qui ita vellet sibi predicari Euangelium? Nonne generaliter ad omnes homines pertinet negatiuum illud preceptum: Quod ab alio fieri tibi non vis'?, vide tu ne alteri facias? Ac rursus illud affirmatiuum: Omnia quaecumque vultis ut faciant vobis homines et vos facite illis*. Hoc quiuis homo lumine naturali mentibus nostris impresso cognoscit, deprehendit, intelligit. Ex quo manifeste apparet eos qui docent oues illas mansuetissimas prius saeuo bello a rapacibus lupis edomandas quam verbo Dei pascendas, labi circa res manifestissimas et aduersari legi naturali. [13r.] Errant etiam impie dum dicunt haec bella justa esse si gerantur ut geri debent; sentiunt, opinor, si gerantur moderate occidendo tantum eos quos necessarium est occidere ut caeteri subigantur. Quasi omnes nouis orbis populos caueis aut ergastulis inclusos haberent trucidarique velint tot hominum capita quot solent in macellis vendi quolibet die ad populi victum et alimenta, ut hoc in similitudinem afferam. Quod si considerent bel
+		</p>
+	</div>
+    </body>
+  </text>
+</TEI>

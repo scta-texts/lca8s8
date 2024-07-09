@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 57 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 57 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-09">July 09, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="238-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e789">
+        <p xml:id="lca8s8-d1e789-d1e97">
+          <lb ed="#P" n="17"/>CAPut 57m
+        </p>
+        <p xml:id="lca8s8-d1e789-d1e102">
+          <lb ed="#P" n="18"/><pc type="pilcrow"/> Non videtur omittendum quod ad hu<lb ed="#P" break="no" n="19"/>ius 
+          quaestionis veritatem nonnihil facit 
+          <lb ed="#P" n="20"/>Sepuluedam incredibili cupiditate euul<lb ed="#P" break="no" n="21"/>gandi 
+          impium opus quod de hac rescrip<lb ed="#P" break="no" n="22"/>sit: 
+          presentasse ilium in supremo india<lb ed="#P" break="no" n="23"/>rum 
+          pretorio. Ubi perspecta operis impie<lb ed="#P" break="no" n="24"/>tate 
+          et presentissimo eius veneno pruden<lb ed="#P" break="no" n="25"/>tissimi 
+          senatores reiecerunt opus: nolen<lb ed="#P" break="no" n="26"/>tes 
+          illud excudi. Sed rursus Sepulue<lb ed="#P" break="no" n="27"/>da 
+          ne bellum hoc opus sibi periret: miris 
+          <lb ed="#P" n="28"/>cuniculis tentauit supremos regii senatus 
+          <lb ed="#P" n="29"/>Iudices existimans fore ut homines indi<lb ed="#P" break="no" n="30"/>carum 
+          rerum ignari venenum non perspi<lb ed="#P" break="no" n="31"/>cerent. 
+          Illi tamen pro sua grauitate operis 
+          <pb ed="#P" n="239-r"/>
+          <lb ed="#P" n="1"/>Iudicium demandarunt academiis sal<lb ed="#P" break="no" n="2"/>manticensi 
+          et complutensi: quae tandem ma<lb ed="#P" break="no" n="3"/>tura 
+          deliberatione premissa: pluribusque hinc 
+          <lb ed="#P" n="4"/>inde disputationibus precedentibus: res<lb ed="#P" break="no" n="5"/>ponderunt
+          opus esse prelo indignum quod 
+          <lb ed="#P" n="6"/>doctrinam contineret parum sanam: et ut 
+          <lb ed="#P" n="7"/>aliquibus complutensibus theologis visum 
+          <lb ed="#P" n="8"/>est perniciosissimam.
+        </p>
+        <p xml:id="lca8s8-d1e789-d1e155">
+          Miserat ante Sepul<lb ed="#P" break="no" n="9"/>ueda 
+          opus ad concilium Tridentinum. Sed 
+          <lb ed="#P" n="10"/>patres aliqui perlecto opere intelligentes 
+          <lb ed="#P" n="11"/>rem esse parum Christianam: noluerunt 
+          <lb ed="#P" n="12"/>de ea tractare<!-- possible correction here -->prohibituri sane opus excu<lb ed="#P" break="no" n="13"/>di, 
+          et silentium autori imposituri <pc type="virgula">/</pc> si sci<lb ed="#P" break="no" n="14"/>rent 
+          Sepuluedam tantopere cupere illud 
+          <lb ed="#P" n="15"/>euulgari. Ita mihi pro comperto narrauit 
+          <lb ed="#P" n="16"/>vir fide dignus qui sacro sancto concilio 
+          <lb ed="#P" n="17"/>interfuit. Non quieuit Sepulueda immo 
+          <lb ed="#P" n="18"/>vero contempto academiarum et utriusque re<lb ed="#P" break="no" n="19"/>gii 
+          senatus Iudicio: misit <sic>clanclilum</sic> opus 
+          <lb ed="#P" n="20"/>Romam ut ibi excuderetur: intelligens ur<lb ed="#P" break="no" n="21"/>bis 
+          illius libertatem, neminemque ibi esse: 
+          <lb ed="#P" n="22"/>qui eius toxica Iacula pectore opposito re<lb ed="#P" break="no" n="23"/>torqueret. 
+          Quantam autem pernitiem impi<lb ed="#P" break="no" n="24"/>um 
+          illud opus sit allaturum rei exitus 
+          <lb ed="#P" n="25"/>fortassis docebit.
+        </p>
+        <p xml:id="lca8s8-d1e789-d1e202">
+          Nescio autem cur homo se<lb ed="#P" break="no" n="26"/>nex  
+          <pc type="virgula">/</pc> sacerdos <pc type="virgula">/</pc> et theologus: voluerit opus 
+          <lb ed="#P" n="27"/>tot taliumque virorum duarum academiarum 
+          <lb ed="#P" n="28"/>ac denique patrum qui concilio interfuerunt 
+          <lb ed="#P" n="29"/>damnatum excudi. Fortassis non vult 
+          <lb ed="#P" n="30"/>sibi perire tot vigilias: sed prestaret non 
+          <lb ed="#P" n="31"/>perire tot animas quibus perdendis Sepulueda 
+          <pb ed="#P" n="239-v"/>
+          <lb ed="#P" n="1"/>seipsum deuouisse videtur. Precor illi men<lb ed="#P" break="no" n="2"/>tem 
+          meliorem.
+        </p>
+        <p xml:id="lca8s8-d1e789-d1e230">
+          Profert <seg type="correction">i<subst><add place="in-line">n</add><del rend="strikethrough">m</del></subst></seg> pestilentissimae 
+          <lb ed="#P" n="3"/>opinionis suae confirmationem. Ouiedum 
+          <lb ed="#P" n="4"/>quendam qui de rebus indicis hystoriam 
+          <lb ed="#P" n="5"/>ut ipse vocat generalem scripsit qui eius
+          <lb ed="#P" n="6"/>operis libro 3 c. 6 scribit gentem in<lb ed="#P" break="no" n="7"/>sulae 
+          Hyspaniolae vagam <pc type="virgula">/</pc> otiosam <pc type="virgula">/</pc> men<lb ed="#P" break="no" n="8"/>dacem
+          <pc type="virgula">/</pc> ad malum procliuem ac multis 
+          <lb ed="#P" n="9"/>vitijs obnoxiam esse: ad haec memoriae la<lb ed="#P" break="no" n="10"/>bilis 
+          inconstatem <pc type="virgula">/</pc> ignauam ingratam 
+          <lb ed="#P" n="11"/>ac minime capacem. Deinde ut aliqua 
+          <lb ed="#P" n="12"/>sit in eis virtus eam vigere in adolescen<lb ed="#P" break="no" n="13"/>tia. 
+          Virilem autem etatem ingressos abomi<lb ed="#P" break="no" n="14"/>nandis 
+          vitiis esse obrutos. Rursus eius 
+          <lb ed="#P" n="15"/>libri 6 c. 9 loquens de incolis conti<lb ed="#P" break="no" n="16"/>nentis 
+          appellat eos Siluestres <pc type="virgula">/</pc> saeuos in<lb ed="#P" break="no" n="17"/>corrigibiles 
+          qui neque seueritate corrigi: 
+          <lb ed="#P" n="18"/>nec blandiciis vel amicis monitis ad 
+          <lb ed="#P" n="19"/>virtutem adduci possunt: impudentes <pc type="virgula">/</pc> 
+          <lb ed="#P" n="20"/>ad malum pronos <pc type="virgula">/</pc> immites et qui ad
+          <lb ed="#P" n="21"/>misericordiam flecti nesciant. Scribit 
+          <lb ed="#P" n="22"/>etiam paruulos illorum Baptizatos posse 
+          <lb ed="#P" n="23"/>eternam foelicitatem consequi; adolescen<lb ed="#P" break="no" n="24"/>tiam 
+          vero ingressos parum curare chris<lb ed="#P" break="no" n="25"/>tianam 
+          religionem etiam si baptismum 
+          <lb ed="#P" n="26"/>vel tunc suscipiant vel Iam ante sus<lb ed="#P" break="no" n="27"/>ceperint. 
+          Tum quod illis religio christia<lb ed="#P" break="no" n="28"/>na 
+          videtur grauis et molesta: deinde 
+          <lb ed="#P" n="29"/>quod cum labili memoria sint: statim 
+          <lb ed="#P" n="30"/>obliuioni tradunt quaecumque illis tradun<pb ed="#P" n="240-r"/><lb ed="#P" n="1"/>tur. 
+          Haec mendacia in variis eius hystoriae 
+          <lb ed="#P" n="2"/>locis sparsa non erubuit scribere <name xml:id="lca8s8-d1e789-Nd1e328">Ouiedus</name> 
+          <lb ed="#P" n="3"/>in ea hystoria ex qua sibi stulte immortali<lb ed="#P" break="no" n="4"/>tatem 
+          pollicetur.
+        </p>
+        <p xml:id="lca8s8-d1e789-d1e337"> 
+          Cum criminosa mendacia 
+          <lb ed="#P" n="5"/>in gentem sincerissimam et modestissimam 
+          <lb ed="#P" n="6"/>falso scripta<!-- possible correction --> infamem reddiderint: illamque 
+          <lb ed="#P" n="7"/>docilitate et ingenio optimeque constituta res 
+          <lb ed="#P" n="8"/>publica (ut suo loco dicemus) laudata pre<lb ed="#P" break="no" n="9"/>dicatione 
+          cum primis digna erat. Habet 
+          <lb ed="#P" n="10"/>Ouiedus suum Iudicem. Viuit Christus 
+          <lb ed="#P" n="11"/>et habet flagellum in manu, Reddet illi 
+          <lb ed="#P" n="12"/>rationem. vanissimus hic nugator, virulen<lb ed="#P" break="no" n="13"/>tissimis 
+          suis obtrectationibus, impiissimis 
+          <lb ed="#P" n="14"/>predonibus animos addit: ut gentem ni<lb ed="#P" break="no" n="15"/>hil 
+          tale meritam funditus exstinguant mi<lb ed="#P" break="no" n="16"/>nuitque 
+          zelum piorum hominum qui non 
+          <lb ed="#P" n="17"/>hominibus: sed feris putabunt se anuncia<lb ed="#P" break="no" n="18"/>re 
+          euangelium. Si falso infamare unicum 
+          <lb ed="#P" n="19"/>hominem est peccatum aeterna morte dignum 
+          <lb ed="#P" n="20"/>eoque grauius quo maior vel rei vel honoris 
+          <lb ed="#P" n="21"/>Iactura exinde procedit: si huiusmodi pec<lb ed="#P" break="no" n="22"/>catum 
+          vix recantando Palinodiam remitti<lb ed="#P" break="no" n="23"/>tur 
+          quid sentiendum aut quis digne exa<lb ed="#P" break="no" n="24"/>gerare 
+          possit huius miserrimi hominis pec<lb ed="#P" break="no" n="25"/>catum 
+          toti fere humano generi conuicium 
+          <lb ed="#P" n="26"/>facientis ex quo tot coedes, tot incendia 
+          <lb ed="#P" n="27"/>tot orbitates: denique tantus malorum occea<lb ed="#P" break="no" n="28"/>nus 
+          deriuatur? Extra hanc causam quot 
+          <lb ed="#P" n="29"/>congessit miser ille mendacia profitetur <pc type="virgula">/</pc> se<lb ed="#P" break="no" n="30"/>se 
+          veritatem scripturum et mera fabula<lb ed="#P" break="no" n="31"/>menta
+          obtrudit lectori? Parcendum scio 
+          <lb ed="#P" n="32"/>homini idiotae et stemmatis cuiusque gentis 
+          <pb ed="#P" n="240-v"/>
+          <lb ed="#P" n="1"/>depingendis occupato.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

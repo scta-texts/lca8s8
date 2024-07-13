@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 52 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 52 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-12">July 12, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="223-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e724">
+        <head xml:id="lca8s8-d1e724-Hd1e97">Caput 52 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e724-d1e99">
+          <lb ed="#P" n="2"/>CAPut 52m
+        </p>
+        <p xml:id="lca8s8-d1e724-d1e104">
+          <lb ed="#P" n="3"/><pc type="pilcrow"/> Adducit preterea Sepulueda Augus<lb ed="#P" break="no" n="4"/>tinum 
+          et Thomam docentes Romanos Ius<lb ed="#P" break="no" n="5"/>tam
+          habuisse causam subigendi orbem 
+          <lb ed="#P" n="6"/>quoniam cum caeteris gentibus pruden<lb ed="#P" break="no" n="7"/>tia 
+          et iustitia superiores essent Deus vo<lb ed="#P" break="no" n="8"/>luit 
+          orbem ab eis gubernari. Haec Sepul<lb ed="#P" break="no" n="9"/>ueda 
+          falso tribuit Augustino et Thomae. 
+          <lb ed="#P" n="10"/>Primo enim Romanorum imperium non 
+          <lb ed="#P" n="11"/>Iuste partum sed tyranide ac violentia 
+          <lb ed="#P" n="12"/>acquisitum fuit vt ex hystoriographis 
+          <lb ed="#P" n="13"/>iureconsultis ac theologis alibi probauimus. 
+          <lb ed="#P" n="14"/>Quod Augustinus et Thomas docuerunt 
+          <lb ed="#P" n="15"/>bona fide subiiciam. Romanos illos 
+          <lb ed="#P" n="16"/>primos urbis Romae incolas moralibus 
+          <lb ed="#P" n="17"/>aliquibus virtutibus fuisse preditos amo<lb ed="#P" break="no" n="18"/>re 
+          scilicet in patriam et zelo publicae 
+          <lb ed="#P" n="19"/>vtilitatis quam propriis commodis prefe<lb ed="#P" break="no" n="20"/>rebant. 
+          Condidisse item leges Iustas 
+          <lb ed="#P" n="21"/>blandeque ac suauiter tractasse gentes bel<lb ed="#P" break="no" n="22"/>lo
+          vel alias imperio suo subiectas: quamquam 
+          <lb ed="#P" n="23"/>reuera non erant verae virtutes autore eo<lb ed="#P" break="no" n="24"/>dem
+          <ref xml:id="lca8s8-d1e724-Rd1e154" target="http://scta.info/resource/adcd-l5-Dd1e236"><!-- target imprecise -->Augustino de ciuitate Dei libro 5 c. 
+          <lb ed="#P" n="25"/>12.</ref> Et in <ref xml:id="lca8s8-d1e724-Rd1e161" target="http://scta.info/resource/gd-p2c24q1-d1e553@1-9">c. ubi sana. 24. q. 1.</ref> inquit:
+          <lb ed="#P" n="26"/><quote xml:id="lca8s8-d1e724-Qd1e165"><!-- augustine de sermone domini i monte lib 1, c. 9 quoted by gratian --> Vbi sana fides non est, non potest esse justitia</quote> et caetera.
+        </p>
+        <p xml:id="lca8s8-d1e724-d1e170">
+          <lb ed="#P" n="27"/>Docet ergo Augustinus Deum 
+          <lb ed="#P" n="28"/>pro sua inefabili prudentia et bonitate 
+          <lb ed="#P" n="29"/>his concessisse orbis imperium quoniam 
+          <pb ed="#P" n="224-r"/>
+          <lb ed="#P" n="1"/><del rend="strikethrough">imperium</del> aeternam vitam concessurus 
+          <lb ed="#P" n="2"/>non erat. Ita <ref xml:id="lca8s8-d1e724-Rd1e187">Augustinus ubi supra</ref> et 
+          <lb ed="#P" n="3"/><ref xml:id="lca8s8-d1e724-Rd1e190">Hieronimus</ref> <ref xml:id="lca8s8-d1e724-Rd1e192" target="http://scta.info/resource/gd-p2c28q1-d1e338"><!-- gratian quotes both augustine and Jerome in this cited page -->28. q. 1. §. ex his itaque 
+          <lb ed="#P" n="4"/>c. omnes.</ref> sanctus Thomas de regimine prin<lb ed="#P" break="no" n="5"/>cipum 
+          libro 3. c. 4. 5. 6. Et <ref xml:id="lca8s8-d1e724-Rd1e201" corresp="#lca8s8-d1e724-Qd1e206">Augus<lb ed="#P" break="no" n="6"/>tinus 
+          libro 4o. c. 33.</ref> inquit <quote xml:id="lca8s8-d1e724-Qd1e206" source="http://scta.info/resource/adcd-l4-d1e649@1-20">Deus igitur 
+          <lb ed="#P" n="7"/>ille felicitatis autor et dator quia solus 
+          <lb ed="#P" n="8"/>est verus deus ipse dat regna terrena et 
+            <lb ed="#P" n="9"/>bonis et malis</quote> et <ref xml:id="lca8s8-d1e724-Rd1e215" corresp="#lca8s8-d1e724-Qd1e217 #lca8s8-d1e724-Qd1e233">libro 5. c. 28</ref> <quote xml:id="lca8s8-d1e724-Qd1e217" source="http://scta.info/resource/adcd-l5-d1e825@1-36">quae 
+          <lb ed="#P" n="10"/>cum ita sint non tribuamus dandi reg<lb ed="#P" break="no" n="11"/>ni 
+          atque imperii potestatem nisi Deo vero 
+          <lb ed="#P" n="12"/>qui dat felicitatem in regno coelorum: non<lb ed="#P" break="no" n="13"/>nisi 
+          solis piis: regnum vero terrenum et 
+          <lb ed="#P" n="14"/>piis et impiis sicut ei placet cui nihil iniuste 
+          <lb ed="#P" n="15"/>placet</quote>. Et parum infra: <quote xml:id="lca8s8-d1e724-Qd1e233" source="http://scta.info/resource/adcd-l5-d1e825@65-91">ille igitur unus 
+          <lb ed="#P" n="16"/>verus Deus qui nec iudicio neque adiutorio de<lb ed="#P" break="no" n="17"/>serit 
+          genus humanum: quando voluit et quan<lb ed="#P" break="no" n="18"/>tum 
+          voluit Romanis regnum dedit: qui de<lb ed="#P" break="no" n="19"/>dit 
+            Assyrijs vel etiam Persis</quote> etc. Et in <ref xml:id="lca8s8-d1e724-Rd1e248" corresp="#lca8s8-d1e724-Qd1e247 #lca8s8-d1e724-Qd1e259">c. 
+          <lb ed="#P" n="20"/>15</ref>: <quote xml:id="lca8s8-d1e724-Qd1e247" source="http://scta.info/resource/adcd-l5-d1e778@1-53">quibus ergo non erat daturus vitam aeter<lb ed="#P" break="no" n="21"/>nam 
+          cum sanctis angelis si neque hanc eis 
+          <lb ed="#P" n="22"/>terrenam gloriam excellentissimi imperii con<lb ed="#P" break="no" n="23"/>cederet 
+          non redderetur merces bonis artibus 
+          <lb ed="#P" n="24"/>eorum id est virtutibus</quote>. Et in fine claudit: 
+          <lb ed="#P" n="25"/><quote xml:id="lca8s8-d1e724-Qd1e259" source="http://scta.info/resource/adcd-l5-d1e778@149-161">non est quod de summi et veri Dei iustitia 
+          <lb ed="#P" n="26"/>conquerantur perceperunt mercedem suam</quote> 
+          <lb ed="#P" n="27"/>haec ille.
+        </p>
+        <p xml:id="lca8s8-d1e724-d1e267">
+          Huius rei ratio est secundum Augusti<lb ed="#P" break="no" n="28"/>num 
+          in diuersis locis quoniam admirandae 
+          <lb ed="#P" n="29"/>bonitati Dei conuenit quantumuis mini<lb ed="#P" break="no" n="30"/>mam 
+          virtutem praemio affici: quod ex <ref xml:id="lca8s8-d1e724-Rd1e282" corresp="#lca8s8-d1e724-Qd1e299 #lca8s8-d1e724-Qd1e327">Eze<lb ed="#P" break="no" n="31"/>chielis 
+          c. 29</ref> probatur ubi Deus loquens
+          <pb ed="#P" n="224-v"/>
+          <lb ed="#P" n="1"/>
+          de <name xml:id="lca8s8-d1e724-Nd1e282">Nabuchodonosore</name> qui persequendo bel<lb ed="#P" break="no" n="2"/>lo 
+          habitatores Tyri illi gratam operam 
+          <lb ed="#P" n="3"/>prestiterat inquit: <quote xml:id="lca8s8-d1e724-Qd1e299" source="http://scta.info/resource/ez29_18">fili hominis <name xml:id="lca8s8-d1e724-Nd1e288">Nabu<lb ed="#P" break="no" n="4"/>chodonosor</name> 
+          rex Babilonis seruire fecit 
+          <lb ed="#P" n="5"/>exercitum suum seruitute magna aduer<lb ed="#P" break="no" n="6"/>sus 
+          Tyrum: omne caput decaluatum et 
+          <lb ed="#P" n="7"/>omnis humerus depilatus est et merces 
+          <lb ed="#P" n="8"/>non est reddita ei neque exercitui eius de 
+          <lb ed="#P" n="9"/>tyro seruitute qua seruiuit mihi aduer<lb ed="#P" break="no" n="10"/>sus 
+          eam</quote>. Et quoniam similes tyrani 
+          <lb ed="#P" n="11"/>pro suis meritis vel seruitiis Deo factis 
+          <lb ed="#P" n="12"/>praemium non merentur aeternum subii<lb ed="#P" break="no" n="13"/>cit
+          dominus: <quote xml:id="lca8s8-d1e724-Qd1e327" source="http://scta.info/resource/ez29_19@6-31 http://scta.info/resource/ez29_20">Ecce ego dabo <name xml:id="lca8s8-d1e724-Nd1e313">Nabuchodo<lb ed="#P" break="no" n="14"/>nosor</name> 
+          regem Babylonis in terra Egypti: et 
+          <lb ed="#P" n="15"/>accipiet multitudinem eius et depredabi<lb ed="#P" break="no" n="16"/>tur 
+          <seg type="correction">manu<subst><add place="above-line">bias</add><del rend="strikethrough">uia</del></subst></seg> eius et diripiet spolia, et 
+          <lb ed="#P" n="17"/>erit merces exercitui illius et opere quo ser<lb ed="#P" break="no" n="18"/>uiuit 
+          aduersus eam: dedi ei terram Egyp<lb ed="#P" break="no" n="19"/>tii 
+          pro eo quo <seg type="correction">laboraueri<subst><add>t</add><del rend="strikethrough">nt</del></subst></seg> mihi ait Domi<lb ed="#P" break="no" n="20"/>nus 
+            Deus</quote>. Item dominus <ref xml:id="lca8s8-d1e724-Rd1e363" corresp="#lca8s8-d1e724-Qd1e367">Esay. c. 45.</ref> 
+          <lb ed="#P" n="21"/>alloquitur his verbis: Cyrum persarum 
+          regem. <quote xml:id="lca8s8-d1e724-Qd1e367" source="http://scta.info/resource/is45_1@1-19 http://scta.info/resource/is45_2@1-8 http://scta.info/resource/is45_3@1-5">haec dicit dominus Christo meo Cyro: 
+          <lb ed="#P" n="22"/>cuius apprehendi dexteram ut subiiciam 
+          <lb ed="#P" n="23"/>ante faciem eius gentes: et dorsa regum 
+          <lb ed="#P" n="24"/>vertam. Ego ante te ibo et gloriosos terrae 
+          <lb ed="#P" n="25"/>humiliabo, et dabo tibi thesauros abscon<lb ed="#P" break="no" n="26"/>ditos</quote> 
+          etc.
+        </p>
+        <p xml:id="lca8s8-d1e724-d1e361">
+          Huius enim imperium licet 
+          <lb ed="#P" n="27"/>iniuste habitum plurima peperit Deo gra<lb ed="#P" break="no" n="28"/>ta. 
+          Primo libertate donauit Iudaeos capti<lb ed="#P" break="no" n="29"/>uitate 
+          pressos: concessa illis facultate reaedi<pb ed="#P" n="225-r"/><lb ed="#P" n="1"/>ficandi
+          vrbem et templum Hierosolimi<lb ed="#P" break="no" n="2"/>tanum 
+          vt inibi Deus coleretur ut apparet 
+          <lb ed="#P" n="3"/>ex Esdrae libra 1o c. 1. Deinde Cyrus execu<lb ed="#P" break="no" n="4"/>torum 
+          diuinae iustitiae sese prebuit occide<lb ed="#P" break="no" n="5"/>ndo 
+          Balthasarem qui volens idola sua 
+          <lb ed="#P" n="6"/>colere vasa Hierosolimitani templi a Na<lb ed="#P" break="no" n="7"/>buchodonosor 
+          allata educi fecit: et tam 
+          <lb ed="#P" n="8"/>ipse quam vxores et meretrices eius illis bi<lb ed="#P" break="no" n="9"/>berunt
+          vt apparet Danielis c. 5
+        </p>
+        <p xml:id="lca8s8-d1e724-d1e391">
+          diuina 
+          <lb ed="#P" n="10"/>ergo prouidentia praemium praestat tyra<lb ed="#P" break="no" n="11"/>nis 
+          quibus veluti organis utitur ad exe<lb ed="#P" break="no" n="12"/>cutionem 
+          iustitiae suae. Itaque Romani 
+          <lb ed="#P" n="13"/>acceperunt mercedem suam. His conso<lb ed="#P" break="no" n="14"/>nat
+          quod adducit <ref xml:id="lca8s8-d1e724-Rd1e404" corresp="#lca8s8-d1e724-Qd1e410 #lca8s8-d1e724-Qd1e423"><name xml:id="lca8s8-d1e724-Nd1e405">Gratianus</name> 23, q. 5, 
+          <lb ed="#P" n="15"/>§ hinc notandum, c. Remittuntur</ref>: <quote xml:id="lca8s8-d1e724-Qd1e410" source="http://scta.info/resource/gd-p2c23q5-d1e937@3-38">Tales 
+          inquit in eo quod puniunt deo seruire dicuntur. 
+          <lb ed="#P" n="16"/>In eo autem quod ignorantes se esse ministros
+          <lb ed="#P" n="17"/>irae Dei impia vanitate superbiunt: nec 
+          <lb ed="#P" n="18"/>mercedem suae virtutis a Deo non nisi tem<lb ed="#P" break="no" n="19"/>poralem 
+          inueniunt, poenam vero suae su<lb ed="#P" break="no" n="20"/>perbiae 
+          non effugiunt</quote>. Et infra: <quote xml:id="lca8s8-d1e724-Qd1e423" source="http://scta.info/resource/gd-p2c23q5-d1e941@3-36">Similiter
+          <lb ed="#P" n="21"/>cum per Romanos peccatum mortis Christi 
+          <lb ed="#P" n="22"/>Deus punire decreuisset: urbis excidium 
+          <lb ed="#P" n="23"/>et iudaicae plebis miseram captiuitatem suis 
+          <lb ed="#P" n="24"/>viribus ascribere receperunt: Vnde contra 
+          <lb ed="#P" n="25"/>eos propheta increpatur dicens: leua ma<lb ed="#P" break="no" n="26"/>nus 
+          tuas in superbias eorum qui te oderunt 
+          <lb ed="#P" n="27"/>et qui multa maligna operati monumenta 
+          <lb ed="#P" n="28"/>suae victoriae</quote> id est uexilla et arma posue<lb ed="#P" break="no" n="29"/>runt 
+          in medio atrio tuo id est templo in sig<lb ed="#P" break="no" n="30"/>num 
+          victoriae secundum <ref xml:id="lca8s8-d1e724-Rd1e447">glossam psalmi 73</ref>. addit 
+          <ref xml:id="lca8s8-d1e724-Rd1e450">postea <name xml:id="lca8s8-d1e724-Nd1e452" corresp="#lca8s8-d1e724-Qd1e454">Gratianus</name></ref>: <quote xml:id="lca8s8-d1e724-Qd1e454" source="http://scta.info/resource/gd-p2c23q5-d1e948@3-51">cum vero occulto instin<pb ed="#P" n="225-v"/><lb ed="#P" break="no" n="1"/>ctu 
+          aliqui mouentur ad persequendum malos sicut Soennacherib et caeteri qui 
+          <lb ed="#P" n="2"/>populum. delinquentem persecuti sunt:
+          <lb ed="#P" n="3"/>licet occulto instinctu operante illorum me<lb ed="#P" break="no" n="4"/>ritis 
+          incitentur ad persequendum tamen 
+          <lb ed="#P" n="5"/>quia praua intentione non peccata delin<lb ed="#P" break="no" n="6"/>quentium 
+          punire sed illorum bona rapere 
+          <lb ed="#P" n="7"/>vel suae ditioni subiicere quaerunt: non 
+          <lb ed="#P" n="8"/>sunt immunes a crimine</quote>, et caetera. Haec Gratia<lb ed="#P" break="no" n="9"/>nus.
+        </p>
+        <p xml:id="lca8s8-d1e724-d1e478">
+          <sic>Quanuis</sic> ergo huiusmodi homines 
+          <lb ed="#P" n="10"/>Deo quodammodo seruiant: peccant morta<lb ed="#P" break="no" n="11"/>liter
+          tamen quoniam predandi et latius im<lb ed="#P" break="no" n="12"/>perandi 
+          animo belligerantur non vero 
+          <lb ed="#P" n="13"/>animo seruiendi Deo. Quod praeter supe<lb ed="#P" break="no" n="14"/>riora 
+          probatur etiam <ref xml:id="lca8s8-d1e724-Rd1e493">Esaye c. 10</ref> de Soenna<lb ed="#P" break="no" n="15"/>cherib: 
+          vae assur virga furoris mei, et ba<lb ed="#P" break="no" n="16"/>culus 
+          ipse est: in manu <subst><add place="above-line">eius</add> <del>eora</del></subst> indignatio
+          <lb ed="#P" n="17"/>mea. ad gentem falacem mittam eum: 
+          <lb ed="#P" n="18"/>et de populo furoris mei mandabo illi ut
+          <lb ed="#P" n="19"/>aufferat spolia et diuidat predam. Et 
+          <lb ed="#P" n="20"/>sequitur ipse autem non sic arbitrabitur et 
+          <lb ed="#P" n="21"/>cor eius non estimabitur, sed conterendum 
+          <lb ed="#P" n="22"/>erit cor eius etc. Ex quibus aperte colli<lb ed="#P" break="no" n="23"/>gitur
+          primo Deum aliquando in actu oc<lb ed="#P" break="no" n="24"/>culto 
+          mouere impios et sic uti eorum minis<lb ed="#P" break="no" n="25"/>terio
+          ad puniendum peccatores: quod Am<lb ed="#P" break="no" n="26"/>brosius 
+          scribit in <ref xml:id="lca8s8-d1e724-Rd1e527" corresp="#lca8s8-d1e724-Qd1e530">dicta c. Remittuntur</ref>. 
+          <lb ed="#P" n="27"/><quote xml:id="lca8s8-d1e724-Qd1e530" source="http://scta.info/resource/gd-p2c23q5-d1e927@10-23">Saepe inquit et ab alienigenis Dei iussu ex<lb ed="#P" break="no" n="28"/>citatis 
+          propter diuinae maiestatis offensam 
+          <lb ed="#P" n="29"/>sublatus est populus Iudaeorum</quote>. haec ille. 
+          <lb ed="#P" n="30"/>Similiter ut bonum eliceat quod ex acti<pb ed="#P" n="225-v"/><lb ed="#P" break="no" n="1"/>bus 
+          eorum malis disposuit colligere secundum 
+          <lb ed="#P" n="2"/>Augustinum. <pc type="pilcrow"/> Secundum: tyranos ipsos 
+          <lb ed="#P" n="3"/>nec intendere id ad quod illos mouet nec 
+          <lb ed="#P" n="4"/>velle quae Deus vult sed solum cor suum 
+          <lb ed="#P" n="5"/>prauum ad gentes spoliandas et suae di<lb ed="#P" break="no" n="6"/>tioni 
+          subiiciendas dirigunt.
+        </p>
+        <p xml:id="lca8s8-d1e724-d1e557">
+          <pc type="pilcrow"/> Tertium: 
+          <lb ed="#P" n="7"/>quod quia libidine dominandi et non amore 
+          <lb ed="#P" n="8"/>virtutis ea faciunt peccant mortaliter gra<lb ed="#P" break="no" n="9"/>uissime 
+          ac in fine vitae ignibus infernali<lb ed="#P" break="no" n="10"/>bus 
+          sint deputandi: patet: per illud vae 
+          <lb ed="#P" n="11"/>posito contra Soennacherib: quo numquam scrip<lb ed="#P" break="no" n="12"/>tura 
+          utitur (teste Hieronimo et Chrysosto<lb ed="#P" break="no" n="13"/>mo) 
+          nisi ex processu peccati mortalis: quod 
+          <lb ed="#P" n="14"/>puniendum tandem sit damnatione sem<lb ed="#P" break="no" n="15"/>piterna. 
+          Deus ergo usus est Romanis tam 
+          <lb ed="#P" n="16"/>ad disponendum orbem quantum ad il<lb ed="#P" break="no" n="17"/>lam 
+          partem illius in gratiosum et dulcem 
+          <lb ed="#P" n="18"/>aduentum suum quam etiam ad significan<lb ed="#P" break="no" n="19"/>dum 
+          unitatem ecclesiae siue sancti regni 
+          <lb ed="#P" n="20"/>sui per adunationem gentium: omnem or<lb ed="#P" break="no" n="21"/>bem 
+          occupaturi.
+        </p>
+        <p xml:id="lca8s8-d1e724-d1e594">
+          Elegit preterea Romanos 
+          <lb ed="#P" n="22"/>tamquam carnifices vel executores iustitiae 
+          <lb ed="#P" n="23"/>suae ad puniendum eas gentes: quarum 
+          <lb ed="#P" n="24"/>sceleribus iratus erat. Vnde sicut Na<lb ed="#P" break="no" n="25"/>buchodonosor 
+          pro eo quod Deo seruiuit in di<lb ed="#P" break="no" n="26"/>reptione 
+          Tyri: Deus permisit eum ut tur<lb ed="#P" break="no" n="27"/>baret 
+          usurparet ac dominaretur super 
+          <lb ed="#P" n="28"/>Egyptum: similiter Cyrum ut caperet Ba<lb ed="#P" break="no" n="29"/>bylonem 
+          ac Balthasar occideret: quoniam tamen 
+          <lb ed="#P" n="30"/>non ut obsequium domino praestarent 
+          <lb ed="#P" n="31"/>sed ambitioni et latius imperandi libidine 
+          <pb ed="#P" n="226-v"/>
+          <lb ed="#P" n="1"/>omnes gentes bello subiugarunt: ideo de<lb ed="#P" break="no" n="2"/>trusit 
+          tandem eos in infernum: propter 
+          <lb ed="#P" n="3"/>violentias et iniustitias suas: itaeque Ro<lb ed="#P" break="no" n="4"/>manos 
+          permisit et innit ut orbi domi<lb ed="#P" break="no" n="5"/>narentur 
+          in mercedem propter effectus iam 
+          <lb ed="#P" n="6"/>dictos quos ex tyranide sua elicere inten<lb ed="#P" break="no" n="7"/>debat. 
+          Non est ergo quod Sepulueda Roma<lb ed="#P" break="no" n="8"/>norum 
+          tyranidem nobis obiiciat: ut nos<lb ed="#P" break="no" n="9"/>tram 
+          in indos quam appellauerunt con<lb ed="#P" break="no" n="10"/>quistam 
+          iustificet. Romani enim Persae 
+          <lb ed="#P" n="11"/>et Assyrii in eternum perierunt quod eorum 
+          <lb ed="#P" n="12"/>bella ingrata oculis extiterint domini ut 
+          <lb ed="#P" n="13"/>supra ex sanctis patribus probauimus 
+          <lb ed="#P" n="14"/>et infra domino adiuuante latius patebit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

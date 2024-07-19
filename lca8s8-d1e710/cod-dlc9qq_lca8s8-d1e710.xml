@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 51 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 51 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-16">July 16, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="216-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e710">
+        <head xml:id="lca8s8-d1e710-Hd1e97">Caput 51 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e710-d1e99">
+          <lb ed="#P" n="31"/>CAPut 51m
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e104">
+          <lb ed="#P" n="32"/> <pc type="pilcrow"/> Modo persimili peruertit <name xml:id="lca8s8-d1e710-Nd1e110">doctor sepulueda</name> 
+          <pb ed="#P" n="217-r"/>
+          <lb ed="#P" n="1"/>rectam et veram intelligentiam origina<lb ed="#P" break="no" n="2"/>lium 
+          beatissimi Gregorii Magni et aliorum 
+          <lb ed="#P" n="3"/>sanctorum. Asserit Sepulueda imprimis 
+          <lb ed="#P" n="4"/>Gregorium approbasse bella quae chris<lb ed="#P" break="no" n="5"/>tiani 
+          gerunt aduersus infideles hac sola 
+          <lb ed="#P" n="6"/>de causa ut ditioni christianorum subie<lb ed="#P" break="no" n="7"/>ctis 
+          <subst><del>se cadit</del> <add place="above-line">securius</add></subst> fides annuntiaretur. Prop<lb ed="#P" break="no" n="8"/>terea
+          quod Gregorius laudat et gratias agit 
+          <lb ed="#P" n="9"/>cuidam exarcho Genadio <del rend="strikethrough">quoddam</del> 
+          bellum aduersus quosdam infideles ge<lb ed="#P" break="no" n="10"/>renti. 
+          Vt in <ref xml:id="lca8s8-d1e710-Rd1e145">epistola 73</ref>. quod refertur 
+          <lb ed="#P" n="11"/>a <ref xml:id="lca8s8-d1e710-Rd1e150">Gratiano in c. si non ex fidei. 23. 
+          <lb ed="#P" n="12"/>q. 4</ref>
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e156">
+          Equidem Gregorius vir sanctis<lb ed="#P" break="no" n="13"/>simus 
+          nihil tale somniauit. Is enim 
+          <lb ed="#P" n="14"/>pro singulari pietate qua preditus erat 
+          <lb ed="#P" n="15"/>cum vellet adducere ad fidem: Anglos 
+          <lb ed="#P" n="16"/>non misit in eos armatas copias ut supra 
+          <lb ed="#P" n="17"/>retulimus capitulo. 45. sed <name xml:id="lca8s8-d1e710-Nd1e169">Augustinum</name> 
+          <lb ed="#P" n="18"/>cum monachis quadraginta qui miracu<lb ed="#P" break="no" n="19"/>lis 
+          et verbo dei, eam gentem ad christum 
+          <lb ed="#P" n="20"/>adduxerunt. Ex verbis eius epistolae quam 
+          <lb ed="#P" n="21"/>Sepulueda citat colligitur: Gregorium 
+          <lb ed="#P" n="22"/>laudare Genadium non quod paganis bellum 
+          <lb ed="#P" n="23"/>inferret ut christiani fierent: quod Sepul<lb ed="#P" break="no" n="24"/>ueda 
+          falso illi impingit: sed quod prouin<lb ed="#P" break="no" n="25"/>tias 
+          quae olim christianorum erant a pa<lb ed="#P" break="no" n="26"/>ganorum 
+          vel hereticorum potestate vendicauit 
+          <lb ed="#P" n="27"/>Eius verba haec sunt: Vbi inquit: Plurima 
+          <lb ed="#P" n="28"/>enim pro pascendis ouibus beati petri, aposto<lb ed="#P" break="no" n="29"/>lorum 
+          principis utilitatibus excellentiam 
+          <pb ed="#P" n="217-v"/>
+          <lb ed="#P" n="1"/>vestram prestitisse didicimus ita ut non 
+          <lb ed="#P" n="2"/>parua loca patrimonii eius propriis nuda<lb ed="#P" break="no" n="3"/>ta 
+          cultoribus largitis id est positio vel res<lb ed="#P" break="no" n="4"/>titutio 
+          datitiorum vel dacorum id est popu<lb ed="#P" break="no" n="5"/>lorum 
+          quorumdam secundum, archidiaconum 
+          <lb ed="#P" n="6"/>habitatoribus restaurasset. haec ille.
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e213">
+          Vi<lb ed="#P" break="no" n="7"/>des 
+          lector Gregorium non loqui de bello 
+          <lb ed="#P" n="8"/>quod infertur paganis ad subigendum 
+          <lb ed="#P" n="9"/>illos ut christiani fiant quod Sepul<lb ed="#P" break="no" n="10"/>ueda 
+          fieri vult: sed de recuperando pro<lb ed="#P" break="no" n="11"/>uincias
+          quae olim christianae ditionis 
+          <lb ed="#P" n="12"/>fuerunt. Manifestum enim est ex multis 
+          <lb ed="#P" n="13"/>supra deductis et plene probatis: quod in 
+          <lb ed="#P" n="14"/>terris infidelium. pacifice viuentium: ec<lb ed="#P" break="no" n="15"/>clesiamque
+          non offendentium: neque oues ac<lb ed="#P" break="no" n="16"/>tu 
+          neque patrimonium quod restaurari 
+          <lb ed="#P" n="17"/>debeat habet beatus petrus: cum fidem 
+          <lb ed="#P" n="18"/>(ut supponimus) non susceperint. Pa<lb ed="#P" break="no" n="19"/>tet 
+          etiam per verbum restaurasset: quod 
+          <lb ed="#P" n="20"/>supponit spoliationem factam prius fuis<lb ed="#P" break="no" n="21"/>se. 
+          Constat enim etate beati Augusti<lb ed="#P" break="no" n="22"/>ni 
+          vuandalos prius paganos postea Ar<lb ed="#P" break="no" n="23"/>ianos 
+          occupasse Africam eamque possedis<lb ed="#P" break="no" n="24"/>se 
+          per plusquam nonaginta annos usque ad 
+          <lb ed="#P" n="25"/>tempus Iustiniani Caesaris ut in L. 1. 
+          <lb ed="#P" n="26"/>c. de officio prefecti pretorio africae. Et 
+          <lb ed="#P" n="27"/>in prohemis institutionum, et in authenticis de 
+          <lb ed="#P" n="28"/>haeredibus et falaci. Scribit hoc vincentius 
+          <lb ed="#P" n="29"/>speculi hystorialis libro 21. c. 28 et 
+          <lb ed="#P" n="30"/>31. Gregorius autem floruit quinquaginta 
+          <pb ed="#P" n="218-r"/>
+          <lb ed="#P" n="1"/>annis post Iustinianum cuius tempore 
+          <lb ed="#P" n="2"/>Vuandali Africam vastabant ut ex hysto<lb ed="#P" break="no" n="3"/>riis 
+          patet presertim <ref xml:id="lca8s8-d1e710-Rd1e275">eutropii libro 16 et libro 
+          <lb ed="#P" n="4"/>17</ref>. Ergo aetate gregorii pagani possidebant 
+          <lb ed="#P" n="5"/>Africam.
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e285">
+          Neque obstat quod Sepulueda ad<lb ed="#P" break="no" n="6"/>fert 
+          Vuandalos iam fuisse deuinctos a 
+          <lb ed="#P" n="7"/><name xml:id="lca8s8-d1e710-Nd1e290">Belisario</name>. Quoniam ut apparet ex hysto<lb ed="#P" break="no" n="8"/>ria 
+          Eutropii libro l6. Septimo anno impe<lb ed="#P" break="no" n="9"/>rii 
+          Iustiniani ter pugnaturus cum Vuan<lb ed="#P" break="no" n="10"/>dalis 
+          in africam pergit: de quo aliquid 
+          <lb ed="#P" n="11"/>per Volateranum et Rubertum in suo 
+          <lb ed="#P" n="12"/>Dictionario. Et sic esse potuit non fuisse 
+          <lb ed="#P" n="13"/>omnino deiectos per Belisarium (licet 
+          <lb ed="#P" n="14"/>aliqui dicunt quod sic) et per consequens vsque ad 
+          <lb ed="#P" n="15"/>tempus Gregorii magni perdurare: ac de<lb ed="#P" break="no" n="16"/>nuo 
+          insurgere contra populum Romanum 
+          <lb ed="#P" n="17"/>seu christianum. Quidquid autem fuerit 
+          <lb ed="#P" n="18"/>de Vuandalis: alii pagani fuerunt in afri<lb ed="#P" break="no" n="19"/>ca 
+          et gentes diuersae prout inquit Eutropi<lb ed="#P" break="no" n="20"/>us 
+          ubi supra. Preter Maurusios qui ex 
+          <lb ed="#P" n="21"/>gentibus descenderant quas Iosue et filii 
+          <lb ed="#P" n="22"/>israel ex terra promissionis abegerant vel 
+          <lb ed="#P" n="23"/>potius fugerant a gladio eorum, et hi fue<lb ed="#P" break="no" n="24"/>runt 
+          Chananaei vel ex illis septem genti<lb ed="#P" break="no" n="25"/>bus. 
+          Qui peruenientes Egiptum et non re<lb ed="#P" break="no" n="26"/>cepti 
+          ab eis: ad Lybiam venerunt quam 
+          <lb ed="#P" n="27"/>Hoen nominauerunt statuentes titulos 
+          <lb ed="#P" n="28"/>duos supra magnum fontem ex lapidibus 
+          <lb ed="#P" n="29"/>candidis concauis habentes literas phoeni<lb ed="#P" break="no" n="30"/>ceas 
+          dicentes haec: nos sumus qui fugimus 
+          <lb ed="#P" n="31"/>a facie Iesu latronis filii nauae. Ita refert
+          <pb ed="#P" n="218-v"/>
+          <lb ed="#P" n="1"/>Eutropius vbi supra. hi Maurusii proe<lb ed="#P" break="no" n="2"/>lium 
+          aduersus Afros mouerunt tempore 
+          <lb ed="#P" n="3"/>Iustiniani contra quos <subst><add place="above-line">iuit</add> <del rend="strikethrough">init</del></subst> <name xml:id="lca8s8-d1e710-Nd1e360">Salomon</name> 
+          qui subrogatus fuit Africae gubernator 
+          <lb ed="#P" n="4"/>Bellisario et occidit ex eis quinquaginta 
+          <lb ed="#P" n="5"/>millia. Ex quibus patet quod aetate Grego<lb ed="#P" break="no" n="6"/>rii 
+          potuerunt esse in Africa infideles qui 
+          <lb ed="#P" n="7"/>molestarent fideles et loca usurparent vni
+          <lb ed="#P" n="8"/>uersalis ecclesiae. Quare diuus Gregorius 
+          <lb ed="#P" n="9"/>ipsi Genandio Africae exarcho gratias 
+          <lb ed="#P" n="10"/>agit quod regionem illam ecclesiae receperit 
+          <lb ed="#P" n="11"/>quod satis patet ex inscriptione epistolae quae 
+          <lb ed="#P" n="12"/>talis est: Gregorius Genandio patricio 
+          <lb ed="#P" n="13"/>et exarcho per Africam gratiarum actiones 
+          <lb ed="#P" n="14"/>facit pro beneficiis sancto petro collatis.
+          <lb ed="#P" n="15"/>haec ibi. Et quoniam subigere eos paganos 
+          <lb ed="#P" n="16"/>erat dilatare ecclesiam inquit Gregorius:
+          <lb ed="#P" n="17"/>quae scilicet fama vestra est bella vos frequenter 
+          <lb ed="#P" n="18"/>appetere non desiderio fundendi sangui<lb ed="#P" break="no" n="19"/>nis 
+          sed tantum dilatandae causa reipublicae 
+          <lb ed="#P" n="20"/>in qua Deum coli conspicimus loquitur: 
+          <lb ed="#P" n="21"/>quatenus christi nomen per subditas gen<lb ed="#P" break="no" n="22"/>tes 
+          fidei praedicatione circunquaque dis<lb ed="#P" break="no" n="23"/>currat.
+          Claudit Gregorius epistolam his 
+          <lb ed="#P" n="24"/>verbis: petimus dominum Saluatoremque 
+          <lb ed="#P" n="25"/>nostrum qui eminentiam vestram pro so<lb ed="#P" break="no" n="26"/>latio 
+          reipublicae sanctae misericorditer pro<lb ed="#P" break="no" n="27"/>tegat 
+          et ad dilatandum per finitimas gen<lb ed="#P" break="no" n="28"/>tes 
+          nomen eius magis magisque brachii sui 
+          <lb ed="#P" n="29"/>firmitate confortet. haec ille. Idem etiam 
+          <lb ed="#P" n="30"/>petimus summis votis quotidie a domino 
+          <pb ed="#P" n="219-r"/>
+          <lb ed="#P" n="1"/>nobis dari aduersus Turcas et Mauras chris<lb ed="#P" break="no" n="2"/>tianam 
+          ecclesiam infestantibus. Non qui<lb ed="#P" break="no" n="3"/>dem 
+          in id solum ut christiani fiant: sed quoniam 
+          <lb ed="#P" n="4"/>iniurias inferunt ecclesiae et eius prouincias
+          <lb ed="#P" n="5"/>tyranice possident. Gregorius ergo non 
+          <lb ed="#P" n="6"/>laudat Genandium quod paganis arma in<lb ed="#P" break="no" n="7"/>tulerit
+          ut christiani fierent: sed quoniam 
+          <lb ed="#P" n="8"/>ab eis recepit prouincias seu loca, quae quon<lb ed="#P" break="no" n="9"/>dam
+          christianae ecclesiae fuerant: Et quoniam 
+          <lb ed="#P" n="10"/>perdomitis saeuis illis hostibus euangeli<lb ed="#P" break="no" n="11"/>ca 
+          lux per finitimas regiones ab eis occu<lb ed="#P" break="no" n="12"/>patas 
+          propagari poterat. haec erant pia 
+          <lb ed="#P" n="13"/>Gregorii vota.
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e452">
+          <pc type="pilcrow"/> Iterum tum temporis 
+          <lb ed="#P" n="14"/>Africae ecclesias occuparant Donatistae saeuis<lb ed="#P" break="no" n="15"/>simi 
+          haeretici: qui apud se solos iactabant 
+          <lb ed="#P" n="16"/>esse ecclesiam addentes plurima alia haere<lb ed="#P" break="no" n="17"/>tica 
+          dogmata quae <name xml:id="lca8s8-d1e710-Nd1e465">Augustinus</name> refert libro 
+          <lb ed="#P" n="18"/>de haeresibus, Et in libro aduersus eos pecu<lb ed="#P" break="no" n="19"/>liariter
+          elucubrato. Et Isidorus Etimolo<lb ed="#P" break="no" n="20"/>giarum 
+          libro 8. c. 5. Quod autem Gregorii 
+          <lb ed="#P" n="21"/>tempore adhuc essent Donatistae probatur 
+          <lb ed="#P" n="22"/>ex epistola 72 illius libri: vbi exhortatur 
+          <lb ed="#P" n="23"/>Genadium admoneri vt concilium con<lb ed="#P" break="no" n="24"/>tra 
+          haereticos catholicorum episcoporum celebraretur. 
+          <lb ed="#P" n="25"/>Et in epistola 75 episcopis orthodoxiis preci<lb ed="#P" break="no" n="26"/>pit 
+          ne quem Donatistam ecclesiae catholicae 
+          reconciliatum ordinarent in episcopum. Grego<lb ed="#P" break="no" n="27"/>rius
+          ergo Genandium laudat quod haereticos 
+          <lb ed="#P" n="28"/>donatistas subegerit et ecclesias eis abstulit: 
+          sicut prouincias christianas expulsis 
+          pa<pb ed="#P" n="219-v"/><lb ed="#P" break="no" n="1"/>ganis 
+          antea recepisset. haec Gregorius in di<lb ed="#P" break="no" n="2"/>cta 
+          epistola 7a his verbis: sicut excelentiam 
+          <lb ed="#P" n="3"/>vestram hostilibus bellis in hac vita dominus 
+          <lb ed="#P" n="4"/>victoriae <sic>foecit</sic> luce fulgere: ita oportet 
+          <lb ed="#P" n="5"/>eam inimicis ecclesiae omni viuacitate men<lb ed="#P" break="no" n="6"/>tis 
+          et corporis obuiare. Quatenus ex vtroque 
+          eius triumpho magis ac magis enitescat opinio. Cum et forensibus bellis (scilicet) 
+          <lb ed="#P" n="7"/>quae fiunt contra paganos: aduersariis ca<lb ed="#P" break="no" n="8"/>tholicae
+          ecclesiae pro christiano populo ve<lb ed="#P" break="no" n="9"/>hementer 
+          obsistitis et ecclesiastica proelia 
+          <lb ed="#P" n="10"/>scilicet quae contra haereticos inducuntur: sicut 
+          <lb ed="#P" n="11"/>bellatores domini fortiter dimicatis. Notum est
+          enim haereticae religionis viros (si eis quod 
+          <lb ed="#P" n="12"/>absit) suppetit nocendi licentia contra ca<lb ed="#P" break="no" n="13"/>tholicam
+          fidem vehementer insurgere: qua<lb ed="#P" break="no" n="14"/>tenus 
+          haereseos suae venena ad tabefaciendum 
+          <lb ed="#P" n="15"/>si valuerint christiani corporis membra trans<lb ed="#P" break="no" n="16"/>fundant. 
+          Cognouimus enim eos contra ecclesiam 
+          <lb ed="#P" n="17"/>catholicam domino eis aduersante colla <sic>sus<lb ed="#P" break="no" n="18"/>rigere</sic>: 
+          et fidem velle christiani nominis in<lb ed="#P" break="no" n="19"/>clinare. 
+          Sed eminentia vestra conatus eorum 
+          <lb ed="#P" n="20"/>comprimat: et superbas eorum cerbices iugo rec<lb ed="#P" break="no" n="21"/>titudinis 
+          premat: et infra: Magna profec<lb ed="#P" break="no" n="22"/>to 
+          excellentiae vestrae apud creatorem gloria pro<lb ed="#P" break="no" n="23"/>ficit 
+          si per eam dispersarum ecclesiarum po<lb ed="#P" break="no" n="24"/>tuerit 
+          societas restaurari. haec Gregorius.
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e550">
+          <lb ed="#P" n="25"/>Ex his lector vide Genandium bello sube<lb ed="#P" break="no" n="26"/>gisse 
+          hereticos donatistas: et dispersas ec<lb ed="#P" break="no" n="27"/>clesias
+          per haereticos occupatas catholicis epis<lb ed="#P" break="no" n="28"/>copis 
+          restaurasse: pugnasseque aduersus
+          pa<pb ed="#P" n="220-r"/><lb ed="#P" break="no" n="1"/>ganos 
+          ut ecclesiae assereret prouincias quae quon<lb ed="#P" break="no" n="2"/>dam 
+          christianae ditionis fuerant: et in quibus 
+          <lb ed="#P" n="3"/>fortassis christiani habitabant. Propter 
+          <lb ed="#P" n="4"/>has res a Genandio pie gestas: Gregorius 
+          <lb ed="#P" n="5"/>illi gratias agit epistola mox sequenti scilicet 
+          <lb ed="#P" n="6"/>73 quam Sepulueda citat extra rem. 
+          <lb ed="#P" n="7"/>Non enim ibi laudatur Genandius quod ar<lb ed="#P" break="no" n="8"/>matis 
+          copiis Vuandalos vel Mauros aut 
+          <lb ed="#P" n="9"/>alios infideles subegerit vt postea praedicato 
+          <lb ed="#P" n="10"/><del rend="strikethrough">tio</del> euangelio pagani conuerterentur vt pro<lb ed="#P" break="no" n="11"/>batum 
+          est. Quod autem <name xml:id="lca8s8-d1e710-Nd1e587">Gratianus</name> epistolas 
+          <lb ed="#P" n="12"/>illas inseruerit ecclesiasticis decretis 23. 
+          <lb ed="#P" n="13"/>q. 4. nihil ad rem. Tantum enim adducit 
+          <lb ed="#P" n="14"/>ea loca: ut probet non esse aduersus legem 
+          <lb ed="#P" n="15"/>Christi occidere impios. Quod epitome cu<lb ed="#P" break="no" n="16"/>iusque 
+          capitis indicat.
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e601">
+          Nam caput sicut 
+          <lb ed="#P" n="17"/>excellentiam: his verbis inscribitur eius 
+          <lb ed="#P" n="18"/>sensus: ecclesiasticae religionis inimici: etiam 
+          <lb ed="#P" n="19"/><del rend="strikethrough">Iam</del> bellis sunt coercendi. Et in c. si non 
+          <lb ed="#P" n="20"/>ex fidei legitur haec inscriptio: merito fi<lb ed="#P" break="no" n="21"/>dei 
+          bellorum paratur victoria. Quis autem ne<lb ed="#P" break="no" n="22"/>gat 
+          christianae religionis hostes bello co<lb ed="#P" break="no" n="23"/>ercendos 
+          esse cum aliter bellum comprimi 
+          <lb ed="#P" n="24"/>non potest
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e623">
+          <pc type="pilcrow"/>Quis negat fide parari vic<lb ed="#P" break="no" n="25"/>toriam:
+          sed quid haec ad opinionem Sepul<lb ed="#P" break="no" n="26"/>uedae 
+          ab omni ratione et christiana doc<lb ed="#P" break="no" n="27"/>trina alienam? Pergit Sepulueda et in 
+          <lb ed="#P" n="28"/>erroris sui confirmationem citat etiam 
+          <lb ed="#P" n="29"/>eundem sanctum Gregorium libro 9 epistola 
+          <lb ed="#P" n="30"/>60 ubi hortatur Aldibertum Angliae re<lb ed="#P" break="no" n="31"/>gem 
+          vt idolorum cultum conuellat paga<pb ed="#P" n="220-v"/><lb ed="#P" break="no" n="1"/>nicaque 
+          templa diruat exemplo Constan<lb ed="#P" break="no" n="2"/>tini 
+          magni qui idem Romanae reipublicae 
+          <lb ed="#P" n="3"/>prestitit. Equidem cum Rex Aldiber<lb ed="#P" break="no" n="4"/>tus 
+          iam per fidem quam susceperat mem<lb ed="#P" break="no" n="5"/>brum 
+          esset ecclesiae: Iure optimo hortatur 
+          <lb ed="#P" n="6"/>illum Gregorius pontifex ut idolorum 
+          <lb ed="#P" n="7"/>cultum conuelleret: illa autem adhortatio vim 
+          <lb ed="#P" n="8"/>praecepti habebat. Rex enim ipse iure di<lb ed="#P" break="no" n="9"/>uino 
+          tenebatur omnibus modis curare vt 
+          <lb ed="#P" n="10"/>subditi sui adducerentur ad fidem mo<lb ed="#P" break="no" n="11"/>do 
+          tamen debito autore <ref xml:id="lca8s8-d1e710-Rd1e667">Augustino de ciuitate 
+          <lb ed="#P" n="12"/>Dei libro 5. c. 24.</ref> et <ref xml:id="lca8s8-d1e710-Rd1e672">26.</ref> et <ref xml:id="lca8s8-d1e710-Rd1e674">Libro 19 c. 16</ref>
+          <lb ed="#P" n="13"/>probatur in <ref xml:id="lca8s8-d1e710-Rd1e679">c. duo ista nomina 23. 
+          <lb ed="#P" n="14"/>q. 4</ref>, ibi: <quote xml:id="lca8s8-d1e710-Qd1e684" source="http://scta.info/resource/gd-p2c23q4-d1e668@70-73">Regi regenti Gentem Suam</quote>
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e688">
+          Prae<lb ed="#P" break="no" n="15"/>terea 
+          notandum subditos illius regis iam 
+          <lb ed="#P" n="16"/>esse quodammodo subditos ecclesiae etiam si 
+          <lb ed="#P" n="17"/>pagani essent. Subdito enim rege per baptis<lb ed="#P" break="no" n="18"/>mum 
+          omne eius regnum censetur subdi<lb ed="#P" break="no" n="19"/>tum 
+          esse ei cui rex sese subdidit: ut per 
+          <lb ed="#P" n="20"/>doctores in authenticis ingressi. C. de sacrosanctis 
+          <lb ed="#P" n="21"/>ecclesiis; <name xml:id="lca8s8-d1e710-Nd1e705">Baldus</name> in l. si paterfamilias in 1a 
+          <lb ed="#P" n="22"/>lectione, ff. de adoptionibus lasso in authenticis in<lb ed="#P" break="no" n="23"/>gressi 
+          columna 8; C. de sacrosanctis ecclesiis <ref xml:id="lca8s8-d1e710-Rd1e711">Antonius 
+            <lb ed="#P" n="24"/>de Butrio</ref> in repetitione capituli finalis de cau<lb ed="#P" break="no" n="25"/>sa 
+          possessionis et propriis. Hoc autem quod 
+          <lb ed="#P" n="26"/>Diuus Gregorius regi suadet facere tenebatur: 
+          <lb ed="#P" n="27"/>quoniam illi pagani eius subditi quodam<lb ed="#P" break="no" n="28"/>modo 
+          (ut dictum est) erant. Et Rex absque 
+          <lb ed="#P" n="29"/>armis edicto poterat idolorum cultum in 
+          <lb ed="#P" n="30"/>proprio regno conuellere presertim cum 
+          <lb ed="#P" n="31"/>probabile sit proceres religionem Christia<lb ed="#P" n="32"/><lb ed="#P" break="no" n="33"/>nam 
+          simul cum eo suscepisse. Semper 
+          <lb ed="#P" n="34"/>enim subditi principem suum imitantur 
+          <lb ed="#P" n="35"/>quod in hac specie scribit sanctus <ref xml:id="lca8s8-d1e710-Rd1e739" target="http://scta.info/resource/TAca84-d1e1324-d1e2269"><!-- target fuzzy; possible miss citation by Las Casas but this seems to be where he points-->Thomas 2a2ae 
+          <lb ed="#P" n="36"/>q. 10, a. 10 in corpore</ref>. haec erat mens Gre<lb ed="#P" break="no" n="37"/>gorii 
+          magni Constantini exemplum illi 
+          <lb ed="#P" n="38"/>proponentis his verbis. <quote xml:id="lca8s8-d1e710-Qd1e750">Sic enim Constanti<lb ed="#P" break="no" n="39"/>nus 
+          quondam piissimus imperator Roma<lb ed="#P" break="no" n="40"/>nam 
+          rempublicam a peruersis idolorum 
+          <lb ed="#P" n="41"/>cultibus reuocans: omnipotenti domino 
+          <lb ed="#P" n="42"/>Deo nostro Iesu christo secum subdidit: seque 
+          <lb ed="#P" n="43"/>cum subiectis populis tota ad eum men<lb ed="#P" break="no" n="44"/>te 
+          conuertit</quote>. haec ille.
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e768">
+          Potest enim prin<lb ed="#P" break="no" n="45"/>ceps 
+          et debet idolorum cultum in suo reg<lb ed="#P" break="no" n="46"/>no 
+          prohibere sicut et alia peccata publi<lb ed="#P" break="no" n="47"/>ca: 
+          dummodo id absque magno tumultu vel 
+          <lb ed="#P" n="48"/>scandalo fiat: et absque maioribus detri<lb ed="#P" break="no" n="49"/>mentis 
+          quam ex idolatria procedebant: vt 
+          <lb ed="#P" n="50"/>supra latissime tractatum est. Dum tamen 
+          <lb ed="#P" n="51"/>etiam pro daemonum cultu quem conuel<lb ed="#P" break="no" n="52"/>lere 
+          vult: offerat illis quod melius est 
+          <lb ed="#P" n="53"/>(scilicet) veri Dei cognitionem. Si autem rex 
+          <lb ed="#P" n="54"/>idolorum cultum legibus editis prohiberet: 
+          <lb ed="#P" n="55"/>neque alia religione suos instrueret: certe 
+          <lb ed="#P" n="56"/>id facere non posset. Est enim impossibile 
+          <lb ed="#P" n="57"/>hominem verum vel quem putat verum 
+          <lb ed="#P" n="58"/>Deum non colere. Principes ergo quibus 
+          <lb ed="#P" n="59"/>incumbit utilitatem regnorum suorum 
+          <lb ed="#P" n="60"/>curare: possunt impiam religionem con<lb ed="#P" break="no" n="61"/>uellere
+          et verae religionis cultum inducere 
+          <lb ed="#P" n="62"/>cum iure naturali potestatem habet super
+          <pb ed="#P" n="221-v"/>
+          <lb ed="#P" n="1"/>suos. Hine (scilicet) quia erant subditi: 
+          <lb ed="#P" n="2"/>Constantinus idolorum cultum vetuit sub 
+          <lb ed="#P" n="3"/>poena mortis et confiscationis bonorum de 
+          <lb ed="#P" n="4"/>consilio forte beati Siluestri moti hac ra<lb ed="#P" break="no" n="5"/>tione 
+          vt in l. 1a cum sequentibus C. de pa<lb ed="#P" break="no" n="6"/>ganis 
+          et sacrificiis. Et quoniam Iulianus a<lb ed="#P" break="no" n="7"/>postata 
+          idolorum cultum reuocauit mor<lb ed="#P" break="no" n="8"/>tuo 
+          Constantino, autore <name xml:id="lca8s8-d1e710-Nd1e828">Hugone Floria<lb ed="#P" break="no" n="9"/>censi</name>: <name xml:id="lca8s8-d1e710-Nd1e833">Theodosius</name> piissimus imperator ido<lb ed="#P" break="no" n="10"/>latriam 
+          prorsus in imperio conuulsit: di<lb ed="#P" break="no" n="11"/>rutis 
+          paganorum templis. Cuius exemplum 
+          <lb ed="#P" n="12"/>secuti sunt Archadius et Honorius Theo<lb ed="#P" break="no" n="13"/>dosii 
+          filii qui post eum imperarunt au<lb ed="#P" break="no" n="14"/>tore 
+          <ref xml:id="lca8s8-d1e710-Rd1e846">Vincentio speculi hystorialis libro 19. 
+          <lb ed="#P" n="15"/>c. 5</ref>. Item in casibus in quibus infideles 
+          <lb ed="#P" n="16"/>sunt subditi ecclesiae vel membrorum eius 
+          <lb ed="#P" n="17"/>videmus eis perscriptas leges a Theodosio 
+          <lb ed="#P" n="18"/>et ab Archadio et Valentiniano, qui edi<lb ed="#P" break="no" n="19"/>ta 
+          lege cauerunt ne Iudaei matrimonia 
+          <lb ed="#P" n="20"/>celebrarent Iuxta legem Moysi. Sed 
+          <lb ed="#P" n="21"/>christiano ritu non intra 2m 3m vel 
+          <lb ed="#P" n="22"/>4m gradum ut in l. nemo Iudaeorum, C. 
+          <lb ed="#P" n="23"/>de Iudaeis. Si tamen infideles non essent 
+          <lb ed="#P" n="24"/>subditi ecclesiae: nequaquam ipsis possent ab 
+          <lb ed="#P" n="25"/>ecclesia perscribi leges: vt probatum est. Le<lb ed="#P" break="no" n="26"/>ges 
+          a <name xml:id="lca8s8-d1e710-Nd1e875">Theodosio</name> de hac re editae meminit 
+          <lb ed="#P" n="27"/>hystoria ecclesiastica libro 11o. c. 19. et libro 
+          <lb ed="#P" n="28"/>9. Et Tripartita libro 9. c. 27. 28. Et 
+          <lb ed="#P" n="29"/><ref xml:id="lca8s8-d1e710-Rd1e883" target="http://scta.info/resource/adcd-l5-d1e850@50-150">Augustinus de ciuitate Dei libro 5o. c. 26</ref>. Et
+          <lb ed="#P" n="30"/><ref xml:id="lca8s8-d1e710-Rd1e887"><name xml:id="lca8s8-d1e710-Nd1e888">Archiepiscopus Florentinus</name> in 2a parte suae hysto<pb ed="#P" n="222-r"/><lb ed="#P" break="no" n="1"/>riae 
+          titulo 8. c. 7. § 2</ref>. Et <ref xml:id="lca8s8-d1e710-Rd1e894">Augustinus in 
+          <lb ed="#P" n="2"/>Epistola 43 aduersus Vincentium hereticum 
+          <lb ed="#P" n="3"/>Donatistam</ref> quae referuntur in c. non in<lb ed="#P" break="no" n="4"/>uenitur. 
+          23. q. 4. ad hanc etiam rem hor<lb ed="#P" break="no" n="5"/>tatus 
+          est <ref xml:id="lca8s8-d1e710-Rd1e906"><name xml:id="lca8s8-d1e710-Nd1e907">Theodosium Ambrosius</name> epistola 30. 
+          et 31.</ref> Huiusmodi leges nemo pius non 
+          <lb ed="#P" n="6"/>probat: et si casus occurreret similis vbi 
+          <lb ed="#P" n="7"/>idolatria absque maiori malo: principum
+          <lb ed="#P" n="8"/>autoritate in subditis cohiberi posset: quis 
+          <lb ed="#P" n="9"/>similem legem edi non curaret: si modo chris<lb ed="#P" break="no" n="10"/>tum 
+          ex animo diligeret? Sed quid hoc 
+          <lb ed="#P" n="11"/>ad nostrum casum. Vbi pagani numquam 
+          <lb ed="#P" n="12"/>subditi ecclesiae nec membris eius: et quorum 
+          <lb ed="#P" n="13"/>princeps paganus est: non a suo principe sed 
+          <lb ed="#P" n="14"/>ab hyspanis militibus trucidantur et bello 
+          <lb ed="#P" n="15"/>illato immaniter subiguntur ut idolorum cultus 
+          <lb ed="#P" n="16"/>occisa infinita hominum multitudine tan<lb ed="#P" break="no" n="17"/>dem 
+          conuellatur?
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e937">
+          Sed obiiciet aliquis sipi<lb ed="#P" break="no" n="18"/>um 
+          est occidere euntem post prohibitionem 
+          <lb ed="#P" n="19"/>legis ad idolorum cultum: pium etiam erit 
+          <lb ed="#P" n="20"/>idolatriam bello conuellere. Certe hoc argumentum
+          <lb ed="#P" n="21"/>nihil aduersatur. Tum primo: quia in non 
+          <lb ed="#P" n="22"/>subditis deest potestas et iurisdictio et sic
+          <lb ed="#P" n="23"/>autoritas qua Iustum bellum fulcitur: Tum 
+          <lb ed="#P" n="24"/>2o quia occiditur subditus idolatra <seg type="correction">qui<del rend="strikethrough">c</del></seg> 
+          <lb ed="#P" n="25"/>adhuc potest ad Christum ministerio prae<lb ed="#P" break="no" n="26"/>dicatorum 
+          conuerti: cum per ignorantiam
+          <lb ed="#P" n="27"/>peccet: occiditur etiam nocens absque inno<lb ed="#P" break="no" n="28"/>centium 
+          ruina: bello autem Innocentium mil<lb ed="#P" break="no" n="29"/>lia 
+          cum paucissimis nocentibus vt supra pro<lb ed="#P" break="no" n="30"/>batum 
+          est. Bello igitur subigere infideles 
+          <pb ed="#P" n="222-v"/>
+          <lb ed="#P" n="1"/>vt fidem suscipiant impium est. Exemplum 
+          <lb ed="#P" n="2"/>ergo Constantini Theodosii, et caeterorum prin<lb ed="#P" break="no" n="3"/>cipum 
+          qui legibus editis templa claudi 
+          <lb ed="#P" n="4"/>preceperunt: et idolorum cultum in propriis 
+          <lb ed="#P" n="5"/>regnis prohibuerunt: nihil ad nostrum 
+          <lb ed="#P" n="6"/>casum rationibus supra relatis: et prin<lb ed="#P" break="no" n="7"/>cipaliter 
+          quia cum principes essent subditis 
+          <lb ed="#P" n="8"/>suis quas vellent leges dare poterant. In<lb ed="#P" break="no" n="9"/>di 
+          autem nobis neque ecclesiae subditi non sunt: 
+          <lb ed="#P" n="10"/>quia sunt pagani et in propriis regnis prin<lb ed="#P" break="no" n="11"/>cipes 
+          legitimi et liberi: ergo ipsis nequaquam 
+          <lb ed="#P" n="12"/>possumus leges dare. Neminem namque 
+          <lb ed="#P" n="13"/>posse legem ponere nisi subditis: certis<lb ed="#P" break="no" n="14"/>simi 
+          Iuris est vt in <ref xml:id="lca8s8-d1e710-Rd1e1005">l. c. 1. de summa trinitate</ref>, et <ref xml:id="lca8s8-d1e710-Rd1e1007">l. finali, C. de incestuo nuptiis</ref> et <ref xml:id="lca8s8-d1e710-Rd1e1009">l. 3, 
+          <lb ed="#P" n="15"/>ff de officio presidis</ref>, et <ref xml:id="lca8s8-d1e710-Rd1e1014" target="http://scta.info/resource/cice-l5t39-d1e422">c. a nobis. de sententia 
+          <lb ed="#P" n="16"/>excommunicationis</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e1020">
+          Ex parte etiam ecclesiae ratio specia<lb ed="#P" break="no" n="17"/>lis 
+          concurrebat (videlicet) iam ad illius mem<lb ed="#P" break="no" n="18"/>bra
+          pertinere ipsos infidelium principes 
+          <lb ed="#P" n="19"/>siue reges: et partem non minimam eo<lb ed="#P" break="no" n="20"/>rum
+          regnorum qui iam fidem susceperant 
+          <lb ed="#P" n="21"/>Caeteros autem nondum conuersos quodammodo
+          <lb ed="#P" n="22"/>etiam ad ecclesiam pertinebant: quia (vt 
+          <lb ed="#P" n="23"/>diximus) erant in propinquiori potentia 
+          <lb ed="#P" n="24"/>quam antea. Vnde si in regno iam incipi<lb ed="#P" break="no" n="25"/>ente 
+          conuerti <pc type="virgula">/</pc> ferrent aperta esse templa 
+          <lb ed="#P" n="26"/>et idolorum cultum publice exerceri: non modo 
+          <lb ed="#P" n="27"/>imminebat periculum apostatandi a fide 
+          <lb ed="#P" n="28"/>plebeis et communibus hominibus: verum 
+          <lb ed="#P" n="29"/>etiam ipsi principi. Idcirco conuenientissi<pb ed="#P" n="223-r"/><lb ed="#P" break="no" n="1"/>mum 
+          immo necessarium utique erat vt 
+          <lb ed="#P" n="2"/>ecclesia et eius praelati christianos princi<lb ed="#P" break="no" n="3"/>pes 
+          ad idolatriae destructionem exhortaren<lb ed="#P" break="no" n="4"/>tur: 
+          et pro sua virili templa euerti cona<lb ed="#P" break="no" n="5"/>rentur. 
+          Et hoc est quod Gregorius in 
+          <lb ed="#P" n="6"/>epistola ad Aldivertum Angliae regem obnixe 
+          <lb ed="#P" n="7"/>faciebat.
+        </p>
+        <p xml:id="lca8s8-d1e710-d1e1070">
+          De caeteris tamen gentibus siue 
+          <lb ed="#P" n="8"/>infidelibus qui nec eorum principes aliquid 
+          <lb ed="#P" n="9"/>vnquam de fide audierunt nec vllam ecclesiae 
+          <lb ed="#P" n="10"/>offensam per aliquem ex prenominatis casi<lb ed="#P" break="no" n="11"/>bus 
+          intulerunt: immo nec in mentem vn<lb ed="#P" break="no" n="12"/>quam 
+          venit quid esset ecclesia vel an si in 
+          <lb ed="#P" n="13"/>rerum natura existeret: ob quod omnibus 
+          <lb ed="#P" n="14"/>modis sunt extra ecclesiam: quandoqui<lb ed="#P" break="no" n="15"/>dem
+          liquido patet nullam praedictarum 
+          <lb ed="#P" n="16"/>in istis concurrere qualitatum: quin potius 
+          <lb ed="#P" n="17"/>directe omnes esse contrarias: ergo ratio di<lb ed="#P" break="no" n="18"/>uersissima 
+          est de omnibus infidelibus quan<lb ed="#P" break="no" n="19"/>tumcumque
+          idolatriae sint dediti: dummodo in 
+          <lb ed="#P" n="20"/>aliquo praedictorum sex casuum culpabiles 
+          <lb ed="#P" n="21"/>non existant diuersissima (inquam) est 
+          <lb ed="#P" n="22"/>a ratione qua moti sunt <name xml:id="lca8s8-d1e710-Nd1e1104">Gregorius</name> et <name xml:id="lca8s8-d1e710-Nd1e1106">Am<lb ed="#P" break="no" n="23"/>brosius</name> 
+          et <name xml:id="lca8s8-d1e710-Nd1e1112">Augustinus</name> ad christianos prin<lb ed="#P" break="no" n="24"/>cipes 
+          exhortandos: ut idolatriam destrue<lb ed="#P" break="no" n="25"/>rent
+          et ad commendandas eorum circa hoc 
+          <lb ed="#P" n="26"/>christianas leges. Ex his ergo apparet 
+          <lb ed="#P" n="27"/><sic>versus</sic> originalium sanctorum ecclesiae do<lb ed="#P" break="no" n="28"/>ctorum 
+          intellectus: nec non etiam legum humanarum, 
+          quarum rationem venera<lb ed="#P" break="no" n="29"/>bilis 
+          doctor <name xml:id="lca8s8-d1e710-Nd1e1128">Sepulueda</name> inepte pro se ad<lb ed="#P" break="no" n="30"/>ducit,
+          cum tamen manifeste contra 
+          <pb ed="#P" n="223-v"/>
+          <lb ed="#P" n="1"/>se militent
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

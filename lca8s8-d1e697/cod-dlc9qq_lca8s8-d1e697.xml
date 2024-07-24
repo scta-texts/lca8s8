@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 50 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 51 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-23">July 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="216-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e697">
+        <head xml:id="lca8s8-d1e697-Hd1e97">Caput 50 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e697-d1e99">
+          <lb ed="#P" n="5"/>CAPut 50m
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e104">
+          <lb ed="#P" n="6"/><pc type="pilcrow"/> Manifestum est ex verbis relatis Diui 
+          <lb ed="#P" n="7"/>Augustini ecclesiam non compellere paga<lb ed="#P" break="no" n="8"/>nos
+          iuxta illud: quid mihi de his qui foris 
+          <lb ed="#P" n="9"/>sunt. Tantum compellere intrare ad con<lb ed="#P" break="no" n="10"/>uiuium
+          eos qui iam semel per baptismum 
+          <lb ed="#P" n="11"/>conuiuae facti sunt. Hoc significat ibi:
+          <lb ed="#P" n="12"/>vnde et ipse Deus ad magnam coenam suam 
+          <lb ed="#P" n="13"/>prius adduci Iubet conuiuas, postea cogi 
+          <lb ed="#P" n="14"/>in illis ergo qui leniter primo adducti sunt 
+          <lb ed="#P" n="15"/>completa <del rend="strikethrough">epi</del> prior obedientia coercetur. Et 
+          <lb ed="#P" n="16"/>infra docet sepes, esse hereses et schismata. 
+          <lb ed="#P" n="17"/>Quod etiam docet libro 2o aduersus epistolam
+          <lb ed="#P" n="18"/>Gaudentii, dicens errores diuersos et hereses 
+          <lb ed="#P" n="19"/>vias esse: Sepes vero significare prauas opi<lb ed="#P" break="no" n="20"/>niones 
+          et schismata. Haec duo tempora et 
+          <lb ed="#P" n="21"/>differentiam inter paganos et hereticos qui 
+          <lb ed="#P" n="22"/>iam fidem susceperunt, ut scilicet primi 
+          <lb ed="#P" n="23"/>sint alliciendi secundi compellendi: do<lb ed="#P" break="no" n="24"/>cet 
+          idem beatissimus pater Augustinus in 
+          <lb ed="#P" n="25"/>Epistola 48 ad Vincentium hereticum Dona<lb ed="#P" break="no" n="26"/>tistam: 
+          vbi verba illa parabolae compelle intrare exponit de hereticis.
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e156">
+          <pc type="pilcrow"/> Quod etiam 
+          <lb ed="#P" n="27"/>facit Innocentius ut supra iam adduximus 
+          <lb ed="#P" n="28"/>in <ref xml:id="lca8s8-d1e697-Rd1e164">c. maiores de baptismo</ref> his verbis. Die quod 
+          primo praecepit seruo id est ordini predicatorum 
+          <lb ed="#P" n="29"/>qui magnus est in ecclesia Dei de hereticis 
+          <pb ed="#P" n="215-r"/>
+          <lb ed="#P" n="1"/>c. cum ex iniuncto. Vt exiret in plateas 
+          <lb ed="#P" n="2"/>et vicos ciuitatis et pauperes et debiles caecos 
+          <lb ed="#P" n="3"/>et claudos introduceret et non compelleret 
+          <lb ed="#P" n="4"/>ipsos intrare. Postmodum etiam dixit ut exi<lb ed="#P" break="no" n="5"/>ret 
+          in vias et saepes et illos intrare compelle<lb ed="#P" break="no" n="6"/>ret
+          quos ibi inueniret ut in preallegato capitulo 
+          <lb ed="#P" n="7"/>displicet 23. q. 4: innuens per hoc quod 
+          <lb ed="#P" n="8"/>iudaei et similes qui fidem non habent non 
+          <lb ed="#P" n="9"/>sunt gladio materiali ad fidem cogendi: 
+          <lb ed="#P" n="10"/>sed introducendi per efficaciam rationis 
+          <lb ed="#P" n="11"/>et legis ut ex suis codicibus conuincantur: 
+          <lb ed="#P" n="12"/>ut in praellegato c. de Iudaeis. Sed illi 
+          <lb ed="#P" n="13"/>qui a gremio ecclesiae diuertunt ut heret<lb ed="#P" break="no" n="14"/>ici 
+          et schismatici ad eam sunt redire 
+          <lb ed="#P" n="15"/>cogendi cum sint de faro ecclesiae etiam 
+          <lb ed="#P" n="16"/>per potentiam secularem
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e206">
+          vt hic inferius lo<lb ed="#P" break="no" n="17"/>quens 
+          de primis inquit quos quidem 
+          <lb ed="#P" n="18"/>ad nuptias vult vocare sine compulsione 
+          <lb ed="#P" n="19"/>tamen quia nihil ad nos de his qui 
+          <lb ed="#P" n="20"/>foris sunt Infra de diuortiis Gaudemus. Sed per 
+          <lb ed="#P" n="21"/>hoc quod dicit quod exeat in vias et saepes: 
+          <lb ed="#P" n="22"/>notat haereticos et schismaticos: qui spi<lb ed="#P" break="no" n="23"/>nis 
+          inconsutilem domini tunicam id est ecclesiae 
+          <lb ed="#P" n="24"/>unitatem lacerant. Et isti tamquam de fo<lb ed="#P" break="no" n="25"/>ro 
+          ecclesiae sunt cogendi intrare et fidem te<lb ed="#P" break="no" n="26"/>nere 
+          quam in baptismo receperunt et caetera. haec In<lb ed="#P" break="no" n="27"/>nocentius.
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e233">
+          <pc type="pilcrow"/> Expositio ergo Augustini 
+          <lb ed="#P" n="28"/>ad haereticos referenda est quod praeter su<lb ed="#P" break="no" n="29"/>periora 
+          probatur etiam in <ref xml:id="lca8s8-d1e697-Rd1e241" target="http://scta.info/resource/gd-p2c23q4-d1e711">c. displicet</ref>, et 
+          <lb ed="#P" n="30"/>in <ref xml:id="lca8s8-d1e697-Rd1e247" target="http://scta.info/resource/gd-p2c23q4-d1e480">c. ipsa pietas</ref> et in <ref xml:id="lca8s8-d1e697-Rd1e250" target="http://scta.info/resource/gd-p2c23q4-d1e492">c. quid faciet.</ref> et in 
+          <lb ed="#P" n="31"/><ref xml:id="lca8s8-d1e697-Rd1e254" target="http://scta.info/resource/gd-p2c23q4-d1e729">c. quando.</ref> et in <ref xml:id="lca8s8-d1e697-Rd1e257" target="http://scta.info/resource/gd-p2c23q4-d1e74X">c. qui peccat</ref> et in <ref xml:id="lca8s8-d1e697-Rd1e260" target="http://scta.info/resource/gd-p2c23q4-d1e1205@32-48">c. Nimi<pb ed="#P" n="215-v"/><lb ed="#P" break="no" n="1"/>rum 
+          § Utilius: 23. q. 4.</ref> et ita exponunt 
+          <lb ed="#P" n="2"/>et docent ibi glossae et doctores. <pc type="pilcrow"/> Et nota 
+          quod generaliter verum est homines cogendos 
+          <lb ed="#P" n="3"/>praestare bonum quod promiserunt; quod 
+          <lb ed="#P" n="4"/>si promissum non est nemo cogitur bonum 
+          <lb ed="#P" n="5"/>facere.
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e278">
+          Ita notant glossa et doctores in <ref xml:id="lca8s8-d1e697-Rd1e280">c. 
+            <lb ed="#P" n="6"/>1o</ref> et in <ref xml:id="lca8s8-d1e697-Rd1e285" target="http://scta.info/resource/gd-p2c23q5-d1e609">c. Et qui. 45 distinctio</ref> et in dicto <ref xml:id="lca8s8-d1e697-Rd1e288" target="http://scta.info/resource/gd-p2c23q4-d1e696">c. Nim<lb ed="#P" break="no" n="7"/>irum.</ref> 
+          ubi probatur quod ab initio nemo cogendus est ad bonum sed aliquis cogitur 
+          <lb ed="#P" n="8"/>perseuerare in eo quod incepit vt in <ref xml:id="lca8s8-d1e697-Rd1e295" target="http://scta.info/resource/gd-p2c23q5-d1e609">c. ad 
+          <lb ed="#P" n="9"/>fidem. 23. q. 5.</ref> haec ex glosis vbi supra. 
+          <lb ed="#P" n="10"/>Et sic intelligitur vulgatum illud <ref xml:id="lca8s8-d1e697-Rd1e303">Augusti<lb ed="#P" break="no" n="11"/>ni 
+          dictum in enchiridio, c. 71</ref>, quod <quote xml:id="lca8s8-d1e697-Qd1e308" source="http://scta.info/resource/augen-d1e195-d1e113@125-129">inuitis 
+          <lb ed="#P" n="12"/>multa bona praestantur</quote>: quoniam eorum vti<lb ed="#P" break="no" n="13"/>litati 
+          consulitur non voluntati: et nomi<lb ed="#P" break="no" n="14"/>natim 
+          ibi loquitur de subditis mala opera 
+          <lb ed="#P" n="15"/>facientibus. Vnde ita inquit Augustinus: 
+          <lb ed="#P" n="16"/><quote xml:id="lca8s8-d1e697-Qd1e321" source="http://scta.info/resource/augen-d1e195-d1e113@71-81">qui emendat verbere in quem potestas datur 
+          <lb ed="#P" n="17"/>vel coercet aliqua disciplina.</quote> Et
+          infra: <quote xml:id="lca8s8-d1e697-Qd1e326" source="http://scta.info/resource/augen-d1e195-d1e113@101-124">Non 
+          <lb ed="#P" n="18"/>solum in eo quod dimittit atque orat: verum 
+          <lb ed="#P" n="19"/>etiam in eo quod corripit et aliqua emenda<lb ed="#P" break="no" n="20"/>toria 
+          poena plectit elemosinam dat: quia 
+          <lb ed="#P" n="21"/>misericordiam praestat. Multa enim bona praes<lb ed="#P" break="no" n="22"/>tantur 
+          inuitis</quote> etc.
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e340">
+          Nota Augustinum 
+          <lb ed="#P" n="23"/>de his qui nobis subditi sunt loqui. Pa<lb ed="#P" break="no" n="24"/>gani 
+          autem non sum subditi ecclesiae vt saepe 
+          <lb ed="#P" n="25"/>supra tactum et determinatum est. De 
+          <lb ed="#P" n="26"/>hac materia tractatur in dicto <ref xml:id="lca8s8-d1e697-Rd1e350" target="http://scta.info/resource/gd-p1d45-d1e274">c. et qui.</ref> et 
+          <lb ed="#P" n="27"/><ref xml:id="lca8s8-d1e697-Rd1e355" target="http://scta.info/resource/gd-p2c23q1-d1e157">c. et qui paratus, § agenda. 23. q. 2.</ref> et 
+          <lb ed="#P" n="28"/>in dicto <ref xml:id="lca8s8-d1e697-Rd1e360" target="http://scta.info/resource/gd-p2c23q4-d1e711">c. displicet.</ref> et in <ref xml:id="lca8s8-d1e697-Rd1e363" target="http://scta.info/resource/gd-p2c23q5-d1e736">c. non vos homi<lb ed="#P" break="no" n="29"/>num</ref> 
+          Et <ref xml:id="lca8s8-d1e697-Rd1e368" target="http://scta.info/resource/gd-p2c23q6-d1e151">q. 6. c. vides.</ref>
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e372">
+          Nemo ergo cogi<pb ed="#P" n="216-r"/><lb ed="#P" break="no" n="1"/>tur 
+          ad fidem suscipiendam vt in <ref xml:id="lca8s8-d1e697-Rd1e377" target="http://scta.info/resource/gd-p1d45-d1e179">c. de 
+          <lb ed="#P" n="2"/>iudaeis 45 distinctio</ref> nisi eam Iam susceperit. 
+          <lb ed="#P" n="3"/>Ecclesia autem christianorum principum vtens
+          <lb ed="#P" n="4"/>ministerio non solum haereticos redire ad 
+          <lb ed="#P" n="5"/>gremium suum compellit sed etiam iure sup<lb ed="#P" break="no" n="6"/>pliciis 
+          terribilibus ulciscitur. Tum quia 
+          <lb ed="#P" n="7"/>crimen heresis est grauissimum utpote
+          <lb ed="#P" n="8"/>contra honorem diuinum directe commissum 
+          <lb ed="#P" n="9"/>et resultat in derogationem dignitatis christi 
+          <lb ed="#P" n="10"/><ref xml:id="lca8s8-d1e697-Rd1e398" target="http://scta.info/resource/wef6td-d1e1390-d1e1342">c. cum secundum leges. de hereticis. libro 6</ref> et <ref xml:id="lca8s8-d1e697-Rd1e402" target="http://scta.info/resource/ta-l4d13q2-d1e238@4-43">sanctus 
+          <lb ed="#P" n="11"/>thomas 4 sententiarum distinctio 13, q. 2, a. 
+          <lb ed="#P" n="12"/>2 per totum</ref> Et longe grauius est aeternam quam 
+          <lb ed="#P" n="13"/>temporalem offendere maiestatem l. Ga<lb ed="#P" break="no" n="14"/>zaros 
+          C. de hereticis. Tum quia est pericu<lb ed="#P" break="no" n="15"/>losissimum 
+          et maxime infectiuum.
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e416">
+          Vnde 
+          <lb ed="#P" n="16"/>heretici sunt pessimi hominum et toti ec<lb ed="#P" break="no" n="17"/>clesiae 
+          uniuersali maxime nociui. quia 
+          <lb ed="#P" n="18"/>concordiam non seruant: <subst><del rend="strikethrough">pacem</del> <add place="above-line">rixam</add></subst> conser<lb ed="#P" break="no" n="19"/>uant: 
+          pacem conturbant <ref xml:id="lca8s8-d1e697-Rd1e434" target="http://scta.info/resource/TAca84-d1e1473-d1e341@5-90 http://scta.info/resource/TAca84-d1e1473-d1e377@1-37">sanctus Thomas 2a 2ae 
+          <lb ed="#P" n="20"/>q. 39, articulo 1o ad 3m</ref> Et <ref xml:id="lca8s8-d1e697-Rd1e439" target="http://scta.info/resource/ta-l4d13q2-d1e238@4-43">4o sententiarum ubi supra</ref> 
+          <lb ed="#P" n="21"/>simplices fideles satagunt corrumpere. Pro<lb ed="#P" break="no" n="22"/>pterea 
+          dicit <ref xml:id="lca8s8-d1e697-Rd1e446">apostolus 2o ad Thimo 2</ref> de 
+          <lb ed="#P" n="23"/>haereticis, quod <quote xml:id="lca8s8-d1e697-Qd1e451" source="http://scta.info/resource/IItim2_16@5-9 http://scta.info/resource/IItim2_17@1-6">multum proficiunt ad impie<lb ed="#P" break="no" n="24"/>tatem 
+          et sermo: eorum ut cancer serpit</quote>. Et 
+          <lb ed="#P" n="25"/>ob hoc a consortio fidelium duris poenis 
+          <lb ed="#P" n="26"/>sunt segregandi.
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e461">
+          Vnde: <ref xml:id="lca8s8-d1e697-Rd1e463">Hieronimus</ref> <quote xml:id="lca8s8-d1e697-Qd1e465">Re<lb ed="#P" break="no" n="27"/>secandae 
+          sunt putridae carnes et scabiosa 
+          <lb ed="#P" n="28"/>ouis a caulis repellenda: ne tota domus 
+          <lb ed="#P" n="29"/>massa et pecora ardeant corrumpantur 
+          <lb ed="#P" n="30"/>putrescant intereant. Vna scintilla fuit 
+          <lb ed="#P" n="31"/>Arius in Alexandria: sed quoniam non 
+          <pb ed="#P" n="216-v"/>
+          <lb ed="#P" n="1"/>statim oppressus est per totum orbem eius 
+          <lb ed="#P" n="2"/>flamma populata est</quote>. haec ille. Et habetur 
+          <lb ed="#P" n="3"/><ref xml:id="lca8s8-d1e697-Rd1e486" target="http://scta.info/resource/gd-p2c24q3-d1e372">24. q. 3, c. resecandae.</ref>
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e491">
+          Tum tertio quia he<lb ed="#P" break="no" n="4"/>retici 
+          sunt christo et ecclesiae siue reipu<lb ed="#P" break="no" n="5"/>blicae 
+          christianae infideles ea infidelitate 
+          <lb ed="#P" n="6"/>quae cedit in proditionem sunt prodito<lb ed="#P" break="no" n="7"/>res 
+          rebelles et inobedientes hostes et per<lb ed="#P" break="no" n="8"/>duelliones 
+          etc. De quibus latissime loqu<lb ed="#P" break="no" n="9"/>uti 
+          sumus in libro 1o de Vnico vocationis 
+          <lb ed="#P" n="10"/>Modo ad veram religionem. Cum igitur 
+          <lb ed="#P" n="11"/>heretici facti sint de foro ecclesiae (ut 
+          <lb ed="#P" n="12"/>probatum est) iure potest eos per manus prin<lb ed="#P" break="no" n="13"/>cipum 
+          fidelium punire rationibus saepe 
+          <lb ed="#P" n="14"/>iam dictis. Infideles autem alii cum neque in 
+          <lb ed="#P" n="15"/>quantum membra fuerint ecclesiae: neque suis 
+          <lb ed="#P" n="16"/>superstitionibus christianam gentem cor<lb ed="#P" break="no" n="17"/>rumpunt 
+          quoniam ut supponimus incolunt 
+          <lb ed="#P" n="18"/>regna sua a nostris prouinciis longe semota 
+          <lb ed="#P" n="19"/>et per consequens non sunt de foro ecclesiae certe 
+          <lb ed="#P" n="20"/>eorum <seg type="correction">diuersi<add place="above-line">ssi</add>ma</seg> ratio esse debet quam haeretico<lb ed="#P" break="no" n="21"/>rum. 
+          Quare diuus Augustinus exponit 
+          <lb ed="#P" n="22"/>parabolam de haereticis non vero loquitur 
+          de infidelibus.
+        </p>
+        <p xml:id="lca8s8-d1e697-d1e541">
+          Et sic apparet manifes<lb ed="#P" break="no" n="23"/>te 
+          confusio egregii doctoris: qui ea quae 
+          <lb ed="#P" n="24"/>sancti doctores contra haereticos: vel dixerunt 
+          <lb ed="#P" n="25"/>vel constituerunt: similiter et quae fideles 
+          <lb ed="#P" n="26"/>imperatores more suo inepta preuaricatio<lb ed="#P" break="no" n="27"/>ne 
+          aduersus simplices et ignaros Dei legis 
+          <lb ed="#P" n="28"/>et catholicae doctrinae infideles conatus 
+          <lb ed="#P" n="29"/>est totis viribus retorquere
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

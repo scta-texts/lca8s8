@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Caput 56 [Bnf 12926 Transcription]</title>
+        <title>Caput 1 [Bnf 12926 Transcription]</title>
         <author ref="#per-bdlcbd">Bartolome de las Casas</author>
         <respStmt>
           <name ref="#a1wilson">Andrew L. Wilson</name>
@@ -51,13 +51,14 @@
     </front>
     <body>
       <div xml:id="lca8s8-d1e52">
-		<head id="P">Caput 56 [Bnf 12926 Transcription]</head>
+		<head id="P">Caput 1 [Bnf 12926 Transcription]</head>
 		<p>
-			<lb ed="#P" n="P"/>ADVERSVS PERSECVTORES ET CALVMNIATORES GENTIVM
-			<lb ed="#P" n="P"/>NOVI ORBIS AD OCEANVM REPERTI APOLOGIA ADMODVM
-			<lb ed="#P" n="P"/>REVERENDISSIMI DOMINI D. FRATRIS
-			<lb ed="#P" n="P"/>BARTHOLOMEI CASAVS, EPISCOPI QVONDAM CHIADPENSIS,
-			<lb ed="#P" n="P"/>SACRI ORDINIS PREDICATORVM.
+			<lb ed="#P" n="P"/>Adversvs persecvtores, et calum<lb ed="#P" break="no" n="P"/>niatores 
+			gentivm novi orbis
+			<lb ed="#P" n="P"/>ad oceanum reperti apolo<lb ed="#P" break="no" n="P"/>gia:
+			admodum Reverendissimi domini d. fratris Bartholomei cas<lb ed="#P" break="no" n="P"/>aus 
+			episcopi quondam
+			<lb ed="#P" n="P"/>chiapensis sacri ordinis predicatorum.
 		</p>
 		<p>
 			<lb ed="#P" n="P"/>Capvt primum
@@ -167,8 +168,126 @@
 			<lb ed="#P" n="P"/>lupis edomandas quam verbo dei pascendas: labi
 			<lb ed="#P" n="P"/>circa res manifestissimas et aduersari legi na
 			<pb ed="#P" n="13-r"/>
-			<lb ed="#P" n="P"/>turali. Errant etiam impie dum dicunt haec bella justa esse si gerantur ut geri debent; sentiunt, opinor, si gerantur moderate occidendo tantum eos quos necessarium est occidere ut caeteri subigantur. Quasi omnes nouis orbis populos caueis aut ergastulis inclusos haberent trucidarique velint tot hominum capita quot solent in macellis vendi quolibet die ad populi victum et alimenta, ut hoc in similitudinem afferam. Quod si considerent bel
-		</p>
+			<lb ed="#P" n="P"/>turali. Errant etiam impie dum dicunt
+			<lb ed="#P" n="P"/>haec bella justa esse si gerantur ut geri debent;
+			<lb ed="#P" n="P"/>sentiunt opinor si gerantur moderate occide<lb ed="#P" break="no" n="P"/>ndo 
+			tantum eos, quos necessarium est occide<lb ed="#P" break="no" n="P"/>re 
+			ut caeteri subigantur. Quasi omnes no<lb ed="#P" break="no" n="P"/>uis 
+			orbis populos caueis aut ergastulis inclu<lb ed="#P" break="no" n="P"/>sos 
+			haberent trucidarique velint: tot hominum
+			<lb ed="#P" n="P"/>capita quot solent in macellis vendi quoli
+			<lb ed="#P" n="P"/>bet die ad populi victum, et alimenta (ut hoc
+			<lb ed="#P" n="P"/>in similitudinem afferam). Quod si conside<lb ed="#P" break="no" n="P"/>rent 
+			bellum et pauidae gentis cedem: non
+			<lb ed="#P" n="P"/>per unum vel centum dies: sed per decem vel
+			<lb ed="#P" n="P"/>viginti annos durare: incredibili incolarum
+			<lb ed="#P" n="P"/>jactura: dum errantes et conditi per nemora
+			<lb ed="#P" n="P"/>et siluas dispersi inermes, nudi, et omni pre<lb ed="#P" break="no" n="P"/>sidio 
+			humano destituti trucidantur ab hys<lb ed="#P" break="no" n="P"/>panis, 
+			exuti fortunis, miseri, exules, attoniti:
+			<lb ed="#P" n="P"/>et incredibili pauore perterriti: quo illos tyra<lb ed="#P" break="no" n="P"/>ni
+			editis immanibus facinoribus se exterrue<lb ed="#P" break="no" n="P"/>runt. 
+			Si considerent isti qui talia loquuntur:
+			<lb ed="#P" n="P"/>miserae gentis pectora tanto perculsa metu:
+			<lb ed="#P" n="P"/>ut ad ipsas altissimas terrae cauernas sese pre<lb ed="#P" break="no" n="P"/>cipites 
+			dare vellent; ut horum predonum ma<lb ed="#P" break="no" n="P"/>nus 
+			effugerent: haud dubito quin magis so<lb ed="#P" break="no" n="P"/>bria 
+			magisque cordata loquerentur.
+			<p>
+			</p>
+			<lb ed="#P" n="P"/>Ad rem igitur deueniendo duo principalis<lb ed="#P" break="no" n="P"/>sima 
+			continebit haec apologia. Primo docebo
+			<lb ed="#P" n="P"/>Reuerendum doctorem Sepuluedam cum
+			<lb ed="#P" n="P"/>suis errare in jure in omnibus quae contra
+			<pb ed="#P" n="13-v"/>
+			<lb ed="#P" n="P"/>indos profert: simulque subijciam respon<lb ed="#P" break="no" n="P"/>sionem 
+			ad omnia eius argumenta et ad autho<lb ed="#P" break="no" n="P"/>ritates 
+			quas ille violenter detorquet. Secun<lb ed="#P" break="no" n="P"/>do
+			docebo quantum magna animarum suarum
+			<lb ed="#P" n="P"/>cum jactura in facto errent. Neque enim con<lb ed="#P" break="no" n="P"/>ditor 
+			omnis creaturae ita has noui orbis gen<lb ed="#P" break="no" n="P"/>tes 
+			contempsit; ut eas ratione carere voluerit
+			<lb ed="#P" n="P"/>et brutis animantibus similes fecerit: adeo
+			<lb ed="#P" n="P"/>ut barbari eferi siluestres et bruti appellari
+			<lb ed="#P" n="P"/>debeant: ut isti putant vel fingunt immo vero
+			<lb ed="#P" n="P"/>eius mansuetudinis et modestiae sunt: ut supra
+			<lb ed="#P" n="P"/>caeteras totius orbis gentes aptissimae et para<lb ed="#P" break="no" n="P"/>tissimae 
+			sunt ad relinquendum idolorum cul<lb ed="#P" break="no" n="P"/>tum 
+			et suscipiendum prouinciatim et po<lb ed="#P" break="no" n="P"/>pulatim 
+			verbum dei et veritatis anuntiatio<lb ed="#P" break="no" n="P"/>nem.
+			<p>
+			</p>
+			<lb ed="#P" n="P"/>
+			<add place="lm" hand="E">Respondetur ad
+			primum argumentum vel
+			causam doctoris Se
+			puluedae</add>
+			Quoad primum de quo alibi prolixius et
+			<lb ed="#P" n="P"/>generaliter contra omnes qui huiusmodi erro<lb ed="#P" break="no" n="P"/>ribus
+			circa materiam infidelium sunt infec<lb ed="#P" break="no" n="P"/>ti 
+			disseruimus: impresentiarum vero pro ali<lb ed="#P" break="no" n="P"/>quali 
+			impugnatione primae Sepuluedae proelij
+			<lb ed="#P" n="P"/>sui justificationis: sciendum est quod secundum <ref><name>Philosophum</name> 
+	  		<lb ed="#P" n="P"/>1. et. 3. <title>politicorum</title></ref> Et. <ref>7 <title>Ethicorum</title></ref>. et <ref>secundum <name>sanctum Thomam</name></ref> 
+			<lb ed="#P" n="P"/>et alios doctores in varijs locis: quatuor sunt
+			<lb ed="#P" n="P"/>barbarorum species. 
+			<add place="lm" hand="F">Prima barbarorum species
+			quando inhumani et
+			atroces sunt et horribiles</add>
+			Primo barbarus improprie
+			<lb ed="#P" n="P"/>et largiter sumpto vocabulo: significat quem<lb ed="#P" break="no" n="P"/>cumque 
+			hominem saeuum, inhumanum, fe<lb ed="#P" break="no" n="P"/>rum, 
+			immitem et a ratione humana abhorren<lb ed="#P" break="no" n="P"/>tem 
+			vel ira vel natura: ita quod postposita mo<lb ed="#P" break="no" n="P"/>destia, 
+			mansuetudine et moderatione humana:
+			<pb ed="#P" n="14-r"/> 
+			<lb ed="#P" n="P"/>redditur durus, asperus, rixosus, intolerabi
+			<lb ed="#P" n="P"/>lis, saeuus precipitemque se dat in facinora: quae
+			<lb ed="#P" n="P"/>non nisi eferae bestiae siluas incolentes per<lb ed="#P" break="no" n="P"/>petrarent. 
+			De boc barbarorum genere loquens
+			<lb ed="#P" n="P"/><ref><name>philosophus</name> libro 1, c. 2. <title>politicorum</title></ref>:
+			<lb ed="#P" n="P"/>inquit quod quemadmodum homo rectam rationem et
+			<lb ed="#P" n="P"/>optima instituta sequens omnibus animali<lb ed="#P" break="no" n="P"/>bus 
+			prestat: ita si a recta ratione judicij et le<lb ed="#P" break="no" n="P"/>gibus 
+			deuiat omnium animalium impijssi<lb ed="#P" break="no" n="P"/>mum, 
+			pessimum et inhumanissimum est:
+			<lb ed="#P" n="P"/>de his etiam loquitur <ref><name>Boethius</name> libro. 1o. prosa 4a.
+			<lb ed="#P" n="P"/><title>de consolatione</title> ubi</ref> palatinos Theodorici tyranij
+			<lb ed="#P" n="P"/>regis appellat barbaros ob eorum saeuam et insatia<lb ed="#P" break="no" n="P"/>bilem 
+				auaritiam. <quote>Quotiens (inquit) miscros quos
+			<lb ed="#P" n="P"/>infinitis calumnijs impunita barbarorum aua<lb ed="#P" break="no" n="P"/>ritia 
+			uexabat: obiecta periculis autoritate pro<lb ed="#P" break="no" n="P"/>texi</quote>.
+			Rursus et Libro <ref>2o machabaeorum, c. 15.</ref> hu<lb ed="#P" break="no" n="P"/>iusmodi 
+			barbarorum fit mentio: cum enim <name>Ni<lb ed="#P" break="no" n="P"/>canor</name>
+			tyranus saeuus et ferox congredi proe<lb ed="#P" break="no" n="P"/>lio 
+			vellet cum <name>Iuda Machabaeo</name> ad lamariam die
+			<lb ed="#P" n="P"/>Sabbati: Judaei quidam qui apud illum erant di<lb ed="#P" break="no" n="P"/>xerunt 
+			illi: ne ita ferociter ac barbare feceris hoc
+			<lb ed="#P" n="P"/>est sacue et inhumane et in hoc sensu ct greci, et
+			<lb ed="#P" n="P"/>latini, et quicumque vel maxime politice viuentes
+			<lb ed="#P" n="P"/>appellari possunt barbari: si morum feritate acce<lb ed="#P" break="no" n="P"/>dant 
+			Scythas: quorum prouincia peculiariter appel<lb ed="#P" break="no" n="P"/>labatur 
+			barbara autore <ref><name>Isidoro</name> <title>Etymologiarum</title>
+		  	<lb ed="#P" n="P"/>Lib. 14, c. 4</ref>. ob gentis mores saeuos et inhuma<lb ed="#P" break="no" n="P"/>nos,
+			et de horum numero re vera Hyspani nostri
+			<lb ed="#P" n="P"/>non sunt alieni: quinimmo ex operibus imma<lb ed="#P" break="no" n="P"/>nissimis, 
+			quae in illas nationes exercuerunt:
+			<lb ed="#P" n="P"/>superarunt barbaros uniuersos. Ad hoc barbarorum 
+			<pb ed="#P" n="14-v"/>
+			<lb ed="#P" n="P"/>genus pertinet qui vel ira vel odio vel alio affe<lb ed="#P" break="no" n="P"/>ctu 
+			uehementi concitati seditiose aliquid defen<lb ed="#P" break="no" n="P"/>dunt:
+			obliti rationis et decoris. De his loquitur
+			<lb ed="#P" n="P"/><ref><name>Gregorius</name> <title>Epistolarum</title> Lib. 2. c. 69</ref>. et <ref><name>Gratia<lb ed="#P" break="no" n="P"/>nus</name> 
+			c. Quanto apostolice. dist. 63a</ref>. ubi lo<lb ed="#P" break="no" n="P"/>quens 
+			de seditione orta inter Mediolanenses. sup<lb ed="#P" break="no" n="P"/>er 
+			electione cuiusdam Episcopi inquit: <quote>multi mediola<lb ed="#P" break="no" n="P"/>nensium 
+			coacti barbarica feritate consistunt</quote>,<lb ed="#P" break="no" n="P"/> 
+			et caetera. Huiusmodi barbaros appellat feras <ref><name>Philosophus</name> 
+		  	<lb ed="#P" n="P"/>7. <title>Ethicorum</title>, c. 1</ref>. his verbis: <quote>maxime autem in
+			<lb ed="#P" n="P"/>barbaris est bestialitas et propter egritudinem
+			<lb ed="#P" n="P"/>et orbitates: sic super infamamus (scilicet) di<lb ed="#P" break="no" n="P"/>centes 
+			vel asserentes eos bestiales et barbaros</quote>. 
+		  </p>
 	</div>
     </body>
   </text>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 49 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 49 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-30">July 30, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="210-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e684">
+        <head xml:id="lca8s8-d1e684-Hd1e97">Caput 49 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e684-d1e99">
+          <lb ed="#P" n="6"/>CAPut 49
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e104">
+          <lb ed="#P" n="7"/><pc type="pilcrow"/> Non obstat predeterminatis quod diu<lb ed="#P" break="no" n="8"/>us 
+          augustinus illam euangelicam para<lb ed="#P" break="no" n="9"/>bo
+          exponit in suis epistolis et aliis operi<lb ed="#P" break="no" n="10"/>bus 
+          de compulsione corporali et violenta.
+          <lb ed="#P" n="11"/>Eius enim expositio vera est sed quoad 
+          <lb ed="#P" n="12"/>hereticos. Quorum conditio et causa longis<lb ed="#P" break="no" n="13"/>sime
+          differt ab ea quae est gentilium qui 
+          <lb ed="#P" n="14"/>scilicet numquam fidem susceperunt <pc type="punctus"/> vt su<lb ed="#P" break="no" n="15"/>pra 
+          c. 6 et in sequentibus late ostensum 
+          <lb ed="#P" n="16"/>est. Tanta enim est ubertas diuinae scripturae
+          <lb ed="#P" n="17"/>vt vnumquodque verbum plurimos habeat 
+          <lb ed="#P" n="18"/>litterales sensus pios (autore Thoma) qui 
+          <lb ed="#P" n="19"/>huius rei rationem reddit <ref xml:id="lca8s8-d1e684-Rd1e137" target="http://scta.info/resource/TAca84-d1e51-d1e2072"><!-- target precise -->1 parte, q. 1, articulo 
+          <lb ed="#P" n="20"/>10 in corpore in fine.</ref> 
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e144">
+          Quod autem haeretici admo<lb ed="#P" break="no" n="21"/>ta 
+          vi compellantur redire ad ouile christi 
+          <lb ed="#P" n="22"/>probatur. Quoniam is qui nihil promi<lb ed="#P" break="no" n="23"/>sit 
+          veluti paganus nihil cogitur praestare. 
+          <lb ed="#P" n="24"/>Haereticus autem cum in baptismo sese deuo<lb ed="#P" break="no" n="25"/>uerit 
+          christo: compelli potest ad eius ouile 
+          <lb ed="#P" n="26"/>redire. Naturae enim lex dictat vnum<lb ed="#P" break="no" n="27"/>quemque 
+          praestare quod promisit Iuxta il<lb ed="#P" break="no" n="28"/>lud 
+          <ref xml:id="lca8s8-d1e684-Rd1e163">apostoli ad Romanos 13</ref> <quote xml:id="lca8s8-d1e684-Qd1e165" source="http://scta.info/resource/rom13_7@1-3">reddite omnibus 
+          <lb ed="#P" n="29"/>debita</quote> et <quote xml:id="lca8s8-d1e684-Qd1e170" source="http://scta.info/resource/rom13_8@1-3">nemini quicquam debeatis</quote>. Et iure
+          <pb ed="#P" n="211-r"/>
+          <lb ed="#P" n="1"/>naturali obligat simplex promissio quam qui 
+          <lb ed="#P" n="2"/>non implet peccat mortaliter vt in <ref xml:id="lca8s8-d1e684-Rd1e180" target="http://scta.info/resource/gd-p2c22q5-d1e315">c. Iura<lb ed="#P" break="no" n="3"/>menti 
+          22. q. 5</ref>. Et in <ref xml:id="lca8s8-d1e684-Rd1e185" target="http://scta.info/resource/cice-l1t35-d1e119">c. 1. de pactis</ref> et ibi 
+          <lb ed="#P" n="4"/>glossae et doctores; et <ref xml:id="lca8s8-d1e684-Rd1e191" target="http://scta.info/resource/TAca84-d1e1840-d1e1141@5-40"><!-- best guess ref to 2a2ae q. 110 (rather that q. 10) -->sanctus Thomas 2a 2ae, q. <sic>10</sic>, articulo 3o 
+          <lb ed="#P" n="5"/>ad 5m</ref> Et in <ref xml:id="lca8s8-d1e684-Rd1e199" target="http://scta.info/resource/ta-l4d27q2-d1e142"><!-- tartet precise -->4o sententiarum distinctio 27 q. 2, articulo 
+          <lb ed="#P" n="6"/>1o ad 2m</ref>. Haereticus autem non solum obliga<lb ed="#P" break="no" n="7"/>tur 
+          christo: verum etiam ecclesiae. Ergo 
+          <lb ed="#P" n="8"/>promissionem suam praestare cogendus est 
+          <lb ed="#P" n="9"/>quemadmodum et qui votum edidit cogi<lb ed="#P" break="no" n="10"/>tur 
+          votum implere ut in <ref xml:id="lca8s8-d1e684-Rd1e214">psalmo 75</ref> <quote xml:id="lca8s8-d1e684-Qd1e216" source="http://scta.info/resource/ps75_12@1-6">vo<lb ed="#P" break="no" n="11"/>uete 
+          et reddite domino Deo vestro</quote>, quamuis enim 
+          <lb ed="#P" n="12"/>vouere sit voluntatis tamen postquam votum 
+          <lb ed="#P" n="13"/>est editum: implendum est necessario vt 
+          <lb ed="#P" n="14"/>in <ref xml:id="lca8s8-d1e684-Rd1e227" target="http://scta.info/resource/cice-l3t34-d1e210">c. magnae</ref> et in <ref xml:id="lca8s8-d1e684-Rd1e231" target="http://scta.info/resource/cice-l3t34-d1e195">c. liceat: devoto</ref>. sic 
+          <lb ed="#P" n="15"/>liber homo et ciuitates liberae sese possunt 
+          <lb ed="#P" n="16"/><unclear>subiiere</unclear> regi vel principi: et postquam semel 
+          <lb ed="#P" n="17"/>sese subiecerunt nequaquam possunt penitere. 
+          <lb ed="#P" n="18"/>Homo enim liber potest sese alii subiicere ut 
+          <lb ed="#P" n="19"/>notatur in <ref xml:id="lca8s8-d1e684-Rd1e246" target="http://scta.info/resource/wef6td-d1e218-d1e159">c. grandi de supplenda negli<lb ed="#P" break="no" n="20"/>gentia 
+          praelatorum in 6</ref> et in <ref xml:id="lca8s8-d1e684-Rd1e251">l. cum scimus de 
+          <lb ed="#P" n="21"/>agricolis et censitis</ref> Et in <ref xml:id="lca8s8-d1e684-Rd1e256">l. 1: § 1</ref>, Et <ref xml:id="lca8s8-d1e684-Rd1e258">L. iu<lb ed="#P" break="no" n="22"/>ris 
+          gentium, § pretor, ff. de pactis</ref>. Ergo 
+          <lb ed="#P" n="23"/>haeretici votum in baptismo editum non prestan<lb ed="#P" break="no" n="24"/>tes 
+          iure possunt ad praestandum compelli. 
+          <lb ed="#P" n="25"/>Qui enim est haereticus christum offendit 
+          <lb ed="#P" n="26"/>et crimen laesae maiestatis committit cuius off<lb ed="#P" break="no" n="27"/>ensae 
+          ultrix est ecclesia cuius haereticus sub<lb ed="#P" break="no" n="28"/>ditus 
+          est et capiti eius Romano pontifici.
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e277">
+          Hu<lb ed="#P" break="no" n="29"/>ius 
+          subiectionis radix et fundamentum 
+          <lb ed="#P" n="30"/>est triplex
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e285">
+          primum est votum solemniter 
+          <lb ed="#P" n="31"/>emissum et fidei spontanea confessio et pro<lb ed="#P" break="no" n="32"/>missio
+          facta in susceptione baptismi. ut 
+          <pb ed="#P" n="211-v"/>
+          <lb ed="#P" n="1"/>in <ref xml:id="lca8s8-d1e684-Rd1e295" target="http://scta.info/resource/gd-p3d4-d1e1193">c. prima</ref>, et <ref xml:id="lca8s8-d1e684-Rd1e299" target="http://scta.info/resource/gd-p3d4-d1e1018">c. postquam</ref>. Et sequenti de
+          <lb ed="#P" n="2"/>consecratione distinctio 4
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e305">
+          <pc type="pilcrow"/> Secundum fundamen<lb ed="#P" break="no" n="3"/>tum 
+          quia baptizatus per stipulationem obli<lb ed="#P" break="no" n="4"/>gatur 
+          per illa verba credis in Deum etc. <ref xml:id="lca8s8-d1e684-Rd1e313">glosa in dicto c. prima</ref>
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e316">
+          <pc type="pilcrow"/> Tertium est obe<lb ed="#P" break="no" n="5"/>dientia 
+          quam baptizatus in baptismo tacite 
+          <lb ed="#P" n="6"/>et implicite promittit christo et ecclesiae 
+          <lb ed="#P" n="7"/>Porro per baptismum tradit se quispiam 
+          <lb ed="#P" n="8"/>domino et ditioni christi eiusdemque subdi<lb ed="#P" break="no" n="9"/>tus 
+          debitorque efficitur: fugiens et alienans 
+          <lb ed="#P" n="10"/>se per abrenuntiationem a seruitio et posses<lb ed="#P" break="no" n="11"/>sione 
+          prioris domini et possessoris diaboli 
+          <lb ed="#P" n="12"/>Et proinde se de caetero viuiturum secundum le<lb ed="#P" break="no" n="13"/>gem 
+          diuinam euangelicam profitetur. Annu<lb ed="#P" break="no" n="14"/>meratur
+          quoque simul fidelium coetui et chris<lb ed="#P" break="no" n="15"/>tianae 
+          reipublicae. Vt in <ref xml:id="lca8s8-d1e684-Rd1e344" target="http://scta.info/resource/gd-p3d4-d1e1018">c. postquam</ref>, et 
+          <lb ed="#P" n="16"/>in <ref xml:id="lca8s8-d1e684-Rd1e349" target="http://scta.info/resource/gd-p3d4-d1e912">c. ante baptismum in fine</ref> et in <ref xml:id="lca8s8-d1e684-Rd1e352" target="http://scta.info/resource/gd-p3d4-d1e766">c. ab 
+          <lb ed="#P" n="17"/>antiqua de consecratione distinctio 4</ref> merito ergo 
+          <lb ed="#P" n="18"/>haereticus per ecclesiam cogitur tenere fidem 
+          <lb ed="#P" n="19"/>et praestare obedientiam et viuere secundum legem 
+          <lb ed="#P" n="20"/>christi quam tenere vouit et spontaneae pro<lb ed="#P" break="no" n="21"/>misit. 
+          Quilibet enim subditus cuiuslibet prin<lb ed="#P" break="no" n="22"/>cipis 
+          aut membrum reipublicae tenetur il<lb ed="#P" break="no" n="23"/>lius 
+          legibus obedire ac secundum esa viuere caete<lb ed="#P" break="no" n="24"/>risque 
+          bonis ciuibus se conformare <ref xml:id="lca8s8-d1e684-Rd1e373" target="http://scta.info/resource/gd-p1d8-d1e149">8 dist.
+          <lb ed="#P" n="25"/>c. quae contra</ref>, <ref xml:id="lca8s8-d1e684-Rd1e378" target="http://scta.info/resource/cice-l1t2-d1e119">c. 1, de constitutionibus</ref>, <ref xml:id="lca8s8-d1e684-Rd1e381">C. de summa 
+          <lb ed="#P" n="26"/>trinitate l. cunctos populos</ref>. Et hoc est quod 
+          <lb ed="#P" n="27"/>sentit <ref xml:id="lca8s8-d1e684-Rd1e388">Augustinus exponens eam parabo<lb ed="#P" break="no" n="28"/>lam 
+          compelle intrare</ref> Et <ref xml:id="lca8s8-d1e684-Rd1e393" target="http://scta.info/resource/TAca84-d1e1324-d1e1741">sanctus Thomas 2a 2ae q. 
+          <lb ed="#P" n="29"/>10 articulo 3 in corpore</ref>. Et <ref xml:id="lca8s8-d1e684-Rd1e399" target="http://scta.info/resource/TAca84-d1e1324-d1e1856@5-32">ad 3m.</ref> Et inter he<lb ed="#P" break="no" n="30"/>reticos 
+          et paganos exprimit hanc diffe<lb ed="#P" break="no" n="31"/>rentiam 
+          concilium toletanum canone 
+          <pb ed="#P" n="212-r"/>
+          <lb ed="#P" n="1"/>56 disponens eos qui numquam fidem sus<lb ed="#P" break="no" n="2"/>ceperunt 
+          non esse cogendos eam suscipere: 
+          <lb ed="#P" n="3"/>secus autem in his qui eam susceperunt et 
+          <lb ed="#P" n="4"/>haeresim ab ecclesiae unitate scilicet corpore 
+          <lb ed="#P" n="5"/>Christi discedunt Hi enim compellendi sunt 
+          <lb ed="#P" n="6"/>redire ad fidem quod etiam legitur in 
+          <lb ed="#P" n="7"/><ref xml:id="lca8s8-d1e684-Rd1e422" target="http://scta.info/resource/gd-p1d45-d1e179">c. de iudaeis 45 distinctio</ref> quoniam autem com<lb ed="#P" break="no" n="8"/>pulsio 
+          ecclesiastica quae sanctis monitis 
+          <lb ed="#P" n="9"/>et verbo Dei fit: non sufficiebat ad com<lb ed="#P" break="no" n="10"/>pellendum 
+          haereticos eo quod ecclesia in primor<lb ed="#P" break="no" n="11"/>diis 
+          suis facultate potentiaque carebat 
+          <lb ed="#P" n="12"/>quoniam non habebat principes aliquod 
+          <lb ed="#P" n="13"/>christianos qui eam iuuarent atque defen<lb ed="#P" break="no" n="14"/>derent 
+          Augustinus scribens ad Dona<lb ed="#P" break="no" n="15"/>tum 
+          haereticum qui conquerebatur eccle<lb ed="#P" break="no" n="16"/>siam 
+          aduersus exemplum christi et apos<lb ed="#P" break="no" n="17"/>tolum 
+          uti armis ac viribus corporalibus 
+          <lb ed="#P" n="18"/>saecularium principum compellendo ad fi<lb ed="#P" break="no" n="19"/>dem.
+          Augustinus explicans diffusius 
+          <lb ed="#P" n="20"/>prefatam differentiam respondet in ecclesia 
+          <lb ed="#P" n="21"/>duo esse consideranda tempora primum 
+          <lb ed="#P" n="22"/>quo nouello germine pullulabat, eo enim 
+          <lb ed="#P" n="23"/>inuitabat tantum ad fidem. <quote xml:id="lca8s8-d1e684-Qd1e460">Nondum 
+          <lb ed="#P" n="24"/>completa fuerat illa profetia: et adorabunt 
+          <lb ed="#P" n="25"/>eum omnes reges terrae: omnes gentes serui<lb ed="#P" break="no" n="26"/>ent 
+          ei psalmo 71. Secundum tempus est 
+          <lb ed="#P" n="27"/>quo vaticinium fuit impletum. Quod vtique 
+          <lb ed="#P" n="28"/>quanto magis impletur: tanto maiore vti<lb ed="#P" break="no" n="29"/>tur 
+          ecclesia potestate: ut non solum inui<lb ed="#P" break="no" n="30"/>tet, 
+          sed etiam agat ad bonum. Hoc dominus 
+          <pb ed="#P" n="212-v"/>
+          <lb ed="#P" n="1"/>significare volebat quod quis haberet magnam 
+          <lb ed="#P" n="2"/>potestatem: prius tamen elegit commendare humi<lb ed="#P" break="no" n="3"/>litatem 
+          hoc etiam in illa conuiuii similitu<lb ed="#P" break="no" n="4"/>dine
+          satis euidenter ostendit</quote> etc <ref xml:id="lca8s8-d1e684-Rd1e489">haec Au<lb ed="#P" break="no" n="5"/>gustinus</ref> 
+          et habetur <ref xml:id="lca8s8-d1e684-Rd1e495" target="http://scta.info/resource/gd-p2c23q4-d1e711">23. q. 4,. c. displicet</ref> et <ref xml:id="lca8s8-d1e684-Rd1e498" target="http://scta.info/resource/gd-p2c23q4-d1e711">c. non invenitur.</ref>
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e502">
+          Tempore ergo 
+          <lb ed="#P" n="6"/><del rend="strikethrough">sim 2ae quae</del><add>secundo</add> impletum fuit vaticinium. Tem<lb ed="#P" break="no" n="7"/>pore 
+          ergo quo ecclesia reges et principes ha<lb ed="#P" break="no" n="8"/>buit 
+          quorum armis vti posset comprimit no<lb ed="#P" break="no" n="9"/>lentes 
+          perseuerare in fide iam suscepta. Sed 
+          <lb ed="#P" n="10"/>diuersa ratio est paganorum praesertim in<lb ed="#P" break="no" n="11"/>dorum 
+          qui non solum fidem christi non 
+          <lb ed="#P" n="12"/>susceperunt: verum ne audierunt quidem 
+          <lb ed="#P" n="13"/>et ita cum nihil promiserint nec subditi 
+          <lb ed="#P" n="14"/>ecclesiae sint: non est quod compellantur si<lb ed="#P" break="no" n="15"/>cut 
+          haeretici de quibus tantum loquitur Diuus 
+          <lb ed="#P" n="16"/>Augustinus. Manifestum namque est quod 
+          <lb ed="#P" n="17"/>omnes tales infideles qui fidem non receperunt 
+          <lb ed="#P" n="18"/>pertinent ad primum tempus ecclesiae: quando 
+          <lb ed="#P" n="19"/>(scilicet) ad conuertendum infideles ratio<lb ed="#P" break="no" n="20"/>nibus 
+          et persuasionibus vtebatur, et semper 
+          <lb ed="#P" n="21"/>vsa est ecclesia non armis aut violentia: 
+          <lb ed="#P" n="22"/>etiam si principes fideles haberet quia cessat 
+          <lb ed="#P" n="23"/>ratio talibus mediis vtendi. At haeretici 
+          <lb ed="#P" n="24"/>econtra cogendi sunt ut teneant quod pro<lb ed="#P" break="no" n="25"/>miserunt: 
+          et soluant Deo debitum obsequi<lb ed="#P" break="no" n="26"/>um 
+          et ecclesiae obedientiam,
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e553">
+          sed quia in pri<lb ed="#P" break="no" n="27"/>mordio 
+          licet essent haeretici praesidia tamen 
+          <lb ed="#P" n="28"/>carebat principum fidelium: ideo haereticorum 
+          impias impugnationes pacienter sustinebat. 
+          <lb ed="#P" n="29"/>Postquam vero diuino munere reges seculi 
+          <pb ed="#P" n="213-r"/>
+          <lb ed="#P" n="1"/>ad christum conuersi sunt et sic coepit ha<lb ed="#P" break="no" n="2"/>bere 
+          filios et subditos principes fideles: tunc 
+          <lb ed="#P" n="3"/>eorum ministerio utens et legibus et armis 
+          <lb ed="#P" n="4"/>haereticos punit et compellit. Et hoc est secundum 
+          <lb ed="#P" n="5"/>ecclesiae status vel tempus ad quod haeretici 
+          <lb ed="#P" n="6"/>apostatae ac schismatici dicuntur pertinere. 
+          <lb ed="#P" n="7"/>Et sic patet quae sit mens Augustini exponens 
+          <lb ed="#P" n="8"/>parabolam saepe dictam compelle intrare de 
+          <lb ed="#P" n="9"/>exteriore ac corporali violentia.
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e584">
+          Qui et no<lb ed="#P" break="no" n="10"/>minatim 
+          adhuc exponens illa verba compel<lb ed="#P" break="no" n="11"/>le 
+          intrare in epistola 50 ad Bonifatium Co<lb ed="#P" break="no" n="12"/>mitem 
+          docet aliter iudicandum de haereti<lb ed="#P" break="no" n="13"/>cis 
+          aliud vero de paganis, qui blande et 
+          <lb ed="#P" n="14"/>suauiter alliciendi et inuitandi sunt ad fi<lb ed="#P" break="no" n="15"/>dem 
+          non vero compellendi.
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e601">
+          Vnde sic inquit 
+          <lb ed="#P" n="16"/>Augustinus: <quote xml:id="lca8s8-d1e684-Qd1e605">an non pertinet ad diligentiam 
+          <lb ed="#P" n="17"/>pastoralem etiam illas oues quae non violen<lb ed="#P" break="no" n="18"/>ter: 
+          sed blande leniterque seductae: a grege ab<lb ed="#P" break="no" n="19"/>errauerint:
+          et ab alienis coeperint possideri: 
+          inuentas ad ouile dominicum si resistere 
+          <lb ed="#P" n="20"/>voluerint flagellorum terroribus vel etiam 
+          <lb ed="#P" n="21"/>doloribus reuocare? Praesertim si apud fugi<lb ed="#P" break="no" n="22"/>tiuos 
+          et predones seruos fecunditate multi<lb ed="#P" break="no" n="23"/>plicentur:
+          plus habet Iuris quod in eis domini<lb ed="#P" break="no" n="24"/>cus 
+          character agnoscitur? Sic enim error cor<lb ed="#P" break="no" n="25"/>rigendus 
+          ouis: ut non in ea corrumpatur sig<lb ed="#P" break="no" n="26"/>naculum 
+          redemptoris. Et infra: immitatur 
+          <lb ed="#P" n="27"/>itaque ecclesia in istis cogendis dominum 
+          <lb ed="#P" n="28"/>suum: quae prius ut neminem cogeret ex<lb ed="#P" break="no" n="29"/>pectauit. 
+          Vt de fide regum atque gentium 
+          <lb ed="#P" n="30"/>praedicatio prophetica compleretur. Etiam
+          <lb ed="#P" n="31"/>hinc <del rend="strikethrough">enim</del> non absurde intelligitur illa apos<pb ed="#P" n="213-v"/><lb ed="#P" break="no" n="1"/>tolica 
+          sententia ubi beatus paulus dicit: Pa<lb ed="#P" break="no" n="2"/>rati 
+          vlcisci omnem inobedientiam: cum com<lb ed="#P" break="no" n="3"/>pleta 
+          fuerit <del>prior</del> obedientia vestra. Vnde et ipse 
+          <lb ed="#P" n="4"/>dominus ad magnam coenam suam prius adduci 
+          <lb ed="#P" n="5"/>iuuet conuiuas. postea cogi. Nam 
+          <lb ed="#P" n="6"/>cum et serui sui respondissent: domine 
+          <lb ed="#P" n="7"/>factum est quod <sic>iusisti</sic> et adhuc est loc<lb ed="#P" break="no" n="8"/>us 
+          Exite inquit in vias et saepes: et quos<lb ed="#P" break="no" n="9"/>cumque 
+          inueneritis cogite intrare. in illis ergo 
+          <lb ed="#P" n="10"/>qui leniter primo adducti sunt: completa 
+          <lb ed="#P" n="11"/>est obedientia: in istis autem qui coguntur 
+          <lb ed="#P" n="12"/>inobedientia coercetur. Nam quid est 
+          <lb ed="#P" n="13"/>cogite intrare: cum primo dictum esset ad<lb ed="#P" break="no" n="14"/>ducite 
+          et responsum esset: factum est quod 
+          <lb ed="#P" n="15"/>Iussisti et adhuc est locus? Si miraculorum 
+          <lb ed="#P" n="16"/>terroribus cogendos voluisset intelligi: ma<lb ed="#P" break="no" n="17"/>gis 
+          ad eos qui prius vocati sunt diuina mi<lb ed="#P" break="no" n="18"/>racula 
+          multa facta maxime ad eos de qui<lb ed="#P" break="no" n="19"/>bus 
+          dictum est Iudaei signa petunt: ipsis 
+          <lb ed="#P" n="20"/>quoque gentilibus talia temporibus aposto<lb ed="#P" break="no" n="21"/>lorum 
+          miracula euangelium commendaue<lb ed="#P" break="no" n="22"/>runt 
+          ut si talibus cogi iuberentur: prio<lb ed="#P" break="no" n="23"/>res 
+          ut dixi potius conuiuae coacti esse me<lb ed="#P" break="no" n="24"/>rito 
+          crederentur. Quapropter si potestate 
+          <lb ed="#P" n="25"/>quam per religionem ac fidem regum tem<lb ed="#P" break="no" n="26"/>pore 
+          quo debuit diuino munere accepit ecclesia: 
+          <lb ed="#P" n="27"/>hi qui inueniuntur in viis et in saepibus id est 
+          <lb ed="#P" n="28"/>in haeresibus et schismatibus coguntur in<lb ed="#P" break="no" n="29"/>trare: 
+          non quia coguntur attendant.</quote> Et pa<lb ed="#P" break="no" n="30"/>rum 
+          infra: <quote xml:id="lca8s8-d1e684-Qd1e714">verumtamen antequam istae leges 
+          <lb ed="#P" n="31"/>quibus ad conuiuium sanctum coguntur 
+          <pb ed="#P" n="214-r"/>
+          <lb ed="#P" n="1"/>intrare in africam mitterentur: nonnullis 
+          <lb ed="#P" n="2"/>fratribus videbatur in quibus et ego eram: 
+          <lb ed="#P" n="3"/>quamuis donatistarum rabies vsquequaque sae<lb ed="#P" break="no" n="4"/>uiret 
+          non esse petendum ab imperatoribus: 
+          <lb ed="#P" n="5"/>ut ipsam haeresim iuberent omnino non esse: 
+          <lb ed="#P" n="6"/>poenam constituendo eis qui in ilia esse vo<lb ed="#P" break="no" n="7"/>luissent 
+          sed hoc potius constituerent: ut 
+          <lb ed="#P" n="8"/>eorum furiosas violentias non paterentur 
+          <lb ed="#P" n="9"/>qui veritatem catholicam vel predicarent 
+          <lb ed="#P" n="10"/>loquendo vel legerent constituendo. Quod 
+          <lb ed="#P" n="11"/>eo modo fieri aliquatenus posse arbitraba<lb ed="#P" break="no" n="12"/>mur:
+          si legem piissimae memoriae Theodosii 
+          <lb ed="#P" n="13"/>quam generaliter in omnes haereticos pro<lb ed="#P" break="no" n="14"/>mulgauit</quote> 
+          etc. <ref xml:id="lca8s8-d1e684-Rd1e751" corresp="#lca8s8-d1e684-Qd1e605 #lca8s8-d1e684-Qd1e714">haec omnia <name xml:id="lca8s8-d1e684-Nd1e753">augustinus</name></ref> in for<lb ed="#P" break="no" n="15"/>ma
+        </p>
+        <p xml:id="lca8s8-d1e684-d1e759">
+          Vides lector Diuum Augustinum 
+          <lb ed="#P" n="16"/>aliter sentire de hereticis aliter de illis qui 
+          <lb ed="#P" n="17"/>nondum receperunt fidem vt scilicet illi 
+          <lb ed="#P" n="18"/>compellantur armis regum isti rationi<lb ed="#P" break="no" n="19"/>bus 
+          attrahantur ibi ut fide regum atque gen<lb ed="#P" break="no" n="20"/>tium 
+          praedicatio euangelica compleatur etc.
+          <lb ed="#P" n="21"/>Et ibi oues seductae a grege (id est) ecclesia 
+          <lb ed="#P" n="22"/>vel coetu fidelium aberrauerint, et ab alie<lb ed="#P" break="no" n="23"/>nis 
+          id est haereticis coeperint possideri: ne 
+          <lb ed="#P" n="24"/>in eis signaculum (id est) caracter redemp<lb ed="#P" break="no" n="25"/>toris
+          qui in baptismo indelebiliter anima re<lb ed="#P" break="no" n="26"/>cipit 
+          corrumpatur. Inuentas ad ouile do<lb ed="#P" break="no" n="27"/>mini 
+          cum flagellorum terroribus reuoca<lb ed="#P" break="no" n="28"/>re. 
+          Item immitari ecclesiam dominum suum 
+          <lb ed="#P" n="29"/>quid aliud est nisi prius spectare vt infidelis 
+          <lb ed="#P" n="30"/>quisque fidem voluntarie suscipiat:
+          quam 
+          <lb ed="#P" n="31"/>si post reliquerit ad eam redire cogendus 
+          <pb ed="#P" n="214-v"/>
+          <lb ed="#P" n="1"/>esse? Quae omnia diuus Augustinus auto<lb ed="#P" break="no" n="2"/>ritate 
+          apostoli confirmat: <quote xml:id="lca8s8-d1e684-Qd1e802" source="http://scta.info/resource/IIcor10_6@5-12">parati ulcisci omnem 
+          <lb ed="#P" n="3"/>inobedientiam: cum completa fuerit prior 
+          <lb ed="#P" n="4"/>obedientia vestra</quote> <ref xml:id="lca8s8-d1e684-Rd1e809" corresp="#lca8s8-d1e684-Qd1e802">2o ad corinthios 10</ref> <pc type="virgula">//</pc>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

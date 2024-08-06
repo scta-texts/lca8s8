@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 5 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 5 [Bnf 12926 Transcription]</title>
+          <date when="2024-08-05">August 6, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="28-r"/>
+      </div>
+    </front>
+    <body>
+      <div>
+		<head id="P">Caput 5 [Bnf 12926 Transcription]</head>
+		<p>
+			Capvt 5m
+			<lb ed="#P"/>st quarta quaedam barbarorum species comprehendens omnes qui Christum non agnoscunt; omnis enim gens quantumuis politica, omnis homo quantumuis philosophus maximis barbarismis vitij scilicet est obnoxius si christianae philosophiae mysterijs imbutus non sit. His autem vitijs expurgari non potest nisi sacramentis et virtute christianae legis quae sola lex est immaculata$7, conuertens animas, liberans et mundans corda hominum ab omni vitio et superstitione idolatriae, ex qua omnium malorum fons oritur quae vitam miseram et infelicem reddunt tam priuate quam publice, juxta illud Sapienziae (14?): Initium enim fornicationis est exquisitio idolorum et adinuentio illorum corruptio vitae est 8.
+		</p>
+		<p>
+			Fides christiana Sancti Spiritus gratiam conciliat, quae omnia praua immunda et stulta ex humanis cordibus abstergit. Hoc manifeste apparuit in populo Romano politicae prudentiae ac sapientiae nomine, tum temporis, laudato, qui caeteris orbis gentibus ad arbitrium leges dare voluit. Hic enim populus quot [28v.] nefandis vitijs et abominationibus obnoxius fuit, presertim in illis suis turpissimis ludis et abominandis immolationibus, puta, in ludis circensibus et scaenicis et obscoenissimis Priapi ac Bachi sacrificijs ubi adeo inhonesta, deformia et a recta ratione aliena erant omnia ut omnes gentes mentis stupore et barbarie longo post se interuallo reliquerint.
+		</p>
+		<p>
+			Quod euidenter ac diffuse docuit Diuus Augustinus? a Libro 2? usque Ad Librum 7"? De Ciuitate Dei; et Diuus Ciprianus?? in tractatu 4?^: Aduersus Demetrianum Idolatram christianorum Persecutorem; et Lactantius?1, Diuinarum Institutionum (Libro 1?, c. 2?) disserens de religione Romanorum et grecorum, qui cacteras orbis nationes sapientia antecellere videri volebant. Scribit eos solere prostituere liberos$4 in gymnasijs, ut eis quiuis ad libitum nefande uteretur; colere et obsequia prestare dijs suis. Subijcit autem haec: Quid mirum si ab hac gente uniuersa flagitia manarunt, apud quam ipsa vitia religiosa sunt, ea quae non modo non vitantur, verum etiam coluntur? Haec ille. Hi sunt illi qui omnes gentes preter se appellabant barbaras cum nulli eferi barbari absurdiora vel stupidiora agere possent. Excellebant illi fortassis judicij acrimonia et ingenij solertia ut tyranos humano generi se prestantes alienas prouincias magnis stragibus perdomarent. 
+		</p>
+		<p>
+			Quod autem ab his horrendis criminibus et fedissimis vitis graeci et Romani abstinuerunt, [29r.] cuinam ferendum acceptum nisi Euangelij fulgori quod per omnes orbis nationes sparsum eius etiam ambitiosae gentis oculos perstrinxit? Cum ergo per fedos et corruptos mores et caeteras abominationes infidelium quae ex superstitiosis opinionibus de rebus diuinis precipue oriuntur et consequuntur illa, reddantur similes animantibus, autore beato Paulo?? (Ad Romanos, 1?); Thomas? ibi, (lectio 7, et 2^ 236, q. 943, a. 3% ad 3UM); certe quicumque christianis mysterijs initiati non sunt, barbari et miseri judicantur. Et sic ecce quarta species barbarorum demonstratur.
+		</p>
+		<p>
+			Turcarum et Arabum populi politice instituti dicuntur; sed quomodo hoc honesto nomine decorandi sint, cum ad omnem carnis licentiam effrenis gens sit effoeminata luxu, apud quam, precipue Turcas, vitia impura et horrenda non censentur punitione digna? Denique neque greci neque Romani neque Turcae neque Mauri justitia uti dicendi sunt neque enim prudentia vel justitia reperiri potest in republica quae Christum non agnoscit, ut probat Augustinus4: De Ciuitate Dei, (Libro 2?, c. 21 *, et legitur inter decreta pontificia, 24. q. 13, c. Vbi Sana, et c. Non Est, De Penitentia, distin. 22)75, Et ita asserit loquens de republica Romana in eo opere De Cizitate Dei, (Libro 19*, c. 21?)75. Et Lactantius?" feliciter idem probat, Jnstitutionum (Li-bro 1*, c. 20%). 
+  		</p>
+		<p>
+			Cum ergo qui christianae veritatis expertes sunt, quantumuis politica prudentia calleant, vitijs et criminibus sint [29v.] obruti et in multis a ratione aberrent, certe omnes qui Christum non colunt vel quia eius verba ne per famam quidem audierunt vel quia audita non suscipiunt, vere barbari sunt. Quod apparet in Actibus apostolicis (c. 28?)78 ubi postquam narratur Paulum apostolum naufragio ejectum ad Mitilenem, subijcit: Barbari prestabant nobis non modicam humanitatem. Haec S. Lucas. 
+		</p>
+		<p>
+			Mitilene portus est insulae Lesbi quae Alcaeum et Sapphum poetas lyricos nobis dedit, et Pithacum, cognomento Mitilenensem, qui e septem greciae sapientibus unus fuit, et Theophrastum95, Aristotelis discipulum, autore Aulo Gelio??. Quo nomine ab Horacio89 celebratur: Laudabunt —nquit- alij claram Rhodem aut Mitilenem. vocatur tamen ab apostolo gens barbara, non quidem quod stupida vel efera essetó6, sed quod Christum non agnoscebat57; quamquam Liranus$! ideo scribit appellatos barbaros quod neque hebraice neque grece neque latine scirent. Sic Diuus Hieronimus? in Epistola ad Euandrum vel Eugenium Episcopum inquit, et etiam habetur in Decretis, (93? dist., c. Legimus, et 32. q. Et c. Offerebat); ibi apud barbaras gentes: Nam et Africa et Persis et Oriens et India et omnes barbarae nationes unum Christum adorant: unam obseruanf88 regulam veritatis. Idem Hieronimus$3 Ad Heliodorum et in Epistola ad Letam (eodem tomo, pagina 682). 
+  		</p>
+		<p>
+			Loquuntur [30r.] generaliter leges et decreta (ut 7, q. 1*, c. Temporis Qualitas)8 ibi: Barbaricum possunt periculum facillius declinare. Loquitur enim ibidem de Turcis vel Sarracenis. Et (23, q. 2a, c. Sex Differentiae) ibi: Aliquo barbaro3m85, et c. Fortitudo quae bello tuetur a barbaris. In legibus quoque (Cod. De Officio Prefecti Pretorio Africae, L. 1) ibi: Jugo barbarico durissime subiugabant3m87. Ex loquebatur de vuandalis qui tyranide sua usurpauerant uniuersam prouinciam Africae. (Et ff De Re Militarism88, L. Non omnes, $ A barbaris remissus miles). Et in prooemio Institutionum3m8? ibi: Er reliquos quidem sudores barbaricae gentis sub iuga nostra redactos cognoscunt. Vbi glossa: Barbari sunt illi qui extra sunt imperij Romani, hoc est Ecclesiae, limites uniuersales, quasi extra eam non est imperium ut infra capite 7? patebit. Et addit glossa: maxime hostes 9.
+		</p>
+		<p>
+			Contra hos autem barbaros qui hostes Ecclesiae?! sunt, die veneris sancti, orat Ecclesia his verbis: Oremus pro christianissimo imperatore, ut Deus et Dominus noster subditas faciat omnes barbaras nationes ad. nostram perpetuam pacem. Ex infra: gentes barbarorum quae in sua feritate confidunt potentiae tuae dextera comprimantur. De barbaris autem qui populum christianum non infestant non orat Ecclesia ut comprimantur sed ut auferat iniquitatem a cordibus eorum ut, relictis idolis suis, conuertantur ad Deum viuum et verum. Et paulo post: Omnipotens [30v.] sempiterne Deus qui non mortem peccatorum, sed vitam semper?? requiris0, suscipe propitius orationem nostram, et libera eos ab idolorum cultura, et aggrega Ecclesiae tuae sanctae ad laudem et gloriam nominis tui92.
+		</p>
+		<p>
+			Vbi manifeste ostenditur esse aliqua differentia barbarorum a barbaris secundum quod innuit satis expressis verbis Ecclesia. Et per ea omnia quae adducta sunt apparet quatuor esse barbarorum genera, scilicet, 1 et 2? et 4^, secundum quid, hoc est, ex aliquibus feris moribus et principaliter ex deffectu fidei. Primum tamen genus etiam christianos homines potest comprehendere si in aliqua re sese immanes, feros, saeuos et inhumanos prestent; quo nomine Hyspani qui tot horrendis stragibus, tot cedibus et plusquam tartareis malis afflixerunt indos, gentes quidem mansuetussimas innoxias uniuersis, barbari sunt et barbaris peiores. Barbaros etiam sese prestiterunt cum aduersus Caesarem sumptis armis ferociter rebellarunt. Quarta autem barbarorum species pertinet ad alienos a fide Christi et sic omnes comprehendit infideles. Proprie autem barbari sunt illi de quibus in tertia specie disseruimus, nimirum stu-pore mentis obruti, stolidi, a ratione alieni, incapaces, immanes, eferi, prauis moribus, corrupti, seditiosi vel natura vel praua peccandi consuetudine, et de his nominatim loquitur Philosophus (1? Politicorum)93.
+		</p>
+		<p>
+			Desinant ergo impij homines Philosophum nobis obijcere, et qui [31r.] Sepuluedam mendacijs ad impiae causae defensionem pertraxerunt, non intelligentes aut intelligere nolentes differentiam Philosophi et sanctorum doctorum quam de barbaris demonstrauit. Et ideo misereantur animae suae petantque a Christo ut in eis moríatur vanitas etviuat veritas.
+		</p>
+	</div>
+    </body>
+  </text>
+</TEI>

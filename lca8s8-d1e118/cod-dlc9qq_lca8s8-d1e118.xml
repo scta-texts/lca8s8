@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 6 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 6 [Bnf 12926 Transcription]</title>
+          <date when="2024-08-08">August 8, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="31-r"/>
+      </div>
+    </front>
+    <body>
+      <div>
+		<head>Caput 6 [Bnf 12926 Transcription]</head>
+		<p>
+			<lb ed="7"/>Capvt 6m
+			<lb ed="#P"/>Secundum argumentum?! quo Sepulueda bellum aduersus indos probat est ut puniatur scelus idolatriae et immolandi superis viuos homines quo ea gens Deum offendit. Hic, ut in alijs, labitur profecto Sepulueda quaedam erronea suponens, quaedam vero exprimens.
+		</p>
+		<p>
+			Quod ut manifestius sit, supponendum est tunc nos posse punire peccata infidelium vel ipsos nostra quando vel nos ipsis vel illi nobis subditi sunt vel de foro nostro efficiuntur. Hoc autem quatuor de causis euenit: primo, ratione domicilij siue ratione habitationis, puta, si habitent inter christianos; vel, ratione originis, siue eius de cuius causa tractatur, vel patrum eius. Et qui ex huiusmodi causis jurisdictioni nostrae subiectus est dicitur proprie subditus. Tertio, censetur quis nobis subditus ex eo quod vasallus est et verbis rite conceptis nobis fidelitatem jurauit ratione alicuius feudi ex quo nobis operas debet. Quarto, ratione delicti commissi in ditione alicuius vel contra ipsum dominum vel contra res vel personas subditorum eius. Item sortitur quis forum ratione contractus vel ratione rei ut, puta, si exterus predium possidet intra ditionem alicuius [31v.] Principis. Nam ratione eius rei censetur esse de foro illius. Hi non omnes sunt proprie subditi sed ex accidenti; ratione, scilicet, rei vel contractus possunt conueniri a judice a cuius imperio legitime liberi sunt.
+		</p>
+		<p>
+			Ad primam subditorum speciem pertinent Judaei et Mauri incolentes christianorum Principum regna; tenentur enim uti et subijci legibus temporalibus quibus?? caeteri regni incolae et transgredientes leges per eas puniuntur, ut per doctores*4 (in c. 1?, De Constitutionibus, et Cod. De Legibus et Constitutionibus Principum et De Foro Competenti. c. finali). Quod vero attinet ad religionem et res spirituales, siue sint Judaei siue Machometani siue idolorum cultores, minime subditi sunt Ecclesiae neque eius membris, scilicet, christianis principibus, et ideo ritus suos celebrantes et obseruantes minime puniri possunt a principibus christianis; carent enim jurisdictione hac in parte quia illa scelera, etsi grauissima in se existant et abominabilia, non tamen punibilia sunt per homines, ut notatur per doctores canonistas et infra probabitur.
+		</p>	
+		<p>
+			indi. Et certe, quantumuis horrenda crimina apud se ac intra territoria sua contra Deum committant vel etiam circa religionem, neque Ecclesia neque principes christiani possunt de eis cognoscere neque illorum ratione eos [32r.] punire. Carent enim jurisdictione quae est omnium actuum judicialium% fundamentum necessarium, precipue ad puniendum aliquem. Ergo ibi Caesar, princeps, vel Rex jurisdictionem non habet sed priuatus homo censetur et omnia ab eo gesta nullius momenti sunt (ut in L. Preses L. 22, ff De Officio Presidis; L. Priuatorum, Cod. De Jurisdictione Omnium Judicum; c. Significantibus: De Officio Delegati) Innocentius (in c. Super Litteris: De Rescriptis; prolixius Ancharranus (n regula Ea Quae, de regulis juris in 6?, super verbo Judice?5. Hereticorum diuersa ratio est. Hi enim non solum ratione domicilij, originis, contractus et delicti?4 subditi sunt principibus christianis, verum etiam ratione voti et obedientiae promissae, quae in baptismo Deo et catholicae Ecclesiae vouerunt et promiserunt; quae cum non prestent, jure optimo castigantur a principibus et legibus, tam pontificijs quam etiam caesareis, ut ex pluribus utriusque juris locis manifestissimum est. Si autem, (quod dominus vetet), contingat gentem christianam sub infidelium iugo viuere vel eorum ditionem incolere, certe jure naturali et diuino tenerentur politicas et ad rempublicam pertinentes eorum leges obseruare; dummodo impium non reddant hominem vel injurium in Deum; ita probatur ex Paulo Ad Romanos (13%) ex 1? Ad Timotheum ( 6?) et Ad Titum (3?) et ex alijs locis%, — [32v.] Hoc in capite et in sequentibus probabimus infideles, qui nunquam Christi fidem induerunt neque christianis subditi sunt, non posse a christianis vel etiam ab Ecclesia, propter ulla, quantumuis atrocia crimina puniri.
+		</p>	
+		<p>
+			Hoc probatur, primo, quoniam infideles qui nunquam Christi fidem susceperunt non sunt actualiter subditi Christo; ergo nec Ecclesiae nec de foro eius. Probatur antecedens: Quamuis enim Christo ab eterno doctore super omnes gentes vel fideles vel infideles data sit potestas in coelo et in terra, (juxta illud Matthei”, ultimo: Data est mihi omnis potestas in coelo et in terra) et ita omnes orbis gentes ei subditae sint autoritate et potestate quam ab eterno doctore, non solum inquantum Deus sed et inquantum homo accepit, super omnem creaturam, non tamen subduntur ei omnes actu vel effectu nec quantum ad executionem suae potestatis. Quantum ad actum et effectum quidem, ex parte ipsorum, quoniam infideles et peccatores homines, prop-ter infidelitatem et rebellionem propriae voluntatis, non subdunt sese ei prestando christianam pietatem, (juxta illud 44 Remanos (10*): Sed non omnes obediunt Euangelio98. Et Exodi (10?): Vsque quo non vis mihi subijci?99 Tales ergo, cum Christum non agnoscant vel mandatis eius non obediant, non sunt ei subditi actu, vel quoad opera, sed in potentia. Erunt autem actu ct cffectu cum, regenerati per baptismum, ad ouile Christi [337.] sese contulerint vel ad charitatem per gratiam redierint. Sed quantum ad executionem huius potestatis Christo concessae et ex parte ipsius Christi, suspendit ipse misericors dominus in diem mortis cuiusque vel in diem judicij, in quo unicuique retribuet juxta opera sua et faciet cum effectu de omnibus suam voluntatem. In hac autem vita non utitur boc suo jure, tum quia cum res omnes creatas, presertim creaturas rationales, suauiter moueat et dirigat in suos actus, quia, mitis et suauis, non vult quemquam cogi sibi obsequium debitum prestare, sed libero suo arbitrio relinqui, ut libens volensque pulset, ut ei aperiatur. Tum quia, cum homo propria voluntate sibi exitium pepererit, congruum etiam est illum salutem consequi sua voluntate, aspirante diuina gratia (ut in c. De Judaeis, 45? distinctionel99, et in c. Non Est ls, q. 1) ibi: voluntarium sibi militem elegit Christus 11,.
+		</p>	
+		<p>
+			rgo cum infidelis sponte suscipit baptismum, tunc actu et effectu subijcit sese jurisdictioni Christi et jam peculiari quadam ratione subditus est, nimirum ex voto et solemni promissione quam et quod in baptismo vouit et promisit seruandi legem Christi, rejecto pristino domino, scilicet, demone cuius seruus et subditus erat (ut in c. Baptizatus, et in c. Ante Baptismum |33v.] in fine; et in c. Ab Antiqua; et in c. Postquam Ascendit; et in c. Nulli Est; et in c. Ad Hoc Baptizatus: De Consecratione, distinctione 42)102,.
+		</p>	
+		<p>
+			 Qui ergo baptizatur duo consequitur priuilegia: primo, efficitur de grege Christi et eius seruus in obsequium fidei obligatus firmiter obseruare legcm Christi, et pro ea mortem etiam perpeti (c. Firmiter: De suma Trinimtelm, c t in Symbolo Atbanasijm“. Deinde anumeratur et ascribitur orthodoxis, hoc est, catholicae Ecclesiae, factus
+membrum reipublicae christianae ac ciuis Ciuitatis Dei (ut probatur Ad Ephesios 2°: [am non estis hospites et aduenae, sed estis ciues sanctorum)'95. E t sic deinceps accedere
+potest ad sacrosanctam Christi mensam ct roborari Ecclesiasticis sacramentis, ut pro­ batur Ad Ephesios (4°)196. Docet S. Thomas (32 parte, q. 672 a. 23°)107,
+Baptizatus ergo, his priuilegijs receptis, quasi in feudum subditus et vasallus Christi censctur, propter votum et promissionem quam ct quod in baptismo promit­ tit. Vnde baptismus dicitur sacramentum fidei (ut in c. Niki! Est Aljud: De Consecm­
+tione, distinctione 42198, Et hoc sacramentum facit hominem christianum peculiari ra­tione et nouo modo subditum Christo, qui?? acquirit nouum ius dominij super illum ultra et preter uniuersale, quod ei competit inquantum Deus et dominus uniuersae creaturae et preter potestatem et autoritatem quam Pater super omnem [34r.] potestatem et principatum cocli et terrae contulit ei inquantum homo. Exemplum sit: omnes homines tenentur ei inquantum homo. Exemplum sit: omnes homines tenentur adorare Christum adoratione latriae sicuti verum Deum (Ad Philipenses 2219. Si tamen quis peculiare votum emitteret promittens adorare centies in die Christum, certe hic peculiari quadam et noua ratione subditus est Christo. Ex quo infertur quod si christianus et paganus idem crimen commitant, grauius peccat christianus, nimirum actu subditus Christo, et super hoc ex peculiari promissione. Ita probatur Ad Hebraeos (109)119 ec 12€ 44g Tzmotbeum (5?)1! et in c. Homo christianus (409 distinctione)!12,.
+		</p>	
+		<p>
+			Ergo pagani qui numquam fidem receperunt subditi voluntarij et actuales Christi non sunt sed potentiales, non actu hoc est, opere, neque peculiari ratione hoc est, noua promissione sicut christiani. Ex quibus apparet quod duplex potestas tributa est Christo inquantum est homo: altera quidem in actu respectu eorum qui eius fidem tenent et seruant per charitatem illius mandata; altera vero in habitu seu potentia. Et haec pertinet ad eos qui illum non agnoscunt verum Deum vel non seruant eius precepta. Haec duplex potestas probatur Ad Hebraeos (2*)113 ibi: In eo quod omnia ei subijcit, nihil dimisit non subiectum ei. Ecce potestas Christi collata habitualis. Subijcit apostolus: Nunc autem necdum videmus omnia subiecta [34v] ei. Hic de subiectione actuali loquitur quod, autore Diuo Thoma!4, implebitur in futuro seculo, ut dictum fuit, et ita potestas actualis futura est in illis qui modo infideles sunt et peccatores. Rursus (12€ 47 Corinthios 15?): Omnia inquit subiecta sunt ei, sine dubio preter eum qui subiecit ei omnia V5; ecce habitualis potestas. Subijcit apostolus: Cum autem subiecta fuerint illi omnia, tunc et ipse filius subiectus erit ei; ecce actualis futura. Similiter (42 Pbilipenses 3*)116: Secundum —inquit- operationem virtutis suaequa etiam possit sibi subijcere omnia; verum si possit ergo non facit. Ergo aliqua actu non sunt subdita illi..
+		</p>	
+		<p>
+			Potentia enim prout diuiditur contra actum est principium actus vel operationis, autore Philosopho!!? (5? Metaphysicorum). Cum ergo dixit possit subiicere omnia innuit?Ó tantum potentiam et non actum; non autem quod est in potentia dicitur esse in actu respectu eiusdem. Ex quo infertur aliquam potentiam habitualem esse in Christo non reductam ad actum. Ergo aliqua subiecta ei non sunt actualiter. Sed hoc dici non potest de potentia habituali quia negaretur in Christo aliqua potestas esse contra illud: Dara est mibi omnis potestas!8 et caetera. Ergo intelligitur de actuali futura?7..
+		</p>	
+		<p>
+			.Ponitur ergo in Christo duplex potestas, scilicet, habitualis vel in potentia et actualis. Et per hunc modum infideles dicimus esse [351.] subditos Christo dumtaxat in potentia; non autem in actu, et proinde nec de suo foro vel jurisdictione inquantum huiusmodi donec vel conuertantur vel moriantur vel usque in finem mundi quando Christus exercebit plene suam potestatem in omnes, malos damnando et bonos premiando, eruntque tunc ci subiecta omnia actualiter; de huiusmodi Christi duplici potestate scribit sanctus Thomas? (3% Parte, q. 592, a. 4%, ad 24M, et q. 8a, a. 3%) et Ad Hebraeos (lectione 3*, in fine, et lectione 62)119, Cum igitur infideles non sint actu subditi Christo, ergo nec Ecclesiae.
+		</p>	
+		<p>
+			Probatur consequentia tum primo quia in tantum spectat ad Ecclesiam subditos habere in quantum sunt subditi Christi, cum Christus sit princeps christianae reipublicae quae est Ecclesia; sed infideles sunt Christo subditi habitu vel in potentia; ergo similiter et Ecclesiae. Tum secundo quia Ecclesia non habet maiorem potestatem aut jurisdictionem in mundo vel in aliqua parte eius quam Christus habuit vel hodie ha-bet, juxta illud Matthei (7?)329 et Lucae (10*)?21; Non est discipulus super magistrum neque seruus super dominum suum. Sufficit discipulo ut sit sicut magister eius, et seruo sicut dominus eius. Nec apostolus maior est eo qui misit eum (Joanis 13?)122,.
+		</p>	
+		<p>
+			Rursus Christus non concessit absolute et sine limitatione Ecclesiae suae vel vicario suo omnem potestatem quam ipse habet [35v.] in coelo et in terra; neque enim pontifex summus noua potest instituere sacramenta neque abrogare instituta neque remittere peccata absque virtute sacramentorum neque rursus ei data sunt alia quaedam quae sacrae Ecclesiae doctores tribuunt potestati excellentiae Christi, juxta sanctissimam suam humanitatem; de qua re plene disserit Diuus Thomas (34 Parte, q. 642, a. 39, et 4” in corpore)!123, Et quod nulli creaturae talis autoritas seu potentia fuerit communicata scribit ubi supra (ad 14M er 3um; in 4? Sententiarum, distinctione 23, q. 12, a. 4% q. 4a in corpore; et distinctione 5*, q. 12, a. 3*, q. 1%, 2a, per totum et in alijs locis)!24..
+		</p>	
+		<p>
+			Non ergo Ecclesia vel papa in omnibus eamdem habet? potestatem. quam Christus, licet hoc illi per adulationem quidam tribuant. Agnosco pontificis summi et Ecclesiae potestatem esse plenissimam sed quoad cas creaturas quae gratiae et gloriae capaces sunt, cum propter finem et ad finem coelestis beatitudinis et ad edificationem Ecclesiae talis potestas instituta sit; neque ea potestas extenditur ad omnes creaturas gratiae et gloriae capaces, non enim super angelos sed super homines, neque insuper super omnes homines sed super viatores. Pontifex enim viatorum caput dicitur, autore Thoma (32 Parte, q. 82, a. 6")25. Christus autem caput est tam angelorum quam etiam hominum viatorum, juxta illud A47 Collossenses [36r.] (2*): Qui est caput omnis principatus et potestatis6, et caetera. Viatores autem illi dicuntur qui ad coelestia regna contendunt per fidem. Infideles autem minime sunt viatores sed potius deuiatores. Nimirum caeci et alieni a via veritatis et felicitatis ad quam conditi fuere..
+		</p>	
+		<p>
+			Vnde patet quod potestas Ecclesiae et Christi vicarij dumtaxat extenditur ad eos homines qui sacrum baptisma voluntarie susceperunt, id est, cunctos fideles ad eternum felicitatem tendentes. Potest tamen dici Ecclesiam potestatem habere super infideles habitu seu potentia, hoc est, quod possunt esse fideles si christianam religionem susceperint et Christi ouile ingredientes cius vicarij subditi et Ecclesiae suae membra effici voluerint. Sicut enim infidelis fidelis est potentia, ita Ecclesia super eum potentia tantum habet potestatem, scilicet, cum et quando Christi fidem amplexus fueri5; unde patet quod sicut infideles, de quibus sermo est, subditi sunt Christo et ad eius, pertinet jurisdictionem in hac vita existentes in habitu et in potentia modo quo dictum est, sic sunt subditi Ecclesiae et vicario eius et pertinent ad eius jurisdictionem et curam, scilicet, habitu et potentia. Quod autem infideles habitu tantum non actu Ecclesiae subditi sint, docet sanctus Thomas (in 32 Parte, q. 85, a. 3% ad 1")? his verbis: J//i qui sunt infideles, etsi actu non sunt de [36v.] Ecclesia, sunt tamen de Ecclesiae potentia. Quae quidem potentia in duobus fundatur: primo quidem et principaliter in virtute Christi, quae est sufficiens ad salutem totius humani generis, secundario in arbitrij libertate. Ex quibus verbis apparet sanctum Thomam sensisse Ecclesiam nullam habere jurisdictionem super infideles in actu sed in potentia; inquit enim illam potentiam niti in virtute Christi qui neminem cogit et in libertate arbitrij quod etiam cogi non potest..
+		</p>	
+		<p>
+			Jurisdictionem ergo contentiosam, quae exercetur in inuitum, ut jureconsulti loquuntur, de qua etiam disseremus infra, capite 37?, non habet Ecclesia super infideles neque illam potest exercere in illos preter sex casus quos infra subijciam; ratio est quoniam secundum Philosophum (9? Metaphysicae)!!8 omnis potentia vel potestas determinata est ad aliquid quod potest et quando potest et quomodo potest. Et rursus (2? De Anima)!? inquit: actus actiuorum non proportionatur nisi in patiente bene disposito. Potestas ergo pontificis summi exerceri potest quatenus et quomodo potestatem habet, non ultra. Ut enim res optima sit, oportet ut fiat eo modo et quatenus fieri potest seruatis circunstantijs, autore Paulo (Ad Romanos 13?)130: Quae a Deo sunt omnia ordinata sunt..
+		</p>	
+		<p>
+			Interea autem temporis quo infideles fidem christianam non suscipiunt nec aqua [37r.] baptismatis aluntur, potissimum qui nihil unquam de Ecclesia vel populo catholico audierunt, nequaquam patientes dispositi aut proportionati sunt in quos potestas vel jurisdictio papae contentiosa exerceri valeat. Deest enim ibi; etsi non, quid potest, quod est potestas vicario Christi ab eo collata ad Ecclesiae edificationem. Deest tamen quomodo et quando quae sunt circunstantiae necessariae ad exercitium!99 apostolicae potestatis, videlicet, quia nondum infideles sunt subiecta capacia ut rite et recte recipiant actus jurisdictionales ac per consequens desunt aliquae circunstantiae necessariae, ad actus predictos exercendos rite ac recte, id est, populus subiectus et materia in qua exerceantur..
+		</p>	
+		<p>
+			Et hoc est habere jurisdictionem in habitu, respectu, scilicet, aliquorum qui nondum sunt subditi, qui cum fuerint, subiectum et materia sunt disposita in quos jurisdictionis actus rite exerceri habeant. Exemplum accipe lector, si quis rector alicuius collegij nondum instituti sit, jurisdictionem habet in habitu; ubi autem collegium institutum et perfectum fuerit, tum exercere jurisdictionem potest actu. Ita docent jureconsulti loquentes de jurisdictione quae quasi possidetur in habitu et in actu; sic et parochus alicuius Ecclesiae, qui nullos habet parochianos, parochus quidem et rector est habitu; ubi autem [37v.] parochia parochianos habuerit, tunc actu uti et exercere potest jurisdictionem suam; jam enim adest materia et subiectum et populus ad exercitium jurisdictionis proportionata et potest de illa potentia vel habitu educere jurisdictionem in actu..
+		</p>	
+		<p>
+			Hoc ergo subiectum, materiam, vel populum aut parochianos, inter infideles, qui totaliter extra fores Ecclesiae sunt, papa non habet, quoniam nihil ad eum de his qui foris sunt judicare (12€ A44 Corinthios 5?)13, quod inferius diffusius disputabitur; unde super illos jurisdictio nulla est ei actu. Sed ubi primum illi ingressi fuerint ouile Christi, jam pertinent ad dictionem Ecclesiae christianae et sunt pars et membra populi christiani, ut ex dictis apparet, iamque potest illos sua potestate judicare ac in casibus in jure contentis sua jurisdictione coercere (c. Nouit: De Judicijs, cum similibus)!32..
+		</p>	
+		<p>
+			Non ergo infideles, qui omnibus modis extra Ecclesiam existunt, subditi sunt Ecclesiae nec de territorio aut de foro eius.
+		</p>
+	</div>
+    </body>
+  </text>
+</TEI>

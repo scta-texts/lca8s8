@@ -9,6 +9,11 @@
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -50,421 +55,451 @@
       </div>
     </front>
     <body>
-      <div>
-		<head>Caput 4 [Bnf 12926 Transcription]</head>
-		<p>
-			<lb ed="#P" n="14"/>Caput 4m 
-			<lb ed="#P"/>¶ Ex his igitur quae ostensa et declarata 
-			<lb ed="#P"/>sunt: manifeste apparet differentia quam 
-			<lb ed="#P"/><name>Philosophus</name> ponit inter premissas duas barbarorum 
-			<lb ed="#P"/>species. Nam de quibus loquitur in <ref>1o <title>po<lb ed="#P" break="no"/>liticorum</title></ref>
-			et modo nos nunc tractauimus: hi sunt 
-			<lb ed="#P"/>simpliciter barbari proprie et stricte <gap extent="2" unit ="characters"/>vi<lb ed="#P" break="no"/>delicet
-			stolidi et absque sufficiente ratione 
-			<lb ed="#P"/>ad se gubernandum: sine lege sine rege et caetera. 
-			<lb ed="#P"/>Et propterea indigni sunt principatu natura<lb ed="#P" break="no"/>liter.
-			Barbaros autem quos explicat in <ref>3o libro</ref> 
-			<lb ed="#P"/>eiusdem operis concedit et firmat legitimum 
-			<lb ed="#P"/>et justum et naturalem habere principatum 
-			<lb ed="#P"/>his quidem licet careant litterarum exercitio 
-			<lb ed="#P"/>siue arte: non deest tamen habilitas et pru<lb ed="#P" break="no"/>dentia
-			regendi et gubernandi se, tum publi<lb ed="#P" break="no"/>ce
-			tum priuate. Unde habent regna, comu
-			<pb ed="#P" n="22-v"/>
-			<lb ed="#P"/>nitates et ciuitates quas legibus et consuetu<lb ed="#P" break="no"/>dinibus
-			prudenter moderantur. Et sic corum le<lb ed="#P" break="no"/>gitimus
-			et naturalis est principatus: quamuis 
-			<lb ed="#P"/>aliquam similitudinem cum tyranide ha<lb ed="#P" break="no"/>beat.
-			Ex quibus necesse est inferri ratione 
-			<lb ed="#P"/>pollere reges talium: justitiam et pacem non 
-			<lb ed="#P"/>deesse populis et eorum prouincialibus; alias 
-			<lb ed="#P"/>nec constitui possent nec permanere in esse 
-			<lb ed="#P"/>suo politico aut in illo diu conseruari vt 
-			<lb ed="#P"/>patet per eundem <ref><name>philosophum</name> 3o <title>politicorum</title> c. 8o </ref>et <ref>libro 
-			<lb ed="#P"/>5o c. 7o</ref> et <ref><name>Augustinum</name> libro 2o c. 21o <title>de 
-			<lb ed="#P"/>ciuitate dei</title></ref>. Ergo non omnes barbari carent ratione: 
-			<lb ed="#P"/>nec natura sunt serui aut indigni principatu. 
-			<lb ed="#P"/>Ergo barbari aliqui juste ac secundum naturam ha<lb ed="#P" break="no"/>bent
-			regna dignitatesque regales, jurisdictiones 
-			<lb ed="#P"/>et leges bonas: et apud cos est legitimus princi<lb ed="#P" break="no"/>patus.
-			Quod si docuerimus apud indos nostros 
-			<lb ed="#P"/>occidentales meridionalesque plagas inhabitantes: 
-			<lb ed="#P"/>esto quod appellemus eos barbaros et barbari sint: 
-			<lb ed="#P"/>esse illustria regna, grandes hominum multi<lb ed="#P" break="no"/>tudines
-			politice ac socialiter viuentium: ma<lb ed="#P" break="no"/>gnas
-			ciuitates: reges, judices, leges: commercijs, 
-			<lb ed="#P"/>emptionibus, venditionibus, locationibus caeterisque 
-			<lb ed="#P"/>contractibus juris gentium utentes: numquid 
-			<lb ed="#P"/>probatum patebit <name>Reuerendum doctorem Sepuluedam</name> 
-			<lb ed="#P"/>vitiose et valde culpabiliter contra eiusmodi gen<lb ed="#P" break="no"/>tes
-		  	vel ignorantia vel malitia de doctrina<name>A<lb ed="#P" break="no"/>ristotelica</name> 
-			paralogizasse: atque proinde falso et for<lb ed="#P" break="no"/>te
-			inexpiabiliter illas apud orbem totum infa<lb ed="#P" break="no"/>masse?
-			Non ergo ex eo quod indi barbari sint regni 
-			<lb ed="#P"/>incapaces existunt, et necessario ab alijs guber<lb ed="#P" break="no"/>nari
-			debent nisi doceri de catholica fide ac san
-			<pb ed="#P" n="23-r"/>
-			<lb ed="#P"/>ctis sacramentis initiari. Non enim stupidi 
-			<lb ed="#P"/>immanes vel eferi sunt, sed respublicas etiam 
-			<lb ed="#P"/>longe antequam hyspanicum nomen audijssent: 
-			<lb ed="#P"/>recte institutas habebant, nimirum optimis le<lb ed="#P" break="no"/>gibus,
-			religione, et institutis, sobrie compositas: 
-			<lb ed="#P"/>amicitiam colebant; et in societatem vitae con<lb ed="#P" break="no"/>juncti
-			longe maximas incolebant ciuitates, u<lb ed="#P" break="no"/>bi
-			tam pacis quam belli negotia prudenter ex 
-			<lb ed="#P"/>bono et aequo administrabant: nimirum gu<lb ed="#P" break="no"/>bernati
-			legibus, quae plurimis in rebus nostras su<lb ed="#P" break="no"/>perant,
-			et Athenarum sapientibus admiratio<lb ed="#P" break="no"/>ni
-			esse possent, vt suo loco docebo (scilicet) in 
-			<lb ed="#P"/>secunda parte huius apologiae. Quod si ex eo quod ele<lb ed="#P" break="no"/>gantium
-			litterarum rudes sint bello sunt per<lb ed="#P" break="no"/>domandi:
-			audiat <name>Sepulueda</name> <ref><title>Trogum Pompeium</title> libro 44 prope finem.</ref> <quote>Nec prius 
-			<lb ed="#P"/>inquit perdomitae prouinciae jugum hyspani 
-			<lb ed="#P"/>accipere potuerunt, quam Caesar augustus per<lb ed="#P" break="no"/>domito
-			orbe, victricia ad eos arma transtulit 
-			<lb ed="#P"/>populumque barbarum ac ferum legibus ad cul<lb ed="#P" break="no"/>tiorem
-			vitae usum traductum, in formam pro<lb ed="#P" break="no"/>uinciae
-				redegit</quote>. Ecce Hyspana gen<subst hand="B"><del rend="strikethrough">tem</del><add place="above-line">s</add></subst> barba<lb ed="#P" break="no"/>ra<del rend="strikethrough">m</del>
-				ac efera<del rend="strikethrough">m</del> appella<subst hand="B"><del rend="strikethrough">uit</del><add place="right">tur</add></subst>. <name>Sepuluedam</name>que pro 
-			<lb ed="#P"/>sua prudentia respondentem audire velim: an 
-			<lb ed="#P"/>Romanorum aduersus Hyspanos bellum justum 
-			<lb ed="#P"/>censeat; vt eos a barbarie liberarent? Ac rursus: 
-			<lb ed="#P"/>an hyspani bellum injustum gererent: cum ab 
-			<lb ed="#P"/>eis se acriter defendebant? Deinde predones hys<lb ed="#P" break="no"/>panos
-			miserae gentis tortores appello. Censetis<lb ed="#P" break="no"/>ne
-			quod subiugata efera et barbara hyspaniae gen<lb ed="#P" break="no"/>te,
-			Romani: optimo jure possent vos omnes inter
-			<pb ed="#P" n="23-v"/>
-			<lb ed="#P"/>se diuidere: tot capitibus tam masculorum quam et 
-			<lb ed="#P"/>foeminarum unicuique assignatis? ac deinde judi<lb ed="#P" break="no"/>catis
-			potuisse Romanos principes sua ditione 
-			<lb ed="#P"/>spoliare, vosque omnes libertate spoliatos miseris 
-			<lb ed="#P"/>laboribus conficere: nimirum occupatos que<lb ed="#P" break="no"/>rendis
-			auri et argenti fodinis et metallis extra<lb ed="#P" break="no"/>hendis
-			et expurgandis? Quod <del rend="strikethrough">si</del> postremo Ro<lb ed="#P" break="no"/>mani
-			fecere, vt patet ex <ref><name>Diodoro</name> libro 6 c. 9</ref> 
-			<lb ed="#P"/>nec vos habere ius vestram libertatem immo et vi<lb ed="#P" break="no"/>tam
-			bello tuendi? Pateris ne Sepulueda <name>di<lb ed="#P" break="no"/>uum
-			Jacobum</name> tuis cordubensibus hoc modo 
-			<lb ed="#P"/>euangelizare? Proh Deum atque hominum fi<lb ed="#P" break="no"/>dem.
-			hoc est jugum christi christianis ho<lb ed="#P" break="no"/>minibus
-			imponere? hoc est eferam barbariem 
-			<lb ed="#P"/>ex barbarorum animis eximere: an potius latro<lb ed="#P" break="no"/>nes,
-			sicarios, et immanes predones agere: et 
-			<lb ed="#P"/>mansuetissimas gentes desperatione precipites 
-			<lb ed="#P"/>dare? Indorum gens non est tali barbarie bar<lb ed="#P" break="no"/>bara,
-			neque stolida, neque stupida: sed docilis 
-			<lb ed="#P"/>et ad omnes liberales artes maxime ingenio<lb ed="#P" break="no"/>sa,
-			et ad suscipiendam colendam et obseruandam 
-			<lb ed="#P"/>christianam religionem et corrigendum peccata 
-			<lb ed="#P"/>sua maxime procliuis: quod experientia docuit 
-			<lb ed="#P"/>postquam a sacerdotibus sacris mysterijs fuere ini<lb ed="#P" break="no"/>tiati
-			et verbo dei eruditis erudiati: optimis moribus pre<lb ed="#P" break="no"/>diti
-			sunt. Et ante hyspanorum aduentum vt 
-			<lb ed="#P"/>diximus, politicas habebant respublicas: salu<lb ed="#P" break="no"/>taribus
-			legibus probe constitutas. 
-		</p>
-		<p>
-			¶ Preterea, 
-			<lb ed="#P"/>mechanicae cuiusque artis ita periti sunt: vt op<lb ed="#P" break="no"/>timo
-			jure cunctis cogniti orbis gentibus hoc 
-			<lb ed="#P"/>nomine preferri debeant: ita arte et elegantia
-			<pb ed="#P" n="24-r"/>
-			<lb ed="#P"/>pulcherrima sunt quae gens illa edificiorum 
-			<lb ed="#P"/>elegantia pluma et acupictis operibus prestat. 
-			<lb ed="#P"/>Sed haec mechanica <name>Sepulueda</name> spernit: quasi 
-			<lb ed="#P"/>in his rebus non reluceant ingenij solertia, ac<lb ed="#P" break="no"/>umen,
-			industria et ratio recta, nam ars me<lb ed="#P" break="no"/>chanica
-			habitus est intellectus operatiuus: 
-			<lb ed="#P"/>quae definiri solet recta ratio rerum factibi<lb ed="#P" break="no"/>lium
-			actuum rationis directiua: per quam ho<lb ed="#P" break="no"/>mo
-			artifex in ipso rationis actu ordinate fa<lb ed="#P" break="no"/>ciliter
-			ac sine errore procedit. autore <ref><name>philosopho</name>
-			<lb ed="#P"/>1o <title>posteriorum</title></ref>. Non ergo stupidi sunt reuerende 
-			<lb ed="#P"/>doctor <subst hand="B"><del rend="strikethrough">quod</del><add place="above-line">quorum</add></subst> cultioris elegantiae opera eru<lb ed="#P" break="no"/>dite
-			fabrefacta: admirationem cunct<subst hand="B"><del rend="strikethrough">arum</del><add place="above-line">is</add></subst> gentib<add place="rm" hand="B">us</add> 
-			<lb ed="#P"/><del rend="strikethrough" hand="B">um</del> prestant. opera enim ostendunt hominis 
-			<lb ed="#P"/>ingenium, nam (ut poeta inquit) artificem 
-			<lb ed="#P"/>commendat opus. Ac rursus<ref><name>prosper</name> in suis <title>epigra<lb ed="#P" break="no"/>matis</title></ref> 
-			inquit. En miris operum signis osten<lb ed="#P" break="no"/>ditur
-			author: autoremque suum condita quoque 
-			<lb ed="#P"/>canunt.
-		</p>
-		<p>
-			¶ Artium liberalium in quibus erudi<lb ed="#P" break="no"/>ti
-			hactenus fuere, veluti grammaticae et logicae: 
-			<lb ed="#P"/>insigniter periti sunt: omni genere musices 
-			<lb ed="#P"/>admirabili dulcedine audientium aures de<lb ed="#P" break="no"/>liniunt.
-			Scribunt scite, et politissime adeo 
-			<lb ed="#P"/>ut plerumque dubitetur an manu descript<subst hand="B"><del rend="strikethrough">a</del><add place="above-line">i</add></subst> an 
-			<lb ed="#P"/>vero typis excus<subst hand="B"><del rend="strikethrough">a</del><add place="above-line">i</add></subst> caracteres sint. Quod latius 
-			<lb ed="#P"/>docebo in secunda parte huius apologiae: non 
-			<lb ed="#P"/>referens vanissima pessimorum mendacia in hys<lb ed="#P" break="no"/>torijs
-			hactenus excussis sparsa: sed veritatem 
-			<lb ed="#P"/>ipsam, et ea quae oculis vidi: manibus contre<lb ed="#P" break="no"/>ctaui:
-			auribus proprijs per plurimos anos hausi 
-			<pb ed="#P" n="24-v"/>
-			<lb ed="#P"/>inter eas gentes versans, 
-			  <add place="lm" hand="F">Ego per triginta annos 
-			  apud eos manens 
-			  mira expertus in 
-			  omnino artificio ingenioso</add>
-		  	Quod si <name>Sepulueda</name>
-			<lb ed="#P"/>ut virum grauem decuit voluisset eos veritatem 
-			<lb ed="#P"/>plene cognoscere antequam ad scribendum descen<lb ed="#P" break="no"/>deret
-			tyranorum mendacijs corruptus: debuis<lb ed="#P" break="no"/>set
-			consulere viros religiosos, et integros qui 
-			<lb ed="#P"/>per multos anos cum eis gentibus conuixere: 
-			<lb ed="#P"/>notasque habebant gentis dotes, tam ingenij 
-			<lb ed="#P"/>et industriae: quam etiam profectus quem tam 
-			<lb ed="#P"/>in religione quam etiam in bonis moribus fecis<lb ed="#P" break="no"/>sent.
-			Longe quidem ab Hyspania abest Roma: 
-			<lb ed="#P"/>ibi tamen ingenium harum gentium et ad 
-			<lb ed="#P"/>percipiendas liberales disciplinas procliui<lb ed="#P" break="no"/>tas
-			et solertia nota erat. Ecce enim <ref><name>Paulus Jouius 
-			<lb ed="#P"/>Nucerinus Episcopus</name> in laudem ha<lb ed="#P" break="no"/>rum
-			gentium quas tu stolidas stupidasque 
-			<lb ed="#P"/>vocas: hoc elogium posteris legendum reliquit. 
-			<lb ed="#P"/><title>hystoriarum sui temporis libro</title> 34</ref>. <quote>Ferdinan<lb ed="#P" break="no"/>dus
-			cortesius ad Mexicana regna terrestri iti<lb ed="#P" break="no"/>nere
-			contendens, subactis indis Themestitana 
-			<lb ed="#P"/>urbe potitus est cum fabricatis nauigijs 
-			<lb ed="#P"/>eam urbem salso in stagno positam edificijsque 
-			<lb ed="#P"/>et incolarum frequentia Venetae urbis instar ad<lb ed="#P" break="no"/>mirabilem
-			multis proelijs expugnasset</quote>. Ecce 
-			<lb ed="#P"/>indorum ciuitatem docet edificijs Venetae 
-			<lb ed="#P"/>urbis instar admirabilem. Quod vero exage<lb ed="#P" break="no"/>ras
-			horrendum crimen quo (scilicet) viuos ho<lb ed="#P" break="no"/>mines
-			immolabant, vide quid ibidem sub<lb ed="#P" break="no"/>ijciat
-			<name>Jouius</name>. <quote>Mexicanae genti superisviuos 
-			<lb ed="#P"/>homines sed maleficijs damnatos immolare 
-			<lb ed="#P"/>fas est</quote>. De gentis ingenio quid asserat? <quote>Cortesio 
-			<pb ed="#P" n="25-r"/>non omnino difficile fuit gentem <add place="above-line" hand="B">per se </add>ingeniosam 
-			<lb ed="#P"/>et docilem ad christi cultum abdicatis idolorum 
-			<lb ed="#P"/>superstitionibus traduxisse. Litteras enim jam 
-			<lb ed="#P"/>nostras libenter et admiranter discunt vejectis 
-			<lb ed="#P"/>hierogliphicis imaginibus: quibus annales 
-			<lb ed="#P"/>conscribere solebant varijs picturis regum suo<lb ed="#P" break="no"/>rum
-			memoriam posteris tradentes.</quote> 
-			  <add place="rm" hand="F">Scribunt ele
-			  gantissime et 
-			  libros in membranis 
-			  pro choro 
-			  religiosorum cum 
-			  puncto depingunt 
-			  artificiose</add>
-		  </p>
-		  <p>
-			  <lb ed="#P"/>¶ Haec te tantae eruditionis virum in asseren<lb ed="#P" break="no"/>da
-			  veritate imitari decuit: non ad leuissimorum 
-			  <lb ed="#P"/>hominum susurros stricto calami mucrone 
-			  <lb ed="#P"/>libellum famosum: in immensum terrarum 
-			  <lb ed="#P"/>orbem inhabitantes indos scribere. Citas no<lb ed="#P" break="no"/>bis
-			  <ref><name>Ouiedi</name> <title>Hystoriam</title> a regio senatu appro<lb ed="#P" break="no"/>batam.
-			  quasi <name>Ouiedus</name> vt ipse libro 6o, c. 8o</ref> 
-			  <lb ed="#P"/>testatur, non fuerit immanis quidam ty<lb ed="#P" break="no"/>ranus
-			  qui miseros indos seruitute oppressos 
-			  <lb ed="#P"/>tamquam pecora possidebat: et magnam contine<lb ed="#P" break="no"/>ntis
-			  partem caeteros predones secutus diruit, 
-			  <lb ed="#P"/>aut quasi Senatus cum librum probat videa<lb ed="#P" break="no"/>tur
-			  probare etiam mendacia omnia in eo con<lb ed="#P" break="no"/>tenta,
-			  aut <del rend="strikethrough" hand="B">quasi senatus cum librum appro<lb ed="#P" break="no"/>babit</del>
-			  sciuerit an vera essent quae ibi conti<lb ed="#P" break="no"/>nebantur?
-			  Cui fidem adhibes inimico et 
-			  <lb ed="#P"/>ei cuius causa agebatur. possidebat enim 
-			  <lb ed="#P"/>ille certum indorum numerum sicut caeteri tyrani.
-			</p>
-			<p>
-			  ¶ Ex his apparet fundamentum Sepulue<lb ed="#P" break="no"/>dae,
-			  qui has gentes rudes et stupidas esse do<lb ed="#P" break="no"/>cet
-			  falso falsius esse. Demus tamen hanc 
-			  <lb ed="#P"/>gentem non valere ingenij acumine et soler<lb ed="#P" break="no"/>ti
-			  industria. certe non ideo tenentur sese 
-			  <pb ed="#P" n="25-v"/>
-			  <lb ed="#P"/>sapientioribus subijcere et corum ingenium am<lb ed="#P" break="no"/>plecti,
-			  ita vt si recusent bello illato perdoma<lb ed="#P" break="no"/>ri
-			  possint; et tamquam mancipia quod hodie 
-			  <lb ed="#P"/>fit subigi. Multa enim tenentur homines 
-			  <lb ed="#P"/>facere lege naturali quae si impleri nolint: 
-			  <lb ed="#P"/>non possunt ad ea facienda compelli. Lege 
-			  <lb ed="#P"/>naturali tenemur virtutem amplecti et pio<lb ed="#P" break="no"/>rum
-			  virorum integritatem imitari: nemo tamen 
-			  <lb ed="#P"/>punitur quod pessimus sit nisi sit seditiosus: 
-			  <lb ed="#P"/>fidem catholicam, vbi modo christiano et vt 
-			  <lb ed="#P"/>decet predicata fuerit: omnes homines te<lb ed="#P" break="no"/>nentur
-			  lege naturali suscipere: nemo tamen 
-			  <lb ed="#P"/>cogitur ad suscipiendum fidem christi. Ne<lb ed="#P" break="no"/>mo
-			  punitur quod vitijs obrutus sit nisi sit 
-			  <lb ed="#P"/>seditiosus vel injurius rebus vel personis ho<lb ed="#P" break="no"/>minum:
-			  nemo cogitur virtutem amplecti 
-			  <lb ed="#P"/>et bonum virum sese prestare. Qui accipit 
-			  <lb ed="#P"/>beneficium lege naturali tenetur beneficium 
-			  <lb ed="#P"/>reponere obligatione quae dicitur ad antido<lb ed="#P" break="no"/>ta:
-			  nemo tamen ad id cogitur: neque, si omit<lb ed="#P" break="no"/>tat,
-			  puni<del rend="strikethrough" hand="B">a</del>tur juxta receptam jureconsultorum 
-			  <lb ed="#P"/>traditionem in <ref>l. ex hoc jure</ref> ff <ref>de justitia 
-			  <lb ed="#P"/>et jure</ref> et in <ref>l. sed et si lege § consuluit</ref> 
-			  <lb ed="#P"/>ff. <ref>de petitione haereditatis.</ref> 
-		  </p>
-		  <p>
-			  <lb ed="#P"/>¶ Subuenire egestati fratris plum opus est 
-			  <lb ed="#P"/>ad quod natura homines procliues foecit et 
-			  <lb ed="#P"/>obligat: nemo tamen ad prestandam elemo<lb ed="#P" break="no"/>sinam
-			  cogitur. Sed de his vide quae ibi in<lb ed="#P" break="no"/>fra
-			  capito <space quantity="3" unit="chars"/>latius dicuntur. Ergo nullus 
-			  <lb ed="#P"/>etiam vere sapiens: potest cogere barbarum 
-			  <lb ed="#P"/>stupidum vt sese sibi subigat citra iniu<pb ed="#P" n="26-r"/><lb ed="#P" break="no"/>riam:
-			  presertim committendo libertatem: quod 
-			  <lb ed="#P"/>miseri indi suma injuria contra diuina 
-			  <lb ed="#P"/>et humana jura omnia patiuntur: et contra 
-			  <lb ed="#P"/>ipsam legem naturae. Neque enim facien<lb ed="#P" break="no"/>dum
-			  est malum, vt inde bonum oriatur. 
-			  <lb ed="#P"/>Quemadmodum si quis alium inuitum cas<lb ed="#P" break="no"/>trasset.
-			  licet enim castrati rei venereae quae 
-			  <lb ed="#P"/>furore adigit humanas mentes subtrahun<lb ed="#P" break="no"/>tur:
-			  ille tamen qui hominem castrat gra<lb ed="#P" break="no"/>uissime
-			  punitur, vt in <ref>l. si seruum § et 
-			  <lb ed="#P"/>si puerum ff ad legem corneliam</ref> et in <ref>l. 3 
-			  <lb ed="#P"/>§ qui hominem</ref> et in <ref>l. 4</ref>.
-		  </p>
-		  <p>
-			  <lb ed="#P"/>¶ Quod si 
-			  <lb ed="#P"/>hoc absurdissimo argumento bellum in in<lb ed="#P" break="no"/>dos
-			  licitum esset, <add place="rm" hand="F">notandum</add> gens in gentem et homo 
-			  <lb ed="#P"/>in hominem insurgeret: et opinione prestan<lb ed="#P" break="no"/>tioris
-			  sapientiae: alterum sibi subigendum 
-			  <lb ed="#P"/>contenderet. Hoc etiam lemate, Turcae, et Ma<lb ed="#P" break="no"/>uri
-			  gentium vere barbara colluuies: optimo 
-			  <lb ed="#P"/>jure et juxta naturae legem <add place="above-line" hand="B">indis</add> bellum <add place="above-line" hand="B">in ferre possunt</add> quod 
-			  <lb ed="#P"/>(ut quibusdam videtur) recta reipublicae cons<lb ed="#P" break="no"/>titutione
-			  nobis prestent. Non ne si hoc ad<lb ed="#P" break="no"/>mittimus:
-			  sursum deorsumque diuinaque hu<lb ed="#P" break="no"/>manaque
-			  omnia miscebuntur? Quid magis 
-			  <lb ed="#P"/>aduersum eternae legi quam quod <name>Sepulueda</name> 
-			  <lb ed="#P"/>frequenter ostentat: proferri potest? aut 
-			  <lb ed="#P"/>quae pestis magis est execranda? Opinor <name>Se<lb ed="#P" break="no"/>puluedam</name>
-			  pro sua modestia: existimare 
-			  <lb ed="#P"/>Hyspaniam alios habere se prudentiores.
-		  </p>
-		  <p>
-			  <lb ed="#P"/>Ergo cogendus est sese illis subijcere lege 
-			  <lb ed="#P"/>eterna. Et quidem lex eterna admirabili 
-			  <lb ed="#P"/>ratione et ordine cuncta disposuit distinxitque.
-			  <pb ed="#P" n="26-v"/>Regna a regnis et gentes a gentibus diuisit 
-			  <lb ed="#P"/>juxta illud <ref>Deuteronomij</ref> <quote>quando diuide<lb ed="#P" break="no"/>bat
-			  altissimus gentes: et separabat filios 
-			  <lb ed="#P"/>Adam</quote>. Prefecit etiam vnaquaeque gens 
-			  <lb ed="#P"/>sibi rectorem, et gubernatores diuino afla<lb ed="#P" break="no"/>tu
-			  juxta illud <ref>Ecclesiastici 17</ref> <quote>in vnam quamque 
-			  <lb ed="#P"/>gentem posuit rectorem</quote>. quicumque enim 
-			  <lb ed="#P"/>reges vel gubernatores sunt etiam apud 
-			  <lb ed="#P"/>barbaros: ministri dei sunt. quod <ref>diu<lb ed="#P" break="no"/>ina
-				  sapientia 8o Prouerbiorum</ref> docet: <quote>per me re<lb ed="#P" break="no"/>ges
-			  regnant, et legum conditores ju<subst hand="F"><del rend="strikethrough">x</del><add place="above-line">s</add></subst>ta
-			  <lb ed="#P"/>decernunt: per me principes imperant, et 
-			  <lb ed="#P"/>potentes decernunt justitiam</quote>.
-		  </p>
-		  <p>
-			  Et quicumque 
-			  <lb ed="#P"/>reges vel gubernatores non gubernantes recto 
-			  <lb ed="#P"/>ordine sibi subditos, barbari vel greci, fide<lb ed="#P" break="no"/>les
-			  vel infideles: transgressores sunt legis 
-			  <lb ed="#P"/>eternae. Et illius transgressionis habent 
-			  <lb ed="#P"/>deum ultorem judicem.
-		  </p>
-		  <p> 
-			  Cum ergo unaque<lb ed="#P" break="no"/>que
-			  gens lege eterna rectorem vel principem 
-			  <lb ed="#P"/>habeat: non est quod gens sub pretextu sapi<lb ed="#P" break="no"/>entiae
-			  aliam impetat: neque aliena regna 
-			  <lb ed="#P"/>diruat. facit enim contra legem eternam: 
-			  <lb ed="#P"/>quam legimus <ref>prouerbiorum 22</ref> ne transgre<lb ed="#P" break="no"/>diaris
-			  terminos antiquos quos pos<subst hand="B"><del rend="strikethrough">sid</del><add place="above-line">u</add></subst>erunt 
-			  <lb ed="#P"/>patres tui. Hic non est actus sapientiae sed 
-			  <lb ed="#P"/>iniquitatis et falsus pretextus aliena 
-			  <lb ed="#P"/>diripiendi. Vnde quaelibet gens quantumcumque 
-			  <lb ed="#P"/>barbara: potest sese defendere a sapientiori qui 
-			  <lb ed="#P"/>illam subigere et priuare libertate velit: immo 
-			  <lb ed="#P"/>vero licite potest sapientiorem occidendo punire 
-			  <lb ed="#P"/>tamquam saeuum et violentum contra legem na<pb ed="#P" n="27-r"/><lb ed="#P" break="no"/>turae
-			  inferentem injuriam. Et hoc bellum cer<lb ed="#P" break="no"/>te
-			  justius est: quam illud quod sub nomine sapi<lb ed="#P" break="no"/>entiae
-			  illis infertur.
-		  </p>
-		  <p>
-			  ¶ Profert <name>Sepulueda</name> aliud argumentum (scilicet) quod imperfectiora 
-			  <lb ed="#P"/>perfectioribus natura cedunt veluti mate<lb ed="#P" break="no"/>ria
-			formae: corpus animae, sensus rationi: 
-			<lb ed="#P"/>quod quidem haud nego: illud tamen ve<lb ed="#P" break="no"/>rum
-			est, quando duae res natura conjunctae 
-			<lb ed="#P"/>sunt in actu primo. Veluti quando mate<lb ed="#P" break="no"/>ria
-			et forma quae dat esse rei concurrunt 
-			<lb ed="#P"/>in unum. Item quando corpus et anima 
-			<lb ed="#P"/>conglutinantur et animal efficiunt: sensus<lb ed="#P" break="no"/>que
-			et ratio in eodem subiecto existunt: si 
-			<lb ed="#P"/>tamen perfectum et imperfectum separata 
-			<lb ed="#P"/>sunt et circa diuersa subiecta existunt: 
-			<lb ed="#P"/>tunc imperfecta non cedunt perfectioribus. 
-			<lb ed="#P"/>Nondum enim sunt conjuncta in actu 
-			<lb ed="#P"/>primo: et juxta hanc distinctionem si in 
-			<lb ed="#P"/>unummet reipublicae corpus vel sub eodem 
-			<lb ed="#P"/>principe vel gubernatore sapientes et stul<lb ed="#P" break="no"/>tiviuerent:
-			tunc stulti sapientiorum qui 
-			<lb ed="#P"/>rempublicam gubernant arbitrio sese sub<lb ed="#P" break="no"/>mittere
-			debent: puta regi vel eius legibus 
-			<lb ed="#P"/>vel gubernatoribus: quod si recusarent licite pos<lb ed="#P" break="no"/>set
-			in eos vis admoueri et <add place="above-line" hand="B">possent</add> puniri. Hoc enim 
-			<lb ed="#P"/>dictat lex naturae. Alioquin nulla persona 
-			<lb ed="#P"/>libera et longe <subst hand="B"><del rend="strikethrough">amplius</del><add place="above-line">minus</add></subst> populus liber: tenetur 
-			<lb ed="#P"/>se subijcere alicui vel regi vel genti quantum<lb ed="#P" break="no"/>cumque
-			prudentia prestiterit, et ex illo utili<lb ed="#P" break="no"/>tas
-			sibi credat esse prouentura. Hanc con<lb ed="#P" break="no"/>clusionem
-			tradit in hac ipsa specie quando scilicet
-			<pb ed="#P" n="27-v"/>
-			<lb ed="#P"/>imperfecta perfectioribus ced<subst hand="B"><del rend="strikethrough">ant</del><add place="above-line">unt</add></subst>, <ref><name>Augusti<lb ed="#P" break="no"/>nus
-			de Anchona</name> liber <title>de potestate papae</title> q. 22 
-			<lb ed="#P"/>a. 7</ref>. Et <ref><name>Egidius Romanus</name> super 2o sententiarum 
-			<lb ed="#P"/>dist. 44 a. 2o</ref> nulla igitur gens libera 
-			<lb ed="#P"/>cogi potest sese sapientiori genti submi<lb ed="#P" break="no"/>tere
-			etiam si in magnam eorum utilitatem 
-			<lb ed="#P"/>talis submissio cedere posset.
-		  </p>
-		  <p>
-			<ref><name>Philosophus</name> 1o 
-			<lb ed="#P"/><title>politicorum</title></ref> dum profert argumentum de ma<lb ed="#P" break="no"/>teria
-			quae formae cedit: nihil aliud vult 
-			<lb ed="#P"/>significare quam naturam genuisse homines ap<lb ed="#P" break="no"/>tos
-			per innatam prudentiam vt alios pos<lb ed="#P" break="no"/>sint
-			gubernare qui tanta ingenij facultate 
-			<lb ed="#P"/>non sunt prediti. Docet autem huiusmo<lb ed="#P" break="no"/>di
-			prudentiores reipublicae clauo admouen<lb ed="#P" break="no"/>dos
-			ad reipublicae conseruationem et vtilita<lb ed="#P" break="no"/>tem:
-			quibus caeteri oportet vt sint subiecti si<lb ed="#P" break="no"/>cut
-			materia est subiecta formae et animae 
-			<lb ed="#P"/>corpus.
-		</p>
-		<p>
-			<lb ed="#P"/>¶ Postremum argumentum <name>Sepuluedae:</name> 
-			<lb ed="#P"/>quod (scilicet) quiuis potest cogi et inuitus facere 
-			<lb ed="#P"/>ea quae sibi vtilia sunt: si absolute haec propo<lb ed="#P" break="no"/>sitio
-			sumatur falsissima est. <ref><name>Augustinus</name> 
-			<lb ed="#P"/>enim quem citat loquitur</ref> de his qui rem 
-			<lb ed="#P"/>sibi utilem promiserant, et non prestabant 
-			<lb ed="#P"/>cum damno vel injuria caeterorum. Nimirum 
-			<lb ed="#P"/>loquitur de hereticis, quos Ecclesia cogit pres<lb ed="#P" break="no"/>tare
-			vota quae in baptismo vouerunt: non 
-			<lb ed="#P"/>tantum quia sibi utilia sunt; sed precipue 
-			<lb ed="#P"/><quote>quia promiserunt et vouerunt illa deo: et 
-			<lb ed="#P"/>ex promissione peculiari quadam obligatione 
-			<lb ed="#P"/>tenentur</quote>. Non enim sufficeret illa sibi esse
-			<pb ed="#P" n="28-r"/>vtilia. Videmus enim neminem infidelem co<lb ed="#P" break="no"/>gi
-			ad suscipiendum baptismum. Ex doctrina 
-			<lb ed="#P"/>autem dicti <name>Augustini</name> colligunt doctores quod ad 
-			<lb ed="#P"/>bonum promissum potest et debet quis com<lb ed="#P" break="no"/>pelli
-			non autem ad bonum non promissum. 
-			<lb ed="#P"/>Sed de hoc plurima infra sunt discutienda.
-		  </p> 
-	</div>
+      <div xml:id="lca8s8-d1e92">
+        <head xml:id="lca8s8-d1e92-Hd1e97">Caput 4 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e92-d1e99">
+          <lb ed="#P" n="14"/>Caput 4m 
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e104">
+          <lb ed="#P" n="15"/>¶ Ex his igitur quae ostensa et declarata 
+          <lb ed="#P" n="16"/>sunt: manifeste apparet differentia quam 
+          <lb ed="#P" n="17"/><name xml:id="lca8s8-d1e92-Nd1e111">Philosophus</name> ponit inter premissas duas barbarorum 
+          <lb ed="#P" n="18"/>species. Nam de quibus loquitur in <ref xml:id="lca8s8-d1e92-Rd1e115">1o <title>po<lb ed="#P" break="no" n="19"/>liticorum</title></ref>
+          et modo nos nunc tractauimus: hi sunt 
+          <lb ed="#P" n="20"/>simpliciter barbari proprie et stricte <gap extent="2" unit="characters"/>vi<lb ed="#P" break="no" n="21"/>delicet
+          stolidi et absque sufficiente ratione 
+          <lb ed="#P" n="22"/>ad se gubernandum: sine lege sine rege et caetera. 
+          <lb ed="#P" n="23"/>Et propterea indigni sunt principatu natura<lb ed="#P" break="no" n="24"/>liter.
+          Barbaros autem quos explicat in <ref xml:id="lca8s8-d1e92-Rd1e136">3o libro</ref> 
+          <lb ed="#P" n="25"/>eiusdem operis concedit et firmat legitimum 
+          <lb ed="#P" n="26"/>et justum et naturalem habere principatum 
+          <lb ed="#P" n="27"/>his quidem licet careant litterarum exercitio 
+          <lb ed="#P" n="28"/>siue arte: non deest tamen habilitas et pru<lb ed="#P" break="no" n="29"/>dentia
+          regendi et gubernandi se, tum publi<lb ed="#P" break="no" n="30"/>ce
+          tum priuate. Unde habent regna, comu<pb ed="#P" n="22-v"/><lb ed="#P" break="no" n="1"/>nitates 
+          et ciuitates quas legibus et consuetu<lb ed="#P" break="no" n="2"/>dinibus
+          prudenter moderantur. Et sic corum le<lb ed="#P" break="no" n="3"/>gitimus
+          et naturalis est principatus: quamuis 
+          <lb ed="#P" n="4"/>aliquam similitudinem cum tyranide ha<lb ed="#P" break="no" n="5"/>beat.
+          Ex quibus necesse est inferri ratione 
+          <lb ed="#P" n="6"/>pollere reges talium: justitiam et pacem non 
+          <lb ed="#P" n="7"/>deesse populis et eorum prouincialibus; alias 
+          <lb ed="#P" n="8"/>nec constitui possent nec permanere in esse 
+          <lb ed="#P" n="9"/>suo politico aut in illo diu conseruari vt 
+          <lb ed="#P" n="10"/>patet per eundem <ref xml:id="lca8s8-d1e92-Rd1e174"><name xml:id="lca8s8-d1e92-Nd1e175">philosophum</name> 3o <title>politicorum</title> c. 8o </ref>et <ref xml:id="lca8s8-d1e92-Rd1e180">libro 
+            <lb ed="#P" n="11"/>5o c. 7o</ref> et <ref xml:id="lca8s8-d1e92-Rd1e185" target="http://scta.info/resource/adcd-l2-d1e271@166-194"><name xml:id="lca8s8-d1e92-Nd1e186">Augustinum</name> libro 2o c. 21o <title>de 
+              <lb ed="#P" n="12"/>ciuitate dei</title></ref>. Ergo non omnes barbari carent ratione: 
+          <lb ed="#P" n="13"/>nec natura sunt serui aut indigni principatu.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e196">
+          <lb ed="#P" n="14"/>Ergo barbari aliqui juste ac secundum naturam ha<lb ed="#P" break="no" n="15"/>bent
+          regna dignitatesque regales, jurisdictiones 
+          <lb ed="#P" n="16"/>et leges bonas: et apud cos est legitimus princi<lb ed="#P" break="no" n="17"/>patus.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e207">
+          Quod si docuerimus apud indos nostros 
+          <lb ed="#P" n="18"/>occidentales meridionalesque plagas inhabitantes: 
+          <lb ed="#P" n="19"/>esto quod appellemus eos barbaros et barbari sint: 
+          <lb ed="#P" n="20"/>esse illustria regna, grandes hominum multi<lb ed="#P" break="no" n="21"/>tudines
+          politice ac socialiter viuentium: ma<lb ed="#P" break="no" n="22"/>gnas
+          ciuitates: reges, judices, leges: commercijs, 
+          <lb ed="#P" n="23"/>emptionibus, venditionibus, locationibus caeterisque 
+          <lb ed="#P" n="24"/>contractibus juris gentium utentes: numquid 
+          <lb ed="#P" n="25"/>probatum patebit <name xml:id="lca8s8-d1e92-Nd1e226">Reuerendum doctorem Sepuluedam</name> 
+          <lb ed="#P" n="26"/>vitiose et valde culpabiliter contra eiusmodi gen<lb ed="#P" break="no" n="27"/>tes
+          vel ignorantia vel malitia de doctrina<name xml:id="lca8s8-d1e92-Nd1e233">A<lb ed="#P" break="no" n="28"/>ristotelica</name> 
+          paralogizasse: atque proinde falso et for<lb ed="#P" break="no" n="29"/>te
+          inexpiabiliter illas apud orbem totum infa<lb ed="#P" break="no" n="30"/>masse?
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e244">
+          Non ergo ex eo quod indi barbari sint regni 
+          <lb ed="#P" n="31"/>incapaces existunt, et necessario ab alijs guber<lb ed="#P" break="no" n="32"/>nari
+          debent nisi doceri de catholica fide ac san<pb ed="#P" n="23-r"/><lb ed="#P" break="no" n="1"/>ctis 
+          sacramentis initiari. Non enim stupidi 
+          <lb ed="#P" n="2"/>immanes vel efferi sunt, sed respublicas etiam 
+          <lb ed="#P" n="3"/>longe antequam hyspanicum nomen audijssent: 
+          <lb ed="#P" n="4"/>recte institutas habebant, nimirum optimis le<lb ed="#P" break="no" n="5"/>gibus,
+          religione, et institutis, sobrie compositas: 
+          <lb ed="#P" n="6"/>amicitiam colebant; et in societatem vitae con<lb ed="#P" break="no" n="7"/>juncti
+          longe maximas incolebant ciuitates, u<lb ed="#P" break="no" n="8"/>bi
+          tam pacis quam belli negotia prudenter ex 
+          <lb ed="#P" n="9"/>bono et aequo administrabant: nimirum gu<lb ed="#P" break="no" n="10"/>bernati
+          legibus, quae plurimis in rebus nostras su<lb ed="#P" break="no" n="11"/>perant,
+          et Athenarum sapientibus admiratio<lb ed="#P" break="no" n="12"/>ni
+          esse possent, vt suo loco docebo (scilicet) in 
+          <lb ed="#P" n="13"/>secunda parte huius apologiae.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e280">
+          Quod si ex eo quod ele<lb ed="#P" break="no" n="14"/>gantium
+          litterarum rudes sint bello sunt per<lb ed="#P" break="no" n="15"/>domandi:
+          audiat <name xml:id="lca8s8-d1e92-Nd1e286">Sepulueda</name> <ref xml:id="lca8s8-d1e92-Rd1e288"><title>Trogum Pompeium</title> libro 44 prope finem.</ref> <quote xml:id="lca8s8-d1e92-Qd1e292">Nec prius 
+            <lb ed="#P" n="16"/>inquit perdomitae prouinciae jugum hyspani 
+            <lb ed="#P" n="17"/>accipere potuerunt, quam Caesar augustus per<lb ed="#P" break="no" n="18"/>domito
+            orbe, victricia ad eos arma transtulit 
+            <lb ed="#P" n="19"/>populumque barbarum ac ferum legibus ad cul<lb ed="#P" break="no" n="20"/>tiorem
+            vitae usum traductum, in formam pro<lb ed="#P" break="no" n="21"/>uinciae
+            redegit</quote>. Ecce Hyspana gen<subst hand="B"><del rend="strikethrough">tem</del><add place="above-line">s</add></subst> barba<lb ed="#P" break="no" n="22"/>ra<del rend="strikethrough">m</del>
+          ac efera<del rend="strikethrough">m</del> appella<subst hand="B"><del rend="strikethrough">uit</del><add place="right">tur</add></subst>. <name xml:id="lca8s8-d1e92-Nd1e329">Sepuluedam</name>que pro 
+          <lb ed="#P" n="23"/>sua prudentia respondentem audire velim: an 
+          <lb ed="#P" n="24"/>Romanorum aduersus Hyspanos bellum justum 
+          <lb ed="#P" n="25"/>censeat; vt eos a barbarie liberarent? Ac rursus: 
+          <lb ed="#P" n="26"/>an hyspani bellum injustum gererent: cum ab 
+          <lb ed="#P" n="27"/>eis se acriter defendebant? 
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e343">
+          Deinde predones hys<lb ed="#P" break="no" n="28"/>panos
+          miserae gentis tortores appello. Censetis<lb ed="#P" break="no" n="29"/>ne
+          quod subiugata efera et barbara hyspaniae gen<lb ed="#P" break="no" n="30"/>te,
+          Romani: optimo jure possent vos omnes inter
+          <pb ed="#P" n="23-v"/>
+          <lb ed="#P" n="1"/>se diuidere: tot capitibus tam masculorum quam et 
+          <lb ed="#P" n="2"/>foeminarum unicuique assignatis? ac deinde judi<lb ed="#P" break="no" n="3"/>catis
+          potuisse Romanos principes sua ditione 
+          <lb ed="#P" n="4"/>spoliare, vosque omnes libertate spoliatos miseris 
+          <lb ed="#P" n="5"/>laboribus conficere: nimirum occupatos que<lb ed="#P" break="no" n="6"/>rendis
+          auri et argenti fodinis et metallis extra<lb ed="#P" break="no" n="7"/>hendis
+          et expurgandis? Quod <del rend="strikethrough">si</del> postremo Ro<lb ed="#P" break="no" n="8"/>mani
+          fecere, vt patet ex <ref xml:id="lca8s8-d1e92-Rd1e374"><name xml:id="lca8s8-d1e92-Nd1e375">Diodoro</name> libro 6 c. 9</ref> 
+          <lb ed="#P" n="9"/>nec vos habere ius vestram libertatem immo et vi<lb ed="#P" break="no" n="10"/>tam
+          bello tuendi? Pateris ne Sepulueda <name xml:id="lca8s8-d1e92-Nd1e382">di<lb ed="#P" break="no" n="11"/>uum
+            Jacobum</name> tuis cordubensibus hoc modo 
+          <lb ed="#P" n="12"/>euangelizare? Proh Deum atque hominum fi<lb ed="#P" break="no" n="13"/>dem.
+          hoc est jugum christi christianis ho<lb ed="#P" break="no" n="14"/>minibus
+          imponere? hoc est eferam barbariem 
+          <lb ed="#P" n="15"/>ex barbarorum animis eximere: an potius latro<lb ed="#P" break="no" n="16"/>nes,
+          sicarios, et immanes predones agere: et 
+          <lb ed="#P" n="17"/>mansuetissimas gentes desperatione precipites 
+          <lb ed="#P" n="18"/>dare? Indorum gens non est tali barbarie bar<lb ed="#P" break="no" n="19"/>bara,
+          neque stolida, neque stupida: sed docilis 
+          <lb ed="#P" n="20"/>et ad omnes liberales artes maxime ingenio<lb ed="#P" break="no" n="21"/>sa,
+          et ad suscipiendam colendam et obseruandam 
+          <lb ed="#P" n="22"/>christianam religionem et corrigendum peccata 
+          <lb ed="#P" n="23"/>sua maxime procliuis: quod experientia docuit 
+          <lb ed="#P" n="24"/>postquam a sacerdotibus sacris mysterijs fuere ini<lb ed="#P" break="no" n="25"/>tiati
+          et verbo dei eruditis erudiati: optimis moribus pre<lb ed="#P" break="no" n="26"/>diti
+          sunt. Et ante hyspanorum aduentum vt 
+          <lb ed="#P" n="27"/>diximus, politicas habebant respublicas: salu<lb ed="#P" break="no" n="28"/>taribus
+          legibus probe constitutas. 
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e425">
+          ¶ Preterea, 
+          <lb ed="#P" n="29"/>mechanicae cuiusque artis ita periti sunt: vt op<lb ed="#P" break="no" n="30"/>timo
+          jure cunctis cogniti orbis gentibus hoc 
+          <lb ed="#P" n="31"/>nomine preferri debeant: ita arte et elegantia
+          <pb ed="#P" n="24-r"/>
+          <lb ed="#P" n="1"/>pulcherrima sunt quae gens illa edificiorum 
+          <lb ed="#P" n="2"/>elegantia pluma et acupictis operibus prestat. 
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e441">
+          <lb ed="#P" n="3"/>Sed haec mechanica <name xml:id="lca8s8-d1e92-Nd1e445">Sepulueda</name> spernit: quasi 
+          <lb ed="#P" n="4"/>in his rebus non reluceant ingenij solertia, ac<lb ed="#P" break="no" n="5"/>umen,
+          industria et ratio recta, nam ars me<lb ed="#P" break="no" n="6"/>chanica
+          habitus est intellectus operatiuus: 
+          <lb ed="#P" n="7"/>quae definiri solet recta ratio rerum factibi<lb ed="#P" break="no" n="8"/>lium
+          actuum rationis directiua: per quam ho<lb ed="#P" break="no" n="9"/>mo
+          artifex in ipso rationis actu ordinate fa<lb ed="#P" break="no" n="10"/>ciliter
+          ac sine errore procedit. autore <ref xml:id="lca8s8-d1e92-Rd1e462"><name xml:id="lca8s8-d1e92-Nd1e463">philosopho</name>
+            <lb ed="#P" n="11"/>1o <title>posteriorum</title></ref>.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e470">
+          Non ergo stupidi sunt reuerende 
+          <lb ed="#P" n="12"/>doctor <subst hand="B"><del rend="strikethrough">quod</del><add place="above-line">quorum</add></subst> cultioris elegantiae opera eru<lb ed="#P" break="no" n="13"/>dite
+          fabrefacta: admirationem cunct<subst hand="B"><del rend="strikethrough">arum</del><add place="above-line">is</add></subst> <seg type="correction">gentib<subst><add place="rm" hand="B">us</add><lb ed="#P" n="14"/><del rend="strikethrough" hand="B">um</del></subst></seg> prestant. opera enim ostendunt hominis 
+          <lb ed="#P" n="15"/>ingenium, nam (ut poeta inquit) artificem 
+          <lb ed="#P" n="16"/>commendat opus. Ac rursus <ref xml:id="lca8s8-d1e92-Rd1e502"><name xml:id="lca8s8-d1e92-Nd1e503">prosper</name> in suis <title>epigra<lb ed="#P" break="no" n="17"/>matis</title></ref> 
+          inquit. En miris operum signis osten<lb ed="#P" break="no" n="18"/>ditur
+          author: autoremque suum condita quoque 
+          <lb ed="#P" n="19"/>canunt.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e516">
+          ¶ Artium liberalium in quibus erudi<lb ed="#P" break="no" n="20"/>ti
+          hactenus fuere, veluti grammaticae et logicae: 
+          <lb ed="#P" n="21"/>insigniter periti sunt: omni genere musices 
+          <lb ed="#P" n="22"/>admirabili dulcedine audientium aures de<lb ed="#P" break="no" n="23"/>liniunt.
+          Scribunt scite, et politissime adeo 
+          <lb ed="#P" n="24"/>ut plerumque dubitetur an manu descript<subst hand="B"><del rend="strikethrough">a</del><add place="above-line">i</add></subst> an 
+          <lb ed="#P" n="25"/>vero typis excus<subst hand="B"><del rend="strikethrough">a</del><add place="above-line">i</add></subst> caracteres sint. Quod latius 
+          <lb ed="#P" n="26"/>docebo in secunda parte huius apologiae: non 
+          <lb ed="#P" n="27"/>referens vanissima pessimorum mendacia in hys<lb ed="#P" break="no" n="28"/>torijs
+          hactenus excussis sparsa: sed veritatem 
+          <lb ed="#P" n="29"/>ipsam, et ea quae oculis vidi: manibus contre<lb ed="#P" break="no" n="30"/>ctaui:
+          auribus proprijs per plurimos anos hausi 
+          <pb ed="#P" n="24-v"/>
+          <lb ed="#P" n="1"/>inter eas gentes versans, 
+          <add place="margin-left" hand="F" type="marginal-note">
+            Ego per triginta annos 
+            apud eos manens 
+            mira expertus in 
+            omnino artificio ingenioso</add>
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e562">
+          Quod si <name xml:id="lca8s8-d1e92-Nd1e564">Sepulueda</name>
+          <lb ed="#P" n="2"/>ut virum grauem decuit voluisset eos veritatem 
+          <lb ed="#P" n="3"/>plene cognoscere antequam ad scribendum descen<lb ed="#P" break="no" n="4"/>deret
+          tyranorum mendacijs corruptus: debuis<lb ed="#P" break="no" n="5"/>set
+          consulere viros religiosos, et integros qui 
+          <lb ed="#P" n="6"/>per multos anos cum eis gentibus conuixere: 
+          <lb ed="#P" n="7"/>notasque habebant gentis dotes, tam ingenij 
+          <lb ed="#P" n="8"/>et industriae: quam etiam profectus quem tam 
+          <lb ed="#P" n="9"/>in religione quam etiam in bonis moribus fecis<lb ed="#P" break="no" n="10"/>sent.
+          Longe quidem ab Hyspania abest Roma: 
+          <lb ed="#P" n="11"/>ibi tamen ingenium harum gentium et ad 
+          <lb ed="#P" n="12"/>percipiendas liberales disciplinas procliui<lb ed="#P" break="no" n="13"/>tas
+          et solertia nota erat. Ecce enim <ref xml:id="lca8s8-d1e92-Rd1e592"><name xml:id="lca8s8-d1e92-Nd1e593">Paulus Jouius 
+            <lb ed="#P" n="14"/>Nucerinus Episcopus</name> in laudem ha<lb ed="#P" break="no" n="15"/>rum
+            gentium quas tu stolidas stupidasque 
+            <lb ed="#P" n="16"/>vocas: hoc elogium posteris legendum reliquit. 
+            <lb ed="#P" n="17"/><title>hystoriarum sui temporis libro</title> 34</ref>. <quote xml:id="lca8s8-d1e92-Qd1e606">Ferdinan<lb ed="#P" break="no" n="18"/>dus
+              cortesius ad Mexicana regna terrestri iti<lb ed="#P" break="no" n="19"/>nere
+              contendens, subactis indis Themestitana 
+              <lb ed="#P" n="20"/>urbe potitus est cum fabricatis nauigijs 
+              <lb ed="#P" n="21"/>eam urbem salso in stagno positam edificijsque 
+              <lb ed="#P" n="22"/>et incolarum frequentia Venetae urbis instar ad<lb ed="#P" break="no" n="23"/>mirabilem
+              multis proelijs expugnasset</quote>. Ecce 
+          <lb ed="#P" n="24"/>indorum ciuitatem docet edificijs Venetae 
+          <lb ed="#P" n="25"/>urbis instar admirabilem.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e627">
+          Quod vero exage<lb ed="#P" break="no" n="26"/>ras
+          horrendum crimen quo (scilicet) viuos ho<lb ed="#P" break="no" n="27"/>mines
+          immolabant, vide quid ibidem sub<lb ed="#P" break="no" n="28"/>ijciat
+          <name xml:id="lca8s8-d1e92-Nd1e635">Jouius</name>. <quote xml:id="lca8s8-d1e92-Qd1e637">Mexicanae genti superisviuos 
+            <lb ed="#P" n="29"/>homines sed maleficijs damnatos immolare 
+            <lb ed="#P" n="30"/>fas est</quote>. De gentis ingenio quid asserat? <quote xml:id="lca8s8-d1e92-Qd1e645">Cortesio 
+              <pb ed="#P" n="25-r"/>
+              <lb ed="#P" n="1"/>non omnino difficile fuit gentem <add place="above-line" hand="B">per se </add>ingeniosam 
+              <lb ed="#P" n="2"/>et docilem ad christi cultum abdicatis idolorum 
+              <lb ed="#P" n="3"/>superstitionibus traduxisse. Litteras enim jam 
+              <lb ed="#P" n="4"/>nostras libenter et admiranter discunt vejectis 
+              <lb ed="#P" n="5"/>hierogliphicis imaginibus: quibus annales 
+              <lb ed="#P" n="6"/>conscribere solebant varijs picturis regum suo<lb ed="#P" break="no" n="7"/>rum
+              memoriam posteris tradentes.</quote> 
+          <add place="rm" hand="F">Scribunt ele
+            gantissime et 
+            libros in membranis 
+            pro choro 
+            religiosorum cum 
+            puncto depingunt 
+            artificiose</add>
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e672">
+          <lb ed="#P" n="8"/>¶ Haec te tantae eruditionis virum in asseren<lb ed="#P" break="no" n="9"/>da
+          veritate imitari decuit: non ad leuissimorum 
+          <lb ed="#P" n="10"/>hominum susurros stricto calami mucrone 
+          <lb ed="#P" n="11"/>libellum famosum: in immensum terrarum 
+          <lb ed="#P" n="12"/>orbem inhabitantes indos scribere. Citas no<lb ed="#P" break="no" n="13"/>bis
+          <ref xml:id="lca8s8-d1e92-Rd1e687"><name xml:id="lca8s8-d1e92-Nd1e688">Ouiedi</name> <title>Hystoriam</title> a regio senatu appro<lb ed="#P" break="no" n="14"/>batam.
+            quasi <name xml:id="lca8s8-d1e92-Nd1e694">Ouiedus</name> vt ipse libro 6o, c. 8o</ref> 
+          <lb ed="#P" n="15"/>testatur, non fuerit immanis quidam ty<lb ed="#P" break="no" n="16"/>ranus
+          qui miseros indos seruitute oppressos 
+          <lb ed="#P" n="17"/>tamquam pecora possidebat: et magnam contine<lb ed="#P" break="no" n="18"/>ntis
+          partem caeteros predones secutus diruit, 
+          <lb ed="#P" n="19"/>aut quasi Senatus cum librum probat videa<lb ed="#P" break="no" n="20"/>tur
+          probare etiam mendacia omnia in eo con<lb ed="#P" break="no" n="21"/>tenta,
+          aut <del rend="strikethrough" hand="B">quasi senatus cum librum appro<lb ed="#P" break="no" n="22"/>babit</del>
+          sciuerit an vera essent quae ibi conti<lb ed="#P" break="no" n="23"/>nebantur?
+          Cui fidem adhibes inimico et 
+          <lb ed="#P" n="24"/>ei cuius causa agebatur. possidebat enim 
+          <lb ed="#P" n="25"/>ille certum indorum numerum sicut caeteri tyrani.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e725">
+          ¶ Ex his apparet fundamentum Sepulue<lb ed="#P" break="no" n="26"/>dae,
+          qui has gentes rudes et stupidas esse do<lb ed="#P" break="no" n="27"/>cet
+          falso falsius esse. 
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e732">
+          Demus tamen hanc 
+          <lb ed="#P" n="28"/>gentem non valere ingenij acumine et soler<lb ed="#P" break="no" n="29"/>ti
+          industria. certe non ideo tenentur sese 
+          <pb ed="#P" n="25-v"/>
+          <lb ed="#P" n="1"/>sapientioribus subijcere et corum ingenium am<lb ed="#P" break="no" n="2"/>plecti,
+          ita vt si recusent bello illato perdoma<lb ed="#P" break="no" n="3"/>ri
+          possint; et tamquam mancipia quod hodie 
+          <lb ed="#P" n="4"/>fit subigi.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e751">
+          Multa enim tenentur homines 
+          <lb ed="#P" n="5"/>facere lege naturali quae si impleri nolint: 
+          <lb ed="#P" n="6"/>non possunt ad ea facienda compelli. Lege 
+          <lb ed="#P" n="7"/>naturali tenemur virtutem amplecti et pio<lb ed="#P" break="no" n="8"/>rum
+          virorum integritatem imitari: nemo tamen 
+          <lb ed="#P" n="9"/>punitur quod pessimus sit nisi sit seditiosus: 
+          <lb ed="#P" n="10"/>fidem catholicam, vbi modo christiano et vt 
+          <lb ed="#P" n="11"/>decet predicata fuerit: omnes homines te<lb ed="#P" break="no" n="12"/>nentur
+          lege naturali suscipere: nemo tamen 
+          <lb ed="#P" n="13"/>cogitur ad suscipiendum fidem christi. Ne<lb ed="#P" break="no" n="14"/>mo
+          punitur quod vitijs obrutus sit nisi sit 
+          <lb ed="#P" n="15"/>seditiosus vel injurius rebus vel personis ho<lb ed="#P" break="no" n="16"/>minum:
+          nemo cogitur virtutem amplecti 
+          <lb ed="#P" n="17"/>et bonum virum sese prestare. Qui accipit 
+          <lb ed="#P" n="18"/>beneficium lege naturali tenetur beneficium 
+          <lb ed="#P" n="19"/>reponere obligatione quae dicitur ad antido<lb ed="#P" break="no" n="20"/>ta:
+          nemo tamen ad id cogitur: neque, si omit<lb ed="#P" break="no" n="21"/>tat,
+          puni<del rend="strikethrough" hand="B">a</del>tur juxta receptam jureconsultorum 
+          <lb ed="#P" n="22"/>traditionem in <ref xml:id="lca8s8-d1e92-Rd1e795">l. ex hoc jure</ref> ff <ref xml:id="lca8s8-d1e92-Rd1e797">de justitia 
+            <lb ed="#P" n="23"/>et jure</ref> et in <ref xml:id="lca8s8-d1e92-Rd1e802">l. sed et si lege § consuluit</ref> 
+          <lb ed="#P" n="24"/>ff. <ref xml:id="lca8s8-d1e92-Rd1e807">de petitione haereditatis.</ref> 
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e810">
+          <lb ed="#P" n="25"/>¶ Subuenire egestati fratris plum opus est 
+          <lb ed="#P" n="26"/>ad quod natura homines procliues foecit et 
+          <lb ed="#P" n="27"/>obligat: nemo tamen ad prestandam elemo<lb ed="#P" break="no" n="28"/>sinam
+          cogitur. Sed de his vide quae ibi in<lb ed="#P" break="no" n="29"/>fra
+          capito <space quantity="3" unit="chars"/>latius dicuntur. Ergo nullus 
+          <lb ed="#P" n="30"/>etiam vere sapiens: potest cogere barbarum 
+          <lb ed="#P" n="31"/>stupidum vt sese sibi subigat citra iniu<pb ed="#P" n="26-r"/><lb ed="#P" break="no" n="1"/>riam:
+          presertim committendo libertatem: quod 
+          <lb ed="#P" n="2"/>miseri indi <sic>suma</sic> injuria contra diuina 
+          <lb ed="#P" n="3"/>et humana jura omnia patiuntur: et contra 
+          <lb ed="#P" n="4"/>ipsam legem naturae. Neque enim facien<lb ed="#P" break="no" n="5"/>dum
+          est malum, vt inde bonum oriatur. 
+          <lb ed="#P" n="6"/>Quemadmodum si quis alium inuitum cas<lb ed="#P" break="no" n="7"/>trasset.
+          licet enim castrati rei venereae quae 
+          <lb ed="#P" n="8"/>furore adigit humanas mentes subtrahun<lb ed="#P" break="no" n="9"/>tur:
+          ille tamen qui hominem castrat gra<lb ed="#P" break="no" n="10"/>uissime
+          punitur, vt in <ref xml:id="lca8s8-d1e92-Rd1e854">l. si seruum § et 
+          <lb ed="#P" n="11"/>si puerum ff ad legem corneliam</ref> et in <ref xml:id="lca8s8-d1e92-Rd1e859">l. 3 
+          <lb ed="#P" n="12"/>§ qui hominem</ref> et in <ref xml:id="lca8s8-d1e92-Rd1e864">l. 4</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e867">
+          <lb ed="#P" n="13"/>¶ Quod si 
+          <lb ed="#P" n="14"/>hoc absurdissimo argumento bellum in in<lb ed="#P" break="no" n="15"/>dos
+          licitum esset, <add place="rm" hand="F">notandum</add> gens in gentem et homo 
+          <lb ed="#P" n="16"/>in hominem insurgeret: et opinione prestan<lb ed="#P" break="no" n="17"/>tioris
+          sapientiae: alterum sibi subigendum 
+          <lb ed="#P" n="18"/>contenderet. Hoc etiam lemate, Turcae, et Ma<lb ed="#P" break="no" n="19"/>uri
+          gentium vere barbara colluuies: optimo 
+          <lb ed="#P" n="20"/>jure et juxta naturae legem <add place="above-line" hand="B">indis</add> bellum <add place="above-line" hand="B">in ferre possunt</add> quod 
+          <lb ed="#P" n="21"/>(ut quibusdam videtur) recta reipublicae cons<lb ed="#P" break="no" n="22"/>titutione
+          nobis prestent. Non ne si hoc ad<lb ed="#P" break="no" n="23"/>mittimus:
+          sursum deorsumque diuinaque hu<lb ed="#P" break="no" n="24"/>manaque
+          omnia miscebuntur? Quid magis 
+          <lb ed="#P" n="25"/>aduersum eternae legi quam quod <name xml:id="lca8s8-d1e92-Nd1e906">Sepulueda</name> 
+          <lb ed="#P" n="26"/>frequenter ostentat: proferri potest? aut 
+          <lb ed="#P" n="27"/>quae pestis magis est execranda? Opinor <name xml:id="lca8s8-d1e92-Nd1e913">Se<lb ed="#P" break="no" n="28"/>puluedam</name>
+          pro sua modestia: existimare 
+          <lb ed="#P" n="29"/>Hyspaniam alios habere se prudentiores.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e921">
+          <lb ed="#P" n="30"/>Ergo cogendus est sese illis subijcere lege 
+          <lb ed="#P" n="31"/>eterna. Et quidem lex eterna admirabili 
+          <lb ed="#P" n="32"/>ratione et ordine cuncta disposuit distinxitque.
+          <pb ed="#P" n="26-v"/>
+          <lb ed="#P" n="1"/>Regna a regnis et gentes a gentibus diuisit 
+          <lb ed="#P" n="2"/>juxta illud <ref xml:id="lca8s8-d1e92-Rd1e936">Deuteronomij</ref> <quote xml:id="lca8s8-d1e92-Qd1e938" source="http://scta.info/resource/deut32_8@1-8">quando diuide<lb ed="#P" break="no" n="3"/>bat
+            altissimus gentes: et separabat filios 
+            <lb ed="#P" n="4"/>Adam</quote>. Prefecit etiam vnaquaeque gens 
+          <lb ed="#P" n="5"/>sibi rectorem, et gubernatores diuino afla<lb ed="#P" break="no" n="6"/>tu
+          juxta illud <ref xml:id="lca8s8-d1e92-Rd1e949">Ecclesiastici 17</ref> <quote xml:id="lca8s8-d1e92-Qd1e952" source="http://scta.info/resource/sir17_15@1-5">in vnam quamque 
+            <lb ed="#P" n="7"/>gentem posuit rectorem</quote>. quicumque enim 
+          <lb ed="#P" n="8"/>reges vel gubernatores sunt etiam apud 
+          <lb ed="#P" n="9"/>barbaros: ministri dei sunt. quod <ref xml:id="lca8s8-d1e92-Rd1e961">diu<lb ed="#P" break="no" n="10"/>ina
+            sapientia 8o Prouerbiorum</ref> docet: <quote xml:id="lca8s8-d1e92-Qd1e966" source="http://scta.info/resource/prov22_28@1-8 http://scta.info/resource/prov8_16@1-8">per me re<lb ed="#P" break="no" n="11"/>ges
+              regnant, et legum conditores ju<subst hand="F"><del rend="strikethrough">x</del><add place="above-line">s</add></subst>ta
+              <lb ed="#P" n="12"/>decernunt: per me principes imperant, et 
+              <lb ed="#P" n="13"/>potentes decernunt justitiam</quote>.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e982">
+          Et quicumque 
+          <lb ed="#P" n="14"/>reges vel gubernatores non gubernantes recto 
+          <lb ed="#P" n="15"/>ordine sibi subditos, barbari vel greci, fide<lb ed="#P" break="no" n="16"/>les
+          vel infideles: transgressores sunt legis 
+          <lb ed="#P" n="17"/>eternae. Et illius transgressionis habent 
+          <lb ed="#P" n="18"/>deum ultorem judicem.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e995"> 
+          Cum ergo unaque<lb ed="#P" break="no" n="19"/>que
+          gens lege eterna rectorem vel principem 
+          <lb ed="#P" n="20"/>habeat: non est quod gens sub pretextu sapi<lb ed="#P" break="no" n="21"/>entiae
+          aliam impetat: neque aliena regna 
+          <lb ed="#P" n="22"/>diruat. facit enim contra legem eternam: 
+          <lb ed="#P" n="23"/>quam legimus <ref xml:id="lca8s8-d1e92-Rd1e1008">prouerbiorum 22</ref> <quote xml:id="lca8s8-d1e92-Qd1e1010" source="http://scta.info/resource/prov22_28@1-8">ne transgre<lb ed="#P" break="no" n="24"/>diaris
+          terminos antiquos quos pos<subst hand="B"><del rend="strikethrough">sid</del><add place="above-line">u</add></subst>erunt 
+          <lb ed="#P" n="25"/>patres tui</quote>. Hic non est actus sapientiae sed 
+          <lb ed="#P" n="26"/>iniquitatis et falsus pretextus aliena 
+          <lb ed="#P" n="27"/>diripiendi. Vnde quaelibet gens quantumcumque 
+          <lb ed="#P" n="28"/>barbara: potest sese defendere a sapientiori qui 
+          <lb ed="#P" n="29"/>illam subigere et priuare libertate velit: immo 
+          <lb ed="#P" n="30"/>vero licite potest sapientiorem occidendo punire 
+          <lb ed="#P" n="31"/>tamquam saeuum et violentum contra legem na<pb ed="#P" n="27-r"/><lb ed="#P" break="no" n="1"/>turae
+          inferentem injuriam. Et hoc bellum cer<lb ed="#P" break="no" n="2"/>te
+          justius est: quam illud quod sub nomine sapi<lb ed="#P" break="no" n="3"/>entiae
+          illis infertur.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e1045">
+          ¶ Profert <name xml:id="lca8s8-d1e92-Nd1e1047">Sepulueda</name> aliud argumentum (scilicet) quod imperfectiora 
+          <lb ed="#P" n="4"/>perfectioribus natura cedunt veluti mate<lb ed="#P" break="no" n="5"/>ria
+          formae: corpus animae, sensus rationi: 
+          <lb ed="#P" n="6"/>quod quidem haud nego: illud tamen ve<lb ed="#P" break="no" n="7"/>rum
+          est, quando duae res natura conjunctae 
+          <lb ed="#P" n="8"/>sunt in actu primo. Veluti quando mate<lb ed="#P" break="no" n="9"/>ria
+          et forma quae dat esse rei concurrunt 
+          <lb ed="#P" n="10"/>in unum. Item quando corpus et anima 
+          <lb ed="#P" n="11"/>conglutinantur et animal efficiunt: sensus<lb ed="#P" break="no" n="12"/>que
+          et ratio in eodem subiecto existunt: si 
+          <lb ed="#P" n="13"/>tamen perfectum et imperfectum separata 
+          <lb ed="#P" n="14"/>sunt et circa diuersa subiecta existunt: 
+          <lb ed="#P" n="15"/>tunc imperfecta non cedunt perfectioribus. 
+          <lb ed="#P" n="16"/>Nondum enim sunt conjuncta in actu 
+          <lb ed="#P" n="17"/>primo: et juxta hanc distinctionem si in 
+          <lb ed="#P" n="18"/>unummet reipublicae corpus vel sub eodem 
+          <lb ed="#P" n="19"/>principe vel gubernatore sapientes et stul<lb ed="#P" break="no" n="20"/>tiviuerent:
+          tunc stulti sapientiorum qui 
+          <lb ed="#P" n="21"/>rempublicam gubernant arbitrio sese sub<lb ed="#P" break="no" n="22"/>mittere
+          debent: puta regi vel eius legibus 
+          <lb ed="#P" n="23"/>vel gubernatoribus: quod si recusarent licite pos<lb ed="#P" break="no" n="24"/>set
+          in eos vis admoueri et <add place="above-line" hand="B">possent</add> puniri. Hoc enim 
+          <lb ed="#P" n="25"/>dictat lex naturae. Alioquin nulla persona 
+          <lb ed="#P" n="26"/>libera et longe <subst hand="B"><del rend="strikethrough">amplius</del><add place="above-line">minus</add></subst> populus liber: tenetur 
+          <lb ed="#P" n="27"/>se subijcere alicui vel regi vel genti quantum<lb ed="#P" break="no" n="28"/>cumque
+          prudentia prestiterit, et ex illo utili<lb ed="#P" break="no" n="29"/>tas
+          sibi credat esse prouentura. Hanc con<lb ed="#P" break="no" n="30"/>clusionem
+          tradit in hac ipsa specie quando scilicet
+          <pb ed="#P" n="27-v"/>
+          <lb ed="#P" n="1"/>imperfecta perfectioribus ced<subst hand="B"><del rend="strikethrough">ant</del><add place="above-line">unt</add></subst>, <ref xml:id="lca8s8-d1e92-Rd1e1127"><name xml:id="lca8s8-d1e92-Nd1e1128">Augusti<lb ed="#P" break="no" n="2"/>nus
+            de Anchona</name> liber <title>de potestate papae</title> q. 22 
+            <lb ed="#P" n="3"/>a. 7</ref>. Et <ref xml:id="lca8s8-d1e92-Rd1e1138"><name xml:id="lca8s8-d1e92-Nd1e1139">Egidius Romanus</name> super 2o sententiarum 
+              <lb ed="#P" n="4"/>dist. 44 a. 2o</ref> nulla igitur gens libera 
+          <lb ed="#P" n="5"/>cogi potest sese sapientiori genti submi<lb ed="#P" break="no" n="6"/>tere
+          etiam si in magnam eorum utilitatem 
+          <lb ed="#P" n="7"/>talis submissio cedere posset.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e1152">
+          <ref xml:id="lca8s8-d1e92-Rd1e1154"><name xml:id="lca8s8-d1e92-Nd1e1155">Philosophus</name> 1o 
+            <lb ed="#P" n="8"/><title>politicorum</title></ref> dum profert argumentum de ma<lb ed="#P" break="no" n="9"/>teria
+          quae formae cedit: nihil aliud vult 
+          <lb ed="#P" n="10"/>significare quam naturam genuisse homines ap<lb ed="#P" break="no" n="11"/>tos
+          per innatam prudentiam vt alios pos<lb ed="#P" break="no" n="12"/>sint
+          gubernare qui tanta ingenij facultate 
+          <lb ed="#P" n="13"/>non sunt prediti. Docet autem huiusmo<lb ed="#P" break="no" n="14"/>di
+          prudentiores reipublicae clauo admouen<lb ed="#P" break="no" n="15"/>dos
+          ad reipublicae conseruationem et vtilita<lb ed="#P" break="no" n="16"/>tem:
+          quibus caeteri oportet vt sint subiecti si<lb ed="#P" break="no" n="17"/>cut
+          materia est subiecta formae et animae 
+          <lb ed="#P" n="18"/>corpus.
+        </p>
+        <p xml:id="lca8s8-d1e92-d1e1182">
+          <lb ed="#P" n="19"/>¶ Postremum argumentum <name xml:id="lca8s8-d1e92-Nd1e1186">Sepuluedae:</name> 
+          <lb ed="#P" n="20"/>quod (scilicet) quiuis potest cogi et inuitus facere 
+          <lb ed="#P" n="21"/>ea quae sibi vtilia sunt: si absolute haec propo<lb ed="#P" break="no" n="22"/>sitio
+          sumatur falsissima est. <ref xml:id="lca8s8-d1e92-Rd1e1195"><name xml:id="lca8s8-d1e92-Nd1e1196">Augustinus</name> 
+            <lb ed="#P" n="23"/>enim quem citat loquitur</ref> de his qui rem 
+          <lb ed="#P" n="24"/>sibi utilem promiserant, et non prestabant 
+          <lb ed="#P" n="25"/>cum damno vel injuria caeterorum. Nimirum 
+          <lb ed="#P" n="26"/>loquitur de hereticis, quos Ecclesia cogit pres<lb ed="#P" break="no" n="27"/>tare
+          vota quae in baptismo vouerunt: non 
+          <lb ed="#P" n="28"/>tantum quia sibi utilia sunt; sed precipue 
+          <lb ed="#P" n="29"/><quote xml:id="lca8s8-d1e92-Qd1e1213">quia promiserunt et vouerunt illa deo: et 
+            <lb ed="#P" n="30"/>ex promissione peculiari quadam obligatione 
+            <lb ed="#P" n="31"/>tenentur</quote>. Non enim sufficeret illa sibi esse
+          <pb ed="#P" n="28-r"/>vtilia. Videmus enim neminem infidelem co<lb ed="#P" break="no" n="1"/>gi
+          ad suscipiendum baptismum. Ex doctrina 
+          <lb ed="#P" n="2"/>autem dicti <name xml:id="lca8s8-d1e92-Nd1e1226">Augustini</name> colligunt doctores quod ad 
+          <lb ed="#P" n="3"/>bonum promissum potest et debet quis com<lb ed="#P" break="no" n="4"/>pelli
+          non autem ad bonum non promissum. 
+          <lb ed="#P" n="5"/>Sed de hoc plurima infra sunt discutienda.
+        </p> 
+      </div>
     </body>
   </text>
 </TEI>

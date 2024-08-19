@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 6 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 6 [Bnf 12926 Transcription]</title>
+          <date when="2024-08-08">August 8, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="31-r"/>
+      </div>
+    </front>
+    <body>
+      <div>
+		<head>Caput 6 [Bnf 12926 Transcription]</head>
+		<p>
+			<lb ed="7"/>Capvt 6m
+			<lb ed="#P"/>
+			<add place="lm" hand="F">Redditur ad secundum argumentum vel causam doctoris Sepuluedae</add>
+			Secundum argumentum quo Sepulueda bellum 
+			<lb ed="#P"/>aduersus indos probat: est vt puniatur scelus 
+			<lb ed="#P"/>idolatriae, et immolandi superis viuos homines 
+			<lb ed="#P"/>quo ea gens deum offendit. Hic, vt in aliis labi<lb ed="#P" break="no"/>tur
+			profecto Sepulueda quaedam erronea sup<lb ed="#P" break="no"/>ponens:
+			quaedam vero exprimens.
+		</p>
+		<p>
+			Quod vt mani<lb ed="#P" break="no"/>festius
+			sit supponendum est. Tunc nos posse 
+			<lb ed="#P"/>punire peccata infidelium vel ipsos nostra: qu
+			<lb ed="#P"/>ando vel nos ipsis, vel illi nobis subditi sunt:
+			<lb ed="#P"/>vel de foro nostro efficiuntur. Hoc autem quatuor 
+			<lb ed="#P"/>de causis cuenit primo, ratione domicilij siue 
+			<lb ed="#P"/>ratione habitationis puta si habitent inter chris<lb ed="#P" break="no"/>tianos.
+			vel, ratione originis, siue eius de cuius 
+			<lb ed="#P"/>causa tractatur vel patrum eius. Et qui ex huiusmodi 
+			<lb ed="#P"/>causis jurisdictioni nostrae subiectus est dicitur 
+			<lb ed="#P"/>proprie subditus. Tertio censetur quis nobis 
+			<lb ed="#P"/>subditus ex eo quod vasallus est et verbis rite con<lb ed="#P" break="no"/>ceptis
+			nobis fidelitatem jurauit: ratione alicu<lb ed="#P" break="no"/>ius
+			feudi ex quo nobis operas debet. quarto 
+			<lb ed="#P"/>ratione delicti commissi in ditione alicuius vel 
+			<lb ed="#P"/>contra ipsum dominum vel contra res vel perso<lb ed="#P" break="no"/>nas
+			subditorum eius. Item sortitur quis forum 
+			<lb ed="#P"/>ratione contractus vel ratione rei vt puta si ex<lb ed="#P" break="no"/>terus
+			predium possidet intra ditionem alicuius 
+			<pb ed="#P" n="31-v"/>
+			<lb ed="#P"/>principis: nam ratione eius rei censetur esse 
+			<lb ed="#P"/>de foro illius.
+		</p>
+		<p>
+			Hi non omnes sunt proprie subditi sed ex ac<lb ed="#P" break="no"/>cidenti:
+			ratione (scilicet) rei vel contractus: pos<lb ed="#P" break="no"/>sunt
+			conueniri a judice a cuius imperio le<lb ed="#P" break="no"/>gitime
+			liberi sunt.
+		</p>
+		<p>
+			Ad primam subditorum 
+			<lb ed="#P"/>speciem pertinent Judaei et Mauri incolentes 
+			<lb ed="#P"/>christianorum principum regna. Tenentur enim 
+			<lb ed="#P"/>vti et subijci legibus temporalibus qu<subst hand="B"><del rend="strikethrough">o</del><add place="above-line">ibus</add></subst> caeteri 
+			<lb ed="#P"/>regni incolae: et transgredientes leges per eas 
+			<lb ed="#P"/>puniuntur vt per doctores in <ref>c. 1o de cons<lb ed="#P" break="no"/>titutionibus</ref>
+			et <ref>C. de legibus et constitutionibus principum</ref> et <ref>de foro 
+			<lb ed="#P"/>competenti c. finali</ref>. Quod vero attinet ad religionem 
+			<lb ed="#P"/>et res spirituales, siue sint Judaei siue macho<lb ed="#P" break="no"/>metani,
+			siue idolorum cultores: minime subdi<lb ed="#P" break="no"/>ti
+			sunt ecclesiae, neque eius membris (scilicet) 
+			<lb ed="#P"/>christianis principibus: et ideo ritus suos ce<lb ed="#P" break="no"/>lebrantes
+			et obseruantes: minime puniri pos<lb ed="#P" break="no"/>sunt
+			a principibus christianis. Carent enim 
+			<lb ed="#P"/>jurisdictione hac in parte quia illa scelera 
+			<lb ed="#P"/>etsi grauissima in se existant et abominabilia: 
+			<lb ed="#P"/><del rend="strikethrough">sunt per homi</del>non tamen punibilia sunt per 
+			<lb ed="#P"/>homines vt notatur per doctores canonistas 
+			<lb ed="#P"/>et infra probabitur.
+		</p>	
+		<p>
+			Nunc diseramus de in<lb ed="#P" break="no"/>fidelibus
+			incolentibus regna infidelibus prin<lb ed="#P" break="no"/>cipibus
+			subdita, ut sunt africani Mauri, 
+			<lb ed="#P"/>Turcae, scythae, Persae, et hi de quibus controuer<lb ed="#P" break="no"/>sia
+			est indi: et certe quantumuis horrenda cri<lb ed="#P" break="no"/>mina
+			apud se ac intra territoria sua contra 
+			<lb ed="#P"/>deum committant vel etiam circa religionem: 
+			<lb ed="#P"/>neque ecclesia neque principes christiani pos<lb ed="#P" break="no"/>sunt
+			de eis cognoscere, neque illorum ratione eos 
+			<pb ed="#P" n="32-r"/>punire. Carent enim jurisdictione quae est omnium 
+			<lb ed="#P"/>actuum judicionalium fundamentum necessa<lb ed="#P" break="no"/>rium
+			precipue ad puniendum aliquem. Ergo 
+			<lb ed="#P"/>ibi caesar princeps vel rex jurisdictionem 
+			<lb ed="#P"/>non habet: sed priuatus homo censetur et 
+			<lb ed="#P"/>omnia ab eo gesta nullius momenti sunt. vt 
+			<lb ed="#P"/>in <ref>l. preses l. 2a ff de officio presidis</ref> <ref>l. priu<lb ed="#P" break="no"/>atorum
+			C: de jurisdictione omnium judicum</ref>. <ref>c. signi<lb ed="#P" break="no"/>ficantibus:
+			de officio delegati</ref> <ref>Innocentius in 
+			<lb ed="#P"/>c. super litteris: de rescriptis</ref>. prolixius <ref>An<lb ed="#P" break="no"/>charranus
+			in regula ea quae, de regulis iuris 
+			<lb ed="#P"/>in 6o super verbo Judice</ref>. Hereticorum diuer<lb ed="#P" break="no"/>sa
+			ratio est. Hi enim non solum ratione 
+			<lb ed="#P"/>domicilij originis contractus et d<subst hand="A vel B"><del rend="strikethrough">i</del><add place="inline">e</add></subst>l<subst hand="A vel B"><del rend="strikethrough">e</del><add place="inline">i</add></subst>cti sub<lb ed="#P" break="no"/>cti sub<lb ed="#P" break="no"/>diti
+			sunt principibus christianis, ve<subst hand=""><del rend="strikethrough"></del><add place="above-line">rum</add></subst>rum 
+			<lb ed="#P"/>etiam ratione voti et obedientiae promissae 
+			<lb ed="#P"/>quae in baptismo deo et catholicae ecclesiae voue<lb ed="#P" break="no"/>runt
+			et promiserunt; quae cum non prestent 
+			<lb ed="#P"/>jure optimo castigantur a principibus et le<lb ed="#P" break="no"/>gibus
+			tam pontificijs quam etiam caesareis vt 
+			<lb ed="#P"/>ex pluribus vtriusque juris locis manifestissi<lb ed="#P" break="no"/>mum
+			est. 
+		</p>
+		<p>
+			¶ Si autem (quod dominus vetet) contingat 
+			<lb ed="#P"/>gentem christianam sub infidelium iugo 
+			<lb ed="#P"/>viuere vel eorum dictionem incolere: certe jure 
+			<lb ed="#P"/>naturali et diuino tenerentur politicas et ad 
+			<lb ed="#P"/>rempublicam pertinentes eorum leges ob<lb ed="#P" break="no"/>seruare;
+			dum modo impium non reddant hominem 
+			<lb ed="#P"/>vel iniurium in deum: ita probatur ex <ref>Paulo 
+			<lb ed="#P"/>ad Romanos 13o</ref> ex <ref>1a ad Thimotheum 6</ref> et <ref>ad 
+			<lb ed="#P"/>Titum 3o</ref> et ex alijs locis.
+		</p>
+		<p>
+			<pb ed="#P" n="32-v"/>
+			<lb ed="#P"/>¶ Hoc in capite et in sequentibus probabimus 
+			<lb ed="#P"/>infideles qui nunquam Christi fidem induerunt 
+			<lb ed="#P"/>neque christianis subditi sunt: non posse a 
+			<lb ed="#P"/>christianis vel etiam ab ecclesia propter ulla quan<lb ed="#P" break="no"/>tumuis
+			atrocia crimina puniri. Hoc proba<lb ed="#P" break="no"/>tur
+			primo. quoniam infideles qui nunquam 
+			<lb ed="#P"/>christi fidem susceperunt non sunt actua<lb ed="#P" break="no"/>liter
+			subditi christo. ergo nec ecclesiae nec de 
+			<lb ed="#P"/>foro cius. probatur antecedens. Quamuis enim chris<lb ed="#P" break="no"/>to
+			ab eterno doctore super omnes gentes vel fideles vel 
+			<lb ed="#P"/>infideles data sit potestas in 
+			<lb ed="#P"/>coelo et in terra juxta illud <ref>Matthei ultimo</ref>: 
+			<lb ed="#P"/><quote>data est mihi omnis potestas in coelo et in 
+			<lb ed="#P"/>terra</quote>, et ita omnes orbis gentes ei subditae 
+			<lb ed="#P"/>sint autoritate et potestate quam ab eterno pa<lb ed="#P" break="no"/>tre
+			non solum inquantum deus: sed et inquantum 
+			<lb ed="#P"/>homo accepit super omnem creaturam: non 
+			<lb ed="#P"/>tamen subduntur ei omnes actu vel effectu. 
+			<lb ed="#P"/>nec quantum ad executionem suae potestatis. 
+			<lb ed="#P"/>Quantum ad actum et effectum quidem 
+			<lb ed="#P"/>ex parte ipsorum. quoniam infideles et peccatores 
+			<lb ed="#P"/>homines propter infidelitatem et rebellionem pro<lb ed="#P" break="no"/>priae
+			voluntatis: non subdunt sese ei pres<lb ed="#P" break="no"/>tando
+			christianam pietatem juxta illud 
+			<lb ed="#P"/>ad <ref>Romanos 10o</ref>: <quote>Sed non omnes obediunt euan<lb ed="#P" break="no"/>gelio</quote>.
+			Et <ref>Exodi 10o</ref> <quote>vsque quo non vis mihi 
+			<lb ed="#P"/>subijci</quote>.
+		</p>
+		<p>
+			Tales ergo cum christum non ag<lb ed="#P" break="no"/>noscant
+			vel mandatis eius non obediant: 
+			<lb ed="#P"/>non sunt ei subditi actu, vel quoad opera 
+			<lb ed="#P"/>sed in potentia: erunt autem actu et effectu 
+			<lb ed="#P"/>cum regenerati per baptismum, ad ouile chris<pb ed="#P" n="33-r"/><lb ed="#P" break="no"/>ti
+			sese contulerint, vel ad charitatem 
+			<lb ed="#P"/>per gratiam redierint. Sed quantum ad exe<lb ed="#P" break="no"/>cutionem
+			huius potestatis Christo concessae 
+			<lb ed="#P"/>et ex parte ipsius christi: suspendit ipse 
+			<lb ed="#P"/>misericors dominus: in diem mortis cu<lb ed="#P" break="no"/>iusque
+			vel in diem judicij: in quo vnicuique 
+			<lb ed="#P"/>retribuet juxta opera sua. Et faciet cum 
+			<lb ed="#P"/>effectu de omnibus suam voluntatem. 
+			<lb ed="#P"/>In hac autem vita non vtitur hoc suo iure 
+			<lb ed="#P"/>tum quia cum res omnes creatas presertim 
+			<lb ed="#P"/>creaturas rationales suauiter moueat 
+			<lb ed="#P"/>et dirigat in suos actus quia mitis et sua<lb ed="#P" break="no"/>uis:
+			non vult quemquam cogi sibi obsequium 
+			<lb ed="#P"/>debitum prestare: sed libero suo arbitrio re<lb ed="#P" break="no"/>linqui
+			vt libens volensque pulset, vt ei 
+			<lb ed="#P"/>aperiatur. Tum quia cum homo propria 
+			<lb ed="#P"/>voluntate sibi exitium pepererit: congruum 
+			<lb ed="#P"/>etiam est illum salutem consequi sua volun<lb ed="#P" break="no"/>tate
+			aspirante <ref>diuina gratia ut in c. de 
+			<lb ed="#P"/>iudaeis, 45a distinctione</ref>; et in <ref>c. non est is q. 1</ref>) 
+			<lb ed="#P"/>ibi <quote>voluntarium sibi militem elegit christus</quote>.
+		</p>	
+		<p>
+			Ergo cum infidelis sponte suscipit 
+			<lb ed="#P"/>baptismum. tunc actu, et effectu subijcit 
+			<lb ed="#P"/>sese jurisdictioni christi; et jam peculia<lb ed="#P" break="no"/>ri
+			quadam ratione subditus est: nimirum 
+			<lb ed="#P"/>ex voto et solemni promissione quam et quod 
+			<lb ed="#P"/>in baptismo vouit et promisit seruandi legem 
+			<lb ed="#P"/>christi reiecto pristino domino (scilicet) 
+			<lb ed="#P"/>demone cuius seruus et subditus erat vt 
+			<lb ed="#P"/>in <ref>c. baptizatus</ref> et in <ref>c. ante baptismum
+			<pb ed="#P" n="33-v"/>
+			<lb ed="#P"/>in fine</ref>. Et <ref>in c. ab antiqua</ref>. Et in <ref>c. Postquam 
+			<lb ed="#P"/>ascendit</ref>. et in <ref>c. nulli est</ref>. et in <ref>c. ad hoc 
+			<lb ed="#P"/>baptizatus: de consecratione distinctione 4a</ref>.
+		</p>	
+		<p>
+			Qui ergo 
+			<lb ed="#P"/>baptizatur duo consequitur priuilegia primo 
+			<lb ed="#P"/>efficitur de grege Christi et eius seruus in ob<lb ed="#P" break="no"/>sequium
+			fidei obligatus firmiter obseruare 
+			<lb ed="#P"/>legem christi, et pro ea mortem etiam per<lb ed="#P" break="no"/>peti
+			<ref>c. firmiter de suma triniate</ref>, Et in <ref>sim<lb ed="#P" break="no"/>bolo
+			Athanasij</ref>. Deinde anumeratur et as<lb ed="#P" break="no"/>cribitur
+			orthodoxis hoc est catholicae ecclesiae, 
+			<lb ed="#P"/>factus membrum reipublicae christianae, ac 
+			<lb ed="#P"/>ciuis ciuitatis dei vt probatur <ref>ad Ephesios 2°</ref>: 
+			<lb ed="#P"/><quote>Iam non estis hospites et aduenae, sed estis 
+			<lb ed="#P"/>ciues sanctorum</quote>. Et sic deinceps accedere potest 
+			<lb ed="#P"/>ad sacrosanctam christi mensam ct roborari 
+			<lb ed="#P"/>ecclesiasticis sacramentis vt probatur <ref>ad Ephe<lb ed="#P" break="no"/>sios
+			4°</ref>. Docet <ref>S. Thomas 3a parte, q. 67a a. 
+			<lb ed="#P"/>23°</ref>. 
+		</p>
+		<p>
+			¶ Baptizatus ergo his priuilegijs rece<lb ed="#P" break="no"/>ptis
+			quasi in feudum subditus et vasallus 
+			<lb ed="#P"/>christi censsetur propter votum et promissionem 
+			<lb ed="#P"/>quam et quod in baptismo promittit. Vnde 
+			<lb ed="#P"/>baptismus dicitur sacramentum fidei vt 
+			<lb ed="#P"/>in <ref>c. nihil est aliud. de consecrtione, distinctione 4a</ref>. 
+			<lb ed="#P"/>Et hoc sacramentum facit hominem chris<lb ed="#P" break="no"/>tianum
+			peculiari ratione et nouo modo sub<lb ed="#P" break="no"/>ditum
+			christo <subst hand="B"><del rend="strikethrough">Et</del><add place="inline">qui</add></subst> acquirit nouum ius do<lb ed="#P" break="no"/>minij
+			super illum: vltra et preter vniuersa<lb ed="#P" break="no"/>le
+			quod ei competit inquantum deus et domi<lb ed="#P" break="no"/>nus
+			vniuersae creaturae: et preter potestatem 
+			<lb ed="#P"/>et autoritatem quam pater super omnem po<pb ed="#P" n="34-r"/><lb ed="#P" break="no"/>testatem
+			et principatum coeli et terrae con<lb ed="#P" break="no"/>tulit
+			ei inquantum homo: Exemplum sit: om<lb ed="#P" break="no"/>nes
+			homines tenentur adorare christum 
+			<lb ed="#P"/>adoratione latriae: sicuti verum deum <ref>ad 
+			<lb ed="#P"/>philipenses 2o</ref>. Si tamen quis peculiare votum 
+			<lb ed="#P"/>emitteret promittens adorare centies in die 
+			<lb ed="#P"/>christum: certe hic peculiari quadam et no<lb ed="#P" break="no"/>ua
+			ratione subditus est christo. Ex quo 
+			<lb ed="#P"/>infertur quod si christianus et paganus idem 
+			<lb ed="#P"/>crimen comittant: grauius peccat christia<lb ed="#P" break="no"/>nus:
+			nimirum actu subditus christo: Et 
+			<lb ed="#P"/>super hoc ex peculiari promissione. Ita pro<lb ed="#P" break="no"/>batur
+			<ref>ad hebraeos 10o</ref> et <ref>1a ad Thimotheum 5o</ref> 
+			<lb ed="#P"/>et in <ref>c. homo christianus 40a distinctione</ref>.
+		</p>	
+		<p>
+			Ergo 
+			<lb ed="#P"/>pagani qui numquam fidem receperunt sub<lb ed="#P" break="no"/>diti
+			voluntarij et actuales christi non sunt: 
+			<lb ed="#P"/>sed potentiales, non actu hoc est opere neque 
+			<lb ed="#P"/>peculiari ratione: hoc est noua promissione si<lb ed="#P" break="no"/>cut
+			christiani. Ex quibus apparet quod duplex 
+			<lb ed="#P"/>potestas tributa est christo inquantum est homo 
+			<lb ed="#P"/>altera quidem in actu respectu eorum qui eius 
+			<lb ed="#P"/>fidem tenent: et seruant per charitatem illius 
+			<lb ed="#P"/>mandata. Altera vero in habitu seu poten<lb ed="#P" break="no"/>tia.
+			Et haec pertinet ad eos qui illum non ag<lb ed="#P" break="no"/>noscunt
+			verum Deum vel non seruant eius 
+			<lb ed="#P"/>precepta. Haec duplex potestas probatur <ref>ad 
+			<lb ed="#P"/>hebraeos 2o</ref> ibi: <quote>en eo quod omnia ei subijcit ni<lb ed="#P" break="no"/>hil
+			dimisit non subiectum ei</quote>. Ecce potestas 
+			<lb ed="#P"/>christi collata habitualis. Subijcit apostolus: 
+			<lb ed="#P"/>nunc autem necdum videmus omnia subiecta 
+			<pb ed="#P" n="34-v"/>
+			<lb ed="#P"/>ei. 
+		</p>
+		<p>
+			Hic de subiectione actuali loquitur quod 
+			<lb ed="#P"/>autore <ref><name>diuo Thoma</name></ref> implebitur in futuro 
+			<lb ed="#P"/>seculo vt dictum fuit, et ita potestas actua<lb ed="#P" break="no"/>lis
+			futura est in illis. qui modo infideles sunt 
+			<lb ed="#P"/>et peccatores. Rursus <ref>1ae ad Corinthios 15o</ref>: 
+			<lb ed="#P"/><quote>omnia (inquit) subiecta sunt ei sine dubio 
+			<lb ed="#P"/>preter eum qui subiecit ei omnia</quote>. Ecce habi<lb ed="#P" break="no"/>tualis
+			potestas. subijcit apostolus: <quote>cum autem 
+			<lb ed="#P"/>subiecta fuerint illi omnia: tunc et ipse filius 
+			<lb ed="#P"/>subiectus erit ei</quote>. Ecce actualis futura. Simi<lb ed="#P" break="no"/>liter
+			<ref>ad Philipenses 3o</ref>: <quote>Secundum inquit opera<lb ed="#P" break="no"/>tionem
+			virtutis suae: qua etiam possit sibi 
+			<lb ed="#P"/>subijcere omnia</quote>. verum si possit ergo non facit. 
+			<lb ed="#P"/>Ergo aliqua actu non sunt subdita illi.
+		</p>	
+		<p>
+			Po<lb ed="#P" break="no"/>tentia
+			enim prout diuiditur contra actum est 
+			<lb ed="#P"/>principium actus vel operationis autore 
+			<lb ed="#P"/><ref>philosopho 5 metaphysicorum</ref> cum ergo dixit possit sub<lb ed="#P" break="no"/>iicere
+			omnia, <del rend="strikethrough" hand="A">solum</del> innuit tantum poten<lb ed="#P" break="no"/>tiam
+			et non actum. non autem quod est in 
+			<lb ed="#P"/>potentia dicitur esse in actu respectu eiusdem. 
+			<lb ed="#P"/>Ex quo infertur aliquam potentiam habi<lb ed="#P" break="no"/>tualem
+			esse in christo non reductam ad ac<lb ed="#P" break="no"/>tum.
+			ergo aliqua subiecta ei non sunt actua<lb ed="#P" break="no"/>liter.
+			Sed hoc dici non potest de potentia 
+			<lb ed="#P"/>habituali quia negaretur in christo aliqua 
+			<lb ed="#P"/>potestas esse: contra illud: <quote>data est mihi omnis 
+			<lb ed="#P"/>potestas</quote> et caetera. ergo intelligitur de actuali futu<lb ed="#P" break="no"/>ra
+				<add place="lm" hand="F">infideles solum in potentia 
+				subditi Christo et non 
+				actu</add>
+		</p>	
+		<p>
+			Ponitur ergo in Christo duplex potestas (sci<lb ed="#P" break="no"/>licet)
+			habitualis vel in potentia et actualis. 
+			<lb ed="#P"/>Et per hunc modum infideles dicimus esse 
+			<pb ed="#P" n="35-r"/>subditos christo dumtaxat in potentia, 
+			<lb ed="#P"/>non autem in actu: et proinde nec de suo foro vel 
+			<lb ed="#P"/>jurisdictione inquantum huiusmodi: donec vel con<lb ed="#P" break="no"/>uertantur
+			vel moriantur vel usque in finem 
+			<lb ed="#P"/>mundi: quando christus exercebit plene su<lb ed="#P" break="no"/>am
+			potestatem in omnes: malos damnando 
+			<lb ed="#P"/>et bonos premiando: eruntque tunc ci subie<lb ed="#P" break="no"/>cta
+			omnia actualiter. De huiusmodi Christi dupli<lb ed="#P" break="no"/>ci
+			potestate scribit
+				<add place="rm" hand="F">sanctus Thomas</add>
+			<ref>sanctus Thomas 3 parte, q. 59a a. 
+			<lb ed="#P"/>4o ad 2um</ref> et <ref>q. 8a a. 3o</ref> et <ref>ad Hebreos 
+			<lb ed="#P"/>lectione 3a in fine</ref> et <ref>lectione 6</ref> 
+		</p>
+		<p>
+			¶ Cum 
+			<lb ed="#P"/>igitur infideles non sint actu subditi chris<lb ed="#P" break="no"/>to:
+			ergo nec ecclesiae. Probatur consequentia: 
+			<lb ed="#P"/>tum primo quia in tantum spectat ad ecclesiam 
+			<lb ed="#P"/>subditos habere in quantum sunt subditi chris<lb ed="#P" break="no"/>ti:
+			cum christus sit princeps christianae rei<lb ed="#P" break="no"/>publice.
+			quae est ccclesia. Sed infideles sunt 
+			<lb ed="#P"/>christo subditi habitu vel in potentia. ergo 
+			<lb ed="#P"/>similiter et ecclesiae. Tum secundo quia ecclesia 
+			<lb ed="#P"/>non habet maiorem potestatem aut jurisdi<lb ed="#P" break="no"/>ctionem
+			in mundo vel in aliqua parte eius 
+			<lb ed="#P"/>quam christus hab<subst hand="B"><del rend="strikethrough">e</del><add place="above-line">ui</add></subst> vel hodie habet. Juxta il<lb ed="#P" break="no"/>lud
+			<ref>Matthei 7o</ref> et <ref>Lucae 10o</ref>. <quote>Non est discipu<lb ed="#P" break="no"/>lus
+			super magistrum: neque seruus super do<lb ed="#P" break="no"/>minum
+			suum. Sufficit discipulo vt sit si<lb ed="#P" break="no"/>cut
+			magister eius, et seruo sicut dominus eius. 
+			<lb ed="#P"/>Nec apostolus maior est eo qui misit eum</quote> 
+			<lb ed="#P"/><ref>Joanis 13o</ref>.
+		</p>	
+		<p>
+			Rursus christus non concessit ab<lb ed="#P" break="no"/>solute
+			et sine limitatione ecclesiae suae vel vi<lb ed="#P" break="no"/>cario
+			suo omnem potestatem quam ipse habet 
+			<pb ed="#P" n="35-v"/>in coelo et in terra. Neque enim pontifex sum<lb ed="#P" break="no"/>mus
+			noua potest instituere sacramenta: neque 
+			<lb ed="#P"/>abrogare instituta: neque remittere 
+			<lb ed="#P"/>peccata absque virtute sacramentorum: neque rursus 
+			<lb ed="#P"/>ei data sunt alia quaedam: quae sacrae ec<lb ed="#P" break="no"/>clesiae
+			doctores tribuunt potestati excellentiae 
+			<lb ed="#P"/>christi. Juxta sanctissimam suam huma<lb ed="#P" break="no"/>nitatem.
+			de qua re plene diserit <ref><name>diuus Tho<lb ed="#P" break="no"/>mas</name> 
+			3a parte q. 64a a. 3o</ref> et <ref>4o in corpore</ref>. Et quod 
+			<lb ed="#P"/>nulli creaturae talis autoritas seu potentia 
+			<lb ed="#P"/>fuerit communicata scribit <ref>ubi supra ad 
+			<lb ed="#P"/>1um et 3um in 4o sententiarum distinctione 2a q. 1a 
+			<lb ed="#P"/>a. 4o q. 4a in corpore</ref> et <ref>distinctione 5a q. 1a 
+			<lb ed="#P"/>a. 3o q. 1a 2a per totum et in alijs locis</ref>.
+		</p>	
+		<p>
+			Non ergo ecclesia vel papa in omnibus eamdem 
+			<lb ed="#P"/>habe<subst hand="A or B"><del rend="strikethrough">nt</del><add place="above-line">t</add></subst> potestatem: quam christus: licet hoc 
+			<lb ed="#P"/>illi per adulationem quidam tribuant. Agnos<lb ed="#P" break="no"/>co
+			pontificis summi et ecclesiae potestatem esse 
+			<lb ed="#P"/>plenissimam: sed quo ad eas creaturas quae 
+			<lb ed="#P"/>gratiae et gloriae capaces sunt. Cum propter 
+			<lb ed="#P"/>finem et ad finem coelestis beatitudinis, et 
+			<lb ed="#P"/>ad edificationem ecclesiae talis potestas insti<lb ed="#P" break="no"/>tuta
+			sit. Neque ea potestas extenditur ad 
+			<lb ed="#P"/>omnes creaturas gratiae et gloriae capaces, non 
+			<lb ed="#P"/>enim super angelos sed super homines: Neque 
+			<lb ed="#P"/>insuper super omnes homines: sed super via<lb ed="#P" break="no"/>tores.
+			Pontifex enim viatorum caput dici<lb ed="#P" break="no"/>tur
+			autore <ref>Thoma 3a parte q. 8a, a. 6o</ref> chris<lb ed="#P" break="no"/>tus
+			autem caput est tam angelorum quam etiam ho<lb ed="#P" break="no"/>minum
+			viatorum. Juxta illud ad collossenses
+			<pb ed="#P" n="36-r"/>2o. <quote>Qui est caput omnis principatus et po<lb ed="#P" break="no"/>testatis</quote>
+			et caetera. Viatores autem illi dicuntur qui 
+			<lb ed="#P"/>ad coelestia regna contendunt per fidem. In<lb ed="#P" break="no"/>fideles
+			autem minime sunt viatores: sed potius 
+			<lb ed="#P"/>deuiatores. Nimirum caeci et alieni a via 
+			<lb ed="#P"/>veritatis et felicitatis ad quam conditi fue<lb ed="#P" break="no"/>re.
+		</p>	
+		<p>
+			Vnde patet: quod potestas ecclesiae et christi 
+			<lb ed="#P"/>vicarij dumtaxat extenditur ad eos homines, 
+			<lb ed="#P"/>qui sacrum baptisma voluntarie susceperunt 
+			<lb ed="#P"/>id est cunctos fideles: ad eternum felicita<lb ed="#P" break="no"/>tem
+			tendentes. Potest tamen dici ecclesiam 
+			<lb ed="#P"/>potestatem habere super infideles habitu seu 
+			<lb ed="#P"/>potentia: hoc est: quod possunt esse fideles <add place="above-line" hand="A">si</add> chris<lb ed="#P" break="no"/>tianam
+			religionem susceperint: et christi oui<lb ed="#P" break="no"/>le
+			ingredientes eius vicarij subditi et ecclesiae 
+			<lb ed="#P"/>suae membra effici voluerint. Sicut enim in<lb ed="#P" break="no"/>fidelis
+			fidelis est potentia: ita Ecclesia super 
+			<lb ed="#P"/>eum potentia tantum habet potestatem 
+			<lb ed="#P"/>(scilicet) cum et quando Christi fidem am<lb ed="#P" break="no"/>plexus
+			fuerit. Unde patet, quod sicut infideles
+			<lb ed="#P"/>de quibus sermo est subditi sunt christo 
+			<lb ed="#P"/>et ad eius pertinet jurisdictionem in hac 
+			<lb ed="#P"/>vita existentes in habitu et in potentia mo<lb ed="#P" break="no"/>do
+			quo dictum est: sic sunt subditi ecclesiae 
+			<lb ed="#P"/>et vicario eius et pertinent ad eius jurisdi<lb ed="#P" break="no"/>ctionem
+			et curam scilicet habitu et poten<lb ed="#P" break="no"/>tia.
+			
+		</p>
+		<p>
+			Quod autem infideles habitu tantum non 
+			<lb ed="#P"/>actu ecclesiae subditi sint: docet <ref>sanctus Thomas
+			<lb ed="#P"/>in 3a parte, q. 8o a. 3o ad 1um</ref> his verbis. <quote>illi 
+			<lb ed="#P"/>qui sunt infideles etsi actu non sunt de ec<pb ed="#P" n="36-v"/><lb ed="#P" break="no"/>clesia,
+			sunt tamen de ecclesiae potentia. Que 
+			<lb ed="#P"/>quidem potentia in duobus fundatur. Primo 
+			<lb ed="#P"/>quidem et principaliter in virtute christi: 
+			<lb ed="#P"/>quae est sufficiens ad salutem totius huma<lb ed="#P" break="no"/>ni
+			generis, secundario in arbitrij libertate</quote>. 
+			<lb ed="#P"/>Ex quibus verbis apparet <name>sanctum Thomam</name>
+			<lb ed="#P"/>sensisse ecclesiam nullam habere jurisdictio<lb ed="#P" break="no"/>nem
+			super infideles in actu: sed in potentia. 
+			<lb ed="#P"/>Inquit enim illam potentiam niti in vir<lb ed="#P" break="no"/>tute
+			christi qui neminem cogit: et in liber<lb ed="#P" break="no"/>tate
+			arbitrij quod etiam cogi non potest.
+		</p>	
+		<p>
+			¶ Jurisdictionem ergo contentiosam quae 
+			<lb ed="#P"/>exercetur in inuitum, vt jureconsulti loqu<lb ed="#P" break="no"/>untur
+			de qua etiam disseremus <ref>infra, capite 
+			<lb ed="#P"/>37o</ref> non habet ecclesia super infideles neque 
+			<lb ed="#P"/>illam potest exercere in illos preter sex casus 
+			<lb ed="#P"/>quos infra subijciam. Ratio est quoniam 
+			<lb ed="#P"/>secundum <ref>philosophum 9o methaphysicae</ref> omnis po<lb ed="#P" break="no"/>tentia
+			vel potestas determinata est ad aliquid quod potest 
+			<lb ed="#P"/>et quando potest et quomodo potest. et Rursus
+			<lb ed="#P"/><ref>2o de anima</ref> inquit: actus actiuorum non 
+			<lb ed="#P"/>proportionatur nisi in patiente bene disposi<lb ed="#P" break="no"/>to.
+			Potestas ergo pontificis summi exerceri 
+			<lb ed="#P"/>potest quatenus et quomodo potestatem ha<lb ed="#P" break="no"/>bet
+			non ultra, vt enim res optima sit, opor<lb ed="#P" break="no"/>tet
+			vt fiat eo modo et quatenus fieri potest 
+			<lb ed="#P"/>seruatis circunstantijs autore <ref>Paulo ad Ro<lb ed="#P" break="no"/>manos
+			13o</ref> <quote>quae a deo sunt omnia ordinata 
+			<lb ed="#P"/>sunt</quote>.
+		</p>	
+		<p>
+			Interea autem temporis quo infideles fi<lb ed="#P" break="no"/>dem
+			christianam non suscipiunt: nec aqua 
+			<pb ed="#P" n="37-r"/>baptismatis aluntur potissimum qui nihil 
+			<lb ed="#P"/>unquam de ecclesia vel populo catholico audierunt: 
+			<lb ed="#P"/>nequaquam patientes dispositi aut proportiona<lb ed="#P" break="no"/>ti
+			sunt in quos potestas vel jurisdictio pa<lb ed="#P" break="no"/>pae
+			contentiosa exerceri valeat. Deest enim ibi 
+			<lb ed="#P"/>etsi non quid potest, quod est potestas vica<lb ed="#P" break="no"/>rio
+			christi ab eo collata ad ecclesiae edificatio<lb ed="#P" break="no"/>nem:
+			deest tamen quomodo et quando: quae 
+			<lb ed="#P"/>sunt circunstantiae necessariae ad exerciti<subst hand="B"><del rend="strikethrough">tum</del><add place="above-line">um</add></subst> 
+			<lb ed="#P"/>apostolicae potestatis: videlicet: quia nondum 
+			<lb ed="#P"/>infideles sunt subiecta capacia vt rite et 
+			<lb ed="#P"/>recte recipiant actus jurisdictionales ac per 
+			<lb ed="#P"/>consequens desunt aliquae circunstantiae 
+			<lb ed="#P"/>necessariae ad actus predictos exercendos ri<lb ed="#P" break="no"/>te
+			ac recte id est populus subiectus et mate<lb ed="#P" break="no"/>ria
+			in qua exerceantur.
+		</p>	
+		<p>
+			Et hoc est habere 
+			<lb ed="#P"/>jurisdictionem in habitu: respectu (scilicet) 
+			<lb ed="#P"/>aliquorum qui nondum sunt subditi: qui 
+			<lb ed="#P"/>cum fuerint: subiectum et materia sunt 
+			<lb ed="#P"/>disposita in quos jurisdictionis actus rite 
+			<lb ed="#P"/>exerceri habeant. Exemplum accipe lector 
+			<lb ed="#P"/>si quis rector alicuius collegij nondum ins<lb ed="#P" break="no"/>tituti
+			sit: jurisdictionem habet in habitu: 
+			<lb ed="#P"/>vbi autem collegium institutum et perfectum 
+			<lb ed="#P"/>fuerit: tum exercere jurisdictionem potest actu. 
+			<lb ed="#P"/>Ita docent jureconsulti loquentes de juris<lb ed="#P" break="no"/>dictione
+			quae quasi possidetur in habitu 
+			<lb ed="#P"/>et in actu. Sic et parochus alicuius ecclesiae 
+			<lb ed="#P"/>qui nullos habet parochianos: parrochus 
+			<lb ed="#P"/>quidem et rector est habitu: ubi autem parro<pb ed="#P" n="37-v"/><lb ed="#P" break="no"/>chia
+			parochianos habuerit tunc actu vti 
+			<lb ed="#P"/>et exercere potest jurisdictionem suam. Jam 
+			<lb ed="#P"/>enim adest materia et subiectum et populus 
+			<lb ed="#P"/>ad exercitium jurisdictionis proportiona<lb ed="#P" break="no"/>ta:
+			et potest de illa potentia vel habitu edu<lb ed="#P" break="no"/>cere
+			jurisdictionem in actu.
+		</p>	
+		<p>
+			Hoc ergo sub<lb ed="#P" break="no"/>iectum
+			materiam, vel populum aut parrochia<lb ed="#P" break="no"/>nos:
+			inter infideles qui totaliter extra fores ec<lb ed="#P" break="no"/>clesiae
+			sunt papa non habet. quoniam nihil ad eum 
+			<lb ed="#P"/>de his qui foris sunt judicare <ref>1ae ad corinthios 
+			<lb ed="#P"/>5o</ref> quod inferius diffusius disputabitur. Unde 
+			<lb ed="#P"/>super illos jurisdictio nulla est ei actu. Sed 
+			<lb ed="#P"/>ubi primum illi ingressi fuerint ouile chris<lb ed="#P" break="no"/>ti:
+			jam pertinent ad dictionem ecclesiae christi<lb ed="#P" break="no"/>anae:
+			et sunt pars et membra populi christiani 
+			<lb ed="#P"/>vt ex dictis apparet: iamque potest illos sua po<lb ed="#P" break="no"/>testate
+			judicare ac in casibus in jure contentis 
+			<lb ed="#P"/>sua jurisdictione coercere <ref>c. Nouit de judicijs 
+			<lb ed="#P"/>cum similibus</ref>.
+		</p>	
+		<p>
+			Non ergo infideles qui omni<lb ed="#P" break="no"/>bus
+			modis extra ecclesiam existunt: subditi sunt 
+			<lb ed="#P"/>ecclesiae nec de territorio aut de foro eius.
+		</p>
+	</div>
+    </body>
+  </text>
+</TEI>

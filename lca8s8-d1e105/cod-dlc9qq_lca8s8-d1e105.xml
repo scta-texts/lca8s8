@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 5 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 5 [Bnf 12926 Transcription]</title>
+          <date when="2024-08-05">August 6, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="28-r"/>
+      </div>
+    </front>
+    <body>
+      <div>
+		<head>Caput 5 [Bnf 12926 Transcription]</head>
+		<p>
+			<lb ed="#P" n="7"/>Capvt 5m
+			<lb ed="#P"/>¶ Est quarta quaedam barbarorum species com<lb ed="#P" break="no"/>prehendens
+			omnes qui Christum non agnos<lb ed="#P" break="no"/>cunt.
+			Omnis enim gens quantumuis politica: 
+			<lb ed="#P"/>omnis homo quantumuis philosophus: maxi<lb ed="#P" break="no"/>mis
+			barbarismis vitii (scilicet) est obnoxius: 
+			<lb ed="#P"/>si christianae philosophiae mysteriis imbutus 
+			<lb ed="#P"/>non sit. His autem vitiis expurgari non potest: 
+			<lb ed="#P"/>nisi sacramentis et virtute christianae legis 
+			<lb ed="#P"/>quae sola <quote source="http://scta.info/resource/ps18_8">lex est immaculata</quote> conuertens ani<lb ed="#P" break="no"/>mas,
+			liberans et mundans corda hominum 
+			<lb ed="#P"/>ab omni vitio et superstitione idolatriae: ex 
+			<lb ed="#P"/>qua omnium malorum fons oritur quae vitam 
+			<lb ed="#P"/>miseram et infelicem reddunt tam priuate 
+			<lb ed="#P"/>quam publice iuxta illud <ref>sapienziae 14o</ref> <quote ana="#sap14_2">Initium 
+			<lb ed="#P"/>enim fornicationis est exquisitio idolorum 
+			<lb ed="#P"/>et adinuentio illorum corruptio vitae est</quote>.
+		</p>
+		<p>
+			Fi<lb ed="#P" break="no"/>des
+			christiana sancti spiritus gratiam conciliat, 
+			<lb ed="#P"/>quae omnia praua immunda et stulta ex hu<lb ed="#P" break="no"/>manis
+			cordibus abstergit. Hoc manifeste ap<lb ed="#P" break="no"/>paruit
+			in populo Romano politicae prudentiae 
+			<lb ed="#P"/>ac sapientiae nomine tum temporis laudato. 
+			<lb ed="#P"/>qui caeteris orbis gentibus ad arbitrium leges 
+			<lb ed="#P"/>dare voluit. Hic enim populus quot nephan<pb ed="#P" n="28-v"/><lb ed="#P" break="no"/>dis
+			vitiis et abominationibus obnoxius fuit: 
+			<lb ed="#P"/>presertim in illis suis turpissimis ludis et abo<lb ed="#P" break="no"/>minandis
+			immolationibus: puta in ludis cir<lb ed="#P" break="no"/>censibus
+			et scaenicis, et obscoenissimis Priapi 
+			<lb ed="#P"/>ac Bachi sacrificiis: ubi adeo inhonesta de<lb ed="#P" break="no"/>formia
+			et a recta ratione aliena erant omnia: 
+			<lb ed="#P"/>vt omnes gentes mentis stupore et barbarie 
+			<lb ed="#P"/>longo post se interuallo reliquerint.
+		</p>
+		<p>
+			Quod eui<lb ed="#P" break="no"/>denter
+			ac diffuse docuit <ref>Diuus Augustinus a 
+			<lb ed="#P"/>libro 2o usque ad librum 7m de ciuitate dei</ref> et 
+			<lb ed="#P"/><ref>Diuus Ciprianus in tractatu 4o aduersus de<lb ed="#P" break="no"/>metrianum
+			idolatram christianorum persecutorem</ref> / et <ref>Lactantius diuinarum institutio<lb ed="#P" break="no"/>num
+			libro 1o c. 2o</ref> disserens de religione Ro<lb ed="#P" break="no"/>manorum
+			et Grecorum qui ceateras orbis natio<lb ed="#P" break="no"/>nes
+			sapientia antecellere videri volebant. Scri<lb ed="#P" break="no"/>bit
+			eos solere prostitu<subst hand="B"><del rend="strikethrough">tis</del><add place="above-line">ere</add></subst> liberos in gymnasi<lb ed="#P" break="no"/>iis
+			vt eis quiuis ad libitum nefande vte<lb ed="#P" break="no"/>retur.
+			Colere et obsequia prestare diis suis. 
+			<lb ed="#P"/>subiicit autem haec. <quote>Quid mirum si ab hac gen<lb ed="#P" break="no"/>te
+			vniuersa flagitia manarunt, apud quam 
+			<lb ed="#P"/>ipsa vitia religiosa sunt: ea quae non modo 
+			<lb ed="#P"/>non vitantur verum etiam coluntur</quote>? haec ille. 
+			<lb ed="#P"/>Hi sunt illi qui omnes gentes preter se appella<lb ed="#P" break="no"/>bant
+			barbaras cum nulli efferi barbari absur<lb ed="#P" break="no"/>diora
+			vel stupidiora agere possent. Excellebant 
+			<lb ed="#P"/>illi fortassis iudicii acrimonia et ingenii solertia 
+			<lb ed="#P"/>vt tyranos humano generi se prestantes: alienas 
+			<lb ed="#P"/>prouincias magnis stragibus perdomarent: 
+		</p>
+		<p>
+			quod autem ab his horrendis criminibus et foedis<lb ed="#P" break="no"/>simis
+			vitis Graeci et Romani abstinuerunt:
+			<pb ed="#P" n="29-r"/>cuinam ferendum acceptum: nisi euangelii 
+			<lb ed="#P"/>fulgori: quod per omnes orbis nationes sparsum 
+			<lb ed="#P"/>eius etiam ambitiosae gentis oculos perstrinxit? 
+			<lb ed="#P"/>Cum ergo per foedos et corruptos mores et caeteras 
+			<lb ed="#P"/>abominationes infidelium quae ex supersti<lb ed="#P" break="no"/>tiosis
+			opinionibus de rebus diuinis precipue 
+			<lb ed="#P"/>oriuntur et consequuntur illa: reddantur si<lb ed="#P" break="no"/>miles
+			animantibus autore beato <ref>Paulo ad 
+			<lb ed="#P"/>Romanos 1</ref>. <ref>Thomas ibi lectio 7 et 2a 2ae q. 
+			<lb ed="#P"/>94a. 3o ad 3um</ref> certe quicumque christianis 
+			<lb ed="#P"/>mysteriis initiati non sunt, barbari et mise<lb ed="#P" break="no"/>ri
+			judicantur: et sic ecce quarta species barbarorum 
+			<lb ed="#P"/>demonstratur.
+		</p>
+		<p>
+			Turcarum et Arabum popu<lb ed="#P" break="no"/>li
+			politice instituti dicuntur: sed quomodo 
+			<lb ed="#P"/>hoc honesto nomine decorandi sint: cum ad 
+			<lb ed="#P"/>omnem carnis licentiam effrenis gens sit 
+			<lb ed="#P"/>effoeminata luxu: apud quam precipue Tur<lb ed="#P" break="no"/>cas
+			vitia impura et horrenda non censentur 
+			<lb ed="#P"/>punitione digna. 
+		</p>
+		<p>
+			¶ Denique neque Greci neque 
+			<lb ed="#P"/>Romani neque Turcae neque mauri justitia vti 
+			<lb ed="#P"/>dicendi sunt: neque enim prudentia vel justi<lb ed="#P" break="no"/>tia
+			reperiri potest in republica quae christum 
+			<lb ed="#P"/>non agnoscit vt probat <ref>Augustinus de ciuitate 
+			<lb ed="#P"/>dei libro 2 c. 21</ref> et legitur inter <ref>decreta po<lb ed="#P" break="no"/>ntificia
+			24. q. 1. c. vbi sana</ref> et <ref>c. non est 
+			<lb ed="#P"/>de penitentia distin. 2a</ref> Et ita asserit loquens 
+			<lb ed="#P"/>de republica Romana in eo opere <ref><add place="rm" hand="B">de ciuitate dei</add> libro 19o c. 21o</ref> 
+			<lb ed="#P"/>et <ref>lactantius foeliciter idem probat institutio<lb ed="#P" break="no"/>num
+			libro 1o cap. 20</ref>. 
+  		</p>
+		<p>
+			Cum ergo qui christi<lb ed="#P" break="no"/>ane
+			veritatis expertes sunt quantumuis politi<lb ed="#P" break="no"/>ca
+			prudentia calleant vitiis et criminibus sint 
+			<pb ed="#P" n="29-v"/>obruti et in multis a ratione aberrent: certe 
+			<lb ed="#P"/>omnes qui christum non colunt: vel quia eius 
+			<lb ed="#P"/>verba ne per famam quidem audierunt: vel 
+			<lb ed="#P"/>quia audita non suscipiunt: vere barbari sunt, 
+			<lb ed="#P"/>quod apparet in <ref>actibus apostolicis c. 28o</ref> 
+			<lb ed="#P"/>vbi postquam narratur <name>Paulum apostolum</name> naufragio 
+			<lb ed="#P"/>ejectum ad Mitilenem, subiicit: <quote>barbari pres<lb ed="#P" break="no"/>tabant
+			nobis non modicam humanitatem</quote>. 
+			<lb ed="#P"/>haec <name>s. Lucas</name>. 
+		</p>
+		<p>
+			Mitilene portus est insulae les<lb ed="#P" break="no"/>bi
+			quae alcaeum et Sapphum poetas lyricos no<lb ed="#P" break="no"/>bis
+			dedit, et Pithacum cognomento Mitile<lb ed="#P" break="no"/>nensem,
+			qui e septem Greciae sapientibus 
+			<lb ed="#P"/>vnus fuit: <ref>et Theoph<add place="above-line" hand="B">r</add>rast<del rend="strikethrough" hand="B">r</del>um Aristotelis dis<lb ed="#P" break="no"/>cipulum
+			autore Aulo Gelio</ref>. Quo nomine ab 
+			<lb ed="#P"/><ref><name>Horacio</name></ref> celebratur: <quote>laudabunt (inquit) alii
+			<lb ed="#P"/>claram Rodem aut Mitilenem</quote>. Vocatur 
+			<lb ed="#P"/>tamen ab apostolo gens barbara: non quidem 
+			<lb ed="#P"/>quod stupida vel efera esse<subst hand="B"><del rend="strikethrough">t</del><add place="above-line">t</add></subst>: sed quod christum non agnosceba<subst hand="B"><del rend="strikethrough">t</del><add place="above-line">t</add></subst>: quamquam <ref>liranus ideo</ref> scri<lb ed="#P" break="no"/>bit
+			appellatos barbaros quod neque hebraice neque 
+			<lb ed="#P"/>Grece neque latine scirent. Sic <ref>diuus Hiero<lb ed="#P" break="no"/>nimus
+			in Epistola ad Euandrum vel Euge<lb ed="#P" break="no"/>nium
+			Episcopum</ref> inquit; et etiam habetur 
+			<lb ed="#P"/>in <ref>decretis 93a dist. c. legimus</ref>: et <ref>32. q. 
+			<lb ed="#P"/>et c. offerebat</ref>. ibi apud barbaras gentes: <quote>nam 
+			<lb ed="#P"/>et Africa, et persis et oriens, et india et omnes 
+			<lb ed="#P"/>barbarae nationes vnum christum adorant: 
+			<lb ed="#P"/>unam obseruant <del rend="strikethrough" hand="B">legem</del> regulam veritatis</quote>. 
+			<lb ed="#P"/>Idem <ref>Hieronimus ad Heliodorum et in epistola 
+			<lb ed="#P"/>ad letam eodem Tomo pagina 68a</ref>. 
+  		</p>
+		<p>
+			Loquuntur
+			<pb ed="#P" n="30-r"/>
+			<lb ed="#P"/>generaliter <ref>leges et decreta vt 7 q. 1a, c. tem<lb ed="#P" break="no"/>poris
+			qualitas</ref> ibi: <quote>barbaricum possunt pericu<lb ed="#P" break="no"/>lum
+			facilius declinare: loquitur enim ibidem de 
+			<lb ed="#P"/>Turchis vel Sarracenis</quote> et <ref>23 q. 2a, c. sex 
+			<lb ed="#P"/>differentiae</ref>. ibi: <quote>aliquo barbarorum</quote>85, <ref>et c. fortitu<lb ed="#P" break="no"/>do
+			quae bello tuetur a barbaris</ref>. In legibus quo<lb ed="#P" break="no"/>que
+			<ref>cod. de officio prefecti cretorio africae l. 1</ref>. ibi <quote>iu<lb ed="#P" break="no"/>go
+			barbarico durissime subiugabant</quote>: et loque<lb ed="#P" break="no"/>batur
+			de Vuandalis qui tyranide sua vsur<lb ed="#P" break="no"/>pauerant
+			vniuersam prouinciam Africae. et 
+			<lb ed="#P"/>ff. <ref>de re militari l. non omnes. § a barbaris 
+			<lb ed="#P"/>remissus miles</ref>. et in <ref>prohemio institutionum</ref> ibi 
+			<lb ed="#P"/><quote>et reliquos quidem sudores barbaricae gen<lb ed="#P" break="no"/>tis
+				sub iuga nostra redactos cognoscunt</quote>. Vbi <ref>glossa </ref> 
+			<lb ed="#P"/><quote>barbari sunt illi qui extra sunt imperii Ro<lb ed="#P" break="no"/>mani,
+			hoc est ecclesiae, limites vniuersales</quote>. quasi 
+			<lb ed="#P"/>extra eam non est imperium vt infra <ref>capite 
+			<lb ed="#P"/>patebit</ref>. Et addit <ref>glossa</ref> <quote>maxime hostes</quote>.
+		</p>
+		<p>
+			¶ Contra hos autem barbaros qui hostes ecclesiae 
+			<lb ed="#P"/>sunt die veneris sancti orat Ecclesia his ver<lb ed="#P" break="no"/>bis:
+			<quote>oremus pro christianissimo imperatore
+			<lb ed="#P"/>vt Deus et dominus noster subditas faciat 
+			<lb ed="#P"/>omnes barbaras nationes: ad nostram perpe<lb ed="#P" break="no"/>tuam
+			pacem. Ex infra: gentes barbarorum quae 
+			<lb ed="#P"/>in sua feritate confidunt potentiae tuae dex<lb ed="#P" break="no"/>tera
+			comprimantur</quote>. De barbaris autem qui 
+			<lb ed="#P"/>populum christianum non infestant non 
+			<lb ed="#P"/>orat ecclesia vt comprimantur: sed vt 
+			<lb ed="#P"/>auferat iniquitatem acordibus eorum vt relictis 
+			<lb ed="#P"/>idolis suis conuertantur ad Deum viuum 
+			<lb ed="#P"/>et verum. Et <ref>paulo post</ref>. <quote>omnipotens sempiter<pb ed="#P" n="30-v"/><lb ed="#P" break="no"/>ne
+			Deus qui non mortem peccatorum, sed vitam 
+			<lb ed="#P"/>semp<subst hand="B"><del rend="strikethrough">iternam</del><add place="in-line">er</add></subst> requiri<subst hand="B"><del rend="strikethrough">t</del><add place="above-line">s</add></subst>: suscipe propitius ora<lb ed="#P" break="no"/>tionem
+			nostram et libera eos ab idolorum cultu<lb ed="#P" break="no"/>ra,
+			et aggrega ecclesiae tuae sanctae ad laudem 
+			<lb ed="#P"/>et gloriam nominis tui</quote>:
+		</p>
+		<p>
+			vbi manifeste os<lb ed="#P" break="no"/>tenditur
+			esse aliqua differentia barbarorum a 
+			<lb ed="#P"/>barbaris secundum quod innuit satis expressis verbis 
+			<lb ed="#P"/>ecclesia. Et per ea omnia quae adducta sunt 
+			<lb ed="#P"/>apparet quatuor esse barbarorum genera sci<lb ed="#P" break="no"/>licet
+			1a et 2a et 4a, secundum quid hoc est ex 
+			<lb ed="#P"/>aliquibus feris moribus et principaliter ex 
+			<lb ed="#P"/>deffectu fidei. Primum tamen genus etiam 
+			<lb ed="#P"/>christianos homines potest comprehendere si 
+			<lb ed="#P"/>in aliqua re sese immanes feros saeuos et in<lb ed="#P" break="no"/>humanos
+			prestent: quo nomine hyspani qui 
+			<lb ed="#P"/>tot horrendis stragibus, tot cedibus et plusquam 
+			<lb ed="#P"/>tartareis malis afflixerunt indos: gentes qui<lb ed="#P" break="no"/>dem
+			mansuetussimas innoxias vniuersis: 
+			<lb ed="#P"/>barbari sunt et barbaris peiores. barbaros 
+			<lb ed="#P"/>etiam sese prestiterunt cum aduersus caesa<lb ed="#P" break="no"/>rem:
+			sumptis armis ferociter rebellarunt. 
+			<lb ed="#P"/>Quarta autem barbarorum species pertinet ad 
+			<lb ed="#P"/>alienos a fide christi: et sic omnes compre<lb ed="#P" break="no"/>hendit
+			infideles. Proprie autem barbari sunt 
+			<lb ed="#P"/>illi de quibus in tertia specie disseruimus nimi<lb ed="#P" break="no"/>rum
+			stupore mentis obruti stolidi a ratione 
+			<lb ed="#P"/>alieni: incapaces, immanes, eferi, prauis 
+			<lb ed="#P"/>moribus, corrupti, seditiosi vel natura vel 
+			<lb ed="#P"/>praua peccandi consuetudine, et de his nomi<lb ed="#P" break="no"/>natim
+				loquitur <ref>philosophus 1o polyticorum</ref>.
+		</p>
+		<p>
+			eesinant ergo impii homines philosophum nobis obiicere, et qui 
+			<pb ed="#P" n="31-r"/>Sepuluedam mendaciis ad impiae causae defensionem 
+			<lb ed="#P"/>pertraxerunt: non intelligentes aut intelligere nol<lb ed="#P" break="no"/>entes
+			differentiam philosophi et sanctorum doctorum quam 
+			<lb ed="#P"/>de barbaris demonstrauit. Et ideo misereantur 
+			<lb ed="#P"/>animae suae: petantque a christo vt in eis moriatur 
+			<lb ed="#P"/>vanitas: et viuat veritas.
+		</p>
+	</div>
+    </body>
+  </text>
+</TEI>

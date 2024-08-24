@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 8 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 8 [Bnf 12926 Transcription]</title>
+          <date when="2024-08-23">August 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="43-v"/>
+      </div>
+    </front>
+    <body>
+      <div>
+		<head>Caput 8 [Bnf 12926 Transcription]</head>
+		<p>
+			<lb ed="12"/>Capvt 8m
+			<lb ed="#P"/>¶ Supra, capite precedenti, docuimus infideles non esse de foro Ecclesiae; nunc probabimus nec!!? Ecclesiam christianam neque christianos principes!29 posse punire paganos quod idola colant, quod fuit secunda pars cuiusdam antecedentis. Probatur hoc decuplici ratione.
+		</p>
+		<p>
+			Primo, quidem ex verbis Christi!€", (Lucae 12?), ubi quendam, qui neque cius discipulus erat neque eius verba sectabatur, ita allocutus est: Homo, quis me constituit judicem super vos? quasi diceret: Non est quod judicem eos qui meis verbis!?Y non credunt.
+		</p>
+		<p>
+			Sic Nicolaus Gorranus!68 inquit: 5; ad Christum non pertinet bic judicare de infidelibus, ergo neque ad eius Ecclesiam, ergo nec illos regulariter punire; non enim Ecclesia [44r.] maiorem habet potestatem quam olim Christus in terris agens habuit.
+		</p>
+		<p>
+			Secundo, probatur ex Paulo169: Quid mihi de his qui foris sunt judicare? id est, sententiam ferre Ecclesia autem non habet hodie maiorem potestatem quam habuit tempore Pauli. Cum autem eo tempore paganos punire non posset, ergo nec hodie.
+		</p>
+		<p>
+			Tertio, probatur ex Hieronimo!?? qui fideles tantum ab Ecclesia castigari posse scribit (super illud /4* 44 Corinthios, 5?): Quid enim mihi de his et caetera. Numquid, glossat Hieronimus, non vos de his solis qui sunt intra Ecclesiam judicati?. Haec Hieronimus. Ergo aliter sentiendum de infidelibus.
+		</p>
+		<p>
+			Quarto, probatur quoniam Christus non dedit potestatem Eccles'1e super paganOs ut eos exasperet, persequatur, affligat et ad tumultum et seditionem excitet, cum  odio religionis christianae; sed ut lenitate, officijs, comitate et verbis Euangelicis  alliciantur ad subeundum! mite Christi jugum, ut probatur ex glossa, Augustino,  Anselmo, Beda!?! ac rursus ex Paulo!7? (2« A4 Corinthios 10? et 13?): De potestate nostra, inquit, quam dedit nobis dominus in edificationem et non in destructionem. Ex** Ad Corinthios (14*): Omnia ad edificationem fiant5. Punire ergo paganos idola colentes non pertinet ad Ecclesiam, prebetur enim offendiculum Euangelio.
+		</p>
+		<p>
+			Quinto, probatur quoniam, quando judex superior aduocat ad se aliquam causam,  judex inferior non potest de ea cognoscere, alias judicium est nullum (ut in [44v.] c. Vt Nostrum Y^: De Appellationibus; et in c. unico: Vt Ecclesiastici? Beneficia; et De Postulatione Prelatorum (c. Bonae; in 2.? De Officio Delegati, c. Licet; et 23. q. 1, c. Nomen; et 3. q. 6, c. Multum Stupeo; et Cod. De Relationibus, L. 1; et Cod. De Appellationibus, L. Ex Illo). Deus autem voluit sibi reseruare paganos judicandos juxta illud Paulit5:  Nam eos qui foris sunt Deus judicabit, cuius judicium est grauius juxta illud Ad Hebraeos (10%): Horrendum est incidere in manus Dei viuentis 6, Cum autem Deus eorum iudicium sibi reseruauerit, certe Ecclesia nullo modo potest cos judicare neque punire. Deo enim qui illud sibi reseruauit injuria fieret et judicium nullum esset, nimirum deficiente jurisdictione, quae est judicii fundamentum, juxta illud Exod/17 (22): Quis constituit te principem et judicem super nos? Potest et illud obijci: Tu quis es, hoc est, cuius autoritatis vel virtutis es, qui judicas alienum seruum? domino suo stat aut cadit. (Ad Romanos 14*)178
+		</p>
+		<p>
+			Et generaliter illud tantum est legitimum judicium quod diuina autoritate permissum vel concessum est, juxta illud Deuteronomij (1*): Audite illos et quod justum est judicate quia Dei judicium est, hoc est, autoritate diuina judicium fertur. Et ita exponit ibi glossa et sanctus Thomas!8 (Super Epistola ad Romanos, c. 14^, lectione 15; et 23 2*6, q. 608, a. 2%, 3? et 6?. c)
+		</p>
+		<p>
+			Ile autem qui judicat de rebus, de quibus non est ei concessum judicare autoritate diuina, temerarie [45r.] judicat, usurpans vices judicis, cum jurisdicendi potestatem non habet, quemadmodum si judex a papa delegatus super aliqua causa ius diceret extra eam causam, judicium nullum esset, nimirum quia excedit formam mandati et potestatis sibi concessae (ut in c. Cum Dilecta: De Rescriptis; et L. Diligenter, ff Mandati)181
+		</p>
+		<p>
+			atio theologica est quoniam nemini licet transgredi ordinem diuina prouidentia institutum in omnibus rebus. Tunc autem maxime videtur non obseruari cum judices a Deo constituti, presertim Ecclesiastici, judicium ferunt de rebus alteri commissis vel ipsi immortali Deo reseruatis. Ita docet Diuus Dionysius!8 (c. 3* Coelestis Hierarchiae, circa principium) his verbis: Non enim fas est sanctorum prefectoribus 2^, id est, superioribus, aut sancte perfectis, id est, nec inferioribus operari quidem omnino, id est, aliquid facere, preter propria hostiarum mysteria, id est, ultra potestatem ipsis concessam, aut sacras ordinationes, id est, preter statuta et jussa a Deo sibi prefixa. Sed neque subsistere aliter, id est, non solum illicitum est illis aliter operari quam sibi concessum est,  immo neque aliter oportet ipsos in vita manere, si diuinam ipsius claritatem appetunt, id  est, si vere desiderant illustrari. Ac si aperte diceret: Aliter facientibus quam sibi concessum est, diuina justitia merito subtrabet radios splendoris et gratiae suae ut in agendis errent et zn grauiora crimina incidant.
+		</p>
+	</div>
+    </body>
+  </text>
+</TEI>

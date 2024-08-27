@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 46 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 46 [Bnf 12926 Transcription]</title>
+          <date when="2024-08-25">August 25, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-25" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="201-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e645">
+        <p xml:id="lca8s8-d1e645-d1e97">
+          <lb ed="#P" n="23"/>Caput 46m
+        </p>
+        <p xml:id="lca8s8-d1e645-d1e102">
+          <lb ed="#P" n="24"/>Videndum est modo quid amplius chris<lb ed="#P" break="no" n="25"/>tus 
+          mittens suos ad predicandum precepit.
+          <lb ed="#P" n="26"/>Lucas enim dicit: nihil tuleritis in via: neque 
+          <lb ed="#P" n="27"/>virgam <pc type="virgula">/</pc> neque peram <pc type="virgula">/</pc> neque pecuniam etc
+          <lb ed="#P" n="28"/>Vbi <ref xml:id="lca8s8-d1e645-Rd1e121">Ambrosius super c. 9um</ref> inquit: Qua<lb ed="#P" break="no" n="29"/>lis 
+          debeat esse qui euangelizat regnum dei: 
+          <lb ed="#P" n="30"/>preceptis euangelicis designatur: vt sine 
+          <lb ed="#P" n="31"/>pera <pc type="virgula">/</pc> sine calceamento <pc type="virgula">/</pc> sine pecunia hoc 
+          <pb ed="#P" n="201-v"/>
+          <lb ed="#P" n="1"/>est subsidii secularis adminicula non 
+          <lb ed="#P" n="2"/>requirens fideque tutus putet quominus 
+          <lb ed="#P" n="3"/>ea re quirat: magis posse suppetere. haec 
+          <lb ed="#P" n="4"/>ille. Et super c. 10 dicit idem Ambro<lb ed="#P" break="no" n="5"/>sius 
+          ideoque bonus pastor discipulos si<lb ed="#P" break="no" n="6"/>cut 
+          agnos inter lupos mittit quia non 
+          <lb ed="#P" n="7"/>in predam: sed ad gratiam diriguntur 
+          <lb ed="#P" n="8"/>Ergo christus non vult praecedere satel<lb ed="#P" break="no" n="9"/>lites
+          fidem suam qui nihil aliud inten<lb ed="#P" break="no" n="10"/>dunt 
+          nisi alienas facultates predari.
+        </p>
+        <p xml:id="lca8s8-d1e645-d1e161">
+          <lb ed="#P" n="11"/>Et idem <name xml:id="lca8s8-d1e645-Nd1e165">Ambrosius</name> exponens ilia ver<lb ed="#P" break="no" n="12"/>ba 
+          nolite possidere aurum dicit: si pro<lb ed="#P" break="no" n="13"/>hibemur
+          aurum possidere: quid eripere 
+          <lb ed="#P" n="14"/>quid auferre conamur? Si quid habes 
+          <lb ed="#P" n="15"/>donare preceperis quomodo congeris quod 
+          <lb ed="#P" n="16"/>possidere prohiberis. Quae verba expen<lb ed="#P" break="no" n="17"/>dere 
+          debent omnes vere christiani: Nam 
+          <lb ed="#P" n="18"/>si christus permitteret nos accipere au<lb ed="#P" break="no" n="19"/>rum 
+          ab his quibus euangelium predica<lb ed="#P" break="no" n="20"/>mus: 
+          existimarent pagani euangelizan<lb ed="#P" break="no" n="21"/>tes 
+          compendii gratia fidem anunciare. 
+          <lb ed="#P" n="22"/>Quod si aurum oblatum predicatores ac<lb ed="#P" break="no" n="23"/>cipere 
+          prohibentur: quanto minus alie<lb ed="#P" break="no" n="24"/>nas 
+          facultates eripere vel deripere pote<lb ed="#P" break="no" n="25"/>runt? 
+          Pergit Ambrosius ibi: qui predi<lb ed="#P" break="no" n="26"/>cas 
+          non farandum fararis? Qui dicis 
+          <lb ed="#P" n="27"/>non moechandum moecharis? Qui execra<lb ed="#P" break="no" n="28"/>ris
+          idola: sacrilegium facis? Qui in lege 
+          <lb ed="#P" n="29"/>gloriaris: per preuaricationem Deum in<lb ed="#P" break="no" n="30"/>honoras 
+          Nomen enim Dei per vos blas<lb ed="#P" break="no" n="31"/>phematur 
+          inter gentes. Non sic petrus 
+          <lb ed="#P" n="32"/>qui primus dominicae executor sententiae 
+          <pb ed="#P" n="202-r"/>
+          <lb ed="#P" n="1"/>ut ostenderet non in vacuum domini 
+          <lb ed="#P" n="2"/>diffusa mandata cum posceretur a pau<lb ed="#P" break="no" n="3"/>pere 
+          ut ei aliquid pecuniae largiretur ait: 
+          <lb ed="#P" n="4"/>argentum et aurum non est mihi etc haec 
+          <lb ed="#P" n="5"/>omnia Ambrosius.
+        </p>
+        <p xml:id="lca8s8-d1e645-d1e226">
+          <lb ed="#P" n="6"/>Hispani autem sub 
+          <lb ed="#P" n="7"/>pretextu dilatandae religionis indis 
+          <lb ed="#P" n="8"/>bellum inferentes largienturne pro<lb ed="#P" break="no" n="9"/>priam 
+          pecuniam: an potius alienam vio<lb ed="#P" break="no" n="10"/>lenter 
+          rapient et diripient? Deinde 
+          <lb ed="#P" n="11"/>indi videntes gentem christianam au<lb ed="#P" break="no" n="12"/>ro 
+          <lb ed="#P" n="13"/>inhiantem et confractorum idolorum
+          <lb ed="#P" n="14"/>deaurata frustula suma diligentia 
+          <lb ed="#P" n="15"/>colligere: seruare et tantum non ado<lb ed="#P" break="no" n="16"/>rare 
+          existimabunt profecto aurum Chris<lb ed="#P" break="no" n="17"/>tianorum 
+          Deum esse quod certo scimus 
+          <lb ed="#P" n="18"/>saepius credidisse illos. Preterea illi belli<lb ed="#P" break="no" n="19"/>geratores 
+          erunt interea tam casti tam 
+          <lb ed="#P" n="20"/>continentes et temperati quod alienas ux<lb ed="#P" break="no" n="21"/>ores 
+          non violabunt? Filias non stupra<lb ed="#P" break="no" n="22"/>bunt? 
+          Sed postquam gentes illae cognoue<lb ed="#P" break="no" n="23"/>rint 
+          ex doctrina religiosorum illa et 
+          <lb ed="#P" n="24"/>similia esse peccata prohibita lege chris<lb ed="#P" break="no" n="25"/>tianorum 
+          et tam paucos eam seruantes: pu<lb ed="#P" break="no" n="26"/>ta 
+          religiosos: tam multos contra eam agen<lb ed="#P" break="no" n="27"/>tes 
+          scilicet omnes illos nemine dempto: 
+          <lb ed="#P" n="28"/>nonne quaecumque fidei predicatores de fide 
+          <lb ed="#P" n="29"/>de religione de ipso christo anuntiabunt: 
+          <lb ed="#P" n="30"/>rationabiliter deliramenta vel conficta 
+          <lb ed="#P" n="31"/>mendacia putabunt? Erit ne hoc nefas 
+          <lb ed="#P" n="32"/>in his qui causam dederint tanto scanda<lb ed="#P" break="no" n="33"/>lo
+          et christi infamiae: aliquo sacrificio 
+          <lb ed="#P" n="34"/>expiabile? Quid ergo nobis iactant isti
+          <pb ed="#P" n="202-v"/>
+          <lb ed="#P" n="1"/>Sathanae satellites sese amplificare glo<lb ed="#P" break="no" n="2"/>riam 
+          christi cum impii operibus suis
+          <lb ed="#P" n="3"/>christi nomen adorandum apud Ido<lb ed="#P" break="no" n="4"/>latras 
+          infament et odiosum reddant. 
+          <lb ed="#P" n="5"/>In illosque verissime competat illud Pau<lb ed="#P" break="no" n="6"/>li 
+          (quod paulo ante Ambrosius plora<lb ed="#P" break="no" n="7"/>uit) 
+          per vos nomen dei blasphematur 
+          <lb ed="#P" n="8"/>inter gentes?
+        </p>
+        <p xml:id="lca8s8-d1e645-d1e311">
+          Audi lector ipsum diuum 
+          <lb ed="#P" n="9"/>Ambrosium super lucam libro 7 capitulo 
+          <lb ed="#P" n="10"/>44 Quid virga nisi perferendae potes<lb ed="#P" break="no" n="11"/>tatis 
+          insigne et ulciscendi instrumen<lb ed="#P" break="no" n="12"/>tum 
+          doloris? Ergo humilis domini in 
+          <lb ed="#P" n="13"/>humilitate enim iudicium eius subla<lb ed="#P" break="no" n="14"/>tum 
+          est, humilis, inquam, preceptum 
+          <lb ed="#P" n="15"/>domini discipuli eius humilitatis of<lb ed="#P" break="no" n="16"/>ficiis 
+          exequuntur. Eos enim misit ad 
+          <lb ed="#P" n="17"/>seminandum fidem qui non cogerent: sed 
+          <lb ed="#P" n="18"/>docerent. Nec vim potestatis exercerent: 
+          <lb ed="#P" n="19"/>sed doctrinam humilitatis <sic>attolerent</sic>.
+          <lb ed="#P" n="20"/>Quo loco humilitati putauit etiam pa<lb ed="#P" break="no" n="21"/>tientiam 
+          copulandam: quia ipse Iuxta 
+          <lb ed="#P" n="22"/>testimonium Petri 1 Petri 2o cum 
+          <lb ed="#P" n="23"/>malediceretur non maledicebat: cum 
+          <lb ed="#P" n="24"/>percuteretur non percutiebat: hoc est dice<lb ed="#P" break="no" n="25"/>re: 
+          imitatores mei stote: ultionis studia 
+          <lb ed="#P" n="26"/>deponite: insolentiam verberantium non) 
+          <lb ed="#P" n="27"/>iniuriae relatione: sed magnanimitate pa<lb ed="#P" break="no" n="28"/>tientiae 
+          supportate: Nemo in se debet 
+          <lb ed="#P" n="29"/>quod in alio reprehendit imitari: et 
+          <lb ed="#P" n="30"/>parum infra: et alibi habes: quia 
+          <lb ed="#P" n="31"/>cum apostoli ignem de coelo petere vellent 
+          <pb ed="#P" n="203-r"/>
+          <lb ed="#P" n="1"/>ut consumaret Samaritanos. Qui Iesum 
+          <lb ed="#P" n="2"/>dominum intra ciuitatem suam recipere no<lb ed="#P" break="no" n="3"/>luerunt 
+          conuersus increpans illos ait: Nes<lb ed="#P" break="no" n="4"/>citis 
+          cuius spiritus estis, filius hominis non 
+          <lb ed="#P" n="5"/>venit animas perdere sed saluas facere: Et 
+          <lb ed="#P" n="6"/>parum infra: inquit de paulo: abiecit 
+          <lb ed="#P" n="7"/>virgam et affectum charitatis assumpsit.
+        </p>
+        <p xml:id="lca8s8-d1e645-d1e384">
+          <lb ed="#P" n="8"/>Quid expressius produci potest aduersus 
+          <lb ed="#P" n="9"/>istos sathanae organa ignaros christi: cae<lb ed="#P" break="no" n="10"/>cos 
+          <pc type="virgula">/</pc> miserabiles: christi doctrinae et apos<lb ed="#P" break="no" n="11"/>tolicorum 
+          virorum traditionibus et exemplis 
+          <lb ed="#P" n="12"/>aduersantes: nouumque orbem atque adeo 
+          <lb ed="#P" n="13"/>nostras quoque prouintias pestilenti do<lb ed="#P" break="no" n="14"/>ctrina 
+          exitiabili <unclear>disidio</unclear> miscentes? A 
+          <lb ed="#P" n="15"/>christo habemus <quote xml:id="lca8s8-d1e645-Qd1e408" source="http://scta.info/resource/mc13_37@1-6">quod vobis dico, omni<lb ed="#P" break="no" n="16"/>bus 
+            dico.</quote> <ref xml:id="lca8s8-d1e645-Rd1e414" corresp="#lca8s8-d1e645-Qd1e408">Marci. 13.</ref> quod si Christus ita 
+          <lb ed="#P" n="17"/>instituit suos ut iusserit eos docere 
+          <lb ed="#P" n="18"/>non cogere humilitatem prestare et extollere 
+          <lb ed="#P" n="19"/>non superbiam militarem: et latronum 
+          <lb ed="#P" n="20"/>manum secum circumferre cur Sepulue<lb ed="#P" break="no" n="21"/>da 
+          profiteri audet: Indos bello perdoman<lb ed="#P" break="no" n="22"/>dos, 
+          antequam illis predicetur euangelium, 
+          <lb ed="#P" n="23"/>vt illud antequam intelligant odisse incipi<lb ed="#P" break="no" n="24"/>ant:
+          ut prius saeua militum manu cadant: 
+          <lb ed="#P" n="25"/>quam euangelicam veritatem intelligant? 
+          <lb ed="#P" n="26"/>Quid habent isti quod proferant aduersus 
+          <lb ed="#P" n="27"/>verba christi et patrum? An 
+          <lb ed="#P" n="28"/>christus aliter docuit cum indis agendum: 
+          <lb ed="#P" n="29"/>quam caeteris idolatris. An est reuocatum 
+          <lb ed="#P" n="30"/>illud praeceptum apostolis datum: <quote xml:id="lca8s8-d1e645-Qd1e446" source="http://scta.info/resource/mt10_12/critical/transcription@1-6">intrantes autem 
+          <lb ed="#P" n="31"/>domum salutate eam dicentes: pax huic 
+            <lb ed="#P" n="32"/>domui</quote>: et per <ref xml:id="lca8s8-d1e645-Rd1e453" corresp="#lca8s8-d1e645-Qd1e446">lucam</ref>: <quote xml:id="lca8s8-d1e645-Qd1e455" source="http://scta.info/resource/lc10_5@5-9">primum dicite pax 
+          <pb ed="#P" n="203-v"/>
+          <lb ed="#P" n="1"/>huic domui?</quote> Quid conuenit cum exem<lb ed="#P" break="no" n="2"/>plo 
+          christi: lanceis confodere indos igno<lb ed="#P" break="no" n="3"/>rantes 
+          antequam illis praedicetur euangeli<lb ed="#P" break="no" n="4"/>um, 
+          et innocentissimam gentem super<lb ed="#P" break="no" n="5"/>bo 
+          fastu: ac bellico furore exterrere vel 
+          <lb ed="#P" n="6"/>ad mortem vel ad fugam adigere? Vide 
+          <lb ed="#P" n="7"/>quid de huiusmodi predicatione dicat <ref xml:id="lca8s8-d1e645-Rd1e476" corresp="#lca8s8-d1e645-Qd1e481">Gregorius 
+          <lb ed="#P" n="8"/>in Epistola 25 libro 2</ref> <quote xml:id="lca8s8-d1e645-Qd1e481">noua vero atque inaudi<lb ed="#P" break="no" n="9"/>ta 
+          est ista predicatio quae verberibus exigit 
+          <lb ed="#P" n="10"/>fidem</quote>. Haec ille. Illa verba quae christus pre<lb ed="#P" break="no" n="11"/>cepit 
+          discipulis suis vt dicerent pax huic 
+          <lb ed="#P" n="12"/>domui omnem felicitatem significant au<lb ed="#P" break="no" n="13"/>tore 
+          <ref xml:id="lca8s8-d1e645-Rd1e494" target="http://scta.info/resource/adcd-l19-d1e3112@315-327">Augustino de ciuitate dei libro 9 capitulo 13<!-- it suggested that ref to 9 13 is an erorr and that actually lib 19, c. 12 is a better reference point--><!-- incipit "pacem itque...volunt vivere"--></ref> 
+          <lb ed="#P" n="14"/>eam enim pacem significat qua homines 
+          <lb ed="#P" n="15"/>quiete suis rebus perfruuntur: neque cuiquam 
+          <lb ed="#P" n="16"/>nocentes neque a quoquam damnum acci<lb ed="#P" break="no" n="17"/>pientes 
+          Ideo pax ab omnibus creaturis etiam 
+          <lb ed="#P" n="18"/>insensibilibus diligitur ut ibi notat Au<lb ed="#P" break="no" n="19"/>gustinus 
+          Et docet <ref xml:id="lca8s8-d1e645-Rd1e513" target="http://scta.info/resource/KJde3s-d1e199-d1e108@1-35"><!-- age igitur...ad totam unitatem -->Dionisius 11o de diuinis 
+          <lb ed="#P" n="20"/>nominibus</ref>. Ergo ilia verba pax huic domui ab 
+          <lb ed="#P" n="21"/>apostolis prolata perinde significabant ac 
+          <lb ed="#P" n="22"/>si dicerent: non venimus rapturi vestra vel 
+          <lb ed="#P" n="23"/>quietem vestram turbaturi. Quae sanctissima 
+          <lb ed="#P" n="24"/>verba paganos adducebant ad audiendum 
+          <lb ed="#P" n="25"/>euangelij anunciatores: nos antequam anunciemus 
+          <lb ed="#P" n="26"/>euangelium morte afficimus In<lb ed="#P" break="no" n="27"/>nocentes: 
+          et illato bello regna euertimus et 
+          <lb ed="#P" n="28"/>omnem pacem exulare facimus.
+        </p>
+        <p xml:id="lca8s8-d1e645-d1e537">
+          Proferat 
+          <lb ed="#P" n="29"/>Sepulueda locum unum ubi christus vel 
+          <lb ed="#P" n="30"/>sancti patres docuerunt bello subiugandos 
+          <lb ed="#P" n="31"/>paganos antequam illis euangelium predi<lb ed="#P" break="no" n="32"/>cetur 
+          <sic>syluestrer</sic> pontifex vir santus, ideo 
+          <pb ed="#P" n="204-r"/>
+          <lb ed="#P" n="1"/>verissimile non est ipsum ignorasse quo<lb ed="#P" break="no" n="2"/>modo 
+          Christus instruxerit suos quos ad 
+          <lb ed="#P" n="3"/>anunciandum euangelium misit. An sil<lb ed="#P" break="no" n="4"/>uester 
+          dissentire voluit ab Ambrosio vel 
+          <lb ed="#P" n="5"/>chrisostomo quos <add place="above-line">in</add> interpretandis scriptu<lb ed="#P" break="no" n="6"/>ris 
+          probabile est habuisse spiritum san<lb ed="#P" break="no" n="7"/>ctum 
+          veritas non pugnat cum veritate: 
+          <lb ed="#P" n="8"/>neque Spiritus sanctus dissonantia loquitur. 
+          <lb ed="#P" n="9"/>somniat ergo Sepulueda. Non enim cons<lb ed="#P" break="no" n="10"/>tantinus 
+          hortatu siluestri bellum paga<lb ed="#P" break="no" n="11"/>nis 
+          intulit: ex eo solo quod pagani essent 
+          <lb ed="#P" n="12"/>neque locus quisquam est ex quo hoc colligi 
+          <lb ed="#P" n="13"/>possit. Neque Sepulueda ut iactat omnes 
+          <lb ed="#P" n="14"/>sacros doctores diligentes euoluit. Etenim 
+          <lb ed="#P" n="15"/>si in eis esset versatus nequaquam haec impia 
+          <lb ed="#P" n="16"/>proferret.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

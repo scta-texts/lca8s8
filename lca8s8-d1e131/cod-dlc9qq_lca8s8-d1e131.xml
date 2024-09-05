@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 7 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 7 [Bnf 12926 Transcription]</title>
+          <date when="2024-08-16">August 16, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="37-v"/>
+      </div>
+    </front>
+    <body>
+      <div>
+		<head>Caput 7 [Bnf 12926 Transcription]</head>
+		<p>
+			<lb ed="22"/>Caput 7m
+		</p>
+		<p>
+			<lb ed="#P"/>¶ Infideles non esse de foro ecclesiae probatur 
+			<lb ed="#P"/>secundo ex <ref>Paulo 1ae ad Corinthios 5o</ref>. <quote>Quid enim (in<lb ed="#P" break="no"/>quit)
+			mihi de his qui foris sunt judicare on<lb ed="#P" break="no"/>ne
+			de his qui intus sunt vos judicatis: nam 
+			<lb ed="#P"/>eos qui foris sunt deus judicabit</quote>. Haec Pauli 
+			<lb ed="#P"/>verba omnes doctores tam sacri quam non sancti 
+			<lb ed="#P"/>tam greci quam latini iriterpretantur significare 
+			<lb ed="#P"/>ecclesiam regulariter non posse judicare de in<pb ed="#P" n="38-r"/><lb ed="#P" break="no"/>fidelibus
+			qui numquam christianam fidem sus<lb ed="#P" break="no"/>ceperunt.
+			Cuius ratio est.
+			<add place="rm" hand="E">sic modo in concilio tridentino, sessione 14a, 2</add>
+		</p>
+		<p>
+			<lb ed="#P"/>¶ Quoniam Deus qui omnium dominus est 
+			<lb ed="#P"/>noluit ecclesam suam dare hos judicare: sed 
+			<lb ed="#P"/>sibi judicium reseruauit. <ref>Glosa interlinealis</ref> 
+			<lb ed="#P"/>exponens illa verba <quote>eos qui foris sunt (inquit) 
+			<lb ed="#P"/>extra ecclesiam his blandiendum nobis comi<lb ed="#P" break="no"/>sit</quote>.
+				<add place="rm" hand="F">Hieronymus</add>
+			Et <ref><name>Hieronymus</name></ref> ibi: <quote>Numquid non vos 
+			<lb ed="#P"/>de his solis qui sunt intra Ecclesiam judicatis</quote>. 
+			<lb ed="#P"/>haec ille. 
+		</p>
+		<p>
+				<add place="rm" hand="F">Anselmus</add>
+			Rursus Anselmus: <quote>de infidelibus (in<lb ed="#P" break="no"/>quit)
+			qui foris sunt, id est, extra ecclesiam vt 
+			<lb ed="#P"/>eos vobis cauendos judicarem sicut putastis: 
+			<lb ed="#P"/>his enim blandiendum est vt per amorem et 
+			<lb ed="#P"/><emph rend="underline">dulcedinem possint christo lucrari</emph></quote>. Ex infra: 
+			<lb ed="#P"/><quote>Nam eos qui foris sunt non commisit deus vo<lb ed="#P" break="no"/>bis
+			judicandos: sed ipse judicabit eos in fu<lb ed="#P" break="no"/>turo
+			secundum distinctionem justitiae suae 
+			<lb ed="#P"/>reddens digna supplicia</quote>. Haec Anselmus. 
+		</p>
+		<p>
+				<add place="rm" hand="F">Athanatius</add>
+				Et <ref>Athanasius in eodem loco</ref>. <quote>Neminem equi<lb ed="#P" break="no"/>dem
+			nunc eorum qui exteriores sunt allo quor: 
+			<lb ed="#P"/>id enim leges meas excederet. Superuacaneum 
+			<lb ed="#P"/>igitur christi precepta illis iniungerim qui 
+			<lb ed="#P"/>extra christi aulam deuagantur. Quaecumque 
+			<lb ed="#P"/>enim lex disserit his qui sub lege sunt disserit</quote>. 
+			<lb ed="#P"/>haec ille. 
+				<add place="rm" hand="F">Augustinus</add>
+			Idem docet <ref>Augustinus in pluribus 
+			<lb ed="#P"/>locis</ref>. <ref>Theophilactus</ref> et <ref>Beda</ref>, Rursus <ref><name>Nico<lb ed="#P" break="no"/>laus
+			Gorranus</name> interpretatur apostoli verba</ref> in 
+			<lb ed="#P"/>hunc modum. quasi dicat. <quote>judicare de infi<lb ed="#P" break="no"/>delibus
+			ad me non pertinet: sed potius est eis 
+			<lb ed="#P"/>blandiendum, vt conuertantur. Sic etiam vo<lb ed="#P" break="no"/>luit
+			dominus <ref>lucae 12o</ref>. O bomo, quis me 
+			<pb ed="#P" n="38-v"/>
+			<lb ed="#P"/>constituit judicem aut dimissorem super vos.
+			<lb ed="#P"/>Non erat de discipulis eius</quote>. haec ille. 
+		</p>
+		<p>
+				<add place="lm" hand="F">Sanctus Thomas</add>
+			Rursus 
+			<lb ed="#P"/>Sanctus <ref>Thomas illum locum</ref> ita exponit. <quote><quote>Quid enim 
+			<lb ed="#P"/>mihi est</quote>, id est, quid ad me pertinet judicare, id est, 
+			<lb ed="#P"/>sententiam condemnationis ferre de his qui 
+			<lb ed="#P"/>foris sunt, id est, de infidelibus qui sunt om<lb ed="#P" break="no"/>nino
+			extra ecclesiam. Prelati enim eccle<lb ed="#P" break="no"/>siarum
+			accipiunt spiritualem potestatem super 
+			<lb ed="#P"/>eos tantum qui se fidei subdiderunt secundum il<lb ed="#P" break="no"/>lud
+			<ref>2 corinthios 10</ref>: <quote>in promptu habentes vl<lb ed="#P" break="no"/>cisci
+			omnem inobedientiam cum impleta 
+			<lb ed="#P"/>fuerit vestra obedientia</quote></quote>. Haec Sanctus Thomas. Pre<lb ed="#P" break="no"/>terea
+			in <ref>tractatu contra impugnantes re<lb ed="#P" break="no"/>ligionem
+			c. 15o ad 4um</ref> exponit eodem mo<lb ed="#P" break="no"/>do
+			illa verba. 
+		</p>
+		<p>
+				<add place="lm" hand="F">brunnus</add>
+			Idem sentit <ref><name> diuus brunus</name> 
+			<lb ed="#P"/>super Epistolas Pauli</ref>, et 
+				<add place="lm" hand="F">Ricardus</add>
+			<ref><name>Ricardus</name> a me<lb ed="#P" break="no"/>diavilla
+			in 4o sententiarum distinctione 7a a. 2o q. 
+	  		<lb ed="#P"/>2a</ref> docens quod <quote>vicario christi non fuit conces<lb ed="#P" break="no"/>sa
+  			directa potestas aliqua super illos, qui 
+  			<lb ed="#P"/>sacramentum baptismi non susceperunt: 
+  			<lb ed="#P"/>quod est ianua qua intratur in ecclesiam 
+  			<lb ed="#P"/>militantem: unde <ref>apostolus 1ae ad corinthios 
+  			<lb ed="#P"/>5o</ref> <quote>quid est mihi de his</quote> et caetera. Vnde glosa 
+  			<lb ed="#P"/><quote>id est, quid mihi attinet judicare. ac si dicat 
+  			<lb ed="#P"/>non attinet ad me in his judicare: sed de 
+  			<lb ed="#P"/>his qui intus sunt in ecclesia proffessione 
+  			<lb ed="#P"/>et nomine: nonne vos judicatis? Vtique, et 
+  			<lb ed="#P"/>eos qui foris sunt deus tantum judi<lb ed="#P" break="no"/>cabit:
+  			non nobis commisit vt eos nunc judi<lb ed="#P" break="no"/>cemus</quote></quote> 
+  			et caetera. Haec omnia ex Ricardo. 
+		</p>
+		<p>
+			Simi<lb ed="#P" break="no"/>liter
+			<ref><name>diuus Thomas</name> 2a 2e q. 12a a. 2o</ref> inquit:
+			<pb ed="#P" n="39-r"/>
+			<lb ed="#P"/><quote>ad ecclesiam non pertinet punire infidelita<lb ed="#P" break="no"/>tem
+			in his qui numquam fidem susceperunt, secundum 
+			<lb ed="#P"/>illud <ref>apostoli 1 ad corinthios 5o</ref>: <quote>Quid mihi de his</quote> 
+			<lb ed="#P"/>et caeterar: Sed infidelitatem illorum qui fidem suscepe<lb ed="#P" break="no"/>runt
+			potest sententialiter punire</quote>. haec <name>Sanctus Thomas</name>. 
+			<lb ed="#P"/>Si ad ecclesiam non pertinet infidelitatem in<lb ed="#P" break="no"/>fidelium
+			qui fidem non receperunt: ergo non 
+			<lb ed="#P"/>sunt de foro ecclesiae.
+		</p>
+		<p>
+			¶ Ad idem <ref><name>Nicolaus 
+			<lb ed="#P"/>Liranus</name></ref>: <quote>eadem verba exponit in hunc mo<lb ed="#P" break="no"/>dum:
+			ad me non pertinet quoniam sunt extra fo
+			<lb ed="#P"/>rum ecclesiae</quote>.
+		</p>
+		<p>
+			¶ Omnes ergo doctores docent 
+			<lb ed="#P"/>ex illis Pauli verbis infideles non posse pu<lb ed="#P" break="no"/>niri
+			ab ecclesia quoniam non sunt de foro ecclesiae.
+		</p>
+		<p>	
+			<lb ed="#P"/>¶ Preterea 3o ecclesiam non posse punire infideles 
+			<lb ed="#P"/>probatur hoc argumento: quod et me et mea 
+			<lb ed="#P"/>omnia eius correctioni submitto. 
+				<add place="rm" hand="F">ad ecclesiam non pertinet 
+				vi tollere cultum 
+				idolorum in non subditis</add>
+			Ad ecclesiam 
+			<lb ed="#P"/>non pertinet vi tollere idolorum cultum: neque 
+			<lb ed="#P"/>idolatras castigare saltem in non subditis 
+			<lb ed="#P"/>ergo idolatrae et infideles non sunt ecclesiastici 
+			<lb ed="#P"/>fori. consequentia jam patet per rationes et au<lb ed="#P" break="no"/>toritates
+			precedentes. 
+		</p>
+		<p>
+			Antecedens vero quantum 
+			<lb ed="#P"/>ad 1am partem (scilicet) quod ad ecclesiam non per<lb ed="#P" break="no"/>tinet
+			vi tollere idolorum cultum. <add place="rm" hand="F">Augustinus</add>Probatur ex 
+			<lb ed="#P"/><ref><name>Augustino</name> liber <title>de verbis domini</title> sermone 6o</ref> 
+			<lb ed="#P"/>de puero centurionis: qui ibi haec verba scribit: 
+			<lb ed="#P"/><quote>fratres ad nos pertinet vobis dicere ad nos per<lb ed="#P" break="no"/>tinet
+			christianis loqui. <quote>Quid enim mihi de 
+			<lb ed="#P"/>his qui foris sunt judicare?</quote> <ref>ipse apostolus ait</ref>:
+			<lb ed="#P"/>illos (scilicet) paganos alloquimur aliter tamquam 
+			<lb ed="#P"/>infirmos. Blandiendum est illis vt audiant 
+			<lb ed="#P"/>veritatem: in vobis secanda est putredo. Si
+			<pb ed="#P" n="39-v"/>quaeritis unde vincantur pagani, vnde illumi<lb ed="#P" break="no"/>nentur,
+			vnde ad salutem vocentur: deserite 
+			<lb ed="#P"/>omnes solemnitates eorum: deserite nugas ip<lb ed="#P" break="no"/>sorum,
+			et si non consentiunt veritati nostrae: eru<lb ed="#P" break="no"/>bescant
+			paucitati suae</quote>. 
+		</p>
+		<p>
+			Ex infra: <quote>verbis eorum 
+			<lb ed="#P"/>ne credatis nec timeatis. Hostes nos dicunt 
+			<lb ed="#P"/>idolorum suorum. Sic prestet eeus et det omnia 
+			<lb ed="#P"/>in potestate quomodo dedit quod factum 
+			<lb ed="#P"/>est, hoc enim dicimus charitati vestrae ne 
+			<lb ed="#P"/>faciatis ista: quando in potestate non est vt 
+			<lb ed="#P"/>faciatis illud. Prauorum hominum est fu<lb ed="#P" break="no"/>riosorum:
+			circumcellionum: et ubi potestatem 
+			<lb ed="#P"/>non habent saeuire. Et velle mori properant 
+			<lb ed="#P"/>sine causa. Audistis quae vobis legimus: qui 
+			<lb ed="#P"/>nuper in mappalibus afuistis? <quote>Cum data 
+			<lb ed="#P"/>vobis fuerit terra in potestatem. <ref>Deuteronomio 7o 
+			<lb ed="#P"/>et 12o</ref> prius (ait in potestatem) aras eorum (in<lb ed="#P" break="no"/>quit)
+			destruetis: lucos eorum comminuetis, 
+			<lb ed="#P"/>et omnes titulos eorum confringetis</quote>. Cum <emph rend="underline">ac<lb ed="#P" break="no"/>ceperitis
+			potestatem hoc facite: ubi nobis non 
+			<lb ed="#P"/>est data potestas, non facimus: vbi data est</emph> 
+			<lb ed="#P"/>non pretermittimus. Multi pagani habent 
+			<lb ed="#P"/>istas abominationes in fundis suis: numquid 
+			<lb ed="#P"/>accedimus et confringimus? Prius enim agimus 
+			<lb ed="#P"/>vt idola in eorum cordibus frangamus. Quan<lb ed="#P" break="no"/>do
+			christiani et ipsi facti fuerint: aut in<lb ed="#P" break="no"/>vitant
+			nos ad tam bonum opus: aut preue<lb ed="#P" break="no"/>niunt
+			nos: modo orandum est pro illis: non irascendum illis</quote>. 
+		</p>
+		<p>
+			Et infra: <quote>quia ergo voluit 
+			<lb ed="#P"/>deus: putant nos vbicumque querere idola: 
+			<lb ed="#P"/>quae cum inuenerimus in omnibus locis fran<pb ed="#P" n="40-r"/><lb ed="#P" break="no"/>gere.
+			Quare? Non ante nos sunt loca in quibus 
+			<lb ed="#P"/>sunt? Aut vere ignoremus vbi sunt ista? Et 
+			<lb ed="#P"/>tamen non facimus: quia non dedit in potesta<lb ed="#P" break="no"/>tem
+			deus. Quando dat deus in potestatem? quan<lb ed="#P" break="no"/>do
+			christianus erit, cuius res est. Modo factum 
+			<lb ed="#P"/>voluit cuius est. Si nollet ipsum locum dare 
+			<lb ed="#P"/>ecclesiae et tantum iubere in re sua: non rem 
+			<lb ed="#P"/>idola puto: quia deberet suma deuotione fieri 
+			<lb ed="#P"/>a christianis: adiuuaretur absens. Christia<lb ed="#P" break="no"/>na
+			anima quae de terra vult deo gratias agere: 
+			<lb ed="#P"/>non vult ibi aliquid esse in contumeliam dei. 
+			<lb ed="#P"/>Parum est illis quia de villis ipsorum non illa 
+			<lb ed="#P"/>tollimus: non illa frangimus; et in nostris 
+			<lb ed="#P"/>volunt seruari ea. Contra idola predicamus: 
+			<lb ed="#P"/><emph rend="underline">de cordibus illa tollimus: sumus persecutores 
+			<lb ed="#P"/>idolorum: profitemur. Numquid seruatores?</emph> 
+			<lb ed="#P"/>Non facio ubi non possum: non facio vbi con<lb ed="#P" break="no"/>queretur
+			dominus rei, vbi autem vult fieri et 
+			<lb ed="#P"/>gratias agit: reus ero, si non egero</quote>. Haec omnia 
+			<lb ed="#P"/>Augustinus. 
+		</p>
+		<p>
+			Ex his verbis manifeste elicitur 
+			<lb ed="#P"/>Augustinum sensisse ecclesiam non habere 
+			<lb ed="#P"/>jurisdictionem super idolatras regulariter: et 
+			<lb ed="#P"/>sibi vel membris suis subditos neque posse 
+			<lb ed="#P"/>vi  cogere eos idolorum cultum relinquere: neque 
+			<lb ed="#P"/>inania simulacra eorum, ipsis inuitis  confrin<lb ed="#P" break="no"/>gere.
+			Vbi cum dicit: <quote>non<add place="above-line" hand="B">ne</add> ante nos sunt loca 
+			<lb ed="#P"/>in quibus sunt? Aut vere ignoramus ubi sunt 
+			<lb ed="#P"/>ista?</quote> quasi dicat: <quote>non ignoramus sed non fa<lb ed="#P" break="no"/>cimus:
+			quia non dedit deus nobis in potesta<lb ed="#P" break="no"/>tem</quote>:
+			manifeste ostendit potestatem hanc ecclesiae 
+			<lb ed="#P"/>denegatam facti non esse sed juris. Cum chris<pb ed="#P" n="40-v"/><lb ed="#P" break="no"/>tiani
+			possent per vim idola tollere vt inuit Au<lb ed="#P" break="no"/>gustinus
+			ibi. Et sic vult docere Ecclesiam in hac 
+			<lb ed="#P"/>parte ad tollendum idola inuitis idolatris om<lb ed="#P" break="no"/>nino
+			potestate carere, et sic fore illicitum. Haec 
+			<lb ed="#P"/>Augustini sententia non solum refellit aduer<lb ed="#P" break="no"/>sariorum
+			vanam opinionem: verum etiam probat 
+			<lb ed="#P"/>falsam esse opinionem <ref>hostiensis in c. quod 
+			<lb ed="#P"/>super his: de voto</ref> de quo alibi latius disse<lb ed="#P" break="no"/>rui.
+		</p>
+		<p>
+			Notandum autem Augustinum dicere 
+			<lb ed="#P"/>quod confringere idola et illorum cultum vetare 
+			<lb ed="#P"/>antequam idolatras habeamus in potestate. quod 
+			<lb ed="#P"/>intelligendum est antequam sint de foro ecclesiae 
+			<lb ed="#P"/>per baptismum: est opus amentium et furiosorum 
+			<lb ed="#P"/>hominum circumcellionum. Hi circum<lb ed="#P" break="no"/>celliones
+			autore <ref>Isidoro etymologiarum libro 
+			<lb ed="#P"/>8o c. 5o</ref> heretici quidam erant qui sese 
+			<lb ed="#P"/>occidebant, vt martyres haberentur.
+				<add place="lm" hand="F">circumcelliones vocabantur 
+				quidam heretici 
+				qui se ipsos interficiebant 
+				ut martyres 
+				essent</add>
+			His si
+			<lb ed="#P"/>miles <ref>scribit Augustinus</ref> esse eos qui vbi co<lb ed="#P" break="no"/>nantur
+			tollere idolorum cultum, vt id agentes 
+			<lb ed="#P"/>occisi existimentur martyres, edeo inquit: 
+			<lb ed="#P"/><quote>Vbi potestatem non habent saeuire et velle mo<lb ed="#P" break="no"/>ri
+			properant sine causa</quote> et caetera. Et ideo ni fal<lb ed="#P" break="no"/>lor
+			contra hos habuit originem <ref>concilium 
+			<lb ed="#P"/><subst hand="A or B"><del rend="strikethrough">Eliberitinum</del><add place="lm">Illiberitanum</add></subst> c. 60</ref> quod inquit: <quote>si quis 
+			<lb ed="#P"/>idola fregerit et ibidem fuerit occissus: quia 
+			<lb ed="#P"/>in euangelio non est scriptum neque inueni<lb ed="#P" break="no"/>tur
+			ab apostolis unquam factum: placuit in 
+			<lb ed="#P"/>numerum non recipi martirum</quote>. Nota ex 
+			<lb ed="#P"/>verbis concilij numquam christum neque eius 
+			<lb ed="#P"/>apostolos quorum tempore totus orbis in idolorum 
+			<pb ed="#P" n="41-r"/>cultum insaniebat: confregisse neque jussisse 
+			<lb ed="#P"/>alium vt vi confringeret idola. Etenim si 
+			<lb ed="#P"/>hoc vel fecisset vel jussisset vtique in Euan<lb ed="#P" break="no"/>gelio
+			legeretur. Quod reuera si hoc expedi<lb ed="#P" break="no"/>ret
+			vel justum esset christus et apostoli foe<lb ed="#P" break="no"/>cissent
+			absque timore principum: quos vel mi<lb ed="#P" break="no"/>raculis
+			vel verbo dei exterruissent. 
+		</p>
+		<p>
+			Legimus 
+			<lb ed="#P"/><name>Ananiam</name> et <name>Saphiram</name> <name>Petri</name> apostoli ver<lb ed="#P" break="no"/>bis.
+			increpatos eflasse animam: atque <del rend="strikethrough">a</del> ideo 
+			<lb ed="#P"/>magnum timorem caeteris fuisse in cussum. 
+			<lb ed="#P"/>Ita legitur <ref>Actuum 5o</ref>: <quote>Audiens autem Ana<lb ed="#P" break="no"/>nias
+			haec verba cecidit et expirauit: et fac<lb ed="#P" break="no"/>tus
+			est timor magnus super omnes qui 
+			<lb ed="#P"/>audierunt</quote>. Ex quo elicitur apostolos non 
+			<lb ed="#P"/>confregisse idola: quod pauperes et omni presi<lb ed="#P" break="no"/>dio
+			destituti essent, sed quia licitum non 
+			<lb ed="#P"/>erat. Poterant enim solo verbo perdere ho<lb ed="#P" break="no"/>minem
+			neque illi mortis aut ignominiae me<lb ed="#P" break="no"/>tu
+			cessabant facere quae conducebant euan<lb ed="#P" break="no"/>gelico
+			negotio. Excedebant enim potentia: 
+			<lb ed="#P"/>omnes principes, caesares et tyranos: atque ideo 
+			<lb ed="#P"/>spiritus sanctus appellat eos principes terrae
+			<lb ed="#P"/><ref>psalmo 44o</ref>: <quote>Constitues eos principes super 
+			<lb ed="#P"/>omnem terram</quote>.
+		</p>
+		<p>
+			Quod si legimus aliquan<lb ed="#P" break="no"/>do
+			apostolos vel martyres jussisse demones 
+			<lb ed="#P"/>cum deferrentur ad sacrificandum idolis: 
+			<lb ed="#P"/>vt simulacra illa inanium deorum confrin<lb ed="#P" break="no"/>gerent:
+			illud erat consensu paganorum. 
+			<lb ed="#P"/>Huiusmodi est illud quod legimus in vita 
+			<lb ed="#P"/><ref><name>Diui Bartholomeij</name></ref>, <quote>si vultis vt omnes infir<pb ed="#P" n="41-v"/><lb ed="#P" break="no"/>mi
+			Sanitatem recipiant: deponite hoc ido<lb ed="#P" break="no"/>lum
+			et confringite et templum hoc christi 
+			<lb ed="#P"/>consecrabo</quote>: quod cum tentassent de jussu 
+			<lb ed="#P"/>regis, et non possent: <ref>dixit apostolus</ref> ad de<lb ed="#P" break="no"/>monem:
+			<quote>exi de simulacro, et confringe illud</quote>. Haec <ref>in legenda et vita eius</ref>.
+		</p>
+		<p>
+			Aliquando 
+			<lb ed="#P"/>confringebant idola diuina virtute: vt os<lb ed="#P" break="no"/>tentatis
+			miraculis fides haberetur euan<lb ed="#P" break="no"/>gelicae
+			veritati quam anuntiabant. Sic 
+			<lb ed="#P"/>legimus <ref>actuum 17o</ref> Paulum apostolum
+			<lb ed="#P"/>Athenis circuisse omnia idolorum simulachra 
+			<lb ed="#P"/>ac tandem respexisse aram ignoto deo con<lb ed="#P" break="no"/>secratam,
+			colloquentemque cum dionysio illum 
+			<lb ed="#P"/>ad idolorum contemptum rationibus prius et 
+			<lb ed="#P"/>facto miraculo: non autem rapiendo vel sub<lb ed="#P" break="no"/>uertendo
+			idola ad veri Dei cultum pertra<lb ed="#P" break="no"/>xisse,
+			ita vt tam ille quam etiam multi alij 
+			<lb ed="#P"/>idola proprijs manibus confr<subst hand="B"><del rend="strikethrough">i</del><add place="inline">i</add></subst>egerint: quod 
+			<lb ed="#P"/>nobis saepius contingit apud indos.
+		</p>
+		<p>
+			Haec 
+			<lb ed="#P"/>quidem est vere christiana ratio vt tradat 
+			<lb ed="#P"/>prius nobis deus in possessionem terram: 
+			<lb ed="#P"/>id est: vt idolatrae conuertantur quorum 
+			<lb ed="#P"/>idola sunt: et per consequens idola confrin<lb ed="#P" break="no"/>gendi
+			et idolorum cultum abrrogandi: doce<lb ed="#P" break="no"/>re
+			videlicet idolorum cultores veritatem Euan<lb ed="#P" break="no"/>gelicam
+			et ad Ecclesiae sagenam illos rationi<lb ed="#P" break="no"/>bus
+			perducere. Tunc enim nos licite illa fran<lb ed="#P" break="no"/>gemus
+			(ut <ref>dixit Augustinus</ref>) immo ipsi met 
+			<lb ed="#P"/>euangelicam lucem adorantes: impia demo<lb ed="#P" break="no"/>num
+			simulacra confringent, et conculcabunt
+			<pb ed="#P" n="42-r"/>nobiscum.
+		</p>
+		<p>
+			Ecclesia igitur regulariter non 
+			<lb ed="#P"/>potest vi confringere idola: antequam pagani eua<lb ed="#P" break="no"/>ngelicam
+			veritatem audierint et libenter 
+			<lb ed="#P"/>susceperint. Est enim exitiale dilatationi
+			<lb ed="#P"/>verae religionis. Nisi forte jam pagani ma<lb ed="#P" break="no"/>xime
+			procliues essent suscipiendae nostrae religio<lb ed="#P" break="no"/>ni:
+			vel si voluntarie nostrae ditioni se sub<lb ed="#P" break="no"/>misissent:
+			tunc enim idolorum cultus veta<lb ed="#P" break="no"/>ri
+			poterit additis aliquibus leuibus legibus. 
+			<lb ed="#P"/>Si modo absit quodcumque scandalum. 
+			<lb ed="#P"/>Quod tamen raro fiet: et non nisi vbi presens 
+			<lb ed="#P"/>rerum occasio in vtilitatem gentis rem ces<lb ed="#P" break="no"/>suram
+			ostenderit. Non enim expedit 
+			<lb ed="#P"/>idolorum cultum violentia hominum tolli: 
+			<lb ed="#P"/>sed verbo dei.
+		</p>
+		<p>
+			Quid enim Egerimus: si, 
+			<lb ed="#P"/>vi confractis idolis pagani christum adhuc 
+			<lb ed="#P"/>ignorantes: clam dijs suis sacrificia sua 
+			<lb ed="#P"/>offerant in siluis montibus et desertis: vbi 
+			<lb ed="#P"/>prementes maxime christum inuenire so<lb ed="#P" break="no"/>lent?
+			Eximentur enim fortassis idola e tem<lb ed="#P" break="no"/>plis:
+			non tamen e cordibus. Quare optime 
+			<lb ed="#P"/><name>Diuus Gregorius</name> inquit: 
+				<add place="rm" hand="F">Gregorius</add>
+				<quote>in vanum infidelibus ce<lb ed="#P" break="no"/>remonias
+			vel totaliter tollimus vel qualiter 
+			<lb ed="#P"/>colere debeant regulas ponimus: si per hoc 
+			<lb ed="#P"/>eos lucrari non possumus?</quote> <ref>45a distinctione c. qui 
+			<lb ed="#P"/>sincera</ref>. <quote>Prius ergo inquit Augustinus fran<lb ed="#P" break="no"/>gamus
+			idola in cordibus eorum</quote>. Idolatria 
+			<lb ed="#P"/>autem absque Euangelij predicatione et cognitione 
+			<lb ed="#P"/>veri dei: sero vel numquam abolebitur autore
+			<pb ed="#P" n="42-v"/><ref>Chrysostomo super 2a ad corinthios ho<lb ed="#P" break="no"/>milia
+			7a</ref> et <ref>Gulielmo Parisiensi in libro de 
+			<lb ed="#P"/>legibus</ref>. 
+		</p>
+		<p>
+			Hinc <ref>Sanctus Thomas 2a 2ae q. 10a ar. 11o</ref> 
+			<lb ed="#P"/>docet ritus paganorum tolerari debere ab ec<lb ed="#P" break="no"/>clesia:
+			vt audientes Euangelicam predica<lb ed="#P" break="no"/>tionem
+			conuertantur ad fidem. loquitur 
+			<lb ed="#P"/>de paganicis ritibus: qui in terris ecclesiae 
+			<lb ed="#P"/>peraguntur. De alijs enim non oportebat 
+			<lb ed="#P"/>illum dicere debere tolerari. Cum nihil 
+			<lb ed="#P"/>ad ecclesiam de huiusmodi nisi per opportunam 
+			<lb ed="#P"/>Euangelij praedicationem suadere quod illos 
+			<lb ed="#P"/>relinquant. <name>Sancti Thomae</name> verba haec sunt. 
+			<lb ed="#P"/><quote>Propter aliquod (inquit) malum vitan<lb ed="#P" break="no"/>dum
+			(scilicet) ad vitandum scandalum 
+			<lb ed="#P"/>vel decidium quod ex hoc posset prouenire: 
+			<lb ed="#P"/>vel impedimentum salutis eorum: qui pau<lb ed="#P" break="no"/>latim
+			sic tolerati conuertentur ad fidem: 
+			<lb ed="#P"/>propter hoc n. enim etiam hereticorum et paga<lb ed="#P" break="no"/>norum
+			ritus aliquando ecclesia tolerauit: 
+			<lb ed="#P"/>quando erat magna infidelium multi<lb ed="#P" break="no"/>tudo</quote>.
+			Haec sanctus Thomas.
+		</p>
+		<p>
+			Equidem haec 
+			<lb ed="#P"/>adeo manifesta sunt: vt arbitrer<name>Sepul<lb ed="#P" break="no"/>uedae</name> 
+			quantumuis sententiae suae pertinaci 
+			<lb ed="#P"/>assertori satisfactura, quid enim jam est 
+			<lb ed="#P"/>quod calumnietur? obijcit nobis Sanctum Thomam 
+			<lb ed="#P"/>contra se ipsum. certe vir ille sanctus tolle<lb ed="#P" break="no"/>rari
+			vult paganos et allici ad fidem: non 
+			<lb ed="#P"/>violenter cogi: docere christianorum est coge<lb ed="#P" break="no"/>re
+			tyranorum. Nam  que potest omnium predictorum 
+			<pb ed="#P" n="43-r"/>generalis ratio vtique assignari. Cum enim 
+			<lb ed="#P"/>natura ipsa omne hominum genus deum 
+			<lb ed="#P"/>esse colendum doceat: cultus autem diuinus 
+			<lb ed="#P"/>in caeremonijs consistat: inde fit vt quem
+			<lb ed="#P"/>admodum sine Deo vero vel falso habito 
+			<lb ed="#P"/>pro vero homines viuere nequeunt: ita 
+			<lb ed="#P"/>neque absque caeremoniarum quarumcumque exercitio. 
+			<lb ed="#P"/>Maxime quoniam apud gentiles caeremonijs 
+			<lb ed="#P"/>et sacrificijs: totum statum reipublicae in fe<lb ed="#P" break="no"/>licitate
+			conseruari vigebat opinio. Vnde 
+			<lb ed="#P"/>si ipsis inuitis caeremonias suas omnino 
+			<lb ed="#P"/>tolleremus preter alia plura inconuenientia 
+			<lb ed="#P"/>quae sequerentur: fidem catholicam et chris<lb ed="#P" break="no"/>tianam
+			religionem exossam habe<subst hand="B"><del rend="strikethrough">ndam eos 
+			<lb ed="#P"/>esse</del><add place="above-line">rent</add></subst> et oblique ad suscipiendum fidem ipsam 
+			<lb ed="#P"/>eos compellere (quod prohibitum est) vide<lb ed="#P" break="no"/>remur.
+		</p>
+		<p>
+			Quando ergo tanta multitudo infi<lb ed="#P" break="no"/>delium
+			in orbe vniuerso fuit: vt causa justa 
+			<lb ed="#P"/>esset ritus eorum tolerandi etiam si subditi ecclesiae 
+			<lb ed="#P"/>fuissent? Aut in quibus alijs nationibus 
+			<lb ed="#P"/>facilius idola in cordibus infringi potuerunt: 
+			<lb ed="#P"/>ac sic totaliter idolatria prorsus aboleri
+			<note type="marginal-note" place="rm" hand="F"><del rend="srikethrough" hand="?">sicut in occiduis indiarum regionibus</del></note>
+			Ve<lb ed="#P" break="no"/>hementissima
+			vitari scandala: perditio quo<lb ed="#P" break="no"/>que
+			innumerabilium animarum: si paulatim 
+			<lb ed="#P"/>docerentur et tolerarentur quam in nostris indorum 
+			<lb ed="#P"/>gentibus? Profecto scit melius ipsa sancta 
+			<lb ed="#P"/>ecclesia minime ad se pertinere violenter ido<lb ed="#P" break="no"/>la
+			idolatriamque tollere infidelibus de quibus 
+			<lb ed="#P"/>sermo nobis est: sed verbo dumtaxat diuino 
+			<pb ed="#P" n="43-v"/>et dulci rationis instantia: quomodo sem<lb ed="#P" break="no"/>per
+			noscitur usa fuisse ab ineunte eius in<lb ed="#P" break="no"/>fantia
+			vsuraque (ut spero) usque ad aduentum 
+			<lb ed="#P"/>justi judicis sponsi sui Jesuchristi. Labun<lb ed="#P" break="no"/>tur
+			igitur et contra ecclesiae consuetudinem 
+			<lb ed="#P"/>et sanctorum patrum doctrinam et exempla 
+			<lb ed="#P"/>faciunt et sentiunt: contrarium facientes 
+			<lb ed="#P"/>vel faciendum esse asserentes. Et sic tan<lb ed="#P" break="no"/>dem
+			patet infideles inquantum huiusmodi non esse 
+			<lb ed="#P"/>de foro aut jurisdictione ecclesiae. Vide <ref>in<lb ed="#P" break="no"/>fra
+			capite 48</ref> diffusius.
+		</p>
+	</div>
+    </body>
+  </text>
+</TEI>

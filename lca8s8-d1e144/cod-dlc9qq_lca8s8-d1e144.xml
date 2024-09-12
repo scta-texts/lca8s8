@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 8 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 8 [Bnf 12926 Transcription]</title>
+          <date when="2024-08-23">August 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="43-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e144">
+        <head xml:id="lca8s8-d1e144-Hd1e97">Caput 8 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e144-d1e99">
+          <lb ed="#P" n="12"/>Capvt 8m
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e104">
+          <lb ed="#P" n="13"/>¶ Supra capite precedenti docuimus infi<lb ed="#P" break="no" n="14"/>deles 
+          non esse de foro ecclesiae, nunc probabi<lb ed="#P" break="no" n="15"/>mus 
+          <add place="al" hand="B">nec</add> ecclesiam christianam neque christia<lb ed="#P" break="no" n="16"/>nos 
+          principes: <del rend="strikethrough" hand="B">non</del> posse punire paganos 
+          <lb ed="#P" n="17"/>quod idola colant, quod fuit secunda pars cu<lb ed="#P" break="no" n="18"/>iusdam 
+          antecedentis. Probatur hoc decuplici
+          <lb ed="#P" n="19"/>ratione.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e128">
+          Primo quidem ex verbis chris<lb ed="#P" break="no" n="20"/>ti 
+          <ref xml:id="lca8s8-d1e144-Rd1e132">lucae 12o</ref> vbi quendam qui neque cius dis<lb ed="#P" break="no" n="21"/>cipulus 
+          erat neque eius verba sectabatur:
+          <lb ed="#P" n="22"/>ita allocutus est. <quote xml:id="lca8s8-d1e144-Qd1e138" source="http://scta.info/resource/lc12_14@5-13">Homo, quis me consti<lb ed="#P" break="no" n="23"/>tuit 
+          judicem super vos?</quote> quasi diceret <mentioned>non
+          <lb ed="#P" n="24"/>est quod judicem eos qui me<subst hand="B"><del rend="strikethrough">a</del><add place="above-line">is</add></subst> verb<subst hand="B"><del rend="strikethrough">a</del><add place="above-line">is</add></subst> non credunt</mentioned>.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e162">
+          <lb ed="#P" n="25"/>Sic <ref xml:id="lca8s8-d1e144-Rd1e166"><name xml:id="lca8s8-d1e144-Nd1e167">Nicolaus Gorranus</name></ref> inquit: <quote xml:id="lca8s8-d1e144-Qd1e169">ad chris<lb ed="#P" break="no" n="26"/>tum 
+            non pertinet bic judicare de infideli<lb ed="#P" break="no" n="27"/>bus:
+            ergo neque ad eius ecclesiam: ergo nec
+            <lb ed="#P" n="28"/>illos regulariter punire</quote>. Non enim ecclesia
+          <pb ed="#P" n="44-r"/>
+          <lb ed="#P" n="1"/>maiorem habet potestatem quam olim christus 
+          <lb ed="#P" n="2"/>in terris agens habuit.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e187">
+          ¶ Secundo probatur 
+          <lb ed="#P" n="3"/>ex <ref xml:id="lca8s8-d1e144-Rd1e191"><name xml:id="lca8s8-d1e144-Nd1e192">Paulo</name></ref>: <quote xml:id="lca8s8-d1e144-Qd1e194" source="http://scta.info/resource/Icor5_12@1-9">quid mihi de his qui foris sunt 
+            <lb ed="#P" n="4"/>judicare</quote>. id est, sententiam ferre. Ecclesia autem non 
+          <lb ed="#P" n="5"/>habet hodie maiorem potestatem: quam habuit 
+          <lb ed="#P" n="6"/>tempore Pauli. Cum autem eo tempore paganos 
+          <lb ed="#P" n="7"/>punire non posset ergo nec hodie.
+        </p>	
+        <p xml:id="lca8s8-d1e144-d1e207">
+          ¶ Tertio pro<lb ed="#P" break="no" n="8"/>batur
+          ex <ref xml:id="lca8s8-d1e144-Rd1e211"><name xml:id="lca8s8-d1e144-Nd1e212">Hieronimo</name></ref> qui fideles tantum ab ec<lb ed="#P" break="no" n="9"/>clesia
+          castigari posse scribit super illud <ref xml:id="lca8s8-d1e144-Rd1e216">1ae 
+            <lb ed="#P" n="10"/>ad corinthios 5</ref> <quote xml:id="lca8s8-d1e144-Qd1e221" source="http://scta.info/resource/Icor5_12@1-5">Quid enim mihi de his</quote> et caetera 
+          <lb ed="#P" n="11"/><quote xml:id="lca8s8-d1e144-Qd1e226">numquid (glossat hieronimus) Non vos de 
+            <lb ed="#P" n="12"/>his solis qui sunt intra Ecclesiam judicatis</quote>? 
+          <lb ed="#P" n="13"/>haec hieronimus. Ergo aliter sentiendum de 
+          <lb ed="#P" n="14"/>infidelibus.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e236">
+          ¶ Quarto probatur quoniam chris<lb ed="#P" break="no" n="15"/>tus
+          non dedit potestatem ecclesie super paga<lb ed="#P" break="no" n="16"/>nos
+          vt eos exasperet, persequatur, affligat, et 
+          <lb ed="#P" n="17"/>ad tumultum et seditionem excitet cum 
+          <lb ed="#P" n="18"/>odio religionis christianae: sed vt lenitate offi<lb ed="#P" break="no" n="19"/>cijs,
+          comitate, et verbis euangelicis: alliciantur 
+          <lb ed="#P" n="20"/>ad subueundum mite christi jugum: vt pro<lb ed="#P" break="no" n="21"/>batur
+          ex <ref xml:id="lca8s8-d1e144-Rd1e253">glossa Augustino, anselmo, beda</ref> ac 
+          <lb ed="#P" n="22"/>Rursus ex <ref xml:id="lca8s8-d1e144-Rd1e257">Paulo 2ae ad corinthios 10o et 13o</ref>: 
+          <lb ed="#P" n="23"/><quote xml:id="lca8s8-d1e144-Qd1e261" source="http://scta.info/resource/IIcor10_8@8-19">de potestate nostra (inquit) quam dedit nobis do<lb ed="#P" break="no" n="24"/>minus
+            in edificationem et non in destructionem</quote>. 
+          <lb ed="#P" n="25"/>Ex <ref xml:id="lca8s8-d1e144-Rd1e268">1ae ad corinthios 14o</ref>: <quote xml:id="lca8s8-d1e144-Qd1e270" source="http://scta.info/resource/Icor14_26@18-22">omnia ad edificationem 
+            <lb ed="#P" n="26"/>fiant</quote>. Punire ergo paganos idola colentes non 
+          <lb ed="#P" n="27"/>pertinet ad ecclesiam, prebetur enim offendiculum 
+          <lb ed="#P" n="28"/>euangelio.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e280">
+          ¶ Quinto, probatur: quoniam quan<lb ed="#P" break="no" n="29"/>do
+          judex superior aduocat ad se aliquam 
+          <lb ed="#P" n="30"/>causam: judex inferior non potest de ea co<lb ed="#P" break="no" n="31"/>gnoscere
+          alias judicium est nullum vt in 
+          <pb ed="#P" n="44-v"/>
+          <lb ed="#P" n="1"/><ref xml:id="lca8s8-d1e144-Rd1e291" target="http://scta.info/resource/cice-l2t28-d1e953">c. vt nostrum de appellationibus</ref> et in <ref xml:id="lca8s8-d1e144-Rd1e295" target="http://scta.info/resource/cice-l2t28-d1e953">c. unico,
+          <lb ed="#P" n="2"/>vt ecclesiastica beneficia</ref> et <ref xml:id="lca8s8-d1e144-Rd1e300" target="http://scta.info/resource/cice-l1t5-d1e149">postulatione prela<lb ed="#P" break="no" n="3"/>torum
+          c. Bonae</ref> in 2o <ref xml:id="lca8s8-d1e144-Rd1e305" target="http://scta.info/resource/cice-l1t29-d1e559">de officio delegati c. licet</ref>  
+          <lb ed="#P" n="4"/>et <ref xml:id="lca8s8-d1e144-Rd1e310" target="http://scta.info/resource/gd-p2c2q1-d1e301">23a q. 1, c. nomen</ref> et <ref xml:id="lca8s8-d1e144-Rd1e313" target="http://scta.info/resource/gd-p2c3q6-d1e228">3. q. 6, c. mul<lb ed="#P" break="no" n="5"/>tum
+           stupeo</ref> et <ref xml:id="lca8s8-d1e144-Rd1e319">Cod. de relationibus l. 1</ref> et <ref xml:id="lca8s8-d1e144-Rd1e321">Cod. de 
+          <lb ed="#P" n="6"/>appellationibus l ex illo</ref>. Deus autem voluit sibi re<lb ed="#P" break="no" n="7"/>seruare
+          paganos judicandos juxta illud <ref xml:id="lca8s8-d1e144-Rd1e328" source="http://scta.info/resource/Icor14_26"><name xml:id="lca8s8-d1e144-Nd1e329">Pau<lb ed="#P" break="no" n="8"/>li</name></ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e334">nam eos qui foris sunt deus judicabit</quote>, Cu<lb ed="#P" break="no" n="9"/>ius
+          judicium est grauius juxta illud ad <ref xml:id="lca8s8-d1e144-Rd1e339">he<lb ed="#P" break="no" n="10"/>braeos:
+          10o</ref>: <quote xml:id="lca8s8-d1e144-Qd1e344" source="http://scta.info/resource/hebr10_32@1-7">Horrendum est incidere in manus dei<lb ed="#P" break="no" n="11"/>viuentis</quote>.
+          Cum autem deus eorum iudicium sibi 
+          <lb ed="#P" n="12"/>reseruauerit: certe ecclesia nullo modo potest eos 
+          <lb ed="#P" n="13"/>judicare neque punire. Deo enim: qui illud 
+          <lb ed="#P" n="14"/>sibi reseruauit injuria fieret: et judicium nul<lb ed="#P" break="no" n="15"/>lum
+          esset. Nimirum defficiente jurisdictione 
+          <lb ed="#P" n="16"/>quae est judicii fundamentum. Juxta illud 
+          <lb ed="#P" n="17"/><ref xml:id="lca8s8-d1e144-Rd1e361">Exodi 2o</ref>: <quote xml:id="lca8s8-d1e144-Qd1e363" source="http://scta.info/resource/ex2_14@3-10">Quis constituit te principem et 
+            <lb ed="#P" n="18"/>judicem super nos</quote>: potest et illud obijci <quote xml:id="lca8s8-d1e144-Qd1e368" source="http://scta.info/resource/rom14_4@1-12">Tu 
+          <lb ed="#P" n="19"/>quis es (hoc est) cuius autoritatis vel virtutis 
+          <lb ed="#P" n="20"/>es: qui judicas alienum seruum? Domino 
+            <lb ed="#P" n="21"/>suo stat aut cadit</quote> <ref xml:id="lca8s8-d1e144-Rd1e377">ad Romanos 14o</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e380">
+          Et generaliter 
+          <lb ed="#P" n="22"/>illud tantum est legitimum judicium? quod 
+          <lb ed="#P" n="23"/>diuina autoritate permissum vel concessum est: 
+          <lb ed="#P" n="24"/>juxta illud Deuteronomij 1o: <quote xml:id="lca8s8-d1e144-Qd1e388" source="http://scta.info/resource/deut1_16@4-10">audite illos et quod jus<lb ed="#P" break="no" n="25"/>tum
+            est judicate</quote>: <quote xml:id="lca8s8-d1e144-Qd1e393" source="http://scta.info/resource/deut1_17@14-17">quia dei judicium est</quote> (hoc 
+          <lb ed="#P" n="26"/>est) autoritate diuina judicium fertur: et 
+          <lb ed="#P" n="27"/>ita <ref xml:id="lca8s8-d1e144-Rd1e401">exponit ibi glosa</ref> et <ref xml:id="lca8s8-d1e144-Rd1e403">sanctus Thomas super epis<lb ed="#P" break="no" n="28"/>tola
+            ad Romanos c. 14o lectione 1a</ref> et <ref xml:id="lca8s8-d1e144-Rd1e408" target="http://scta.info/resource/TAca84-d1e1582-d1e493">2a 2e 
+              <lb ed="#P" n="29"/>q. 60a a. 2o</ref> <ref xml:id="lca8s8-d1e144-Rd1e413" target="http://scta.info/resource/TAca84-d1e1582-d1e493">3o</ref> et <ref xml:id="lca8s8-d1e144-Rd1e417" target="http://scta.info/resource/TAca84-d1e1582-d1e1402">6o. c.</ref> 
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e421">
+          Ille autem qui ju<lb ed="#P" break="no" n="30"/>dicat
+          de rebus de quibus non est ei concessum 
+          <lb ed="#P" n="31"/>judicare autoritate diuina, temerarie judicat
+          <pb ed="#P" n="45-r"/>
+          <lb ed="#P" n="1"/>usurpans vices judicis: cum jurisdicendi po<lb ed="#P" break="no" n="2"/>testatem
+          non habet. Quemadmodum si ju<lb ed="#P" break="no" n="3"/>dex
+          a papa delegatus super aliqua causa 
+          <lb ed="#P" n="4"/>ius diceret extra eam causam, judicium nul<lb ed="#P" break="no" n="5"/>lum
+          esset. Nimirum quia excedit formam 
+          <lb ed="#P" n="6"/>mandati et potestatis sibi concessae vt in <ref xml:id="lca8s8-d1e144-Rd1e442" target="http://scta.info/resource/cice-l1t3-d1e437">c. 
+            <lb ed="#P" n="7"/>cum dilecta: de rescriptis</ref> et <ref xml:id="lca8s8-d1e144-Rd1e447">l. diligenter ff man<lb ed="#P" break="no" n="8"/>dati</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e454">
+          Ratio theologica est quoniam nemini 
+          <lb ed="#P" n="9"/>licet transgredi ordinem diuina prouiden<lb ed="#P" break="no" n="10"/>tia
+          institutum in omnibus rebus. Tunc 
+          <lb ed="#P" n="11"/>autem maxime videtur non obseruari cum ju<lb ed="#P" break="no" n="12"/>dices
+          a deo constituti presertim ecclesiastici: 
+          <lb ed="#P" n="13"/>judicium ferunt de rebus alteri comissis vel 
+          <lb ed="#P" n="14"/>ipsi immortali deo reseruatis. Ita docet <ref xml:id="lca8s8-d1e144-Rd1e469">Di<lb ed="#P" break="no" n="15"/>uus
+          Dionysius c. 3o <title>coelestis hierarchiae</title> cir<lb ed="#P" break="no" n="16"/>ca
+          principium</ref> his verbis. <ref xml:id="lca8s8-d1e144-Rd1e478" target="http://scta.info/resource/pdah-c3-d1e135@73-113">Non enim fas 
+          <lb ed="#P" n="17"/>est sanctorum perfectoribus id est superioribus 
+          <lb ed="#P" n="18"/>aut sancte perfectis id est nec inferioribus ope<lb ed="#P" break="no" n="19"/>rari
+          quidem omnino id est aliquid facere: pre<lb ed="#P" break="no" n="20"/>ter
+          propria hostiarum mysteria id est ultra potes<lb ed="#P" break="no" n="21"/>tatem
+          ipsis concessam: aut sacras ordinationes
+          <lb ed="#P" n="22"/>id est preter statuta et jussa a deo sibi prefixa:
+          <lb ed="#P" n="23"/>Sed neque subsistere aliter id est non solum illicitum 
+          <lb ed="#P" n="24"/>est illis aliter operari quam sibi concessum est: 
+          <lb ed="#P" n="25"/>immo neque aliter oportet ipsos in vita manere: 
+          <lb ed="#P" n="26"/>si diuinam ipsius claritatem appetunt id est 
+          <lb ed="#P" n="27"/>si vere desiderant illustrari: ac si aperte di<lb ed="#P" break="no" n="28"/>ceret
+          aliter facientibus quam sibi concessum est: 
+          <lb ed="#P" n="29"/>diuina justitia merito subtrabet radios splen<lb ed="#P" break="no" n="30"/>doris
+          et gratiae suae: vt in agendis errent, et 
+          <lb ed="#P" n="31"/>in grauiora crimina incidant</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e514">
+          Idem docet 
+          <pb ed="#P" n="45-v"/>
+          <lb ed="#P" n="1"/><ref xml:id="lca8s8-d1e144-Rd1e519">Chrysostomus super Mattheo c. 1o homilia 1o 
+            <lb ed="#P" n="2"/>in opere imperfecto</ref>. Vide inquit quam illici<lb ed="#P" break="no" n="3"/>tum
+          est usurpare opus quod a deo non est co<lb ed="#P" break="no" n="4"/>missum
+          et cactera.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e529">
+          Quod autem sumentes sibi ju<lb ed="#P" break="no" n="5"/>dicium
+          in paganos injurij sint in deum 
+          <lb ed="#P" n="6"/>id judicium usurpantes probatur ex <ref xml:id="lca8s8-d1e144-Rd1e535">Augus<lb ed="#P" break="no" n="7"/>tino
+          in epistola quadam</ref> quae citatur in 
+          <lb ed="#P" n="8"/><ref xml:id="lca8s8-d1e144-Rd1e541" target="http://scta.info/resource/gd-p2c2q1-d1e301">c. nomen 2 q. 1</ref>: <quote xml:id="lca8s8-d1e144-Qd1e544">Ne diuinae pietatis 
+          <lb ed="#P" n="9"/>potestatis sub cuius examine causa adhuc est, 
+          <lb ed="#P" n="10"/>facere viderer injuriam: si illius judicium 
+          <lb ed="#P" n="11"/>meo vellem judicio preuenire: quod nec in 
+          <lb ed="#P" n="12"/>negotijs secularibus judices faciunt</quote>. haec Au<lb ed="#P" break="no" n="13"/>gustinus.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e559">
+          Ecclesia ergo christi sponsi lumi<lb ed="#P" break="no" n="14"/>ne
+          confirmata in veritate: numquam judici<lb ed="#P" break="no" n="15"/>um 
+          diuinum usurpauit: semper contenta 
+          <lb ed="#P" n="16"/>munere judicij sibi collato super populum 
+          <lb ed="#P" n="17"/>christianum: non in straneum id est infide<lb ed="#P" break="no" n="18"/>lium
+          sequens illud <ref xml:id="lca8s8-d1e144-Rd1e572">ecclesiastici</ref>: <quote xml:id="lca8s8-d1e144-Qd1e574">Judex sa<lb ed="#P" break="no" n="19"/>piens
+            judicabit populum suum</quote> scilicet dumta<lb ed="#P" break="no" n="20"/>xat.
+          Et ita numquam de idolatris supplicium 
+          <lb ed="#P" n="21"/>sumpsit vel poenam inflixit.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e584">
+          ¶ Sexto pro<lb ed="#P" break="no" n="22"/>batur
+          quoniam ut liquet ex <ref xml:id="lca8s8-d1e144-Rd1e588">verbis sancti Thomae su<lb ed="#P" break="no" n="23"/>perius
+            citatis</ref>: non pertinet ad ecclesiam pu<lb ed="#P" break="no" n="24"/>nire
+          paganitatem corum qui numquam christia<lb ed="#P" break="no" n="25"/>no
+          baptismo abluti sunt; et loquitur in 
+          <lb ed="#P" n="26"/>distincte et generaliter ergo nec idolatriam. 
+          <lb ed="#P" n="27"/>Consequentia tripliciter probatur: primo, quoniam impossi<lb ed="#P" break="no" n="28"/>bile
+          videtur fuisse saltem post primam mun<lb ed="#P" break="no" n="29"/>di
+          etatem,  aliquam gentem deum verum non 
+          <lb ed="#P" n="30"/>agnoscentem: quae idola non coleret vel mul<lb ed="#P" break="no" n="31"/>tum
+          vel parum cum infidelitate. cuius est 
+          <pb ed="#P" n="46-r"/>
+          <lb ed="#P" n="1"/>ratio. Cum enim Deus ad imaginem suam 
+          <lb ed="#P" n="2"/>finxerit hominem: faciens illum capacem sui: 
+          <lb ed="#P" n="3"/>instruxit illum tribus nobilissimis potentijs
+          <lb ed="#P" n="4"/>nimirum rationali concupiscibili irascibi<lb ed="#P" break="no" n="5"/>li
+          superioribus.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e624">
+          Rationalis potentia aliquam 
+          <lb ed="#P" n="6"/>licet confusissimam dei cognitionem prestat: 
+          <lb ed="#P" n="7"/>nimirum esse deum: cui nos et nostra omnia 
+          <lb ed="#P" n="8"/>tamquam domino et superiori submittere debe<lb ed="#P" break="no" n="9"/>mus
+          docet. Potentia concupiscibilis efficit: 
+          <lb ed="#P" n="10"/>vt homo cupiat querere et cognoscere deum: vt 
+          <lb ed="#P" n="11"/>inde letitiam et suauitatem animo concipiat. 
+          <lb ed="#P" n="12"/>Irascibilis autem inclinat docet ac impellit vt 
+          <lb ed="#P" n="13"/>homo deo subiectionem et honorem secundum modum 
+          <lb ed="#P" n="14"/>suum exhibeat: et quibusdam sensibilibus re<lb ed="#P" break="no" n="15"/>bus
+          utatur offerens eas deo in signum de<lb ed="#P" break="no" n="16"/>bitae
+          subiectionis et honoris secundum similitudinem 
+          <lb ed="#P" n="17"/>eorum qui dominis suis aliqua offerunt in 
+          <lb ed="#P" n="18"/>recognitionem dominij. Haec autem pertinent ad 
+          <lb ed="#P" n="19"/>rationem sacrificij: quod intendit naturaliter 
+          <lb ed="#P" n="20"/>potentia irascibilis.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e660">
+          ¶ Cum autem impossibi<lb ed="#P" break="no" n="21"/>le
+          sit rationalem potentiam non esse semper 
+          <lb ed="#P" n="22"/>auidam et famelicam cognoscendi veritatem 
+          <lb ed="#P" n="23"/>vsque ad ipsam causam primam, scilicet deum. 
+          <lb ed="#P" n="24"/>Item cum concupiscibilis auidissima voluptatis: 
+          <lb ed="#P" n="25"/>non possit non querere suauem aliquam volupta<lb ed="#P" break="no" n="26"/>tem
+          et bonitatem: quousque deum pertingat: ita 
+          <lb ed="#P" n="27"/>etiam impossibile est potentiam irascibilem non 
+          <lb ed="#P" n="28"/>sese subijcere seruituti eius quem judicat esse 
+          <lb ed="#P" n="29"/>deum. Hinc effectum est vt homines et suis cri<lb ed="#P" break="no" n="30"/>minibus,
+          et primi parentis peccato gratia et 
+          <lb ed="#P" n="31"/>cognitione Dei destituti: cum nullus esset 
+          <pb ed="#P" n="46-v"/>
+          <lb ed="#P" n="1"/>qui corum rationalem potentiam ad primae cau<lb ed="#P" break="no" n="2"/>sae
+          cognitionem adduceret: vel concupiscibilem 
+          <lb ed="#P" n="3"/>ad quaerendum illum, qui solum bonus ac 
+          <lb ed="#P" n="4"/>vere suauis est vel irascibilem ad exhibendum 
+          <lb ed="#P" n="5"/>verum obsequium ac diuinos honores vero 
+          <lb ed="#P" n="6"/>deo cui solum debetur.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e702">
+          Demones impijssi<lb ed="#P" break="no" n="7"/>mi
+          ac malitiosissimi, quibus semper studio 
+          <lb ed="#P" n="8"/>fuit honorem Deo debitum vsurpare. Eo in<lb ed="#P" break="no" n="9"/>saniae
+          homines adegerunt: ut pro veritate pura 
+          <lb ed="#P" n="10"/>et perfecta falsas opiniones reciperent ac in<lb ed="#P" break="no" n="11"/>ciderint
+          in varios errores pro vero deo ina<lb ed="#P" break="no" n="12"/>nium
+          deorum simulachra colentes, concupis<lb ed="#P" break="no" n="13"/>cerentque
+          tamquam bona et suauia: quae impia 
+          <lb ed="#P" n="14"/>et misera sunt: item vt diuinos honores im<lb ed="#P" break="no" n="15"/>pijs
+          demonum et animantium simulachris 
+          <lb ed="#P" n="16"/>per sacrificium soli vero deo debitum exhibe<lb ed="#P" break="no" n="17"/>rent.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e728">
+          Cum ergo homines naturae vi ducan<lb ed="#P" break="no" n="18"/>tur
+          ad cultum dei, vel eius quem deum cre<lb ed="#P" break="no" n="19"/>dunt;
+          et ad amandum bonitatem veram vel 
+          <lb ed="#P" n="20"/>falsam: nullo modo possunt non offerre sacri<lb ed="#P" break="no" n="21"/>ficia,
+          et diuinos honores deo vero vel commentitio. 
+          <lb ed="#P" n="22"/>Si Deo vero honorem exhibent pius cultus est 
+          <lb ed="#P" n="23"/>qui latria dicitur: Si falsis dijs non latria 
+          <lb ed="#P" n="24"/>sed idolatria nominatur. Horum ratio est 
+          <lb ed="#P" n="25"/>quia natura impossibile est hominem viuere 
+          <lb ed="#P" n="26"/>absque deo vero vel falso. Hoc significant di<lb ed="#P" break="no" n="27"/>uina
+          verba <ref xml:id="lca8s8-d1e144-Rd1e751">Deuteronomij 8o</ref> <quote xml:id="lca8s8-d1e144-Qd1e754" source="http://scta.info/resource/deut8_19@1-10">Si autem (inquit dominus) 
+            <lb ed="#P" n="28"/>oblitus fueris dei tui et sequutus fueris deos 
+            <lb ed="#P" n="29"/>alienos</quote>. Ac si impossibile esset hominem ve<lb ed="#P" break="no" n="30"/>rum
+          deum relinquentem: non colere falsa 
+          <lb ed="#P" n="31"/>numina.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e766">
+          Itaque nulla quantumuis effera et barbara 
+          <pb ed="#P" n="47-r"/>gens est: quae absque cultu niminis veri vel 
+          <lb ed="#P" n="1"/>falsi viuere possit. Quod <ref xml:id="lca8s8-d1e144-Rd1e772" target="http://scta.info/resource/aaaadc-gfdsss-d1e925@56-88">philosophus docet 
+            <lb ed="#P" n="2"/>1o</ref> et <ref xml:id="lca8s8-d1e144-Rd1e777" target="http://scta.info/resource/aaaadc-gfdttt-d1e5934@86-101">2o de coelo et mundo</ref>. <ref xml:id="lca8s8-d1e144-Rd1e780" target="http://scta.info/resource/ctd99a-asdvss-d1e219@1-44">Cicero Tusculana<lb ed="#P" break="no" n="3"/>rum
+              quaestionum libro 1o</ref> et <ref xml:id="lca8s8-d1e144-Rd1e786">libro de legibus</ref>. Idem 
+          <lb ed="#P" n="4"/>habet <ref xml:id="lca8s8-d1e144-Rd1e790" target="http://scta.info/resource/hy7y6y-d1e67-Dd1e271"><!-- modern edition suggests actual target is prose 4 rather than 10, but ms defintely says 10; modern edition writes 4 with any variant indication; TODO: target needs review and verification -->Boethius libro 3o prosa <sic>10</sic> de consolatione</ref>. ¶
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e797">
+          <lb ed="#P" n="5"/>Cum ergo opinio vel credulitas falsorum deorum 
+          <lb ed="#P" n="6"/><del rend="strikethrough" hand="B">paganitas siue</del>infidelitas sit, et cultus qui 
+          <lb ed="#P" n="7"/>illis exhibetur idolatria: et hic cultus impossi<lb ed="#P" break="no" n="8"/>bile
+          sit quod ab eiusmodi erroribus deceptis omita<lb ed="#P" break="no" n="9"/>tur:
+          quin ei cui falsa opinio inducit exhibea<lb ed="#P" break="no" n="10"/>tur:
+          quemadmodum pro impossibili habetur 
+          <lb ed="#P" n="11"/>quod gens aliqua sine numine viuere valeat. 
+          <lb ed="#P" n="12"/>Certe necessario consequitur nullam esse aut 
+          <lb ed="#P" n="13"/>fuisse gentem infidelem quae non sit aut fuerit 
+          <lb ed="#P" n="14"/>idolatra. Cum ergo hoc non fugerit <ref xml:id="lca8s8-d1e144-Rd1e822"><name xml:id="lca8s8-d1e144-Nd1e823">sanctum Tho<lb ed="#P" break="no" n="15"/>mam</name></ref>:
+          <del rend="strikethrough" hand="B">certe</del> dum scripsit ecclesiam non posse pu<lb ed="#P" break="no" n="16"/>nire
+          paganos propter infidelitatem 
+            <note type="marginal-note" place="margin-right" hand="F">
+              infidelitas nunquam 
+              separata est ab 
+              idolatria
+            </note>
+          proculdubio si<lb ed="#P" break="no" n="17"/>gnificare
+          etiam voluit: ecclesiam non posse 
+          <lb ed="#P" n="18"/>punire idolatras quandoquidem nusquam gen<lb ed="#P" break="no" n="19"/>tium
+          infidelitas, separata exstiterit ab idolatria.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e844">
+          <lb ed="#P" n="20"/>¶ Secundo consequentia: scilicet: quod ecclesia non pos<lb ed="#P" break="no" n="21"/>sit
+          punire paganos idolorum cultores propter idolatri<lb ed="#P" break="no" n="22"/>am,
+          probatur: quoniam idola colere supponit paga<lb ed="#P" break="no" n="23"/>nitatem
+          seu infidelitatem et est protestatio 
+          <lb ed="#P" n="24"/>superstitiosa infidelitatis et ab ea originem tra<lb ed="#P" break="no" n="25"/>hit.
+          Quemadmodum virtus religionis est pro<lb ed="#P" break="no" n="26"/>testatio
+          fidei catholicae ac presupponit eam. 
+          <lb ed="#P" n="27"/>Et licet idolatria sit species immediata sub<lb ed="#P" break="no" n="28"/>alterna
+          superstitionis cum addat exterius 
+          <lb ed="#P" n="29"/>cultum et reuerentiam <del rend="strikethrough" hand="B">vel honorem</del> cui non 
+          <pb ed="#P" n="47-v"/>
+          <lb ed="#P" n="1"/>debet secundum illud <ref xml:id="lca8s8-d1e144-Rd1e875" target="http://scta.info/resource/act17_22@8-15">actuum 17o</ref> Pauli ad Athenienses 
+          <lb ed="#P" n="2"/>quando incitabatur spiritus eius in ipso videns idola<lb ed="#P" break="no" n="3"/>triae
+          deditam ciuitatem: <quote xml:id="lca8s8-d1e144-Qd1e882">viri Athenienses per
+            <lb ed="#P" n="4"/>omnia quasi superstitiosos vos video</quote>: tamen 
+          <lb ed="#P" n="5"/>totum id ad infidelitatem veluti ad suum ge<lb ed="#P" break="no" n="6"/>nus
+          generalissimum reducitur et refertur. Et 
+          <lb ed="#P" n="7"/>hoc siue quod infidelitas accipiatur secundum 
+          <lb ed="#P" n="8"/>puram negationem sicut est in illis qui ni<lb ed="#P" break="no" n="9"/>hil
+          audierunt de fide in quibus infidelitas non 
+          <lb ed="#P" n="10"/>habet rationem peccati. Siue accipiatur secundum con<lb ed="#P" break="no" n="11"/>trarietatem
+          ad fidem quando (scilicet) aliqui 
+          <lb ed="#P" n="12"/>repugnant fidei auditui vel etiam contemn<subst hand="A or B"><del rend="strikethrough">it</del><add place="above-line">unt</add></subst>
+          <lb ed="#P" n="13"/>ipsam. In quo proprie perficitur ratio infideli<lb ed="#P" break="no" n="14"/>tatis
+          et peccati: semper ex ignorantia veri dei 
+          <lb ed="#P" n="15"/>et diuinorum: aut ex contemptu ipsum cognos<lb ed="#P" break="no" n="16"/>cendi
+          et fidei asserendi: procedit idolatria.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e922">
+          <lb ed="#P" n="17"/>Ergo cui non competit in genere propter aliquas 
+          <lb ed="#P" n="18"/>causas punire infidelitatem: per easdem non 
+          <lb ed="#P" n="19"/>pertinebit ad eum punire idolatriam in spe<lb ed="#P" break="no" n="20"/>cie.
+          Per argumentum vel locum a remotione 
+          <lb ed="#P" n="21"/>generis cuius maxima est: a quocumque remo<lb ed="#P" break="no" n="22"/>uetur
+          genus remouetur quaelibet eius species. 
+          <lb ed="#P" n="23"/>Vt patet <ref xml:id="lca8s8-d1e144-Rd1e939">1o Topicorum</ref>; et per canonistas in 
+          <lb ed="#P" n="24"/><ref xml:id="lca8s8-d1e144-Rd1e942" target="http://scta.info/resource/cice-l1t2-d1e164">c. nam et concupiscentiam. de constitutionibus</ref>. Et <ref xml:id="lca8s8-d1e144-Rd1e945">le<lb ed="#P" break="no" n="25"/>gistas
+          in l. si causa cognita</ref>. Iuncta <ref xml:id="lca8s8-d1e144-Rd1e951">glossa in 
+          <lb ed="#P" n="26"/>verbo peremisti c. de transactionibus</ref>, et in <ref xml:id="lca8s8-d1e144-Rd1e956">§ Vulgo. 
+          <lb ed="#P" n="27"/>institutionum de successione cognatorum</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e962">
+          Neque aduersatur si 
+          <lb ed="#P" n="28"/>quis obijciat idolatriam crimen esse grauissi<lb ed="#P" break="no" n="29"/>mum
+          ex parte peccati: atque ideo ecclesiam quam 
+          <lb ed="#P" n="30"/>zelus decoris domus dei excitare debet vt cu<lb ed="#P" break="no" n="31"/>ret
+          adorandum christi nomen regnare in 
+          <pb ed="#P" n="48-r"/>cordibus hominum: posse punire idolorum cul<lb ed="#P" break="no" n="1"/>tores
+          tamquam homines scelus grauissimum com<lb ed="#P" break="no" n="2"/>mittentes.
+          Sed huic argumento respondetur 
+          <lb ed="#P" n="3"/>paganismum seu infidelitatem quae euange<lb ed="#P" break="no" n="4"/>licam
+          veritatem spernit et reijcit grauius esse 
+          <lb ed="#P" n="5"/>peccatum: quam idola colere.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e986">
+          Probatur primo quamuis
+          <lb ed="#P" n="6"/>enim: idolatria ex genere suo crimen sit grauis<lb ed="#P" break="no" n="7"/>simum:
+          ex parte tamen eam patrantium vt 
+          <lb ed="#P" n="8"/>sunt idolatrae cum per ignorantiam peccent
+          <lb ed="#P" n="9"/>putantes verum deum colere secundum illud apostoli 
+          <lb ed="#P" n="10"/><ref xml:id="lca8s8-d1e144-Rd1e997">Pauli ad Athenienses Actuum 17o</ref> <quote xml:id="lca8s8-d1e144-Qd1e1000" source="http://scta.info/resource/act17_23@16-23">quod igno<lb ed="#P" break="no" n="11"/>rantes
+            colitis: hoc ego anuntio vobis</quote> <del rend="strikethrough" hand="B">haec autem 
+              <lb ed="#P" n="12"/>ignorantia</del> minus graue reddit peccatum quia <add place="margin_right" hand="B">ignorantia</add>
+          <lb ed="#P" n="13"/>diminuit quodammodo voluntarium. Neque <add place="margin-right" hand="B">n. ignorans</add>
+          <lb ed="#P" n="14"/>directe se in peccatum precipitat: sed per accidens 
+          <lb ed="#P" n="15"/>peccat. Sicut ille qui conscientia erronea labo<lb ed="#P" break="no" n="16"/>rans
+          putat se absque peccato posse furari aut adul<lb ed="#P" break="no" n="17"/>terari.
+          Vnde propter hoc in idolatria minor est ra<lb ed="#P" break="no" n="18"/>tio
+          peccati. Verum peccatum infidelitatis pro<lb ed="#P" break="no" n="19"/>ut
+          hic de ipso loquimur: directe et ex proposito 
+          <lb ed="#P" n="20"/>voluntarie ac ex contemptu qui repugnant 
+          <lb ed="#P" n="21"/>fidei auditui committunt. Vnde non solum 
+          <lb ed="#P" n="22"/>peccatum infidelitatis verum etiam quodlibet peccatum
+          <lb ed="#P" n="23"/>aliud potest esse <del rend="strikethrough" hand="?">aliud</del> grauius idolatria. 
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e1044">
+          Pro<lb ed="#P" break="no" n="24"/>batur
+          secundo peccatum infidelitatis nascitur ex 
+          <lb ed="#P" n="25"/>superbia autore <ref xml:id="lca8s8-d1e144-Rd1e1050" target="http://scta.info/resource/TAca84-d1e1324-d1e349">sancto Thoma 2a 2ae q. 10o ar. 
+            <lb ed="#P" n="26"/>1o ad 3um</ref>: peccata autem quae a superbia proficis<lb ed="#P" break="no" n="27"/>cuntur
+          grauissima sunt ex parte conuersio<lb ed="#P" break="no" n="28"/>nis.
+          Erigunt enim sese aduersus deum et in<lb ed="#P" break="no" n="29"/>de
+          deum ipsum habent aduersarium juxta il<pb ed="#P" n="48-v"/><lb ed="#P" break="no" n="1"/>lud
+          <ref xml:id="lca8s8-d1e144-Rd1e1065">Iacobi 4o</ref>: <quote xml:id="lca8s8-d1e144-Qd1e1067" source="http://scta.info/resource/iac4_6@8-10">Superbis deus resistit</quote>. Sed 
+          <lb ed="#P" n="2"/>peccatum idolatriae procedit ex ignorantia vt 
+          <lb ed="#P" n="3"/>probatum est. Ergo grauius est peccatum infi<lb ed="#P" break="no" n="4"/>delitatis
+          quam idolatriae, de quo disserit <ref xml:id="lca8s8-d1e144-Rd1e1077">sanctus Thomas 
+            <lb ed="#P" n="5"/>2a 2ae  q. 162a, ar. 6o</ref> et <ref xml:id="lca8s8-d1e144-Rd1e1082">in corpore et 7o ad 
+              <lb ed="#P" n="6"/>4um</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e1088">
+          ¶ Tertio infidelitatem maius esse peccatum 
+          <lb ed="#P" n="7"/>quam idolatriam probatur quoniam deus pro sua 
+          <lb ed="#P" n="8"/>suma sapientia et aequitate peccatum quodli<lb ed="#P" break="no" n="9"/>bet
+          punit juxta criminis grauitatem secundum illud 
+          <lb ed="#P" n="10"/><ref xml:id="lca8s8-d1e144-Rd1e1097">Deuteronomij 25</ref>: <quote xml:id="lca8s8-d1e144-Qd1e1099" source="http://scta.info/resource/deut25_2@15-21">pro mensura peccati erit et plaga<lb ed="#P" break="no" n="11"/>rum
+            modus</quote>. et <ref xml:id="lca8s8-d1e144-Rd1e1105" target="http://scta.info/resource/deut25_2/critical/transcription@15-21">c. non asseramus 24 q. 1 
+              <lb ed="#P" n="12"/>cum suis concordantijs</ref>. Licet juxta Theologos 
+          <lb ed="#P" n="13"/>semper puniat citra condignum id est poena sit 
+          <lb ed="#P" n="14"/>minor grauitate delicti.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e1115">
+          Hoc supposito: deus 
+          <lb ed="#P" n="15"/>grauius punit infidelitatem quam idolatriam, et 
+          <lb ed="#P" n="16"/>quodcumque aliud peccatum considerato pecca<lb ed="#P" break="no" n="17"/>ti
+          genere secundum <ref xml:id="lca8s8-d1e144-Rd1e1123" target="http://scta.info/resource/TAca84-d1e1324-d1e745">diuum Thomam 2a 2ae q. 10 
+            <lb ed="#P" n="18"/>ar. 3, ad 3um</ref>. Ergo idolatria peccatum est mi<lb ed="#P" break="no" n="19"/>nus
+          graue quam infidelitas. Ergo grauitas peccati 
+          <lb ed="#P" n="20"/>idolatriae non iuuat ad hoc quod ecclesia quae non 
+          <lb ed="#P" n="21"/>potest punire infideles qui omnibus modis extra 
+          <lb ed="#P" n="22"/>ecclesiam sunt propter infidelitatem: possit pu<lb ed="#P" break="no" n="23"/>nire
+          cultores idolorum ob grauitatem peccati ido<lb ed="#P" break="no" n="24"/>latriae.
+          Vnde qui docet paganos ab ecclesia pu<lb ed="#P" break="no" n="25"/>niri
+          non posse: idem certe sentit et non absur<lb ed="#P" break="no" n="26"/>de
+          de paganis idolatris.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e1148">
+          ¶ Tertio principaliter 
+          <lb ed="#P" n="27"/>probatur consequentia principalis (scilicet) ad 
+          <lb ed="#P" n="28"/>ecclesiam non pertinere idolorum cultores puni<lb ed="#P" break="no" n="29"/>re
+          propter <del rend="strikethrough" hand="A">infidelitatem</del> idolatriam: quando quidem non 
+          <lb ed="#P" n="30"/>pertinet punire infidelitatem. Quoniam infide<pb ed="#P" n="49-r"/><lb ed="#P" break="no" n="1"/>litas
+          Judacorum <subst hand="A vel B vel F"><del rend="strikethrough">est</del><add place="above-line">et</add></subst> et Sarracenorum multo grauior et <lb ed="#P" break="no" n="2"/>damnabilior
+          est: quam infidelitas eorum qui idola 
+          <lb ed="#P" n="3"/>colunt. In illis enim perficitur proprie ratio in<lb ed="#P" break="no" n="4"/>fidelitatis
+          et peccati grauitas: in istis autem in<lb ed="#P" break="no" n="5"/>teruenit
+          ignorantia et priuatio auditus verbi 
+          <lb ed="#P" n="6"/>dei. Vt dictum est. Nimirum Judaei et 
+          <lb ed="#P" n="7"/>Sarraceni: christi verba et apostolicorum virorum 
+          <lb ed="#P" n="8"/>predicationem audierunt: et euangelicae ve<lb ed="#P" break="no" n="9"/>ritatis
+          verba: quotidie feriunt illorum dura 
+          <lb ed="#P" n="10"/>corda: cum autem Euangelicam doctrinam non 
+          <lb ed="#P" n="11"/>suscipiant animo per<subst hand="B"><del rend="strikethrough">uicaci</del><add place="above-line">tinaci</add></subst> prefato et contu<lb ed="#P" break="no" n="12"/>maci,
+          maliciosae prauitatis rei sunt. Idolorum 
+          <lb ed="#P" n="13"/>autem cultores saltem indi de quibus nobis ins<lb ed="#P" break="no" n="14"/>tituta
+          est disputatio: numquam vel per famam 
+          <lb ed="#P" n="15"/>christianae veritatis doctrinam audierunt: 
+          <lb ed="#P" n="16"/>Vnde minus peccant quam Judaei vel Sarraceni.
+          <lb ed="#P" n="17"/>Excusat enim aliquantulum ignorantia.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e1213">
+          Hoc supposito: videmus ecclesiam non puni<lb ed="#P" break="no" n="18"/>re
+          Judaeorum caecitatem: neque machometanae su<lb ed="#P" break="no" n="19"/>perstitionis
+          cultores: etiamsi Judaei vel Sar<lb ed="#P" break="no" n="20"/>raceni
+          christianorum finium urbes incolant: 
+          <lb ed="#P" n="21"/>quod manifestius est quam vt probatione indige<lb ed="#P" break="no" n="22"/>at.
+          Habet enim Roma christianae religionis <unclear>ars[x]</unclear> 
+          <lb ed="#P" n="23"/>Judaeos: habet Germania: habet Bohemia Ju<lb ed="#P" break="no" n="24"/>daeos,
+          et habebat hyspania olim Sarracenos 
+          <lb ed="#P" n="25"/>qui vulgo dicebantur modejares quos ocu<lb ed="#P" break="no" n="26"/>lis
+          vidimus.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e1237">
+          Cum ergo Judaeorum infidelita<lb ed="#P" break="no" n="27"/>tem
+          ecclesia non puniat etiam si christianae 
+          <lb ed="#P" n="28"/>religionis fines incolant: multo minus pu<lb ed="#P" break="no" n="29"/>niet
+          idolatras inauditum prioribus seculis 
+          <lb ed="#P" n="30"/>immensum terrarum orbem inhabitantes qui 
+          <lb ed="#P" n="31"/>nec subditi umquam ecclesiae aut membrorum eius 
+          <pb ed="#P" n="49-v"/>
+          <lb ed="#P" n="1"/>fuerant: nec ecclesia quid esset nouerunt. 
+          <lb ed="#P" n="2"/>Valet enim argumentum a maiori vt per philosophum 
+          <lb ed="#P" n="3"/>et doctores in <ref xml:id="lca8s8-d1e144-Rd1e1258" target="http://scta.info/resource/cice-l1t6-d1e210">c. cum in cunctis de electione</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e144-d1e1262">
+          Ci<lb ed="#P" break="no" n="4"/>rca
+          plurima ex superioribus legendus est <ref xml:id="lca8s8-d1e144-Rd1e1266" target="http://scta.info/resource/TAca84-d1e1065-d1e747">Diuus 
+            <lb ed="#P" n="5"/>Thomas in 1a 2ae q. 76a a. 3o</ref>, et <ref xml:id="lca8s8-d1e144-Rd1e1271" target="http://scta.info/resource/TAca84-d1e1065-d1e1012 http://scta.info/resource/TAca84-d1e1065-d1e1045">4o in cor<lb ed="#P" break="no" n="6"/>pore</ref> 
+          et <ref xml:id="lca8s8-d1e144-Rd1e1276" target="http://scta.info/resource/TAca84-d1e1199-d1e1062 http://scta.info/resource/TAca84-d1e1199-d1e1100 http://scta.info/resource/TAca84-d1e1199-d1e1148@1-10">q. 102a a. 3o ad 2um</ref>. Et <ref xml:id="lca8s8-d1e144-Rd1e1279" target="http://scta.info/resource/TAca84-d1e1324-d1e271 http://scta.info/resource/TAca84-d1e1324-d1e297">2a 2ae q. 
+            <lb ed="#P" n="7"/>10a ar. 1o in corpore</ref>, et <ref xml:id="lca8s8-d1e144-Rd1e1285" target="http://scta.info/resource/TAca84-d1e1324-d1e349@5-28">ad 3um</ref> et <ref xml:id="lca8s8-d1e144-Rd1e1288" target="http://scta.info/resource/TAca84-d1e1324-d1e668">ar. 3o in corpore</ref> 
+          <lb ed="#P" n="8"/>et <ref xml:id="lca8s8-d1e144-Rd1e1293" target="http://scta.info/resource/TAca84-d1e1324-d1e745">ad 3um</ref> et <ref xml:id="lca8s8-d1e144-Rd1e1296" target="http://scta.info/resource/TAca84-d1e1324-d1e1043@138-246">a. 5o in corpore</ref> et <ref xml:id="lca8s8-d1e144-Rd1e1299" target="http://scta.info/resource/TAca84-d1e1324-d1e1132">ad 1um</ref> et in <ref xml:id="lca8s8-d1e144-Rd1e1303">ques<lb ed="#P" break="no" n="9"/>tio
+            de malo, q. 2, a. 10 in corpore</ref>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

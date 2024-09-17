@@ -58,7 +58,7 @@
         </p>
         <p xml:id="lca8s8-d1e737-d1e99">
           <lb ed="#P" n="16"/><pc type="pilcrow"/> Quantum ad indorum calumniatores: 
-          <lb ed="#P" n="17"/>proferunt <add place="above-line">etiam</add> quod in hac specie scripsit <ref xml:id="lca8s8-d1e737-Rd1e109">Ioan<lb ed="#P" break="no" n="18"/>nes 
+          <lb ed="#P" n="17"/>proferunt <add place="above-line">etiam</add> quod in hac specie scripsit <ref xml:id="lca8s8-d1e737-Rd1e109" target="http://scta.info/resource/jb2v19-d111866-d1e326@114-285">Ioan<lb ed="#P" break="no" n="18"/>nes 
             de Maioris 2o Sententiarum c. 44. q. 
             <lb ed="#P" n="19"/>3</ref> qui reuera salua eius reuerentia par<lb ed="#P" break="no" n="20"/>tim 
           circa omnes infideles valde confuse 
@@ -73,7 +73,7 @@
         <p xml:id="lca8s8-d1e737-d1e136">
           <lb ed="#P" n="27"/>Sed ut apertius hominis Errores ius et fac<lb ed="#P" break="no" n="28"/>tum 
           ignorantis appareant eius verba sub<lb ed="#P" break="no" n="29"/>ijciam
-          Cum linguam inquit hyspani<pb ed="#P" n="227-r"/><lb ed="#P" n="1" break="no"/>cam
+          <quote xml:id="lca8s8-d1e737-Qcyaa8a" source="http://scta.info/resource/jb2v19-d111866-d1e326@114-285">Cum linguam inquit hyspani<pb ed="#P" n="227-r"/><lb ed="#P" n="1" break="no"/>cam
           non intellexerunt scilicet indi: nec con<lb ed="#P" break="no" n="2"/>cionatores 
           verbi diuini sine magno mi<lb ed="#P" break="no" n="3"/>lite 
           admitterent necesse erat arces muni<lb ed="#P" break="no" n="4"/>tas 
@@ -101,8 +101,8 @@
           <lb ed="#P" n="25"/>Sed si idem voluerit suscipere cum aliis 
           <lb ed="#P" n="26"/>soluendo pro impensis assumptis: non vi<lb ed="#P" break="no" n="27"/>deo 
           quod deponendus sit. Et hoc si prudens 
-          <lb ed="#P" n="28"/>fuerit nisi timeatur de lapsu in infidelita<lb ed="#P" break="no" n="29"/>tem 
-          etc. Haec <name xml:id="lca8s8-d1e737-Nd1e208">Ioannis maioris</name>
+          <lb ed="#P" n="28"/>fuerit nisi timeatur de lapsu in infidelita<lb ed="#P" break="no" n="29"/>tem</quote> 
+          etc. Haec <ref xml:id="lca8s8-d1e737-Rccyxxy" corresp="lca8s8-d1e737-Qcyaa8a"><name xml:id="lca8s8-d1e737-Nd1e208">Ioannis maioris</name></ref>
         </p>
         <p xml:id="lca8s8-d1e737-d1e212">
           Primo dum 

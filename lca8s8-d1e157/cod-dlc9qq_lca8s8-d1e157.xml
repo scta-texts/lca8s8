@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 9 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 9 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-26">September 2, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-09-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="49-v"/>
+      </div>
+    </front>
+    <body>
+      <div>
+		<head>Caput 9 [Bnf 12926 Transcription]</head>
+		<p>
+			<lb ed="#P"/>Capvt 9m
+		</p>
+		<p>
+			<lb ed="#P"/>¶ Preterea infideles de quibus loquimur
+			<lb ed="#P"/>non esse subditos Ecclesiae nec de foro illius 
+			<lb ed="#P"/>et proinde idolatras non posse puniri ab ec<lb ed="#P" break="no"/>clesia
+			probatur: septimo principaliter: quoniam non 
+			<lb ed="#P"/>incolunt fines uniuersalis ecclesiae sed sunt 
+			<lb ed="#P"/>extra districtum et territorium eius. Nullus 
+			<lb ed="#P"/>autem princeps extra fines suos. Rex aut im<lb ed="#P" break="no"/>perator
+			vel alius quicumque jurisdictionem exer<lb ed="#P" break="no"/>cere
+			potest: ideo enim fines seu limites dicti 
+			<lb ed="#P"/>sunt quia rem vel potestatem jurisdictio<lb ed="#P" break="no"/>nemue
+			alicuius limitant vel determinant 
+			<lb ed="#P"/>seu prestringunt ff. <ref>de periculo et commodo rei 
+			<lb ed="#P"/>venditae, l. ed quod</ref> et <ref>cod. de officio prefecti pre<lb ed="#P" break="no"/>torio
+			africae l. 2a § postquam vero</ref> et <ref>§ prolu<lb ed="#P" break="no"/>nitaneis</ref>
+			et <ref>§ ex sequenti</ref> et <ref>Cod. de fundis li<lb ed="#P" break="no"/>mitrophis
+			l. 1a</ref>.
+		</p>
+		<p>
+			Quod autem infideles non 
+			<lb ed="#P"/>incolant fines ecclesiae probatur: quoniam ecclesia 
+			<lb ed="#P"/>certis limitibus est circumscripta. Nimi<lb ed="#P" break="no"/>rum
+			ecclesia nihil aliud est quam uniuersus 
+			<lb ed="#P"/>populus christianus societate et communio<lb ed="#P" break="no"/>ne
+			sacramentorum unitus fide Roboratus ut
+			<pb ed="#P" n="50-r"/>
+			<lb ed="#P"/>in <ref>c. est unitas ecclesiae de consecratione 
+			<lb ed="#P"/>distinctione 4</ref> et <ref>c. loquitur, 24 q. 1</ref> ibi: <quote>ec<lb ed="#P" break="no"/>clesia
+			una est quae in multitudine latius 
+			<lb ed="#P"/>incremento fecunditatis extenditur</quote> et caetera
+			<lb ed="#P"/>et <ref>93 distinctione c. legimus</ref>. et <ref>1 q. 1, c. mul<lb ed="#P" break="no"/>tae
+			in fine</ref>. Et haec sacramenta limites seu me<lb ed="#P" break="no"/>nia
+			sunt: quibus continetur ecclesia. Vel pos<lb ed="#P" break="no"/>sumus
+			dicere quod ecclesiae limites sunt fides
+			<lb ed="#P"/><del rend="strikethrough" hand="B">eu fidelitas per baptismum siue</del> in baptismo deo 
+			<lb ed="#P"/>et ecclesiae ab his qui conuertuntur promissa. 
+			<lb ed="#P"/>Item unitas per caritatem et pacem per spi<lb ed="#P" break="no"/>ritum
+			sanctum infusa, et administratione 
+			<lb ed="#P"/>actiua et passiua sacramentorum conseruata 
+			<lb ed="#P"/>et perpetua. Aut certe sunt ipsa fidelium 
+			<lb ed="#P"/>multitudo fidei et charitatis unitate colli<lb ed="#P" break="no"/>gata
+			quemadmodum <ref>Augustinus libro 1o de 
+			<lb ed="#P"/>ciuitate dei  c. 15o</ref> et <ref>libro 15o, c. 8o</ref> inquit: 
+			<lb ed="#P"/><quote>ciuitas est bominum multitudo aliquo so<lb ed="#P" break="no"/>cietatis
+			vinculo colligata: vel concors hominum 
+			<lb ed="#P"/>multitudo</quote>.
+		</p>
+		<p>
+			¶ Huius ciuitatis (scilicet) ec<lb ed="#P" break="no"/>clesiae
+			ianua baptismus est <ref>de consecratione distinctio 
+			<lb ed="#P"/>4 capito cum itaque</ref>. qui baptismo juxta verbum 
+			<lb ed="#P"/>domini, q abluti sunt; membra ecclesiae sunt, 
+			<lb ed="#P"/>et in ecclesia consistunt: qui vero baptismos 
+			<lb ed="#P"/>regenerati non sunt vel vota in baptismo aedi<lb ed="#P" break="no"/>ta
+			<subst hand="B"><del rend="strikethrough">t</del><add place="above-line">n</add></subst> nutantes ab ecclesiae unitate, vel christiana 
+			<lb ed="#P"/>religione resiliunt vel heresi vel apostasia hi 
+			<lb ed="#P"/>extra ecclesiam sunt quamuis non expellantur. 
+			<lb ed="#P"/>Licet ergo catholici cum paganis vel hereticis 
+			<lb ed="#P"/>conuiuant in eadem domo vel urbe: certe ec<lb ed="#P" break="no"/>clesia,
+			in his qui fide et charitate colligati sunt 
+			<pb ed="#P" n="50-v"/>
+			<lb ed="#P"/>consistit et dicuntur domus seu ecclesia dei 
+			<lb ed="#P"/>juxta illud <ref>Hieronimi 24 q. 1 c. omnibus 
+			<lb ed="#P"/>consideratis</ref>: <quote>puto me non temere dicere alios 
+			<lb ed="#P"/>ita esse in domo dei quae dicitur edificari 
+			<lb ed="#P"/>supra firmam petram</quote>. haec ille. Et <ref>de pe<lb ed="#P" break="no"/>nitentia
+			distinctio 4 c. in domo</ref> ibi: <quote>domus dei 
+			<lb ed="#P"/>templum dei regnum coelorum sunt homines 
+			<lb ed="#P"/>justi</quote> et caetera. Ouod etiam <ref>Paulus</ref> significat
+			<lb ed="#P"/>dicens: <quote>quid mihi de his qui foris sunt ju<lb ed="#P" break="no"/>dicare</quote>?
+				De fidelibus autem loquens inquit: 
+			<lb ed="#P"/><quote>Nonne de his qui intus sunt vos judicatis</quote>.
+		</p>
+		<p>
+			Idem docet <ref>Gregorius 24 q. 1 c. quia ex 
+			<lb ed="#P"/>sola</ref>: ubi haec verba intus et foris ad fideles 
+			<lb ed="#P"/>et infideles refert, his verbis: <quote>ex sola (in<lb ed="#P" break="no"/>quit)
+			ecclesia catholica veritas conspicitur 
+			<lb ed="#P"/>apud se esse locum scilicet infidelium dominus 
+			<lb ed="#P"/>prohibet</quote>. Et infra: <quote>de agni hostia dominus 
+			<lb ed="#P"/>precipit dicens: in una domo comedetis: neque 
+			<lb ed="#P"/>afferetis de carnibus eius extra fores</quote>: hoc est 
+			<lb ed="#P"/>non communicabitis eas infidelibus quoniam 
+			<lb ed="#P"/>hi extra fores ecclesiae sunt carentes (scilicet)
+			<lb ed="#P"/>baptismo quod est ecclesiae ianua sicut statim 
+			<lb ed="#P"/>exponit Gregorius: <quote>in una namque domo co<lb ed="#P" break="no"/>meditur:
+			quia in una ecclesia catholica vera 
+			<lb ed="#P"/>hostia redemptoris immolatur: de cuius car<lb ed="#P" break="no"/>nibus
+			lex foras afferri diuina prohibet: 
+			<lb ed="#P"/>quia dare sanctum canibus vetat: sola 
+			<lb ed="#P"/>est quae intra se positos valida charitas com<lb ed="#P" break="no"/>pagine
+			custodit: vnde et aqua diluuij ar<lb ed="#P" break="no"/>cam
+			quidem ad sublimiora sustulit: omnes 
+			<lb ed="#P"/>autem quos extra arcam inuenit extinxit</quote>
+			<lb ed="#P"/>haec.
+			<pb ed="#P" n="51-r"/>
+			<lb ed="#P"/>Gregorius.
+		</p>
+		<p>
+			¶ Rursus<ref>Origenes super le<lb ed="#P" break="no"/>uitico</ref> 
+			et <ref>legitur 24 q, 3. c. cum aliquis</ref> 
+			<lb ed="#P"/>inquit <quote>exit a veritate a timore dei, a fide, 
+			<lb ed="#P"/>a charitate exit de castris ecclesiae. Etiam 
+			<lb ed="#P"/>si per Episcopii vocem minime abijciatur: 
+			<lb ed="#P"/>sicut e contrario aliquis non recto judicio 
+			<lb ed="#P"/>foras mittitur: sed si ante non exierit id est 
+			<lb ed="#P"/>si non egerit ut meretur exire: nihil laeditur. 
+			<lb ed="#P"/>Interdum enim qui foras mittitur intus 
+			<lb ed="#P"/>est: et qui foris est intus videtur retineri</quote>. 
+			<lb ed="#P"/>haec ibi.
+		</p>
+		<p>
+			Et haec verba foris et intus repetun<lb ed="#P" break="no"/>tur
+			saepius in <ref>c. sic autem</ref>, et in <ref>c. nec foris
+			<lb ed="#P"/>1 q. 1</ref> et <ref>in sequentibus</ref>.
+		</p>
+		<p>
+			Ergo aliquis est 
+			<lb ed="#P"/>locus in quem non extenditur ecclesia: ni<lb ed="#P" break="no"/>mirum
+			vbi non cognoscitur veritas fidei 
+			<lb ed="#P"/>neque verum sacrificium offertur quod mi<lb ed="#P" break="no"/>nime
+			communicandum est canibus (id est) 
+			<lb ed="#P"/>hereticis, schismaticis, Judaeis, Idolatris
+			<lb ed="#P"/>neque paganis. Esse autem in ecclesia vel extra 
+			<lb ed="#P"/>ecclesiam nihil aliud est: quam vel carere baptismo 
+			<lb ed="#P"/>vel eo esse regeneratum. Qui enim baptizati 
+			<lb ed="#P"/>sunt et fidem habent quae ecclesiae est ianua: 
+			<lb ed="#P"/>hi nimirum in ecclesia sunt qui vero fide 
+			<lb ed="#P"/>carent extra ecclesiam sunt extra quam nul<lb ed="#P" break="no"/>li
+			speranda salus <ref>24 q. 1 c. alenus</ref> 
+			<lb ed="#P"/>et <ref>c. quicumque: de consecratione, distinctio 4</ref> et in 
+			<lb ed="#P"/><ref>c. ecclesia</ref> ibi: <quote>munus autem beatae vitae: non<lb ed="#P" break="no"/>nisi
+			intra ecclesiam inuenitur</quote>. Haec ibi.
+		</p>
+		<p>
+			Quanuis 
+			<lb ed="#P"/>ergo ecclesia per totum orbem sit diffusa
+			<pb ed="#P" n="51-v"/>
+			<lb ed="#P"/>habet tamen fines ac limites suos: non qui<lb ed="#P" break="no"/>dem
+			parietibus aut muris vel certo terrae spa<lb ed="#P" break="no"/>tio
+			constantes: sed  baptismo et fide extra 
+			<lb ed="#P"/>quos viuunt si viuere dici possunt omne 
+			<lb ed="#P"/>genus infidelium. Ete nim si apud Ga<lb ed="#P" break="no"/>ramantas
+			duo s<subst hand="B"><del rend="strikethrough">u</del><add place="inline">i</add></subst>unt christiani <subst hand="B"><del rend="strikethrough">u</del><add place="inline">i</add></subst>bi ecclesia 
+			<lb ed="#P"/>est, etiam si paganorum plurima sint milliaria, 
+			<lb ed="#P"/>ecclesia consistit in illis duobus, in quibus 
+			<lb ed="#P"/>terminantur limites ipsius, et super illos tan<lb ed="#P" break="no"/>tum
+			suam habet jurisdictionem: caeteri extra 
+			<lb ed="#P"/>ecclesiam sunt, de quibus nihil ad ecclesiam 
+			<lb ed="#P"/>pertinet. Sicut <ref><name>Paulus</name></ref> paucis fidelibus 
+			<lb ed="#P"/>inter innumeros paganos viuentibus inquit: 
+			<lb ed="#P"/><quote>non ne de his qui intus sunt vos judicatis? 
+			<lb ed="#P"/>Ac si aperte diceret: de alijs qui foris sunt
+			<lb ed="#P"/>id est infidelibus non judicatis nec debetis 
+			<lb ed="#P"/>judicare cum talium judicium deus sibi 
+			<lb ed="#P"/>reseruauerit</quote>, et ita catholice intelligi debet 
+			<lb ed="#P"/><ref>c. ipsi met</ref> et <ref>c. cuncta per mundum</ref>.
+			<lb ed="#P"/>et <ref>sequentibus, 9, q. 3</ref> ibi scribitur <del rend="strikethrough">ibi</del>
+			<lb ed="#P"/>ecclesiam Romanam et vicarium christi pos<lb ed="#P" break="no"/>se
+			judicare de ecclesia vniuersali, et de 
+			<lb ed="#P"/>ecclesijs particularibus.
+		</p>
+		<p>
+			Hoc enim intel<lb ed="#P" break="no"/>ligi
+			debet posse judicare de omnibus chris<lb ed="#P" break="no"/>tianis:
+			non autem de paganis omnibus quod 
+			<lb ed="#P"/>satis probatur in <ref>c. Nouit de judicijs vbi</ref>
+			<lb ed="#P"/>textus inquit: <quote>Nullus qui sit sanae me<lb ed="#P" break="no"/>ntis
+			ignorat quin ad officium nostrum spec<lb ed="#P" break="no"/>tet
+			de quo cumque mortali peccato corripere
+			<pb ed="#P" n="52-r"/>
+			<lb ed="#P"/>quem libet christianum</quote> ergo non quem libet 
+			<lb ed="#P"/>infidelem, quia si sic, dixisset vtique quem
+			<lb ed="#P"/>libet hominem ut includeret fidelem vel 
+			<lb ed="#P"/>infidelem. Sic in <ref>c. maiores, § etem que<lb ed="#P" break="no"/>ritur.
+			de baptismo</ref>, probatur: quod infidelis reci<lb ed="#P" break="no"/>piens
+			baptismum etiam inuitus coactione 
+			<lb ed="#P"/>(videlicet) conditionata: ratione sacramenti ad 
+			<lb ed="#P"/>jurisdictionem ecclesiae pertinet. Ergo a contra<lb ed="#P" break="no"/>rio
+			sensu si non recipit sacramentum ad ju<lb ed="#P" break="no"/>risdictionem
+			ecclesiasticam non pertinet. Et 
+			<lb ed="#P"/>ita ibi anotat <ref><name>Antonius de butrio</name></ref> his verbis, 
+			<lb ed="#P"/><quote>nota hic quod non baptizati non sunt sub juris<lb ed="#P" break="no"/>dictione
+			ecclesiae: et quod caracterem baptismi 
+			<lb ed="#P"/>habentes submittuntur jurisdictioni Ecclesiae 
+			<lb ed="#P"/>quo ad hoc: vt assumptam fidem seruare 
+			<lb ed="#P"/>compellantur</quote>. Haec ille.
+		</p>
+		<p>
+			Et <ref>Joanes Anania 
+			<lb ed="#P"/>in Rubrica de Judaeis 3 colu</ref>. inquit: quod 
+			<lb ed="#P"/>Judaei nec quo ad corpus nec quoad animam 
+			<lb ed="#P"/>sunt ecclesiae: quia non sunt baptizati ergo mul<lb ed="#P" break="no"/>to
+			minus erunt caeteri infideles: cum Judaei 
+			<lb ed="#P"/>serui sint ecclesiae caeteri autem non.
+		</p>
+		<p>
+			Ergo qui 
+			<lb ed="#P"/>baptismum non susceperunt: extra fines 
+			<lb ed="#P"/>ac jurisdictionem ecclesiae sunt. Ex hoc 
+			<lb ed="#P"/>infertur manifeste ecclesiam idolatras pu<lb ed="#P" break="no"/>nire
+			non posse cum sint extra fines et terri<lb ed="#P" break="no"/>torium
+			ac proinde extra jurisdictionem ec<lb ed="#P" break="no"/>clesiae:
+			nullus enim judex extra fines suos ius 
+			<lb ed="#P"/>dicit: neque Galliae rex ius dicit hyspaniae, 
+			<lb ed="#P"/>neque Rex hyspanus Gallis leges dat: neque rur<lb ed="#P" break="no"/>sus
+			caesar ipse extra imperij fines caesarea 
+			<lb ed="#P"/>autoritate vti potest. Nimirum caret potestate 
+			<pb ed="#P" n="52-v"/>
+			<lb ed="#P"/>et jurisdictione: quam naturae autor sua 
+			<lb ed="#P"/>ineffabili sapientia certis limitibus unicui<lb ed="#P" break="no"/>que
+			populo et principi prescripsit: ad cuiusque 
+			<lb ed="#P"/>reipublicae tutelam ac conseruationem. Vn<lb ed="#P" break="no"/>de
+			complantata dicitur in loco vel territorio vel 
+			<lb ed="#P"/>in ossibus hominum cuiusque communitatis 
+			<lb ed="#P"/>seu reipublicae: a quibus euelli non potest non 
+			<lb ed="#P"/>quidem minus quam cibus ad vitae conseruation<lb ed="#P" break="no"/>em.
+		</p>
+		<p>
+			¶ Et quia priuilegium hoc uniuersis 
+			<lb ed="#P"/>regnis et communitatibus mundi concessit <subst hand="B"><del rend="strikethrough">n<lb ed="#P" break="no"/>atura</del><add place="rm">author</add></subst>,
+			hinc jurisdictio vnius regni non exit 
+			<lb ed="#P"/>fines <subst hand="B"><del rend="strikethrough">uniuscuiusque</del><add place="above-line">suos</add></subst>: nec extendit se ad al<lb ed="#P" break="no"/>terius
+			regni vel prouinciae territorium. Lex 
+			<lb ed="#P"/>autem gratiae perficit actus naturae: non vero 
+			<lb ed="#P"/>eos euertit neque abolet: quod omnes scholae, 
+			<lb ed="#P"/>omnes Theologi ac sacri doctores docent. 
+			<lb ed="#P"/>
+				<note place="lm" hand="F">Pagani et infideles 
+				suam babent jurisdictionem 
+				et exercere 
+				possunt</note>
+				Quare pagani principes legitime possunt 
+			<lb ed="#P"/>fines suos tueri, et legitime jurisdictionem 
+			<lb ed="#P"/>exercent: eorum enim jurisdictio non minus 
+			<lb ed="#P"/>naturalis est quo ad hoc: quam jurisdictio prin<lb ed="#P" break="no"/>cipum
+			christianorum. Quoniam, juxta <ref>philosophum 
+			<lb ed="#P"/>in politicis</ref>, omnis respublica debet esse per 
+			<lb ed="#P"/>se sufficiens: et est territorium uniuersitas 
+			<lb ed="#P"/>agrorum intra fines cuiuslibet loci existens: 
+			<lb ed="#P"/>vbi quis obtinet ius imperandi ut in <ref>c. li<lb ed="#P" break="no"/>cet
+			de probationibus</ref> et ff. <ref>de verborum significatione l. 
+			<lb ed="#P"/>pupillus § territorium</ref>. Et dicitur <quote>dis<lb ed="#P" break="no"/>trictus
+			a distringo: teritorium a terrendo 
+			<lb ed="#P"/>vel a terreo</quote> dicto loco, de quo <ref>felinus latissime 
+			<lb ed="#P"/>in c. Rodulphus § de hoc verbo territorio 
+			<lb ed="#P"/>folio 173 de rescriptis</ref>.
+		</p>
+		<p>
+			Quod autem vio<pb ed="#P" n="53-r"/><lb ed="#P" break="no"/>lari
+			aut transgredi a quocumque liceat alienum 
+			<lb ed="#P"/>territorium vel jurisdictionem patet per diui<lb ed="#P" break="no"/>nam
+			legem vetatum. Legimus enim <ref>prouerbiorum 
+			<lb ed="#P"/>22o</ref>: <quote>ne transgrediaris terminos antiquos: 
+			<lb ed="#P"/>quos posuerunt patres tui</quote>, et in transgredi<lb ed="#P" break="no"/>entes
+			fines alienos scriptura sacra dira im<lb ed="#P" break="no"/>precatur
+			<ref>Deuteronomij 27o</ref>: <quote>maledictus qui trans<lb ed="#P" break="no"/>fert
+			terminos proximi sui: et dicet omnis 
+			<lb ed="#P"/>populus amen</quote>. ldem probatur ex juris tra<lb ed="#P" break="no"/>ditionibus
+			in <ref>l. final ff. de jurisdictione omnium ju
+			<lb ed="#P"/>dicum</ref> et <ref>ibi glossa</ref> et<ref>in l. 3, ff. de officio pre<lb ed="#P" break="no"/>sidis</ref> 
+			et in <ref>c. vt animarum de constitutionibus libro 6o</ref>. 
+			<lb ed="#P"/>Et <ref>doctores utrobique</ref> et in <ref>c. cum contingat 
+			<lb ed="#P"/>de foro competenti</ref>. Et in <ref>clementina pastoralis 
+			<lb ed="#P"/>de re judicata</ref>.
+		</p>
+		<p>
+			Non enim valent acta a judice 
+			<lb ed="#P"/>extra territorium: Jurisdictio enim inheret 
+			<lb ed="#P"/>ossibus hominum cuiusque territorij vt dictum 
+			<lb ed="#P"/>est ut per doctores in <ref>l. 1 § cum urbem ff. 
+			<lb ed="#P"/>de officio prefecti vrbis</ref>. Et in <ref>l. finali eo titulo</ref> et in 
+			<lb ed="#P"/><ref>l. in modicis ff. de contrabenda emptione</ref> et in 
+			<lb ed="#P"/><ref>l. 3 ff. de officio presidis</ref> et in <ref>l. 2 ff. de ju<lb ed="#P" break="no"/>risdictione
+			omnium judicum</ref>. facit <ref>c. diaconi 93 dist 
+			<lb ed="#P"/>ibi</ref>. Vnusquisque ita in hoc mundo visibili 
+			<lb ed="#P"/>aliquid possidere iubetur: vt sua tantum pos<lb ed="#P" break="no"/>sessione
+			sit contentus ac res non inuadat 
+			<lb ed="#P"/>alienas: non agrum pauperis tollat, non vi<lb ed="#P" break="no"/>neam,
+			non subuectorium aliquod, non fa<lb ed="#P" break="no"/>mulos,
+			non fructum et caetera.
+		</p>
+		<p>
+			Ita autem verum 
+			<lb ed="#P"/>est judicem non posse ius dicere extra territo<lb ed="#P" break="no"/>rium
+			ut: etiam si quis delinquat in meo te<pb ed="#P" n="53-v"/><lb ed="#P" break="no"/>rritorio
+			quo casu illum punire possim etiam si 
+			<lb ed="#P"/>sit exterus et subditus alieni principis ut in 
+			<lb ed="#P"/><ref>l. 3 ff. de officio presidis</ref>. Si tamen aufugit 
+			<lb ed="#P"/>extra fines territorij eius judicis: jam non 
+			<lb ed="#P"/>potest illum punire. Jurisdictio enim quae ori<lb ed="#P" break="no"/>tur
+			ratione delicti non est naturalis sed ac<lb ed="#P" break="no"/>cidentalis:
+			sicut et illa quae oritur ex domicilio: 
+			<lb ed="#P"/>ex quo vbi primum delinquens exit illud terri<lb ed="#P" break="no"/>torium
+			finitur eius judicis vel principis ju<lb ed="#P" break="no"/>risdictio
+			vt probatur in <ref>clementina Pastorali § 
+			<lb ed="#P"/>denique: de re judicata</ref>.
+		</p>
+		<p>
+			<del rend="crosshatch" hand="B">¶ Cum igitur infideles 
+				<lb ed="#P"/>quantumcumque idolatrae et peccatores qui fidem 
+				<lb ed="#P"/>non receperunt potissimum qui nec unquam de 
+				<lb ed="#P"/>ipsa aliquid audierunt terras propias et 
+				<lb ed="#P"/>regna et territoria sua separata a christia<lb ed="#P" break="no"/>nis
+				finibus possidentes: delinquant et pec<lb ed="#P" break="no"/>cent;
+				extra terminos ac territorium uniuersa<lb ed="#P" break="no"/>lis
+				ecclesiae; vnde jurisdictio eius eos non 
+				<lb ed="#P"/>comprehendit: Sequi manifestum est ad ec<lb ed="#P" break="no"/>clesiam
+				non pertinere, nec ad aliud membrum 
+				<lb ed="#P"/>eius: propter idolatriam vel propter aliquod crimen 
+				<lb ed="#P"/>aut scelus quodcumque: illos punire: intra li<lb ed="#P" break="no"/>mites
+				vel dominationis aut infidelitatis suae 
+				<lb ed="#P"/>precise commissum. cuiusmodi sunt indi nostri 
+				<lb ed="#P"/>et similes.</del>
+		</p>
+		<p>
+			His consonat quod scribit <ref>Ca<lb ed="#P" break="no"/>jetanus
+			exponens illa verba apostoli</ref>: <quote>Quid 
+			<lb ed="#P"/>mihi de his qui foris sunt judicare. Christi<lb ed="#P" break="no"/>anos
+			(inquit) tanquam subiectos suo judicio pu<lb ed="#P" break="no"/>nit:
+			non christianos autem tamquam foris, tamquam 
+			<lb ed="#P"/>extra jurisdictionem suam existen<subst hand="B"><del rend="strikethrough">s</del><add place="above-line">tes</add></subst> non pu<lb ed="#P" break="no"/>nit:
+			quia non expectat ad illum judicare 
+			<pb ed="#P" n="54-r"/>
+			<lb ed="#P"/>illos. Non ne de his qui intus sunt vos ju<lb ed="#P" break="no"/>dicatis.
+			Manifestat discrectionem qua foecit 
+			<lb ed="#P"/>ex communi vsu judicum. Pronomen enim 
+			<lb ed="#P"/>vos demonstrat bomines cum exercent offici<lb ed="#P" break="no"/>um
+			judicis: commune siquidem est hominibus 
+			<lb ed="#P"/>judicare eos qui comprehenduntur intra ter<lb ed="#P" break="no"/>minos
+			suae jurisdictionis et caetera</quote>. haec Cajetanus.
+		</p>
+	</div>
+    </body>
+  </text>
+</TEI>

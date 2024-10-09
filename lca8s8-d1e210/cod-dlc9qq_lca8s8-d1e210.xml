@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 13 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 13 [Bnf 12926 Transcription]</title>
+          <date when="2024-10-09">Oct 09, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-10-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="62-v"/>
+      </div>
+    </front>
+    <body>
+      <div>
+        <head>Caput 13 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P"/>Caput 13m.
+        </p>
+        <p>
+          Reliquum est respondere ad exemplum quod Sepulueda profert ex sacris libris, scilicet, ex Deuteronomij (C. 7?)299 et ex Libro Josue261, ubi legimus Deum ob certa crimina deleuisse septem gentes incolas terrae promissionis. Contendit autem hoc exercendum in indos, citans etiam Diuum Cyprianum?€, cuius sensum inuertit et adulterat, sicut alia multa consueuit.
+        </p>
+        <p>
+          Primo, igitur, egregie doctor Sepulueda, abs te scire velim quare Deus non jussit [67r.] deleri plurimos alios idolatras qui eo temporeviuebant? Excepta enim gente judeorum et linea quae ab Adam peruenit usque ad Christum, totus orbis idolorum  cultui deditus erat, preter aliquot pietate nobiles viros, Iob scilicet et Melchisedech, et  alios quos Deus inter gentes viuentes veritatem cognoscere dignatus est, ut patet ex Genesi, Deuteronomio?85, et fere ex omnibus libris Veteris Testamenti;
+        </p>
+        <p>
+          et testantur Paulus?€4 et Barnabas (Actuum c. 14^), dicentes: Qui, scilicet Deus, zn preteritis generationibus dimisit omnes gentes ingredi vias suas, id est, diuersos ritus et caerimonias idolorum, quod Ambrosius prolixe tractat in duobus libris De Vocatione Omnium Gentium?65 et satis testantur omnes paganorum hystoriac.
+        </p>
+        <p>
+          Quamuis ergo totus orbis coleret idola, non jussit Deus bello deleri Idumaeos vel  Egyptios qui fedo idolorum cultu et alijs criminibus caeteras orbis nationes superarunt; quinimo dixit Deus: [Von abomrnaueris Idumaeum, quia frater tuus est, nec Egyptum, quia aduena fuisti in terra eius. (Deuteronomij 27?yss6.
+        </p>
+        <p>
+          Itaque Deus nequaquam jussit occidi ullos idolatras preter eos qui incolebant terram promissionis, nisi esset aliqua noua causa, non propter idolatriam. Ita probatur  20? capite eius libri?9", ubi Deus instruens populum suum quomodo deberet gerere  bellum aduersus paganos, qui habitabant extra terram promissionis, si forte ab eis  damnum vel injuriam acciperent, ut [67v.] notat Liranus268 ¡bi et Abulensis (quaestione 1? et 22, Paralipomenon c. 8?, q. 52299 his verbis admonuit eos, dicens: 
+        </p>
+        <p>
+          Si  quando accesseris ad expugnandum ciuitatem, offeres ei primum pacem?" ex infra: Sic  facies cunctis ciuitatibus quae ante te procul valde sunt et non sunt de his urbibus quas in  possessionem accepturus es. De bis autem ciuitatibus quae dabuntur tibi, nullum omnino  permittes viuere, sed interficies in ore gladij, et caetera?!
+        </p>
+        <p>
+          Itaque aduersus Chananaeos, incolentes terram promissionis, sufficiens causa belli erat esse incolas eius terrae; idco Judaei diuino precepto tenebantur illos occidere,  non parcentes maximis neque minimis aliquando neque ipsis animalibus.
+        </p>
+        <p>
+          Tamen  aduersus alias gentes, etiam si impiae et idolatrae essent, non poterant Judaei mouere  arma absque aliqua alia legitima causa et tunc tenebantur offerre eis primum pacem; quam si non recusabant, et ideo aperiebant portas, nullo alio incommodo poterant  eos afficere Judaei quam impositione tributi, in poenam damni vel injuriae sibi illatae. Imposito autem tributo, incolumes et liberi relinquebantur suas urbes incolere.
+        </p>
+        <p>
+          Si autem pacem recusabant obstinati in eo consilio perseuerantes, poterant, expugnata ciuitate, occidere homines pugnae idoneos; tenebantur tamen parcere foeminis, pueris et animalibus; quinimo poterant viris parcere neque enim diuino precepto tenebantur eos occidere, quod ibi anotat Caietanus??2,
+        </p>
+        <p>
+          Et!77 quamquam!/8 esset hoc generale, scilicet, quod nulli nationum, quantumcumque idolatrae esset, [68r.] earum quae extra terram habitabant promissionis, bellum aut incommodum aliud inferre  poterant, nisi subesset aliqua!7? legitima causa, de alijs tamen omnibus duas dominus  exceptauerat: Madianitas, scilicet, et Amalechitas, quas tenebantur Judaei!99 precepto diuino oppugnare ac delere, non equidem quod idolatrae essent.
+        </p>
+        <p>
+          Neque enim absque justa causa, ut predictum?! est, inferre bellum idolatris poterant, etiamsi impijssimi essent, sed quod peculiaribus quibusdam incommodis affecerant filios Israel. Madiantae quidem fuerunt causa ut filij Israel fornicarentur cum foeminis eius regionis et idola colerent et quod exinde ira Dei veniret super eos; qua de causa dominus precepit illis: Hostes vos sentiant Madianitae, et percutite eos, quia ipsi hostiliter egerunt contra vos (Numerorum c. 16)273,
+        </p>
+        <p>
+          malechitae autem bis contra ius fasque pugnarunt cum Judaeis in deserto, (Exodi 17? et Numerorum 14*)?^. Quare Deus precepit illis ne eius injuriae obliuiscerentur sed ut eraderent a facie terrae nomen Amalech ubi primum in terra sua conquieuissent (Deuteronomij 26?)?5. Et quia Saul pepercit regi eorum grauiter peccauit; quare dominus non est passus filios eius succedere in regnum (1 ? Regum 15%)276, Dominus ergo noluit indifferenter omnes idolatras occidi aut per bellum subijci nisi adesset peculiaris aliqua et justa causa.
+        </p>
+        <p>
+          eque enim casus qui speciali ratione admittitur facit regulam generalem; immo vero docet in contrarium esse ius commune per locum a [68v.] speciali (de quo argumento in L. Quod Vero Contra, et L. Ius Singulare, ff De Legibus, et L. 1, ff Ad Municipia; ex in regula QuaeA Jure, de regulis juris, Libro 69, cum similibus)277. Errant ergo isti, nescientes scripturas neque virtutem Dei
+        </p>
+        <p>
+          Neque magis viget quod adducunt ex Lirano?78 (Super Numeros, c. 31%) ubi docens in sacris libris reperiri aliquas justas causas, ob quas!5? bellum fuit motum, subijcit justam csse causam belli si gens alicuius prouinciae blasphema sit in Deum colendo idola (Deuteronomij, c. 13*)279. Istud quidem haud negamus prout ibi legitur. Sed illud verum cum idola colerent post fidem susceptam intelligitur. 
+        </p>
+        <p>
+          Etenim si, moniti et requisiti ut ab illis impuris immolationibus et sacrilego cultu abstinerent, nolint agere penitentiam ct veritatem agnoscere, juste eis inferri potest bellum. Quod dominus precepit per Moysem (Deuteronomii 13*)299, Quamquam illos etiam non auditos tenebantur eo tempore delere, de quo vide quae dicuntur capite sequenti. Hoc autem tempore gratiae longe aliud sentiendum et faciendum est, (ut statim docebo).
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

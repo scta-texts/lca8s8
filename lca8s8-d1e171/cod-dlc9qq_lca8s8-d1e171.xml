@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 10 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 10 [Bnf 12926 Transcription]</title>
+		  <date when="2024-09-03">September 3, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-09-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="54-r"/>
+      </div>
+    </front>
+    <body>
+      <div>
+		<head>Caput 10 [Bnf 12926 Transcription]</head>
+		<p>
+			<lb ed="#P"/>Capvt 10m
+		</p>
+		<p>
+			<lb ed="#P"/>¶ Octauo Ecclesiam non posse punire ido<lb ed="#P" break="no"/>latras:
+			probatur ex Augustino super psalmum 
+			<lb ed="#P"/>145um vbi exponens illud facit dominus ju<lb ed="#P" break="no"/>dicium
+			omnibus injuriam patientibus in<lb ed="#P" break="no"/>quit:
+			ab his qui non sunt sui juris (scilicet) 
+			<lb ed="#P"/>ecclesiae, in quos nequit disciplina exerceri quamquam 
+			<lb ed="#P"/>ego minime reperio ibi haec verba. Sed quia 
+			<lb ed="#P"/>citat <ref>Augustinum Gratianus 23. q. 4. § 
+			<lb ed="#P"/>his itaque respondetur. sub c. cum in lege</ref> 
+		<lb ed="#P"/>ubi haec subnectit Gratianus: <quote>sunt quaedam quae 
+			<lb ed="#P"/>salubri tantum admonitione sunt corribien<lb ed="#P" break="no"/>da
+			non corporalibus flagelijs animaduertenda: 
+			<lb ed="#P"/>sed eorum vindicta diuino examini tantum est 
+			<lb ed="#P"/>reseruanda quando in delinquentes (videlicet) 
+			<lb ed="#P"/>disciplinam exercere non possumus: vel quia non 
+			<lb ed="#P"/>sunt nostri juris: vel quia illorum crimina etsi <del rend="strikethrough">a</del>
+			<lb ed="#P"/>nobis nota sunt: tamen manifestis <subst hand="B"><del rend="strikethrough">ij</del><add place="above-line">in</add></subst>dicijs 
+			<lb ed="#P"/>probari non possunt. De his qui non sunt nostri 
+			<lb ed="#P"/>juris: ait <ref>apostolus in 1a Epistola ad corinthios</ref>: 
+			<lb ed="#P"/><quote>quid enim mihi attinet de bis qui foris sunt 
+			<lb ed="#P"/>judicare? De his dominus judicabit</quote></quote> et caetera.
+			<pb ed="#P" n="54-v"/>
+			<lb ed="#P"/>Haec Gratianus.
+		</p>
+		<p>
+			Ergo si juris nostri non sunt: 
+			<lb ed="#P"/>minime possumus illos punire. Idem docet 
+			<lb ed="#P"/><ref>Augustinus in homilia 50a de vilitate ac 
+			<lb ed="#P"/>necessitate penitentiae, colu. 6</ref> Et inde <ref>Gratia<lb ed="#P" break="no"/>nus
+			desumpsit quae refert in c. Multi. 2. 
+			<lb ed="#P"/>q. 1.</ref> apertius <ref>Augustinus in Libro de baptismo 
+			<lb ed="#P"/>et legitur in c. Non ne 1. q. 1.</ref> ubi inquit: 
+			<lb ed="#P"/><quote>non ne Sodomitae Ethnici evant, id est, gentiles 
+			<lb ed="#P"/>peiores Ergo Judaei quibus dominus dicit
+			<lb ed="#P"/>tolerabilius erit Sodomis in die judicij quam 
+			<lb ed="#P"/>vobis, et quibus propheta dicit: Justifica<add rend="above-line">s</add>tis
+			<lb ed="#P"/>Sodomam, id est, comparatione vestra justa fa<lb ed="#P" break="no"/>cta
+			est</quote>: Ex infra: <quote>Nam et ipsi gentiles si quid 
+			<lb ed="#P"/>diuinum et rectum in doctrinis suis babere 
+			<lb ed="#P"/>potuerunt: non improbauerunt sancti viri. 
+			<lb ed="#P"/>Quamuis illi per suas superstitiones et idola<lb ed="#P" break="no"/>triam
+			superbiamque et caeteros perditos mores 
+			<lb ed="#P"/>detestandi essent: et nisi corrigerentur diui<lb ed="#P" break="no"/>no
+			judicio puniendi</quote>. haec Augustinus.
+		</p>
+		<p>
+			Vi<lb ed="#P" break="no"/>des
+			<name>Augustinum</name> sentire diuino judicio re<lb ed="#P" break="no"/>seruari:
+			punitionem criminum quae a paganis 
+			<lb ed="#P"/>vel idolatris comittuntur? Ergo ad ecclesiam 
+			<lb ed="#P"/>non pertinet talis punitio.
+		</p>
+		<p>
+			¶ Nono haec 
+			<lb ed="#P"/>veritas probatur ex ratione qua caetera omnia 
+			<lb ed="#P"/>argumenta nituntur: eam scribit <ref>sanctus Tho<lb ed="#P" break="no"/>mas
+			in 4o sententiarum distinctio 17a q. 3. ar. 1o quaest. 
+			<lb ed="#P"/>5a in corpore</ref> ratio autem haec est. Papa vicarius christi
+			<lb ed="#P"/>et caeteri ecclesiae ministri instituti sunt in 
+			<lb ed="#P"/>ecclesia postquam ecclesia diuinitus fuit insti<lb ed="#P" break="no"/>tuta:
+			Vnde certum est edificationem seu 
+			<pb ed="#P" n="55-r"/>institutionem ecclesiae precessisse et presupponi 
+			<lb ed="#P"/>ad ministeria et actus ministrorum ecclesiae; 
+			<lb ed="#P"/>quemadmodum opera creationis precesserunt 
+			<lb ed="#P"/>et presupponuntur ad opera naturae. Haec autem 
+			<lb ed="#P"/>ecclesiae institutio constat fide ac sacramentis. 
+			<lb ed="#P"/>Sacramenta autem supponunt necessario debere 
+			<lb ed="#P"/>esse aliquas personas capaces et habiles ad sus<lb ed="#P" break="no"/>cipienda
+			sacramenta: nimirum capaces per fi<lb ed="#P" break="no"/>dem.
+			Pagani autem et infideles <del rend="strikethrough" hand="B">non sunt</del> cum 
+			<lb ed="#P"/>sint omnino extra ecclesiam: et non sint 
+			<lb ed="#P"/>membra ecclesiae cum fide careant; sunt in<lb ed="#P" break="no"/>capaces
+			sacramentorum, et ita institutio ecclesiae 
+			<lb ed="#P"/>minime pertinet ad eos ex quo sequitur quod opera 
+			<lb ed="#P"/>seu actus ministrorum ecclesiae non extenduntur 
+			<lb ed="#P"/>ad eos  sicuti operatio naturae non extenditur 
+			<lb ed="#P"/>ad ea quae nondum creata sunt: vel quae non 
+			<lb ed="#P"/>sunt in rerum natura.
+		</p>
+		<p>
+			Sed jurisdictio et ope<lb ed="#P" break="no"/>rationes
+			siue actus judiciales per quos delicta 
+			<lb ed="#P"/>puniuntur pertinent ad ministros ecclesiae ratione 
+			<lb ed="#P"/>fidei et sacramentorum: quae necessario supponen<lb ed="#P" break="no"/>da
+			sunt actibus ministrorum: quemadmodum 
+			<lb ed="#P"/>supponi oportet opus creationis ad hoc vt na<lb ed="#P" break="no"/>tura
+			operari possit. Ergo ministri ecclesiae re<lb ed="#P" break="no"/>gulariter
+			non possunt exercere jurisdictionem 
+			<lb ed="#P"/>in paganos vel infideles quoniam non sunt capa<lb ed="#P" break="no"/>cia
+			subiecta talium ecclesiae operationum. 
+			<lb ed="#P"/>Ex quo infertur quod si per impossibile aposto<lb ed="#P" break="no"/>li
+			nullum hominem conuertissent ad fidem: 
+			<lb ed="#P"/>minime potuissent exercere jurisdictionem 
+			<lb ed="#P"/>illis concessam a christo quoniam cum extra eos 
+			<pb ed="#P" n="55-v"/>nulla esset ecclesia: deerat subiectum seu 
+			<lb ed="#P"/>materia ad exercendum actus suae jurisdictio<lb ed="#P" break="no"/>nis.
+		</p>
+		<p>
+			Ergo ad Ecclesiam non pertinet punitio 
+			<lb ed="#P"/>idolatriae vel cuiuscumque peccati paganorum vel 
+			<lb ed="#P"/>infidelium.
+		</p>
+		<p>
+			¶ Decimo <subst hand="B"><del rend="strikethrough">infideles</del><add place="lm">in conuersione infidelium</add></subst> in qui numquam 
+			<lb ed="#P"/>fidem susceperunt nec eis fuit fides predica<lb ed="#P" break="no"/>ta
+			nec fidei auditui repugnauerunt: quorum 
+			<lb ed="#P"/>respectu dicetur prima fidei predicatio: non 
+			<lb ed="#P"/><del rend="strikethrough" hand="B">pot</del>est incipi<add place="above-line" hand="B">endum</add> a punitione peccatorum: sed ab ob<lb ed="#P" break="no"/>latione 
+			indulgentiae et remissionis: et ex<lb ed="#P" break="no"/>hortatione
+			ad penitentiam. Probatur quoniam 
+			<lb ed="#P"/>si incipimus puniendo eorum crimina: euer<lb ed="#P" break="no"/>timus
+			expressum preceptum et institutionem 
+			<lb ed="#P"/>christi, Et predicandi formam  predicato
+			<lb ed="#P"/>ribus prefixam. Christus enim mittens apos<lb ed="#P" break="no"/>tolos
+			ad predicandum euangelium omni crea<lb ed="#P" break="no"/>turae:
+			his verbis eos allocutus est quae referun<lb ed="#P" break="no"/>tur
+			apud <ref>Lucam capite ultimo</ref>. <quote>quoniam sic scri<lb ed="#P" break="no"/>ptum
+			est et sic oportuit Christum pati et 
+			<lb ed="#P"/>resurgere a mortuis tertia die, et predicari 
+			<lb ed="#P"/>in nomine eius penitentiam et remissionem 
+			<lb ed="#P"/>peccatorum in omnes gentes: incipientibus ab 
+			<lb ed="#P"/>hierosolyma: vos autem testes estis horum</quote> (scilicet)
+			<lb ed="#P"/>quae predicanda sunt secundum <ref>glossam interlinea<lb ed="#P" break="no"/>lem.
+			Et in  verbo omnes ait</ref>. Eadem interlinealis. 
+			<lb ed="#P"/><quote>Non enim in una tantum gente Judaeorum 
+			<lb ed="#P"/>vel in aliqua parte terrarum</quote>. haec illa.
+		</p>
+		<p>
+			Et 
+			<lb ed="#P"/><ref>super verbo encipientibus ab hierosolyma
+			<lb ed="#P"/>et caetera. Dicit glossa ordinaria</ref>: <quote>oportebat vt mi<lb ed="#P" break="no"/>nistri
+			qui penitentiam et remissionem erant 
+			<pb ed="#P" n="56-r"/>
+			<lb ed="#P"/>predicaturi in omnes gentes: inciperent 
+			<lb ed="#P"/>ab hierosolymis. Non solum quia illis cre<lb ed="#P" break="no"/>dita
+			sunt eloquia dei: et quia eorum est ade<lb ed="#P" break="no"/>ptio
+			filiorum et gloria, et testamenta, et le<lb ed="#P" break="no"/>gis
+			latio: sed ideo etiam vt gentes varijs 
+			<lb ed="#P"/>erroribus et facinoribus implicite hoc ma<lb ed="#P" break="no"/>xime
+			judicio diuinae pietatis ad spem 
+			<lb ed="#P"/>veniae prouocentur: quod eis qui filium dei cru<lb ed="#P" break="no"/>cifixerunt
+			venia relaxatur</quote>. haec glosa.
+		</p>
+		<p>
+			¶ Ex 
+			<lb ed="#P"/>verbis probatur primo christum precepisse 
+			<lb ed="#P"/>apostolis vt praedicarent euangelium offeren<lb ed="#P" break="no"/>do
+			et promittendo gratis remissionem pe<lb ed="#P" break="no"/>ccatorum. 
+			Item ut exhortarentur illos ad 
+			<lb ed="#P"/>penitentiam. Quod autem hoc fuerit precep<lb ed="#P" break="no"/>tum
+			probatur ex illis verbis <quote>quoniam sic scrip<lb ed="#P" break="no"/>tum
+			est</quote>, scilicet sic prophetatum: ergo neces<lb ed="#P" break="no"/>sarium
+			fuit <quote>Christum pati</quote>. Supposita ergo 
+			<lb ed="#P"/>preordinatione diuina ac necessitate finis: 
+			<lb ed="#P"/>qui erat liberare ac redimere humanum ge<lb ed="#P" break="no"/>nus 
+			de quo <ref>sanctus Thomas 3 parte, q. 46. a. 1</ref> et in <ref>3o sententiarum, distinctione 20, a. 1, quaest. 3</ref> 
+			<lb ed="#P"/>eodem modo eademque necessitate necessarium 
+			<lb ed="#P"/>fuit predicare penitentiam et remissionem 
+			<lb ed="#P"/>peccatorum cunctis gentibus.
+		</p>
+		<p>
+			Quemadmodum enim necessarium fuit Christum pati ac re<lb ed="#P" break="no"/>surgere
+			a mortuis pro humani generis re<lb ed="#P" break="no"/>demptione:
+			tum quia sic erat prophetatum: 
+			<lb ed="#P"/>tum etiam quia hoc erat a domino preordinatum: 
+			<lb ed="#P"/>propter necessitatem finis: ita etiam a deo erat 
+			<pb ed="#P" n="56-v"/>
+			<lb ed="#P"/>ordinatum et a prophetis multis ante annis 
+			<lb ed="#P"/>predictum: et etiam erat necessarium ad hoc 
+			<lb ed="#P"/>vt impleretur consilium et voluntas dei qui 
+			<lb ed="#P"/>omnes bomines vult saluos fieri maxime 
+			<lb ed="#P"/>praedestinat<subst hand="B"><del rend="overwrite">i</del><add place="in-line">os</add></subst> vt euangelica veritas anuntiare<lb ed="#P" break="no"/>tur.
+			incipiendo ab exhortatione hominum ad 
+			<lb ed="#P"/>penitentiam: promittendo illis ex parte dei 
+			<lb ed="#P"/>et Jesuchristi veniam et remissionem omnium 
+			<lb ed="#P"/>peccatorum.
+		</p>
+		<p>
+			Quod adeo necessarium fuit vt 
+			<lb ed="#P"/>nisi Euangelium hoc modo fuisset anuntia<lb ed="#P" break="no"/>tum
+			hominibus qui eo tempore veritatem 
+			<lb ed="#P"/>ignorabant: certe predestinati non conseque<lb ed="#P" break="no"/>rentur
+			salutem: et ita fructus passionis chris<lb ed="#P" break="no"/>ti
+			irritus et nullus redderetur: Juxta illud 
+			<lb ed="#P"/><ref>psalmographi 29o</ref><quote>quae utilitas in sangui<lb ed="#P" break="no"/>ne
+			meo si descendero in corruptionem?</quote> 
+		</p>
+		<p>
+			Hoc 
+			<lb ed="#P"/>autem (scilicet) non adipisci salutem predes<lb ed="#P" break="no"/>tinatos
+			impossibile erat: ergo necessario om<lb ed="#P" break="no"/>nino
+			fuit apostolos euangelizare juxta for<lb ed="#P" break="no"/>mam
+			et preceptum et institutionem sibi tra<lb ed="#P" break="no"/>ditam
+			a Christo.
+		</p>
+		<p>
+			haec consequentia clara est. 
+			<lb ed="#P"/>Cum enim Deus predestinauit homines qui 
+			<lb ed="#P"/>salutem consecuturi sunt: predestinauit 
+			<lb ed="#P"/>etiam media per quae salus illis obuenire debent.
+			<lb ed="#P"/>quod docet <ref>sanctus Thomas 1 parte, q. 28, a. 
+			<lb ed="#P"/>8</ref>. Primum autem et precipuum medium fuit 
+			<lb ed="#P"/>passio filij dei secundum autem et precipuum post 
+			<lb ed="#P"/>primum supposita diuina gratia: fuit anun<lb ed="#P" break="no"/>tiare
+			euangelium juxta preceptum formam 
+			<pb ed="#P" n="57-r"/>
+			<lb ed="#P"/>et institutionem christi juxta illud <ref><name>aposto<lb ed="#P" break="no"/>li</name>
+			ad Romanos 10</ref> <quote>quomodo inuocabunt inquem 
+			<lb ed="#P"/>non crediderunt? Aut quomodo credent ei 
+			<lb ed="#P"/>quem non audierunt? quomodo audient 
+			<lb ed="#P"/>sine predicante?</quote> Ergo predicatio Euangelij ne<lb ed="#P" break="no"/>cessarium
+			medium fuit ad salutem eorum quos 
+			<lb ed="#P"/>deus predestinauit: et per consequens apostoli 
+			<lb ed="#P"/>omnino necessario debuerunt eo modo legem 
+			<lb ed="#P"/>christi euangelizare.
+		</p>
+		<p>
+			Modus autem euange<lb ed="#P" break="no"/>lizandi
+			juxta institutionem et preceptum 
+			<lb ed="#P"/>christi: est exhortari homines ad penitentiam 
+			<lb ed="#P"/>offerendo illis remissionem peccatorum, juxta 
+			<lb ed="#P"/><ref>verba lucae supra relata</ref>: et vt apparet ex pluri<lb ed="#P" break="no"/>bus
+			locis euangelij et prophetarum. Ad confir<lb ed="#P" break="no"/>mationem
+			cuius christus coelestem doctrinam 
+			<lb ed="#P"/>suam disseminare incipiens: his verbis homi<lb ed="#P" break="no"/>nes
+			alloquebatur: <quote>agite penitentiam appropin<lb ed="#P" break="no"/>quauit
+			regnum coelorum</quote> <ref>Matthei 4o</ref>. Illud ergo 
+			<lb ed="#P"/>verbum <ref>Lucae</ref> <quote>oportet</quote> preceptum importat 
+			<lb ed="#P"/>et necessitatem inducit, quod etiam probatur 
+			<lb ed="#P"/>ex illis verbis <ref>Joannis 3o</ref> <quote>oportet vos nasci de<lb ed="#P" break="no"/>nuo</quote>.
+		</p>
+		<p>
+			Hoc verbum oportet, omnino inducit 
+			<lb ed="#P"/>necessitatem. Necessarium enim est homines 
+			<lb ed="#P"/>regenerari aqua baptismi vt salui fiant: jux<lb ed="#P" break="no"/>ta
+			illud <quote>nisi quis renatus fuerit ex aqua et 
+			<lb ed="#P"/>spiritu sancto non potest intrare in regnum dei</quote> 
+			<lb ed="#P"/><ref>Joanis 3o</ref>. Sic etiam Joanis 10o verbum oportet, 
+			<lb ed="#P"/>inducit necessitatem: <quote>alias oues habeo: quae 
+			<lb ed="#P"/>non sunt ex hoc ouili: et illas oportet me ad<lb ed="#P" break="no"/>ducere</quote>.
+			Hae oues pagani sunt adducendi 
+			<pb ed="#P" n="57-v"/>
+			<lb ed="#P"/>ad ouile christi euangelicae veritatis predicatione. 
+			<lb ed="#P"/>Ergo <ref>illud Lucae</ref> <quote>quoniam sic scriptum est</quote> et caetera. Et 
+			<lb ed="#P"/>verbum oportet quod inducit necessitatem: si<lb ed="#P" break="no"/>gnificat
+			euangelij predicatores necessario de<lb ed="#P" break="no"/>bere
+			exhortari homines ad penitentiam: offeren<lb ed="#P" break="no"/>do
+			illis remissionem peccatorum.
+		</p>
+		<p>
+			Quemadmodum 
+			<lb ed="#P"/>enim ibi verbum, oportet, relatum ad passionem 
+			<lb ed="#P"/>et resurrectionem christi: importat illam fuisse 
+			<lb ed="#P"/>necessariam ad salutem predestinatorum: ita etiam 
+			<lb ed="#P"/>Euangelium predicari debere, exhorta<subst hand="?"><del rend="strikethrough">ndo</del><add place="above-line">tionem</add></subst> ad 
+			<lb ed="#P"/>penitentiam, et <subst hand="?"><del rend="strikethrough">offerendo</del><add place="above-line">oblationem</add></subst> remission<subst hand="?"><del rend="strikethrough">em</del><add place="above-line">is</add></subst> pecca
+			<lb ed="#P"/>torum importat. Nullus ergo Euangelij anun<lb ed="#P" break="no"/>tiator
+			incipere potest a punitione criminum 
+			<lb ed="#P"/>paganorum potissimum eorum quibus nondum 
+			<lb ed="#P"/>fides fuit predicata.
+		</p>
+		<p>
+			Nam apostoli sentien<lb ed="#P" break="no"/>tes
+			se stricto precepto teneri anuntiare euan<lb ed="#P" break="no"/>gelium
+			eo ipso modo quo christus docuit et 
+			<lb ed="#P"/>jussit. Propterea et verbis et operibus quam stri<lb ed="#P" break="no"/>ctissime
+			in mundo conuertendo prefatam 
+			<lb ed="#P"/>formam et modum obseruarunt de quibus 
+			<lb ed="#P"/>loquens <ref>Augustinus in Epistola 3o ad Volu<lb ed="#P" break="no"/>sianum</ref> 
+				inquit: <quote>impleti autem (scilicet) spiritu sancto 
+			<lb ed="#P"/>loquuntur repente linguis omnium gentium: 
+			<lb ed="#P"/>arguunt fideliter errores: predicant saluberri<lb ed="#P" break="no"/>mam
+			veritatem: exhortantur ad penitentiam: 
+			<lb ed="#P"/>preteritae culpabilis vitae indulgentiam de 
+			<lb ed="#P"/>diuina gratia pollicentur: predicationem pi<lb ed="#P" break="no"/>etatis
+			verae religionis signa congruentia et mi<lb ed="#P" break="no"/>racula
+			consequuntur, excitatur aduersus 
+			<lb ed="#P"/>eos saeua infidelitas: tolerant predicta spe<pb ed="#P" n="58-r"/><lb ed="#P" break="no"/>rant
+			promissa: docent precepta: numero exi<lb ed="#P" break="no"/>gui
+			per mundum disseminantur: populos faci<lb ed="#P" break="no"/>litate
+			mirabili conuertunt: inter inimicos ar<lb ed="#P" break="no"/>guentur [augentur]:
+			persecutionibus crescunt: per afflictio<lb ed="#P" break="no"/>num
+			angustias usque in terrarum extrema dila<lb ed="#P" break="no"/>tantur</quote>:
+			et infra. <quote>Templa et simulacra demo<lb ed="#P" break="no"/>num:
+			ritusque sacrilegi paulatim atque alterna<lb ed="#P" break="no"/>tim
+			secundum predicta prophetica subuertuntur</quote>. Haec Augustinus.
+		</p>
+		<p>
+			Ex his verbis Augustini 
+			<lb ed="#P"/>sententia nostra abunde confirmatur (scilicet) 
+			<lb ed="#P"/>euangelium anuncia<subst hand="B"><del rend="strikethrough">ri</del><add place="in-line">ndum</add></subst>ndum <subst hand="B"><del rend="strikethrough">debere</del><add place="above-line">esse</add></subst> paganis exhor<lb ed="#P" break="no"/>ta<subst hand="B"><del rend="strikethrough">ndo illos</del><add place="above-line">[tion]e</add></subst>
+			ad penitentiam et <subst hand="B"><del rend="strikethrough">offerendo</del><add place="above-line">oblatione</add></subst> remis<lb ed="#P" break="no"/>sion<subst hand="B"><del rend="strikethrough">em</del><add place="above-line">is</add></subst>is 
+			peccatorum <add place="above-line" hand="B">suorum</add>. Rursus verbum illud 
+			<lb ed="#P"/>christi oportet: inducit necessitatem: docent 
+			<lb ed="#P"/><ref>jureconsulti in c. Nam concupiscentiam 
+			<lb ed="#P"/>de constitutionibus</ref>, et in <ref>c. 1o de libelli oblatione</ref> et 
+			<lb ed="#P"/>in <ref>c. 1o de rescriptis libro 6o</ref>, in alijsque parti<lb ed="#P" break="no"/>bus
+			et habetur etiam <ref>per legistas in l 1a in 
+			<lb ed="#P"/>verbo oportet ff. de justitia et jure</ref> et caetera.
+		</p>
+		<p>
+			Horum 
+			<lb ed="#P"/>omnium rationem tradit <ref>Augustinus contra 
+			<lb ed="#P"/>Petilianum</ref> et <ref>legitur 23  q. 5. c. ad fidem</ref>
+		<lb ed="#P"/>inquit:<quote>sed tamen ultrix male viuendi dis<lb ed="#P" break="no"/>ciplina
+			prepostera, id est, inordinata est: nisi dura 
+			<lb ed="#P"/>precedens bene viuendi doctrinam pretendat</quote> 
+			<lb ed="#P"/>id est <quote>nisi delinquens primo instruatur ad bo<lb ed="#P" break="no"/>num;
+			vel nisi corripiens prebeat prius exem<lb ed="#P" break="no"/>plum
+				bonae vitae</quote>, ut <ref>glossa exponit</ref>.
+		</p>
+		<p>
+			Vides Au<lb ed="#P" break="no"/>gustinum
+			docere sanctam doctrinam et recte 
+			<lb ed="#P"/>viuendi exemplum: precedere debere punitio<lb ed="#P" break="no"/>nem
+			peccatoris. Quod magis admittendum est 
+			<pb ed="#P" n="58-v"/>
+			<lb ed="#P"/>in peccatoribus qui ignoranter peccant cuiusmodi 
+			<lb ed="#P"/>sunt illi pagani qui christi verba numquam audie<lb ed="#P" break="no"/>runt
+			de quibus nobis institutus est sermo. a<lb ed="#P" break="no"/>lias
+			punitio et disciplina prepostera et inordinata 
+			<lb ed="#P"/>est: et diabolico spiritu adinuenta.
+		</p>
+		<p>
+			¶ Secundo no<lb ed="#P" break="no"/>tandum
+			est ex illis verbis Saluatoris nostri (scili<lb ed="#P" break="no"/>cet)
+			quoniam sic scriptum est et caetera. quod illa forma qua 
+			<lb ed="#P"/>precepit Euangelium suum anuntiari, seruari 
+			<lb ed="#P"/>debet quibuscumque orbis gentibus euangelizetur
+			<lb ed="#P"/>indifferenter siue pagani sint: siue quibus<lb ed="#P" break="no"/>cumque
+			atrocissimis peccatis obruti: verba enim 
+			<lb ed="#P"/>sunt generalia. <ref>Inquit enim christus</ref> <quote>in om<lb ed="#P" break="no"/>nes
+			gentes</quote>: nullam constituens differentiam 
+			<lb ed="#P"/>inter gentem et gentem. Rursus legimus <ref>ac<lb ed="#P" break="no"/>tuum
+			13o</ref> <quote>Ecce conuertimur ad gentes</quote>: sed ma<lb ed="#P" break="no"/>xima
+			est in jure humano quod ubi lex non dis<lb ed="#P" break="no"/>tinxit:
+			nec nos distinguere debemus. Cum 
+			<lb ed="#P"/>ergo verba christi generalia sint: ubicumque pre<lb ed="#P" break="no"/>dicabitur
+			euangelium seruari debent: anunci<lb ed="#P" break="no"/>ando
+			veritatem juxta institutionem exem<lb ed="#P" break="no"/>plum
+			et preceptum christi et apostolorum eius.
+		</p>
+	</div>
+    </body>
+  </text>
+</TEI>

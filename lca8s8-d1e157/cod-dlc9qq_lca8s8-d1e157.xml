@@ -81,7 +81,7 @@
           sacramentorum unitus fide Roboratus ut
           <pb ed="#P" n="50-r"/>
           <lb ed="#P" n="1"/>in <ref xml:id="lca8s8-d1e157-Rd1e172" target="http://scta.info/resource/gd-p3d4-d1e842">c. est unitas ecclesiae de consecratione 
-            <lb ed="#P" n="2"/>distinctione 4</ref> et <ref xml:id="lca8s8-d1e157-Rd1e177">c. loquitur, 24 q. 1</ref> ibi: <quote xml:id="lca8s8-d1e157-Qd1e179" source="http://scta.info/resource/gd-p2c24q1-d1e392@13-22">ec<lb ed="#P" break="no" n="3"/>clesia
+            <lb ed="#P" n="2"/>distinctione 4</ref> et <ref xml:id="lca8s8-d1e157-Rd1e177" corresp="#lca8s8-d1e157-Qd1e179">c. loquitur, 24 q. 1</ref> ibi: <quote xml:id="lca8s8-d1e157-Qd1e179" source="http://scta.info/resource/gd-p2c24q1-d1e392@13-22">ec<lb ed="#P" break="no" n="3"/>clesia
           una est quae in multitudine latius 
           <lb ed="#P" n="4"/>incremento fecunditatis extenditur</quote> et caetera
           <lb ed="#P" n="5"/>et <ref xml:id="lca8s8-d1e157-Rd1e189" target="http://scta.info/resource/gd-p1d93-d1e470">93 distinctione c. legimus</ref>. et <ref xml:id="lca8s8-d1e157-Rd1e192" target="http://scta.info/resource/gd-p2c1q1-d1e680">1 q. 1, c. mul<lb ed="#P" break="no" n="6"/>tae
@@ -282,10 +282,12 @@
           <lb ed="#P" n="15"/>eos euertit neque abolet: quod omnes scholae, 
           <lb ed="#P" n="16"/>omnes Theologi ac sacri doctores docent. 
           <lb ed="#P" n="17"/>
-          <note place="lm" hand="F">Pagani et infideles 
-            suam babent jurisdictionem 
-            et exercere 
-            possunt</note>
+            <note type="marginal-note" place="margin-left" hand="F">
+              Pagani et infideles 
+              suam babent jurisdictionem 
+              et exercere 
+              possunt
+            </note>
           Quare pagani principes legitime possunt 
           <lb ed="#P" n="18"/>fines suos tueri, et legitime jurisdictionem 
           <lb ed="#P" n="19"/>exercent: eorum enim jurisdictio non minus 
@@ -294,7 +296,7 @@
             <lb ed="#P" n="22"/>in politicis</ref>, omnis respublica debet esse per 
           <lb ed="#P" n="23"/>se sufficiens: et est territorium uniuersitas 
           <lb ed="#P" n="24"/>agrorum intra fines cuiuslibet loci existens: 
-          <lb ed="#P" n="25"/>vbi quis obtinet ius imperandi ut in <ref xml:id="lca8s8-d1e157-Rd1e741">c. li<lb ed="#P" break="no" n="26"/>cet
+          <lb ed="#P" n="25"/>vbi quis obtinet ius imperandi ut in <ref xml:id="lca8s8-d1e157-Rd1e741" target="http://scta.info/resource/cice-l2t19-d1e240">c. li<lb ed="#P" break="no" n="26"/>cet
             de probationibus</ref> et ff. <ref xml:id="lca8s8-d1e157-Rd1e746">de verborum significatione l. 
               <lb ed="#P" n="27"/>pupillus § territorium</ref>. Et dicitur <quote xml:id="lca8s8-d1e157-Qd1e751">dis<lb ed="#P" break="no" n="28"/>trictus
                 a distringo: teritorium a terrendo 
@@ -375,13 +377,13 @@
               <lb ed="#P" n="27"/>mihi de his qui foris sunt judicare. Christi<lb ed="#P" break="no" n="28"/>anos
               (inquit) tanquam subiectos suo judicio pu<lb ed="#P" break="no" n="29"/>nit:
               non christianos autem tamquam foris, tamquam 
-              <lb ed="#P" n="30"/>extra jurisdictionem suam existen<subst hand="B"><del rend="strikethrough">s</del><add place="above-line">tes</add></subst> non pu<lb ed="#P" break="no" n="31"/>nit:
+              <lb ed="#P" n="30"/>extra jurisdictionem suam <seg type="correction">existen<subst hand="B"><del rend="strikethrough">s</del><add place="above-line">tes</add></subst></seg> non pu<lb ed="#P" break="no" n="31"/>nit:
               quia non expectat ad illum judicare 
               <pb ed="#P" n="54-r"/>
               <lb ed="#P" n="1"/>illos. Non ne de his qui intus sunt vos ju<lb ed="#P" break="no" n="2"/>dicatis.
               Manifestat discrectionem qua foecit 
               <lb ed="#P" n="3"/>ex communi vsu judicum. Pronomen enim 
-              <lb ed="#P" n="4"/>vos demonstrat bomines cum exercent offici<lb ed="#P" break="no" n="5"/>um
+              <lb ed="#P" n="4"/>vos demonstrat homines cum exercent offici<lb ed="#P" break="no" n="5"/>um
               judicis: commune siquidem est hominibus 
               <lb ed="#P" n="6"/>judicare eos qui comprehenduntur intra ter<lb ed="#P" break="no" n="7"/>minos
               suae jurisdictionis et caetera</quote>. haec Cajetanus.

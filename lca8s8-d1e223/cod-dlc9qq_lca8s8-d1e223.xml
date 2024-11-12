@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 14 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 14 [Bnf 12926 Transcription]</title>
+          <date when="2024-10-23">Oct 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-10-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="72-r"/>
+      </div>
+    </front>
+    <body>
+      <div>
+        <head>Caput 14 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="19"/>Caput 14m.
+        </p>
+        <p>
+          ¶ Preterea <name>Sepulueda</name> in suae sententiae comproba<lb ed="#P" break="no"/>tionem:
+           detorquet verba diui <ref>Cypriani scripta in
+          <lb ed="#P"/>libro ad Fortunatum de exhortatione ad mar<lb ed="#P" break="no"/>tirium</ref>.
+          Vbi <name>Cyprianus</name> citans <ref>Deuteronomij 13</ref>. re<lb ed="#P" break="no"/>fert
+          dominum precepisse ciuitatem generali<lb ed="#P" break="no"/>ter
+          idola colentem extirpari. Argumentatur
+          <lb ed="#P"/>sic Cyprianus:<quote>si tempore legis veteris ante
+          <lb ed="#P"/>aduentum christi ciuitas colens falsa numi<lb ed="#P" break="no"/>na
+          ita puniebatur: quanto magis hodie idem
+          <lb ed="#P"/>fiet, et idem domini preceptum seruabitur?
+          <lb ed="#P"/>Cum ipse dominus factus homo verbo et opere:
+          <lb ed="#P"/>nos veritatem ac veri eei cultum docuerit?</quote>
+        </p>
+        <p>
+          Hac
+          <pb ed="#P" n="72-v"/>
+          <lb ed="#P"/>autoritate <name>Sepulueda</name> apertis (quod aiunt) ti<lb ed="#P" break="no"/>bijs:
+          hyspanicam gentem ad indorum excidium
+          <lb ed="#P"/>concitat: docens illos eius gentis sanguinem
+          <lb ed="#P"/>profundentes man<subst hand="B"><del rend="scratched-out">ibus</del><add place="in-line">us</add></subst> suas consecrare deo:
+          <lb ed="#P"/>exemplo illius temporis: quod ciuitas quae a fide
+          <lb ed="#P"/>quam prius receperat de eeo vero: per idolatriam
+          <lb ed="#P"/>apostatasset diuino precepto erat delenda vt
+          <lb ed="#P"/>habetur <ref>Deut. 13</ref>.
+        </p>
+        <p>
+          Et quidem eterno igne digna
+          <lb ed="#P"/>sententia. Nam si ut tot stragibus et homi<lb ed="#P" break="no"/>num
+          perditionibus: immo tot, tum populorum,
+          <lb ed="#P"/>tum multitudinum dir<subst hand="B"><del rend="strikethrough">ec</del><add place="above-line">u</add></subst>tionibus ac deuas<lb ed="#P" break="no"/>tationibus
+          et malis innumeris numquam posthac
+          <lb ed="#P"/>irreparabilibus a tyranis hactenus in orbe illo pa<lb ed="#P" break="no"/>tratis
+          obuiam iretur: nihil profuerunt quam plu<lb ed="#P" break="no"/>rimae
+          conditae leges, regulae, precepta, prohibit<lb ed="#P" break="no"/>iones,
+          minae, penae ab hyspaniarum regibus edi<lb ed="#P" break="no"/>tae:
+          verbi Dei concionatorum opportune importuneque
+          <lb ed="#P"/>blandae obsecrationes, acerrimae objurgationes
+          <lb ed="#P"/>per terribilem diem finalis judicij et poenarum
+          <lb ed="#P"/>infernalium contestationes: confessorum de sa<lb ed="#P" break="no"/>cramentis
+          denegationes: prelatorum denique cen<lb ed="#P" break="no"/>surae
+          ac excommunicationes: nihil inquam haec omnia
+          <lb ed="#P"/>vt tot mala cessarent profuerunt: sed dete<lb ed="#P" break="no"/>riora
+          et longe magis nociua incrementa in dies
+          <lb ed="#P"/>potius susceperunt: quid miseris, pacificis
+          <lb ed="#P"/>mansuetis <gap reason="blank" extent="6" unit="characters"/> et inermibus ab eiusmodi
+          <lb ed="#P"/>hostius qui eorum sanguinem propter aurum
+          <lb ed="#P"/>sibi augendum sitiunt eueniet: cum predo<lb ed="#P" break="no"/>nes
+          animaduerterent esse qui dicat eos in pa<lb ed="#P" break="no"/>trando
+          ea scelera consecrare manus suas sa<lb ed="#P" break="no"/>crilegas
+          et cruentas vero deo: quemadmodum
+          <lb ed="#P"/>dictum fuit <ref>Exodi. 32</ref>. De his qui jussu
+          <pb ed="#P" n="73-r"/>moysi vindictam in adorantes vitulum aure<lb ed="#P" break="no"/>um
+          exercuerunt?
+        </p>
+        <p>
+          Proh hominis profunda ca<lb ed="#P" break="no"/>ligo:
+          auram popularem captantis vel aures
+          <lb ed="#P"/>regias quam periculosissime demulcere satagentis.
+          <lb ed="#P"/><add place="lm" hand="B">et</add> ¶ Quamquam <del rend="strikethrough" hand="B">vero</del> huic errori per ea quae <ref>in prece<lb ed="#P" break="no"/>denti
+          cap.o</ref> ad dictum <ref>Nicolai de Lira</ref> induxi<lb ed="#P" break="no"/>mus
+          sit satisfactum: nihilominus tamen ple<lb ed="#P" break="no"/>nius
+          per sequentia declarando <ref>sententiam di<lb ed="#P" break="no"/>ui
+          cypriani</ref> placuit satisfacerex Ad cuius de<lb ed="#P" break="no"/>clarationem
+          animaduertendum est quod tota
+          <lb ed="#P"/>intentio <ref><name>diui cypriani</name> versatur in opere illo</ref>
+          <lb ed="#P"/>circa exhortationem catholicorum vt in fide chris<lb ed="#P" break="no"/>ti
+          suscepta perseuerent et mallent potius
+          <lb ed="#P"/>omnem sustinere cruciatum et sic martyrium
+          <lb ed="#P"/>quam a fide recedere.
+        </p>
+        <p>
+          Vnde sic primo <ref>in capite 6</ref>. do<lb ed="#P" break="no"/>cet
+          christianos contempta morte et omni cru<lb ed="#P" break="no"/>ciatu
+          christi verum deum debere profiteri. Ad<lb ed="#P" break="no"/>ducens
+          illud <ref>Matthe. 10</ref>: <quote>qui diligit patrem
+          <lb ed="#P"/>aut matrem plusquam me non est me dignus. Re<lb ed="#P" break="no"/>dempti
+          enim et viuificati christi sanguine: nihil
+          <lb ed="#P"/>Christo preponere debemus. In Euangelio enim
+          <lb ed="#P"/>dominus loquitur: qui diligit patrem aut
+          <lb ed="#P"/>matrem plusquam me non est me dignus</quote> et caetera. Et
+          <lb ed="#P"/>in <ref>capite 7</ref>. <quote>inquit: ereptos de faucibus diaboli
+          <lb ed="#P"/>et de laqueis seculi liberatos: non debere denuo
+          <lb ed="#P"/>ad seculum reuerti</quote>. Et adducit illud <ref>exodi. 14</ref>.
+          <lb ed="#P"/>de filiis esrael cupientibus reuerti in Egyptum.
+          <lb ed="#P"/>Et <ref>8. capite illius sui operis cyprianus</ref> inquit
+          <lb ed="#P"/>insistendum esse et perseuerandum in fide et
+          <lb ed="#P"/>virtute et coelestis et spiritualis gratiae consuma<lb ed="#P" break="no"/>tione.
+        </p>
+        <p>
+          Et quoniam tempore suo plures christiani
+          <lb ed="#P"/>qui christianam veritatem amplexi fuerant:
+          <pb ed="#P" n="73-v"/>
+          <lb ed="#P"/>ad idolorum cultum reuertebantur, incipit do<lb ed="#P" break="no"/>cere
+          <ref>capite 1o</ref>. idolum non esse deum, neque homi<lb ed="#P" break="no"/>nem
+          idolum vel elementum colere debere
+          <lb ed="#P"/>preter deum. <ref>In 2o</ref> autem probat soli deo
+          <lb ed="#P"/>deberi <subst hand="A or B"><del rend="strikethrough">omnes cultus</del><add place="above-line">omnem cultum</add></subst> latriae omnique sacrificio esse
+          <lb ed="#P"/>dignum. In 3o. vero capite docet quas mi<lb ed="#P" break="no"/>nas
+          dominus anuntiauerit his, qui ex
+          <lb ed="#P"/>gente Judaeorum idola colerent,
+          <add place="lm" hand="A or B">pro quo plures autoritates inducit</add>
+          Preterea capite 4o.
+          <lb ed="#P"/>nititur probare dominum difficilime veniam
+          <lb ed="#P"/>dare peccatis commissis per idolatriam: postquam
+          <lb ed="#P"/>homo illum agnoscit per fidem. <quote>Moyses (inquit
+          <lb ed="#P"/>Cyprianus) in exodo pro populo rogat nec im<lb ed="#P" break="no"/>petrat:
+          precor ait domine deliquit hic popu<lb ed="#P" break="no"/>lus
+          delictum grande fecerunt sibi deos aureos</quote>
+          <lb ed="#P"/>et caetera.
+        </p>
+        <p>
+          ¶ Item <ref>in 5o</ref>. refert Dominum adeo con<lb ed="#P" break="no"/>tra
+          eos qui a fide per idolatriam apostata<subst hand="A or B"><del rend="strikethrough">tat</del><add place="above-line">uerant</add></subst>
+          <lb ed="#P"/>indignari: quod iussit prorsus omnes illos inter<lb ed="#P" break="no"/>fici
+          etiam si filius vel frater essent qui sua<lb ed="#P" break="no"/>derent
+          reuerti alios ad idolatriam <ref>Deuteronomij 13</ref>. Sic
+          <lb ed="#P"/>enim ait scriptura quod si rogauerit te frater tuus
+          <lb ed="#P"/>aut filius tuus, aut filia tua, aut vxor tua
+          <lb ed="#P"/>quae est in sinu tuo, aut amicus tuus qui
+          <lb ed="#P"/>aequalis est animae tuae latenter dicens: eamus
+          <lb ed="#P"/>et seruiamus Dijs alienis, Dijs gentium: non
+          <lb ed="#P"/>consentias ei: et non exaudias eum, et non
+          <lb ed="#P"/>parcat oculus et manus tua erit super eum
+          <lb ed="#P"/>et caetera. Deinde (inquit) dominus ibi: quod si omnes
+          <lb ed="#P"/>judaei alicuius ciuitatis Hebraeorum idola
+          <lb ed="#P"/>colerent: funditus subuerterentur.
+        </p>
+        <p>
+          Non enim
+          <lb ed="#P"/>loquitur de ciuitatibus quae extra terram pro<lb ed="#P" break="no"/>missionis
+          <subst hand="B"><del rend="strikethrough">extiterant</del><add place="above-line">erant</add></subst>: sed de <subst hand="B"><del rend="strikethrough">ismaeliticis habitatis</del><add place="above-line">his quas incolebant Judaei</add></subst>:
+          <lb ed="#P"/>vt ibi apparet. Inquit enim dominus:
+          <lb ed="#P"/><quote>si audieris in vna urbium tuarum quas dominus
+          <pb ed="#P" n="74-r"/>
+          <lb ed="#P"/>
+          <lb ed="#P"/>deus dabit tibi ad habitandum: dicentes
+          <lb ed="#P"/>aliquos egressi sunt filij Belial de medio
+          <lb ed="#P"/>tui: et auerterunt habitatores orbis t?? atque
+          <lb ed="#P"/>dixerunt: eamus et seruiamus dijs alienis
+          <lb ed="#P"/>quaere diligenter et rei veritate perspec<lb ed="#P" break="no"/>ta
+          si inueneris certum esse: statim percu<lb ed="#P" break="no"/>ties
+          habitatores urbis illius in ore gladij,
+          <lb ed="#P"/>et delebis eam</quote> et caetera. Deuteronomij 13.
+        </p>
+        <p>
+          Et loquitur
+          <lb ed="#P"/>de ipsis hebraeis habitantibus eandem ur<lb ed="#P" break="no"/>bem.
+          Vt patet ibi in vna Vrbium tuarum
+          <lb ed="#P"/>et ibi et auerterunt scilicet a fide ad ido<lb ed="#P" break="no"/>la
+          colenda habitatores vrbis tuae. Item
+          <lb ed="#P"/>patet de chananacis idolatris non loqui:
+          <lb ed="#P"/>quoniam ad ingressum in terram promis<lb ed="#P" break="no"/>sionis
+          Israelitarum omnes habitatores na<lb ed="#P" break="no"/>turales
+          incolae interficiendi erant: ex di<lb ed="#P" break="no"/>uino
+          precepto.
+        </p>
+        <p>
+          Ergo <ref>Cyprianus citans</ref>
+          <lb ed="#P"/><ref>capitulum 13um Deuteronomij</ref> sentit de his qui cum veri<lb ed="#P" break="no"/>tatem
+          euangelicam audissent et susce<lb ed="#P" break="no"/>pissent:
+          ad idolorum cultum redibant.
+          <lb ed="#P"/>Hos enim docet puniendos et punire
+          <lb ed="#P"/>illos magnopere pium et sanctum est:
+          <lb ed="#P"/>et ita princeps tenetur eos punire: etiam
+          <lb ed="#P"/>si in discrimen imperium suum addu<lb ed="#P" break="no"/>cant.
+          Vnde sancte ac perdocte argumentatur
+          <lb ed="#P"/>cyprianus a minori dicens <quote>si an<lb ed="#P" break="no"/>te
+          aduentum christi circa deum colen<lb ed="#P" break="no"/>dum
+          et idola spernenda haec precepta
+          <lb ed="#P"/>seruata sunt: quanto magis post aduen<lb ed="#P" break="no"/>tum
+          christi seruanda sunt, cum ille
+          <lb ed="#P"/>veniens non verbis tantum nos horta<lb ed="#P" break="no"/>tus
+          sit, sed et factis</quote> et caetera haec Cyprianus
+          <pb ed="#P" n="74-v"/>Hoc est quod Cyprianus docet et nos li<lb ed="#P" break="no"/>benter
+          asseriumus et profitemur. Sed quid
+          <lb ed="#P"/>hoc precor ad indorum gentem qui veritatem
+          <lb ed="#P"/>euangelicam nec per famam quidem au<lb ed="#P" break="no"/>diuit:
+          nedum suscepit: ac preterea in bel<lb ed="#P" break="no"/>lis
+          innoxia, et ad suscipiendum verita<lb ed="#P" break="no"/>tem
+          maxime procliuis: fouenda charita<lb ed="#P" break="no"/>te
+          christiana est potius quam armis exem<lb ed="#P" break="no"/>plo
+          diabolico et plusquam pagano persequen<lb ed="#P" break="no"/>da.
+        </p>
+        <p>
+          ¶ <ref>Gratianus autem ab illo verbo si au<lb ed="#P" break="no"/>dieris
+          incepit illud capitulum: si audie<lb ed="#P" break="no"/>ris
+          23. q. 5.</ref> a quo aduersarii capiunt
+          <lb ed="#P"/>su<subst hand="A or B"><del rend="strikethrough">nt</del><add place="above-line">um</add></subst>
+          <lb ed="#P"/>fragile argumentum contra in<lb ed="#P" break="no"/>dos,
+          quod capitulum cum precedentibus
+          <lb ed="#P"/>Gratianus inducit, vt probet: quod etiam
+          <lb ed="#P"/>post aduentum christi mali sunt morte
+          <lb ed="#P"/>puniendi, per habentes potestatem in re<lb ed="#P" break="no"/>publica
+          legitimam sine violatione <ref>illius
+          <lb ed="#P"/>precepti non occides</ref>. Et haec est <name>Gratiani</name>
+        <lb ed="#P"/>finalis intentio.
+        </p>
+        <p>
+          ¶ Apparet igitur mani<lb ed="#P" break="no"/>feste
+          qualiter <name>Reuerendus doctor Sepul<lb ed="#P" break="no"/>ueda</name>
+          <ref>sententiam diui Cypriani</ref> sicut
+          <lb ed="#P"/>et aliorum sanctorum testimonia depra<lb ed="#P" break="no"/>uauerit
+          ad sensum suum eam trahens
+          <lb ed="#P"/>repugnantem.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

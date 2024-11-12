@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 45 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 45 [Bnf 12926 Transcription]</title>
+          <date when="2024-11-12">November 12, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="195-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e631">
+        <p>
+          <lb ed="#P" n="12"/>CAPut 45m
+        </p>
+        <p>
+          <lb ed="#P"/> <pc type="#pilcro"/>His conuenit quod <ref>Augustinus scribit 
+          <lb ed="#P"/>libro de vita christiana</ref>: sanctum esse po<lb ed="#P"/>pulum
+          suum Deus voluit et ab omni con<lb ed="#P"/>tagione 
+          iniustitiae et iniquitatis alienum 
+          <lb ed="#P"/>talem eum esse voluit / tam iustum / tam 
+          <lb ed="#P"/>purum, tam immaculatum, tam simplicem ut nihil in eum gentes quod redarguerint inuenirent, sed quod admirentur et dicerent: "beata
+gens cuius est dominus Deus eius populus quern elegit in hereditatem sibi': Tales conuenit
+esse Dei cultores et seruos, mansuetos, graues, prudentes, pios, irreprehensibiles, immaculatos,
+ut, quisque viderit eos, stupeat et admiretur et dicat: <quote>Hi homines sunt Dei
+quorum talis est conuersatio</quote>: !ta se homo Dei exhibere debet et agere ut nemo sit qui
+eum audire non desideret et qui eum videre non velit; nemo eum cum viderit non Dei
+esse filium credat [l 98r.] ut vere in eo propheticum illud impleatur: "Fauces eius plenae
+dulcedinis et totus desiderabilis". Nam si se talem exhibeat christianus; si se talem exhibeat
+Dei seruus vel his qui demonijs idolisque deseruiunt conuersando fiat aequalis, incipiet
+Deus per illum blasphemari et dici: "O christianum, 0 Dei seruum, cuius tam nequam
+conuersatio est, cuius tam mali actus, tam turpia opera, cuius vita tam impia, tam
+scelesta, tam luxuriosa, tam sordida". Et erit illius prophetiae reus: "Homen enim Dei per
+vos blasphematur inter gentes. Sed vae illis per quos fuerit blasphematum': Deus etiam a
+nobis nihil magis desiderat et requirit quam ut, per actus nostros, nomen suum magnificetur
+ab omnibus, sicut scriptum est: "Sacrificium laudis honorificabit me': Hoc est
+sacrificium quod Deus super omnes hostias quaerit et diligit, ut, per justititae nostrae
+opera, nomen suum ubique laudetur et Deus verus esse seruorum suorum actu et opere
+comprobetur. Illi vero Deum diligunt qui non aliud quam unde nomen Dei glorificetur
+exercent. Haec omnia Augustinus 1002.
+        
+          
+          
+        </p>
+        
+        <p>
+
+        </p>
+          
+          
+
+        
+      </div>
+    </body>
+  </text>
+</TEI>

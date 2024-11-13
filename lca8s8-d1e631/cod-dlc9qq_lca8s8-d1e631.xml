@@ -46,7 +46,7 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#P" n="195-v"/>
+        <pb ed="#P" n="197-v"/>
       </div>
     </front>
     <body>
@@ -56,38 +56,174 @@
         </p>
         <p>
           <lb ed="#P"/> <pc type="#pilcro"/>His conuenit quod <ref>Augustinus scribit 
-          <lb ed="#P"/>libro de vita christiana</ref>: sanctum esse po<lb ed="#P"/>pulum
+          <lb ed="#P"/>libro de vita christiana</ref>: <quote>sanctum esse po<lb ed="#P"/>pulum
           suum Deus voluit et ab omni con<lb ed="#P"/>tagione 
           iniustitiae et iniquitatis alienum 
           <lb ed="#P"/>talem eum esse voluit / tam iustum / tam 
-          <lb ed="#P"/>purum, tam immaculatum, tam simplicem ut nihil in eum gentes quod redarguerint inuenirent, sed quod admirentur et dicerent: "beata
-gens cuius est dominus Deus eius populus quern elegit in hereditatem sibi': Tales conuenit
-esse Dei cultores et seruos, mansuetos, graues, prudentes, pios, irreprehensibiles, immaculatos,
-ut, quisque viderit eos, stupeat et admiretur et dicat: <quote>Hi homines sunt Dei
-quorum talis est conuersatio</quote>: !ta se homo Dei exhibere debet et agere ut nemo sit qui
-eum audire non desideret et qui eum videre non velit; nemo eum cum viderit non Dei
-esse filium credat [l 98r.] ut vere in eo propheticum illud impleatur: "Fauces eius plenae
-dulcedinis et totus desiderabilis". Nam si se talem exhibeat christianus; si se talem exhibeat
-Dei seruus vel his qui demonijs idolisque deseruiunt conuersando fiat aequalis, incipiet
-Deus per illum blasphemari et dici: "O christianum, 0 Dei seruum, cuius tam nequam
-conuersatio est, cuius tam mali actus, tam turpia opera, cuius vita tam impia, tam
-scelesta, tam luxuriosa, tam sordida". Et erit illius prophetiae reus: "Homen enim Dei per
-vos blasphematur inter gentes. Sed vae illis per quos fuerit blasphematum': Deus etiam a
-nobis nihil magis desiderat et requirit quam ut, per actus nostros, nomen suum magnificetur
-ab omnibus, sicut scriptum est: "Sacrificium laudis honorificabit me': Hoc est
-sacrificium quod Deus super omnes hostias quaerit et diligit, ut, per justititae nostrae
-opera, nomen suum ubique laudetur et Deus verus esse seruorum suorum actu et opere
-comprobetur. Illi vero Deum diligunt qui non aliud quam unde nomen Dei glorificetur
-exercent. Haec omnia Augustinus 1002.
-        
-          
-          
+          <lb ed="#P"/>purum / tam immaculatum / tam simpli<lb ed="#P"/>cem:
+          vt nihil in eum gentes quod redargue<lb ed="#P"/>rint 
+          inuenirent: sed quod admirentur et 
+          <lb ed="#P"/>dicerent: <quote>Beata gens cuius est dominus 
+          <lb ed="#P"/>Deus eius populus quem elegit in heredi<lb ed="#P"/>tatem 
+          sibi</quote>: Tales conuenit esse Dei culto<lb ed="#P"/>res 
+          et seruos mansuetos / graues prudentes 
+          <lb ed="#P"/>pios irreprehensibiles, immaculatos: vt quisque 
+          <lb ed="#P"/>viderit eos stupeat et admiretur et dicat. 
+          <lb ed="#P"/><quote>Hi homines sunt Dei quorum talis est con<lb ed="#P"/>uersatio</quote>. 
+          Ita se homo Dei exhibere debet et 
+          <lb ed="#P"/>agere vt nemo sit qui eum audire non desi<lb ed="#P"/>deret:
+          et qui eum videre non velit: nemo 
+          <lb ed="#P"/>eum cum viderit non dei esse filium credat 
+          <pb ed="#P" n="198-r"/>
+          <lb ed="#P"/>vt vere in eo propheticum illud impleatur 
+          <lb ed="#P"/><quote>Fauces eius plenae dulcedinis et totus desi<lb ed="#P"/>derabilis</quote>. 
+          Nam si se talem exhibeat <del rend="strikethrough">dei<lb ed="#P"/>servus</del> 
+          christianus: si se talem exhibeat 
+          <lb ed="#P"/>Dei seruus, vel his qui demoniis idolisque 
+          <lb ed="#P"/>deseruiunt conuersando fiat aequalis: in<lb ed="#P"/>cipiet
+          Deus per illum blasphemari et dici: 
+          <lb ed="#P"/><quote>O christianum, O dei seruum cuius tam 
+          <lb ed="#P"/>nequam conuersatio est, cuius tam mali 
+          <lb ed="#P"/>actus, tam turpia opera cuius vita tam 
+          <lb ed="#P"/>impia / tam scelesta / tam luxuriosa / tam 
+          <lb ed="#P"/>sordida</quote> et erit illius prophetiae reus: <quote>nomen 
+          <lb ed="#P"/>enim Dei per vos blasphematur inter gentes: 
+          <lb ed="#P"/>sed vae illis per quos fuerit blasphematum</quote>. Deus 
+          <lb ed="#P"/>etiam a nobis nihil magis desiderat et re<lb ed="#P"/>quirit 
+          quam ut per actus nostros <choice><sic>nomem</sic><corr>nomen</corr></choice> suum 
+          <lb ed="#P"/>magnificetur ab omnibus sicut scriptum 
+          <lb ed="#P"/>est: <quote>Sacrificium laudis honorificabit me</quote>: 
+          <lb ed="#P"/>Hoc est sacrificium quod Deus super omnes 
+          <lb ed="#P"/>hostias quaerit et diligit: ut per iustititae nostrae 
+          <lb ed="#P"/>opera nomen suum vbique laudetur, et Deus 
+          <lb ed="#P"/>verus esse seruorum suorum actu, et opere com<lb ed="#P"/>probetur.
+          Illi vero Deum diligunt qui non 
+          <lb ed="#P"/>aliud quam unde nomen Dei glorificetur exercent</quote>. 
+          <lb ed="#P"/>Haec omnia Augustinus.
         </p>
-        
         <p>
-
+        Ex his Chrysostomi 
+        <lb ed="#P"/>et Augustini verbis satis liquet quanta an<lb ed="#P"/>sa 
+        prestetur paganis blasphemandi Christum 
+        <lb ed="#P"/>si ipsis inferatur bellum: et quantum odi<lb ed="#P"/>um 
+        christianae religionis inserat paganorum 
+        <lb ed="#P"/>cordibus bellum: qui credentes seueram 
+        <lb ed="#P"/>habere de Diis opinionem existimabunt 
+        <lb ed="#P"/>impie sibi a christianae veritatis proffesso<pb ed="#P" n="198-v"/><lb ed="#P" break="no"/>ribus 
+        bellum inferri. Et longe rationabi<lb ed="#P"/>lius 
+        contra christianam religionem et eius 
+        <lb ed="#P"/>professores indignabuntur: vbi cognoue<lb ed="#P"/>rint 
+        quod ratione culturae Deorum suorum illa <!-- possible correction here -->
+        <lb ed="#P"/>patiuntur. Cum enim tali bello quod inno<lb ed="#P"/>center 
+        se pati existimant videant: se pa<lb ed="#P"/>tres 
+        filiis et viri uxoribus domini seruis 
+        <lb ed="#P"/>siue subditis et e contra orbari, duci in ser<lb ed="#P"/>uitutem: 
+        crudelissimeque trucidari a chris<lb ed="#P"/>tiana 
+        gente de se non male merita: ex huiusmodi 
+        <lb ed="#P"/>christianorum operibus: quid precor de his 
+        <lb ed="#P"/>hominibus et eorum dogmate judicabunt?
+Nam secundum Chrysostomum50G (Homilia 4a, Super Epistola ad Titum,
+c. 2°): Neque enim ex verbis, dogmata, verum ex ipsis rebus atque vita, gentiles judicare
+consueuerunt. Et paulo superius: Non est eius sermo atque doctrina irreprehensibilis qui
+plurima, etiam infidelibus detrimenta molitur 1003. Haec ille. Quod si ex operibus et
+vita religio cuiusque aestimatur, qualem cogitabunt pagani esse christianorum religionem?
+Quam concipient opinionem de Christo Dei filio, christianorum vero Deo?
+Nimirum quam hactenus conceperunt indi, presertim in prouincijs ubi non habitant
+religiosi, Christum, scilicet, Deorum omnium impijssimum esse.
         </p>
-          
+        <p>
+        Quid in causa quod adorandum Christi nomen his blasphemijs prescinditur?
+christianorum vita et atrocia bella omnem barbaricam feritatem superantia in causa
+sunt. Huiusmodi ergo bella et tartareas expeditiones, ex quo adorandum [199r.]
+Christi nomen blasphematur, christiani omnes fugere tenentur, cum juxta Paulum1004
+( I ae Ad Corinthios 10°): Siue manducatis, vel bibitis vel aliud quid facitis, omnia in gloriam
+Dei facite. Sine ojfensione estate judaeis, et gentibus, et Ecclesiae Dei, sicut et ego per
+omnia omnibus placeo, non quaerens quod mihi utile est, sed tu [quod} muftis, ut salui
+fiant. lmitatores mei estate, sicut et ego Christi. Et inc. 11 °, in principio 1005.</p>
+          <p>
+          Haec sanctissima Diui PauJi507 doctrina omni tempore et omni seculo obseruanda
+est ut apparet ex illis verbis: lmitatores mei estate sicut et ego Christi. Et ex 2ae
+ad Thessalonicenses (3°): !psi enim scitis quemadmodum oporteat imitari nos, quoniam
+non inquieti fuimus inter vos; neque panem gratis manducauimus ab aliquo, sed in labore,
+et in fatigatione, nocte ac die operantes, ne quem vestrum grauaremus. Non quasi
+non habuerimus potestatem, sed ut nos inter nosmetipsosSOfBo rmam daremus [vobis} ad
+imitandum nos, et caeteraI006
+</p>
+<p>
+Hie Paulus de predicatione Euangelij loquitur eiusque verba, non solum ad apostolos
+illo tempore, sed ad omnes predicatores et ad omnia tempora referuntur et omni
+tempore seruari debent. Apostolus autem, ut ex eius verbis pater, nequaquam hanc
+formam dixit non seruandam cum idolatris vel alijs paganis horrendis peccatis obnoxijs.
+Nullam enim exceptionem fecit apostolus. Namque si, in predicanda fide, non
+</p>
+<p>
+debemus eum imitari, [I 99v.] aucta jam Ecclesia, quam assignabunt rationem aduersarij
+quare potius in humilitate caeterisque virtutibus illum imitari teneamur? Siquidem
+Ecclesia licet amplissimis viribus nunc valeat, nihilominus tamen modestiam et
+mansuetudinem erga omnes prestare tenetur, juxta illudjoanis (13°): Exemplum enim
+dedi vobis, ut quemadmodum ego foci, ita et vos faciatis? ioo7 Et illud lvfatthei (I I 0): Discite
+a me, quia mitis sum, et humilis corde 1008. Et Joanis (I 5°): Hoc est preceptum meum,
+ut diligatis inuicem, sicut et ego dilexi vos et caetera1009. Deinde Paulus Ad Romanos
+(13°): Dilectio ... malum non operatur IOIO_ Et Ad Galatas (6°): Dum tempus habemus,
+operemur bonum ad omnes, maxime ad domesticos fidei 1011, id est, fideles.
+</p>
+<p>
+Pagani ergo mitissime et omni charitate tractandi sunt neque in actionibus nostris
+mali quidquam videri debet, juxta illud Ad Philipenses (2°): Sitis ... sine reprehensione
+in medio nationis prauae atque et caetera1012. Et 4° eiusdem Epistolae: Modestia
+vestra nota sit omnibus hominibus 1013. Et Ad Titum (2°): In omnibus prebe teipsum
+exemplum bonorum operum, in doctrina et integritate 1014. Et Petrus pontifex omnium,
+lae Petri (2°): Conuersationem vestram inter gentes habentes bonam, ut in eo, quod detractant
+de vobis tamquam de malefactoribus, ex bonis operibus vos considerantes, glorificent
+Deum in die visitationisl015.
+</p>
+<p>
+Quod si bellis, incendijs, furore, temeritate, [2OOr.] immanitate, seditione, rapinis,
+tumultibus, christiani misceant omnia, ubi est mansuetudo? Vbi modestia? Vbi
+opera sancta, quae ad glorificandum Deum excitent paganorum corda? Vbi irreprehensibilis
+vita et sine offensione? Vbi humanitas? Denique, ubi spiritus Christi mitis
+et mansuetus? Vbi imitatio Christi et Pauli? Equidem cogitatio huius miserandae
+fratrum nostrorum calamitatis ita me discruciat ut mirari satis non queam hominem
+doctum, sacerdotem, senem et theologum huiusmodi mortifera venena perfricta
+fronte orbi propinare. Arbitrorque neminem vere christianum et auaritiae crimine liberum
+esse qui haec non agnoscat meridiana luce esse clariora.
+</p>
+<p>
+Deinde Christus cum misit suos ad predicandum Euangelium, quibus telis, quibus
+bombardis illos instruxit? Audiamus Christum (Lucae509 9° et 10°1016 atque item
+Matthei c. 1 O) precipientem5 1 O eis et dicentem5 11: Euntes predicate dicentes: Appropinquauit
+regnum coelorum. Infirmos curate; mortuos suscitate; leprosos mundate; demones
+
+eyczte. Gratis accepistis, gratis date 1017. Predicatores autem nostri, militum seu potius
+latronum caterua stipati, quo ore dicent indis: Appropinquauit regnum coelorum? Dicant
+potius: Appropinquauit regnum inftrnorum tam nobis, qui vos occidemus et domos
+vestras diripiemus, quam [200v.] etiam vobis qui, absque fide et gratia sacramentorum,
+animam exhalabitis. An curabunt infirmos qui cruentissimis proelijs inermem gentis
+multitudinem contrucidant et immaniter delent? Suscitant mortuos qui, terribilibus
+editis stragibus, aerem purum cadaueribus corrumpentes inficiunt? Eijciunt demonia
+an potius animas ipsi dedunt? An hac via implemus preceptum Christi: Gratis accepisti"~
+gratis date? Euastare prouincias et ad internecionem deletis vel fugatis incolis est
+gratis fidem communicare? 0 caecas hominum mentes! 0 calamitatem vere deplorandam!
+Christus cum suos misit ad predicandum Euangelium, mansuetudinem illis
+commendauit. Ecce inquit ego mitto vos sicut oues inter lupos vel in medio luporum;
+quae verba explicans Chrysostomus 1018 (Homilia 34a, in opere perfecto, super caput
+1 oum l'vfatthei, inquit: Omnem mansuetudinem eos habere iubet; nee id solum, sed columbae
+quoque simplicitatem et caetera. Et infra: Magis certe atque mirabilius est mentem
+atque animum aduersariorum commutare quam gladio ipsos superare, presertim cum
+duodecim numero ibi essent {qui} aduersus caeteros omnes homines qui lupos atrocitate
+vincebant mitterentur. Erubescant igitur qui, contra focientes, quasi lupi, aduersarios suos
+persequuntur, [20lr.] cum videant innumeros lupos ab ouibus vinci paucissimis. Et certe
+quousque sumus oues, facile hostes vincimus; cum vero in naturam luporum transimus,
+tum superamur. Alias SI 2 enim nullum nobis a pastore patrocinium adest qui non lupos
+sed oues pascit. Haec Chrysostomus.
+Pudeat, pudeat eos qui aduersus legem Christi, quasi lupi rapacissimi et saeuissimi
+latrones, sub pretextu predicandi Euangelium, indiana regna innocentissimis hominibus
+referta, auarissime diripiunt. Sedviuit dominus cuius manum non effugient.
+Non ergo est verissimile nee probabile beatissimum Presulem Syluestrum suggessisse
+Constantino inferre helium nee ipsum Caesarem intulisse infidelibus, qui fidem non
+receperunt aut ipsum non impugnarunt, ea dumtaxat ratione quia idola colebant vel
+ob religionem Christi dilatandam et tollendum eiusdem dilatationis impedimenta.
+</p>
           
 
         

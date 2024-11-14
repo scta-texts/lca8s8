@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 15 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 15 [Bnf 12926 Transcription]</title>
+          <date when="2024-11-14">Nov 14, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="74-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e236">
+        <head>Caput 15 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="26"/>Caput 15m.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Hactenus docuimus <add place="above-line" hand="B">nec</add> ecclesiam nec chris<lb ed="#P" break="no"/>tianos
+          principes <del rend="strikethrough" hand="B">non</del> posse punire paga<lb ed="#P" break="no"/>nos
+          etiam si grauissimis criminibus sint
+          <lb ed="#P"/>obnoxii. Nunc ad perfectam huius trac<lb ed="#P" break="no"/>tatus
+          cognitionem sex casus subijciam
+          <pb ed="#P" n="75-r"/>
+          <lb ed="#P"/>in quibus ecclesia potest paganos punire,
+          <lb ed="#P"/>obiterque respondebo his quae Sepulueda
+          <lb ed="#P"/>docet prope finem secundi argumenti
+        </p>
+        <p>
+          <lb ed="#P"/>Ante omnia supponendum est ecclesiam
+          <lb ed="#P"/>tripliciter posse exercere jurisdictionem
+          <lb ed="#P"/>temporalem in infideles. membrum tertium
+          <lb ed="#P"/>videatur <ref>infra capite 37</ref><!-- actually 40 -->
+        </p>
+        <p>
+          Primo quando
+          <lb ed="#P"/>infideles habitu et actu sunt subditi ec<lb ed="#P" break="no"/>clesiae
+          vel alicui membro ecclesiae puta prin<lb ed="#P" break="no"/>cipi
+          christiano. Huiusmodi infideles
+          <lb ed="#P"/>sunt heretici de quibus <ref>supra capite 7</ref>
+          <lb ed="#P"/>disseruimus, et <ref>infra disseremus</ref>. Hi enim
+          <lb ed="#P"/>cum catholicam veritatem semel suscepe<lb ed="#P" break="no"/>rint:
+          cogendi sunt redire ad ouile christi
+          <lb ed="#P"/>Huiusmodi etiam infideles sunt judaei
+          <lb ed="#P"/>et mauri christianis regibus subditi.
+        </p>
+        <p>
+          In hos enim cum de jure et facto sub<lb ed="#P" break="no"/>diti
+          sint potest ecclesia leges condere quod
+          <lb ed="#P"/>satis probatur ex <ref>titulo de judaeis et
+          <lb ed="#P"/>sarracenis</ref>, et ex <ref>titulo de hereticis</ref> in
+          <lb ed="#P"/>libro <ref>decretalium</ref>, <ref>sexti</ref>, et <ref>clementinarum</ref>;
+          <lb ed="#P"/>Et c. <ref>de judaeis, paganis et templis eorum</ref>;
+          <lb ed="#P"/>Et c. <ref>de hereticis et apostatis</ref>. Et his<lb ed="#P" break="no"/>panica
+          lingua plurimas habemus le<lb ed="#P" break="no"/>ges
+          a castellanis regibus de judaeis et
+          <lb ed="#P"/>mauris proditas.
+        </p>
+        <p>
+          Et sic in hos juris<lb ed="#P" break="no"/>dictio
+          contentiosa exerceri potest haec
+          <lb ed="#P"/>est etiam in inuitum, vt per doctores in
+          <lb ed="#P"/><ref>l. inter stipulantem. §. 1. ff. de verborum
+          <lb ed="#P"/>obligatione</ref>. Hoc enim legitime facit ecclesia
+          <lb ed="#P"/>cum actu et habitu principibus chris<lb ed="#P" break="no"/>tianis
+          hoc est ecclesiae membris subditi
+          <pb ed="#P" n="75-v"/>sunt.
+        </p>
+        <p>
+          ¶ Secundo, Ecclesia habet in habitu contentiosam jurisdictionem dumtaxat in alios  infideles, ut possit eam reducere ad actum, cum casus occurrerit vel subsistente causa,  non aliter, propter supra inductas decem rationes, presertim per illud Pauli3?: QuiZ mihi de his qui foris sunt judicare?
+        </p>
+        <p>
+          Hi autem infideles sunt qui fidem Christi per bap ismum numquam fuerunt proffessi, cuiuscumque religionis, cultus, ritus vel sectae sint, modo non sint Judaei et regna sua habeant a regnis christianorum separata ita quod subditi non existant Ecclesiae vel alicui membri eius.
+        </p>
+        <p>
+          Diximus modo non sint Judaei quoniam Judaei ex crimine commisso ab eis —occidendo Jesum Christum Dominum Nostrumsunt serui Ecclesiae de jure, ut in c. Etsi Judaeos: De Judaeis, 161: Quos propria culpa submisit perpetuae seruituti, pietas christiana receptet et sustineat et cactera. De facto autem illos seruituti subiecit Constantinus?! (juxta glossam in c. Consuluit: De Iudeis).
+        </p>
+        <p>
+          Non tamen proprie serui sunt nec eis inuitis opera imponi possunt neque contra Ius fasque opprimendi sunt (ut in c. Qui Sincera, 452 distinc11032, et in c. Sicut Judaei: De Judicij?3. Diximus quoque quod non sint Ecclesiae subditi sed habeant regna separata [76r.] infideles, quia quantum ad hoc una eademque militat ratio in uniuersis infidelibus, cuiuscumque regionis aut ritus extiterint ex rationibus superius productis. Nemo enim poterit rationem contentiosam jurisdictionem quam assignare differentiae
+        </p>
+        <p>
+          In quoscumque ergo infideles Ecclesia contentiosam jurisdictionem exercere potest in sex casibus?01,
+        </p>
+        <p>
+          Primo, si possident injuste regna quibus christianam gentem injuste spoliarunt, precipue si in eisviuant christiani. Huiusmodi sunt Constantinopolitanum imperium, Rhodus, Hungaria, Belgradum, Africà, quae tota Christum quondam coluit. Cum enim possidendo ea regna nobis inferant continuam injuriam, Ecclesia jurisdictionem quam super cos habet habitu potest in actum deducere, ad recuperandum per belli compulsionem quae sunt sua. Nullum enim aliud remedium superest.
+        </p>
+        <p>
+          Et de huius modi infidelibus loquitur Hostiensis? (in c. Quod Super His: De voto). Ex ibi alij doctores. Et Oldraldus325 (in Consilio 72). Et Albericus326 (in Rubricam c. De Paganis Et Eorum Templis).
+        </p>
+        <p>
+          bi Hostiensis??? et eius sequaces dicunt quod infideles, si non recognoscunt dominium Ecclesiae, sunt indigni omni dominio et jurisdictione. Et intelligit Hostiensis (De Jurisdictione Et Imperio) quod principes infideles [76v.] habent in terris quae quondam erant christianorum et super christianos in illis degentes, vel si totus populus aut aliqua pars populi conuerteretur ad Christum, princeps autem perserueraret adhuc in sua caecitate et infidelitate.
+        </p>
+        <p>
+          Ita interpretatur Antonius Butrius9$ (in Decretalium, c. Quod Super) concordans opinionem Hostiensis et Innocentij?? (4? columine) his verbis: [stam conclusionem Innocenti confirmat Hostiensis et  temperat eam ut infideles possent babere jurisdictionem in christianos, quando infideles  recognoscunt jurisdictionem Ecclesiae. Nam tales possunt babere et possunt ex tolerantia Ecclesiae dominia et jura babere et caetera.
+        </p>
+        <p>
+          Ubi claret manifeste Hostiensem intellexisse de dominis infidelibus qui sub imperio suo habent christianos aliquos debere  dominium et jurisdictionem Ecclesiae recognoscere, ut digni sint tali principatu vel dominio, scilicet, super fideles.
+        </p>
+        <p>
+          Et haec consonant doctrinae sancti doctoris Diui  Thomae? (22 235, q. 10. a. 10) quod Ecclesia, licet posset jure suo tollere, per sententiam vel ordinationem, ius dominij vel prelationis, quod principes infideles babent super christianos, quia merito suae infidelitatis merentur amittere potestatem super fideles qui  transferuntur in filios Dei, tolerat tamen illos ad vitandum scandalum. Haec sanctus  Thomas.
+        </p>
+        <p>
+          Itaque opinio Hostiensis intelligenda est [77r.] non indifferenter de omnibus infidelibus sed de illis qui suo tempore erant, scilicet, quando princeps infidelis habet sub sua ditione christianos vel christiana regna usurpauerat. Hi namque videntur teneri ad dominium Ecclesiae recognoscendum.
+        </p>
+        <p>
+          De alijs autem, ut nostri indi, qui neque christiana regna usurpauerunt neque christianis imperant neque usquam ante nostram etatem huius nostri orbis nomen audierunt, absurdum est quod teneantur recognoscere dominium Ecclesiae; alias, sint suo principatu priuati, cum non habeant  diuinare absque doctrina fidei. Quod si aliter opinio Hostiensis intelligeretur, et ipsa  heretica esset, ut alibi late probabimus, et magna pericula in mundo et intolerabiles absurditates sequerentur.
+        </p>
+        <p>
+          Secundo, Ecclesia actu exercet jurisdictionem in paganos, quando in prouincijs, quae quondam christianae ditionis fuerunt, idolatriam exercent vel nefandis et abominandis contra naturam vitijs regionem inficiunt, cum enim in eis verum sacrificium corporis et sanguinis Christi fuerit consecratum veroque Deo purus cultus sit  exhibitus et sacra sacramenta sint administrata. De quo sanctus Thomas?! (32 parte,  q. 63, a. 2, 3, 4, 6, in c.).
+        </p>
+        <p>
+          Quorum finis est ut homines exhibentes gloriam et honorem vero Deo sese illi corpore et anima prorsus subijciant, autore Thoma332 (2a 22€,  q. 93, a. 27, c., et Libro [77v.] 3%, c. 119 Contra Gentiles)333, Nequaquam rationi conuenit Ecclesiam si illi facultas suppetit, talia tolerare?0?, cum redundet in opprobrium et contumeliam christiani nominis.
+        </p>
+        <p>
+          Hanc autem nullus christianus dissimulare debet  (ut in c. /n nonnullis: De Judacis)334 ibi: Quoniam ¿llius dissimulare non debemus opprobrium qui pro nobis probra nostra deleuit. Et in L. Manichaeos?5: c. De Hereticis, dicitur: Publicum crimen volumus esse quod in religionem diuinam committitur, in omnium fertur injuriam, et caetera. Et ius publicum in sacris et sacerdotibus consistit (ut  in L. 1. $ lus Publicum, f£ De Justitia Et Jure).
+        </p>
+        <p>
+          Hunc casum cum precedenti nominatim ponit Innocentius?? (in c. Maiores: De Baptismo, in fine, ubi loquens de Sarracenis) inquit quod non sunt ab Ecclesia bello impetendi, si nec terram christianorum suis sordibus fedant nec ipsorum personas impugnant, et caetera.
+        </p>
+        <p>
+          Illud verbum  sordes sumpsit Innocentius ex Sacris Litteris ubi precipue significat idolatriam vel  aliam abominationem immundam, precipue contra naturam. Ita enim legimus 3 Regum 15”, regis Asa, quod abstulit effoeminatos de terra purgauitque uniuersas sordes idolorum quae fecerunt patres eius8. Ex in Apocalypsis (C. 22?)339: Qui nocet noceat adhuc  et qui in sordibus est sordescat adhuc.
+        </p>
+        <p>
+          Et ita intelligendum?09 quod idem [78r.] Innocentius*^ habet (in c. Quod Super His: De voto, 1? columine) ubi credit quod sí gentilis, qui non babet legem nisi naturae, contra legem naturae facit, potest licite puniri per  papam. Et paulo inferius: [dem dico ait si idola colant. Naturale enim est unum et solum Deum creatorem colere non creaturas. Haec ille.
+        </p>
+        <p>
+          Hoc supplendum et intelligendum  est: si prouinciae ubi illa peccata committuntur fuerunt quondam populi christiani.  Alias sequerentur absurda plura quam de doctrina Hostiensis, si absolute de uniuersis mundi partibus, quarum incolae nondum fidem suscepissent nec in ibidem fundata fuisset Ecclesia, intelligeret Innocentius; tum primo, quia esset contra ea quae supra decem efficacibus argumentis probauimus; tum secundo, quoniam Innocentius  non probat dictum suum sed tantum affert quod sodomitae, qui contra legem naturae peccabant, puniti sunt a Deo, (Genesis 14*)941.
+        </p>
+        <p>
+          Cum autem Dei judicia, inquit Innocentius%, sint nobis exemplaria, non video quare papa qui est vicarius Christi boc non  possit, et etiam dummodo facultas adsit. Haec Innocentius. Certe si omnia judicia Dei essent nobis imitanda, sequeretur quod ex peccato idolatriae et ex peccato contra naturam essent occidendi pueri innocentes filij eorum qui talia peccata commiserunt, ex eo quod Deus [78v.] ita fecerat.
+        </p>
+        <p>
+          Item propter?*4 rebellionem vel schisma in Ecclesiam essent occidendi non tantum rebelles et schismatici, verum etiam eorum filij et uxores, et omnia quaecumque  possident essent diruenda ex eo quod, (Numerorum c. 16?)343, legimus Chore, Dathan  et Abiron cum tabernaculis suis simul et uniuersa substantia ob inobedientiam in Moysem et Aaron fuisse a terra absortos.
+        </p>
+        <p>
+          Item quod ex furto graui non solum fur esset lapidandus, verum etiam eius filij,  uxor, boues, oues, jumenta et omnes facultates cius igni essent absumenda, ex eo  quod dominus jusserit haec fieri super Acham (Josue c. 7?)944, quoniam pallium coccineum et ducentos siclos partos ex preda hostium, quam Deus comburi jusserat, subtraxisset.
+        </p>
+        <p>
+            Similiter sequeretur quod si pueri contumelijs incesserint prelatum, etiam summum, essent leonibus obijciendi, quod, Regum Libro 4^, c. 22445, legimus quadraginta  duos pueros fuisse ab ursis discerptos quoniam Eliseum prophetam venientem in ciuitatem Bethel illudentes, ei his verbis interpellabant: Ascende calue, ascende calue. Qua  de causa ab Eliseo maledicti sunt et ab ursibus, qui e nemore exierunt, discerpti.
+        </p>
+        <p>
+          Ad quae tamen respondemus tum, primo, quia exempla seu gesta huiusmodi Veteris Testamenti sunt admiranda potius quam imitanda, ut supra dictum est et dicetur; tum, secundo, quia Deus cum aliqua peccata perpetrari coeperunt, illa acerrime  in principio consueuit punire, quo homincs e dicto seuerissimo exemplo a similibus  peccatis exterreret206,
+        </p>
+        <p>
+          Ad quae tamen respondemus tum, primo, quia exempla seu gesta huiusmodi Veteris Testamenti sunt admiranda potius quam imitanda, ut supra dictum est et dicetur; tum, secundo, quia Deus cum aliqua peccata perpetrari coeperunt, illa acerrime  in principio consueuit punire, quo homincs e dicto seuerissimo exemplo a similibus  peccatis exterreret206,
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

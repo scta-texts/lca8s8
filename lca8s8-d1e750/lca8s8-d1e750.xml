@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Caput 54 [Bnf 12926 Transcription]</title>
+        <title>Caput 54</title>
         <author ref="#per-bdlcbd">Bartolome de las Casas</author>
         <respStmt>
           <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
@@ -29,7 +29,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition. </p>
@@ -67,8 +67,9 @@
           vel prius si recte instituantur suscipiunt
           fidem quam reges et principes illarum 
           nationum (quos vulgo caciques appellamus
-           Iterum errat injure. Neque enim 
-          Rex cogendus est ad fidem. Deinde non 
+           Iterum errat injure. 
+           Neque enim 
+          rex cogendus est ad fidem. Deinde non 
           ex eo quod quis possit nocere puniendus est 
           si nondum peccauit vel aliquid in populum 
           suum commisit, ex eo quod religionem 
@@ -76,9 +77,16 @@
           Innumera enim 
           non succedunt: quae secundum potentiam actiuam 
           et passiuam fieri possunt vt per 
-          <ref>
-            Philosophum, 
-            5 et 9 Metaphysicae</ref>: 
+          <cit>
+            <ref>
+              <name>Philosophum</name>, 
+              5 et 9 <title>Metaphysicae</title>
+            </ref>
+            <bibl>
+              <name>Aristoteles</name>, 
+              <title>Metaphysicae</title>, V, 12; IX, 9
+            </bibl>
+          </cit>: 
           Deus numquam vult Innocentem 
           puniri et opus recte ceptum forsan 
           euerteretur si regem tyranice regno spoliemus 
@@ -86,7 +94,7 @@
           illud possit committere: Prudentius faceret 
           <name xml:id="lca8s8-d1e750-Nd1e156">Ioannis Maioris</name> 
           si adderet hoc intelligendum 
-          quando probabiliter et vehemen<pb ed="#P" n="230-r"/>ter 
+          quando probabiliter et vehemen<!--<pb ed="#P" n="230-r"/>-->ter <pb ed="#P" n="230-r"/>
           non vanis coniecturis praesumeretur regem 
           illum Iacturam allaturum fidei vel castigaturum 
           populum: quod vix credendum 
@@ -117,7 +125,14 @@
           indis quos nunquam viderat: qui Christianas 
           prouincias non occuparunt: neque 
           unquam Christianum nomen audierunt 
-          remotissima regna a nostro orbe incolentes
+          remotissima 
+          <app>
+            <lem n="remotissima"/>
+            <rdg wit="#P" type="correction-deletion">
+              <del rend="strikethrough">quia</del>
+            </rdg>
+          </app>
+          regna a nostro orbe incolentes
         </p>
         <p xml:id="lca8s8-d1e750-d1e212">
            Secundo 
@@ -140,9 +155,7 @@
           ad fidem debent illi reuerentiam 
           et obedientiam in his quae contra Deum 
           non sunt tamquam domino et eius 
-          
-          Iuris<pb ed="#P" n="230-v"/>jurisdictio <!-- possible variant or correction -->
-          
+          iuris<!--<pb ed="#P" n="230-v"/>-->dictio <pb ed="#P" n="230-v"/>
           durat et illi tributa soluenda sunt 
           si modo jurisdictionem exerceant ab
           damno fidelium. Etiam si ipse princeps 

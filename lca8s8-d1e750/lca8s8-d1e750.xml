@@ -57,52 +57,61 @@
         </p>
         <p xml:id="lca8s8-d1e750-d1e99">
           Docet ergo 
-          <name xml:id="lca8s8-d1e750-Nd1e104">Ioannes Maioris</name> primo, 
-          regem imperio exuendum, si populus conuertatur
+          <cit>
+            <ref xml:id="lca8s8-d1e750-Rd1e107" target="http://scta.info/resource/jb2v19-d111866-d1e326">
+              <name xml:id="lca8s8-d1e750-Nd1e104">Ioannes Maioris</name> primo
+            </ref>
+            <bibl>
+              <name>Iohannes Maior</name>, <title>In Sent</title> (Redactio B), 
+              II, c. 44, q. 3 
+              (Paris, 1519).
+            </bibl>
+          </cit>, 
+          regem imperio exuendum, si populus convertatur
           ad fidem et ipse eam nolit suscipere. 
-          Sed errat 
-          <name xml:id="lca8s8-d1e750-Nd1e113">Maioris</name> in facto, 
+          Sed errat <name xml:id="lca8s8-d1e750-Nd1e113">Maioris</name> in facto, 
           nesciens dispositionem indorum, 
           nulli enim vel libentius 
           vel prius si recte instituantur suscipiunt
           fidem quam reges et principes illarum 
-          nationum (quos vulgo caciques appellamus
-           Iterum errat injure. 
-           Neque enim 
-          rex cogendus est ad fidem. Deinde non 
-          ex eo quod quis possit nocere puniendus est 
+          nationum, quos vulgo caciques appellamus.
+          Iterum errat injure, 
+          neque enim rex cogendus est ad fidem. 
+          Deinde non ex eo quod quis possit nocere puniendus est 
           si nondum peccauit vel aliquid in populum 
           suum commisit, ex eo quod religionem 
           Christianam suscepit. 
-          Innumera enim 
-          non succedunt: quae secundum potentiam actiuam 
-          et passiuam fieri possunt vt per 
+          Innumera enim non succedunt 
+          quae secundum potentiam actiuam 
+          et passiuam fieri possunt, 
+          ut per 
           <cit>
-            <ref>
-              <name>Philosophum</name>, 
+            <ref xml:id="lca8s8-d1e750-Rd1e113">
+              <name xml:id="lca8s8-d1e750-Nd1e115">Philosophum</name>, 
               5 et 9 <title>Metaphysicae</title>
             </ref>
             <bibl>
               <name>Aristoteles</name>, 
               <title>Metaphysicae</title>, V, 12; IX, 9
             </bibl>
-          </cit>: 
-          Deus numquam vult Innocentem 
-          puniri et opus recte ceptum forsan 
-          euerteretur si regem tyranice regno spoliemus 
-          ob peccatum non commissum, etiam si 
-          illud possit committere: Prudentius faceret 
-          <name xml:id="lca8s8-d1e750-Nd1e156">Ioannis Maioris</name> 
+          </cit>.
+          Deus numquam vult innocentem puniri, 
+          et opus recte coeptum forsan euerteretur, 
+          si regem tyranice regno spoliemus ob peccatum non commissum, 
+          etiam si illud possit committere. 
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e129">
+          Prudentius faceret <name xml:id="lca8s8-d1e750-Nd1e156">Ioannis Maioris</name> 
           si adderet hoc intelligendum 
-          quando probabiliter et vehemen<!--<pb ed="#P" n="230-r"/>-->ter <pb ed="#P" n="230-r"/>
-          non vanis coniecturis praesumeretur regem 
-          illum Iacturam allaturum fidei vel castigaturum 
-          populum: quod vix credendum 
-          est de indis principibus pro suo mitissimo 
-          ingenio. 
-          Quod si suspicio uehemens esset 
+          quando probabiliter et vehemen<pb ed="#P" n="230-r"/>ter,
+          non vanis coniecturis, 
+          praesumeretur regem illum iacturam allaturum fidei vel castigaturum populum, 
+          quod vix credendum est de indis principibus, 
+          pro suo mitissimo ingenio. 
+          Quod si suspicio vehemens esset, 
           tunc illi dandum esset aliquid in compensationem 
-          regni ut per 
+          regni, 
+          ut per 
           <cit>
             <ref xml:id="lca8s8-d1e750-Rd1e177" target="http://scta.info/resource/cice-l3t34-d1e225"><!-- TODO: target needs to change to commentary rather than liber extra itself --> 
               <name xml:id="lca8s8-d1e750-Nd1e178">Innocentium</name> 
@@ -110,23 +119,26 @@
             </ref>
             <bibl>
               <name>Innocentius</name>, 
-              <title>In quinque libros Decretalium.</title>, 
-              III, t. 34 (Venice 1570, p. 514)
+              <title>In quinque libros Decretalium</title>, 
+              III, t. 34 (Venice 1570, p. 514).
             </bibl>
           </cit>, 
-          ubi loquens de principibus 
-          paganis qui nostras prouintias 
-          occuparunt docet eos non esse spoliandos vel 
-          deponendos <!-- "a" possibly added above line --> regno etiam si populus 
-          conuertatur ad christum: ne seditio et 
-          odium Christiani nominis inseratur paganorum 
-          animis. Quanto magis id docere 
-          debuisset, hic theologus, loquens de 
-          indis quos nunquam viderat: qui Christianas 
-          prouincias non occuparunt: neque 
-          unquam Christianum nomen audierunt 
+          ubi, 
+          loquens de principibus paganis qui nostras provincias occuparunt, 
+          docet eos non esse spoliandos vel deponendos 
+          <app><!-- example of variant/correction not marked in 2000 edition -->
+            <lem>a</lem>
+            <rdg wit="#P" type="correction-addition">
+              <add>a</add>
+            </rdg>
+          </app>
+          regno, etiam si populus convertatur ad Christum, 
+          ne seditio et odium Christiani nominis inseratur paganorum animis. 
+          Quanto magis id docere debuisset hic theologus, loquens de 
+          indis, quos nunquam viderat, qui Christianas provincias non occuparunt, 
+          neque unquam Christianum nomen audierunt, 
           remotissima 
-          <app>
+          <app> <!-- another correction not marked in 2000 edition -->
             <lem n="remotissima"/>
             <rdg wit="#P" type="correction-deletion">
               <del rend="strikethrough">quia</del>
@@ -135,27 +147,32 @@
           regna a nostro orbe incolentes
         </p>
         <p xml:id="lca8s8-d1e750-d1e212">
-           Secundo 
+          Secundo 
           <cit>
-            <ref xml:id="lca8s8-d1e750-Rd1e216">
-              <name>Ioannes Maioris</name>
+            <ref xml:id="lca8s8-d1e750-Rd1e216" target="http://scta.info/resource/jb2v19-d111866-d1e326">
+              <name xml:id="lca8s8-d1e750-Nd1e176">Ioannes Maioris</name>
             </ref>
-            <bibl></bibl>
+            <bibl>
+              <name>Iohannes Maior</name>, <title>In Sent</title> (Redactio B), 
+              II, c. 44, q. 3 
+              (Paris, 1519).
+            </bibl>
           </cit> 
           docet talem 
-          principem exui ditione debere: 
-          ut subditi 
-          eius libere profiteri possint catholicam 
-          fidem. Sed errat quoniam cum iurisdictio 
-          principum etiam paganorum sit de iure 
-          naturali et de iure gentium et diuino ut
-          alibi latissime rationibus irrefragabilibus 
-          et diuinae scripturae autoritatibus probauimus
-          certe etiam si eius subditi conuertantur 
+          principem exui ditione debere, 
+          ut subditi eius libere profiteri possint catholicam fidem. 
+          Sed errat 
+          quoniam cum iurisdictio principum, 
+          etiam paganorum sit de iure 
+          naturali et de iure gentium et diuino, 
+          ut alibi latissime rationibus irrefragabilibus 
+          et diuinae scripturae autoritatibus 
+          probavimus certe, 
+          etiam si eius subditi conuertantur 
           ad fidem debent illi reuerentiam 
           et obedientiam in his quae contra Deum 
           non sunt tamquam domino et eius 
-          iuris<!--<pb ed="#P" n="230-v"/>-->dictio <pb ed="#P" n="230-v"/>
+          iuris<pb ed="#P" n="230-v"/>dictio
           durat et illi tributa soluenda sunt 
           si modo jurisdictionem exerceant ab
           damno fidelium. Etiam si ipse princeps 
@@ -176,36 +193,43 @@
           docet in loco infra citando 
           inquit et addit verba
           <ref xml:id="lca8s8-d1e750-Rd1e274" corresp="#lca8s8-d1e750-Qd1e280 #lca8s8-d1e750-Qd1e283 #lca8s8-d1e750-Qd1e292">
-            Diui Pauli ad Romanos 13.
-          </ref> 
+            Diui Pauli ad Romanos 13
+          </ref>,
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e280" source="http://scta.info/resource/rom13_1@1-6">
               Omnis anima potestatibus sublimioribus subdita sit
             </quote>
             <bibl>Rom. 13:1</bibl>
           </cit>. 
-          Et infra:
+          Et infra,
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e283" source="http://scta.info/resource/rom13_5@1-8">
               Ideoque 
-              
-              necessitate <!-- possible variant or correction --> 
-               
-              subditi estote: non solum propter iram
+              <app><!-- this correction is noted in 2000 edition; but if the edition is noting this, why not the above correction that it omits -->
+                <lem>necessitate</lem>
+                <rdg wit="#P" type="correction-substitution">
+                  <subst>
+                    <del>necessitatibus</del>
+                    <add>necessitate</add>
+                  </subst>
+                </rdg>
+              </app>
+              subditi estote, 
+              non solum propter iram
             </quote>
             <bibl>Rom. 13:5</bibl>
           </cit>,
           id est, 
           propter periculum vel poenam temporalem 
-          vel corporalem vitandam: 
+          vel corporalem vitandam,
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e292" source="http://scta.info/resource/rom13_5@9-12">
               sed etiam propter conscientiam
             </quote>
             <bibl>Rom. 13:5</bibl>
           </cit>,
-          id est ne peccatum sit 
-          in conscientia: 
+          id est, 
+          ne peccatum sit in conscientia,
           quia 
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e300" source="http://scta.info/resource/rom13_2@2-14">
@@ -218,47 +242,76 @@
         </p>
         <p xml:id="lca8s8-d1e750-d1e309">
           Quod autem Christiani praeciperentur 
-          obedire principibus suis licet infidelibus
-          probatur 1o ex sacris doctoribus ita 
-          exponentibus verba Pauli ad Romanos 13
+          obedire principibus suis, licet infidelibus,
+          probatur primo ex sacris doctoribus ita 
+          exponentibus 
+          <cit>
+            <ref xml:id="lca8s8-d1e750-Rd1e281" target="http://scta.info/resource/rom13_1 http://scta.info/resource/rom13_2">verba Pauli ad Romanos 13</ref>
+            <bibl>Rom. 13:1-2</bibl>
+          </cit>.
         </p>
         <p xml:id="lca8s8-d1e750-d1e318">
-          Secundo probatur: quoniam ut ex hystoriis 
-          tam sacris quam profanis liquet tempore 
-          quo Paulus illud scripsit principes 
+          Secundo probatur quoniam ut ex hystoriis, 
+          tam sacris quam profanis, 
+          liquet tempore quo Paulus illud scripsit principes 
           omnes erant pagani sub quibus apostoli
-          et fideles videbant. Quod etiam docet 
-          <ref xml:id="lca8s8-d1e750-Rd1e332">
-            <name xml:id="lca8s8-d1e750-Nd1e333">Chrisostomus</name> 
-            super illis verbis
-          </ref>: 
-          ministri enim Dei. Tunc autem christiani ut pluri<pb ed="#P" n="231-r"/>mum 
-          erant populares Iuxta 
-          <name xml:id="lca8s8-d1e750-Nd1e341">Chrisostomi</name>
-          verba. Paulus ergo suis hoc est Christianis 
-          praeceptum illud tradit omnis anima 
-          non paganis qui 
-          
-          illud<!-- possible variant --> 
-          
+          et fideles videbant. 
+          Quod etiam docet 
+          <cit>
+            <ref xml:id="lca8s8-d1e750-Rd1e332">
+              <name xml:id="lca8s8-d1e750-Nd1e333">Chrisostomus</name> 
+              super illis verbis
+          </ref>
+          </cit>: 
+          <cit>
+            <quote xml:id="lca8s8-d1e750-Qd1e301">
+              <cit>
+                <quote xml:id="lca8s8-d1e750-Qd1e305" source="http://scta.info/resource/rom13_6@6-8">
+                  ministri enim Dei
+                </quote>
+                <bibl>
+                  Rom 13:6
+                </bibl>
+              </cit>.
+              Tunc autem Christiani ut pluri<pb ed="#P" n="231-r"/>mum  
+              erant populares
+            </quote>
+            <bibl>
+              <name>Chrysostomus</name>, 
+              <title>In ad Romanos</title>, 
+              homilia 23 (PG 60:617-618).
+            </bibl>
+          </cit>, 
+          iuxta <name xml:id="lca8s8-d1e750-Nd1e341">Chrisostomi</name>
+          verba. Paulus ergo suis, 
+          hoc est, 
+          Christianis praeceptum illud 
+          tradit omnis anima non paganis qui 
+          <app>
+            <lem>illud</lem>
+            <rdg wit="#P">illam</rdg>
+          </app>
           vel ridebant 
-          vel non agnoscebant. Addit autem Paulus 
-          reddite omnibus debita cui tributum tributum: 
-          cui 
-          
-          uectigal uectigal. <!-- possible error need for correction --> 
-          
-          Quod etiam 
-          idem Paulus manifeste docet 
-          <ref xml:id="lca8s8-d1e750-Rd1e359" corresp="#lca8s8-d1e750-Qd1e364">1 ad Timotheum 6</ref> 
+          vel non agnoscebant. 
+          Addit autem <ref xml:id="lca8s8-d1e750-Rd1e333"><name xml:id="lca8s8-d1e750-Nd1e334">Paulus</name></ref>, 
+          <cit>
+            <quote xml:id="lca8s8-d1e750-Qd1e339" source="http://scta.info/resource/rom13_7@1-9">
+              reddite omnibus debita cui tributum, tributum, cui vectigal, vectigal
+            </quote>
+            <bibl>
+              Rom. 13:7
+            </bibl>
+          </cit>. 
+          Quod etiam idem <name xml:id="lca8s8-d1e750-Nd1e345">Paulus</name> manifeste docet 
+          <ref xml:id="lca8s8-d1e750-Rd1e359" corresp="#lca8s8-d1e750-Qd1e364">1 ad Timotheum 6</ref>,
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e364" source="http://scta.info/resource/Itim6_1@1-4">
               Quicunque sub iugo
             </quote>
-          </cit> 
-          scilicet infidelium 
+          </cit>,
+          scilicet infidelium,
           secundum 
-          <ref>Glossam Interlinealem</ref> 
+          <ref xml:id="lca8s8-d1e750-Rd1e267">Glossam Interlinealem</ref> 
           sunt 
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e372" source="http://scta.info/resource/Itim6_1@5-7">serui dominos suos</quote>
@@ -266,21 +319,24 @@
           scilicet infideles 
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e376" source="http://scta.info/resource/Itim6_1@8-17">omni honore dignos 
-          
-          arbitretur: <!-- possible variant --> 
-          
-          ne nomen 
-          domini 
-            <app>
-              <lem n="domini"/>
-              <rdg wit="#P" type="correction-deletion">
-                <del rend="strikethrough">arbitretur</del>
-              </rdg>
-            </app>
-              et doctrina blasphemetur</quote>
-            <bibl>I Tim. 6:18</bibl>
+              <app>
+                <lem type="conjecture-corrected"><corr>arbitrentur</corr></lem>
+                <rdg wit="#P">arbitretur</rdg>
+              </app>
+              ne nomen domini 
+              <app>
+                <lem n="domini"/>
+                <rdg wit="#P" type="correction-deletion">
+                  <del rend="strikethrough">arbitretur</del>
+                </rdg>
+              </app>
+              et doctrina blasphemetur
+            </quote>
+            <bibl>
+              I Tim. 6:1
+            </bibl>
           </cit>. 
-          Et sequitur: 
+          Et sequitur, 
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e388" source="http://scta.info/resource/Itim6_2@1-13">
               qui autem fideles habent dominos 
@@ -288,53 +344,60 @@
               sed magis seruiant
             </quote>
             <bibl>I Tim. 6:2</bibl>
-          </cit> 
-          infidelibus ergo heris<!--db check this --> 
+          </cit>.
+          Infidelibus ergo heris 
           vel principibus obsequium praestari debet 
           a subditis etiam si subditi Christiani sint 
-          dominus autem infidelis. Quod apertius docet 
+          dominus autem infidelis. 
+          Quod apertius docet 
           glossa super illa verba omnis anima potestatibus 
-          sublimioribus inquit 
-          <ref xml:id="lca8s8-d1e750-Rd1e406">Glosa</ref>: 
+          sublimioribus. 
+          Inquit 
+          <ref xml:id="lca8s8-d1e750-Rd1e406">Glossa</ref>: 
           <cit>
            <quote xml:id="lca8s8-d1e750-Qd1e408">
               videbatur 
               enim quod infideles domini fidelibus 
               deberent esse aequales: quam etiam superbiam 
               apostolus remouet. Non est enim potestas 
-              nisi a Deo.
+              nisi a Deo
            </quote>
             <bibl>
-              
+              <title>Glossa ordinaria</title>, I Tim. 6:2
             </bibl>
-          </cit> 
-          <ref xml:id="lca8s8-d1e750-Rd1e419">Haec Glossa</ref>.
+          </cit>,
+          <ref xml:id="lca8s8-d1e750-Rd1e419">haec Glossa</ref>.
         </p>
         <p xml:id="lca8s8-d1e750-d1e422">
           Et rursus super 
           illa verba 
-          <quote xml:id="lca8s8-d1e750-Qd1e426">ne nomen domini et doctrina blasphemetur</quote> 
-          inquit <ref>Glosa Interlinealis</ref>: 
           <cit>
-            <quote>quasi 
-            aliena inuadentis: sed potius per obsequia 
-            seruorum fidelium domini infideles conuertantur: 
-            et doctrina scilicet christiana quasi 
-            injusta et contra legem predicata blas<pb ed="#P" n="231-v"/>phemetur</quote>
+            <quote xml:id="lca8s8-d1e750-Qd1e426" source="http://scta.info/resource/Itim6_1@12-17">ne nomen domini et doctrina blasphemetur</quote>
           </cit> 
+          inquit 
+          <ref xml:id="lca8s8-d1e750-Rd1e327">Glosa Interlinealis</ref>: 
+          <cit>
+            <quote xml:id="lca8s8-d1e750-Qd1e331">
+              quasi aliena inuadentis, 
+              sed potius per obsequia seruorum fidelium domini infideles conuertantur, 
+              et doctrina scilicet Christiana quasi 
+              iniusta et contra legem praedicata blas<pb ed="#P" n="231-v"/>phemetur
+            </quote>
+            <bibl>Glossa ordinaria interlinealis</bibl>
+          </cit>,
           haec illa.
         </p>
         <p xml:id="lca8s8-d1e750-d1e446">
           Et 
           <ref xml:id="lca8s8-d1e750-Rd1e448">
             <name xml:id="lca8s8-d1e750-Nd1e449">Sanctus Thomas</name> 
-            super epistola 1a ad corinthios 6 lectione 1a in 
+            super epistola prima ad Corinthios 6, lectione prima in 
             principio
-          </ref> 
-          inquit: 
+          </ref>, 
+          inquit, 
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e456">
-              esse contra Ius diuinum 
+              esse contra ius diuinum 
               prohibere: quod fideles non compareant coram 
               Iudicio principum infidelium si 
               vocentur: vel coram constitutis: hoc est 
@@ -343,48 +406,64 @@
               Iudicare de subditis. Hoc enim esset contra 
               subiectionem quae debetur principibus
             </quote>
+            <bibl>
+              <name>Aquinas</name>, <title>In ad Corinthios</title>, c. VI, lectio 1.
+            </bibl>
           </cit> 
-          haec ex illo quasi in forma. Non 
+          haec ex illo quasi in forma.
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e464">
+          Non 
           ergo princeps infidelis deponi debet et 
-          spoliari regno oblibertatem fidei catholicae;
+          spoliari regno ob libertatem fidei catholicae;
           immo vero subditi illi debent tributa 
-          soluere. Quod euidenti ratione confirmat
+          soluere. 
+          Quod euidenti ratione confirmat
           <cit>
             <ref xml:id="lca8s8-d1e750-Rd1e487" target="http://scta.info/resource/jsnvu6-e146938-d1e441">
               <name xml:id="lca8s8-d1e750-Nd1e488">Durandus</name> 
-              2o Sententiarum, 
+              II Sententiarum, 
               distinctio 44, 
               quaestione 3
             </ref>
             <bibl>
               <name>Durandus</name>
-              <title>In Libros Sententiarum</title>
+              <title>In Sent.</title>
               II, d. 44, q. 3
             </bibl>
-          </cit> 
+          </cit>,
           quoniam conuerti ad fidem subditos 
           alicuius pagani principis non auget 
-          eius peccata nec nouum crimen est illi
-          unde meritum eorum est solum et non culpa 
-          eius. Ergo cum non mereatur deponi si 
-          sui non susciperent fidem: multo minus 
+          eius peccata nec nouum crimen est illi,
+          unde meritum eorum est solum et non culpa eius. 
+          Ergo, 
+          cum non mereatur deponi, 
+          si sui non susciperent fidem, multo minus 
           deponeretur si subditi illam suscipiant.
           Et certe opinio 
-          <name xml:id="lca8s8-d1e750-Nd1e508">Ioanis Maioris</name> 
-          sapit heresim 
-          eorum qui per baptismum existimant 
-          sese liberatos ab omni obedientia et obligatione 
-          soluendi tributa: quos 
+          <name xml:id="lca8s8-d1e750-Nd1e508">Ioannis Maioris</name> 
+          sapit heresim eorum, 
+          qui, per baptismum, 
+          existimant sese liberatos ab omni obedientia 
+          et obligatione soluendi tributa, 
+          quos 
           <ref xml:id="lca8s8-d1e750-Rd1e517">
             <name xml:id="lca8s8-d1e750-Nd1e518">Hieronymus</name> 
             super Epistola Pauli ad Titum, c. 3
           </ref> 
           refert sese tueri verbis 
           <ref xml:id="lca8s8-d1e750-Rd1e523">
-            Pauli ad Galatas 2a c. 4
+            Pauli ad Galatas II, c. 4
           </ref>
-          illa (scilicet) qua libertate 
-          christus nos liberauit.
+          illa, scilicet, qua libertate 
+          Christus 
+          <app>
+            <lem type="conjecture-corrected">
+              <corr>nos</corr>
+            </lem>
+            <rdg wit="#P">non</rdg>
+          </app> 
+          liberauit.
         </p>
       </div>
     </body>

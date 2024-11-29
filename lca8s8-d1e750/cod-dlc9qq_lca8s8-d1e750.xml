@@ -77,7 +77,10 @@
           puniri et opus recte ceptum forsan 
           <lb ed="#P" n="26"/>euerteretur si regem tyranice regno spolie<lb ed="#P" break="no" n="27"/>mus 
           ob peccatum non commissum, etiam si 
-          <lb ed="#P" n="28"/>illud possit committere: Prudentius face<lb ed="#P" break="no" n="29"/>ret 
+          <lb ed="#P" n="28"/>illud possit committere:
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e129">
+          Prudentius face<lb ed="#P" break="no" n="29"/>ret 
           <name xml:id="lca8s8-d1e750-Nd1e156">Ioannis Maioris</name> si adderet hoc intel<lb ed="#P" break="no" n="30"/>ligendum 
           quando probabiliter et uehemen<pb ed="#P" n="230-r"/><lb ed="#P" break="no" n="1"/>ter 
           non vanis coniecturis presumeretur re<lb ed="#P" break="no" n="2"/>gem 
@@ -90,7 +93,7 @@
           <lb ed="#P" n="8"/>quod super his de voto</ref> ubi loquens de prin<lb ed="#P" break="no" n="9"/>cipibus 
           paganis qui nostras prouintias 
           <lb ed="#P" n="10"/>occuparunt docet eos non esse spoliandos vel 
-          <lb ed="#P" n="11"/>deponendos <!-- "a" possibly added above line --> regno etiam si populus 
+          <lb ed="#P" n="11"/>deponendos <add place="above-line">a</add> regno etiam si populus 
           <lb ed="#P" n="12"/>conuertatur ad christum: ne seditio et 
           <lb ed="#P" n="13"/>odium christiani nominis inseratur pa<lb ed="#P" break="no" n="14"/>ganorum 
           animis. Quanto magis id do<lb ed="#P" break="no" n="15"/>cere 
@@ -126,7 +129,7 @@
           <lb ed="#P" n="11"/><name xml:id="lca8s8-d1e750-Nd1e270">Hieronimus</name> docet in loco infra citando 
           <lb ed="#P" n="12"/>inquit et addit verba <ref xml:id="lca8s8-d1e750-Rd1e274">Diui Pauli ad Romanos 
           <lb ed="#P" n="13"/>13.</ref> <quote xml:id="lca8s8-d1e750-Qd1e280" source="http://scta.info/resource/rom13_1@1-6">omnis anima potestatibus sublimioribus subdita sit</quote>. Et infra:
-          <quote xml:id="lca8s8-d1e750-Qd1e283" source="http://scta.info/resource/rom13_5@1-8">Ideoque necessi<lb ed="#P" break="no" n="14"/>tate 
+          <quote xml:id="lca8s8-d1e750-Qd1e283" source="http://scta.info/resource/rom13_5@1-8">Ideoque <seg type="correction">necessi<lb ed="#P" break="no" n="14"/>tat<subst><add>e</add><del>ibus</del></subst></seg> 
           subditi estote: non solum propter iram</quote> 
           <lb ed="#P" n="15"/>id est propter periculum vel poenam tempora<lb ed="#P" break="no" n="16"/>lem 
           vel corporalem vitandam: <quote xml:id="lca8s8-d1e750-Qd1e292" source="http://scta.info/resource/rom13_5@9-12">sed etiam 
@@ -152,7 +155,7 @@
           erant populares Iuxta <name xml:id="lca8s8-d1e750-Nd1e341">Chrisostomi</name>
           <lb ed="#P" n="2"/>verba. Paulus ergo suis hoc est christia<lb ed="#P" break="no" n="3"/>nis 
           preceptum illud tradit omnis anima 
-          <lb ed="#P" n="4"/>non paganis qui illud vel ridebant 
+          <lb ed="#P" n="4"/>non paganis qui <sic>illam</sic> vel ridebant 
           <lb ed="#P" n="5"/>vel non agnoscebant. Addit autem Paulus 
           <lb ed="#P" n="6"/>reddite omnibus debita cui tributum tri<lb ed="#P" break="no" n="7"/>butum: 
           cui uectigal uectigal. Quod etiam 
@@ -195,9 +198,12 @@
           <lb ed="#P" n="8"/>cum pertineat ad autoritatem principis 
           <lb ed="#P" n="9"/>Iudicare de subditis. Hoc enim esset con<lb ed="#P" break="no" n="10"/>tra 
           subiectionem quae debetur principi<lb ed="#P" break="no" n="11"/>bus</quote> 
-          haec ex illo quasi in forma. Non 
+          haec ex illo quasi in forma.
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e464">
+          Non 
           <lb ed="#P" n="12"/>ergo princeps infidelis deponi debet et 
-          <lb ed="#P" n="13"/>spoliari regno oblibertatem fidei catho<lb ed="#P" break="no" n="14"/>licae;
+          <lb ed="#P" n="13"/>spoliari regno ob libertatem fidei catho<lb ed="#P" break="no" n="14"/>licae;
           immo vero subditi illi debent tribu<lb ed="#P" break="no" n="15"/>ta 
           soluere. Quod euidenti ratione con<lb ed="#P" break="no" n="16"/>firmat
           <ref xml:id="lca8s8-d1e750-Rd1e487" target="http://scta.info/resource/jsnvu6-e146938-d1e441"><name xml:id="lca8s8-d1e750-Nd1e488">Durandus</name> 2o Sententiarum distinctio 44 
@@ -214,7 +220,7 @@
           soluendi tributa: quos <ref xml:id="lca8s8-d1e750-Rd1e517"><name xml:id="lca8s8-d1e750-Nd1e518">Hieronymus</name> super Epistola Pauli ad Titum, c. 
           <lb ed="#P" n="28"/>3</ref> refert sese tueri verbis <ref xml:id="lca8s8-d1e750-Rd1e523">Pauli ad Gala<lb ed="#P" break="no" n="29"/>tas
           2a c. 4</ref> illa (scilicet) qua liberta<lb ed="#P" break="no" n="30"/>te 
-          christus nos liberauit
+          christus <sic>non</sic> liberauit
         </p>
       </div>
     </body>

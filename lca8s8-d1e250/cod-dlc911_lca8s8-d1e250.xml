@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 16 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 16 [Bnf 12926 Transcription]</title>
+          <date when="2024-11-30">Nov 30, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="79-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e250">
+        <head>Caput 16 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="22"/>Caput 16m.
+        </p>
+        <p>
+          Opinio ergo Innocentii intelligenda est vt supra diximus. Alias sequeretur quod si totum unum regnum vel totum orbem velut Indiarum, ubi millia millium et centies centena millium sunt generationes, reperiremus infectum criminibus innaturalibus, quod verum non est, aut idolatriae deditum, et hoc pro |80v.] maiore parte certum esse credimus, omnes incolae illius, quae numerum superant stellarum, essent flammis ferroque absumendi, quod a Christi spiritu et doctrina, cuius sanguine redempti fuerunt, maxime alienum est et maxime absurdum
+        </p>
+        <p>
+          [80r.] Ergo29$ quando Innocentius dixit quod, si aliquis gentilis peccaret contra legem naturae aut idola coleret, posset per papam puniri, exemplo diuini iudicii, non fuit mens sua loqui de omnibus gentibus vel infidelibus absolute, sed de his solis qui terras vel regna inhabitant in quibus christianum fuit nomen et certo scitur viguisse verus cultus diuinus. Alioquin Innocentius scripsisset valde culpabiliter. Argumentum autem ab euitando absurdo vel a ratione absurditatis, inhumanitatis vel inconuenientis vitanda, est validissimum in iure, cum sumatur a discretione naturali et procedat etiam si non allegatur autoritas.
+        </p>
+        <p>
+          Et formatur hoc modo: Non est asserendum id vel sumendus ille intellectus ex quo sequi posset absurditas, inhumanitas, vel inconueniens. Debet enim quaelibet dispositio sic intelligi vt nulla sequatur inhumanitas vel absurditas quia absurditas semper vitanda est. Hinc est quod pro euitanda absurditate restringenda est generalis dispositio (L. 2, c. De Noxialibus Actionibus, et L. Vt  Gradatim, S 1, f£ De [80v.] Muneribus et Honoribus) etiam statutaria, vt dicit Bartholus (in L. Omnes Populi, in 6* q. principali, ff De Iustitia Et Iure32. De hoc argumento satis scribitur et notatur in c. Venerabilem et c. Genesi: De Flectione; ev in c. Solitae: De Maioritate Et Obedientia; et in c. Ex Ore: De Priuilegiis 555. et utrobique  doctores et in aliis innumeris locis utriusque iuris canonici et ciuilis.
+        </p>
+        <p>
+          Cum igitur in dictis tanti viri, scilicet Innocentii, merito euitanda sint tot tantaque inhumana absurda et inconuenientia, necessario restringi debet quidquid in hoc articulo de infidelibus dixerit ad illorum dumtaxat rationem pertinere qui, vt iam diximus, sordibus idolatriae aut immunditiarum loca ad Ecclesiam ab olim pertinentia fedant. Quod autem hoc verum sit preterquam quod sequitur absurdum, probatur:
+        </p>
+        <p>
+          Primo, quoniam cum regna quae fuerunt christianorum possidentur ab infidelibus et abominandis superstitionibus coinquinantur, fit iniuria Christo cui quondam illa dicata fuerunt et diuino cultui consecrata, et cum, iuxta iuris regulam, semel Deo  dicatum non sit ad usus humanos ulterius transferendum, multo minus ad superstitiones impias et nefanda et flagitiosa crimina20?, Quid enim si21? ibi colatur Machometus vel inania simulacra pro vero [81r.] Deo?
+        </p>
+        <p>
+          Ideo Ecclesia talia tolerare aut dissimulare non debet sed, si adsit facultas, vel  compellere vt loca illa infideles sibi restituant aut prohibere siue etiam punire ne eiusmodi sordes fiant, propter sui feditatem aut grauitatem, per rationes et autoritates supra relatas. Et hanc fuisse mentem Innocentii probatur ex eius verbis: loquens enim  de indulgentiis concessis militibus euntibus ad recuperandum terram sanctam subiicit rationem: Quod fuit consecrata natiuitate, habitatione, et morte Iesu Christi, et in  qua non colitur Christus sed Machometus, iuste potest papa reuocare vt incolatur a christiani *5^, Haec ille.
+        </p>
+        <p>
+            Secundo, quoniam supposito quod illae prouinciae semel fuerint dicatae et consecratae Christo, iam de iure pertinent ad Ecclesiam et ita omnes infideles ibi habitantes sunt subditi Ecclesiae ac illius legibus, quarum tamen capaces existunt ratione  domicilii. Exterius enim habitans in terra alieni Principis eius subditus efficitur (ut c.  Ex Parte et in c. Dilecti et c. finali, De Foro Competenti., ex Cod. Ubi Petatur Tutor,  L. 1)955 et ibi notatur per doctores (et ff De Iudiciis, L. Haeres Absens, $ Proindeys56.  Ergo in prouinciis, quae quondam fuere christianae ditionis, Ecclesia peculiari de  causa, potius quam in aliis, potest impias superstitiones et nefanda [81v.] crimina et  prohibere et punire.
+        </p>
+        <p>
+          Tertio, quoniam si in eis regnis habitant christiani sub iugo barbarorum, est maius opprobrium christiani nominis, et christiani ipsi cum infidelibus conuiuentes,  obnoxii sunt periculo ne illorum impietate coinquinentur; corrumpunt enim bonos  mores colloquia praua. Et sepe malorum consortia etiam bonos corrumpunt (28,  q. l, c. Saepe)35, quanto magis eos, qui ad vitia procliues sunt358 (24, q. 3, c. Resecandae, ex c. Sed Illud, 45 distinctio)? per rationes has.
+        </p>
+        <p>
+          De talibus infidelibus loquens Innocentius recte docet posse papam prescribere cis leges ne christianis molesti sint, et quod, si illos iniuriis afficiant, potest tales infideles priuare regnis quae quondam christianae ditionis fuerunt. Addit autem magnam causam precedere debere antequam pontifex hoc faciat, ob magnam seditionem et tumultum qui inde necessario orietur, dummodo christiani non periclitentur. Periculum autem versari intelligendum est quando est periculum ne christiani a fide catholica resiliant vel aliud periculum simile; tunc enim ne tale quidquam fiat omnia sunt postponenda360,
+        </p>
+        <p>
+          Item docet Innocentius tales infideles debere permittere Euangelium in suis regnis predicari; alias cum peccent puniri possunt [82r.] a papa. Sed de hoc infra361,
+        </p>
+        <p>
+          In suma, verba Innocentii, scilicet, quod si gentilis faciat contra legem naturae, intelligenda sunt, vt supra docuimus, vel de infidelibus qui habitant terras quae alias fuerunt christianorum vel de infidelibus actu et iure subditis principibus christianis, quod expressum est in c. Archiepiscopatu: De Raptoribus, ubi archiepiscopus quidam Siciliae punit Mauros peccantes contra naturam; vel intelligendum est eo  modo quo supra docui: qui, scilicet, subditi sunt tantum de iure quod usurpatas teneant terras Ecclesiae, propter dictas tres rationes specialitatis. Et ita intelligenda sunt  tradita per Innocentium et Abbatem in Decretalibus, c. In Archiepiscopatu: De Raptoribus, ev in c. Nouit: De Iudiciis, et omnes canonistas illos sequentes363,
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

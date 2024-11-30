@@ -103,7 +103,7 @@
         <p xml:id="lca8s8-d1e750-d1e129">
           Prudentius faceret <name xml:id="lca8s8-d1e750-Nd1e156">Ioannis Maioris</name> 
           si adderet hoc intelligendum 
-          quando probabiliter et vehemen<pb ed="#P" n="230-r"/>ter,
+          quando probabiliter et vehemen<!--<pb ed="#P" n="230-r"/>-->ter, <pb ed="#P" n="230-r"/>
           non vanis coniecturis, 
           praesumeretur regem illum iacturam allaturum fidei vel castigaturum populum, 
           quod vix credendum est de indis principibus, 
@@ -172,7 +172,7 @@
           ad fidem debent illi reuerentiam 
           et obedientiam in his quae contra Deum 
           non sunt tamquam domino et eius 
-          iuris<pb ed="#P" n="230-v"/>dictio
+          iuris<!--<pb ed="#P" n="230-v"/>-->dictio <pb ed="#P" n="230-v"/>
           durat et illi tributa soluenda sunt 
           si modo jurisdictionem exerceant ab
           damno fidelium. Etiam si ipse princeps 
@@ -273,7 +273,7 @@
                   Rom 13:6
                 </bibl>
               </cit>.
-              Tunc autem Christiani ut pluri<pb ed="#P" n="231-r"/>mum  
+              Tunc autem Christiani ut pluri<!--<pb ed="#P" n="231-r"/>-->mum <pb ed="#P" n="231-r"/>  
               erant populares
             </quote>
             <bibl>
@@ -288,7 +288,7 @@
           Christianis praeceptum illud 
           tradit omnis anima non paganis qui 
           <app>
-            <lem>illud</lem>
+            <lem type="conjecture-corrected"><corr>illud</corr></lem>
             <rdg wit="#P">illam</rdg>
           </app>
           vel ridebant 
@@ -381,7 +381,7 @@
               quasi aliena inuadentis, 
               sed potius per obsequia seruorum fidelium domini infideles conuertantur, 
               et doctrina scilicet Christiana quasi 
-              iniusta et contra legem praedicata blas<pb ed="#P" n="231-v"/>phemetur
+              iniusta et contra legem praedicata blas<!--<pb ed="#P" n="231-v"/>-->phemetur <pb ed="#P" n="231-v"/>
             </quote>
             <bibl>Glossa ordinaria interlinealis</bibl>
           </cit>,

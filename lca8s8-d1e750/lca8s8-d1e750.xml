@@ -313,7 +313,7 @@
           </cit>,
           scilicet infidelium,
           secundum 
-          <ref xml:id="lca8s8-d1e750-Rd1e267">Glossam Interlinealem</ref> 
+          <ref xml:id="lca8s8-d1e750-Rd1e267">Glossam interlinealem</ref> 
           sunt 
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e372" source="http://scta.info/resource/Itim6_1@5-7">servi dominos suos</quote>
@@ -386,6 +386,9 @@
             <quote xml:id="lca8s8-d1e750-Qd1e426" source="http://scta.info/resource/Itim6_1@12-17">
               ne nomen domini et doctrina blasphemetur
             </quote>
+            <bibl>
+              I Tim 6:1
+            </bibl>
           </cit> 
           inquit 
           <ref xml:id="lca8s8-d1e750-Rd1e327">Glossa Interlinealis</ref>: 
@@ -396,7 +399,7 @@
               et doctrina scilicet Christiana quasi 
               iniusta et contra legem praedicata blas<!--<pb ed="#P" n="231-v"/>-->phemetur <pb ed="#P" n="231-v"/>
             </quote>
-            <bibl>Glossa ordinaria interlinealis</bibl>
+            <bibl><title>Glossa ordinaria interlinealis</title>, I Tim 6:1</bibl>
           </cit>,
           haec illa.
         </p>

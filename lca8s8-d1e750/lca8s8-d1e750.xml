@@ -166,7 +166,7 @@
           etiam paganorum sit de iure 
           naturali et de iure gentium et diuino, 
           ut alibi latissime rationibus irrefragabilibus 
-          et diuinae scripturae autoritatibus 
+          et divinae scripturae autoritatibus 
           probavimus certe, 
           etiam si eius subditi conuertantur 
           ad fidem debent illi reuerentiam 
@@ -189,7 +189,7 @@
           cui responsioni Paulus apostolus congruens 
           docet principatibus et potestatibus 
           credentes debere esse subiectos etc Hoc 
-          <name xml:id="lca8s8-d1e750-Nd1e270">Hieronimus</name> 
+          <name xml:id="lca8s8-d1e750-Nd1e270">Hieronymus</name> 
           docet in loco infra citando 
           inquit et addit verba
           <ref xml:id="lca8s8-d1e750-Rd1e274" corresp="#lca8s8-d1e750-Qd1e280 #lca8s8-d1e750-Qd1e283 #lca8s8-d1e750-Qd1e292">
@@ -246,12 +246,14 @@
           probatur primo ex sacris doctoribus ita 
           exponentibus 
           <cit>
-            <ref xml:id="lca8s8-d1e750-Rd1e281" target="http://scta.info/resource/rom13_1 http://scta.info/resource/rom13_2">verba Pauli ad Romanos 13</ref>
+            <ref xml:id="lca8s8-d1e750-Rd1e281" target="http://scta.info/resource/rom13_1 http://scta.info/resource/rom13_2">
+              verba Pauli ad Romanos 13
+            </ref>
             <bibl>Rom. 13:1-2</bibl>
           </cit>.
         </p>
         <p xml:id="lca8s8-d1e750-d1e318">
-          Secundo probatur quoniam ut ex hystoriis, 
+          Secundo probatur quoniam ut ex historiis, 
           tam sacris quam profanis, 
           liquet tempore quo Paulus illud scripsit principes 
           omnes erant pagani sub quibus apostoli
@@ -314,7 +316,7 @@
           <ref xml:id="lca8s8-d1e750-Rd1e267">Glossam Interlinealem</ref> 
           sunt 
           <cit>
-            <quote xml:id="lca8s8-d1e750-Qd1e372" source="http://scta.info/resource/Itim6_1@5-7">serui dominos suos</quote>
+            <quote xml:id="lca8s8-d1e750-Qd1e372" source="http://scta.info/resource/Itim6_1@5-7">servi dominos suos</quote>
           </cit> 
           scilicet infideles 
           <cit>
@@ -347,11 +349,20 @@
           </cit>.
           Infidelibus ergo heris 
           vel principibus obsequium praestari debet 
-          a subditis etiam si subditi Christiani sint 
+          a subditis, 
+          etiam si subditi Christiani sint 
           dominus autem infidelis. 
           Quod apertius docet 
-          glossa super illa verba omnis anima potestatibus 
-          sublimioribus. 
+          Glossa super illa verba 
+          <cit>
+            <quote xml:id="lca8s8-d1e750-Qd1e414" source="http://scta.info/resource/rom13_1@1-4">
+              omnis anima potestatibus 
+              sublimioribus
+            </quote>
+            <bibl>
+              Rom. 13:1
+            </bibl>
+          </cit>. 
           Inquit 
           <ref xml:id="lca8s8-d1e750-Rd1e406">Glossa</ref>: 
           <cit>
@@ -372,14 +383,16 @@
           Et rursus super 
           illa verba 
           <cit>
-            <quote xml:id="lca8s8-d1e750-Qd1e426" source="http://scta.info/resource/Itim6_1@12-17">ne nomen domini et doctrina blasphemetur</quote>
+            <quote xml:id="lca8s8-d1e750-Qd1e426" source="http://scta.info/resource/Itim6_1@12-17">
+              ne nomen domini et doctrina blasphemetur
+            </quote>
           </cit> 
           inquit 
-          <ref xml:id="lca8s8-d1e750-Rd1e327">Glosa Interlinealis</ref>: 
+          <ref xml:id="lca8s8-d1e750-Rd1e327">Glossa Interlinealis</ref>: 
           <cit>
             <quote xml:id="lca8s8-d1e750-Qd1e331">
-              quasi aliena inuadentis, 
-              sed potius per obsequia seruorum fidelium domini infideles conuertantur, 
+              quasi aliena invadentis, 
+              sed potius per obsequia servorum fidelium domini infideles convertantur, 
               et doctrina scilicet Christiana quasi 
               iniusta et contra legem praedicata blas<!--<pb ed="#P" n="231-v"/>-->phemetur <pb ed="#P" n="231-v"/>
             </quote>
@@ -399,15 +412,17 @@
             <quote xml:id="lca8s8-d1e750-Qd1e456">
               esse contra ius diuinum 
               prohibere: quod fideles non compareant coram 
-              Iudicio principum infidelium si 
+              iudicio principum infidelium si 
               vocentur: vel coram constitutis: hoc est 
-              magistratibus vel Iudicibus ab eis positis 
+              magistratibus vel iudicibus ab eis positis 
               cum pertineat ad autoritatem principis 
               Iudicare de subditis. Hoc enim esset contra 
               subiectionem quae debetur principibus
             </quote>
             <bibl>
-              <name>Aquinas</name>, <title>In ad Corinthios</title>, c. VI, lectio 1.
+              <name>Aquinas</name>, 
+              <title>In ad Corinthios</title>, 
+              c. VI, lectio 1.
             </bibl>
           </cit> 
           haec ex illo quasi in forma.
@@ -418,7 +433,7 @@
           spoliari regno ob libertatem fidei catholicae;
           immo vero subditi illi debent tributa 
           soluere. 
-          Quod euidenti ratione confirmat
+          Quod evidenti ratione confirmat
           <cit>
             <ref xml:id="lca8s8-d1e750-Rd1e487" target="http://scta.info/resource/jsnvu6-e146938-d1e441">
               <name xml:id="lca8s8-d1e750-Nd1e488">Durandus</name> 
@@ -432,9 +447,9 @@
               II, d. 44, q. 3
             </bibl>
           </cit>,
-          quoniam conuerti ad fidem subditos 
+          quoniam converti ad fidem subditos 
           alicuius pagani principis non auget 
-          eius peccata nec nouum crimen est illi,
+          eius peccata nec novum crimen est illi,
           unde meritum eorum est solum et non culpa eius. 
           Ergo, 
           cum non mereatur deponi, 
@@ -445,16 +460,30 @@
           sapit heresim eorum, 
           qui, per baptismum, 
           existimant sese liberatos ab omni obedientia 
-          et obligatione soluendi tributa, 
+          et obligatione solvendi tributa, 
           quos 
-          <ref xml:id="lca8s8-d1e750-Rd1e517">
-            <name xml:id="lca8s8-d1e750-Nd1e518">Hieronymus</name> 
-            super Epistola Pauli ad Titum, c. 3
-          </ref> 
+          <cit>
+            <ref xml:id="lca8s8-d1e750-Rd1e517">
+              <name xml:id="lca8s8-d1e750-Nd1e518">Hieronymus</name> 
+              super Epistola Pauli ad Titum, c. 3
+            </ref>
+            <bibl>
+              <name>Hieronymus</name>, 
+              <title>In epistola ad Titum</title>, 
+              c. 3
+            </bibl>
+          </cit> 
           refert sese tueri verbis 
-          <ref xml:id="lca8s8-d1e750-Rd1e523">
-            Pauli ad Galatas II, c. 4
-          </ref>
+          <cit>
+            <ref xml:id="lca8s8-d1e750-Rd1e523">
+              Pauli ad Galatas II, c. 4.
+            </ref>
+            <bibl>
+              <name>Hieronymus</name>, 
+              <title>In epistola ad Galatas</title>, 
+              II, c. 4.
+            </bibl>
+          </cit>
           illa, scilicet, qua libertate 
           Christus 
           <app>
@@ -463,7 +492,7 @@
             </lem>
             <rdg wit="#P">non</rdg>
           </app> 
-          liberauit.
+          liberavit.
         </p>
       </div>
     </body>

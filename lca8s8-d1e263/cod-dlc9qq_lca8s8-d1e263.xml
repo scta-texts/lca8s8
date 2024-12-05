@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 17 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 17 [Bnf 12926 Transcription]</title>
+          <date when="2024-12-05">Dec 05, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="82-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e263">
+        <head>Caput 17 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="19"/>Caput 17m.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Ad aliud autem quod <ref>Innocentius in
+          <lb ed="#P"/>dicto capo. quod super his de voto</ref>. addit
+          <lb ed="#P"/>ad papam scilicet pertinere gentilem so<lb ed="#P" break="no"/>lum
+          habentem legem naturae punire si
+          <lb ed="#P"/>colat idola (quia inquit <quote>narurale est vnum
+          <lb ed="#P"/>et solum Deum creatorem colere et non
+          <lb ed="#P"/>creaturas</quote> haec ille. Dicimus salua reueren<lb ed="#P" break="no"/>tia
+          tanti doctoris quod eius sententia si in<lb ed="#P" break="no"/>distincte
+          intelligi habeat multas ratio<lb ed="#P" break="no"/>nes
+          patitur contrarias. Ad cuius rei de<pb ed="#P" n="82-v"/><lb ed="#P" break="no"/>clarationem
+          supponendum est: quod hic inten<lb ed="#P" break="no"/>dimus
+          loqui de infidelibus quos scriptura
+          <lb ed="#P"/>sacra gentes seu gentiles appellat id est
+          <lb ed="#P"/>qui sine lege erant vel sunt, et non dum
+          <lb ed="#P"/>de fide catholica aliquid audierunt nec cre<lb ed="#P" break="no"/>diderunt.
+        </p>
+        <p>
+          Dicti autem gentiles quia ita sunt
+          <lb ed="#P"/>vt fuerunt geniti, id est, sicut in carne descenderunt sub peccato, id est, idolis seruientes et nondum regenerati, proinde gentiles primitus nuncupabantur secundum lsidorum (Libro  85, c. 105, Esymologiarum)*55. His enim plenus erat mundus quando Christus venit et  apostoli coeperunt predicare. Et a doctoribus nostris infideles priuatiue vel negatiue vocantur, quia sunt apti nati habere fidem et non habent; cuiusmodi sunt omnes quos occidentales et meridionales indos nominamus.
+        </p>
+        <p>
+          Dixi si indistincte intelligi habeat, propter hoc quod in aliquibus infidelibus, scilicet, morantibus in terris Ecclesiae vel membrorum eius, et in certis casibus, pertineret ad papam punire idola colentes, prout plene ex dictis et infra dicendis colligere potes. His sic suppositis, respondemus per sequentem conclusionem.
+        </p>
+        <p>
+          Conclusio Illicite punirentur, saltem iudicio humano, infideles (de quibus nobis presens [83r.] sermo est) propter hoc dumtaxat quod idola colant. Probatur conclusio sic:  Nemo licite puniri potest, saltem humano iudicio, ignorans inuincibiliter vel probabiliter actum quem facit esse prohibitum aut quem omittit esse preceptum, etiam circa fidem. Sed infideles, de quibus loquimur, colentes, idola, ignorant inuincibiliter seu probabiliter. Ergo illicite punirentur, saltem humano iudicio, propter hoc dumtaxat quod colerent idola.
+        </p>
+        <p>
+          Consequentia patet cum maiore, quia qui inuincibiliter seu probabiliter actum aliquem facit sibi prohibitum vel omittit quod est sibi preceptum, excusatur a culpa. Cuius ratio est, secundum sanctum Thomam, quia talis ignorantia est causa actus vel omissionis et ideo causat inuoluntarium. Culpa autem vel peccatum non est nisi sit voluntarium. Vnde semper excusat nisi ipsa ignorantia sit peccatum. Est autem ignorantia peccatum quando quis ignorat ea quae tenetur scire et potest scire. Sicut apparet in constitutione seu mandato papae quam omnes suo modo scire tenentur.
+        </p>
+        <p>
+          Si aliquis nesciat per negligentiam non excusatur a culpa si contra eam faciat. Si vero aliquis habeat sufficiens impedimentum propter quod scire non potuit, puta, si fuit in carcere vel in terris extraneis ad quas [83v.] constitutio non peruenit vel propter aliquod simile, talis ignorantia excusat vt non peccet. Nemo enim peccat in eo quod non potuit vitare. Haec sanctus Thomas*€6 (1a 236, q. 90, a. 4, ad 2um erc 3um; et De veritate, q. 17, a. 3*, c.; et Quodlibetali 1*, a. 19%).
+        </p>
+        <p>
+          Facit secundum canonistas (C. Cognoscentes?!! cum sua materia: De Constitutionibus ex f£ De iuris Et Facti Ignorantia)367 cum ibi notatis per legistas. Sine culpa autem nemo humano iudicio licite potest puniri, saltem poena flagelli vt occidatur vel mutiletur, vt sanctus Thomas368 docet (22 2%*, q. 108, a. vltimo)
+        </p>
+        <p>
+Et secundum iura (ut 56? distinctio, c. Satis Peruersum; et 16, q. 7, c. Inuentum; et De Restitutione Spoliatorum, c. Conquerente 369; ex ff Ad Legem Aquiliam, L. Si Putator; Cod. De Poenis: L. Sancimus; et Cod. Ne Sacrum Baptisma Reiteretur, L. 2, et in regula Sine Culpa, Liber Sextus370,
+        </p>
+        <p>
+Minor vero probatur primo sic: ille ignorat inuincibiliter et sic excusatur a culpa qui per seipsum vel interrogando alios non potest illam ignorantiam vincere. Sed eiusmodi infideles per seipsos non possunt ea quae sunt fidei diuinare, cum sint supra  omnem facultatem naturae, nec habent?!? quem interrogent?!? vel a quo doceantur,  secundum communem cursum naturae.
+        </p>
+        <p>
+          Ergo colentes idola inuincibiliter ignorant.  Minor huius rationis patet quia primum principium scu prima veritas, quae de Deo [8Ár.] vero haberi oportet, est quod Deus est vnus et solus. Sed Deum esse non est per se notum et longe minus quod sit vnicus vel solus, quia nec insitum in rerum natura ita quod cognitis terminis statim sine aliquo discursu assentiamur?!^ illi propositioni Deus est et solus, sicut visis toto et parte statim agnoscimus quod omne totum est maius sua parte.
+        </p>
+        <p>
+          Vnde haec propositio Deus est et vnicus non est per se nota, licet sit vera et necessaria, sed tenemus eam ex fide. Item quod a multis concipientibus terminos negatur non est per se notum?7l, Sed Deum esse est huiusmodi vt in Psalpo  13*: Dixit insipiens in corde suo: non est Deus. Ergo Deum esse non est per se notum.Preterea, illud quod probatur ab aliquo non est per se notum. Sed sancti conati sunt probare Deum esse. Ergo non est per se notum.
+        </p>
+        <p>
+          Rursus, beatus Anselmus? per illam definitionem Deus est illud quo matus excogitari non potest et alii sancti et etiam philosophi conantur probare et demonstrare Deum esse. Sed nullum demonstrabile est per se notum. Si ergo Deum esse non est per se notum, sed tenetur ex fide tantum, infideles negatiue prefati non possunt Deum esse diuinare et longe minus quod sit vnus et alia fidei supernaturalia. Ergo per se ipsos non possunt suam ignorantiam vincere2!5,
+        </p>
+        <p>
+          Similiter nec habent quem nec quos interrogent a quo vel a [84v.] quibus doceantur, vt supponimus, cum omnes sint carentes fide et omnes idola colant. Quinimo  habent suos sacerdotes et suos theologos, suos prophetas vel diuinos, qui longe antequam veniant futura eis prenuntiant, quos in maxima habent reuerentia et deuotione, qui tamen eadem ignorantia laborantes docent fidei contraria. Habent denique suos reges, dominos et magistratus qui legibus suis religionem illam et idolorum cultum et caeremonias stulte precipiunt obseruari et sic?16 publica freti autoritate.
+        </p>
+        <p>
+          Nam error populi confirmatus Principis autoritate facit ius et excusat (ut in L. Barbarius, ff De Officio Presidis) et quibus proculdubio errores suos reddunt probabiles. Probabile quippe est secundum Philosophum?73, (1? Topicorum et 1? Rhetoricorum): Quod videtur omnibus aut pluribus sapientibus. Et iis vel omnibus vel plurimis vel maxime celebribus et probatis. Haec ille.
+        </p>
+        <p>
+          Et quod sic est probabile dicitur certum moraliter. Non enim tenentur per mundum vagari, vt quaerant sapientes aliarum nationum quorum consilio vel autoritate sententia, quam sequi eos contingat, reddatur probabilis; sed sufficit consulere sapientes et maiores suos vel sequi eorum exempla vel dogmata.
+        </p>
+        <p>
+          Cum igitur infideles negatiue colentes idola docere se ipsos nequeant nec alios habeant a quibus [85r.] ea quae sunt fidei doceantur, quin potius omnes sapientes, reges, satrapae, magistratus et populi cunctique plebei particulares illam religionem antiquissimi modi fulta consuetudine teneant, profiteantur et sequantur et sic sufficientia impedimenta habeant, manifestum est quod talis error vel ignorantia sit inuincibilis et probabilis et sic causa actus?!7 et quae inuoluntarium causat et per consequens culpa careat. Non enim censetur errare aut falli qui ius publicum sequitur (ut  in L. Ni/il Consensui, ff De Regulis iuris)^. Ergo illicite punirentur infideles negatiue  propter hoc quod idola colant, saltem per iudicium humanum. Et sic proculdubio Innocentius fallitur.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

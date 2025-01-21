@@ -50,185 +50,185 @@
     </front>
     <body>
       <div xml:id="lca8s8-d1e250">
-        <head>Caput 16 [Bnf 12926 Transcription]</head>
-        <p>
+        <head xml:id="lca8s8-d1e250-Hd1e97">Caput 16 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e250-d1e99">
           <lb ed="P" n="22"/>Caput 16m.
         </p>
-        <p>
-          <lb ed="#P"/><del rend="strikethrough" hand="B">Opinio ergo <name>Innocentii</name> intelligenda
-          <lb ed="#P"/>est vt supra diximus. Alias sequeretur
-          <lb ed="#P"/>quod si totum vnum regnum vel totum or<lb ed="#P" break="no"/>bem
+        <p xml:id="lca8s8-d1e250-d1e104">
+          <lb ed="#P" n="23"/><del rend="strikethrough" hand="B">Opinio ergo <name xml:id="lca8s8-d1e250-Nd1e109">Innocentii</name> intelligenda
+          <lb ed="#P" n="24"/>est vt supra diximus. Alias sequeretur
+          <lb ed="#P" n="25"/>quod si totum vnum regnum vel totum or<lb ed="#P" break="no" n="26"/>bem
           velut endiarum: vbi millia millium:
-          <lb ed="#P"/>et centies centena millium: sunt
-          <lb ed="#P"/>generationes: reperiremus infectum cri<lb ed="#P" break="no"/>minibus
+          <lb ed="#P" n="27"/>et centies centena millium: sunt
+          <lb ed="#P" n="28"/>generationes: reperiremus infectum cri<lb ed="#P" break="no" n="29"/>minibus
           innaturalibus, quod verum non
-          <lb ed="#P"/>est: aut idolatriae deditum, et hoc pro
+          <lb ed="#P" n="30"/>est: aut idolatriae deditum, et hoc pro
           <pb ed="#P" n="80-r"/>
-          <lb ed="#P"/>maiore parte certum esse credimus: omnes
-          <lb ed="#P"/>incolae illius, quae numerum superant
-          <lb ed="#P"/>stellarum essent flamis ferroque absumendi:
-          <lb ed="#P"/>quod a christi spiritu et doctrina cuius
-          <lb ed="#P"/>sanguine redempti fuerunt: maxime alie<lb ed="#P" break="no"/>num
+          <lb ed="#P" n="1"/>maiore parte certum esse credimus: omnes
+          <lb ed="#P" n="2"/>incolae illius, quae numerum superant
+          <lb ed="#P" n="3"/>stellarum essent flamis ferroque absumendi:
+          <lb ed="#P" n="4"/>quod a christi spiritu et doctrina cuius
+          <lb ed="#P" n="5"/>sanguine redempti fuerunt: maxime alie<lb ed="#P" break="no" n="6"/>num
           est et maxime absurdum</del>
         </p>
-        <p>
-          Ergo quan<lb ed="#P" break="no"/>do
-          <name>Innocentius</name> dixit quod si aliquis gentilis
-          <lb ed="#P"/>peccaret contra legem naturae aut idola co<lb ed="#P" break="no"/>leret
+        <p xml:id="lca8s8-d1e250-d1e143">
+          Ergo quan<lb ed="#P" break="no" n="7"/>do
+          <name xml:id="lca8s8-d1e250-Nd1e147">Innocentius</name> dixit quod si aliquis gentilis
+          <lb ed="#P" n="8"/>peccaret contra legem naturae aut idola co<lb ed="#P" break="no" n="9"/>leret
           posset per papam puniri exemplo
-          <lb ed="#P"/>diuini iudicii: non fuit mens sua loqui
-          <lb ed="#P"/>de omnibus gentibus vel infidelibus ab<lb ed="#P" break="no"/>solute:
-          sed de his solis qui terras vel reg<lb ed="#P" break="no"/>na
+          <lb ed="#P" n="10"/>diuini iudicii: non fuit mens sua loqui
+          <lb ed="#P" n="11"/>de omnibus gentibus vel infidelibus ab<lb ed="#P" break="no" n="12"/>solute:
+          sed de his solis qui terras vel reg<lb ed="#P" break="no" n="13"/>na
           inhabitant in quibus christianum
-          <lb ed="#P"/>fuit nomen: et certo scitur viguisse ve<lb ed="#P" break="no"/>rus
-          cultus diuinus. Alioquin <name>Innocen<lb ed="#P" break="no"/>tius</name>
-          scripsisset valde culpabiliter. Argu<lb ed="#P" break="no"/>mentum
+          <lb ed="#P" n="14"/>fuit nomen: et certo scitur viguisse ve<lb ed="#P" break="no" n="15"/>rus
+          cultus diuinus. Alioquin <name xml:id="lca8s8-d1e250-Nd1e166">Innocen<lb ed="#P" break="no" n="16"/>tius</name>
+          scripsisset valde culpabiliter. Argu<lb ed="#P" break="no" n="17"/>mentum
           autem ab euitando absurdo vel
-          <lb ed="#P"/>a ratione absurditatis: inhumanitatis vel
-          <lb ed="#P"/>inconuenientis vitanda: est validissimum
-          <lb ed="#P"/>in iure: cum sumatur a discretione natu<lb ed="#P" break="no"/>rali
-          et procedat etiam si non allegatur au<lb ed="#P" break="no"/>toritas.
+          <lb ed="#P" n="18"/>a ratione absurditatis: inhumanitatis vel
+          <lb ed="#P" n="19"/>inconuenientis vitanda: est validissimum
+          <lb ed="#P" n="20"/>in iure: cum sumatur a discretione natu<lb ed="#P" break="no" n="21"/>rali
+          et procedat etiam si non allegatur au<lb ed="#P" break="no" n="22"/>toritas.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e250-d1e185">
           Et formatur hoc modo. Non est
-          <lb ed="#P"/>asserendum id, vel sumendus ille intellectus:
-          <lb ed="#P"/>ex quo sequi posset absurditas, inhuma<lb ed="#P" break="no"/>nitas,
-          vel inconueniens. Debet enim quae<lb ed="#P" break="no"/>libet
-          dispositio sic intelligi, vt nulla se<lb ed="#P" break="no"/>quatur
+          <lb ed="#P" n="23"/>asserendum id, vel sumendus ille intellectus:
+          <lb ed="#P" n="24"/>ex quo sequi posset absurditas, inhuma<lb ed="#P" break="no" n="25"/>nitas,
+          vel inconueniens. Debet enim quae<lb ed="#P" break="no" n="26"/>libet
+          dispositio sic intelligi, vt nulla se<lb ed="#P" break="no" n="27"/>quatur
           inhumanitas vel absurditas, quia
-          <lb ed="#P"/>absurditas semper vitanda est. Hinc est
-          <lb ed="#P"/>quod pro euitanda absurditate: restringenda
-          <lb ed="#P"/>est generalis dispositio <ref>.l. 2. C. de no<lb ed="#P" break="no"/>xialibus
-          actionibus</ref>, et <ref>.l. vt gradatim, §.1. ff. de
+          <lb ed="#P" n="28"/>absurditas semper vitanda est. Hinc est
+          <lb ed="#P" n="29"/>quod pro euitanda absurditate: restringenda
+          <lb ed="#P" n="30"/>est generalis dispositio <ref xml:id="lca8s8-d1e250-Rd1e204">.l. 2. C. de no<lb ed="#P" break="no" n="31"/>xialibus
+          actionibus</ref>, et <ref xml:id="lca8s8-d1e250-Rd1e209">.l. vt gradatim, §.1. ff. de
           <pb ed="#P" n="80-v"/>muneribus et honoribus</ref> etiam statutaria vt dicit
-          <lb ed="#P"/><ref>Bartholus in l. omnes populi. in 6. q. prin<lb ed="#P" break="no"/>cipali.
+          <lb ed="#P" n="1"/><ref xml:id="lca8s8-d1e250-Rd1e216">Bartholus in l. omnes populi. in 6. q. prin<lb ed="#P" break="no" n="2"/>cipali.
           ff. de iustitia et iure</ref>. De hoc argumento
-          <lb ed="#P"/>satis scribitur et notatur. in<ref>c. venerabi<lb ed="#P" break="no"/>lem</ref>
-          et <ref>c. genesi: de electione</ref>. et in <ref>c. solite
-          <lb ed="#P"/>de maioritate et obedientia</ref>. et in <ref>c. ex ore. de pri<lb ed="#P" break="no"/>uilegiis</ref>.
-          et vtrobique doctores et in aliis innu<lb ed="#P" break="no"/>meris
-          locis vtriusque iuris canonici et ciui<lb ed="#P" break="no"/>lis.
+          <lb ed="#P" n="3"/>satis scribitur et notatur. in<ref xml:id="lca8s8-d1e250-Rd1e223">c. venerabi<lb ed="#P" break="no" n="4"/>lem</ref>
+          et <ref xml:id="lca8s8-d1e250-Rd1e228">c. genesi: de electione</ref>. et in <ref xml:id="lca8s8-d1e250-Rd1e230">c. solite
+          <lb ed="#P" n="5"/>de maioritate et obedientia</ref>. et in <ref xml:id="lca8s8-d1e250-Rd1e235">c. ex ore. de pri<lb ed="#P" break="no" n="6"/>uilegiis</ref>.
+          et vtrobique doctores et in aliis innu<lb ed="#P" break="no" n="7"/>meris
+          locis vtriusque iuris canonici et ciui<lb ed="#P" break="no" n="8"/>lis.
         </p>
-        <p>
-          Cum igitur in dictis tanti viri sci<lb ed="#P" break="no"/>licet
-          <name>Innocentii</name> merito euitanda sint tot
-          <lb ed="#P"/>tantaque inhumana absurda et inconueni<lb ed="#P" break="no"/>entia:
+        <p xml:id="lca8s8-d1e250-d1e247">
+          Cum igitur in dictis tanti viri sci<lb ed="#P" break="no" n="9"/>licet
+          <name xml:id="lca8s8-d1e250-Nd1e251">Innocentii</name> merito euitanda sint tot
+          <lb ed="#P" n="10"/>tantaque inhumana absurda et inconueni<lb ed="#P" break="no" n="11"/>entia:
           necessario restringi debet quidquid
-          <lb ed="#P"/>in hoc articulo de infidelibus dixerit ad
-          <lb ed="#P"/>illorum dumtaxat rationem pertinere qui
-          <lb ed="#P"/>(vt iam diximus) sordibus idolatriae aut
-          <lb ed="#P"/>immunditiarum loca ad ecclesiam ab olim
-          <lb ed="#P"/>pertinentia fedant. Quod autem hoc verum
-          <lb ed="#P"/>sit preterquam quod sequitur absurdum: proba<lb ed="#P" break="no"/>tur.
+          <lb ed="#P" n="12"/>in hoc articulo de infidelibus dixerit ad
+          <lb ed="#P" n="13"/>illorum dumtaxat rationem pertinere qui
+          <lb ed="#P" n="14"/>(vt iam diximus) sordibus idolatriae aut
+          <lb ed="#P" n="15"/>immunditiarum loca ad ecclesiam ab olim
+          <lb ed="#P" n="16"/>pertinentia fedant. Quod autem hoc verum
+          <lb ed="#P" n="17"/>sit preterquam quod sequitur absurdum: proba<lb ed="#P" break="no" n="18"/>tur.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e250-d1e273">
           primo. Quoniam cum regna quae
-          <lb ed="#P"/>fuerunt christianorum possidentur ab
-          <lb ed="#P"/>infidelibus et abominandis superstitio<lb ed="#P" break="no"/>nibus
-          coinquinantur: fit iniuria chris<lb ed="#P" break="no"/>to
+          <lb ed="#P" n="19"/>fuerunt christianorum possidentur ab
+          <lb ed="#P" n="20"/>infidelibus et abominandis superstitio<lb ed="#P" break="no" n="21"/>nibus
+          coinquinantur: fit iniuria chris<lb ed="#P" break="no" n="22"/>to
           cui quondam illa dicata fuerunt et
-          <lb ed="#P"/>diuino cultui consecrata: et cum iuxta
-          <lb ed="#P"/>iuris regulam semel eeo dicatum: non
-          <lb ed="#P"/>sit ad vsus humanos vlterius transfe<lb ed="#P" break="no"/>rendum:
-          multo minus ad superstitio<lb ed="#P" break="no"/>nes
+          <lb ed="#P" n="23"/>diuino cultui consecrata: et cum iuxta
+          <lb ed="#P" n="24"/>iuris regulam semel eeo dicatum: non
+          <lb ed="#P" n="25"/>sit ad vsus humanos vlterius transfe<lb ed="#P" break="no" n="26"/>rendum:
+          multo minus ad superstitio<lb ed="#P" break="no" n="27"/>nes
           impias et nephanda et flagitiosa
-          <lb ed="#P"/>criminia. Quid enim sit<!--corr: si--> ibi colatur<name>ma<lb ed="#P" break="no"/>chometes</name>
+          <lb ed="#P" n="28"/>criminia. Quid enim sit<!--corr: si--> ibi colatur<name xml:id="lca8s8-d1e250-Nd1e299">ma<lb ed="#P" break="no" n="29"/>chometes</name>
           vel inania simulachra pro vero
           <pb ed="#P" n="81-r"/>
-          <lb ed="#P"/>deo?
+          <lb ed="#P" n="1"/>deo?
         </p>
-        <p>
-          Ideo ecclesia talia tolerare aut dissi<lb ed="#P" break="no"/>mulare
+        <p xml:id="lca8s8-d1e250-d1e309">
+          Ideo ecclesia talia tolerare aut dissi<lb ed="#P" break="no" n="2"/>mulare
           non debet sed. Si adsit facultas
-          <lb ed="#P"/>vel compellere vt loca illa infideles sibi res<lb ed="#P" break="no"/>tituant
+          <lb ed="#P" n="3"/>vel compellere vt loca illa infideles sibi res<lb ed="#P" break="no" n="4"/>tituant
           aut prohibere siue etiam punire
-          <lb ed="#P"/>ne eiusmodi sordes fiant propter sui fe<lb ed="#P" break="no"/>ditatem
+          <lb ed="#P" n="5"/>ne eiusmodi sordes fiant propter sui fe<lb ed="#P" break="no" n="6"/>ditatem
           aut grauitatem per rationes et
-          <lb ed="#P"/>autoritates supra relatas. Et hanc fuisse
-          <lb ed="#P"/>mentem <name>Innocentii</name> probatur ex eius ver<lb ed="#P" break="no"/>bis:
+          <lb ed="#P" n="7"/>autoritates supra relatas. Et hanc fuisse
+          <lb ed="#P" n="8"/>mentem <name xml:id="lca8s8-d1e250-Nd1e326">Innocentii</name> probatur ex eius ver<lb ed="#P" break="no" n="9"/>bis:
           loquens enim de indulgentiis concessis
-          <lb ed="#P"/>militibus euntibus ad recuperandum
-          <lb ed="#P"/>terram sanctam subiicit rationem: <quote>quod fu<lb ed="#P" break="no"/>it
+          <lb ed="#P" n="10"/>militibus euntibus ad recuperandum
+          <lb ed="#P" n="11"/>terram sanctam subiicit rationem: <quote xml:id="lca8s8-d1e250-Qd1e335">quod fu<lb ed="#P" break="no" n="12"/>it
           consecrata natiuitate habitatione et
-          <lb ed="#P"/>morte iesu christi et in qua non colitur chris<lb ed="#P" break="no"/>tus,
-          sed <name>machometus</name>: iuste potest papa
-          <lb ed="#P"/>reuocare vt incolatur a christiani</quote> haec ille.
+          <lb ed="#P" n="13"/>morte iesu christi et in qua non colitur chris<lb ed="#P" break="no" n="14"/>tus,
+          sed <name xml:id="lca8s8-d1e250-Nd1e343">machometus</name>: iuste potest papa
+          <lb ed="#P" n="15"/>reuocare vt incolatur a christiani</quote> haec ille.
         </p>
-        <p>
-          <lb ed="#P"/>¶ Secundo quoniam supposito quod illae prouinciae
-          <lb ed="#P"/>semel fuerint dicatae et consecratae christo:
-          <lb ed="#P"/>iam de iure pertinent ad ecclesiam: et ita
-          <lb ed="#P"/>omnes infideles ibi habitantes sunt sub<lb ed="#P" break="no"/>diti
+        <p xml:id="lca8s8-d1e250-d1e349">
+          <lb ed="#P" n="16"/>¶ Secundo quoniam supposito quod illae prouinciae
+          <lb ed="#P" n="17"/>semel fuerint dicatae et consecratae christo:
+          <lb ed="#P" n="18"/>iam de iure pertinent ad ecclesiam: et ita
+          <lb ed="#P" n="19"/>omnes infideles ibi habitantes sunt sub<lb ed="#P" break="no" n="20"/>diti
           ecclesiae ac illius legibus, quarum tamen
-          <lb ed="#P"/>capaces existunt ratione domicilii. Ex<lb ed="#P" break="no"/>terius
-          enim habitans in terra alieni prin<lb ed="#P" break="no"/>cipis:
-          eius subditus efficitur ut <ref>c. ex
-          <lb ed="#P"/>parte et in c. dilecti</ref> et<ref>c. finali de foro com<lb ed="#P" break="no"/>petenti</ref>
-          ex <ref>C. vbi petatur tutor  l. 1</ref> et ibi
-          <lb ed="#P"/>notatur per doctores et <ref>ff. de iudiciis l. heres absens
-          <lb ed="#P"/>§ proinde</ref>. Ergo in prouinciis quae quon<lb ed="#P" break="no"/>dam
+          <lb ed="#P" n="21"/>capaces existunt ratione domicilii. Ex<lb ed="#P" break="no" n="22"/>terius
+          enim habitans in terra alieni prin<lb ed="#P" break="no" n="23"/>cipis:
+          eius subditus efficitur ut <ref xml:id="lca8s8-d1e250-Rd1e368">c. ex
+          <lb ed="#P" n="24"/>parte et in c. dilecti</ref> et<ref xml:id="lca8s8-d1e250-Rd1e373">c. finali de foro com<lb ed="#P" break="no" n="25"/>petenti</ref>
+          ex <ref xml:id="lca8s8-d1e250-Rd1e378">C. vbi petatur tutor  l. 1</ref> et ibi
+          <lb ed="#P" n="26"/>notatur per doctores et <ref xml:id="lca8s8-d1e250-Rd1e383">ff. de iudiciis l. heres absens
+          <lb ed="#P" n="27"/>§ proinde</ref>. Ergo in prouinciis quae quon<lb ed="#P" break="no" n="28"/>dam
           fuere christianae ditionis: ecclesia
-          <lb ed="#P"/>peculiari de causa potius quam in aliis potest
-          <lb ed="#P"/>impias superstitiones et nephanda cri<pb ed="#P" n="81-v"/><lb ed="#P" break="no"/>mina
+          <lb ed="#P" n="29"/>peculiari de causa potius quam in aliis potest
+          <lb ed="#P" n="30"/>impias superstitiones et nephanda cri<pb ed="#P" n="81-v"/><lb ed="#P" break="no" n="1"/>mina
           et prohibere et punire.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e250-d1e399">
           ¶ Tertio quoniam
-          <lb ed="#P"/>si in eis regnis habitant christiani sub
-          <lb ed="#P"/>iugo barbarorum est maius opprobrium chris<lb ed="#P" break="no"/>tiani
-          nominis: et christiani ipsi cum infi<lb ed="#P" break="no"/>delibus
-          conuiuentes: obnoxii sunt peri<lb ed="#P" break="no"/>culo
+          <lb ed="#P" n="2"/>si in eis regnis habitant christiani sub
+          <lb ed="#P" n="3"/>iugo barbarorum est maius opprobrium chris<lb ed="#P" break="no" n="4"/>tiani
+          nominis: et christiani ipsi cum infi<lb ed="#P" break="no" n="5"/>delibus
+          conuiuentes: obnoxii sunt peri<lb ed="#P" break="no" n="6"/>culo
           ne illorum impietate coinquinentur.
-          <lb ed="#P"/>Corrumpunt enim bonos mores colloquia
-          <lb ed="#P"/>praua. Et sepe malorum consortia etiam
-          <lb ed="#P"/>bonos corrumpunt <ref>28. q. 1. c. Sepe</ref>
-          <lb ed="#P"/>quanto magis eos, <ref>qui ad vitia procliues
-          <lb ed="#P"/>sunt</ref> <ref>24. q. 3, c. resecandae</ref> et <ref>c. sed
-          <lb ed="#P"/>illud. 45. distinctio per rationes has</ref>.
+          <lb ed="#P" n="7"/>Corrumpunt enim bonos mores colloquia
+          <lb ed="#P" n="8"/>praua. Et sepe malorum consortia etiam
+          <lb ed="#P" n="9"/>bonos corrumpunt <ref xml:id="lca8s8-d1e250-Rd1e418">28. q. 1. c. Sepe</ref>
+          <lb ed="#P" n="10"/>quanto magis eos, <ref xml:id="lca8s8-d1e250-Rd1e422">qui ad vitia procliues
+          <lb ed="#P" n="11"/>sunt</ref> <ref xml:id="lca8s8-d1e250-Rd1e428">24. q. 3, c. resecandae</ref> et <ref xml:id="lca8s8-d1e250-Rd1e430">c. sed
+          <lb ed="#P" n="12"/>illud. 45. distinctio per rationes has</ref>.
         </p>
-        <p>
-          De ta<lb ed="#P" break="no"/>libus
-          infidelibus loquens <name>Innocentius</name> rec<lb ed="#P" break="no"/>te
+        <p xml:id="lca8s8-d1e250-d1e436">
+          De ta<lb ed="#P" break="no" n="13"/>libus
+          infidelibus loquens <name xml:id="lca8s8-d1e250-Nd1e440">Innocentius</name> rec<lb ed="#P" break="no" n="14"/>te
           docet posse papam prescribere cis leges
-          <lb ed="#P"/>ne christianis molesti sint: et quod si il<lb ed="#P" break="no"/>los
-          iniuriis afficiant: potest tales infide<lb ed="#P" break="no"/>les
-          priuare regnis: quae quondam chris<lb ed="#P" break="no"/>tianae
-          ditionis fuerunt. Addit autem mag<lb ed="#P" break="no"/>nam
-          causam precedere debere antequam pon<lb ed="#P" break="no"/>tifex
+          <lb ed="#P" n="15"/>ne christianis molesti sint: et quod si il<lb ed="#P" break="no" n="16"/>los
+          iniuriis afficiant: potest tales infide<lb ed="#P" break="no" n="17"/>les
+          priuare regnis: quae quondam chris<lb ed="#P" break="no" n="18"/>tianae
+          ditionis fuerunt. Addit autem mag<lb ed="#P" break="no" n="19"/>nam
+          causam precedere debere antequam pon<lb ed="#P" break="no" n="20"/>tifex
           hoc faciat ob magnam seditionem
-          <lb ed="#P"/>et tumultum, qui inde necessario orie<lb ed="#P" break="no"/>tur:
-          dummodo christiani non pericliten<lb ed="#P" break="no"/>tur.
-          Periculum autem versari intelligen<lb ed="#P" break="no"/>dum
-          est quando est periculum ne chris<lb ed="#P" break="no"/>tiani
-          a fide catholica resiliant: vel a<lb ed="#P" break="no"/>liud
-          periculum simile. Tunc enim ne ta<lb ed="#P" break="no"/>le
-          <ref>quidquam fiat omnia sunt postponenda.</ref>
+          <lb ed="#P" n="21"/>et tumultum, qui inde necessario orie<lb ed="#P" break="no" n="22"/>tur:
+          dummodo christiani non pericliten<lb ed="#P" break="no" n="23"/>tur.
+          Periculum autem versari intelligen<lb ed="#P" break="no" n="24"/>dum
+          est quando est periculum ne chris<lb ed="#P" break="no" n="25"/>tiani
+          a fide catholica resiliant: vel a<lb ed="#P" break="no" n="26"/>liud
+          periculum simile. Tunc enim ne ta<lb ed="#P" break="no" n="27"/>le
+          <ref xml:id="lca8s8-d1e250-Rd1e472">quidquam fiat omnia sunt postponenda.</ref>
         </p>
-        <p>
-          ¶ Item docet Innocentius tales infideles de<lb ed="#P" break="no"/>bere
-          permittere Euangelium in suis reg<lb ed="#P" break="no"/>nis
-          predicari alias cum peccent puniri pos<pb ed="#P" n="82-r"/><lb ed="#P" break="no"/>sunt
-          a papa. <ref>Sed de hoc infra</ref>.
+        <p xml:id="lca8s8-d1e250-d1e476">
+          ¶ Item docet Innocentius tales infideles de<lb ed="#P" break="no" n="28"/>bere
+          permittere Euangelium in suis reg<lb ed="#P" break="no" n="29"/>nis
+          predicari alias cum peccent puniri pos<pb ed="#P" n="82-r"/><lb ed="#P" break="no" n="1"/>sunt
+          a papa. <ref xml:id="lca8s8-d1e250-Rd1e485">Sed de hoc infra</ref>.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e250-d1e488">
           In suma,
-          <lb ed="#P"/>verba Innocentii scilicet quod si gentilis faciat
-          <lb ed="#P"/>contra legem naturae, intelligenda sunt
-          <lb ed="#P"/>(vt supra docuimus) vel de infidelibus qui
-          <lb ed="#P"/>habitant terras quae alias fuerunt chris<lb ed="#P" break="no"/>tianorum:
-          vel de infidelibus actu et iure sub<lb ed="#P" break="no"/>ditis
-          principibus christianis. Quod ex<lb ed="#P" break="no"/>pressum
-          est in <ref>c. archiepiscopatu, de rapto<lb ed="#P" break="no"/>ribus</ref>.
+          <lb ed="#P" n="2"/>verba Innocentii scilicet quod si gentilis faciat
+          <lb ed="#P" n="3"/>contra legem naturae, intelligenda sunt
+          <lb ed="#P" n="4"/>(vt supra docuimus) vel de infidelibus qui
+          <lb ed="#P" n="5"/>habitant terras quae alias fuerunt chris<lb ed="#P" break="no" n="6"/>tianorum:
+          vel de infidelibus actu et iure sub<lb ed="#P" break="no" n="7"/>ditis
+          principibus christianis. Quod ex<lb ed="#P" break="no" n="8"/>pressum
+          est in <ref xml:id="lca8s8-d1e250-Rd1e505">c. archiepiscopatu, de rapto<lb ed="#P" break="no" n="9"/>ribus</ref>.
           Vbi archiepiscopus quidam Siciliae punit
-          <lb ed="#P"/>Mauros peccantes contra naturam: vel in<lb ed="#P" break="no"/>telligendum
+          <lb ed="#P" n="10"/>Mauros peccantes contra naturam: vel in<lb ed="#P" break="no" n="11"/>telligendum
           est eo modo quo supra docui:
-          <lb ed="#P"/>qui scilicet subditi sunt tantum de iure
-          <lb ed="#P"/>quod vsurpatas teneant terras ecclesiae: propter
-          <lb ed="#P"/>dictas tres rationes specialitatis. Et ita
-          <lb ed="#P"/>intelligenda sunt tradita per <ref>Innocentium
-          <lb ed="#P"/>et Abbatem in decretalibus, c. in archiepiscopatu.
-          <lb ed="#P"/>de raptoribus</ref>, ev <ref>in c. nouit. de iudiciis</ref>, et omnes
-          <lb ed="#P"/>canonistas illos sequentes.
+          <lb ed="#P" n="12"/>qui scilicet subditi sunt tantum de iure
+          <lb ed="#P" n="13"/>quod vsurpatas teneant terras ecclesiae: propter
+          <lb ed="#P" n="14"/>dictas tres rationes specialitatis. Et ita
+          <lb ed="#P" n="15"/>intelligenda sunt tradita per <ref xml:id="lca8s8-d1e250-Rd1e523">Innocentium
+          <lb ed="#P" n="16"/>et Abbatem in decretalibus, c. in archiepiscopatu.
+          <lb ed="#P" n="17"/>de raptoribus</ref>, ev <ref xml:id="lca8s8-d1e250-Rd1e530">in c. nouit. de iudiciis</ref>, et omnes
+          <lb ed="#P" n="18"/>canonistas illos sequentes.
         </p>
 	    </div>
     </body>

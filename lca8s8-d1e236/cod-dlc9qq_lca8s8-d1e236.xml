@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 15 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 15 [Bnf 12926 Transcription]</title>
+          <date when="2024-11-14">Nov 14, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="74-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e236">
+        <head>Caput 15 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="26"/>Caput 15m.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Hactenus docuimus <add place="above-line" hand="B">nec</add> ecclesiam nec chris<lb ed="#P" break="no"/>tianos
+          principes <del rend="strikethrough" hand="B">non</del> posse punire paga<lb ed="#P" break="no"/>nos
+          etiam si grauissimis criminibus sint
+          <lb ed="#P"/>obnoxii. Nunc ad perfectam huius trac<lb ed="#P" break="no"/>tatus
+          cognitionem sex casus subiiciam
+          <pb ed="#P" n="75-r"/>
+          <lb ed="#P"/>in quibus ecclesia potest paganos punire,
+          <lb ed="#P"/>obiterque respondebo his quae Sepulueda
+          <lb ed="#P"/>docet prope finem secundi argumenti
+        </p>
+        <p>
+          <lb ed="#P"/>Ante omnia supponendum est ecclesiam
+          <lb ed="#P"/>tripliciter posse exercere iurisdictionem
+          <lb ed="#P"/>temporalem in infideles. membrum tertium
+          <lb ed="#P"/>videatur <ref>infra capite 37</ref><!-- actually 40 -->
+        </p>
+        <p>
+          Primo quando
+          <lb ed="#P"/>infideles habitu et actu sunt subditi ec<lb ed="#P" break="no"/>clesiae
+          vel alicui membro ecclesiae puta prin<lb ed="#P" break="no"/>cipi
+          christiano. Huiusmodi infideles
+          <lb ed="#P"/>sunt heretici de quibus <ref>supra capite 7</ref>
+          <lb ed="#P"/>disseruimus, et <ref>infra disseremus</ref>. Hi enim
+          <lb ed="#P"/>cum catholicam veritatem semel suscepe<lb ed="#P" break="no"/>rint:
+          cogendi sunt redire ad ouile christi
+          <lb ed="#P"/>Huiusmodi etiam infideles sunt iudaei
+          <lb ed="#P"/>et mauri christianis regibus subditi.
+        </p>
+        <p>
+          In hos enim cum de iure et facto sub<lb ed="#P" break="no"/>diti
+          sint potest ecclesia leges condere quod
+          <lb ed="#P"/>satis probatur ex <ref>titulo de iudaeis et
+          <lb ed="#P"/>sarracenis</ref>, et ex <ref>titulo de hereticis</ref> in
+          <lb ed="#P"/>libro <ref>decretalium</ref>, <ref>sexti</ref>, et <ref>clementinarum</ref>;
+          <lb ed="#P"/>Et <ref>c. de iudaeis, paganis et templis eorum</ref>;
+          <lb ed="#P"/>Et <ref>c. de hereticis et apostatis</ref>. Et his<lb ed="#P" break="no"/>panica
+          lingua plurimas habemus le<lb ed="#P" break="no"/>ges
+          a castellanis regibus de iudaeis et
+          <lb ed="#P"/>mauris proditas.
+        </p>
+        <p>
+          Et sic in hos iuris<lb ed="#P" break="no"/>dictio
+          contentiosa exerceri potest haec
+          <lb ed="#P"/>est etiam in inuitum, vt per doctores in
+          <lb ed="#P"/><ref>l. inter stipulantem. §. 1. ff. de verborum
+          <lb ed="#P"/>obligatione</ref>. Hoc enim legitime facit ecclesia
+          <lb ed="#P"/>cum actu et habitu principibus chris<lb ed="#P" break="no"/>tianis
+          hoc est ecclesiae membris subditi
+          <pb ed="#P" n="75-v"/>
+          <lb ed="#P"/>sunt.
+        </p>
+        <p>
+          ¶ Secundo, Ecclesia habet in
+          <lb ed="#P"/>habitu contentiosam iurisdictionem
+          <lb ed="#P"/>dumtaxat in alios infideles vt possit
+          <lb ed="#P"/>eam reducere ad actum dum casus oc<lb ed="#P" break="no"/>currerit
+          vel subsistente causa: non al<lb ed="#P" break="no"/>iter
+          propter supra inductas decem ratio<lb ed="#P" break="no"/>nes
+          presertim <ref>per illud Pauli</ref>. <quote>Quid
+          <lb ed="#P"/>mihi de his qui foris sunt iudicare?</quote>
+        </p>
+        <p>
+          Hi autem infideles sunt qui fidem chris<lb ed="#P" break="no"/>ti
+          per baptismum numquam fuerunt pro<lb ed="#P" break="no"/>fessi
+          cuiuscumque religionis cultus, <lb ed="#P" break="no"/>ritus,
+          vel sectae sint modo non sint
+          <lb ed="#P"/>iudaei: et regna sua habeant a regnis
+          <lb ed="#P"/>christianorum separata ita quod sub<lb ed="#P" break="no"/>diti
+          non existant ecclesiae vel alicui
+          <lb ed="#P"/>membri eius.
+        </p>
+        <p>
+          Diximus <quote>modo non sint
+          <lb ed="#P"/>iudaei</quote> quoniam iudaei ex crimine comis
+          <lb ed="#P"/>so ab eis: occidendo iesum christum do<lb ed="#P" break="no"/>minum
+          nostrum: sunt serui ecclesiae de
+          <lb ed="#P"/>iure vt in <ref>c. etsi iudaeos: de iudaeis 161</ref>.
+          <lb ed="#P"/><quote>Quos propria culpa submisit perpetuae
+          <lb ed="#P"/>seruituti: pietas christiana recceptet
+          <lb ed="#P"/>et sustineat</quote> et cactera. De facto autem illos ser<lb ed="#P" break="no"/>uituti
+          subiecit <ref>Constantinus iuxta
+          <lb ed="#P"/>glossam in c. consuluit de iudeis</ref>.
+        </p>
+        <p>
+          Non
+          <lb ed="#P"/>tamen proprie serui sunt nec eis inui<lb ed="#P" break="no"/>tis
+          opera imponi possunt neque contra
+          <lb ed="#P"/>ius fasque opprimendi sunt. vt in <ref>c. qui
+          <lb ed="#P"/>sincera. 45. distinctio</ref>, et in <ref>c. sicut iudaei.
+          <lb ed="#P"/>de iudicii</ref>. Diximus quoque quod non sint ec<lb ed="#P" break="no"/>clesiae
+          subditi sed habeant regna separa<pb ed="#P" n="76-r"/><lb ed="#P" break="no"/>ta
+          infideles quia quantum ad hoc vna
+          <lb ed="#P"/>eademque militat ratio in vniuersis infi<lb ed="#P" break="no"/>delibus
+          cuiuscumque regionis aut ritus
+          <lb ed="#P"/>extiterint ex rationibus superius pro<lb ed="#P" break="no"/>ductis.
+          Nemo enim poterit rationem
+          <lb ed="#P"/><!-- in CE: contentiosam iurisdictionem -->aliquam assignare differentiae
+        </p>
+        <p>
+          ¶ In
+          <lb ed="#P"/>quoscumque ergo infideles: ecclesia contentio<lb ed="#P" break="no"/>sam
+          iurisdictionem exercere potest in
+          <lb ed="#P"/>sex casibus.
+          <note place="margint-right" hand="E">
+              Sex casus in
+              quibus ecclesia potest
+              exercere contentiosam
+              iurisdictionem
+              in quoscumque
+              infideles</note>
+        </p>
+        <p>
+          ¶ Primo si possident in<lb ed="#P" break="no"/>iuste
+          regna <del rend="strikethrough" hand="B">in</del>quibus christianam gen<lb ed="#P" break="no"/>tem
+          iniuste spoliarunt: precipue si
+          <lb ed="#P"/>in eis viuant christiani: huiusmodi
+          <lb ed="#P"/>sunt Constantinopolitanum imperium:
+          <lb ed="#P"/>Rodus, Ungaria, Belgradum, Afri<lb ed="#P" break="no"/>ca,
+          quae tota christum quondam coluit.
+          <lb ed="#P"/>Cum enim possidendo ea regna nobis in<lb ed="#P" break="no"/>ferant
+          continuam iniuriam: ecclesia iuris<lb ed="#P" break="no"/>dictionem
+          quam super cos habet habi<lb ed="#P" break="no"/>tu:
+          potest in actum deducere ad recupe<lb ed="#P" break="no"/>randum
+          per belli compulsionem, quae
+          <lb ed="#P"/>sunt sua. Nullum enim aliud reme<lb ed="#P" break="no"/>dium
+          superest.
+        </p>
+        <p>
+          Et de huius modi infidelibus
+          <lb ed="#P"/>loquitur <ref>Hostiensis in c. quod uper his.
+          <lb ed="#P"/>de voto</ref>. Ex ibi alie doctores. Et <ref>Oldraldus
+          <lb ed="#P"/>in consilio 72</ref>. Et <ref>Albericus in Rubricam c.
+          <lb ed="#P"/>de paganis et eorum templis</ref>. Vbi Hos<lb ed="#P" break="no"/>tiensis
+          et eius sequaces dicunt quod infide<lb ed="#P" break="no"/>les
+          si non recognoscunt dominium ecclesiae
+          <lb ed="#P"/>sunt indigni omni dominio et iurisdictio<lb ed="#P" break="no"/>ne.
+          Et intelligit<ref>Hostiensis de iurisdictione
+          <lb ed="#P" break="no"/>et emperio</ref> quod principes infideles ha<pb ed="#P" n="76-v"/><lb ed="#P" break="no"/>bent
+          in terris quae quondam erant chris<lb ed="#P" break="no"/>tianorum
+          et super christianos in illis dege<lb ed="#P" break="no"/>ntes:
+          vel si totus populus aut aliqua pars
+          <lb ed="#P"/>populi conuerteretur ad christum: prin<lb ed="#P" break="no"/>ceps
+          autem perserueraret adhuc in sua ceci<lb ed="#P" break="no"/>tate
+          et infidelitate.
+        </p>
+        <p>
+          Ita interpretatur <ref>an<lb ed="#P" break="no"/>tonius
+          Butrius in decretalium c. quod super</ref>
+          <lb ed="#P"/>concordans opinionem <ref>Hostiensis et In<lb ed="#P" break="no"/>nocentii
+          4 columine</ref> his verbis: <quote>istam conclu<lb ed="#P" break="no"/>sionem
+          Innocenti confirmat Hostien<lb ed="#P" break="no"/>sis
+          et temperat eam: vt infideles possent
+          <lb ed="#P"/>habere iurisdictionem in christianos
+          <lb ed="#P"/>quando infideles recognoscunt iurisdi<lb ed="#P" break="no"/>ctionem
+          ecclesiae. Nam tales possunt habere et possunt
+          <lb ed="#P"/>ex tolerantia ecclesiae
+          <lb ed="#P"/>dominia et iura habere</quote> et caetera. Vbi claret
+          <lb ed="#P"/>manifeste Hostiensem intellexisse de
+          <lb ed="#P"/>dominis infidelibus qui sub imperio suo
+          <lb ed="#P"/>habent christianos aliquos: debere domi<lb ed="#P" break="no"/>nium
+          et iurisdictionem ecclesiae recognos<lb ed="#P" break="no"/>cere
+          vt digni sint tali principatu vel do<lb ed="#P" break="no"/>minio
+          (scilicet) super fideles.
+        </p>
+        <p>
+          Et haec con<lb ed="#P" break="no"/>sonant
+          doctrinae <ref>sancti doctoris Diui Thomae
+          <lb ed="#P"/>2a 2e q. 10. aro. 10</ref> quod ecclesia <quote source="http://scta.info/resource/TAca84-d1e1324-d1e2304@65-225">licet posset iure
+          <lb ed="#P"/>suo tollere per sententiam vel ordinationem
+          <lb ed="#P"/>ius dominii vel prelationis quod princi<lb ed="#P" break="no"/>pes
+          infideles habent super christianos quia
+          <lb ed="#P"/>merito suae infidelitatis merentur amitte<lb ed="#P" break="no"/>re
+          potestatem super fideles qui transfe<lb ed="#P" break="no"/>runtur
+          in filios dei: tollerat tamen illos
+          <lb ed="#P"/>ad vitandum scandalum</quote> Haec sanctus Thomas.
+        </p>
+        <p>
+          Itaque opinio Hostiensis intelligenda est
+          <pb ed="#P" n="77-r"/>
+          <lb ed="#P"/>non indifferenter de omnibus infidelibus:
+          <lb ed="#P"/>sed de illis qui suo tempore erant (scilicet)
+          <lb ed="#P"/>quando princeps infidelis habet sub sua
+          <lb ed="#P"/>ditione christianos vel christiana regna
+          <lb ed="#P"/>vsurpauerat. Hi namque videntur teneri ad
+          <lb ed="#P"/>dominium Ecclesiae recognoscendum.
+        </p>
+        <p>
+          De aliis autem
+          <lb ed="#P"/>vt nostri indi qui neque christiana reg<lb ed="#P" break="no"/>na
+          vsurpauerunt neque christianis impe<lb ed="#P" break="no"/>rant:
+          neque vsquam ante nostram etatem hu<lb ed="#P" break="no"/>ius
+          nostri orbis nomen audierunt: absur<lb ed="#P" break="no"/>dum
+          est quod teneantur recognoscere domi<lb ed="#P" break="no"/>nium
+          ecclesiae alias sint suo principatu
+          <lb ed="#P"/>priuati: cum non habeant diuinare absque
+          <lb ed="#P"/>doctrina fidei. Quod si aliter opinio Hos<lb ed="#P" break="no"/>tiensis
+          intelligeretur: et ipsa heretica esset
+          <lb ed="#P"/>vt alibi late probabimus et magna peri<lb ed="#P" break="no"/>cula
+          in mundo et intolerabiles absurdi<lb ed="#P" break="no"/>tates
+          sequerentur.
+        </p>
+        <p>
+          ¶ Secundo ecclesia
+          <lb ed="#P"/>actu exercet iurisdictionem in paganos
+          <lb ed="#P"/>quando in prouinciis, quae quondam
+          <lb ed="#P"/>christianae ditionis fuerunt idolatriam
+          <lb ed="#P"/>exercent: vel nefandis et abominandis con<lb ed="#P" break="no"/>tra
+          naturam vitiis regionem inficiunt. Cum
+          <lb ed="#P"/>enim in eis verum sacrificium corporis
+          <lb ed="#P"/>et sanguinis christi fuerit consecratum
+          <lb ed="#P"/>veroque deo purus cultus sit exhibitus: et
+          <lb ed="#P"/>sacra sacramenta sint administrata. De
+          <lb ed="#P"/>quo<ref>sanctus Thomas 3a parte. q. 63. ar. 2. 3. 4.
+          <lb ed="#P"/>6. in c.</ref>
+        </p>
+        <p>
+          Quorum finis est vt homines ex<lb ed="#P" break="no"/>hibentes
+          gloriam et honorem vero deo sese
+          <lb ed="#P"/>illi corpore et anima prorsus subiiciant au<lb ed="#P" break="no"/>tore
+          <ref>Thoma 2a 2ae  q. 93. a. 27. c.</ref> et <ref>libro
+          <pb ed="#P" n="77-v"/>
+          <lb ed="#P"/>3. c. 119, contra gentiles</ref>: nequaquam ratio<lb ed="#P" break="no"/>ni
+          conuenit ecclesiam si illi facultas sup<lb ed="#P" break="no"/>petit
+          talia tolerare <del rend="strikethrough" hand="B">debeat</del> cum redundet
+          <lb ed="#P"/>in opprobrium et contumeliam christia<lb ed="#P" break="no"/>ni
+          nominis.
+        </p>
+        <p>
+          Hanc autem nullus christia<lb ed="#P" break="no"/>nus
+          dissimulare debet vt in <ref>c. in nonnullis.
+          <lb ed="#P"/>de iudacis</ref> ibi <quote>quoniam illius dissimulare
+          <lb ed="#P"/>non debemus opprobrium qui pro nobis
+          <lb ed="#P"/>probra nostra deleuit</quote>, et in <ref>l. Manichae<lb ed="#P" break="no"/>os
+          c. de hereticis</ref>. dicitur, <quote>publicum cri<lb ed="#P" break="no"/>men
+          <del rend="strikethrough" hand="B">dicitur</del> volumus esse quod in reli<lb ed="#P" break="no"/>gionem
+          diuinam committitur: in omnium
+          <lb ed="#P"/>fertur iniuriam</quote> et caetera. Et ius publicum
+          <lb ed="#P"/>in sacris et sacerdotibus consistit vt in
+          <lb ed="#P"/><ref>l. 1. ius publicum, ff. de iustitia et iure</ref>.
+        </p>
+        <p>
+          Hunc casum cum precedenti nominatim
+          <lb ed="#P"/>ponit <ref>Innocentius in c. maiores. de baptismo
+          <lb ed="#P"/>in fine</ref>, ubi loquens de sarracenis (inquit)
+          <lb ed="#P"/><quote>quod non sunt ab ecclesia bello impetendi
+          <lb ed="#P"/>si nec terram christianorum suis sor<lb ed="#P" break="no"/>dibus
+          fedant nec ipsorum personas im<lb ed="#P" break="no"/>pugnant</quote>
+          et caetera.
+        </p>
+        <p>
+          Illud verbum sordes sum<lb ed="#P" break="no"/>psit
+          Innocentius Ex sacris litteris vbi pre<lb ed="#P" break="no"/>cipue
+          significat idolatriam vel aliam
+          <lb ed="#P"/>abominationem immundam precipue
+          <lb ed="#P"/>contra naturam. Ita enim legimus .3.
+          <lb ed="#P"/>regum 15. regis Assa: <quote>quod abstulit effe<lb ed="#P" break="no"/>minatos
+          de terra purgauitque vniuersas
+          <lb ed="#P"/>sordes idolorum quae foecerunt patres
+          <lb ed="#P"/>eius</quote>. Et in apocalypsis c. 22or. <quote>qui nocet
+          <lb ed="#P"/>noceat adhuc: et qui in sordibus est sor<lb ed="#P" break="no"/>descat
+          adhuc</quote>.
+        </p>
+        <p>
+          Et ita intelligendum quod quod
+          <pb ed="#P" n="78-r"/>
+          <lb ed="#P"/>idem Innocentius habet in c. quod super his
+          <lb ed="#P"/>de voto 1. colu.
+          <note place="margin-right" hand="F">Quomodo Innocentius intelligendus</note>
+          vbi credit quod <quote>si gentilis
+          <lb ed="#P"/>qui non habet legem nisi naturae contra
+          <lb ed="#P"/>legem naturae facit: potest licite puniri per
+          <lb ed="#P"/>papam</quote>. Et paulo inferius: <quote>idem dico (ait)
+          <lb ed="#P"/>si idola colant. Naturale enim est: vnum
+          <lb ed="#P"/>et solum Deum creatorem colere non crea<lb ed="#P" break="no"/>turas</quote>.
+          Haec ille.
+        </p>
+        <p>
+          Hoc supplendum et in<lb ed="#P" break="no"/>telligendum
+          est: si prouinciae vbi illa
+          <lb ed="#P"/>peccata committuntur: fuerunt quondam
+          <lb ed="#P"/>populi christiani, alias sequerentur absur<lb ed="#P" break="no"/>da
+          plura quam de doctrina Hostiensis: si ab<lb ed="#P" break="no"/>solute
+          de vniuersis mundi partibus quarum
+          <lb ed="#P"/>incolae nondum fidem suscepissent nec
+          <lb ed="#P"/>in ibidem fundata fuisset ecclesia: intelli<lb ed="#P" break="no"/>geret
+          Innocentius. Tum primo quia esset con<lb ed="#P" break="no"/>tra
+          ea quae supra decem efficacibus argu<lb ed="#P" break="no"/>mentis
+          probauimus. Tum secundo quoniam Inno<lb ed="#P" break="no"/>centius
+          non probat dictum suum sed
+          <lb ed="#P"/>tantum adfert quod sodomitae, qui contra
+          <lb ed="#P"/>legem naturae peccabant: puniti sunt <lb ed="#P" break="no"/>a
+            deo. <ref>Genesis 14o</ref>.
+        </p>
+        <p>
+          <quote>Cum autem dei iudicia
+          <lb ed="#P"/>(inquit Innocentius) sint nobis exempla<lb ed="#P" break="no"/>ria:
+          non video quare papa qui est vica<lb ed="#P" break="no"/>rius
+          Christi hoc non possit, et etiam dum<lb ed="#P" break="no"/>modo
+          facultas adsit</quote>. haec Innocentius.
+          <lb ed="#P"/>Certe si omnia iudicia dei essent nobis
+          <lb ed="#P"/>imitanda: sequeretur quod ex peccato ido<lb ed="#P" break="no"/>latriae
+          et ex peccato contra naturam: essent
+          <lb ed="#P"/>occidendi pueri innocentes filii eorum
+          <lb ed="#P"/>qui talia peccata commiserunt ex eo quod deus
+          <pb ed="#P" n="78-v"/>
+          <lb ed="#P"/>ita fecerat.
+        </p>
+        <p>
+          ¶ Item propter <del rend="strikethrough" hand="B">quam ob quamuis</del> rebellionem
+          <lb ed="#P"/>vel schisma en Ecclesiam essent occidendi
+          <lb ed="#P"/>non tantum rebelles et schismatici: verum
+          <lb ed="#P"/>etiam eorum filii et vxores et omnia quae<lb ed="#P" break="no"/>cumque
+          possident essent diruenda ex eo quod <ref>numerorum c. 16</ref>. legimus Chore, Dathan,
+          <lb ed="#P"/>et Abiron
+          <add place="margin-left" hand="?">cum tabernaculis suis simul et vniuersa prita??<!-- substantia --></add>
+          ob inobedientiam in moysem
+          <lb ed="#P"/>et Aaron fuisse a terra absortos.
+        </p>
+        <p>
+          ¶ Item quod ex furto graui non solum fur esset lapi<lb ed="#P" break="no"/>dandus:
+          verum etiam eius filii, uxor, bo<lb ed="#P" break="no"/>ues,
+          oues iumenta et omnes: facultates
+          <lb ed="#P"/>cius igni essent absumenda. ex eo quod do<lb ed="#P" break="no"/>minus
+          iusserit haec fieri super <name>Acham</name>
+          <lb ed="#P"/><ref>iosue c. 7</ref>. quoniam pallium coccin<lb ed="#P" break="no"/>eum
+          et ducentos siclos partos ex preda
+          <lb ed="#P"/>hostium quam deus comburi iusserat
+          <lb ed="#P"/>subtraxisset.
+        </p>
+        <p>
+          ¶ Similiter sequeretur
+          <lb ed="#P"/>quod si pueri contumeliis incesserint pre<lb ed="#P" break="no"/>latum
+          etiam summum, essent leonibus
+          <lb ed="#P"/>obiiciendi quod <ref>regum libro 4. c. 2</ref> le<lb ed="#P" break="no"/>gimus:
+          quadraginta duos pueros fuisse
+          <lb ed="#P"/>ab vrsis discerptos quoniam <name>Heliseum prophetam</name>
+          <lb ed="#P"/>venientem in ciuitatem Bet<lb ed="#P" break="no"/>hel
+          illudentes ei his verbis interpellabant:
+          <lb ed="#P"/><quote>Ascende calue: Ascende calue</quote>: qua de cau<lb ed="#P" break="no"/>sa
+          ab <name>Eliseo</name> maledicti sunt, et ab vrsi<lb ed="#P" break="no"/>bus
+          qui e nemore exierunt discerpti.
+        </p>
+        <p>
+          Et alia iudicia Dei terribilia quae breui<lb ed="#P" break="no"/>tatis
+          gratia omittimus: quae si nobis imi<lb ed="#P" break="no"/>tanda
+          forent proculdubio plurima et ma<lb ed="#P" break="no"/>xima
+          iniusta et grauissima peccata com<pb ed="#P" n="79-r"/><lb ed="#P" break="no"/>mitteremus
+          et mille millia absurditat<subst hand="B"><del rend="strikethrough">es</del><add place="above-line">um</add></subst>
+          <lb ed="#P"/>sequerentur.
+        </p>
+        <p>
+          ¶ Ergo omnia iudicia dei
+          <lb ed="#P"/>non sunt nobis exemplaria. Neque enim
+          <lb ed="#P"/>aliquis rationem assignare poterit nisi
+          <lb ed="#P"/>friuolam quare non in istis quemadmo<lb ed="#P" break="no"/>dum
+          in illo debeamus imitari dei iudic<lb ed="#P" break="no"/>ia.
+        </p>
+        <p>
+          Ad quae tamen respondemus: Tum
+          <lb ed="#P"/>primo quia exempla seu gesta huiusmodi veteris
+          <lb ed="#P"/>testamenti sunt admiranda potius
+          <lb ed="#P"/>quam imitanda vt supra dictum est et di<lb ed="#P" break="no"/>cetur.
+          Tum secundo quia deus cum aliqua
+          <lb ed="#P"/>peccata perpetrari coeperunt: illa acerri<lb ed="#P" break="no"/>me
+          in principio consueuit punire: quo
+          <lb ed="#P"/>homines e dicto seueriissimo exemplo;
+          <lb ed="#P"/>a similibus peccatis exterre<subst hand="A vel B"><del rend="strikethrough">t</del><add place="above-line">ret</add></subst>,
+          <lb ed="#P"/>huiusmodi fuit Sodomae ruina siue submersio.
+        </p>
+        <p>
+          <lb ed="#P"/>In principio anathematum ad ingressum
+          <lb ed="#P"/>terrae promissionis punitio <name>Acham</name> et pre<lb ed="#P" break="no"/>uaricatio
+          nem primi Anathematis. Simi<lb ed="#P" break="no"/>liter
+          punitio <name>simoniae</name> primum exercen<lb ed="#P" break="no"/>tis
+          caput: acriter punita fuit super <name>Gie<lb ed="#P" break="no"/>zi</name>
+          qui a <name>Naaman</name> argentum ac vestes ac<lb ed="#P" break="no"/>cepit
+          quod illi spiritualem gratiam comuni<lb ed="#P" break="no"/>cauit.
+          <name>Giezi</name> enim et tota eius genera<lb ed="#P" break="no"/>tio
+          lepra percussa fuit a deo. Sic ex
+          <lb ed="#P"/>oriente primum euangelica luce <name>Anna<lb ed="#P" break="no"/>nia</name>
+          et <name>Sapphira</name> propter vnum dumtaxat
+          <lb ed="#P"/>mendacium: quod certam facultatum partem
+          <lb ed="#P"/>celauerunt: subito hac luce priuati sunt
+          <lb ed="#P"/><del rend="strikethrough" hand="B">hac luce</del>actuum 5o.
+        </p>
+        <p>
+          Hanc rationem red<lb ed="#P" break="no"/>dit
+          <ref>glossa ordinaria</ref> his verbis:<quote>legum
+          <pb ed="#P" n="79-v"/>
+          <lb ed="#P"/>initia semper vindictis commendantur: duo
+          <lb ed="#P"/>filii Aaron ignem offerentes consumun<lb ed="#P" break="no"/>tur.
+          Oza sustinens arcam mortuus
+          <lb ed="#P"/>est. Cecidit ille vt caeteri preuaricatores
+          <lb ed="#P"/>exemplo eius terreantur. Non causa
+          <lb ed="#P"/>quaestus tam seueram preuaricationis
+          <lb ed="#P"/>dedit sententiam: sed preuidens futura
+          <lb ed="#P"/>et zizania: quae simplicitatem ecclesiae pra<lb ed="#P" break="no"/>uis
+          moribus adulterarent. Nulla reos
+          <lb ed="#P"/>penitentia curari sed ad timorem poste<lb ed="#P" break="no"/>rorum
+          noxium germen radicitus ampu<lb ed="#P" break="no"/>tauit</quote>
+          et caetera. Et <ref>interlinealis</ref>: <quote>in principio
+        <lb ed="#P"/>haec velox vindicta: magnum timorem
+        <lb ed="#P"/>incussit</quote>.
+        </p>
+        <p>
+          Certe maior simoniae abusus
+          <lb ed="#P"/>ac maiora peccata ac nefanda crimina
+          <lb ed="#P"/>posterius commiserunt homines: circa spe<lb ed="#P" break="no"/>cies
+          prefatas: numquam tamen Deus illa
+          <lb ed="#P"/>tam acriter puniuit. De qua re tractat
+          <lb ed="#P"/><ref>magister hystoriarum super actuum c. 22
+          <lb ed="#P"/>hystoriae suae</ref> et <ref>Abulensis super iosue
+          <lb ed="#P"/>c. 7um, q. 59</ref>.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

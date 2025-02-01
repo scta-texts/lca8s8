@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 17 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 17 [Bnf 12926 Transcription]</title>
+          <date when="2024-12-05">Dec 05, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="82-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e263">
+        <head>Caput 17 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="19"/>Caput 17m.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Ad aliud autem quod <ref>Innocentius in
+          <lb ed="#P"/>dicto capo. quod super his de voto</ref>. addit
+          <lb ed="#P"/>ad papam scilicet pertinere gentilem so<lb ed="#P" break="no"/>lum
+          habentem legem naturae punire si
+          <lb ed="#P"/>colat idola (quia inquit <quote>narurale est vnum
+          <lb ed="#P"/>et solum Deum creatorem colere et non
+          <lb ed="#P"/>creaturas</quote> haec ille. Dicimus salua reueren<lb ed="#P" break="no"/>tia
+          tanti doctoris quod eius sententia si in<lb ed="#P" break="no"/>distincte
+          intelligi habeat multas ratio<lb ed="#P" break="no"/>nes
+          patitur contrarias. Ad cuius rei de<pb ed="#P" n="82-v"/><lb ed="#P" break="no"/>clarationem
+          supponendum est: quod hic inten<lb ed="#P" break="no"/>dimus
+          loqui de infidelibus quos scriptura
+          <lb ed="#P"/>sacra gentes seu gentiles appellat id est
+          <lb ed="#P"/>qui sine lege erant vel sunt, et non dum
+          <lb ed="#P"/>de fide catholica aliquid audierunt nec cre<lb ed="#P" break="no"/>diderunt.
+        </p>
+        <p>
+          Dicti autem gentiles quia ita sunt
+          <lb ed="#P"/>vt fuerunt geniti (id est) sicut in carne des<lb ed="#P" break="no"/>cenderunt
+          sub peccato (id est) idolis serui<lb ed="#P" break="no"/>entes
+          et nondum regenerati: proinde genti<lb ed="#P" break="no"/>les
+          primitus nuncupabantur. Secundum <ref>Isi<lb ed="#P" break="no"/>dorum
+          libro 8. c. 10. Ethimologiarum</ref> His enim
+          <lb ed="#P"/>plenus erat mundus quando christus ve<lb ed="#P" break="no"/>nit:
+          et apostoli ceperunt predicare. Et a doc<lb ed="#P" break="no"/>toribus
+          nostris infideles priuatiue vel ne<lb ed="#P" break="no"/>gatiue
+          vocantur: quia sunt apti nati ha<lb ed="#P" break="no"/>bere
+          fidem et non habent. Cuiusmodi sunt
+          <lb ed="#P"/>omnes quos occidentales et meridionales in<lb ed="#P" break="no"/>dos
+          nominamus.
+        </p>
+        <p>
+          ¶ Dixi si indistincte intelligi ha<lb ed="#P" break="no"/>beat:
+          propter hoc quod in aliquibus infidelibus (scili<lb ed="#P" break="no"/>cet)
+          morantibus in terris ecclesiae vel mem<lb ed="#P" break="no"/>brorum
+          eius: et in certis casibus pertine<lb ed="#P" break="no"/>ret
+          ad papam punire idola colentes pro<lb ed="#P" break="no"/>ut
+          plene ex dictis et infra dicendis col<lb ed="#P" break="no"/>ligere
+          potes.<lb ed="#P" break="no"/>
+          His sic suppositis respon<lb ed="#P" break="no"/>demus
+          per sequentem conclusionem.
+        </p>
+        <p>
+          <lb ed="#P"/>Conclusio.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Illicite punirentur saltem iudicio
+          <lb ed="#P"/>humano infideles (de quibus nobis presens
+          <pb ed="#P" n="83-r"/>
+          <lb ed="#P"/>sermo est) propter hoc dumtaxat quod idola
+          <lb ed="#P"/>colant.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Probatur conclusio sic. Nemo licite pu<lb ed="#P" break="no"/>niri
+          potest saltem humano iudicio igno<lb ed="#P" break="no"/>rans
+          inuincibiliter vel probabiliter actum
+          <lb ed="#P"/>quem<del rend="strikethrough" hand="???">cumq?</del> facit esse prohibitum: aut
+          <lb ed="#P"/>quem omittit esse preceptum etiam circa fidem.
+          <lb ed="#P"/>Sed infideles de quibus loquimur colen<lb ed="#P" break="no"/>tes
+          idola ignorant inuincibiliter seu proba<lb ed="#P" break="no"/>biliter.
+          Ergo illicite punirentur saltem
+          <lb ed="#P"/>humano iudicio, propter hoc dumtaxat
+          <lb ed="#P"/>quod colerent idola.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Consequentia patet cum maiore. quia
+          <lb ed="#P"/>qui inuincibiliter seu probabiliter actum
+          <lb ed="#P"/>aliquem facit sibi prohibitum vel omit<lb ed="#P" break="no"/>tit
+          quod est sibi preceptum. excusatur
+          <lb ed="#P"/>a culpa. Cuius ratio est <ref><!--not marked as quote-->secundum sanctum
+          <lb ed="#P"/>Thomam: quia talis ignorantia est causa
+          <lb ed="#P"/>actus vel omissionis et ideo causat in<lb ed="#P" break="no"/>uoluntarium.
+          Culpa autem vel peccatum
+          <lb ed="#P"/>non est nisi sit voluntarium. Vnde
+          <lb ed="#P"/>semper excusat nisi ipsa ignorantia sit
+          <lb ed="#P"/>peccatum. Est autem ignorantia peccatum
+          <lb ed="#P"/>quando quis ignorat ea quae tenetur sci<lb ed="#P" break="no"/>re,
+          et potest scire. Sicut apparet in cons<lb ed="#P" break="no"/>titutione
+          seu mandato papae quam om<lb ed="#P" break="no"/>nes
+          suo modo scire tenentur:</ref>
+        </p>
+        <p>
+          <ref><!--not marked as quote-->si aliquis
+          <lb ed="#P"/>nesciat per negligentiam: non excusa<lb ed="#P" break="no"/>tur
+          a culpa si contra eam faciat. Si vero
+          <lb ed="#P"/>aliquis habeat sufficiens impedimentum
+          <lb ed="#P"/>propter quod scire non potuit: puta si fuit in
+          <lb ed="#P"/>carcere vel in terris extraneis, ad quas
+          <pb ed="#P" n="83-v"/>constitutio non peruenit: vel propter aliquod
+          <lb ed="#P"/>simile: talis ignorantia excusat vt non
+          <lb ed="#P"/>peccet. Nemo enim peccat in eo quod non po<lb ed="#P" break="no"/>tuit
+          vitare.</ref> Haec <ref>sanctus Thomas 1a 2ae. q. 90. ar.
+          <lb ed="#P"/>4. ad 2um et 3um</ref>. Et <ref>de veritate q. 17. a. 3.
+          <lb ed="#P"/>c.</ref> et <ref>Quodlibetali 1o. ar. 19</ref>.
+        </p>
+        <p>
+          Facit secundum <ref>cano<lb ed="#P" break="no"/>nistas
+          c. <choice><sic>agnoscentes</sic><corr>cognoscentes</corr></choice></ref> cum sua materia.
+          <lb ed="#P"/><ref>de constitutionibus</ref> et <ref>ff. de iuris et facti ignorantia</ref>
+          <lb ed="#P"/>cum ibi notatis per legistas. Sine culpa autem
+          <lb ed="#P"/>nemo humano iudicio licite potest puni<lb ed="#P" break="no"/>ri:
+          Saltem pena flagelli vt occidatur
+          <lb ed="#P"/>vel mutiletur vt <ref>sanctus Thomas docet 2a 2ae
+          <lb ed="#P"/>q. 108. ar. vltimo</ref>.
+        </p>
+        <p>
+          Et secundum <ref>iura vt 56a
+          <lb ed="#P"/>distinctio c. satis peruersum</ref>. Et 16, q. 7. c. inuen<lb ed="#P" break="no"/>tum<!--enventum-->.
+          et <ref>de restitutione spoliatorum, c. conquerente</ref>.
+          <lb ed="#P"/>et ff. <ref>ad legem aquiliam, l. si putator</ref>. <ref>Cod. de
+          <lb ed="#P"/>poenis. l. sancimus</ref>. et <ref>Cod. ne sacrum baptisma
+          <lb ed="#P"/>reiteretur, l. 2</ref>, et in <ref>regula sine culpa.
+          <lb ed="#P"/>liber sextus</ref>.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Minor vero probatur primo
+          <lb ed="#P"/>sic: ille ignorat inuincibiliter et sic ex<lb ed="#P" break="no"/>cusatur
+          a culpa: qui per seipsum vel in<lb ed="#P" break="no"/>terrogando
+          alios non potest illam ignorantiam
+          <lb ed="#P"/>vincere. Sed eiusmodi infideles per se ip<lb ed="#P" break="no"/>sos
+          non possunt ea quae sunt fidei diui<lb ed="#P" break="no"/>nare
+          cum sint supra omnem facultatem
+          <lb ed="#P"/>naturae: nec habent <del rend="strikethrough" hand="B">quos</del> quem inter<lb ed="#P" break="no"/>rogent
+          <del rend="strikethrough" hand="B">aut consulant</del> vel a quo docean<lb ed="#P" break="no"/>tur,
+          secundum communem cursum naturae.
+        </p>
+        <p>
+          Ergo co<lb ed="#P" break="no"/>lentes
+          idola inuincibiliter ignorant. Mi<lb ed="#P" break="no"/>nor
+          huius rationis patet: quia primum
+          <lb ed="#P"/>principium seu prima veritas quae de deo
+          <pb ed="#P" n="84-v"/>
+          <lb ed="#P"/>vero haberi oportet: est quod deus est vnus et
+          <lb ed="#P"/>solus. Sed deum esse non est per se notum
+          <lb ed="#P"/>et longe minus quod sit vnicus vel solus: quia
+          <lb ed="#P"/>nec insitum in rerum natura ita quod cogni<lb ed="#P" break="no"/>tis
+          terminis statim sine aliquo discursu
+          <lb ed="#P"/>assentia<subst hand="A vel B"><del rend="strikethrough">mur</del><add place="above-line">tur</add></subst> illi propositioni: deus est et
+          <lb ed="#P"/>solus: sicut visis toto et parte statim ag<lb ed="#P" break="no"/>noscimus
+          quod omne totum est maius sua
+          <lb ed="#P"/>parte.
+        </p>
+        <p>
+          Vnde haec propositio: deus est et
+          <lb ed="#P"/>vnicus: non est per se nota: licet sit vera
+          <lb ed="#P"/>et necessaria: sed tenemus eam ex fide.
+          <lb ed="#P"/>¶ Item quod <ref>a multis concipientibus ter<lb ed="#P" break="no"/>minos
+          negatur: non est per se notum</ref>. Sed
+          <lb ed="#P"/>deum esse: est huiusmodi vt in <ref>psalmo 13</ref>. <quote>dixit
+          <lb ed="#P"/>insipiens in corde suo: non est deus</quote>. Ergo de<lb ed="#P" break="no"/>um
+          esse non est per se notum. ¶ Preterea:
+          <lb ed="#P"/>illud quod probatur ab aliquo: non est per<lb ed="#P" break="no"/>
+          se notum. Sed sancti conati sunt probare<lb ed="#P" break="no"/>
+          deum esse. Ergo non est per se notum.
+        </p>
+        <p>
+          ¶ Rur<lb ed="#P" break="no"/>sus
+          <ref>beatus Anselmus per illam definitio<lb ed="#P" break="no"/>nem</ref>
+          deus est illud quo maius excogita<lb ed="#P" break="no"/>ri
+          non potest. Et alii sancti et etiam philo<lb ed="#P" break="no"/>sophi
+          conantur probare et demonstrare<lb ed="#P" break="no"/>
+          deum esse: sed nullum demonstrabile est<lb ed="#P" break="no"/>
+          per se notum. Ergo deum esse non est per se
+          <lb ed="#P"/>notum. Si ergo deum esse non est per se<lb ed="#P" break="no"/>
+          notum, sed tenetur ex fide tantum: infi<lb ed="#P" break="no"/>deles
+          negatiue prefati non possunt deum
+          <lb ed="#P"/>esse diuinare et longe minus quod sit vnus
+          <lb ed="#P"/>et alia fidei supernaturalia. Ergo per se ipsos
+          <lb ed="#P"/>non possunt suam ignorantiam vincere
+          <lb ed="#P"/><del rend="strikethrough" hand="B">seu superare</del>.
+        </p>
+        <p>
+          ¶ Similiter nec habent
+          <lb ed="#P"/>quem nec quos interrogent a quo vel a qui<pb ed="#P" n="84-v"/><lb ed="#P" break="no"/>bus
+          doceantur. Vt supponimus) cum
+          <lb ed="#P"/>omnes sint carentes fide et omnes ido<lb ed="#P" break="no"/>la
+          colant. Quinimo habent suos sacer<lb ed="#P" break="no"/>dotes:
+          et suos theo<add place="above-line">lo</add>gos: suos prophetas<lb ed="#P" break="no"/>
+          vel diuinos qui longe antequam veniant
+          <lb ed="#P"/>futura eis prenuntiant: quos in maxima
+          <lb ed="#P"/>habent reuerentia et deuotione. Qui ta<lb ed="#P" break="no"/>men
+          eadem ignorantia laborantes docent
+          <lb ed="#P"/>fidei contraria. Habent denique suos re<lb ed="#P" break="no"/>ges
+          dominos et magistratus qui legibus su<lb ed="#P" break="no"/>is
+          religionem illam et idolorum cultum
+          <lb ed="#P"/>et caeremonias stulte precipiunt obserua<lb ed="#P" break="no"/>r<subst hand="A vel B"><del rend="strikethrough">e</del><add place="in-line">i</add></subst>:
+          <del rend="strikethrough">et</del> sic publica freti autoritate.
+        </p>
+        <p>
+          Nam
+          <lb ed="#P"/>error populi confirmatus principis au<lb ed="#P" break="no"/>toritate,
+          facit ius, et excusat ut in <ref>l.
+          <lb ed="#P"/>Barbarius .ff. de officio presidis</ref>. Et quibus pro<lb ed="#P" break="no"/>culdubio
+          errores suos reddunt probabiles.
+          <lb ed="#P"/>Probabile quippe est secundum <ref>philosophum 1 topico<lb ed="#P" break="no"/>rum</ref>
+          et <ref>1o rhetoricorum</ref>. <quote>Quod videtur omnibus
+          <lb ed="#P"/>aut pluribus, aut sapientibus. Et iis vel
+          <lb ed="#P"/>omnibus vel plurimis, vel maxime celebri<lb ed="#P" break="no"/>bus
+          et probatis</quote>. Haec ille.
+        </p>
+        <p>
+          Et quod sic est
+          <lb ed="#P"/>probabile dicitur certum moraliter. Non
+          <lb ed="#P"/>enim tenentur per mundum vagari vt
+          <lb ed="#P"/>quaerant sapientes aliarum nationum
+          <lb ed="#P"/>quorum consilio vel autoritate sententia
+          <lb ed="#P"/>quam sequi eos contingat reddatur pro<lb ed="#P" break="no"/>babilis.
+          Sed sufficit consulere sapientes
+          <lb ed="#P"/>et maiores suos: vel sequi eorum exemp<lb ed="#P" break="no"/>la
+          vel dogmata.
+        </p>
+        <p>
+          ¶ Cum igitur infi<lb ed="#P" break="no"/>deles
+          negatiue colentes idola, docere se ip<lb ed="#P" break="no"/>sos
+          nequeant nec alios habeant a quibus
+          <pb ed="#P" n="85-r"/>
+          <lb ed="#P"/>ea quae sunt fidei doceantur: quin potius
+          <lb ed="#P"/>omnes sapientes, reges, satrapas, ma<lb ed="#P" break="no"/>gistratus
+          et populi cunctique plebei par<lb ed="#P" break="no"/>ticulares:
+          illam religionem antiquissi<lb ed="#P" break="no"/>mi
+          modi fulta consuetudine teneant, profi<lb ed="#P" break="no"/>teantur
+          et sequantur, et sic sufficien<lb ed="#P" break="no"/>tia
+          impedimenta habeant: manifestum<lb ed="#P" break="no"/>
+          est quod talis error vel ignorantia sit inuin<lb ed="#P" break="no"/>cibilis
+          et probabilis et sic causa actus <del rend="strikethrough" hand="A vel B">ac<lb ed="#P" break="no"/>tus</del>
+          et quae inuoluntarium causat: et per
+          <lb ed="#P"/>consequens culpa careat. Non enim cen<lb ed="#P" break="no"/>setur
+          errare aut falli qui ius publicum
+          <lb ed="#P"/>sequitur. Ut in <ref>l. nihil consensui ff.
+          <lb ed="#P"/>de regulis iuris</ref>. Ergo illicite punirentur infi<lb ed="#P" break="no"/>deles
+          negatiue propter hoc quod idola colant, sal<lb ed="#P" break="no"/>tem
+          per iudicium humanum. Et sic
+          <lb ed="#P"/>proculdubio <name>Innocentius</name> fallitur.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

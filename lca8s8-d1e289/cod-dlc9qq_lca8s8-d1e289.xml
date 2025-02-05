@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 19 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 19 [Bnf 12926 Transcription]</title>
+          <date when="2025-02-05">Feb 05, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="89-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-CHAPTERID">
+        <head>Caput 19 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="10"/>Caput 19m.
+        </p>
+        <p>
+          <lb ed="#P"/>Ex quibus satis aperte ostenditur qua<lb ed="#P" break="no"/>liter
+          vita virtutibus adornata in fidei pre<lb ed="#P" break="no"/>dicatoribus:
+          miraculorum suppleat vicem:
+          <lb ed="#P"/>quo infideles verba vitae libenter audiant
+          <lb ed="#P"/>et videant rationabiliter illa esse credenda,
+          <lb ed="#P"/>et sic tandem illos christo lucrifaciant.
+          <lb ed="#P"/>E contrario vero si fuerit sceleribus infecta:
+          <lb ed="#P"/>maxime vastationibus terrarum: rapinis,
+          <lb ed="#P"/>inuasionibus, et occupationibus injustis do<lb ed="#P" break="no"/>miniorum
+          et rerum ipsorummet infide<lb ed="#P" break="no"/>lium:
+          et ob hoc innumeris ex ipsis occisis
+          <lb ed="#P"/>et trucidatis: quemadmodum in occiduis
+          <lb ed="#P"/>indianis regionibus semper et continue
+          <lb ed="#P"/>foecimus: quod efficaci eorum conuersioni fue<lb ed="#P" break="no"/>rimus
+          impedimento: nihil potest videri
+          <lb ed="#P"/>clarius.
+        </p>
+        <p>
+          ¶ Quocirca colligere possumus
+          <lb ed="#P"/>infidelium plurimos a fidei receptione per
+          <lb ed="#P"/>multum temporis excusari et forte per
+          <lb ed="#P"/>totam vitam quantumcumque diuturna exti<lb ed="#P" break="no"/>terit:
+          quamdiu viderint christianorum cor<pb ed="#P" n="89-v"/><lb ed="#P" break="no"/>ruptissimos
+          et detestabiles mores: etiam
+          <lb ed="#P"/>si cum talibus viri religiosi gratia predi<lb ed="#P" break="no"/>cationis
+          vadant et predicent actu. Ha<lb ed="#P" break="no"/>bent
+          enim sufficientia impedimenta ad
+          <lb ed="#P"/>credendum: immo ad audiendum et cum
+          <lb ed="#P"/>eiusmodi hominibus conuersandum: quin<lb ed="#P" break="no"/>
+          potius motiua plurima in contrarium
+          <lb ed="#P"/>habent, vt <ref>ex dictis Chrysostomi</ref> apparet.
+        </p>
+        <p>
+          S<lb ed="#P" break="no"/>criptum
+          est enim <ref>Ecclesias. 34</ref>. <ref>Vnus
+          <lb ed="#P"/>edificans et alius destruens: quid pro<lb ed="#P" break="no"/>dest
+          illi<subst hand="A vel B"><del rend="strikethrough">us</del><add place="above-line">s</add></subst>s nisi labor</ref>? Et longe maior la<lb ed="#P" break="no"/>bor
+          erit: si vnus predicat: et mille faci<lb ed="#P" break="no"/>unt
+          contrarium. Concordat <ref>Scotus in<lb ed="#P" break="no"/>
+          4. <!--Sententiarum--> distinctio 3. q. 4.</ref> vbi dicit: quod nullus te<lb ed="#P" break="no"/>netur
+          ad aliquod preceptum diuinum
+          <lb ed="#P"/>nisi per aliquem idoneum et authenticum
+          <lb ed="#P"/>sibi promulgetur vel fama veridica et
+          <lb ed="#P"/>testimonio bonorum: cui debet quilibet
+          <lb ed="#P"/>rationabiliter credere. Quod intelligit Sco<lb ed="#P" break="no"/>tus
+          de precepto vel lege positiua diuina
+          <lb ed="#P"/>vel humana: quae non est nota interius in
+          <lb ed="#P"/>corde.
+        </p>
+        <p>
+          ¶ Sed redeundo ad propositum ta<lb ed="#P" break="no"/>les
+          infideles nullum habent idoneum vel authenticum cui debeant rationabiliter fidem adhibere nec apud eos est fama veridica cum  fidei predicatores nondum viderint, vt supponimus, nec testimonio bonorum cum  omnes eiusmodi infidelitatis ignorantia detineantur. Ergo infideles negatiue non semper colendo idola peccabunt. Et per consequens illicite punientur propter hoc [90r.]  quod idola colant per judicium humanum. De quo nimirum, meo judicio, nulla videtur debere cuiquam esse ambiguitas per ea quae supra sunt allata.
+        </p>
+        <p>
+Potest??? etiam contra predicta adduci sententia communis omnium sanctorum doctorum, videlicet, quod circa ea quae sunt fidei et juris diuini necessariaque ad salutem, ignorantia inuincibilis non potest cadere, quia si facerent quod in se est Deus presto est ad eos illuminandum per gratiam suam. Ergo si non illuminantur est propter culpam suam, quia non faciunt quod in se est et sic peccant. Ergo juste propter illud peccatum possunt puniri etiam judicio humano.
+        </p>
+        <p>
+Assumptum patet per sanctum Thomam?39 (maxime in De veritate, q. 14, a. 11, ad 1") vbi loquens de homine educato inter nemora, siluas, vel feras sic ait: Hoc enim ad diuinam prouidentiam pertinet vt cuilibet prouideat de necessariis ad salutem dummodo ex parte eius non impediatur. Si enim aliquis taliter nutriatur in siluis vel inter lupos et ductum naturalis rationis sequeretur cum appetitu boni et fuga mali, certissime est tenendum quod Deus per internam inspirationem reuelaret ea quae sunt ad credendum necessaria vel aliquem fidei predicatorem dirigevet sicut misit Petrum ad Cornelium (Actuum 10?). Haec sanctus Thomas. Idem docet Ad Romanos 10 (Lectio 3)394,
+        </p>
+        <p>
+Ad hoc respondemus226, primo, quod non semper facienti quod in se est Deus presto est ad illuminandum per suam [90v.] gratiam, nisi ex intentione Dei est quod  illuminetur et gratiam recipiat et tunc infallibiliter illuminatur quis et gratiam recipit. Sic docet sanctus Thomas*95 (14 226, q. 112, a. 3 in corpore et ad 1!) vbi quaerit vtrum ex necessitate detur gratia se preparanti ad gratiam vel facienti quod in se est.
+        </p>
+        <p>
+Et respondit quod preparatio ad gratiam potest dupliciter considerari: vel secundum quod est a libero arbitrio et secundum hoc nullam necessitatem habet ad gratiae consecutionem, vel secundum quod est a Deo mouente et tunc babet necessitatem ad id ad quod ordinatur a Deo, non quidem coactionis, sed infallibilitatis, quia intentio Dei deficere  non potest... Vnde si ex intentione Dei mouentis est quod bomo cuius cor mouet gratiam consequatur, infallibiliter ipsam consequitur et caetera. Haec sanctus Thomas.
+        </p>
+        <p>
+Cum igitur his qui sunt presciti et tandem cum reprobis damnandi, ex intentione  Dei non sit impartiri gratiam vel eos illuminare, quantumcumque se preparent per liberum arbitrium vel faciant quod, in se est, non consequentur gratiam et proinde  tunc non peccant gratiam non recipiendo, quia non propter culpam quae in cis sit,  cum potius in eis sit poena quam culpa propter originale peccatum, secundum Augustinum, vbi allegabitur infra, sed quia Deus non vult eos illuminare mera sua voluntate, non propter peccata sed quia non vult, ex eo quia sicut non datur causa reprobationis [91r.] aut predestinationis ex parte nostra, ita non datur aliquando causa effectus ipsius reprobationis.
+        </p>
+        <p>
+Effectus autem reprobationis est negare gratiam et media necessaria ad consecutionem gratiae. Est autem medium per quam necessarium ad consecutionem fidei et gratiae ipsa vocatio exterior per predicatores in qua incipit impleri ipsa predestinatio, secundum Augustinum, et similiter interior qua vocat Deus inspirando. Vnde sanctus Thomas3% (Quodlib. 2%, ar”. 6%) dicit quod homo tenetur credere secundum hoc quod adiuuatur a Deo ad credendum. Adiuuatur autem a Deo aliquis tripliciter: primo, quidem, per interiorem vocationem; secundo, per doctrinam et predicationem exteriorem; tertio, per exteriora miracula. Haec ille.
+        </p>
+        <p>
+Ergo si non iuuantur a Deo per aliquod predictorum modorum vt in prescitis, non peccant non credendo aut non recipiendo gratiam. Haec insinuat Augustinus?? (in Libro De Predestinatione Sanctorum, c. 9? et 10^, et De dono perseuerantiae, c. 13? et 14?) vbi inter  caetera profunda et pulcherrima dicit, loquendo de Tyriis et Sidoniis, sic: Caeteri autem, vbi nisi in massa perditionis iusto diuino iudicio reliquuntur? Vbi Tyrii relicti sunt et Sidonii qui etiam credere potuerunt si mira illa Christi signa vidissent. Sed quoniam vt crederent non erat eis datum, etiam vnde crederent est negatum, scilicet, predicatio. Et infra: Non erant ergo sic excaecati oculi nec sic induratum cor Tiriorum et Sidoniorum  [91v.] quoniam credidissent si qualia viderunt isti, scilicet, Iudaei de quibus ibi etiam loquitur, signa vidissent, sed nec illis profuit quod poterant credere quia predestinati non erant. Haec Augustinus.
+        </p>
+        <p>
+Intelligitur ergo illa communis doctorum sententia, scilicet, quod circa necessaria ad salutem nullus habeat inuincibilem ignorantiam quia si faceret quod in se est et caetera, de his qui ad vitam eternam per Dei misericordiam sunt preordinati. Talibus enim  si facerent quod in se est certissime est tenendum quod Deus prouideret de remedio,  sed quotiens non faciunt peccant, prout dicunt sancti. Et ideo ista non obstant superius determinatis.
+        </p>
+        <p>
+Secundo?7", respondemus quod quidquid sit de peccato, scilicet, si supponamus quod peccent, tamen vltio illius peccati solum judicio diuino reseruatur et ideo exclusum est ab huiusmodi cura judicium humanum. Tum quia, vt ex dictis apparet, incertum est, immo impossibile esset inuenire aut discernere eos qui se ignorantia inuincibili tueri non possunt ab illis qui ea redduntur inculpabiles. Et ideo huius discrimen  humani judicii non est sed diuini, quia secretorum cognitor et judex est Deus (32 distinctio, c. Erubescant; ex 2, q. Á, c. Consuluisti 98. Et diuinum judicium vsurpat qui  incerta et dubia judicat (2, q. 1, Nomen Presbyteria)? nec potest humano condemnari  examine quod Deus suo reseruauit [92r.] judicio (15, q. 6, c. S¿ A Sacerdotibus)W0,
+        </p>
+        <p>
+Tum quia, sicut infra plenius docetur, peccata quae inter Deum et ipsum peccatorem dumtaxat committuntur soli judicio diuino reseruantur, sicut patet in multis, presertim in peccatis cogitationum, etiamsi judici alias competenti constarent esse grauissima. Et ideo nullus judex habet potestatem judicandi de occultis (dicto c. Erubescant, et 6, q. 1, c. Sí Omnza, et dicto c. Consuluisti)01,
+        </p>
+        <p>
+Item patet in hoc quod peccatum Judaeorum et Sarracenorum etiam subditorum christianis principibus non punitur per judicium humanum sed diuino judicio reseruatur. Vnde dicunt canonistae (in c. Quod Super His: De voto? quod Judaeum esse, et eadem ratione paganum seu Sarracenum, in se est delictum, habito respectu  ad Deum et ad poenam eternam, sed non quoad judicem et forum contentiosum, et  sic non est per homines punibile. Idem dicit Bartholust03 et alii (in L. Apud Julianum, S 1; ev ibi Jasso, $ Constat, 5 columine). Vide glossam (in c. Post Miserabilem:  De Vsuris)94,
+        </p>
+        <p>
+Cum igitur peccatum idola colentium, supposito etiam quod a peccato idolatriae  non excusentur, fiat??? inter Deum et ipsosmet peccatores dumtaxat, sitque perdifficile, immo impossibile, discerni quos ignorantia inuincibilis non excusat ac per hoc occultissima cogitatione committantur, sequitur exclusum fore humanum [92v.] judicium a cura puniendi talia peccata nisi velit temere judicium diuinum vsurpare.  Ergo veritas conclusionis docet quod illicite, scilicet, punirentur infideles negatiue  propter hoc dumtaxat, quod idola colant, saltem per judicium humanum.
+        </p>
+        <p>
+Et sic tandem satis apparet Innocentium? in hac materia enormiter falli, dum dicit ad papam  pertinere gentilem solum habentem legem naturae punire si idola colat. Ad rationem  illius, scilicet, quia naturale est vnum et solum Deum creatorem colere, concedimus  quod est naturale, sed postquam cognitus fuerit esse Deus verus et vnicus. Tunc enim  quaelibet creatura rationalis naturaliter intelliget eum esse colendum eique omnem  actum latriae, reuerentiam et sacrificium exhibendum et caetera.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

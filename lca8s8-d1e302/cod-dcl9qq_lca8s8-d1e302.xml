@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 20 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 20 [Bnf 12926 Transcription]</title>
+          <date when="2025-02-16">Feb 16, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="92-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e302">
+        <head>Caput 20 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="20"/>Caput 20m
+        </p>
+        <p>
+          Restat modo referre quae Augustinus de Anchona^t5, de numero theologorum, tenuit Libro De Potestate Papae (q. 23, art. 1? et 4?) quae tamen desumpsit ab ipso Innocentio (in c. Quod Super His: De voto, et in c. In Archiepiscopatu: De Raptoribus, et in c. Canonum: De Constitutionibus) vbi scribit Innocentius quod conditori canonum et vicario Creatoris subdita est omnis creatura *'$, Quod intelligendum est christiana baptizata, vt ex superioribus apparet et prout referendo huius Augustini [93r.] de Anchona2% verba sanctus Archiespiscopus Florentiaedt? (3* parte, titulo 22?, c. 5*, $ 8) et Syluester98 (in 51724 vtrumque referens in verbo papa, S 7) innuit ipsum Augustinum loqui de infidelibus tenentibus terras christiani populi. Et bos, dicit, et nos fatemur, subditos esse Ecclesiae vel membrorum eius de iure, licet non de facto. Quod si generaliter intellexit de omnibus infidelibus, de illis eciam qui non detinent prouincias quae quondam christianae ditionis fuerunt, longe fallitur proculdubio. Respondendum ergo est ad eius motiua et argumenta quia non obstant.
+        </p>
+        <p>
+Primo, non obstat quod Christus sua passione meruit potestatem iudiciariam super omnes creaturas, de qua re disserit sanctus Thomas? (32 pars, q. 59, a. 1, c). Et  ita quod eius ratione sibi fuit data potestas in coelo et in terra (Matthei vltimo)419,
+        </p>
+        <p>
+Ex quo2?! Augustinus!!! infert quod, cum papa sit vniuersalis vicarius Christi in  toto orbe, nemo exemptus est ab eius obedientia non magis quam ab obedientia Dei.  Huius argumenti pars vrget. Agnoscimus enim Christo fuisse datam iudiciariam  potestatem et dominium in coelo et in terra inquantum homo propter humilitatem  et ignominiam passionis et crucem. Item fatemur ingenue pontificem esse vicarium  Christi. Negamus tamen ex his sequi nullum infidelem exemptum essea iurisdictione  papae propter tria: primum, quod papa contentus est non [93v.] habere maiorem potestatem super infideles quam Christus ipse.
+        </p>
+        <p>
+Christus autem habet super eos iurisdictionem habitu, non actu, quousque baptismum suscipiant, vt supra late docuimus, et  sunt subditi quantum ad autoritatem et potestatem sibi a doctore collatam, non tamen quantum ad effectum et executionem potestatis prefatae. Habet namque illam  suspensam, vt in capite sexto ostensum est. Et hoc est subditos Christi esse habitualiter et in potentia. Vnde sunt exempt ab obedientia Christi voluntaria donec baptismum recipiant vel vsque in diem iudicii, vt in dicto capite sexto probauimus. Ergo  satis bene possunt eiusmodi infideles eximi ab obedientia vicarii Christi. Ergo summus pontifex non potest actu exercere iurisdictionem super eos.
+        </p>
+        <p>
+            Secundo, quia nullibi potest in obedientia reperiri vbi prius non fuit promissa obedientia et sic contracta subiectio, secundum illud apostoli4!2 (2% Ad Corinthios, 109): In promptu babentes vlcisci omnem inobedientiam, cum impleta fuerit. vestra obedientia. Sed infideles non promiserunt obedientiam Ecclesiae; vnde non fuit contracta subiectio. Ergo numquam possunt dici inobedientes aut rebelles aduersus eum. Non enim dici potest inobediens qui numquam obedientiam promisit (ut in L. Amissione, S Qui deficiunt, ff De Capite Minutis???.
+        </p>
+        <p>
+Docet Bartholus (in Extrauagan. Qui Sint Rebelles, in principio et in $ 7enore, in fine)*. [94r.] Quod notandum? est aduersus stupidos quosdam vel potius impios iureconsultos qui indos Hyspanorum  metu in siluas et nemora profugientes appellabant rebelles, cum illi miseri fugerent ne in seruitutem bonis spoliati abducerentur vel immani gentis ferocitate??4 trucidarentur. Cum ergo infideles numquam papae subditi fuerint, papa non potest iudicare vcl castigare eos iuxta verba Pauli supra relata.
+        </p>
+        <p>
+Tertio235, respondetur quod non ex eo quod a doctore fuerit Christo commissa omnis potestas in coelo et in terra, ideo Christus totam illam potestatem concessit vicario suo. Neque enim imperare potest angelis neque super omnes homines, quia non  super comprehensores, id est, beatos ciues iam ciuitatis supernae, neque edere miracula aut super ea quae pertinent ad potestatem excellentiae, sed tantum habet potestatem et est caput viatorum, hoc est, eorum qui tendunt per fidem ad coelestia regna. Infideles autem non sunt viatores sed potius deuiatores. Ideo papa super eos non habet actu potestatem (ut supra docuimus).
+        </p>
+        <p>
+256 Augustinus Anchona in comprobationem primi argumenti sui2?/ adducit verba Cyrilli44, Libro De 7Pesauris, vbi inquit quod Sicut Christus accepit a doctore ducatum et sceptrum Ecclesiae gentium ex Israel egredientium?38 super omnem principaum et [94v.] potestatem et super omne quodcumque est, vt ei genua cuncta curuetur 299, sic ipsi l'etro et successoribus eius plenissimam potestatem commisit. Haec ille. Haec verba parum vrgent quoniam illa aduerbia sicut et sic non significant paritatem sed similitudinem, iuxta illud: Diliges proximum tuum sicut teipsum^5, hoc est, quemadmodum natura homo seipsum diligit, ita etiam et diligat proximum. Non tamen significat vt teneatur amare hominem tantum quantum seipsum
+        </p>
+        <p>
+Ita etiam illa verba Cyrilli significant quod quemadmodum Christus accepit a doctore ducatum et sceptrum Ecclesiae, quae adunanda erat ex gentibus, sic etiam, hoc est, similiter, concessit l'etro et eius successoribus plenissimam potestatem, tantam, inquam, quanta esse necessaria ad directionem, gubernationem et conseruationem Ecclesiae. Non tamen infertur ex illis verbis Petrum et eius successores parem in omnibus potestati Christi potestatem habere, vt supra in exceptione premissa ostendimus.
+        </p>
+        <p>
+Rursus haec similitudo potestatis papae ad potentiam Christi est similitudo proportionis, videlicet, quod sicut in Christo est illa potestas excellentiori modo, inquantum simul est Deus et homo, et tali modo operatur per eam excellentius quam alius quicumque homo, ita est in papa, vicario eius. Licet sit potestas [95r.] diuina collata ei a Deo et homine, recipit tamen illam vt purus homo et vtitur ea suo modo Christum imitando prout necessarium et conueniens est ad directionem, gubernationem et conseruationem vniuersalis Ecclesiae sibi commissae atque salutem. Et sic patet aduerbia illa s/cuz et /ta non significare aequalitatem omnimodam sed similitudinem proportionis.
+        </p>
+        <p>
+Tertio, Cyrillus ibi non scribit Christum accepisse speciatim sceptrum super infideles actu, licet autoritate et potestate habeat super omnes creaturas eminentiam et dominium et regimen, sed dicit accepisse sceptrum et regimen Ecclesiae ac in Ecclesia, quae colligenda et adunanda erat ex omnibus gentibus, quas in hereditatem postulauerat et a doctore acceperat iuxta Prophetam249 (Psalpus 295): Postula a me et dabo tibi gentes in hereditatem tuam et possessionem tuam terminos terrae 416. Supra et intra hanc Ecclesiae sceptrum et potestatem dignitatemque regalem Christus accepit, prout ad propositum attinet, quantum ad effectum (secundum illud eiusdem Psa/mi 2): Ego autem constitutus sum Rex ab eo super Sion, montem sanctum eius, predicans preceptum eius*".
+        </p>
+        <p>
+Hunc montem Diuus Augustinustl8 interpretatur Ecclesiam: Super Ecclesiam, inquit, sanctam eiusque montem appellat propter eminentiam et firmitatem. Quemadmodum ergo Christus modo suo constitutus est a doctore, [95v.] in quantum homo, princeps super omnes principes terrae, (Apocalypsis 1?)419, et actu est Rex intra Ecclesiam et habitu extra Ecclesiam, prout iam sepe ostensum est, ita etiam vicarius eius modo suo actu habet potestatem intra Ecclesiam in qua obtinet principatum et regalem dignitatem, regimen spirituale ac, per quandam consequentiam, potestatem temporalem super omne regnum et principatum qui contigerit esse intra Ecclesiam, habitu vero extra Ecclesiam, id est, in infideles.
+        </p>
+        <p>
+Quarto, licet Cyrillus*?? dicat super omnem principatum et potestatem et super omne quodcumque est, intelligenda sunt haec verba super omnia illa quae continentur intra Ecclesiam, id est, super omnes principes christianos et regna eorum et dignitates et potestates spirituales et temporales in his, scilicet, quae sunt necessaria ad  salutem et rectam gubernationem gregis christiani. Verba enim vniuersalia, non solum in iure et in doctrina sacrorum doctorum sed etiam Sacrae Scripturae, recipiunt quandoque restrictionem et limitationem, interdum commodam distributionem.
+        </p>
+        <p>
+Quod theologi?! notant (1? Sententiarum, distinctio 46; vt illud Matthei 3?): Exibat ad ioanem Hierosolyma et omnis iudaea et omnis regio circa Iordanem *?*. Exenim illa  verba omnis iudaea et omnis regio non sunt intelligenda omnino vniuersaliter, scilicet, quod omnes, nemine dempto, exiuerint, sed quod [96r.] maior aut magna pars gentis exiuerit. Sic intelligitur illud /saize (4?): Et videbit omnis caro salutare Dei 923. Non enim omnes orbis homines viderunt Christum in carne. Eiusdem rationis24l: Est bonum et acceptum coram saluatore nostro qui omnes bomines vult saluos fieri ^^.
+        </p>
+        <p>
+Non tamen vult Deus morientes in peccato mortali saluos fieri, sed seruantes precepta eius vsque ad mortem. Neque adhuc illi salutem consequuntur absque gratia Dei, vt ibi sanctus Thomas95 notat: vult omnes bomines, et caetera. Et hic est distributio accommoda quae habiles ad id comprehendit, scilicet, veros christianos quibus conuenit saluos fieri. Et ad destructionem consequentis sufficit dare instantiam.
+        </p>
+        <p>
+Vnde, quamuis  diuina scriptura sepe secundum vocem terminis vniuersalibus vtatur, non tamen distribuuntur vniuersaliter nisi tantum pro illis quibus conuenit predicatum, vt illud ioanis (119): Totus mundus vadit post illum**6. Et est hyperbole tropus. Et est figura  grammaticalis, id est, locutio secundum modum loquendi. Quod etiam Hieronimus  docet in Epistola ad Damasum papam?! vbi interpretans de populo ludaico illa verba quae dicuntur filio prodigo (Lucae 159):
+        </p>
+        <p>
+Fili, tu mecum es et omnia mea tua suntW8,  inquit: Quomodo autem. Dei omnia iudaeorum sunt? numquid angeli, throni, dominationes, caeteraeque virtutes? Der omnia ergo intelligimus legem, prophetas, eloquiaque  diuina, secundum illum modum quem sepe exposuimus, scripturarum omnia non [96v.]  ad totum referenda esse sed ad partem maximam, vt ibi: Omnes declinauerunt, simul inutiles facti sunt; et alibi: Omnes quotquot venerunt ante me fures fuerunt, et caetera. Haec  Hieronimus.
+        </p>
+        <p>
+Ex quo apparet autoritates Scripturae Sacrae, licet in voce sonent vniuersaliter, recipiunt tamen limitationem et restrictionem. Hanc recipit autoritas illa Matthei (16?):  Quodcumque ligaueris super terram, erit ligatum et in coelis «P. Limitatur claue non errante, iuxta glossam et doctores (in c. Literas: De restitutione Spoliatorum)9. Et illud  ioanis (16%): Cum venerit Spiritus veritatis, docebit vos omnem veritatem 1, omnem,  scilicet, pertinentem ad predicationem et propagationem Euangelii et salutem hominum, non veritates pertinentes ad philosophiam, cosmographiam, geometriam et similes artes.
+        </p>
+        <p>
+Ideo glossa ibi interpretatur: veritatem saluti necessariam ?9?. Sic etiam  intelligendus textus in c. Solitae: De Maioritate Et Obedientia, nihil excipiens qui dixit  quodcumque, ex c. Si Romanorum, 19 distinctio: intelligitur namque de omni necessario et vtili ad Ecclesiae directionem in finem beatitudinis. Sic etiam in iure ciuili  verba generalia restringuntur et intelliguntur de habilibus et capacibus. Exemplum est  in L. 1, c. De Sacrosancti Ecclesiis 94.
+        </p>
+        <p>
+Ex ibi notant doctores, vbi dicitur: Pabeat  vnusquisque licentiam in testamento relinquere piis locis. Quod intelligitur secundum  glossam: vnusquisque habilis ad testandum 535. [971.] Item restringitur verbum vniuersale ad naturam subiectae materiae. Sic Baldus, exponens illud c. Canonum statuta ab omnibus custodiantu?*r?: De Constitutionibus; et referens verba Innocentii, scilicet, quod. Conditori canonum et vicario Christi subiecta est omnis creatura, inquit quod si constitutiones papae possunt aptari omnibus, puta infidelibus, tunc tantum comprehendunt subditos papaef36. Simile videmus in L. 1, et ibi notant doctores (Cod. De Suma Trinitate, et in c. Licet evin c. Graue: De Officio Ordinarii, et in d. c. Canonum, et in c. vltimo: De Constitutionibus, et in L. Lucius, f£ De Testamento Militis 9.
+        </p>
+        <p>
+Semper enim verba generalia restringenda sunt ita vt nulla sequatur absurditas vel iniquitas vel scandalum, vt satis probatum est. Quod prolixe docet Antonius8 in dicto c. Canonum, columine 5, et caeteri doctores ibi. Illa ergo verba generalia Cyrilli restringenda sunt ad omnia quae continentur in Ecclesia, vt probatum est, quoniam, si aliter intelligimus eius verba, repugnant verbis Pauli et generaliter intellecta gignerent absurda, puta, quod papa posset punire non subditos nec sunt de foro eius  ob crimina quae committunt intra limites alieni territorii, quod est falso falsius, vt supra decem argumentis et sanctorum patrum autoritatibus probauimus.
+        </p>
+        <p>
+Quis enim censeat puniendos indos [97v.] idolatras qui numquam ne per famam  quidem Christum nec christianos vsque ad nostram etatem audierant et sic omni culpa et malitia vacant? Et christiana lenitas huiusmodi homines fouet, non persequitur et affligit; docet, non cogit vel punit.
+        </p>
+        <p>
+Sunt enim huiusmodi infideles poenarum spiritualium directe vel indirecte incapaces, puta, excommunicationis et similium, multo magis poenarum temporalium quae papa velit illis propter crimina dare. Antecedens patet. Quod directe non possunt excommunicari est clarum, quoniam qui extra Ecclesiam existit non potest ab ea exulari (11, q. 3, c. Omnis christianus)^9.Ouod nec indirecte quoque, quod tunc fit quando Ecclesia excommunicat fideles ne communicent cum infidelibus in poenam infidelium pro certis casibus. Etiam patet quia supponimus quod tales infideles, vt indi sunt et similes, nullam culpam committunt specialem ob quam merito subire debeant poenam eiusmodi, cum degant in terris propriis a nostris longe separatis. Ergo multo magis eiusmodi infideles sunt poenarum temporalium vel corporalium ab Ecclesia infligendarum incapaces.
+        </p>
+        <p>
+Consequentia probatur, quoniam Ecclesia non iudicat de personis secularibus  nisi ratione animae, vt per doctores*4? (in c. Gaudemus: De diuortiis, et in c. vltimo:  Qui Filii Sint Legitimi, ev in c. De Infidelibus: De Consanguinitate et Affinitat^e. De  Animabus autem [98r.] infidelium, nisi baptismum suscipiant, non pertinet2£? ad Ecclesiam iudicare, vt patet ex superioribus. Ergo nullo modo potest Ecclesia illis ob crimina infligere poenam temporalem, quoniam iurisdictio quam Ecclesia habet in temporalibus est in ordine ad spiritualia, et per quandam consequentiam, extra terras temporaliter sibi subiectas, secundum veram et catholicam sententiam tam  canonistarum quam theologorum et etiam sanctorum.
+        </p>
+        <p>
+Vbi ergo dabitur non habere iurisdictionem vel potestatem spiritualem vel in spiritualibus, negabitur consequenter habere illam in temporalibus. Patet consequentia per locum a destructione antecedentis ad destructionem consequentis244; quae argumentatio habet locum quotiens termini sunt conuertibiles, vt sunt rationale et  homo. Sic est hic, quia iurisdictio temporalis vel super temporalia conuertitur cum iurisdictione spirituali vel venit in consequentiam ad spiritualem in iudicibus Ecclesiasticis vel spiritualibus in quibusdam casibus in ordine ad spiritualia, id est, inquantum necesse est ad administrationem liberam rerum spiritualium (ut patet in c.Per venerabilem, S Rationibus, extra, Qui Filii Sint Legitimi ev in c. Nouit: De iudiciis *?.Ex vtrobique notatur late per doctores et in multis aliis locis.
+        </p>
+        <p>
+Cum igitur in casu isto, id est, infidelibus de quibus hic tractamus, Ecclesia non habeat iurisdictionem spiritualem nec poenas inferre propter spiritualia, sequitur quod nec poenas infligere temporales seu corporales regulariter, [98v.] et caetera. Itaque ratio qua iudices Ecclesiastici exercent iurisdictionem temporalem est iurisdictio spiritualis in tota Ecclesia vniuersali. Sunt enim infideles huiusmodi suppositi omnino poenarum incapacies, directe, videlicet, excommunicationis, interdicti, et eiusmodi quae pertinent ad  iurisdictionem spiritualem, propter quod dicuntur preceptis et poenis canonicis non  arctari (ut in dicto c. Gaudemus: De Dinortiis et 2, q. 1, c. Multi, et 11, q. 3, c. Omnis christianus 3, Et edam indirecte, quia supponimus quiete ac pacifice quoad nos in regnis suis viuere nec aliquas speciales molestias siue culpas in nos committere.
+        </p>
+        <p>
+Ergo etiam temporalium poenarum infligendarum a quocumque iudice Ecclesiastico vel spirituali sunt incapaces, vt probatum est.
+        </p>
+        <p>
+Hanc consequentiam probat communis canonistarum opinio aduersus Innocentium (in c. Quod Super His: De voto, et in c. Gaudemus, et in dicto c. Canonum Statuta)^^^. Et ibi Antonius de Butrio et Abbas et Felinus4$ (9 columine) ibi: Fa/li Ergo; et doctores (in c. De Infidelibus: De Consanguinitate Et Affinitate ex in c. finali: Qui Filii Sint Legitimi4S; ct Petrus Ancharanus in regula: £a Quae, in 15 columine et inregula*47: Peccatum, 15 columine et in Consilio, incipiens: Spzritualis Iudex; et Cardinalis Zabarela?4, in Clementina Pastoralis, in 2? notabili, vbi inquit quod potestas papae concernit populum christianum tantum et sic non concernit sectas aliorum cum nihil ad nos de his qui foris sunt iudicare et caetera; et in Clementinis 1, 4 columine: De  Vsuris; et [99r.] ioanes de Anania*? in rubrica et in c. Ex Speciali: De iudaeis).
+        </p>
+        <p>
+Et  alii*** aliis in locis scribunt quod infideles quoad poenas temporales subditi sunt principibus secularibus sub cuius imperio viuunt, non vero Ecclesiae nisi in casibus in  quibus Ecclesia iurisdictionem exercere potest super homines seculares, qui notantur! in c. Multi, 2, q. 1, per dominicum et alios et ita intelligitur c. Constituit, 17,q. 4; glossa in c. Saepe, 28, q. 1, et satis probatur in c. /n Archiepiscopatu: De Raptoribus, et in c. Post Miserabilem: De Vsuris, cum ibi notatis per doctorest3?,
+        </p>
+        <p>
+De paganis autem qui in separatis et propriis regnis degunt, extra casus superius notatos et qui inferius etiam memorabuntur, nec ad Ecclesiam spectat neque ad christianos principes punire peccata quae precise intra limites infidelitatis et territoriorum suorum committunt, prout euidenter per supra probata constat.
+        </p>
+        <p>
+Quod si ad Ecclesiam cui Deus curam totius orbis commisit, quemadmodum tactum est supra et inferius etiam videbitur, non pertinet punitio eiusmodi peccatorum, longe minus licet principibus christianis se de vtenda coercitiua iurisdictione intromittere, quorum potestas et iurisdictio extra limites cuiuscumque regni, prouinciae, aut territori], sicut supra probatum fuit, est nullius momenti aut autoritatis.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

@@ -89,9 +89,9 @@
         </p>
         <p>
           S<lb ed="#P" break="no"/>criptum
-          est enim <ref>Ecclesias. 34</ref>. <ref>Vnus
+          est enim <ref>Ecclesias. 34</ref>. <quote source="http://scta.info/resource/sir34_28">Vnus
           <lb ed="#P"/>edificans et alius destruens: quid pro<lb ed="#P" break="no"/>dest
-          illi<subst hand="A vel B"><del rend="strikethrough">us</del><add place="above-line">s</add></subst>s nisi labor</ref>? Et longe maior la<lb ed="#P" break="no"/>bor
+          illi<seg type="correction"><subst hand="AB"><del rend="strikethrough">us</del><add place="above-line">s</add></subst></seg> nisi labor</quote>? Et longe maior la<lb ed="#P" break="no"/>bor
           erit: si vnus predicat: et mille faci<lb ed="#P" break="no"/>unt
           contrarium. Concordat <ref>Scotus in<lb ed="#P" break="no"/>
           4. <!--Sententiarum--> distinctio 3. q. 4.</ref> vbi dicit: quod nullus te<lb ed="#P" break="no"/>netur
@@ -311,10 +311,40 @@
           de vsuris</ref>,
         </p>
         <p>
-Cum igitur peccatum idola colentium, supposito etiam quod a peccato idolatriae  non excusentur, fiat??? inter Deum et ipsosmet peccatores dumtaxat, sitque perdifficile, immo impossibile, discerni quos ignorantia inuincibilis non excusat ac per hoc occultissima cogitatione committantur, sequitur exclusum fore humanum [92v.] judicium a cura puniendi talia peccata nisi velit temere judicium diuinum vsurpare.  Ergo veritas conclusionis docet quod illicite, scilicet, punirentur infideles negatiue  propter hoc dumtaxat, quod idola colant, saltem per judicium humanum.
+          Cum igitur peccatum
+          <lb ed="#P"/>idola colentium, supposito etiam quod a pec<lb ed="#P" break="no"/>cato
+          idolatriae non excusentur: fia<del rend="strikethrough" hand="A vel B">n</del>t in<lb ed="#P" break="no"/>ter
+          deum et ipsosmet peccatores dumtaxat.
+          <lb ed="#P"/>sitque perdifficile, immo impossibile, discer<lb ed="#P" break="no"/>ni
+          quos ignorantia inuincibilis non excu<lb ed="#P" break="no"/>sat:
+          ac per hoc occultissima cogitatione com<lb ed="#P" break="no"/>mittantur:
+            sequitur exclusum fore <choice><sic>huma</sic><corr><!--should be empty--></corr></choice>
+          <pb ed="#P" n="92-v"/>
+          <lb ed="#P"/>humanum judicium a cura puniendi ta<lb ed="#P" break="no"/>lia
+          peccata nisi velit temere judicium
+          <lb ed="#P"/>diuinum vsurpare. Ergo veritas conclusio<lb ed="#P" break="no"/>nis
+          claret. Quod illicite (scilicet) punirentur
+          <lb ed="#P"/>infideles negatiue propter hoc dumtaxat
+          <lb ed="#P"/>quod idola colant saltem per judicium huma<lb ed="#P" break="no"/>num.
         </p>
         <p>
-Et sic tandem satis apparet Innocentium? in hac materia enormiter falli, dum dicit ad papam  pertinere gentilem solum habentem legem naturae punire si idola colat. Ad rationem  illius, scilicet, quia naturale est vnum et solum Deum creatorem colere, concedimus  quod est naturale, sed postquam cognitus fuerit esse Deus verus et vnicus. Tunc enim  quaelibet creatura rationalis naturaliter intelliget eum esse colendum eique omnem  actum latriae, reuerentiam et sacrificium exhibendum et caetera.
+          <add place="margin-left" hand="F">
+              Contra Innocentium qui dixit
+              papam posse punire
+              gentem quia idola colit</add>
+          Et sic tandem satis apparet In<lb ed="#P" break="no"/>nocentium
+          in hac materia enormiter
+          <lb ed="#P"/>falli. Dum dicit ad papam pertinere
+          <lb ed="#P"/>gentilem solum habentem legem naturae
+          <lb ed="#P"/>punire si idola colat. Ad rationem illius
+          <lb ed="#P"/>(scilicet) quia naturale est vnum et solum de<lb ed="#P" break="no"/>um
+          creatorem colere. Concedimus quod est
+          <lb ed="#P"/>naturale: sed postquam cognitus fuerit esse<lb ed="#P" break="no"/>
+          Deus verus et vnicus. Tunc enim queli<lb ed="#P" break="no"/>bet
+          creatura rationalis naturaliter intel<lb ed="#P" break="no"/>liget
+          eum esse colendum eique omnem ac<lb ed="#P" break="no"/>tum
+          latriae reuerentiam et sacrificium
+          <lb ed="#P"/>exhibendum et caetera.
         </p>
 	    </div>
     </body>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 19 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 19 [Bnf 12926 Transcription]</title>
+          <date when="2025-02-05">Feb 05, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="89-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-CHAPTERID">
+        <head>Caput 19 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="10"/>Caput 19m.
+        </p>
+        <p>
+          <lb ed="#P"/>Ex quibus satis aperte ostenditur qua<lb ed="#P" break="no"/>liter
+          vita virtutibus adornata in fidei pre<lb ed="#P" break="no"/>dicatoribus:
+          miraculorum suppleat vicem:
+          <lb ed="#P"/>quo infideles verba vitae libenter audiant
+          <lb ed="#P"/>et videant rationabiliter illa esse credenda,
+          <lb ed="#P"/>et sic tandem illos christo lucrifaciant.
+          <lb ed="#P"/>E contrario vero si fuerit sceleribus infecta:
+          <lb ed="#P"/>maxime vastationibus terrarum: rapinis,
+          <lb ed="#P"/>inuasionibus, et occupationibus injustis do<lb ed="#P" break="no"/>miniorum
+          et rerum ipsorummet infide<lb ed="#P" break="no"/>lium:
+          et ob hoc innumeris ex ipsis occisis
+          <lb ed="#P"/>et trucidatis: quemadmodum in occiduis
+          <lb ed="#P"/>indianis regionibus semper et continue
+          <lb ed="#P"/>foecimus: quod efficaci eorum conuersioni fue<lb ed="#P" break="no"/>rimus
+          impedimento: nihil potest videri
+          <lb ed="#P"/>clarius.
+        </p>
+        <p>
+          ¶ Quocirca colligere possumus
+          <lb ed="#P"/>infidelium plurimos a fidei receptione per
+          <lb ed="#P"/>multum temporis excusari et forte per
+          <lb ed="#P"/>totam vitam quantumcumque diuturna exti<lb ed="#P" break="no"/>terit:
+          quamdiu viderint christianorum cor<pb ed="#P" n="89-v"/><lb ed="#P" break="no"/>ruptissimos
+          et detestabiles mores: etiam
+          <lb ed="#P"/>si cum talibus viri religiosi gratia predi<lb ed="#P" break="no"/>cationis
+          vadant et predicent actu. Ha<lb ed="#P" break="no"/>bent
+          enim sufficientia impedimenta ad
+          <lb ed="#P"/>credendum: immo ad audiendum et cum
+          <lb ed="#P"/>eiusmodi hominibus conuersandum: quin<lb ed="#P" break="no"/>
+          potius motiua plurima in contrarium
+          <lb ed="#P"/>habent, vt <ref>ex dictis Chrysostomi</ref> apparet.
+        </p>
+        <p>
+          S<lb ed="#P" break="no"/>criptum
+          est enim <ref>Ecclesias. 34</ref>. <quote source="http://scta.info/resource/sir34_28">Vnus
+          <lb ed="#P"/>edificans et alius destruens: quid pro<lb ed="#P" break="no"/>dest
+          illi<seg type="correction"><subst hand="AB"><del rend="strikethrough">us</del><add place="above-line">s</add></subst></seg> nisi labor</quote>? Et longe maior la<lb ed="#P" break="no"/>bor
+          erit: si vnus predicat: et mille faci<lb ed="#P" break="no"/>unt
+          contrarium. Concordat <ref>Scotus in<lb ed="#P" break="no"/>
+          4. <!--Sententiarum--> distinctio 3. q. 4.</ref> vbi dicit: quod nullus te<lb ed="#P" break="no"/>netur
+          ad aliquod preceptum diuinum
+          <lb ed="#P"/>nisi per aliquem idoneum et authenticum
+          <lb ed="#P"/>sibi promulgetur vel fama veridica et
+          <lb ed="#P"/>testimonio bonorum: cui debet quilibet
+          <lb ed="#P"/>rationabiliter credere. Quod intelligit Sco<lb ed="#P" break="no"/>tus
+          de precepto vel lege positiua diuina
+          <lb ed="#P"/>vel humana: quae non est nota interius in
+          <lb ed="#P"/>corde.
+        </p>
+        <p>
+          ¶ Sed redeundo ad propositum ta<lb ed="#P" break="no"/>les
+          infideles nullum habent idoneum vel
+          <lb ed="#P"/>authenticum cui debeant rationabiliter fi<lb ed="#P" break="no"/>dem
+          adhibere: nec apud eos est fama ve<lb ed="#P" break="no"/>ridica
+          cum fidei predicatores nondum
+          <lb ed="#P"/>viderint vt supponimus nec testimonio
+          <lb ed="#P"/>bonorum cum omnes eiusmodi infidelitatis
+          <lb ed="#P"/>ignorantia detineantur. Ergo infideles nega<lb ed="#P" break="no"/>tiue
+          non semper colendo idola peccabunt.
+          <lb ed="#P"/>Et per consequens illicite punientur propter hoc
+          <pb ed="#P" n="90-r"/>
+          <lb ed="#P"/>quod idola colant per judicium humanum.
+          <lb ed="#P"/>De quo nimirum meo judicio nulla vide<lb ed="#P" break="no"/>tur
+          debere cuiquam esse ambiguitas per ea quae
+          <lb ed="#P"/>supra sunt allata.
+        </p>
+        <p>
+          <add place="margin-right" hand="F">objectio</add>
+          ¶ Potest etiam contra predicta adduci sen<lb ed="#P" break="no"/>tentia
+          communis omnium sanctorum do<lb ed="#P" break="no"/>ctorum
+          (videlicet) quod circa ea quae sunt fidei
+          <lb ed="#P"/>et juris diuini necessariaque ad salutem: ig<lb ed="#P" break="no"/>norantia
+          inuincibilis non potest cadere.
+          <lb ed="#P"/>Quia si facerent quod in se est deus pres<lb ed="#P" break="no"/>to
+          est ad eos illuminandum per gratiam
+          <lb ed="#P"/>suam. Ergo si non illuminantur est propter cul<lb ed="#P" break="no"/>pam
+          suam quia non faciunt quod in se
+          <lb ed="#P"/>est et sic peccant. Ergo juste propter illud peccatum
+          <lb ed="#P"/>possunt puniri etiam judicio humano.
+        </p>
+        <p>
+          As<lb ed="#P" break="no"/>sumptum
+          patet per <ref>sanctum Thomam maxime
+          <lb ed="#P"/>in de veritate. q. 14. ar. 11, ad 1m.</ref> vbi loquens
+          <lb ed="#P"/>de homine educato inter nemora siluas
+          <lb ed="#P"/>vel feras sic ait. <quote>Hoc enim ad diuinam
+          <lb ed="#P"/>prouidentiam pertinet vt cuilibet prouide<lb ed="#P" break="no"/>at
+          de necessariis ad salutem: dummodo ex par<lb ed="#P" break="no"/>te
+          eius non impediatur. Si enim aliquis
+          <lb ed="#P"/>taliter nutriatur in siluis vel inter lupos:
+          <lb ed="#P"/>et ductum naturalis rationis sequeretur: cum
+          <lb ed="#P"/>appetitu boni et fuga mali: certissime est<lb ed="#P" break="no"/>
+          tenendum: quod deus per internam inspira<lb ed="#P" break="no"/>tionem
+          reuelaret ea quae sunt ad credendum
+          <lb ed="#P"/>necessaria: vel aliquem fidei predicatorem
+          <lb ed="#P"/>dirigevet sicut misit <name>petrum</name> ad <name>cornelium</name>
+          <lb ed="#P"/>actuum: 10</quote>. Haec <name>sanctus Thomas</name> idem docet <ref>ad Romanos
+          <lb ed="#P"/>10 lectio 3</ref>.
+        </p>
+        <p>
+          <add place="margin-right" hand="F">objectio</add>
+          ¶ Ad hoc respondemus pri<lb ed="#P" break="no"/>mo
+          quod non semper facienti quod in se est
+          <lb ed="#P"/>deus presto est ad illuminandum per suam
+          <pb ed="#P" n="90-v"/>gratiam nisi ex intentione dei est quod illumi<lb ed="#P" break="no"/>netur
+          et gratiam recipiat et tunc infalli<lb ed="#P" break="no"/>biliter
+          illuminatur quis et gratiam recipit.
+          <lb ed="#P"/>Sic docet <ref>sanctus Thomas 1a 2ae, q. 112, ar. 3 in corpore</ref>
+          <lb ed="#P"/>et <ref>ad 1m</ref> vbi quaerit vtrum ex necessitate
+          <lb ed="#P"/>detur gratia se preparanti ad gratiam vel<lb ed="#P" break="no"/>
+          facienti quod in se est.
+        </p>
+        <p>
+          Et respondit quod <quote>pre<lb ed="#P" break="no"/>paratio
+          ad gratiam potest dupliciter con<lb ed="#P" break="no"/>siderari:
+          vel secundum quod est a libero arbitrio: et
+          <lb ed="#P"/>secundum hoc nullam necessitatem habet ad
+          <lb ed="#P"/>gratiae consecutionem. Vel secundum quod est a<lb ed="#P" break="no"/>
+          deo mouente: et tunc babet necessitatem
+          <lb ed="#P"/>ad id ad quod ordinatur a deo: non qui<lb ed="#P" break="no"/>dem
+          coactionis sed infallibilitatis: quia
+          <lb ed="#P"/>intentio dei deficere  non potest. Vnde si<lb ed="#P" break="no"/>
+          ex intentione eei mouentis est quod homo
+          <lb ed="#P"/>cuius cor mouet gratiam consequatur infalli<lb ed="#P" break="no"/>biliter
+          ipsam consequitur</quote> et caetera. haec sanctus Thomas.
+        </p>
+        <p>
+          Cum igitur his qui sunt presciti et tan<lb ed="#P" break="no"/>dem
+          cum reprobis damnandi ex intentione
+          <lb ed="#P"/>dei non sit impartiri gratiam vel eos illumi<lb ed="#P" break="no"/>nare:
+          quantumcumque se preparent per liberum
+          <lb ed="#P"/>arbitrium vel faciant quod in se est: non
+          <lb ed="#P"/>consequentur gratiam: et proinde tunc
+          <lb ed="#P"/>non peccant gratiam non recipiendo. Quia
+          <lb ed="#P"/>non propter culpam quae in cis sit (cum
+          <lb ed="#P"/>potius in eis sit poena quam culpa propter
+          <lb ed="#P"/>originale peccatum secundum Augustinum: vbi
+          <lb ed="#P"/>allegabitur infra:) sed quia deus non
+          <lb ed="#P"/>vult eos illuminare mera sua voluntate
+          <lb ed="#P"/>non propter peccata sed quia non vult: ex eo
+          <lb ed="#P"/>quia sicut non datur causa reprobationis
+          <pb ed="#P" n="91-r"/>
+          <lb ed="#P"/>aut predestinationis ex parte nostra: ita
+          <lb ed="#P"/>non datur aliquando causa effectus ipsi<lb ed="#P" break="no"/>us
+          reprobationis: effectus autem reprobatio<lb ed="#P" break="no"/>nis:
+          est negare gratiam et media necessa<lb ed="#P" break="no"/>ria
+          ad consecutionem gratiae.
+        </p>
+        <p>
+          Est autem
+          <lb ed="#P"/>medium per quam necessarium ad consecutio<lb ed="#P" break="no"/>nem
+          fidei et gratiae ipsa vocatio exterior
+          <lb ed="#P"/>per predicatores in qua incipit impleri
+          <lb ed="#P"/>ipsa predestinatio <name>secundum Augustinum</name>: et si<lb ed="#P" break="no"/>militer
+          interior qua vocat deus inspi<lb ed="#P" break="no"/>rando.
+          Vnde <ref>sanctus Thomas Quodlib. 2o, ar. 6</ref>
+          <lb ed="#P"/>dicit quod <quote>homo tenetur credere secundum hoc quod
+          <lb ed="#P"/>adiuuatur adeo ad credendum. Adiuuatur
+          <lb ed="#P"/>autem adeo aliquis tripliciter primo quidem
+          <lb ed="#P"/>per interiorem vocationem, secundo per doctrinam
+          <lb ed="#P"/>et predicationem exteriorem, tertio per ex<lb ed="#P" break="no"/>teriora
+          miracula</quote>. Haec ille.
+        </p>
+        <p>
+          Ergo si non iuuan<lb ed="#P" break="no"/>tur
+          a Deo per aliquod predictorum modorum
+          <lb ed="#P"/>vt in prescitis non peccant non credendo
+          <lb ed="#P"/>aut non recipiendo gratiam. Haec insinuat
+          <lb ed="#P"/><ref>Augustinus in libro de predestinatione sanctorum
+          <lb ed="#P"/>c. 9.et 10</ref>. et <ref>de dono perseuerantiae. c. 13.
+          <lb ed="#P"/>et 14</ref>. vbi inter caetera profunda et pulcher<lb ed="#P" break="no"/>rima
+          dicit loquendo de <del rend="strikethrough" hand="A">tyranis</del> Tyriis et
+          <lb ed="#P"/>Sidoniis sic. <quote>Caeteri autem vbi nisi in massa
+          <lb ed="#P"/>perditionis iusto diuino iudicio reliquun<lb ed="#P" break="no"/>tur
+          Vbi tyrii relicti sunt et Sidonii qui
+          <lb ed="#P"/>etiam credere potuerunt si mira illa chris<lb ed="#P" break="no"/>ti
+          signa vidissent. Sed quoniam vt crede<lb ed="#P" break="no"/>rent,
+          non erat eis datum: etiam vnde cre<lb ed="#P" break="no"/>derent
+          est negatum (scilicet) predicatio</quote>.
+          <lb ed="#P"/>Et infra: <quote>non erant ergo sic excaecati oculi
+          <lb ed="#P"/>nec sic induratum cor Tiriorum et Sidoniorum:
+          <pb ed="#P" n="91-v"/>
+          <lb ed="#P"/>quoniam credidissent si qualia viderunt
+          <lb ed="#P"/>isti (scilicet Iudaei de quibus ibi etiam lo<lb ed="#P" break="no"/>quitur)
+          signa vidissent: sed nec illis pro<lb ed="#P" break="no"/>fuit
+          quod poterant credere quia predestinati
+          <lb ed="#P"/>non erant</quote>. Haec Augustinus.
+        </p>
+        <p>
+          ¶ Intelli<lb ed="#P" break="no"/>gitur
+          ergo illa communis doctorum sententia
+          <lb ed="#P"/>(scilicet quod circa necessaria ad salutem nul<lb ed="#P" break="no"/>lus
+          habeat inuincibilem ignorantiam quia
+          <!--text is underlined, not sure how to markup-->
+          <lb ed="#P"/><hi rend="underline">si faceret quod in se est et caetera) de his qui ad
+          <lb ed="#P"/>vitam eternam per dei misericordiam sunt
+          <lb ed="#P"/>preordinati: Talibus enim si facerent</hi>
+          <lb ed="#P"/>quod in se est certissime est tenendum quod
+          <lb ed="#P"/>deus prouideret de remedio sed quotiens
+          <lb ed="#P"/>non faciunt peccant provt dicunt sancti.
+          <lb ed="#P"/>Et ideo ista non obstant superius deter<lb ed="#P" break="no"/>minatis.
+        </p>
+        <p>
+          <add rend="margin-left" hand="F">solutio</add>
+          <lb ed="#P"/>¶ Secundo respondemus quod quidquid sit
+          <lb ed="#P"/>de peccato (scilicet( si supponamus quod peccent:
+          <lb ed="#P"/>tamen vltio illius peccati solum judicio
+          <lb ed="#P"/>diuino reseruatur et ideo exclusum est
+          <lb ed="#P"/>ab huiusmodi cura judicium humanum. Tum
+          <lb ed="#P"/>quia vt ex dictis apparet incertum est im<lb ed="#P" break="no"/>mo
+          impossibile esset inuenire aut discer<lb ed="#P" break="no"/>nere
+          eos qui se ignorantia inuincibili tueri
+          <lb ed="#P"/>non possunt ab illis qui ea redduntur in<lb ed="#P" break="no"/>culpabiles.
+          Et ideo huius discrimen huma<lb ed="#P" break="no"/>ni
+          judicii non est sed diuini quia secretorum
+          <lb ed="#P"/>cognitor et judex est deus. <ref>32 distinctio, c.<lb ed="#P" break="no"/>
+          erubescant</ref>. <ref>et 2, q. 4, c. consuluisti.</ref>
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Et diuinum judicium vsurpat qui in<lb ed="#P" break="no"/>certa
+          et dubia judicat <ref>2, q. 1, nomen
+          <lb ed="#P"/>presbyteria</ref> nec potest humano condemna<lb ed="#P" break="no"/>ri
+          examine quod deus suo reseruauit ju<pb ed="#P" n="92-r"/><lb ed="#P"/>dicio
+          <ref>15, q. 6, c. si a sacerdotibus</ref>.
+        </p>
+        <p>
+          ¶ Tum
+          <lb ed="#P"/>quia sicut infra plenius docetur peccata
+          <lb ed="#P"/>quae inter deum et ipsum peccatorem dum<lb ed="#P" break="no"/>taxat
+          committuntur: soli judicio diuino reseruantur
+          <lb ed="#P"/>sicut patet in multis preser<lb ed="#P" break="no"/>tim
+          in peccatis cogitationum: etiamsi ju<lb ed="#P" break="no"/>dici
+          alias competenti constarent esse gra<lb ed="#P" break="no"/>uissima.
+          Et ideo nullus judex habet
+          <lb ed="#P"/>potestatem judicandi de occultis. <ref>dicto c.
+          <lb ed="#P"/>erubescant, et 6, q. 1, c. si omnia</ref> et
+          <lb ed="#P"/><ref>dicto c. consuluisti</ref>.
+        </p>
+        <p>
+          ¶ Item patet in hoc
+          <lb ed="#P"/>quod peccatum Judaeorum et Sarracenorum etiam
+          <lb ed="#P"/>subditorum christianis principibus: non
+          <lb ed="#P"/>punitur per judicium humanum sed
+          <lb ed="#P"/>diuino judicio reseruatur. Vnde dicunt
+          <lb ed="#P"/>canonistae in <ref>c. quod super his. de voto</ref>.
+          <lb ed="#P"/>Quod judaeum esse, et eadem ratione paganum
+          <lb ed="#P"/>seu sarracenum in se est delictum habito
+          <lb ed="#P"/>respectu ad deum et ad po<!--e-->nam eternam
+          <lb ed="#P"/>sed non quo ad judicem et forum conten<lb ed="#P" break="no"/>tiosum
+          et sic non est per homines punibi<lb ed="#P" break="no"/>le.
+          Idem dicit Bartholust et alii in <ref>l. apud
+          <lb ed="#P"/>Iulianum, § 1</ref> et ibi <ref>Iasso § constat
+          <lb ed="#P"/>5 columine</ref>. Vide <ref>glossam in c. post mise<lb ed="#P" break="no"/>rabilem:
+          de vsuris</ref>,
+        </p>
+        <p>
+          Cum igitur peccatum
+          <lb ed="#P"/>idola colentium, supposito etiam quod a pec<lb ed="#P" break="no"/>cato
+          idolatriae non excusentur: fia<del rend="strikethrough" hand="A vel B">n</del>t in<lb ed="#P" break="no"/>ter
+          deum et ipsosmet peccatores dumtaxat.
+          <lb ed="#P"/>sitque perdifficile, immo impossibile, discer<lb ed="#P" break="no"/>ni
+          quos ignorantia inuincibilis non excu<lb ed="#P" break="no"/>sat:
+          ac per hoc occultissima cogitatione com<lb ed="#P" break="no"/>mittantur:
+            sequitur exclusum fore <choice><sic>huma</sic><corr><!--should be empty--></corr></choice>
+          <pb ed="#P" n="92-v"/>
+          <lb ed="#P"/>humanum judicium a cura puniendi ta<lb ed="#P" break="no"/>lia
+          peccata nisi velit temere judicium
+          <lb ed="#P"/>diuinum vsurpare. Ergo veritas conclusio<lb ed="#P" break="no"/>nis
+          claret. Quod illicite (scilicet) punirentur
+          <lb ed="#P"/>infideles negatiue propter hoc dumtaxat
+          <lb ed="#P"/>quod idola colant saltem per judicium huma<lb ed="#P" break="no"/>num.
+        </p>
+        <p>
+          <add place="margin-left" hand="F">
+              Contra Innocentium qui dixit
+              papam posse punire
+              gentem quia idola colit</add>
+          Et sic tandem satis apparet In<lb ed="#P" break="no"/>nocentium
+          in hac materia enormiter
+          <lb ed="#P"/>falli. Dum dicit ad papam pertinere
+          <lb ed="#P"/>gentilem solum habentem legem naturae
+          <lb ed="#P"/>punire si idola colat. Ad rationem illius
+          <lb ed="#P"/>(scilicet) quia naturale est vnum et solum de<lb ed="#P" break="no"/>um
+          creatorem colere. Concedimus quod est
+          <lb ed="#P"/>naturale: sed postquam cognitus fuerit esse<lb ed="#P" break="no"/>
+          Deus verus et vnicus. Tunc enim queli<lb ed="#P" break="no"/>bet
+          creatura rationalis naturaliter intel<lb ed="#P" break="no"/>liget
+          eum esse colendum eique omnem ac<lb ed="#P" break="no"/>tum
+          latriae reuerentiam et sacrificium
+          <lb ed="#P"/>exhibendum et caetera.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

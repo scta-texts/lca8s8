@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 18 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 18 [Bnf 12926 Transcription]</title>
+          <date when="2024-12-24">Dec 24, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="85-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e276">
+        <head>Caput 18 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="18"/>Caput 18m.
+        </p>
+        <p>
+          ¶ Verumtamen contra predeterminata est
+          <lb ed="#P"/>autoritas <ref>Damasceni et etiam sanctorum
+          <lb ed="#P"/>aliquorum imo et philosophorum, qui dicunt
+          <lb ed="#P"/>quod cognitio Dei naturaliter inserta est men<lb ed="#P" break="no"/>tibus
+          hominum</ref>. Sed prima cognitio de
+          <lb ed="#P"/>deo oportet esse quod deus sit ergo Deum esse est
+          <lb ed="#P"/>per se notum. Item <ref>apostolus ad Romanos 1o</ref> <quote>qui
+          <lb ed="#P"/>cum cognouissent Deum: non sicut deum
+          <lb ed="#P"/>glorificauerunt</quote> et caetera.
+        </p>
+        <p>
+          ¶ Ad quod dicendum
+          <lb ed="#P"/>est. Verum esse quod cognitio dei comunis in<lb ed="#P" break="no"/>serta
+          est naturaliter mentibus hominum.
+          <lb ed="#P"/>Sed illa est valde confusa et vniuersalis et
+          <lb ed="#P"/>quae solum ostendit esse aliquem ordinato<lb ed="#P" break="no"/>rem
+          rerum quas videamus currere secundum ordinem
+          <pb ed="#P" n="85-v"/>quendam. Quis autem vel qualis: vel si vnus
+          <lb ed="#P"/>sit aut plures nondum statim et hac com<lb ed="#P" break="no"/>muni
+          consideratione habetur. Sed hoc non
+          <lb ed="#P"/>est simpliciter cognoscere Deum esse. Sicut
+          <lb ed="#P"/>cum videmus hominem moueri et alia opera
+          <lb ed="#P"/>agere, percipimus esse in eo quandam cau<lb ed="#P" break="no"/>sam
+          harum operationum quae aliis rebus non
+          <lb ed="#P"/>inest, et hanc causam animam nomi<lb ed="#P" break="no"/>namus:
+          nondum scientes quid sit anima:
+          <lb ed="#P"/>si est corpus: vel qualiter operationes pre<lb ed="#P" break="no"/>dictas
+          efficiat. Vel sicut cognoscere veni<lb ed="#P" break="no"/>entem:
+          non est cognoscere <name>petrum</name>, quamuis
+          <lb ed="#P"/>sit <name>petrus</name> veniens.
+        </p>
+        <p>
+          Et ideo propositio illa
+          <lb ed="#P"/>Deum esse non est nobis per se nota: sed indi<lb ed="#P" break="no"/>get
+          demonstrari per ea quae sunt magis no<lb ed="#P" break="no"/>ta
+          quoad nos scilicet, per effectus. Autori<lb ed="#P" break="no"/>tas
+          autem <name>Damasceni</name> intelligitur quod cognitio
+          <lb ed="#P"/>dei est nobis naturaliter inserta secundum ipsius
+          <lb ed="#P"/>similitudinem et non secundum quod est in natura
+          <lb ed="#P"/>sua: sicut etiam dicitur quod omnia appetunt
+          <lb ed="#P"/>deum, non quidem ipsum prout considera<lb ed="#P" break="no"/>tur
+          in sua natura, sed in sui similitudine
+          <lb ed="#P"/>quia nihil desideratur nisi in quantum
+          <lb ed="#P"/>habet similitudinem ipsius. Et etiam ni<lb ed="#P" break="no"/>hil
+          cognoscitur. Vide <ref>sanctum Thomam 1
+          <lb ed="#P"/>parte, q. 2, a. 1, c</ref>. Et <ref>1 sententiarum
+          <lb ed="#P"/>distinctione 3, q. 1, a 2</ref>. Et <ref>libro 3, c. 38, co<lb ed="#P" break="no"/>ntra
+          gentiles</ref>.
+        </p>
+        <p>
+          ¶ Ad autoritatem <name>beati Pau<lb ed="#P" break="no"/>li</name>
+          dicitur quod loquitur de philosophis qui dei cog<lb ed="#P" break="no"/>nitionem
+          habentes ea non sunt vsi ad bo<lb ed="#P" break="no"/>num
+          sed stulti facti sunt. Cognouerunt
+          <lb ed="#P"/>enim de deo esse omnibus supereminentem.
+          <lb ed="#P"/>Et sic debebant gloriam et honorem quae
+          <pb ed="#P" n="86-r"/>
+          <lb ed="#P"/>superexcellentibus debetur et sic cum cog<lb ed="#P" break="no"/>nouissent
+          Deum, non sicut deum glori<lb ed="#P" break="no"/>ficauerunt:
+          vel quia ei debitum cultum
+          <lb ed="#P"/>non impenderunt vel quia virtuti eius et
+          <lb ed="#P"/>scientiae terminum imposuerunt.
+        </p>
+        <p>
+          ¶ Cog<lb ed="#P" break="no"/>nouerunt
+          quoque Deum sicut omnium
+          <lb ed="#P"/>bonorum causam. Vnde ei in omnibus
+          <lb ed="#P"/>gratiarum actio debebatur qua<subst hand="A vel B"><del rend="strikethrough">m</del><add place="above-line">l</add></subst> tamen
+          <lb ed="#P"/>ipsi non <subst hand="B"><del rend="strikethrough">impendebant</del><add place="above-line">Deo agebant</add></subst>, sed potius suo in<lb ed="#P" break="no"/>genio
+          et virtuti suae bona sua ascribe<lb ed="#P" break="no"/>bant.
+          Vnde subdit <ref><name>apostolus</name></ref>: <quote>aut gratias<lb ed="#P" break="no"/>
+          egerunt. Dicentes se esse sapientes stul<lb ed="#P" break="no"/>ti
+          facti sunt</quote>, et caetera. haec comunibus omni<lb ed="#P" break="no"/>bus
+          non congruunt. Et ideo de eis apostolus<lb ed="#P" break="no"/>
+          non loquitur et caetera.
+        </p>
+        <p>
+          ¶ Secundo principaliter probatur minor
+          <lb ed="#P"/>principalis rationis scilicet quod eiusmo<lb ed="#P" break="no"/>di
+          infideles negatiue ignorant inuinci<lb ed="#P" break="no"/>biliter
+          et caetera, per sententiam <name>diui Augus<lb ed="#P" break="no"/>tini</name>
+          et <name>sancti Thomae</name> qui dicunt eos ex<lb ed="#P" break="no"/>cusari
+          a peccato infidelitatis qui nihil de
+          <lb ed="#P"/>fide unquam audierunt secundum illud <ref>Joanis 15</ref>.
+          <lb ed="#P"/><quote>si non venisse<subst hand="A or B"><del rend="strikethrough">nt</del><add place="over-write">m</add></subst> et locutus eis non fuis<lb ed="#P" break="no"/>sem
+          peccatum, scilicet, infidelitatis non haberent</quote>.<lb ed="#P" break="no"/>
+          Sic <ref>exponit Augustinus<!--In loanis Euangelium, tract. 89, c. 15, vu. 22-23: PL 35, pp. 1.856-1.858--></ref> ibi, et <ref>sanctus Thomas
+          <lb ed="#P"/>2a 2ae: q. 10, a. 1o</ref>. et illud <ref>ad Romanos 10<!--Rm 10:14--></ref>.
+          <lb ed="#P"/><quote>quomodo credent ei quem non audierunt
+          <lb ed="#P"/>quomodo audient sine predicante</quote>? Vnde
+          <lb ed="#P"/>tales infideles non damnantur propter caren<lb ed="#P" break="no"/>tiam
+          fidei quae numquam fuit eis predica<lb ed="#P" break="no"/>ta:
+          sed propter alia peccata quae sine fide re<lb ed="#P" break="no"/>mitti
+          eis non possunt.
+        </p>
+        <p>
+          ¶ Ex his sequitur
+          <pb ed="#P" n="86-v"/>
+          <lb ed="#P"/>quod cum haec propositio Deus est unicus:in<lb ed="#P" break="no"/>dubitanter
+          sit de fide nec colentes idola
+          <lb ed="#P"/>per seipsos nec per maiores suos possint
+          <lb ed="#P"/>de errore suo et de veritate fidei informa<lb ed="#P" break="no"/>ri:
+          ipsos ignorantiam habere inuincibilem
+          <lb ed="#P"/>de existentia et maxime vnitate dei: sicut
+          <lb ed="#P"/>illam patiuntur nescientes Christum esse
+          <lb ed="#P"/>filium dei ac redemptorem mundi: et sic
+          <lb ed="#P"/>de aliis supernaturalibus: donec fides fue<lb ed="#P" break="no"/>rit
+          plene ac cum effectu eis predicata. Pro<lb ed="#P" break="no"/>batur
+          hoc: quia cum non sit insitum in
+          <lb ed="#P"/>natura rerum unicum esse verum deum et<lb ed="#P" break="no"/>si
+          esse deum tandem contendant: pote<lb ed="#P" break="no"/>rant
+          tamen credere Deum verum esse quem
+          <lb ed="#P"/>maiores sui coluerunt et sic quaelibet pro<lb ed="#P" break="no"/>uincia
+          poterat pretendere verum deum
+          <lb ed="#P"/>apud se existere.
+        </p>
+        <p>
+          Nec tenerentur credere
+          <lb ed="#P"/>esse verum deum magis apud christia<lb ed="#P" break="no"/>nos
+          quam apud alias nationes. Vnde sicut
+          <lb ed="#P"/>legitime poterant existimare deum vel<lb ed="#P" break="no"/>
+          deos quos aliae nationes colunt: non esse
+          <lb ed="#P"/>veros deos vel deum itaeque de deo chris<lb ed="#P" break="no"/>tianorum
+          cum in rerum natura nihil ma<lb ed="#P" break="no"/>gis
+          causaret: nisi per miraculorum opera<lb ed="#P" break="no"/>tiones
+          aliud notificaretur, ergo, infideles ne<lb ed="#P" break="no"/>gatiue
+          colentes idola ignorantia inuinci<lb ed="#P" break="no"/>bili
+          laborant.
+        </p>
+        <p>
+          ¶ Et si replicetur quod lapi<lb ed="#P" break="no"/>des
+          colere pro deo est contra rationem na<lb ed="#P" break="no"/>turalem
+          et sic indictum in natura rerum
+          <lb ed="#P"/>et propterea inuincibiliter non ignorare
+          <lb ed="#P"/>vel excusari posse. Respondetur quod comu<lb ed="#P" break="no"/>nis
+          et finalis intentio eorum qui idola colunt
+          <pb ed="#P" n="87-r"/>
+          <lb ed="#P"/>non est colere lapides, sed in ipsis, tamquam
+          <lb ed="#P"/>in quibusdam diuinis virtutibus illum
+          <lb ed="#P"/>mundi ordinatorem quisquis<del rend="strikethrough" hand="B">aut quod</del><lb ed="#P" break="no"/>
+          sit per religionem venerari: naturaliter
+          <lb ed="#P"/>cognoscentes propter defectus quos in seipsos
+          <lb ed="#P"/>sentiunt egere ab illo adiuuari et dirigi:
+          <lb ed="#P"/>et ideo per cultum religiosum vel potius
+          <lb ed="#P"/>superstitiosum qui principaliter in
+          <lb ed="#P"/>sacrificiis consistit eum sibi conciliare
+          <lb ed="#P"/>satagebant. De hoc <ref>sanctus Thomas 2a, 2ae, q. 85
+          <lb ed="#P"/>ar. 1</ref>.
+        </p>
+        <p>
+          ¶ Ita dicit <ref>Hieronimus super
+          <lb ed="#P"/>psalmum 95</ref>: <quote>Sic igitur et nos et omne huma<lb ed="#P" break="no"/>num
+          genus naturaliter intelligit Deum.
+          <lb ed="#P"/>Nullae enim gentes sunt quae naturaliter
+          <lb ed="#P"/>non intelligant creatorem suum. licet
+          <lb ed="#P"/>enim lapides et ligna venerentur: tamen
+          <lb ed="#P"/>intelligunt aliquid maius esse quam ipsi sunt:
+          <lb ed="#P"/>et in errore suo indicant se habere sapien<lb ed="#P" break="no"/>tiamr:
+          hoc est, nulla gens est quae naturaliter
+          <lb ed="#P"/>non intelligat deum. Denique gentiles
+          <lb ed="#P"/>idola colunt: hoc est lapides et ligna ve<lb ed="#P" break="no"/>nerantur.
+          Et si forte rixam fecerint et si
+          <lb ed="#P"/>iuramentum aliquod inter illos venerit non<lb ed="#P" break="no"/>
+          dicunt lapides isti vident: ligna vident:
+          <lb ed="#P"/>Sed deus videt: et deus audit</quote>. haec Hieroni<lb ed="#P" break="no"/>mus.
+        </p>
+        <p>
+          Hoc ipsum quidam idolatra <ref>Romanus
+          <lb ed="#P"/>Maximus nomine in quadam Epistola ad
+          <lb ed="#P"/>Augustinum</ref> scribens videtur monstrare
+          <lb ed="#P"/>contendisse. <quote>Equidem (ait) vnum esse deum
+          <lb ed="#P"/>sine initio sine prole naturae: seu patrem
+          <lb ed="#P"/>magnum atque magnificum: quis tam de<lb ed="#P" break="no"/>mens
+          tam mente captus neget esse certis<lb ed="#P" break="no"/>simum?
+          Huius nos virtutes per munda<pb ed="#P" n="87-v"/><lb ed="#P" break="no"/>num
+          opus diffusas: multis vocabulis
+          <lb ed="#P"/>inuocamus. Quoniam nomen eius cun<lb ed="#P" break="no"/>cti
+          proprium videlicet ignoramus. Nam
+          <lb ed="#P"/>deus omnibus religionibus comune no<lb ed="#P" break="no"/>men
+          est: ita fit vt dum eius quasi quae<lb ed="#P" break="no"/>dam
+          membra carptim variis supplicatio<lb ed="#P" break="no"/>nibus
+          prosequimur, totum colere profec<lb ed="#P" break="no"/>to
+          videamur</quote> et caetera. haec ille. In <ref>Epistola quae
+          <lb ed="#P"/>inter Augustini Epistolas 43</ref> numeratur.
+          <lb ed="#P"/>Ex quibus apparet intentionem colentium
+          <lb ed="#P"/>idola principaliter tendere ad deum ve<lb ed="#P" break="no"/>rum
+          quicumque sit colendum et adorandum.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Diximus superius <quote>donec fides suffici<lb ed="#P" break="no"/>enter
+          ac plene fuerit eis predicata</quote> et caetera. quia
+          <lb ed="#P"/>nisi fides fuerit eiusmodi negatiue infi<lb ed="#P" break="no"/>delibus
+          plene proposita et explicata: et
+          <lb ed="#P"/>per ministros idoneos, quibus propter vitae
+          <lb ed="#P"/>splendorem merito et rationabiliter quis<lb ed="#P" break="no"/>que
+          prudens debeat fidem dare, non tenen<lb ed="#P" break="no"/>tur
+          credere. Possunt namque non absur<lb ed="#P" break="no"/>de
+          dicere quod iudaei a principio predica<lb ed="#P" break="no"/>tionis
+          Christi et gentiles postea passim
+          <lb ed="#P"/>causabantur. Quae est ista doctrina? Quae
+          <lb ed="#P"/>religio haec noua, quae antequam et tot se<lb ed="#P" break="no"/>culis
+          a toto mundo approbatam ceuertit
+          <lb ed="#P"/>totaliter? Quod Deus sit trinus et vnus: et<lb ed="#P" break="no"/>
+          ipse deus crucifixus. Quomodo possunt
+          <lb ed="#P"/>haec fieri? Et ob hanc nouitatem rationa<lb ed="#P" break="no"/>biliter
+          possunt de doctrina dubitare: ip<lb ed="#P" break="no"/>sam
+          suspectam habere: ac fidei refutare
+          <lb ed="#P"/>auditum nec admittere predicatores: vt<lb ed="#P" break="no"/>pote
+          deceptores potius quam verae religionis
+          <pb ed="#P" n="88-r"/>
+          <lb ed="#P"/>nuntiatores reputantes. Aliter enim es<lb ed="#P" break="no"/>sent
+          leuissimi cordis <ref>secundum illud Ecclesiastici<!--19:4--></ref>
+          <lb ed="#P"/><quote>qui cito credit leuis est corde</quote>.
+        </p>
+        <p>
+          Et horum ratio est: quia huiusmodi veritates superant om<lb ed="#P" break="no"/>nem
+          naturae facultatem. Ideo nemo te<lb ed="#P" break="no"/>netur
+          eas credere: nisi per hunc modum
+          <lb ed="#P"/>quo fit sibi possibile. qui est vt sufficien<lb ed="#P" break="no"/>tia
+          testimonia ad credendum habeat.
+          <lb ed="#P"/>Scilicet vel quod videat aliquod miraculum
+          <lb ed="#P"/>ad confirmationem talis doctrinae specia<lb ed="#P" break="no"/>liter
+          factum: vel per rationes efficaces ad<lb ed="#P" break="no"/>
+          credendum moueatur: vel aliquod ali<lb ed="#P" break="no"/>ud
+          quod vicem suppleat miraculi. Quorum
+          <lb ed="#P"/>vnum est satis efficax scilicet vita in<lb ed="#P" break="no"/>culpata
+          et christiana predicantium: qua
+          <lb ed="#P"/>mysteria fidei audientibus credibilia red<lb ed="#P" break="no"/>dantur:
+          hoc est videant ea esse credenda.
+          <lb ed="#P"/>Nemo enim crederet: nisi videret esse cre<lb ed="#P" break="no"/>denda:
+          vel propter euidentiam signorum: vel
+          <lb ed="#P"/>propter aliud huiusmodi secundum <ref>sanctum Thomam 2a 2ae, q. 1,
+          <lb ed="#P"/>a. 4, ad 2um</ref>; et <ref>quodlib. 2, ar. 6</ref>.
+        </p>
+        <p>
+          ¶ Ve<lb ed="#P" break="no"/>rum
+          quia hodie miracula non fiunt: ideo
+          <lb ed="#P"/>ad faciendum quae fidei sunt infidelibus
+          <lb ed="#P"/>credibilia: opus est vita christianorum operi<lb ed="#P" break="no"/>bus
+          virtutis refulgens esse illis exemplo. Vnde
+          <lb ed="#P"/>Chrysostomus. <quote>Nihil opus esset verbis:
+          <lb ed="#P"/>si vita nostra sanctitatis luce fulgeret.
+          <lb ed="#P"/>Nihil magistris opus esset: si virtutis pro<lb ed="#P" break="no"/>bos
+          actus perferemus. Nemo profecto gen<lb ed="#P" break="no"/>tilis
+          esset: si ipsi vt oporteret christiani es<lb ed="#P" break="no"/>se
+          curaremus. Si Dei monitis ac scitis obtem<lb ed="#P" break="no"/>peraremus.
+          Si maledictis lacessiti bene<pb ed="#P" n="88-v"/><lb ed="#P" break="no"/>diceremus
+          si pro malis bona redderemus.
+          <lb ed="#P"/>Nemo esset tam fera belua vt non statim
+          <lb ed="#P"/>ad cultum verae religionis occurreret: si vi<lb ed="#P" break="no"/>derit
+          haec ab omnibus fieri</quote>. Et infra: <quote>At
+          <lb ed="#P"/>si quidem viderint nos quoque eadem secum
+          <lb ed="#P"/>appetere: eadem concupiscere honoris atque
+          <lb ed="#P"/>priuatus ambitum querere: quam illi chris<lb ed="#P" break="no"/>tianam
+          religionem poterunt admirari?
+          <lb ed="#P"/>Vnde ergo credere illi poterunt? Fortasse
+          <lb ed="#P"/>ex signis? At ista modo non fiunt? An
+          <lb ed="#P"/>vero ex sanctitate vitae? Sed illa plane
+          <lb ed="#P"/>perit. Nunc vero caritatis causa? At
+          <lb ed="#P"/>numquam aliquod ipsius vestigium cernitur.
+          <lb ed="#P"/>Quocirca non modo peccatorum nostrorum: verum
+          <lb ed="#P"/>etiam alieni incommodi cuius ipsi causa su<lb ed="#P" break="no"/>mus:
+          rationem profecto reddemus</quote>. haec Chrysostomus.
+        </p>
+        <p>
+          Et alibi idem chrysostomus
+          <lb ed="#P"/><quote>Multi enim illorum (scilicet infidelium)
+          <lb ed="#P"/>cum viderint nostrorum aliquos verbo qui<lb ed="#P" break="no"/>dem
+          et vocabulo christianos appellari: ce<lb ed="#P" break="no"/>terum
+          sicut ipsos rapere, pecuniae cupidos
+          <lb ed="#P"/>esse, inuidere, insidiari, dolose plectere aliaque
+          <lb ed="#P"/>omnia facere, non iam nos audient: neque si
+          <lb ed="#P"/>rationales sint admonitiones nostras: sed exis<lb ed="#P" break="no"/>timant
+          omnia nostra deceptiones et eisdem
+          <lb ed="#P"/>criminibus omnes obnoxios. Cogita obsecro
+          <lb ed="#P"/>quantis illi digni sint suppliciis, quando qui<lb ed="#P" break="no"/>dem
+          non solum sibi ipsis inextinguibilem
+          <lb ed="#P"/>ignem coacerbant: sed et aliis autores sunt
+          <lb ed="#P"/>vt in errore permaneant, et ne virtutem adis<lb ed="#P" break="no"/>cant
+          obtu<!--r-->erent aures: et ad haec in causa sunt
+          <lb ed="#P"/>vt etiam virtutum studiosi accusentur
+          <pb ed="#P" n="89-r"/>
+          <lb ed="#P"/>et reprebendantur (et quod omnibus gra<lb ed="#P" break="no"/>uius
+          est) per ipsos dominus blasphematur. Vi<lb ed="#P" break="no"/>des
+          quanta malitiae pernicies? Vides quo<lb ed="#P" break="no"/>modo
+          non vulgari<!--s-->s poenae reos se faciunt qui
+          <lb ed="#P"/>malum sectantur? Sed et multo grauis<lb ed="#P" break="no"/>sima
+          supplicia pro omnibus luituri sunt:
+          <lb ed="#P"/>non solum pro sua perditione, sed et pro er<lb ed="#P" break="no"/>rantium
+          scandalo et pro sugillatione ius<lb ed="#P" break="no"/>torum:
+          et pro blasphemia in deum</quote> et caetera. Haec omnia Chrysostomus.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

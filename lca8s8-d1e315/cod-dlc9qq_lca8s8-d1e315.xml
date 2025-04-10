@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput chapternumber [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput chapternumber [Bnf 12926 Transcription]</title>
+          <date when="2025-04-10">Apr 10, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="99-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e315">
+        <head>Caput 21 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="1"/>Caput 21m
+        </p>
+        <p>
+His consonat quod scribit sanctus Thomas (23 22€, q. 10, a. 9)453 ubi inquit quod Ecclesia de infidelibus qui nullo modo fidem christianam, susceperunt, scilicet, paganis et Judaeis, non babet judicare spirituali judicio sed temporali, in casu cum, inter christianos commorantes, aliquam culpam committunt etperfideles temporaliter puniuntur. Et in responsione ad secundum argumentum ait quod Ecclesia contra infideles non habet judicium quoad poenam spiritualem eis infligendam. Habet tamen judicium super aliquos infideles quoad temporalem poenam infligendam; ad quodpertinet quod Ecclesia aliquando propter aliquas speciales culpas subtrahit aliquibus infidelibus communionem fidelium 55^. Haec sanctus Thomas.
+        </p>
+        <p>
+Nota illa verba: temporali, in casu cum, inter christianos commorantes, aliquam culpam committunt. Ttem nota illa verba: babet judicium super aliquos. Rursus nota illa: propter aliguas culpas speciales. Ex quibus manifestissime probatur Ecclesiam non posse temporaliter punire infideles, nisi tantum cumviuunt inter christianos, neque id posse facere preter certos casus, ut, puta, si non remittant christianis usuras, si habeant mancipia christiana, si blasphemi sint in Christum Dominum vel in diuos et in similibus casibus (de quibus in d. c. Saep55e, cum sequentibus [100r.] et glossa456, 28, q. 1, et in c. Multorum 587, ev in c. Etsi Judaeos 558, et in c. Cum Sit Nimis: De Judaeis 59; et in pluribus alijs locis utriusque juris.
+        </p>
+        <p>
+Et illa verba sancti Thomae: per fideles temporaliter puniuntur, significant infideles, in casibus in quibus eos punire licet, puniendos esse a principibus secularibus at ab eorum ministris quibus subditi sunt, nisi in casibus in quibus Ecclesia punit seculares. Rursus per illa verba sancti Thomae: habet judicium super aliquos infideles, docet Ecclesiam non habere generaliter jurisdictionem super omnes infideles, sed tantum super aliquos; intelligo contentiosam jurisdictionem, in eis, scilicet, casibus in quibus supra, capite sexto, docuimus Ecclesiam jurisdictionem quam super infideles habet habitu, deducere posse in actum. Patet igitur manifeste quod non indifferenter Ecclesia se intromittit ad judicandum de culpis omnium infidelium, nec propter omnes culpas nec in omnibus casibus, qui possunt reduci ad tres, ut potest colligi ex dictis sancti Thomae, Innocentij, et canonistarum.
+        </p>
+        <p>
+Primo, quando habitantes inter christianos aliqua atrocia crimina committunt, tunc enim puniri possunt tanquam subditi Ecclesiae vel saltem eius membris.
+        </p>
+        <p>
+Secundus casus?46 est quando possident regna quibus christianam gentem spoliarunt et turpia crimina [100v.] committunt, puta, crimen idolatriae vel contra naturam, quibus loca Christo dicata fedant et coinquinant.
+        </p>
+        <p>
+Tertio, quando, non contenti regnis et terris natiuis suis, prouincias christianorum inuaderent et bellico tumultu Ecclesiam molestarent vel in Christum vel diuos blasphemi essent. Omnia haec satis per supra deducta patent.
+        </p>
+        <p>
+Meminisse autem oportet glossam (in c. lus Quiritum, 1 distinctio)** et aliquos alios canonistas2*/ qui generaliter indistincte loquendo intricant materias et offuscant hominum ingenia. Hi enim, non distinguendo gentiles a gentilibus et infideles ab infidelibus, dicunt cum illa glossa: gentiles esse sub Imperio Romano. Hoc sic, absolute captum, dico esse stultum. Sed quia credendum non est glossam et caeteros qui simile dicunt in hunc incidisse errorem, dicendum est glossam intelligendam esse de gentilibus vel infidelibus, Judaeis, Sarracenis aut alterius religionis, qui viuunt intra prouincias Ecclesiae, vel quia incolunt regna Principum christianorum vel quia possident regna christianis adempta, quoniam illa regna includuntur intra fines Imperij Romani qui non excedunt fines populi christiani.
+        </p>
+        <p>
+Imperium enim Romanum certis limitibus distinctum est semperque fuit, autore Boethio%61 (De Consolatione, Libro 2*, prosa 7) ubi inquit: Etate Marci Tullij, sicut ipse quodam loco significat, nondum [101r.] Caucasum montem Romanae Reipublicae fama transcenderat et erat tunc adulta, id est, ab antiquo nota, Parthis etiam caeterisque id locorum gentibus formidolosa, et caetera. Haec Boethius.
+        </p>
+        <p>
+Non ergo Romani caesares domini fuerunt totius orbis, etiam quando Romana potestas magis extensa fuit per orbem. Et hodie Romanum Imperium non excedit Ecclesiae catholicae limites248 (ut in Authentica: De Non Alienandis vel Permutandis Rebus Ecclesiae, $ Sicut autem)^9 ibi: Non aliud quidem curans, aliud autem incuratum relinquens?9, sed in omni terra quam Romanorum continet lex et catholicae Ecclesiae sanctio haec, scilicet, lex extendatur et determinet quae sua sunt et caetera.
+        </p>
+        <p>
+Et ita nominatim docet Hostiensist3 (in Suma, titulo Qui Filij Sint Legitimi, $ Qualiter, a quo filij verbum, tum autoritatibus sanctorum. Inquit Hostiensis: Nec enim lex imperatoris ligare potest nisi illos quos Romanorum tenet lex et Ecclesiae catholicae sanctio, quia  extra, scilicet, Ecclesiam, non est Imperium.
+        </p>
+        <p>
+Hoc expresse probatur in L. 2, Cod. De Officio Prefecti Pretorio Africae *65, ibi: Ante inuasionem vuandalorum et Maurorum, respublica Romana fines habuerit er Vbi custodes antiqui seruabant, et cactera; et ibi: Speramus cito nostris pro venire temporibus ut et in securitate et pace prouinciae cum antiquis finibus integre reseruentur, et caetera; [101v.] et in multis paragraphis lex illa tetigit.
+        </p>
+        <p>
+Et Bartholustó5 (in L. Hostes, glossa in L. Non Dubito, ff De Captiuis et Postliminio)??? et Angelus de Perusio466 (in Authenticis: Vt Liceat Matri et Auiae, $ Quia vero, columine 8, notabili 2) ubi inquit quod Principes faciunt leges contra barbaros quia illi barbari erant eis36! subiecti.
+        </p>
+        <p>
+Ergo ubi non sunt subiecti et cessat ratio subiectionis, non potest princeps ferre legem quia cessat ratio jurisdictionis. Probatur etiam in L. 1, 2, et 3, Cod. De Fundis Limitrophis 68, 3, Libro 11%, et in L. 2, Cod. De eunuchis 469, ibi: Extra loca nostro imperio subiecta, et in L. Mercatores ^'^, Cod. De Commercijs et Mercatoribus, ibi: Ne alieni regni, ex caetera. Ergo regna gentilium erant aliena a ditione Romani Imperij. Et hoc ipsum fatebantur imperatores ipsi et proinde nec de jure nec de facto principatum obtinuerunt in toto orbe.
+        </p>
+        <p>
+Sunt qui asserant esse Romanum Caesarem orbis dominum de jure licet non de facto sed hi stultisime jactant haec; se solidis argumentis probare non possunt. Nimirum manifeste falsum. Neque enim hactenus ullo seculo quisquam fuit orbis dominus neque tyranica Romanorum arma orbem subegerunt. Ita ergo intelligi debet L. Deprecatio *, ff Ad Legem Rhodiam de lactu*'?, ex Authent.: Vt Omnes Obediant Judicibus Prouincialibus, S Haec considerantes, ubi dicitur: Precipimus omnibus quicumque (102r.] nostris obediunt sceptris in uniuersa ditione quae ascendentem videt et quae descendentem solem et quae ex utroque est latere. Haec ibi.
+        </p>
+        <p>
+Idem potest dicere quiuis princeps. Nullum enim est regnum quod non respiciat?! orientem, occidentem, meridiem ac septentrionem. Verum tamen est Romanum caesarem esse dominum uniuersalem christianorum. Quod docet Baldus? (in prooemio, ff columine 2) doctores (in L. 1, Cod. De Suma Trinitate ^ et ibi Iasso4/5, columine 2, et ibi Baldus in dicta L. 1, columine 2).
+        </p>
+        <p>
+Asserere autem Romanum imperatorem??? legitimum esse totius orbis dominum, vanissimum nugamentum est et adulatione decipere imperatores ansaque miscendi orbem dissidijs. Magisque ridiculum est quod preter alios scribit Michael Vlcurrunus in tractatu De Regimine Mundi, scilicet, quod Romano Caesari, quem septem Germaniae proceres eligunt vice totius mundi, tenentur obedire omnes orbis nationes. Citat Joanem Andream" (in Additionibus ad Speculatorem in titulo: De Rescriptis: Presentia, S ultimo, verbo Item quod obtentum).
+        </p>
+        <p>
+Sed nihil tale scribit Joanes Andreas sed quod Hi quibus hi principes successerunt eligebant ut collegium et uniuersitas consistens, scilicet, ex principibus et uniuerso populo subiecto Romano Imperio vel eligebat exercitus illam uniuersitatem representans, et cactera. Haec ille. Ergo non dicit [102v.] quod vice totius uniuersitatis mundi, et caetera; quamquam etiam si dixisset Joanes Andreas non minus esset reprehensibilis quam Michael qui ea imponit illi, quamuis potius quia nec illa Joanes Andreas asseueranter dicit sed refert quendam doctorem Vpoldum4$ nomine dicentem. Sed quia speramus, fauente Dei gratia, alibi sigillatim ostendere quam plenus sit erroribus tractatus predictus De Mundi Regimine, in presentiarum de hoc plus loqui supersedemus.
+        </p>
+        <p>
+Verba ergo beati Cyrilli non aduersantur nostrae catbolicae et probatissimae doctrinae quam omnes tam sacri quam profani doctores sequuntur.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

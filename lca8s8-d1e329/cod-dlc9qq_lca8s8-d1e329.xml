@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 22 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 22 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-12">Apr 12, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="102-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e329">
+        <head>Caput 22 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="16"/>Caput 22m.
+        </p>
+        <p>
+          <lb ed="#P"/>Rursus Augustinus Anchona*? adducit paganos peccantes contra naturam puniri posse per papam, quia unusquisque juste potest puniri pro transgressione legis quam  recipit et quam obseruare profitetur. Sed pagani et omnes barbarae nationes legem naturae recipiunt et per eam possunt conuinci. Papa vero est obseruator vel esse debet legis naturae. Ergo papa omnes paganos et barbaras nationes agentes contra legem naturae punire potest et debet.
+        </p>
+        <p>
+Ad hoc argumentum dicimus tripliciter253: Primo, verum est quemlibet puniendum esse per legem quam recipit et profitetur et [103 r.] sic per naturalem, cum hac tamen distinctione, videlicet, vel per judicium diuinum aut humanum secundum uniuscuiusque horum judiciorum rationem.
+        </p>
+        <p>
+Ad judicij quidem humani rationem pertinet punire peccata quae contra naturalem legem committuntur in peccatoribus qui subditi sunt humano judicio; ad diuinum autem spectat peccata punire illorum qui aliqua ratione humano judicio non subsunt. Vnde talis punitio diuino judicio reseruata noscitur.
+        </p>
+        <p>
+Hoc sic manifestari potest: Nam plura nefanda crimina committi possent contra legem naturalem diuinamque positiuam cuius papa primus est defensor et omnis judex competens, quibus incumbit et illa punire in subditis suis; in multis tamen casibus nec papa2% nec alius judex in proprijs etiam subditis habent potestatem talia puniendi, ex eo quod pertinent precise ad diuinum judicium.
+        </p>
+        <p>
+Et potest exemplificari in multis. Vnum est Si Quis aliquod scelus et quidem grauissimum contra naturalem legem et diuinam, coram ipso solo papa vel rege, nullis alijs arbitris presentibus, commisisset, ita quod papa vel Rex dumtaxat proprijs obtutibus vidisset.
+        </p>
+        <p>
+Certe papa vel Rex illud non posset punire. Cuius ratio est: quoniam Judicandum est secundum allegata et probata, et non secundum id quod judex peculiariter vidit; et ideo ille reseruatur diuino judicio, nam in casu illo non est (103v.] subditus talis delinquens humano judicio, id est, papae vel alterius judicio.
+        </p>
+        <p>
+Et papa, hunc puniens, merito audiret: Tu quis es quijudicas alienum seruum? domino suo aut stat aut cedit (Ad Romanos, 149)489. Quod, in specie supra posita, adducit Euaristus?255 papa, in c. Nullum, L. 2*, 30, q. 5. ibi: Nullum ante veram justamque probationem judicare aut damnare debemus 51, teste apostolo qui ait: Tu quis es qui judicas alienum seruum? Domino suo stat aut cadit, etc.
+        </p>
+        <p>
+Vbi Glosa48? inquit: Alienum seruum, id est, ab alio judicandum, scilicet, a Deo. Idem Euaristusi83 (in c. Deus omnipotens, 2, q. 1) adducit exemplum peccati quod Sodomitae commitebant.
+        </p>
+        <p>
+Huius modi est infidelitas Sarracenorum et Judaeorum in terris degentium christianorum, quae aduersatur legi diuinae quam a Deo acceperunt, et cuius papa est precipuus obseruator (ut in c. Sunt Quidam, 25, q. 1)484. Impietas etiam Sarracenorum aduersatur legi naturae. Colunt enim Pseudoprophetam impium omnium vitiorum colluuie conspurcatum; obseruant etiam quasdam caeremonias aduersus legem naturac. Non tamen puniuntur a papa vel ab alio principe, quoniam illorum peccatorum punitio reseruatur judicio diuino nec punitio pertinet ad papam vel ad alium hominem judicem, quia in illis peccatis nulli hominum sunt subditi.
+        </p>
+        <p>
+Et propterea doctores (in c. Quod Super His: De voto)*85 [104r.] et alijs locis, docent quod esse Judaeum, peccatum est quoad Deum, qui scelus punibit, non tamen quoad homines. Apud homines enim illud crimen non punitur sed diuino judicio reseruatur. Judaeum, inquiunt, esse in se est delictum, scilicet, habito respectu ad Deum et ad poenam eternam, sed non ad judicem et forum contentiosum, et sic non est per homines punibile.
+        </p>
+        <p>
+Ita docet Bartholust86 (in L. Apud Julianum, $ 1?, et ibi Iasso487, $ Constat, Sa columna) Ludouicus Romanus488 (in L. Multum ff De verborum Obligationibus) Joanes de Anania48? (in c. Presenti, in principio Extrauagantium, De Judaeis) Felinus499 (in c. Multorum, 22 columna eo titulo). Et alij etiam doctores idem tenent. Idem de Sarracenis, Arabibus, et alijs paganis. Neque eorum enim superstitio ab humanis judicibus christianis punitur sed Deo reseruatur, ut patet ex superioribus.
+        </p>
+        <p>
+Similiter judicandum de criminibus commissis ab ebrijs vel furiosis. Quamuis enim occidant, blasphement, vel atrocia alia committant, non sunt puniendi dum furor vel ebrietas durat (ut in Clementina: Si Furiosus: De Homicidis)491. Potest enim furiosus injuriam pati, non tamen facere (L. 7/lIud ff De Injurijs)92, Horum enim delicta non aliter judicantur quam si caso fortuito commissa forent.
+        </p>
+        <p>
+Si tamen homo culpa sua inebriatus est vel in furorem incidit, dando operam rei illicitae, tunc rei criminum sunt; ideo Deo rationem reddent. (sanctus [104v.] Thomas 22 23€, q. 64, a. 8, c; et 4%493, Sententiarum %4, distinctio 17, q. 2, a. 2%, q. 24, 24M),
+        </p>
+        <p>
+Quoniam quando quis culpa sua inebriatur, culpa ab eo commissa quodammodo est voluntaria, quemadmodum Si Quis arcum2% contorqueret, non respiciendo prius an esset aliquis qui feriri??7 posset, quemadmodum fecit Lamech qui huiusmodi casu Cain occidit4s5. Eadem ratione qui uxorem alienam concupiscit reus est apud Deum, non tamen humano judicio punitur. Simile exemplum assignatur in c. Sí Quis Insaniens, 15, q. 1, et in c. /nebriauerunt, et in c. Sane 496, His similes sunt qui ex alienis diuites euadere cupiunt et qui aliena possidentes restitutioni obnoxij sunt.
+        </p>
+        <p>
+Item qui mala fide possident; quamuis enim ab humanis judicibus non puniantur, apud Deum tamen rei criminis sunt. De his quodlibetum scripsit Adrianus2% Florentinus, Romanus pontifex, scilicet, Quodlibetum Qum, a, 29497, ubi quatuor scribit propositiones huic tractatui satis congruentes. De horum numero sunt etiam delicta carnalia puerorum qui doli capaces non sunt. Non puniuntur a jure (ut in c. 1%, De Delictis Puerorum)Y8. Vnde minor duodecim anis adulterij accusari non potest (ut in L. Minor, ff Ad Legem luliam de Adulterijs)999,
+        </p>
+        <p>
+Peccant tamen mortaliter quoad Deum si doli capaces sunt (ut in c. Firmissime, 15, q. 1, et in c. 1 ?, De Delictis Puerorum)3W, Vbi etiam [105r.] probatur quod si pueri furantur, mentiuntur vel falsum jurant, quae crimina sunt aduersus legem naturae, rei criminis sunt apud Deum si doli capaces sunt; quod in nonnullis contigit septimo ctatis anno.
+        </p>
+        <p>
+Judicio autem humano non puniuntur nisi sunt pubertati proximi (ut notatur in dicto c. 1? et in $ Pupillus, Institutionum: De Inutilibus Stipulationibus, glossa in $ In Suma: De Obligationibus Quae Ex Delicto Nascuntur).
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

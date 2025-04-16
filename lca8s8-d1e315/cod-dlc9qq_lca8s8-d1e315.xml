@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 21 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 21 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-10">Apr 10, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="99-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e315">
+        <head>Caput 21 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="1"/>Caput 21m
+        </p>
+        <p>
+          <lb ed="#P"/>His consonat quod scribit <ref>sanctus Thomas
+          <lb ed="#P"/>2a 2e, q. 10, ar.o 9</ref>. vbi inquit quod <quote>ecclesia
+          <lb ed="#P"/>de infidelibus qui nullo modo fidem chris<lb ed="#P" break="no"/>tianam
+          susceperunt, scilicet, paganis et iudaeis
+          <lb ed="#P"/>non habet iudicare spirituali iudicio: sed
+          <lb ed="#P"/>temporali in casu cum inter christianos
+          <lb ed="#P"/>commorantes aliquam culpam comittunt:
+          <lb ed="#P"/>et per fideles temporaliter puniuntur.
+          <lb ed="#P"/>Et in responsione ad secundum argumentum ait: quod ec<lb ed="#P" break="no"/>clesia
+          contra infideles non habet iudicium
+          <lb ed="#P"/>quo ad penam spiritualem eis infligendam:
+          <lb ed="#P"/>habet tamen iudicium super aliquos in<lb ed="#P" break="no"/>fideles
+          quoad temporalem penam inflin<lb ed="#P" break="no"/>gendam:
+          ad quod pertinet quod ecclesia ali<lb ed="#P" break="no"/>quando
+          propter aliquas speciales culpas sub<lb ed="#P" break="no"/>trahit
+          aliquibus infidelibus comunio<lb ed="#P" break="no"/>nem
+          fidelium</quote>. Haec sanctus Thomas.
+        </p>
+        <p>
+          Nota illa ver<lb ed="#P" break="no"/>ba
+          <quote>temporali in casu: cum inter christia<lb ed="#P" break="no"/>nos
+          conmorantes: aliquam culpam commit<lb ed="#P" break="no"/>tunt</quote>.
+          Item nota illa verba <quote>habet iudi<lb ed="#P" break="no"/>cium
+          super aliquos</quote>. Rursus nota illa
+          <lb ed="#P"/>propter aliquas culpas speciales. Ex quibus
+          <lb ed="#P"/>manifestissime probatur ecclesiam non<lb ed="#P" break="no"/>
+          posse temporaliter punire infideles nisi
+          <lb ed="#P"/>tantum cumviuunt inter christianos:
+          <lb ed="#P"/>neque id posse facere preter certos casus,
+          <lb ed="#P"/>vt puta si non remittant christianis
+          <lb ed="#P"/>vsuras: si habeant mancipia christia<lb ed="#P" break="no"/>na:
+          si blasphemi sint in christum do<lb ed="#P" break="no"/>minum
+          vel in diuos et in similibus
+            <add place="margin-right" hand="F">1 casus</add>
+          <lb ed="#P"/>casibus, de quibus<ref>in d. c. sepe cum se<pb ed="#P" n="100-r"/><lb ed="#P" break="no"/>quentibus</ref>
+          et <ref>glossa. 28. q. 1</ref>. et in <ref>c. multorum</ref>.
+          <lb ed="#P"/>et in <ref>c. etsi iudaeos</ref>. Et in <ref>c. cum sit ni<lb ed="#P" break="no"/>mis
+          de iudaeis</ref>. Et in pluribus aliis locis
+          <lb ed="#P"/>vtriusque iuris.
+        </p>
+        <p>
+          Et illa verba sancti Thomae
+          <lb ed="#P"/><ref>per fideles temporaliter puniuntur</ref>: sig<lb ed="#P" break="no"/>nificant
+          infideles in casibus in quibus
+          <lb ed="#P"/>eos punire licet: puniendos esse a prin<lb ed="#P" break="no"/>cipibus
+          secularibus, et ab eorum minist<lb ed="#P" break="no"/>ris
+          quibus subditi sunt: nisi in ca<lb ed="#P" break="no"/>sibus
+          in quibus ecclesia punit seculares.
+        </p>
+        <p>
+          <lb ed="#P"/>Rursus per illa verba sancti Thomae habet<lb ed="#P" break="no"/>
+          iudicium super aliquos infideles: docet
+          <lb ed="#P"/>ecclesiam non habere generaliter iurisdi<lb ed="#P" break="no"/>ctionem
+          super omnes infideles: sed tan<lb ed="#P" break="no"/>tum
+          super aliquos (intelligo contentiosam
+          <lb ed="#P"/>iurisdictionem) in eis scilicet casibus in
+          <lb ed="#P"/><ref>quibus supra capite sexto</ref> docuimus ecclesiam
+          <lb ed="#P"/>iurisdictionem quam super infideles ha<lb ed="#P" break="no"/>bet
+          habitu: deducere posse in actum. Pa<lb ed="#P" break="no"/>tet
+          igitur manifeste quod non indifferenter ec<lb ed="#P" break="no"/>clesia
+          se intromittit ad iudicandum de
+          <lb ed="#P"/>culpis omnium infidelium: nec propter omnes
+          <lb ed="#P"/>culpas: nec in omnibus casibus, qui pos<lb ed="#P" break="no"/>sunt
+          reduci ad tres vt potest colligi ex
+          <lb ed="#P"/>dictis sancti Thomae, Innocentii et canonis<lb ed="#P" break="no"/>tarum.
+        </p>
+        <p>
+          Primo quando habitantes inter
+          <lb ed="#P"/>christianos aliqua attrocia crimina com<lb ed="#P" break="no"/>mittunt:
+          tunc enim puniri possunt tan<lb ed="#P" break="no"/>quam
+          subditi ecclesiae vel saltem eius membris.
+        </p>
+        <p>
+          <add place="margin-left" hand="F">casus 2s.</add>
+          <lb ed="#P"/>¶ Secundus casus est quando pos<lb ed="#P" break="no"/>sident
+          regna quibus christianam gen<lb ed="#P" break="no"/>tem
+          spoliarunt et turpia crimina com<pb ed="#P" n="100-v"/><lb ed="#P" break="no"/>mittunt:
+          puta crimen idolatriae vel contra
+          <lb ed="#P"/>naturam: quibus loca christo dicata fedant
+          <lb ed="#P"/>et coinquinant.
+        </p>
+        <p>
+          ¶ Tertio quando non
+          <lb ed="#P"/>contenti regnis et terris natiuis suis: pro<lb ed="#P" break="no"/>uincias
+          christianorum inuaderent et belli<lb ed="#P" break="no"/>co
+          tumultu ecclesiam molestarent vel in<lb ed="#P" break="no"/>
+          christum vel diuos blasphemi essent: om<lb ed="#P" break="no"/>nia
+          haec satis per supra deducta patent.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Meminisse autem oportet <ref>glossam in c.
+          <lb ed="#P"/>ius quiritum 1 distinctio</ref> et aliquos ali<lb ed="#P" break="no"/>os
+            <add place="above-line" hand="B">canonistas</add> qui generaliter indistincte loquendo
+          <lb ed="#P"/>intricant materias et offuscant hominum
+          <lb ed="#P"/>ingenia. Hi enim non distinguendo gen<lb ed="#P" break="no"/>tiles
+          a gentilibus, et infideles ab infidelibus
+          <lb ed="#P"/>dicunt cum illa glossa: gentiles esse sub<lb ed="#P" break="no"/>
+          imperio romano. Hoc sic, absolute captum
+          <lb ed="#P"/>dico esse stultum. Sed quia credendum non
+          <lb ed="#P"/>est glossam et caeteros, qui simile dicunt in<lb ed="#P" break="no"/>
+          hunc incidisse errorem: dicendum est glosam
+          <lb ed="#P"/>intelligendam esse de gentilibus vel infide
+          <lb ed="#P"/>libus, iudaeis, sarracenis aut alterius religio<lb ed="#P" break="no"/>nis
+          qui viuunt intra prouincias ecclesiae:
+          <lb ed="#P"/>vel quia incolunt regna principum chris<lb ed="#P" break="no"/>tianorum:
+          vel quia possident regna chris<lb ed="#P" break="no"/>tianis
+          adempta. Quoniam illa regna in<lb ed="#P" break="no"/>cluduntur
+          intra fines emperii Romani:
+          <lb ed="#P"/>qui non excedunt fines populi christia<lb ed="#P" break="no"/>ni.
+        </p>
+        <p>
+          Imperium enim Romanum certis
+          <lb ed="#P"/>limitibus distinctum est semperque fuit
+          <lb ed="#P"/>autore <ref>Boethio de consolatione, libro 2o, pro<lb ed="#P" break="no"/>sa
+          7</ref> vbi inquit <quote>etate Marci Tullii, si<lb ed="#P" break="no"/>cut
+          ipse quodam loco significat: nondum
+          <pb ed="#P" n="101-r"/>
+          <lb ed="#P"/>Caucasum montem Romanae Reipublicae
+          <lb ed="#P"/>fama transcenderat et erat tunc adulta
+          <lb ed="#P"/>id est ab antiquo nota: parthis etiam caeterisque
+          <lb ed="#P"/>id locorum gentibus formidolosa et caetera</quote>. Haec Boethius.
+        </p>
+        <p>
+          Non ergo Romani caesares do<lb ed="#P" break="no"/>mini
+          fuerunt totius orbis, etiam quando
+          <lb ed="#P"/>Romana potestas magis extensa fuit per<lb ed="#P" break="no"/>
+          orbem. Et hodie Romanum emperium
+          <lb ed="#P"/>non excedit ecclesiae catholicae limites:
+          <note place="margin-right" hand="F">imperium Romanum
+            modo non excedit limites
+            ecclesiae catholicae</note>
+          ut
+          <lb ed="#P"/>in <ref>authentica de non alienandis vel permu<lb ed="#P" break="no"/>tandis
+          rebus ecclesiae, § sicut</ref> autem ibi: <quote>Non
+          <lb ed="#P"/>aliud quidem curans aliud autem incuratum
+          <lb ed="#P"/>relinquens sed in omni terra quam Ro<lb ed="#P" break="no"/>manorum
+          continet lex et catholicae ecclesiae<lb ed="#P" break="no"/>
+          sanctio haec scilicet lex extendatur
+          <lb ed="#P"/>et determinet quae sua sunt</quote> et caetera.
+        </p>
+        <p>
+          Et ita
+          <lb ed="#P"/>nominatim docet <ref>Hostiensis in suma
+          <lb ed="#P"/>titulo qui filii sint legitimi § quali<lb ed="#P" break="no"/>ter.
+          a quo filii verbum</ref> tum autoritati<lb ed="#P" break="no"/>bus
+            sanctorum enquit Hostiensis. <quote>Nec
+          <lb ed="#P"/>enim lex imperatoris ligare potest nisi
+          <lb ed="#P"/>illos quos Romanorum tenet lex et ec<lb ed="#P" break="no"/>clesiae
+          catholicae sanctio: quia extra, scilicet,
+          <lb ed="#P"/>ecclesiam, non est imperium</quote> hoc expres<lb ed="#P" break="no"/>se
+          probatur in <ref>l. 2, C. de Officio prefecti
+          <lb ed="#P"/>pretorio africae</ref> ibi: <quote>ante inuasionem Vuan<lb ed="#P" break="no"/>dalorum
+          et maurorum, respublica Roma<lb ed="#P" break="no"/>na
+            fines habuerit: et <quote>vbi custodes an<lb ed="#P" break="no"/>tiqui</quote>
+            seruabant</quote> et caetera. Et ibi <quote>speramus
+          <lb ed="#P"/>cito nostris pro venire temporibus: vt et in<lb ed="#P" break="no"/>
+          securitate et pace: prouinciae cum anti<lb ed="#P" break="no"/>quis
+          finibus integre reseruentur</quote> et caetera. [101v.] Et
+          <pb ed="#P" n="101-v"/>
+          <lb ed="#P"/>in multis § §. lex illa tetigit.
+        </p>
+        <p>
+          Et <ref>Bar<lb ed="#P" break="no"/>tholus
+          in l. hostes glossa in l. non du<lb ed="#P" break="no"/>bito,
+          ff de captiuis et postliminio</ref> et <ref>Angelus
+          <lb ed="#P"/>de Perusio in authenticis vt liceat matri et auiae
+          <lb ed="#P"/>§ quia vero columine 8: notabili 2</ref>. vbi in<lb ed="#P" break="no"/>quit
+          quod <quote>principes faciunt leges contra
+          <lb ed="#P"/>barbaros quia illi barbari erant <choice><orig>ei</orig><reg>eis</reg></choice>
+          <lb ed="#P"/>subiecti</quote>.
+        </p>
+        <p>
+          Ergo vbi non sunt subiecti et cessat
+          <lb ed="#P"/>ratio subiectionis, non potest princeps
+          <lb ed="#P"/>ferre legem: quia cessat ratio iurisdictio<lb ed="#P" break="no"/>nis.
+          Probatur etiam in <ref>l. 1. 2. et 3. C. de
+          <lb ed="#P"/>fundis limitrophis lib. 11o</ref>. et in <ref>l. 2.
+          <lb ed="#P"/>C. de Eunuchis ibi</ref>: <quote>extra loca nostro
+          <lb ed="#P"/>imperio subiecta</quote> et in <ref>l. mercatores.
+          <lb ed="#P"/>C. de commerciis et mercatoribus</ref> ibi <quote>ne alieni reg<lb ed="#P" break="no"/>ni</quote>,
+          et caetera. Ergo regna gentilium erant alie<lb ed="#P" break="no"/>na
+          a ditione Romani emperii. Et hoc
+          <lb ed="#P"/>ipsum fatebantur imperatores ipsi et
+          <lb ed="#P"/>proinde nec de iure nec de facto princi<lb ed="#P" break="no"/>patum
+          obtinuerunt in toto orbe.
+        </p>
+        <p>
+          ¶ Sunt qui asserant esse Romanum Caesarem or<lb ed="#P" break="no"/>bis
+          dominum de iure licet non de facto,
+          <lb ed="#P"/>sed hi stultisime iactant haec: se soli<lb ed="#P" break="no"/>dis
+          argumentis probare non possunt. Ni<lb ed="#P" break="no"/>mirum
+          manifeste falsum. Neque enim
+          <lb ed="#P"/>hactenus vllo seculo quisquam fuit orbis
+          <lb ed="#P"/>dominus: neque tyranica Romanorum ar<lb ed="#P" break="no"/>ma
+          orbem subegerunt. Ita ergo intelligi
+          <lb ed="#P"/>debet <ref>l. deprecatio ff. ad legem Rhodiam de
+          <lb ed="#P"/>lactu</ref>. et <ref>authe. vt omnes obediant iudi<lb ed="#P" break="no"/>cibus
+          prouincialibus § haec considerantes</ref> vbi
+          <lb ed="#P"/>dicitur <quote>precipimus omnibus quicumque
+          <pb ed="#P" n="102-r"/>
+          <lb ed="#P"/>nostris obediunt sceptris in vniuersa ditione,
+          <lb ed="#P"/>quae ascendentem videt, et quae descenden<lb ed="#P" break="no"/>tem
+          solem et quae ex vtroque est latere</quote>
+          <lb ed="#P"/>haec ibi.
+        </p>
+        <p>
+          Idem potest dicere quiuis princeps.
+          <lb ed="#P"/>Nullum enim est regnum quod non <choice><orig>rescipici<lb ed="#P" break="no"/>at</orig><reg>respici<lb ed="#P" break="no"/>at</reg></choice>
+          orientem, occidentem, meridiem ac sep<lb ed="#P" break="no"/>tentrionem.
+          Verum tamen est Romanum
+          <lb ed="#P"/>caesarem esse dominum vniuersalem chris<lb ed="#P" break="no"/>tianorum.
+          Quod docet <ref>Baldus in prohemio
+          <lb ed="#P"/>ff. columine 2</ref>. <ref>doctores in l. 1, C. de suma
+          <lb ed="#P"/>trinitate</ref> et ibi <ref>iasso, columine 2</ref>, et ibi <ref>Baldus
+          <lb ed="#P"/>in dicta l. 1. columine 2</ref>.
+        </p>
+        <p>
+          <lb ed="#P"/>Asserere autem Romanum imperatorem le<lb ed="#P" break="no"/>gitimum
+          <note type="marginal-note" place="margin-right" hand="F">Non est imperator dominus orbis</note>
+          esse totius orbis dominum, va<lb ed="#P" break="no"/>nissimum
+          nugamentum est et adulatione
+          <lb ed="#P"/>decipere imperatores: anssaque miscendi
+          <lb ed="#P"/>orbem dissidiis. Magisque ridiculum est<lb ed="#P" break="no"/>
+          quod preter alios scribit <ref>Michael Vlcurru<lb ed="#P" break="no"/>nus
+          in tractatu de regimine mundi</ref> (scilicet)
+          <lb ed="#P"/>quod <quote>Romano caesari quem septem germa<lb ed="#P" break="no"/>niae
+          proceres eligunt vice totius mundi:
+          <lb ed="#P"/>tenentur obedire omnes orbis nationes</quote>.
+        </p>
+        <p>
+          <lb ed="#P"/>Citat <ref>Ioanem Andream in additionibus
+          <lb ed="#P"/>ad speculatorem in titulo de rescriptis pre<lb ed="#P" break="no"/>sentia
+          § vltimo verbo item quod obten<lb ed="#P" break="no"/>tum</ref>:
+          sed nihil tale scribit ioanes Andreas
+          <lb ed="#P"/>sed quod <quote>hi quibus hi principes successerunt
+          <lb ed="#P"/>eligebant vt collegium et vniuersitas con<lb ed="#P" break="no"/>sistens
+          (scilicet) ex principibus, et vniuer<lb ed="#P" break="no"/>so
+          populo subiecto Romano imperio: vel
+          <lb ed="#P"/>eligebat exercitus illam vniuersitatem re<lb ed="#P" break="no"/>presentans</quote>
+          et cactera. haec ille. Ergo non dicit
+          <pb ed="#P" n="102-v"/>
+          <lb ed="#P"/>quod <quote>vice totius vniuersitatis mundi</quote> et caetera, quam<lb ed="#P" break="no"/>quam
+          etiam si dixisset<name>Ioanes Andreas</name>
+          <lb ed="#P"/>non minus esset reprehensibilis quam
+          <lb ed="#P"/><name>michael</name> qui ea imponit illi. Quanuis po<lb ed="#P" break="no"/>tius
+          quia nec illa <name>Ioanes Andreas</name> asseueranter
+          <lb ed="#P"/>dicit sed refert quendam doctorem <ref>Vpol<lb ed="#P" break="no"/>dum
+          nomine dicentem</ref>. Sed quia spera<lb ed="#P" break="no"/>mus
+          fauente dei gratia alibi sigillatim os<lb ed="#P" break="no"/>tendere
+          quam plenus sit erroribus <ref>tractatus
+          <lb ed="#P"/>predictus de mundi megimine</ref>, in pre<lb ed="#P" break="no"/>sentiarum
+          de hoc plus loqui supersedemus.
+        </p>
+        <p>
+          ¶ Verba ergo beati Cyrilli non aduersan<lb ed="#P" break="no"/>tur
+          nostrae catbolicae et probatissimae doctri<lb ed="#P" break="no"/>nae
+          quam omnes tam sacri quam profani doc<lb ed="#P" break="no"/>tores
+          sequuntur.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

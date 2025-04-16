@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 23 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 23 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-13">Apr 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="105-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e342">
+        <head>Caput 23 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="11"/>Caput 23m.
+        </p>
+        <p>
+          <lb ed="#P"/>Quemadmodum ergo plures sunt casus,
+          <lb ed="#P"/>quorum homines rei sunt apud Deum, non
+          <lb ed="#P"/>tamen apud homines: ita vt neque pontifex
+          <lb ed="#P"/>ipse illa crimina punire possit in homi<lb ed="#P" break="no"/>nibus
+          christianis sibi subditis: etiam si
+          <lb ed="#P"/>sint crimina aduersantia legi naturae et
+          <lb ed="#P"/>diuinae, cuius obseruator et defensor est
+          <lb ed="#P"/>ipse: quoniam personae illa crimina committen<lb ed="#P" break="no"/>tes,
+          aliqua ratione desinunt esse illius sub<lb ed="#P" break="no"/>diti
+          quantum ad huiusmodi vt apparet ex dic<lb ed="#P" break="no"/>tis.
+        </p>
+        <p>
+          Vnde talium punitio delictorum reser<lb ed="#P" break="no"/>uata
+          censetur diuino iudicio: nec propterea
+          <lb ed="#P"/>papa non est obseruator et defensor legis na<lb ed="#P" break="no"/>turae
+          et diuinae. Ita etiam multo minus
+          <lb ed="#P"/>pagani separatim sua regna incolentes,
+          <lb ed="#P"/>et qui papae subditi non sunt vt supra
+          <lb ed="#P"/>probatum est autoritatibus et rationibus
+          <lb ed="#P"/>per multis: non poterunt ab eo puniri: etiam
+          <lb ed="#P"/>si horrenda crimina aduersus naturae le<lb ed="#P" break="no"/>gem
+          comittant. Habent enim iudicem
+          <pb ed="#P" n="105-v"/>
+          <lb ed="#P"/>suum Deum qui per eamdem naturalem
+          <lb ed="#P"/>legem iudicabit et puniet illos. Quia so<lb ed="#P" break="no"/>li
+          deo subditi sunt et serui.
+        </p>
+        <p>
+          Hic enim
+          <lb ed="#P"/>quadrant illa <name>Pauli</name> <quote>verba domino suo
+          <lb ed="#P"/><del rend="strikethrough">autem</del> stat aut cadit</quote> <ref>ad Romanos 14</ref>. Non<lb ed="#P" break="no"/>
+          ergo pontifex desinit esse obseruator legis
+          <lb ed="#P"/>naturae ex eo quod huiusmodi peccata non puniat:
+          <lb ed="#P"/>cum non pertineat ad eum: sed ad Deum
+          <lb ed="#P"/>huiusmodi peccata punire. Et sic <name>Augustinus
+          <lb ed="#P"/>Anchona</name> errat et male infert ita arguens:
+          <add place="margin-left" hand="F">Contra Augustinum Anchona</add>
+          <lb ed="#P"/>infideles peccantes contra legem naturae,
+          <lb ed="#P"/>quam profitentur: iudicari possunt iuxta
+          <lb ed="#P"/>legem naturae: papa autem est eius obserua<lb ed="#P" break="no"/>tor.
+          ergo illos potest punire. Haec illatio bo<lb ed="#P" break="no"/>na
+          non est vt euidenter patet ex superior<lb ed="#P" break="no"/>ibus.
+        </p>
+        <p>
+          ¶ Deinde 2º. respondemus ad <name>Au<lb ed="#P" break="no"/>gustinum
+          de Anchona</name> quod Deus non consti<lb ed="#P" break="no"/>tuit
+          solum papam obseruatorem legis na<lb ed="#P" break="no"/>turae
+          sed reges principes et iudices etiam
+          <lb ed="#P"/>paganos iuxta illud <ref><expan><abbr>Ecclesiast</abbr><ex>ici</ex></expan> 17</ref>. <ref>in vnam<lb ed="#P" break="no"/>quamque
+          gentem posuit rectorem</ref>. Et <ref><expan><abbr>prouer</abbr><ex>biorum</ex></expan>
+          <lb ed="#P"/>8</ref> <ref>per me reges regnant, et legum condito<lb ed="#P" break="no"/>res
+          iusta decernunt: per me principes imper<lb ed="#P" break="no"/>ant:
+          et potentes decernunt iustitiam</ref>. Et
+          <lb ed="#P"/>ad Roma. <choice><sic>17</sic><corr>13</corr></choice>. <quote>Non est potestas nisi a deo</quote>.
+          <lb ed="#P"/><quote>Ministri enim dei sunt in hoc ipsum serui<lb ed="#P" break="no"/>entes</quote>.
+        </p>
+        <p>
+          Loquitur ibi <name>Paulus</name> de paganis prin<lb ed="#P" break="no"/>cipibus:
+          neque enim eo seculo vllus erat prin<lb ed="#P" break="no"/>ceps
+          christianus. Fateor tamen magis
+          <lb ed="#P"/>pertinere ad sumum pontificem efficere
+          <lb ed="#P"/>vt seruetur lex naturae quam ad alium prin<lb ed="#P" break="no"/>cipem
+          etiam christianum, quod probatur
+          <pb ed="#P" n="106-r"/>
+          <lb ed="#P"/>in <ref>c. officii nostri. 24. q. 1</ref>. ibi <quote>qui<lb ed="#P" break="no"/>bus
+          <expan><abbr>i</abbr><ex>d est</ex></expan> nobis maior cunctis christianae
+          <lb ed="#P"/>religionis zelus incumbit</quote>. Vnicuique tamen
+          <lb ed="#P"/>regi vel iudici etiam si sint principes vel
+          <lb ed="#P"/>reges infideles pertinet cura condendi le<lb ed="#P" break="no"/>ges
+          et decreta, quibus lex naturalis quam
+          <lb ed="#P"/>omnes homines suscipiunt obseruetur per
+          <lb ed="#P"/>omnia.
+        </p>
+        <p>
+          Et enim in eum vsum consti<lb ed="#P" break="no"/>tuti
+          sunt a Deo in eo rerum fastigio ut
+          <lb ed="#P"/>probatur <ref><expan><abbr>sapien</abbr><ex>tiae</ex></expan> 6</ref> vbi appellantur mi<lb ed="#P" break="no"/>nistri
+          dei ad hoc opus efficiendum. Et sic
+          <lb ed="#P"/>infidelis legem naturae non seruans puni<lb ed="#P" break="no"/>endus
+          est a principe suo: non autem ab exte<lb ed="#P" break="no"/>ro
+          principe vt seruetur lex naturalis. Et
+          <lb ed="#P"/>enim <quote source="http://scta.info/resource/rom13_1@14-20">quae a deo sunt ordinata sunt</quote> <ref target="http://scta.info/resource/rom13_1@14-20">ad
+          <lb ed="#P"/>Roma. 13</ref>.
+        </p>
+        <p>
+          Quodsi princeps non curet di<lb ed="#P" break="no"/>ligenter
+          obseruationem legis naturae, si
+          <lb ed="#P"/>est christianus: potest et debet corrigi a pa<lb ed="#P" break="no"/>pa
+          ut in <ref>c. Nouit de iudiciis</ref>. ex in <ref>c. soli<lb ed="#P" break="no"/>tae</ref>.
+          <ref>de maioritate et obedientia</ref>. Et <ref>15. q. 6. c. ali<lb ed="#P" break="no"/>us</ref>.
+          Et <ref>96 distinctio, c. duo</ref> et <ref>c. si imperator</ref>.
+        </p>
+        <p>
+          <lb ed="#P"/>Et hoc propter duo. Primo, quia nemo transgre<lb ed="#P" break="no"/>ditur
+          legem naturae, presertim in rebus gra<lb ed="#P" break="no"/>uibus,
+          quae natura dictat: qui non peccet
+          <lb ed="#P"/>mortaliter. Ergo ad papam pertinet chris<lb ed="#P" break="no"/>tianum
+          hominem legem naturalem trans<lb ed="#P" break="no"/>gredientem
+          corrigere ut in <ref>dicto c. Nouit</ref>.
+        </p>
+        <p>
+          2º. quia religio christiana non potest ob<lb ed="#P" break="no"/>seruari
+          neque subsistere: nisi obseruetur
+          <lb ed="#P"/>lex naturalis. Cum igitur papae precipue
+          <lb ed="#P"/>incumbat cura tuendae et confirmandae re<lb ed="#P" break="no"/>ligionis
+          christianae: sequitur etiam ad
+          <pb ed="#P" n="106-v"/>
+          <lb ed="#P"/>illum pertinere efficere vt seruetur lex na<lb ed="#P" break="no"/>turalis
+          inter christianos. Si autem peccans
+          <lb ed="#P"/>aduersum legem naturae sit princeps in<lb ed="#P" break="no"/>fidelis.
+          Deum habet vltorem iuxta <ref>glo<lb ed="#P" break="no"/>sam
+          illorum verborum</ref>, <quote>tibi soli peccaui</quote>
+          <lb ed="#P"/><ref>psalmo 50</ref>. quod triplici ratione probatur.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Primo quoniam neque ad papam: neque
+          <lb ed="#P"/>ad ecclesiam pertinet iudicare eos, qui fo<lb ed="#P" break="no"/>ris
+            sunt scilicet paganos <ref>1 ad Corinthios 5</ref>.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Secundo quoniam supponimus paganos
+          <lb ed="#P"/>peccare in regnis suis extra prouintias
+          <lb ed="#P"/>christianas: et sic eorum crimina minime
+          <lb ed="#P"/>euertunt vel noxia sunt christianae reli<lb ed="#P" break="no"/>gioni:
+          ob cuius tutelam papae supra omnes
+          <lb ed="#P"/>Reges et principes pertinet curare, vt lex na<lb ed="#P" break="no"/>turalis
+          obseruetur.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Tertio quoniam ta<lb ed="#P" break="no"/>lis
+          princeps Deum habet vltorem et alienus
+          <lb ed="#P"/>seruus est subditus (scilicet) Deo soli quem
+          <lb ed="#P"/>iudicem seuerissimum experientur iuxta
+          <lb ed="#P"/>illud <ref>Sapien. 6</ref>. <quote>Iudicium durissimum
+          <lb ed="#P"/>his qui presunt fiet: potentes potenter
+          <lb ed="#P"/>tormenta patientur. Ad vos ergo reges
+          <lb ed="#P"/>sunt hi sermones mei vt discatis sapien<lb ed="#P" break="no"/>tiam
+          <choice><sic>ut</sic><corr>et</corr></choice> non excidatis</quote> ac si apertius di<lb ed="#P" break="no"/>ceret:
+          <quote>mihi domino et qui sum vester do<lb ed="#P" break="no"/>minus
+          aut statis aut caditis</quote>.
+        </p>
+        <p>
+          Lex igitur naturalis
+          <lb ed="#P"/>suos habet tutores, ac obseruato<lb ed="#P" break="no"/>res
+          vbique etiam apud paganos: qui eam co<lb ed="#P" break="no"/>missis
+          criminibus transgredientes diuino
+          <lb ed="#P"/>iudicio reseruantur et principibus suis pe<lb ed="#P" break="no"/>nas
+          dant. Vnde patet haud congrue <name>Au<pb ed="#P" n="107-r"/><lb ed="#P" break="no"/>gustinum
+          de Anchona</name> inferre genera<lb ed="#P" break="no"/>liter:
+          cum non adducat rationem aliquam
+          <lb ed="#P"/>specialitatis: vel autoritatem expressam
+          <lb ed="#P"/>qua pertineat potius ad ecclesiam puni<lb ed="#P" break="no"/>re
+          infideles agentes contra legem natu<lb ed="#P" break="no"/>ralem
+          quam propter alia peccata.
+        </p>
+        <p>
+          ¶ .3º. Res<lb ed="#P" break="no"/>pondemus
+          ad <name>Augustinum</name> quoniam
+          <lb ed="#P"/>ecclesia non punit crimina infidelium
+          <lb ed="#P"/>sibi vel membris suis subditorum: quae
+          <lb ed="#P"/>precise comittunt contra Deum, nisi
+          <lb ed="#P"/>quatenus illorum crimina nocent vtili<lb ed="#P" break="no"/>tati
+          christianae religionis, ut docet <ref>glosa
+          <lb ed="#P"/>in c. post miserabilem, in verbo denega<lb ed="#P" break="no"/>ri.
+          de vsuris</ref>. Vbi illa verba <name>Pauli</name> <quote>quid
+          <lb ed="#P"/>mihi iudicare de his qui foris sunt</quote> in<lb ed="#P" break="no"/>terpretatur
+          glosa. <quote>quatenus deum offen<lb ed="#P" break="no"/>dunt</quote>:
+          si tamen homines offenderent aut
+          <lb ed="#P"/>essent in scandalum vel preiudicium chris<lb ed="#P" break="no"/>tianae
+          religionis, tunc puniri possent. Quod
+          <lb ed="#P"/>etiam docent <ref>doctores in clemen. 1. de<lb ed="#P" break="no"/>
+          testibus</ref>.
+        </p>
+        <p>
+          Sed crimina paganorum quantum<lb ed="#P" break="no"/>uis
+          sint abominanda et contra naturam
+          <lb ed="#P"/>si comittantur in prouinciis, <choice><sic>quae</sic><corr>quas</corr></choice> ipsi
+          <lb ed="#P"/>pagani possident: nec vnquam fuerunt christia<lb ed="#P" break="no"/>norum
+          neque hominibus christianis neque
+          <lb ed="#P"/>nocent vtilitati christianae reipublicae.
+          <lb ed="#P"/>Ergo ad ecclesiam non pertinet punire
+          <lb ed="#P"/>crimina quantumuis grauia talium infide<lb ed="#P" break="no"/>lium
+          siue peccatorum.
+        </p>
+        <p>
+          ¶ Preterea 2º.
+          <lb ed="#P"/>ecclesia non iudicat homines seculares
+          <lb ed="#P"/>nisi ratione rerum pertinentium ad a<lb ed="#P" break="no"/>nimam,
+          vt supra probauimus: sed ecclesia
+          <pb ed="#P" n="107-v"/>
+          <lb ed="#P"/>curat animas infidelium duntaxat quo
+          <lb ed="#P"/>ad predicandum illis leniter et mitissime
+          <lb ed="#P"/>euangelium christi: vt iam etiam ex con<lb ed="#P" break="no"/>clusis
+          apparet. Ergo ecclesia minime potest
+          <lb ed="#P"/>punire infideles ob crimina contra naturam
+          <lb ed="#P"/>vel alia.
+        </p>
+        <p>
+          3º. arguitur per rationem
+          <lb ed="#P"/>adductam primo loco contra hoc <ref>argumentum
+          <lb ed="#P"/>secundum <name>Augustini</name></ref> (videlicet) peccatum iudaeo<lb ed="#P" break="no"/>rum
+          et sarracenorum in quantum iudaei vel
+          <lb ed="#P"/>sarraceni sunt: et sic infidelitas eorum
+          <lb ed="#P"/>maximum peccatum est: non tamen ex
+          <lb ed="#P"/>eo puniuntur ab hominibus quod non est
+          <lb ed="#P"/>ex alio: nisi quod inde non leditur nec impe<lb ed="#P" break="no"/>ditur
+          bonum nostrae christianae reipublicae
+          <lb ed="#P"/>propter quod conseruandum et generaliter
+          <lb ed="#P"/>propter quodcumque bonum cuiuscumque
+          <lb ed="#P"/>reipublicae oportet ne delicta remane<lb ed="#P" break="no"/>ant
+          impunita <ref>dicto c. ut famae</ref> et <ref>ff ad
+          <lb ed="#P"/>l. aquil.</ref> <ref>l. vulneratus in fine</ref>, et <ref>ff de
+          <lb ed="#P"/>solutionibus l. stichum. § 1</ref>. et <ref>ff de iudiciis
+          <lb ed="#P"/>l. si longius, § 1</ref>.
+        </p>
+        <p>
+          Immo vero non puni<lb ed="#P" break="no"/>re
+          illos vtile est religioni christianae, vt
+          <lb ed="#P"/>videmus in iudaeis, quorum libri veritatis
+          <lb ed="#P"/>euangelicae testimonium perhibent, et
+          <lb ed="#P"/>tam illi quam sarraceni mansuetudinem /
+          <lb ed="#P"/>caritatem ac lenitatem christianae rei<lb ed="#P" break="no"/>publicae
+          collaudant, cum seniores sunt.
+          <lb ed="#P"/>Immo forsan ecclesia dissimularet quacuis
+          <lb ed="#P"/>crimina contra naturam a paganis com<lb ed="#P" break="no"/>missa
+          etiam si tales pagani sibi sub<lb ed="#P" break="no"/>diti
+          essent: nisi enormiter respublica
+          <lb ed="#P"/>christiana lederetur.
+        </p>
+        <p>
+          Quod prouenit
+          <pb ed="#P" n="108-r"/>
+          <lb ed="#P"/>ex duobus. Primo: quia blasphemando a<lb ed="#P" break="no"/>dorandum
+          christi nomen vel sanctorum suo<lb ed="#P" break="no"/>rum
+          coram eius cultoribus non solum deum
+          <lb ed="#P"/>offenderent: sed etiam christianis ipsis fo<lb ed="#P" break="no"/>rent
+          iniuriosi. Vnde nisi tales iniurias
+          <lb ed="#P"/>vindicarent: fides ipsa et christiana reli<lb ed="#P" break="no"/>gio
+          paulatim etiam apud catholicos veni<lb ed="#P" break="no"/>ret
+          in derisum siue opprobrium.
+        </p>
+        <p>
+          ¶ Idem
+          <lb ed="#P"/>dicendum de nefando peccato. Nam
+          <lb ed="#P"/>si pagani cohabitantes cum christianis in<lb ed="#P" break="no"/>tra
+          candem ciuitatem vicium abominan<lb ed="#P" break="no"/>dum
+          sodomiae <del rend="strikethrough" hand="B">crimen</del> exercent et non pu<lb ed="#P" break="no"/>nirentur:
+          pueri iuuenes vel homines
+          <lb ed="#P"/>natura male inclinati proculdubio cito
+          <lb ed="#P"/>vel sero corrumperentur. Et ideo nimirum
+          <lb ed="#P"/>puniendi essent a christianis principibus
+          <lb ed="#P"/>quibus sunt. Iuxta illud <ref><name>Hieronimi</name></ref>: <quote>re<lb ed="#P" break="no"/>secandae
+          sunt putridae carnes et scabiosa ouis
+          <lb ed="#P"/>a caulis repellenda: ne tota domus, massa
+          <lb ed="#P"/>corpus, et pecora ardeant, corrumpantur,
+          <lb ed="#P"/>putrescant, intereant</quote> et caetera. <ref>24. q. 3. c.
+          <lb ed="#P"/>resecandae</ref>. Ex aliis autem peccatis infideli<lb ed="#P" break="no"/>um
+          commorantium etiam <add place="above-line" hand="B">cum</add> fidelibus: non vi<lb ed="#P" break="no"/>detur
+          imminere tale periculum.
+        </p>
+        <p>
+          ¶ Dixi
+          <lb ed="#P"/>quod ecclesia forsan dissimularet, mihi tamen
+          <lb ed="#P"/>magis placet huiusmodi peccata atrocia sem<lb ed="#P" break="no"/>per
+          puniri a principibus christianis etiam
+          <lb ed="#P"/><sic>etiam</sic> si a paganis subditis comittantur.
+          <lb ed="#P"/>Quoniam quicumque bonus princeps precipue
+          <lb ed="#P"/>catholicus quidquid natura horret a reg<lb ed="#P" break="no"/>no
+          suo legibus et poenis debet diligenter pro<lb ed="#P" break="no"/>hibere.
+          Nisi eiusmodi prohibitio vel potioris
+          <lb ed="#P"/>boni esset impeditiua: vel peioris mali causa<lb ed="#P" break="no"/>tiua.
+        </p>
+        <p>
+          ¶ Secundo laederetur respublica ex
+          <pb ed="#P" n="108-v"/>
+          <lb ed="#P"/>eo quod ob huiusmodi crimina blasphemiae et Sodo<lb ed="#P" break="no"/>miae:
+          pestilentiae, fames, et terraemotus exo<lb ed="#P" break="no"/>riri
+          solent: Vt <ref>in authentico</ref>. <quote>vt non luxurientur
+          <lb ed="#P"/>homines contra naturam: nequeiurent per
+          <lb ed="#P"/>capillos neque blasphemi sint in deum sub
+          <lb ed="#P"/>pena capitis: ne (inquit) ex contemptu ta<lb ed="#P" break="no"/>lium
+          scilicet puniendi talia: inueniatur et
+          <lb ed="#P"/>ciuitas et respublica per hos impios actus
+          <lb ed="#P"/>ledi</quote>. Haec ibi.
+        </p>
+        <p>
+          Item equum est christia<lb ed="#P" break="no"/>nos
+          principes punire in subditis quod
+          <lb ed="#P"/>tantopere aduersatur legi naturae. Ergo
+          <lb ed="#P"/>si peccata infidelium nociua non sunt
+          <lb ed="#P"/>christianae reipublicae: cessat ratio intro<lb ed="#P" break="no"/>mittendi
+          se ecclesia de peccatis corum pu<lb ed="#P" break="no"/>niendis:
+          etiam (vt videtur) si delinquen<lb ed="#P" break="no"/>tes
+          infideles sint subditi ei vel membro<lb ed="#P" break="no"/>rum
+          eius.
+        </p>
+        <p>
+          ¶ Cum igitur infideles quos
+          <lb ed="#P"/>hic accusare nitimur per quaecumque crimi<lb ed="#P" break="no"/>na
+          sua minime noceant ecclesiae aut mem<lb ed="#P" break="no"/>bris
+          eius cum supponamus eos in sepa<lb ed="#P" break="no"/>ratissimis
+          teris et regnis propriis sub
+          <lb ed="#P"/>eorum regibus et naturalibus dominis de<lb ed="#P" break="no"/>gere
+          ac sic non subdic ecclesiae. Preterea: si
+          <lb ed="#P"/>propter peccata sua deus interdum eos
+          <lb ed="#P"/>puniat pestilentia, fame, terraemotibus
+          <lb ed="#P"/>et aliis quibusuis flagellis: haec quidem
+          <lb ed="#P"/>mala incomoda sunt et damna regnorum
+          <lb ed="#P"/>suorum et inter se ipsos perpetiuntur
+          <lb ed="#P"/>illa et regiones suas non exeunt, ergo non
+          <lb ed="#P"/>sunt nociui christianae reipublicae nec
+          <lb ed="#P"/>per eos aut propter eorum peccata incommo<lb ed="#P" break="no"/>datur
+          ecclesia.
+        </p>
+        <p>
+          Ex quibus omnibus con<lb ed="#P" break="no"/>grue
+          sequitur de peccatis quantum cumque
+          <lb ed="#P"/>grauibus eiusmodi infidelium iudicare
+          <pb ed="#P" n="109-r"/>
+          <lb ed="#P"/>aut punire non pertinet ad ecclesiam. Ni<lb ed="#P" break="no"/>si
+          (ut inferius dicetur) operam dare qua<lb ed="#P" break="no"/>tenus
+          ad fidem christi leniter et cum om<lb ed="#P" break="no"/>ni
+          mansuetudine inuitentur non cum
+          <lb ed="#P"/>armis aut violentia, et per regna illa chris<lb ed="#P" break="no"/>tiana
+          religio dilatetur et propagetur.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

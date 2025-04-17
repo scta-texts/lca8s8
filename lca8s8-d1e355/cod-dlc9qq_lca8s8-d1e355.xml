@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 24 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 24 [Bnf 12926 Transcription]</title>
+          <date when="todaysdate">todaysdateverbose</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="todaysdate" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="109-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e355">
+        <head>Caput 24 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="P" n="7"/>Caput 24m.
+        </p>
+        <p>
+          ¶ Tertio, adducit Augustinus Anchona quod infideles judicati et damnati sunt ab Ecclesia. Equidem si intelligit infidelium crimina jurisdictione contentiosa puniri ab Ecclesia, errat manifeste, ut ex superioribus liquet. Quod si intelligit Ecclesiam judicare et damnare paganos judicio catholico inquantum judicat per fidei certitudinem quam habet eos eterno igni addicendos, haud negamus. Nec enim extra Ecclesiam est salus (ut 24, q. 1, c. Alienus)522, Non enim judicat vel damnat eos judicio contentiosae jurisdictionis ita ut eos propter crimina puniat, extra sex casibus quos jam coepimus numerare. Fatemur quod si euigilauerint potestate clauium, possunt ab Ecclesia solui a peccatis.
+        </p>
+        <p>
+Quod Augustinus subijcit: Ecclesiam babere potestatem judiciariam super infideles, absolute ac generaliter intellectum, falsum est, ut sepe saepius supra fuit probatum?65, Oportet enim distinguere an infideles christianis principibus subditi sint et quae crimina committant et an sint Judaei, an Sarraceni, [109v.] an heretici vel schismatici, an infideles qui possident prouincias quae quondam ad christianam Ecclesiam pertinuerunt, an noceant incursionibus populo christiano. Hi enim casus distinguendi sunt, quod satis liquet ex Augustino523 (Libro De vera religione):
+        </p>
+        <p>
+Haec inquit Ecclesia catholica, per totum orbem valide lateque diffusa, omnibus errantibus utitur ad profectus suos et ad eorum correctionem, cum euigilare voluerint. Vtitur enim gentibus ad materiam operationis suae, hereticis adprobationem doctrinae suae, schismaticis ad documentum stabilitatis suae, Judaeis ad comparationem pulchritudinis suae. Alios ergo inuitat, alios excludit, alios antecedit 296, omnibus tamen gratiae Dei participandae datpotestatem, siue illi formandi sunt adhuc siue reformandi siue recolligendi siue admittendi et caetera. Haec Augustinus.
+        </p>
+        <p>
+Haec verba, referendo singula, omnes casus superius tactos comprehendunc: Illa enim verba ad materiam operationis suae referuntur ad gentiles quibus verbum Dei est predicandum ab Ecclesia. Hoc enim est proprium Ecclesiae munus. Rursus illud verbum inuitat clarius significat Ecclesiam non cogere sed allicere et adducere sanctis exemplis et persuasiuis rationibus homines ad fidem. Similiter illa: formandi sunt adhuc significant non fuisse formatos neque instructos verbo Dei et doctrina catholica, quod [110r.] non pertinet ad hereticos sed ad illos qui nondum fidem susceperunt.
+        </p>
+        <p>
+De illis enim, scilicet, hereticis, inquit excludit et reformandi, quibus verbis significat hereticos et etiam schismaticos non resipiscentes, excommunione, scilicet, poena spirituali, eijciendos ab Ecclesia. Quod si contumaciter in errore persistant, flammis absumendi sunt. Illud verbum reformandi significat loqui Augustinum de his qui, recte formati, deformati postea erroribus sunt et judicium quo sunt reformandi.
+        </p>
+        <p>
+Illa verba alios exclud?i97t intelligi possunt de infidelibus qui ad jurisdictionem papae non pertinent nec pontifex eorum crimina punit, ut supra docui, cum reipublicae christianae minime noceant. Sed si peccata etiam horrenda perpetrant, nulli nisi sibi ipsis nocent et ideo Deum habent dumtaxat ultorem.
+        </p>
+        <p>
+Illa vero: alios antecedit et admittendi demonstrant Ecclesiae benignitatem paratae, scilicet, ad suscipiendum Judaeos etiam si horrendo commisso crimine Christum Dominum occiderunt. Quod si tanti criminis reos in gremium Ecclesia recipit, multo magis suscipiet paganos quorum peccatum minus est.
+        </p>
+        <p>
+Sed et illa verba: omnibus participandae gratiae Dei dat potestatem verba adsunt pagano, scilicet, si suscipiat fidem christianam, heretico compellendo illum ut se reconciliet [110v.] Ecclesiae, schismatico si orthodoxis sese conformet, Judaeis si apertis oculis veritatem Christi et suam ignorantiam intellexerunt. Et sic omnibus Ecclesia prebet Ecclesiae certam spem suae salutis.
+        </p>
+        <p>
+Omnes?68 ergo cuiusque generis aut speciei existant infideles ad judicium spectant Ecclesiae, sed multum differenter. Pertinent ad Ecclesiam infideles qui numquam fidem audierunt, quantum ad predicationem et conuersionem per eius ministros procuratam, et quoniam possunt si volunt eius membra effici.
+        </p>
+        <p>
+Hoc est quod sanctus Thomas*^4 (3 pars, q. 8, a. 3, ad 1") scribit, quod eriam si infideles actu non sunt de Ecclesia, sunt tamen de Ecclesiastica potentia. Quae quidem in duobus fundatur: primo, quidem etprincipaliter, in virtute Christi quae est sufficiens ad salutem totius bumani generis. Secundario, in arbitrij libertate qua bomo quilibet, adiuuante diuina gratia, potest audita Christi doctrina eius membrum fieri.
+        </p>
+        <p>
+Et sic patet non omnes infideles esse de Ecclesiae judiciaria potestate, ut Augustinus de Anchona est opinatus.
+        </p>
+        <p>
+Concedimus tamen uniuersos infideles occasionaliter fore de Ecclesia fructuosa utilitate, rationibus supra ex verbis Augustini De vera religione allatis, ut etiam dicit Anchona in argumento quarto. Sed reuera [111r.] doctrina eius satis confusa est in hac parte sicut doctrina Innocentij a quo accepit quasi formaliter, et propterea eius argumenta non sunt multum curanda. Et sic satisfactis262 prout credimus argumentis  Augustini Anconae simul et Innocentij, transeundum est ad caeteros casus in quibus Ecclesia jurisdictionem quam habitu habet contentiosam deducat ad actum aduersus infideles.
+        </p>
+        <p>
+Est igitur tertius casus?/? huiusmodi: si blasphemi sunt in Christum vel in diuos vel in christianam religionem malitiose scienterque contumeliose, loquentes ex odio et contemptu christianae veritatis. Haec enim Ecclesia neque dissimulare neque ferre debet, ut supra docuimus capite 15, 16*. Immo vero in eos arma mouere debet.
+        </p>
+        <p>
+Si tamen pagani blasphema loquerentur de christiana religione non ex contemptu et odio religionis sed iratim christianos a quibus male mulctati, injurijs affecti fuissent, absque legitima causa, ut contigit apud indos in prouincia Xalisci, ubi in irrisionem sacerdotum et christianorum indi placentulam massae in altum utraque manu erigebant, imitantes consuetudinem christianorum sacerdotum qui sacra facientes corpus Domini Nostri Jesu Christi populo ostentant; hi tales non sunt blasphemi; ignorant  enim [111v.] quod agunt neque sciunt illud quod christiani sacerdotes ostendunt??! esse adorandum Christi corpus.
+        </p>
+        <p>
+Nec illa ex contemptu faciunt sed vindicandi cupiditate cum irrisione actus illorum quos saeuissimos hostes experti fuerant imitantur.  Existimant enim religionem conuenire cum vita impijssimorum hominum a quibus vix est credibile quantum miserandae calamitatis acceperint, quantum saeuae tyranidis pertulerint.
+        </p>
+        <p>
+Quinimo etiamsi verbum Dei illis anuntiatum et predicatum fuisset, non essent dicendi blasphemi, si impie loquerentur de christiana religione, cum duo vel tres homines pij verbum Dei illis predicarent, mille autem eiusdem proffessionis, cum quibus predicatores familiariter agerent, impia vita immanitate, saeuitia, superbia, christianam religionem infamarent. Hi optimo jure appellandi sunt blasphemi juxta illud Pauli525 (44 Romanos 2%): Per vos blasphematur nomen domini inter gentes. Rursus Petri526 (23€ c, 29): Per vos via veritatis blasphematur.
+        </p>
+        <p>
+Obijciunt aduersarij idolorum cultum esse blasphemiam in Deum juxta notata per Diuum Thomam (22 2*5, q. 94, a. 3)527 et quod ideo idolatrae bello impeti possunt, juxta scripta per Diuum [112r.] Thomam (23 26, q. 10, a. 8)528, Sed reuera sanctus Thomas non vult significare absolute blasphemiam esse justam?72 causam belli contra idolatras; jam enim probatum est supra quod si blasphemia idolatria sit, non tamen pertinet ad Ecclesiam idolatras punire. Tantum loquitur sanctus Thomas de his  qui scienter ac malitiose destinato consilio blasphemi sunt in Christum et impediunt predicationem Euangelij et ne quis fidem suscipiat. Verba sancti Thomae32 in dicto a. 8 subijciam: Sunt inquit compellendi a fidelibus, si adsitfacultas, utfidem non impediant vel blasphemijs vel malis persuasionibus vel etiam apertis persecutionibus. Haec ille.
+        </p>
+        <p>
+Haec autem blasphemia qualis sit exponit ibi Cajetanus530 in commentarijs suis. Considera inquit diligenter causam justam belli contra infideles et compulsiones eorum ne, scilicet, fidem impediant aliquo trium modorum, scilicet, vel blasphemijs dicendo mala de Christo Jesu aut sanctis eius aut Ecclesiae eius, velpersuasionibus inducendo nostros ad infidelitatem, vel persecutionibus. Haec ille.
+        </p>
+        <p>
+Vnde satis apparet de qua blasphemia sanctus doctor ibi loquatur quae bello vindicari mereatur, non esse idolatriam sed verba contumeliosa in [112v.] Christum Dominum Nostrum malitiose prolata tali intentione ut fides non suscipiatur catholica. verum pro blasphemia, quae contra Deum ex sacrilegis ritibus et caeremonijs pro obseruantia legis siue sectae cuiuscumque infidelium resultat, etiamsi sint idolatrae, quod reuera blasphemia est, ut bene dicit sanctus Thomas$31 (ubi supra, q. 94, a. 3) non possunt debellari.
+        </p>
+        <p>
+Hoc apertissime probatur: Judaei, obseruando et exercendo caeremonias hodie legis Moysi, absque dubio, blasphemiam committunt in Deum. Similiter Sarraceni obseruantes273 legem spurcissimi Machometi, et utrique odio habent legem Christi et totam catholicam religionem tamquam execrabilem et malam, et hoc constat Ecclesiae catholicae, et tamen Ecclesia non mouet illis bellum nec punit eos etiam subditos; ergo non omnis blasphemia infidelium in Deum punit Ecclesia.
+        </p>
+        <p>
+At certe aliud esset si Judaei vel Sarraceni, in contumeliam nostrae religionis, hominem crucifigerent vel simile aliquod facinus perpetrarent; esset blasphemia quae propagationem fidei impediret et his similes bello persequendae sunt. Quod eruditissime docet doctissimus theologus Franciscus Victoriensis$32 in suis Lucubrationibus |113r.] (22 236, q. 10, a. 8). Ex quibus satis conuincitur error aduersariorum.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

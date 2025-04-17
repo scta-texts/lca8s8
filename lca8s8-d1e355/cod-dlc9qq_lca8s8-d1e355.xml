@@ -13,7 +13,7 @@
       <editionStmt>
         <edition n="0.0.0-dev">
           <title>Caput 24 [Bnf 12926 Transcription]</title>
-          <date when="todaysdate">todaysdateverbose</date>
+          <date when="2025-04-17">Apr 17, 2025</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -36,7 +36,7 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="todaysdate" status="draft" n="0.0.0">
+        <change when="2025-04-17" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
@@ -52,16 +52,55 @@
       <div xml:id="lca8s8-d1e355">
         <head>Caput 24 [Bnf 12926 Transcription]</head>
         <p>
-          <lb ed="P" n="7"/>Caput 24m.
+          <lb ed="#P" n="7"/>Caput 24m.
         </p>
         <p>
-          ¶ Tertio, adducit Augustinus Anchona quod infideles judicati et damnati sunt ab Ecclesia. Equidem si intelligit infidelium crimina jurisdictione contentiosa puniri ab Ecclesia, errat manifeste, ut ex superioribus liquet. Quod si intelligit Ecclesiam judicare et damnare paganos judicio catholico inquantum judicat per fidei certitudinem quam habet eos eterno igni addicendos, haud negamus. Nec enim extra Ecclesiam est salus (ut 24, q. 1, c. Alienus)522, Non enim judicat vel damnat eos judicio contentiosae jurisdictionis ita ut eos propter crimina puniat, extra sex casibus quos jam coepimus numerare. Fatemur quod si euigilauerint potestate clauium, possunt ab Ecclesia solui a peccatis.
+          <lb ed="#P"/>¶ Tertio adducit <name>Augustinus Anchona</name>
+          <lb ed="#P"/>quod infideles judicati et damnati sunt ab<lb ed="#P" break="no"/>
+          ecclesia. Equidem si intelligit infideli<lb ed="#P" break="no"/>um
+          crimina jurisdictione contentiosa pu<lb ed="#P" break="no"/>niri
+          ab ecclesia: errat manifeste ut ex supe<lb ed="#P" break="no"/>rioribus
+          liquet. Quod si intelligit eccle<lb ed="#P" break="no"/>siam
+          judicare et damnare paganos judicio
+          <lb ed="#P"/>catholico inquantum judicat per fidei cer<lb ed="#P" break="no"/>titudinem
+          quam habet eos eterno igni ad<lb ed="#P" break="no"/>dicendos:
+          haud negamus. Nec enim extra
+          <lb ed="#P"/>ecclesiam est salus. Vt <ref>24. q. 1, c. alienus</ref>.
+          <lb ed="#P"/>Non enim judicat vel damnat eos judicio
+          <lb ed="#P"/>contentiosae jurisdictionis, ita ut eos propter cri<lb ed="#P" break="no"/>mina
+          puniat extra sex casibus, quos jam<lb ed="#P" break="no"/>
+          cepimus numerare. Fatemur quod si euigi<lb ed="#P" break="no"/>lauerint
+          potestate clauium possunt ab
+          <lb ed="#P"/>ecclesia solui a peccatis.
         </p>
         <p>
-Quod Augustinus subijcit: Ecclesiam babere potestatem judiciariam super infideles, absolute ac generaliter intellectum, falsum est, ut sepe saepius supra fuit probatum?65, Oportet enim distinguere an infideles christianis principibus subditi sint et quae crimina committant et an sint Judaei, an Sarraceni, [109v.] an heretici vel schismatici, an infideles qui possident prouincias quae quondam ad christianam Ecclesiam pertinuerunt, an noceant incursionibus populo christiano. Hi enim casus distinguendi sunt, quod satis liquet ex Augustino523 (Libro De vera religione):
+          ¶ Quod Augustinus
+          <lb ed="#P"/>subijcit ecclesiam habere potestatem
+          <lb ed="#P"/>judiciariam super infideles: absolute ac
+          <lb ed="#P"/>generaliter intellectum falsum est, ut sepe
+          <lb ed="#P"/>saepius supra fuit <choice><sic>reprobatum</sic><corr>probatum</corr></choice>. Oportet
+          <lb ed="#P"/>enim distinguere an infideles christianis
+          <lb ed="#P"/>principibus subditi sint, et quae crimina
+          <lb ed="#P"/>committant: et an sint iudaei: an sarraceni
+          <pb ed="#P" n="109-v"/>
+          <lb ed="#P"/>an heretici vel schismatici an infideles,
+          <lb ed="#P"/>qui possident prouincias quae quondam
+          <lb ed="#P"/>ad christianam ecclesiam pertinuerunt.
+          <lb ed="#P"/>An noceant incursionibus populo christia<lb ed="#P" break="no"/>no.
+          Hi enim casus distinguendi sunt quod
+          <lb ed="#P"/>satis liquet ex <ref><name>Augustino</name> libro <title>de vera
+          religione</title></ref>.
         </p>
         <p>
-Haec inquit Ecclesia catholica, per totum orbem valide lateque diffusa, omnibus errantibus utitur ad profectus suos et ad eorum correctionem, cum euigilare voluerint. Vtitur enim gentibus ad materiam operationis suae, hereticis adprobationem doctrinae suae, schismaticis ad documentum stabilitatis suae, Judaeis ad comparationem pulchritudinis suae. Alios ergo inuitat, alios excludit, alios antecedit 296, omnibus tamen gratiae Dei participandae datpotestatem, siue illi formandi sunt adhuc siue reformandi siue recolligendi siue admittendi et caetera. Haec Augustinus.
+          ¶ Haec inquit ecclesia catholica
+          <lb ed="#P"/>per totum orbem valide lateque diffusa
+          <lb ed="#P"/>omnibus errantibus utitur ad profectus suos
+          <lb ed="#P"/>et ad eorum correctionem cum euigilare vo<lb ed="#P" break="no"/>luerint.
+          Vtitur enim gentibus ad mate<lb ed="#P" break="no"/>riam
+          operationis suae: hereticis ad proba<lb ed="#P" break="no"/>tionem
+          doctrinae suae: schismaticis ad
+          <lb ed="#P"/>documentum stabilitatis suae: judaeis ad
+          <lb ed="#P"/>comparationem pulchritudinis suae. Alios ergo inuitat, alios excludit, alios antecedit 296, omnibus tamen gratiae Dei participandae datpotestatem, siue illi formandi sunt adhuc siue reformandi siue recolligendi siue admittendi et caetera. Haec Augustinus.
         </p>
         <p>
 Haec verba, referendo singula, omnes casus superius tactos comprehendunc: Illa enim verba ad materiam operationis suae referuntur ad gentiles quibus verbum Dei est predicandum ab Ecclesia. Hoc enim est proprium Ecclesiae munus. Rursus illud verbum inuitat clarius significat Ecclesiam non cogere sed allicere et adducere sanctis exemplis et persuasiuis rationibus homines ad fidem. Similiter illa: formandi sunt adhuc significant non fuisse formatos neque instructos verbo Dei et doctrina catholica, quod [110r.] non pertinet ad hereticos sed ad illos qui nondum fidem susceperunt.

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 25 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 25 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-20">Apr 20, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="113-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e368">
+        <head>Caput 25 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="#P" n="3"/>CAPut. 25m.
+        </p>
+        <p>
+Quartus casus?/ in quo Ecclesia bello vel alias potest punire paganos est cum impediunt propagationem fidei de per se, non per accidens, verboque vel opere saeuiunt in eos qui illam amplecti volunt vel jam amplexi sunt, aut certe precibus aut muneribus id efficere conantur. Huiusmodi enim injurias obstantes dilatationi fidei et illatas membris Ecclesiae, potest jure naturali Ecclesia coercere et apparatu bellico per principes christianos comprimere. Neque enim alio remedio huiusmodi malo obuiam iri poterit (ut patet ex multis locis, 23, q. 8)533 neque juri et aequitati conuenit Ecclesiam pati homines christianis mysterijs initiatos, donis, blanditijs, vel minis resilire a christiana pioffessione.
+        </p>
+        <p>
+Quod etiam probatur quoniam omnes principes vel reipublicae gubernatores tenenrur subditos suos ab omni injuria tueri et aduersus illorum oppressores arma expedire (ut ft De Dolo 5%, L. Cum Quis, et De Ordine Cognitionum335, c. 2, ex De Restitutione Spoliatorum*36, c. 1. et De Appellationibus 53, c. Dilectis 8, ev 23. q. 2, c. Dominus noster, et q. 8, c. Scire vos Oportet 599). Ita notant Innocentius et Hostiensis (in dicto c. Dilectis 549). Et [113v.] Hostiensis (De Tregua Et Pace, c. 7)9*1.
+        </p>
+        <p>
+Ergo papa, cum sit princeps et caput Ecclesiae catholicae, tenetur vbique degentes christianos tueri et ab omni injuria defendere, sub quocumque principe viuant, ita vt nulla oppressione desciscant. Quod Leo papa? significat in c. Scire vos oportet, quod numquam ab aliquibus nostros homines sinimus opprimi, sed, si necessitas vlla occurrerit, presentialiter vindicamus quia nostri gregis in omnibus vltores esse debemus et precipui adiutores. Haec ibi.
+        </p>
+        <p>
+Rursus cum christiani infidelium opera abnegantes Christi cultum minuant quod corpori Christi et Ecclesiae christianae jam erat insertum et tali abnegatione adorandum Christi nomen blasphematur, papa et quiuis princeps christianus huiusmodi injuriam vlcisci; quinimo quaelibet particularis persona saltem impedire tenetur. Nam in omnium fertur injuriam quod in diuinam religionem committitur (ut in L. Manichaeos, Cod. De Hereticis)543. Preterea, cum pagani impediunt ne volentes suscipere christianam fidem illam suscipiant, magnam injuriam inferunt catholicae Ecclesiae, quod patet sic:
+        </p>
+        <p>
+Primo, voluntas enim suscipiendi christianam fidem quemadmodum in caeteris virtutum operibus justa est, nemini prejudicium aliquod generans, neque enim principes pagani, si recipiant verbum Dei, regna vel ditionem suam amittunt; immo vero [114r.] illorum possessio firmior redditur et magis legitima confirmatur vrbesque veritatis notitia et bonis moribus instructae florentissimae reddentur, robore sanctorum sacramentorum quae ibi exercentur. Ideo punientes vel prohibentes huius voluntatis executionem, Ecclesiae christianae atque ipsis volentibus injuriam inferunt contra naturalem justitiam. Ergo Ecclesia illos punire potest.
+        </p>
+        <p>
+Secundo, probatur quoniam papae commissa cst diuinitus cura totius orbis quem tam fideles quam infideles incolunt. Ita docet Chrysostomus? (Super Joanem, Homilia 87): Nam cum magna Christus Petro communicasset, orbis terrarum curam demandasset. Haec ille.
+        </p>
+        <p>
+Et sanctus Bernardus545 (Libro 2*, De Considerationibus ad papam Eugenium): Stat ergo inconcussum priuilegium tuum tibi tam in datis clauibus, quam in ouibus commendatis. Accipe aliquid quod nihilo. minus prerogatiuam confirmat tibi. Discipuli nauigabant et dominus apparebat in littore. Sciens Petrus quia dominus est, in mare se misit et sic venit ad ipsum, alijs nauigio venientibus (Joanis vltimo). Quid istud nempe signum singularis potentiae et pontifici) Petri per quod non nauem vnam vt caeteri quique suam sed seculum ipsum suscepit gubernandum? Haec Bernardus.
+        </p>
+        <p>
+Et sanctus Leo papa54 (in Sermone 8?) suae ordinationis exaggerans excellentias Petri inquit: Vnus Petrus eligitur qui et vniuersarum gentium vocationi et omnibus apostolis cunctisque |V4v.] Ecclesiae partibus preponatur. Haec ille.
+        </p>
+        <p>
+Cum ergo totius orbis gentes Petro et eius successoribus commissae sint et sint subditae Ecclesiae, aliae quidem actu, aliae habitu et potentia, et cura pertrahendi ad agnitionem veritatis gentes pertineat ad Romanum pontificem, manifestum est justum esse bellum quo Ecclesia coercet infideles impedientes propagationem fidei et prohibentes ne quis christianam religionem suscipiat.
+        </p>
+        <p>
+Hinc fit vt quiuis princeps paganus possit bello cogi Euangelium in sua ditione predicari; non quidem ex peccato quod prohibendo predicationem Euangelij committunt quod canonistae asserunt neque enim Ecclesia punit eorum peccata, vt supra jam planum est, sed quoniam malitiose absque legitima causa, quod diximus de per se, impediunt dilatationem Euangelicae veritatis quam Christus omnibus gentibus anuntiari jussit.
+        </p>
+        <p>
+Impediunt etiam vtilitatem animarum qui audito verbo Dei illud suscipient. Quare Ecclesia ad quam cura gentium totius orbis pertinet, quoad anuntiationem veritatis, juste infert bellum prohibentibus ne Euangelium in sua ditione predicetur.
+        </p>
+        <p>
+Et ita intelligenda sunt quae doctores de hac re scribunt, presertim Cajetanus (2 2?*, q. 10, a. 8)547 vbi asserit Ecclesiam juste posse inferre bellum infidelibus occidentibus predicatores; vetantes enim predicationem Euangelij aduersantur etiam dilatationi et propagationi fidei.
+        </p>
+        <p>
+Meminisse autem oportet [115r.] hoc verum esse quando pagani, scientes quid eis predicetur, occidunt predicatores?/5 malitiose et propter odium quod ad ipsam fidem semper gerunt?76, Huiusmodi pagani sunt Turcae et Mauri qui christiana dogmata non ignorant. Si tamen non occiderent eos scienter et malitiose ac per se tamquam predicatores Euangelij, sed odio christianae gentis, a qua fortassis magnas injurias immani et efera violentia accepissent, quemadmodum indi aliquos jnnocentes predicatores occiderunt, non quidem quia predicatores erant, sed quia ex Hyspanica gente sibi et suis vniuersisque indianis nationibus277 damna susceperunt et a seculis278 inaudita incommoda, euastatis non modo vrbibus verum et regnis et maximis regionibus, trucidataque mortalium innumera et non cogitata multitudine, spoliatis regibus et principibus magnis principatibus, dominijs, et regalibus honoribus, abductis in seruitutem populis; tales ergo non recipiendo predicatores vel etiam eos crudeliter occidendo non impediunt Euangelij predicationem de per se sed accidentaliter et preter intentionem et causa per accidens est extra regulas.
+        </p>
+        <p>
+Et judicium de rebus non est dandum secundum illud [115v.] quod est per accidens sed de per se, ex 2? Physicae 548 et 4? Metaphysicae 9. Quod autem est preter intentionem poenam corporalem vel  seueram non meretur.
+        </p>
+        <p>
+Ergo cum indi, tot horrendis malis afflicti, videant predicatores homines, eiusdem nationis et loquelae esse colore candido ac mento?7?, inimicis suis Hyspanis intermixtos et cum eis perquam familiariter tractantes, necessario ignorabunt quinam sint serui Dei. Ac rursus quinam sint ministri et organa Sathanae. Ignorabunt etiam quo tendant predicatores? Quo vero caeteri Hyspani cum quibus justissime belligerantur? Quid volumus agere indos?
+        </p>
+        <p>
+An, vbi primum audierint predicatores monentes  vt agnoscant verum Deum, testantes quam sese non esse de illorum turba qui illis nocent, statim illis fidem adhibere debent qui millies fide data, ad Hyspanica castra euocati, a perfidis hominibus trucidati, leuitatis suae poenas dedere? An vsquam indus ab Hyspano homine beneficium accipit?
+        </p>
+        <p>
+Superat ergo omnem stuporem miseramque ignorantiam sapit affirmare indos bello impeti posse, etiam si bis centum mille predicatores occidant, et quamuis ipsum Paulum apostolum ac caeteros Christi discipulos euangelizantes occiderent. Tale enim bellum eferam barbariem et plusquam Scytarum immanitatem saperet, bellumque diaboli (116r. ]cum esset appellandum potiusquam christianum, indique belligerantes aduersus Hyspanos, ita rem gerentes, exquisitissimis laudibus a prudentibus quibusquam philosophis ornandi essent.
+        </p>
+        <p>
+Quinimo?99 illud affirmare ausim non statim juste, immo injuste, posse inferri bellum indis principibus si, metuentes pro rebus suis, nollint recipere predicatores ferocibus a barbaris hominibus comitatos, etiam in terris aut prouincijs vbi cognita nondum esset christianorum saeua tyranis8!, Neque enim temere metuet incolumitati regni sui si recipiat exteram gentem vel ipso tantum vultu formidandam. Tenetur enim quiuis princeps incolumitati regni sui prospicere, vt alibi plenius docui.
+        </p>
+        <p>
+Desinite ergo, christiani, his fucis vobis blandiri; nolite innocentissimae gentis profuso sanguine inexplebilem cupiditatem vestram diabolico spiritu sociare; taceant qui, stulta eruditione turgidi, animos addunt tyranis vt oues innocentissimas persequantur, obijcientes quod occidunt fidei predicatores, quia verum non est formaliter sed potius ipsi qui causam dant eos occidunt. Neque enim illi agnoscunt quid sit Euangelium, quid sit predicator.
+        </p>
+        <p>
+Occidunt illos non vt predicatores sed vt homines Hyspanos caeteris eiusdem gentis saeuis hominibus hostibus suis intermixtos. Coronabuntur nimirum a Christo viri religiosissimi; [116v.] illos autem dicentur occidisse Hyspani ipsi suis facinoribus, infamantes Euangelium et impedientes propagationem fidei. Indi vero apud Summum Judicem meo judicio nullo modo rei sunt, quoniam ignorantes et tot, scilicet, exagitati malis, ad id facinus descendunt.
+        </p>
+        <p>
+Aduertendum etiam bellum tunc hac de causa forte justum esse aduersus infideles, cum soli principes vel Reges malitiose impediunt propagationem vel predicationem Euangelij, si tamen tam principes, quam populus vniuersus, precise ob amorem et deuotionem religionis suae, nolit audire neque admittere predicatores christianos, tunc nullo modo bello cogi possunt illos admittere.
+        </p>
+        <p>
+Aduersatur enim diuinis verbis. Christus enim Euntes, dixit, docete omnes gentes 559. scilicet, volentes audire, non vim inferte audire nolentibus. Nullum inuenies dictum vel in Sacris scripturis vel a sanctis doctoribus prolatum, nullam adduces rationem, quibus fulti, absque reprehensione, infideles nolentes audire Christi doctrinam, compellere ad id valeamus. Vnde talia agentes offenderemus Christum cuius preciosae mortis fructus inutilis redderetur.
+        </p>
+        <p>
+Nam cum infideles, presertim qui doctrina veritatis semper caruerunt, ad culturam et amorem, immo defensionem Deorum suorum et ritus antiquae religionis aliquibus [117r.] probabilibus ducantur rationibus, insuper vt consulant paci, libertati, et incolumitati totius status reipublicae suae, presentis et futuri, nolint admittere exteras et incognitas gentes in regnis vel terris suis et sic nec recipere fidei predicatores nec eorum audire doctrinam, etiam zelo suae religionis, si hac dumtaxat occasione bello, quod malorum omnium occeanus quidem est, impeterentur quo tandem ipsis subactis et tot cedibus tot irreparabilibusque incommodis, doloribus, gemitibus, fletibus282 et amaritudinibus affectis.
+        </p>
+        <p>
+Esto quod jam sic coacti audiant Euangelium; quo animo, quaeso, Euangelicam veritatem auscultabunt? quo pacto eam intelligent? qua voluntate illam amabunt? quomodo christianae lenitatis et veritatis documentis fidem adhibebunt?
+        </p>
+        <p>
+Quinimo audenter loquor et me non piget ista depromere, quod, si predicatores, armorum strepitu comitati283, Euangelium alicui genti anuntiarent, eo ipso indignos esse vt ipsorum verbis fides habeatur. Quid enim Euangelium cum bombardis? Quid Euangelij anuntiatori cum armatis latronibus? Equidem talibus predicatoribus credentes, vanissimi et stultissimi essent, potius quam prudentes et, aspernantes illorum verba, excusari aliquatenus possent apud Deum. Neque enim apostolis vel ipsi Christo redemptori nostro hoc modo euangelizanti [117v.] fidem adhibere tenerentur.
+        </p>
+        <p>
+Astruebant miracula fidem verbis Christi et nisi Christus miracula visibilia vel inuisibilia fecisset, homines non forent criminis rei quod illi non credidissent; tenetur enim  nemo ad hoc quod est supra vires suas nisi per hunc modum quo fit sibi possibile. Credere autem est supra potentiam hominis naturalem. Vnde ex dono Dei prouenit (secundum illud apostoli Ad Ephesios 2?)551: Gratia saluati estis per fidem; et hoc non ex vobis, Dei enim donum est. Ex Ad Philipenses (19)582: vobis datum est non solum vt in ipsum credatis, sed vt pro illo patiamini. Homo ergo tenetur credere secundum hoc quod iuuatur a Deo ad credendum.
+        </p>
+        <p>
+Adiuuatur aliquis a Deo ad credendum tripliciter: vel arcano afflatu vel doctrina vel miraculis. Quae tria miracula Dei esse interpretamur. Quae si deffecissent, totus orbis excusatus foret sí non crederet. Ita docet Seruator (Joanis 15%)553; Si non venissem et locutus eis non fuissem, peccatum non haberent, scilicet, infidelitatis secundum Augustinum. Item ibidem: Si opera non fecissem in eis quae nemo alius fecit, peccatum non baberen5At,
+        </p>
+        <p>
+Sic28 Dominus Deus preceperat Judaeis ne crederent cuiquam affirmanti se mitti a Deo, nisi vel signa faceret vel futura predicaret in nomine Domini. Ita legimus Dezteronomij (8*)555. Scribit de hoc sanctus Thomas (in Quodlibetali 2% a. 6)556 ex Abulensis (Super Mattheum, c. 10%, [118r.] q. 21)557.
+        </p>
+        <p>
+Cum igitur armatorum exercitus, precipue inopinatus, cunctis hominibus prima fronte suapte natura sit formidabilis, etiamsi ad actus bellicos quos patrare consueuerunt satellites manus non extendant, videlicet, trucidando, spoliando, rapiendo et exercendo alia saeua, tantumque abhorreat a naturali ratione, a pace, tranquillitate, ab humilitate, a christiana lenitate, mansuetudine, a doctrina et miraculis Christi, sequitur si apostoli comitati exercitu armatorum iuissent vt terrore gentes compellerent ad audiendum Euangelium, potissimum si actus bellicos exercerent, immo si Christus ipsemet taliter sociatus fuisset ad predicandum, nisi miraculis vel  interna inspiratione iuuasset audientes, proculdubio eorum verba fide carerent nec tenerentur infideles doctrinae illorum credere, sed potius bellum justissimum veluti contra publicos hostes merito mouissent.
+        </p>
+        <p>
+Omnia haec manifesta sunt ex doctrina Christi et ex ipsa naturali ratione. Apparent non minus ex quampluribus supra demonstratis veritatibus.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

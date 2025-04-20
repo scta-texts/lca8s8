@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 42 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 42 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-19">April 19, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="189-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e592">
+        <head xml:id="lca8s8-d1e592-Hd1e97">Caput 42</head>
+        <p xml:id="lca8s8-d1e592-d1e99">
+          <lb ed="#P" n="30"/>Caput 42m
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e104">
+          <lb ed="#P" n="31"/> <pc type="pilcrow"/> Hic quartum argumentum vel causam 
+          <pb ed="#P" n="185-r"/>
+          <lb ed="#P" n="1"/>Sepuluedae confutabimus. Inquit enim 
+          <lb ed="#P" n="2"/>posse bellum inferri indis ut vel causam dilatetur chris<lb ed="#P" break="no" n="3"/>tiana 
+          religio patefacto toto aditu predi<lb ed="#P" break="no" n="4"/>catoribus 
+          euangelii. Equidem demira<lb ed="#P" break="no" n="5"/>ri 
+          satis non possum Sepuluedam. Quo 
+          <lb ed="#P" n="6"/>enim spiritu afflatus homo theologus senex 
+          <lb ed="#P" n="7"/>et humaniori literatura perpolitus vene<lb ed="#P" break="no" n="8"/>na 
+          ista porrigit orbi: ut indiana imperia 
+          <lb ed="#P" n="9"/>latissime patentia saeuissimis latronibus 
+          <lb ed="#P" n="10"/>aduersus legem christi sint predae. Sicu<lb ed="#P" break="no" n="11"/>ti 
+          hactenus fuerunt magna hyspanicae gen<lb ed="#P" break="no" n="12"/>tis 
+          inuidia quae apud eas gentes ea faci<lb ed="#P" break="no" n="13"/>nora 
+          perpetrauit quae nulla unquam gens 
+          <lb ed="#P" n="14"/>quantumuis effera (quod litterae memine<lb ed="#P" break="no" n="15"/>rint) 
+          perpetrauit. Haec siquidem facino<lb ed="#P" break="no" n="16"/>ra
+          Sepulueda totis viribus contendit am<lb ed="#P" break="no" n="17"/>pliare: 
+          quatenus et residuum nationum 
+          <lb ed="#P" n="18"/>totius illius orbis tandem deleatur: et 
+          <lb ed="#P" n="19"/>deus iustus et rectus citius forte quam decre<lb ed="#P" break="no" n="20"/>uerat
+          his concitatus effundat furorem 
+          irae suae comprehendatque vniuersam hys<lb ed="#P" break="no" n="21"/>paniam. 
+          Profert ergo primo Sepulueda 
+          <lb ed="#P" n="22"/>quod Augustinus in epistola scribit Donato he<lb ed="#P" break="no" n="23"/>retico 
+          Asserit enim Sepulueda Augus<lb ed="#P" break="no" n="24"/>tinum 
+          docere gentes in primordiis nasce<lb ed="#P" break="no" n="25"/>ntis
+          ecclesiae blande ac leniter fuisse addu<lb ed="#P" break="no" n="26"/>cendas 
+          ad fidem christi: Postea autem au<lb ed="#P" break="no" n="27"/>ctis 
+          ecclesiae viribus compelli posse intrare 
+          <lb ed="#P" n="28"/>in ouile christi in parabola nuptiarum.
+          <lb ed="#P" n="29"/>Certe Sepulueda impie loquitur et in plu<lb ed="#P" break="no" n="30"/>ribus 
+          errat in preiudicium animae suae: 
+          <lb ed="#P" n="31"/>precipue in tribus.
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e180">
+          Primo dicens decreta 
+          <pb ed="#P" n="185-v"/>
+          <lb ed="#P" n="1"/>ecclesiae pontificis et Caesarum prodita contra 
+          <lb ed="#P" n="2"/>hereticos seruari debere etiam in infide<lb ed="#P" break="no" n="3"/>libus 
+          non distinguens species infidelium 
+          <lb ed="#P" n="4"/>quae sunt quatuor: Alii sunt infideles 
+          <lb ed="#P" n="5"/>mauri, et iudaei viuentes sub iugo chris<lb ed="#P" break="no" n="6"/>tianorum 
+          Alii sunt apostatae et heretici 
+          <lb ed="#P" n="7"/>Alii turce et mauri nos bello persequen<lb ed="#P" break="no" n="8"/>tes 
+          Alii sunt infideles idolatrae remotis<lb ed="#P" break="no" n="9"/>simas 
+          prouincias inhabitantes.
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e204">
+          <pc type="pilcrow"/> Secun<lb ed="#P" break="no" n="10"/>do 
+          Sepulueda impie interpretatur para<lb ed="#P" break="no" n="11"/>bolam 
+          illam nuptiarum lucae 14 et Mat<lb ed="#P" break="no" n="12"/>thei 22 
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e216">
+          <pc type="pilcrow"/> Tertio errat dum non distin<lb ed="#P" break="no" n="13"/>guit 
+          infideles subditos ecclesiae vel prin<lb ed="#P" break="no" n="14"/>cipibus 
+          membris eius a caeteris infideli<lb ed="#P" break="no" n="15"/>bus 
+          non subditis: tribuendo ecclesiae iuris<lb ed="#P" break="no" n="16"/>dictionem 
+          vbi nullam habet. Quod ulti<lb ed="#P" break="no" n="17"/>mum 
+          supra capite 6 et sequentibus falsum 
+          <lb ed="#P" n="18"/>esse rationibus lucidissimis comprobaui.
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e234">
+          <lb ed="#P" n="19"/><pc type="pilcrow"/> Quod autem ad principalem quaestionem 
+          <lb ed="#P" n="20"/>attinet certe parabola illa euangelica ne<lb ed="#P" break="no" n="21"/>quaquam 
+          probat id ad quod Sepulueda 
+          <lb ed="#P" n="22"/>illam adducit. Contendit enim probare 
+          <lb ed="#P" n="23"/>christum voluisse ecclesiam viribus et prin<lb ed="#P" break="no" n="24"/>cipibus 
+          auctam cogere homines ad suscipiendam 
+          <lb ed="#P" n="25"/>veritatem euangelicam non quidem 
+          <lb ed="#P" n="26"/>baptizando eos illata vi sed conuellendo
+          <lb ed="#P" n="27"/>idolorum cultum, contundendoque eorum vi<lb ed="#P" break="no" n="28"/>res: 
+          ita ne impedire possint predicationem
+          <lb ed="#P" n="29"/>euangelij. Ante omnia libenter edoceri ve<lb ed="#P" break="no" n="30"/>lim 
+          a Sepulueda quare potius Deus vo<lb ed="#P" break="no" n="31"/>luerit 
+          vim inferri infidelibus ab ecclesia 
+          <lb ed="#P" n="32"/>et christianis principibus quam ab angelis quo<pb ed="#P" n="186-r"/><lb ed="#P" n="1"/>rum 
+          ministerio sepe Deus adducit in 
+          <lb ed="#P" n="2"/>fideles ad cognitionem sui iuxta tradita 
+          <lb ed="#P" n="3"/>per magnum Dionisium coelestis Hierar<lb ed="#P" break="no" n="4"/>chiae 
+          capitulo 9?
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e278">
+          Rursus quaero an illa compul<lb ed="#P" break="no" n="5"/>sio 
+          cuius parabola meminit: debeat esse 
+          <lb ed="#P" n="6"/>corporalis seu materialis illata ab ange<lb ed="#P" break="no" n="7"/>lis 
+          vel ab ipso Deo? Equidem si Sepulue<lb ed="#P" break="no" n="8"/>da 
+          cum sociis nihil habeat quod profe<lb ed="#P" break="no" n="9"/>rat 
+          preter propria commenta: opponam il<lb ed="#P" break="no" n="10"/>lud 
+          beati Hieronimi ad Paulinum his 
+          <lb ed="#P" n="11"/>verbis: qui si forte ad scripturas sanctas 
+          <lb ed="#P" n="12"/>post seculares literas venerint, et sermo<lb ed="#P" break="no" n="13"/>ne 
+          composito aures populi mulserint. 
+          <lb ed="#P" n="14"/>quicquid dixerint hoc legem Dei putant. 
+          Nec scire dignantur quid prophetae, quid 
+          <lb ed="#P" n="15"/>apostoli senserint: sed ad sensum suum 
+          <lb ed="#P" n="16"/>incongrua optant testimonia: quasi gran<lb ed="#P" break="no" n="17"/>de 
+          sit et non viciosissimum docendi genus 
+          <lb ed="#P" n="18"/>deprauare sententias: et ad voluntatem 
+          <lb ed="#P" n="19"/>suam scripturam trahere repugnantem. 
+          <lb ed="#P" n="20"/>haec ille.
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e315">
+          Equidem te Sepulueda doc<lb ed="#P" break="no" n="21"/>tor 
+          venerande considerare decuit: para<lb ed="#P" break="no" n="22"/>bolam 
+          obscuram quandam esse sententiam 
+          <lb ed="#P" n="23"/>seu similitudinem: iuxta sancti Thomae sen<lb ed="#P" break="no" n="24"/>tentiam
+          1 pars: quaestione 1 articulo 10 ad 3um Et 
+          super Esaiam. Cum autem parabolae pluri<lb ed="#P" break="no" n="25"/>bus 
+          modis exponi possint et plures inter<lb ed="#P" break="no" n="26"/>pretationes 
+          recipiant, et idem diuersis at<lb ed="#P" break="no" n="27"/>tribui 
+          secundum diuersas similitudines autore 
+          <lb ed="#P" n="28"/><ref xml:id="lca8s8-d1e592-Rd1e333" target="http://scta.info/resource/TAca84-d1e842-d1e269@6-18">Diuo Thoma 1a 2ae quaestione 33, articulo 1o ad 1um</ref> et 
+          <lb ed="#P" n="29"/><ref xml:id="lca8s8-d1e592-Rd1e337" target="http://scta.info/resource/ta-l1d3q2-d1e134@4-26 http://scta.info/resource/ta-l1d3q3-d1e202@11-39"><!--target needs review, but d.17 seems like mistake -->1o Sententiarum distinctio 17 quaestione 1 articulo 1o quaestione 3 in 
+          <lb ed="#P" n="30"/>corpore</ref>. Nec sensus litteralis super quem alli 
+          <pb ed="#P" n="186-v"/>
+          <lb ed="#P" n="1"/>sensus fundantur et cui non potest subes<lb ed="#P" break="no" n="2"/>se 
+          falsum: non est ille quem quisque volue<lb ed="#P" break="no" n="3"/>rit: 
+          sed quem autor Sacrae scripturae inten<lb ed="#P" break="no" n="4"/>dit 
+          scilicet spiritus sanctus. Assignare autem 
+          <lb ed="#P" n="5"/>qui vel qualis sit iste: non est cuiuslibet: 
+          <lb ed="#P" n="6"/>sed sacrorum doctorum, qui moribus et 
+          <lb ed="#P" n="7"/>doctrina mortales caeteros excelluerunt. 
+          <lb ed="#P" n="8"/>Ex illis autem omnibus nullus hactenus 
+          <lb ed="#P" n="9"/>extitit: qui parabolam illam euangelicam 
+          <lb ed="#P" n="10"/>exposuerit quemadmodum Sepulueda
+          <lb ed="#P" n="11"/>exponit: infideles (scilicet) presertim gen<lb ed="#P" break="no" n="12"/>tiles 
+          qui numquam fidem audierunt milita<lb ed="#P" break="no" n="13"/>ri 
+          manu a principibus compellendos ido<lb ed="#P" break="no" n="14"/>lorum 
+          cultum relinquere et christi ouile sci<lb ed="#P" break="no" n="15"/>licet 
+          ecclesiam ingredi. Et sic de compul<lb ed="#P" break="no" n="16"/>sione 
+          exteriori et corporali. Ergo temeritas 
+          <lb ed="#P" n="17"/>est grandis: probare presumere per dictam 
+          <lb ed="#P" n="18"/>parabolam: christum precepisse ecclesiae suae 
+          <lb ed="#P" n="19"/>cum aucta foret uti debere ante fidei pre<lb ed="#P" break="no" n="20"/>dicationem 
+          circa infideles compulsione 
+          <lb ed="#P" n="21"/>corporali. Praeterea theologi omnes docent 
+          <lb ed="#P" n="22"/>nihil ad fidem vel ad salutem hominum 
+          <lb ed="#P" n="23"/>pertinens reperiri in sacris literis propositum 
+          <lb ed="#P" n="24"/>sub parabola vel spirituali sensu: quod scrip<lb ed="#P" break="no" n="25"/>tura 
+          per litteralem sensum alicubi mani<lb ed="#P" break="no" n="26"/>feste 
+          non tradat. Ita docet <ref xml:id="lca8s8-d1e592-Rd1e402">Augustinus libro 
+          <lb ed="#P" n="27"/>de doctrina christiana</ref> et <ref xml:id="lca8s8-d1e592-Rd1e407">sanctus Thomas in prima 
+          <lb ed="#P" n="28"/>parte quaestione 1 articulo 9 ad 2um</ref> et <ref xml:id="lca8s8-d1e592-Rd1e412">articulo 10 ad 
+          <lb ed="#P" n="29"/>1um</ref> et <ref xml:id="lca8s8-d1e592-Rd1e417">Quodlibeto 7 articulo 14 ad 3um</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e420">
+          Hic ve<lb ed="#P" break="no" n="30"/>lim 
+          Sepuluedam cum sociis proferre <seg type="correction">e<del>t</del></seg> sa<lb ed="#P" break="no" n="31"/>cris 
+          litteris locum aliquem ubi euangelica il<lb ed="#P" break="no" n="32"/>la 
+          parabola exponatur: prout ipse exponit 
+          <lb ed="#P" n="33"/>
+          <lb ed="#P" n="34"/>euangelium (hoc est bonum et letum nun<lb ed="#P" break="no" n="35"/>tium) 
+          et remissionem peccatorum: armis 
+          <lb ed="#P" n="36"/>et bombardis anuntiari debere: subigendo 
+          <lb ed="#P" n="37"/>armato milite ac vi bellica persequendo gentem. Quid leto nuntio cum vul<lb ed="#P" break="no" n="38"/>neribus 
+          <pc type="virgula">/</pc> captiuitatibus <pc type="virgula">/</pc> cedibus <pc type="virgula">/</pc> incendiis 
+          <lb ed="#P" n="39"/>et urbium diruptionibus vulgaribus belli 
+          <lb ed="#P" n="40"/>malis? Utique prius ad inferna descendent 
+          <lb ed="#P" n="41"/>quam euangelii utilitatem sentiant Eoquid 
+          <lb ed="#P" n="42"/>narrabunt profugi discisso capite ampu<lb ed="#P" break="no" n="43"/>tatis 
+          manibus intestinis ruptis alienas 
+          <lb ed="#P" n="44"/>prouincias hyspanorum metu petentes? 
+          <lb ed="#P" n="45"/>Quid sentient de christianorum Deo? Nimi<lb ed="#P" break="no" n="46"/>rum 
+          existimabunt esse diaboli filios non 
+          <lb ed="#P" n="47"/>filios Dei et angelos pacis. An vellent
+          <lb ed="#P" n="48"/>qui parabolam illam ita interpretantur 
+          <lb ed="#P" n="49"/>sibi si forte pagani essent anuntiari ve<lb ed="#P" break="no" n="50"/>ritatem
+          deruta prius domo: et ductis 
+          <lb ed="#P" n="51"/>in captiuitatem filiis constuprata uxo<lb ed="#P" break="no" n="52"/>re: 
+          euastatis urbibus defloratis foeminis 
+          <lb ed="#P" n="53"/>ac desolatis prouinciis? Vellentne tot 
+          <lb ed="#P" n="54"/>malis: tot lachrimis tot horribilibus cla<lb ed="#P" break="no" n="55"/>dibus: 
+          tam seuo metu et miseranda cala<lb ed="#P" break="no" n="56"/>mitate 
+          venire ad ouile Christi? Non<lb ed="#P" break="no" n="57"/>ne 
+          inquit Paulus suscipite inuicem sicut 
+          <lb ed="#P" n="58"/>et Christus suscepit vos? Et paulo su<lb ed="#P" break="no" n="59"/>perius:
+          quaecumque scripta sunt ad nos<lb ed="#P" break="no" n="60"/>tram 
+          doctrinam scripta sunt ad Romanos 
+          <lb ed="#P" n="61"/>15 Sicut ergo ipsi nollent ita adduci 
+          <lb ed="#P" n="62"/>ad ouile Christi: ita etiam a vi omni in 
+          <lb ed="#P" n="63"/>fratres suos abstineant Quemadmodum 
+          <lb ed="#P" n="64"/>hac euangelica moderatione vsus est beatus
+          <pb ed="#P" n="187-v"/>
+          <lb ed="#P" n="1"/>Iacobus et discipuli sui cum patribus 
+          <lb ed="#P" n="2"/>eorum: qui forte peioribus contaminati 
+          <lb ed="#P" n="3"/>fuerunt facinoribus: et idolatriae foecibus 
+          <lb ed="#P" n="4"/>magis dediti ac plus barbaricis abunda<lb ed="#P" break="no" n="5"/>runt
+          moribus caeteris nationibus ut vi<lb ed="#P" break="no" n="6"/>dere 
+          est in magna difficultate quo con<lb ed="#P" break="no" n="7"/>uersa 
+          fuit ad christum hyspania
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e529">
+          abstineant (inquam) ab eiusmodi immodera<lb ed="#P" break="no" n="8"/>tione 
+          in alias nationes exercenda hyspani: 
+          et utantur dulcedine illa qua ipsi fuerunt 
+          <lb ed="#P" n="9"/>vocati: siue barbari sint siue idolatrae:
+          siue aliis quibuscumque vitiis infecti. Cu<lb ed="#P" break="no" n="10"/>ius 
+          <lb ed="#P" n="11"/>euidens est ratio: quia non est mas<lb ed="#P" break="no" n="12"/>culus 
+          et foemina gentilis et Iudaeus: cir<lb ed="#P" break="no" n="13"/>cumcisio 
+          et prepucium barbarus et scy<lb ed="#P" break="no" n="14"/>tha: 
+          seruus et liber: sed omnia et in om<lb ed="#P" break="no" n="15"/>nibus 
+          christus. Ad Collossenses 3 Non est 
+          <lb ed="#P" n="16"/>distinctio iudaei et greci. nam idem do<lb ed="#P" break="no" n="17"/>minus 
+          omnium: diues in omnes qui in<lb ed="#P" break="no" n="18"/>uocant 
+          illum Ad Romanos 10
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e556">
+          Idem inquit 
+          <lb ed="#P" n="19"/>chrisostomus in imperfecto super Mattheum 
+          <lb ed="#P" n="20"/>capitulo 22 homelia 41 his verbis Sicut non 
+          <lb ed="#P" n="21"/>est distantia in natura creationis homi<lb ed="#P" break="no" n="22"/>num 
+          non fit differentia in vocatione sa<lb ed="#P" break="no" n="23"/>lutis 
+          eorum omnium siue barbarorum siue 
+          <lb ed="#P" n="24"/>sapientium quoniam potens est Dei gratia 
+          <lb ed="#P" n="25"/>barbarorum mentes corrigere ad rationabi<lb ed="#P" break="no" n="26"/>lem 
+          intellectum: qui cor Nabuchodono<lb ed="#P" break="no" n="27"/>sor
+          ad feralem sensum mutauit et ite<lb ed="#P" break="no" n="28"/>rum 
+          feralem sensum eius ad humanum 
+          <lb ed="#P" n="29"/>intellectum reduxit. Potens est inquam 
+          <lb ed="#P" n="30"/>mutare omnes siue bonos siue malos 
+          <pb ed="#P" n="188-r"/>
+          <lb ed="#P" n="1"/>boni ne pereant, mali ut inexcusabiles 
+          <lb ed="#P" n="2"/>fiant. Haec Chrysostomus. 
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e591">
+          Cum ergo homi<lb ed="#P" break="no" n="3"/>num 
+          natura eadem sit et omnes eodem mo<lb ed="#P" break="no" n="4"/>do 
+          vocentur a christo nec ipsi voluissent 
+          <lb ed="#P" n="5"/>modo diuerso vocari non debent suade<lb ed="#P" break="no" n="6"/>re 
+          ut indi ad ecclesiam alio modo quam caeteri homines 
+          <lb ed="#P" n="7"/>adducantur.
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e604">
+          <pc type="pilcrow"/> Iterum arguitur contra egregium doctorem et suam pertina<lb ed="#P" break="no" n="8"/>tiam: 
+          sic: sensus litteralis cuiuscumque 
+          <lb ed="#P" n="9"/>scripturae passus ex quo solo potest tra<lb ed="#P" break="no" n="10"/>hi 
+          argumentum secundum Augustinum et sanctum 
+          <lb ed="#P" n="11"/>Thomam est ille quem autor illius spiritus 
+          <lb ed="#P" n="12"/>sanctus intendit et vult intelligamus. 
+          <lb ed="#P" n="13"/>Christus autem illis parabolae verbis compel<lb ed="#P" break="no" n="14"/>le 
+          eos intrare: significat se immediate 
+          <lb ed="#P" n="15"/>per seipsum vel per angelos vel per homi<lb ed="#P" break="no" n="16"/>nes 
+          solere intellectualiter mouere ac per<lb ed="#P" break="no" n="17"/>trahere 
+          et quasi compellere ad se miracu<lb ed="#P" break="no" n="18"/>lo 
+          visibili vel inuisibili: eos qui eius veri<lb ed="#P" break="no" n="19"/>tatem 
+          non cognoscunt: nulla tamen adhi<lb ed="#P" break="no" n="20"/>bita 
+          coactione voluntatis. Ergo ille est 
+          <lb ed="#P" n="21"/>sensus literalis. Non ergo christus vio<lb ed="#P" break="no" n="22"/>lentiam 
+          exteriorem significare voluit: 
+          <lb ed="#P" n="23"/>sed persuasiuam per dictam parabolam 
+          <lb ed="#P" n="24"/>quod satis patet ex verbis Chrisostomi
+          <lb ed="#P" n="25"/>supra relatis et ex Diuo Thoma in quaesetione de 
+          <lb ed="#P" n="26"/>veritate quaestione 22 articulo 9 ad 7m ubi de 
+          <lb ed="#P" n="27"/>hac parabola loquens inquit: compulsio 
+          <lb ed="#P" n="28"/>illa de qua ibi sanctus Lucas 14 facit men<lb ed="#P" break="no" n="29"/>tionem:
+          non est coactionis: sed efficacis per<lb ed="#P" break="no" n="30"/>suasionis 
+          ut per aspera et per lenia. haec ille. 
+          <pb ed="#P" n="188-v"/>
+          <lb ed="#P" n="1"/>Hoc est mouere corda hominum infunden<lb ed="#P" break="no" n="2"/>do 
+          intra animae potentias vel metum vel
+          <lb ed="#P" n="3"/>maerorem vel affligendo corpus exterius 
+          <lb ed="#P" n="4"/>morbis vel doloribus: aut illustrando a<lb ed="#P" break="no" n="5"/>nimam
+          ipsam sancti spiritus lumine. Haec 
+          <lb ed="#P" n="6"/>autem Deus vel per se facit vel per angelos vel 
+          <lb ed="#P" n="7"/>per homines: representantes ob oculos in<lb ed="#P" break="no" n="8"/>ferni 
+          cruciatus: animae damnationem eter<lb ed="#P" break="no" n="9"/>nam: 
+          aliaque presentis et futurae vitae incom<lb ed="#P" break="no" n="10"/>moda. 
+          His modis impletur illud: compel<lb ed="#P" break="no" n="11"/>le 
+          intrare: hoc est, importune persuade instiga<lb ed="#P" break="no" n="12"/>que 
+          illos ut conuertantur per huiusmodi commi<lb ed="#P" break="no" n="13"/>nationes 
+          iuxta illud Apostoli 2 ad Thi<lb ed="#P" break="no" n="14"/>motheum 
+          4 predica verbum insta oportune et 
+          <lb ed="#P" n="15"/>importune argue obsecra increpa, et ad Ti<lb ed="#P" break="no" n="16"/>tum 
+          2 argue cum omni imperio et capitulo 1o 
+          <lb ed="#P" n="17"/>ob quam causam increpa illos dure: ut sani 
+          <lb ed="#P" n="18"/>sint in fide. Ita parabolam illam interpre<lb ed="#P" break="no" n="19"/>tatur 
+          Hugo Cardinalis. Et <name xml:id="lca8s8-d1e592-Nd1e701">dionysius car<lb ed="#P" break="no" n="20"/>thusiensis</name>. 
+          Deus enim ad impartiendum 
+          <lb ed="#P" n="21"/>hominibus lucem et salutem vtitur ange<lb ed="#P" break="no" n="22"/>lorum 
+          ministerio et iubet eos compellere ho<lb ed="#P" break="no" n="23"/>mines 
+          his modis: authore Dionysio coeles<lb ed="#P" break="no" n="24"/>tis 
+          hierarchiae capitulo 9 qui refert Deum an<lb ed="#P" break="no" n="25"/>gelorum 
+          ministerio plurimos Ethnicos ad 
+          <lb ed="#P" n="26"/>sui cognitionem pertraxisse his verbis: u<lb ed="#P" break="no" n="27"/>num 
+          autem omnium principium et ad ipsum 
+          <lb ed="#P" n="28"/>reduxerunt, sequentes secundum unamquamque gen<lb ed="#P" break="no" n="29"/>tem 
+          sacerdotio fungentes angeli etc.
+        </p>
+        <p xml:id="lca8s8-d1e592-d1e727">
+          Eis<lb ed="#P" break="no" n="30"/>dem 
+          verbis instruit dominus homines <add place="above-line">per</add> pre<lb ed="#P" break="no" n="31"/>latos 
+          et predicatores: quos in simile minis<pb ed="#P" n="189-r"/><lb ed="#P" break="no" n="1"/>terium 
+          deligit quemadmodum instituit pe<lb ed="#P" break="no" n="2"/>trum 
+          quem ad Cornelium mittebat actuum 
+          <lb ed="#P" n="3"/>10 Et Paulum cum illum misit in Mace<lb ed="#P" break="no" n="4"/>doniam 
+          actuum 16 et Philippum quem 
+          <lb ed="#P" n="5"/>Eunucho Candacis reginae obuiam misit 
+          <lb ed="#P" n="6"/>quibus tune iam incumbit ex officio iniunc<lb ed="#P" break="no" n="7"/>to 
+          eiusmodi exhortationes facere: increpa<lb ed="#P" break="no" n="8"/>tiones 
+          et instantias importunas et oppor<lb ed="#P" break="no" n="9"/>tunas 
+          non omittere. Et hoc modo dici potest 
+          <lb ed="#P" n="10"/>infidelium plurimos ad Dei veri cognitio<lb ed="#P" break="no" n="11"/>nem 
+          venire quasi compulsos. Compel<lb ed="#P" break="no" n="12"/>luntur 
+          ergo infideles cognoscere veritatem 
+          <lb ed="#P" n="13"/>paupertate fame <pc type="virgula">/</pc> morbis <pc type="virgula">/</pc> doloribus <pc type="virgula">/</pc> ter<lb ed="#P" break="no" n="14"/>roribus.
+          Compelluntur etiam Verbo Dei 
+          <lb ed="#P" n="15"/>quod est efficacissimum iuxta illud quod
+          <lb ed="#P" n="16"/>legimus apud Hieremiam capitulo 24. Num<lb ed="#P" break="no" n="17"/>quid 
+          non verba mea sunt quasi ignis et 
+          <lb ed="#P" n="18"/>quasi Malleus conterens petras? Vel quia 
+          <lb ed="#P" n="19"/>conuicti miraculis vel rationibus mouen<lb ed="#P" break="no" n="20"/>tur
+          ad credendum. Sicut etiam dicimus 
+          <lb ed="#P" n="21"/>demones fidem habere quasi coactam. Eo<lb ed="#P" break="no" n="22"/>rum
+          enim intellectus etiam nollens conuin<lb ed="#P" break="no" n="23"/>citur 
+          efficacissimis argumentis rerum quae 
+          <lb ed="#P" n="24"/>vident et intelligunt. Vident enim multa 
+          <lb ed="#P" n="25"/>manifesta indicia ex quibus percipiunt 
+          <lb ed="#P" n="26"/>doctrinam ecclesiae a Deo esse: qui nec falli 
+          <lb ed="#P" n="27"/>nec fallere potest quamuis ipsi res ipsas quas
+          <lb ed="#P" n="28"/>ecclesia docet non videant. Puta Deum 
+          <lb ed="#P" n="29"/>esse trinum et vnum vel aliquid huiusmodi et 
+          <lb ed="#P" n="30"/>sic coguntur ad credendum ex perspicaci<lb ed="#P" break="no" n="31"/>tate 
+          intellectus <ref xml:id="lca8s8-d1e592-Rd1e814">autore Thoma 2a 2ae quaestione 5 
+          <lb ed="#P" n="32"/>articulo 2 in corpore</ref> et <ref xml:id="lca8s8-d1e592-Rd1e819">ad 2m</ref> Sic <ref xml:id="lca8s8-d1e592-Rd1e821">Aristoteles 
+          <lb ed="#P" n="33"/>libro posteriorum</ref> et <ref xml:id="lca8s8-d1e592-Rd1e826">4 metaphysicae</ref> scribit de an<pb ed="#P" n="189-v"/><lb ed="#P" break="no" n="1"/>tiquis 
+          philosophis quod etsi ore negabant prima prin<lb ed="#P" break="no" n="2"/>cipia,
+          cogebantur tamen ea fateri conuicti eui<lb ed="#P" break="no" n="3"/>dentibus 
+          et necessariis rationibus quas 
+          <lb ed="#P" n="4"/>ipse tradit Metaphysicae 11o capitulo 4. de huiusmodi com<lb ed="#P" break="no" n="5"/>pulsione 
+          interiori et persuasiua inquit 
+          <lb ed="#P" n="6"/>Augustinus: felix necessitas quae com<lb ed="#P" break="no" n="7"/>pelit 
+          ad meliora. Et Seneca: infirmita<lb ed="#P" break="no" n="8"/>ti 
+          meae gratias: ago quae cogit me non pos<lb ed="#P" break="no" n="9"/>se 
+          quod non debeo velle. haec ille. Et haec 
+          <lb ed="#P" n="10"/>est compulsio quam Christus per parabo<lb ed="#P" break="no" n="11"/>lam 
+          illam in sensu literali docere inten<lb ed="#P" break="no" n="12"/>dit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

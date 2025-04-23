@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 22 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew L. Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 22 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-12">Apr 12, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="102-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e329">
+        <head xml:id="lca8s8-d1e329-Hd1e97">Caput 22 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e329-d1e99">
+          <lb ed="P" n="16"/>Caput 22m.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e104">
+          <lb ed="#P" n="17"/>Rursus <ref xml:id="lca8s8-d1e329-Rd1e108"><name xml:id="lca8s8-d1e329-Nd1e109">Augustinus Anchona</name></ref> adducit
+          <lb ed="#P" n="18"/>paganos peccantes contra naturam puniri
+          <lb ed="#P" n="19"/>posse per papam: quia vnusquisque iuste
+          <lb ed="#P" n="20"/>potest puniri pro transgressione legis quam
+          <lb ed="#P" n="21"/>recipit, et quam obseruare profitetur. Sed
+          <lb ed="#P" n="22"/>pagani, et omnes barbarae nationes legem
+          <lb ed="#P" n="23"/>naturae recipiunt et per eam possunt con<lb ed="#P" break="no" n="24"/>uinci:
+          papa vero est obseruator vel esse
+          <lb ed="#P" n="25"/>debet legis naturae. ergo papa omnes paga<lb ed="#P" break="no" n="26"/>nos
+          et barbaras nationes agentes contra
+          <lb ed="#P" n="27"/>legem naturae punire potest et debet.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e134">
+          <lb ed="#P" n="28"/>Ad hoc argumentum dicimus tripliciter:
+            <add place="margin-right" hand="F">Solutio <ref xml:id="lca8s8-d1e329-Rd1e140">argumenti <name xml:id="lca8s8-d1e329-Nd1e142">Augustini de Anchona</name></ref></add>
+          <lb ed="#P" n="29"/>primo verum est quemlibet puniendum
+          <lb ed="#P" n="30"/>esse per legem quam recipit, et profitetur
+          <pb ed="#P" n="103-r"/>
+          <lb ed="#P" n="1"/>sic per naturalem: cum hac tamen distinc<lb ed="#P" break="no" n="2"/>tione
+          (videlicet) vel per iudicium diuinum
+          <lb ed="#P" n="3"/>aut humanum secundum vniuscuiusque horum iu<lb ed="#P" break="no" n="4"/>diciorum
+          rationem.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e160">
+          Ad iudicii quidem
+          <lb ed="#P" n="5"/>humani rationem pertinet punire peccata,
+          <lb ed="#P" n="6"/>quae contra naturalem legem comittuntur
+          <lb ed="#P" n="7"/>in peccatoribus qui subditi sunt humano
+          <lb ed="#P" n="8"/>iudicio. Ad diuinum autem spectat peccata
+          <lb ed="#P" n="9"/>punire illorum qui aliqua ratione hu<lb ed="#P" break="no" n="10"/>mano
+          iudicio non subsunt. Vnde talis pu<lb ed="#P" break="no" n="11"/>nitio
+          diuino iudicio reseruata noscitur.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e179">
+          <lb ed="#P" n="12"/>Hoc sic manifestari potest. Nam plura
+          <lb ed="#P" n="13"/>nefanda crimina comitti possent contra
+          <lb ed="#P" n="14"/>legem naturalem diuinamque, positiuam
+          <lb ed="#P" n="15"/>cuius papa primus est defensor: et omnis
+          <lb ed="#P" n="16"/>iudex competens: quibus incumbit et illa
+          <lb ed="#P" n="17"/>punire in subditis suis; in multis tamen
+          <lb ed="#P" n="18"/>casibus: nec papa
+            <add place="margin-right" hand="F">Casus in quibus papa sibi subditos punire non potest</add>
+          nec alius iudex in pro<lb ed="#P" break="no" n="19"/>priis
+          etiam subditis habent potestatem ta<lb ed="#P" break="no" n="20"/>lia
+          puniendi: ex eo quod pertinent precise ad
+          <lb ed="#P" n="21"/>diuinum iudicium.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e206">
+          Et potest exemplifi<lb ed="#P" break="no" n="22"/>cari
+          in multis. Vnum est si quis aliquod
+          <lb ed="#P" n="23"/>scelus et quidem grauissimum contra na<lb ed="#P" break="no" n="24"/>turalem
+          legem et diuinam coram ipso solo
+          <lb ed="#P" n="25"/>papa vel rege nullis aliis arbitris presen<lb ed="#P" break="no" n="26"/>tibus
+          comisisset. Ita quod papa vel rex dun<lb ed="#P" break="no" n="27"/>taxat
+          propriis obtutibus vidisset.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e222">
+          Certe papa vel rex illud non posset punire. Cu<lb ed="#P" break="no" n="28"/>ius
+          ratio est: quoniam iudicandum est secundum
+          <lb ed="#P" n="29"/>allegata et probata: et non secundum id quod iudex
+          <lb ed="#P" n="30"/>peculiariter vidit, et ideo ille reseruatur
+          <lb ed="#P" n="31"/>diuino iudicio, nam in casu illo non est
+          <pb ed="#P" n="103-v"/>
+          <lb ed="#P" n="1"/>subditus talis delinquens humano iudi<lb ed="#P" break="no" n="2"/>cio
+          id est papae vel alterius iudicio, et papa
+          <lb ed="#P" n="3"/>hunc puniens merito audiret: <quote xml:id="lca8s8-d1e329-Qd1e241">tu quis es
+          <lb ed="#P" n="4"/>qui iudicas alienum seruum domino suo
+          <lb ed="#P" n="5"/>aut stat aut cedit</quote> <ref xml:id="lca8s8-d1e329-Rd1e248">ad Romanos, 14</ref>. Quod
+          <lb ed="#P" n="6"/>in specie supra posita adducit <ref xml:id="lca8s8-d1e329-Rd1e253">Euaristius
+          <lb ed="#P" n="7"/>papa in c. nullum cl. 2o. 30r. q. 5</ref> ibi:
+          <lb ed="#P" n="8"/><quote xml:id="lca8s8-d1e329-Qd1e259">nullum ante veram iustamque probationem
+          <lb ed="#P" n="9"/>iudicare aut damnare debemus: teste apos<lb ed="#P" break="no" n="10"/>tolo
+          qui ait: tu quis es, qui iudicas alie<lb ed="#P" break="no" n="11"/>num
+          seruum? Domino suo stat aut cadit</quote>
+          <lb ed="#P" n="12"/>etc.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e271">
+          Vbi <ref xml:id="lca8s8-d1e329-Rd1e273">Glosa</ref> inquit <quote xml:id="lca8s8-d1e329-Qd1e275">alienum seruum
+          <lb ed="#P" n="13"/>id est ab alio iudicandum, scilicet, a deo</quote>. Idem <ref xml:id="lca8s8-d1e329-Rd1e280">Eua<lb ed="#P" break="no" n="14"/>ristuis
+          in c. deus omnipotens .2. q. 1</ref>. adducit exemplum peccati quod Sodomitae
+          <lb ed="#P" n="15"/>commitebant.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e288">
+          ¶ Huius modi est infidelitas
+          <lb ed="#P" n="16"/>sarracenorum et iudaeorum in terris degentium
+          <lb ed="#P" n="17"/>christianorum, quae aduersatur legi diuinae
+          <lb ed="#P" n="18"/>quam a deo acceperunt, et cuius papa est
+          <lb ed="#P" n="19"/>precipuus obseruator, ut in <ref xml:id="lca8s8-d1e329-Rd1e298">c. sunt quidam
+          <lb ed="#P" n="20"/>25. q. 1</ref>. Impietas etiam Sarracenorum
+          <lb ed="#P" n="21"/>aduersatur legi naturae. Colunt enim pseu<lb ed="#P" break="no" n="22"/>do
+          prophetam impium omnium viciorum collu<lb ed="#P" break="no" n="23"/>uie
+          conspurcatum: obseruant etiam obsce<lb ed="#P" break="no" n="24"/>nas
+          quasdam caeremonias aduersus legem
+          <lb ed="#P" n="25"/>naturae. Non tamen puniuntur a papa
+          <lb ed="#P" n="26"/>vel ab alio principe quoniam illorum pecca<lb ed="#P" break="no" n="27"/>torum
+          punitio reseruatur iudicio diuino,
+          <lb ed="#P" n="28"/>nec punitio pertinet ad papam: vel ad a<lb ed="#P" break="no" n="29"/>lium
+          hominem iudicem. quia in illis pec<lb ed="#P" break="no" n="30"/>catis
+          nulli hominum sunt subditi.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e326">
+          Et prop<lb ed="#P" break="no" n="31"/>terea
+          <ref xml:id="lca8s8-d1e329-Rd1e330">doctores in c. quod super his de
+          <pb ed="#P" n="104-r"/>
+          <lb ed="#P" n="1"/>voto.</ref> et aliis locis ducent quod esse iudaeum pec<lb ed="#P" break="no" n="2"/>catum
+          est quoad deum: qui scelus punibit:
+          <lb ed="#P" n="3"/>non tamen quoad homines. Apud homines
+          <lb ed="#P" n="4"/>enim illud crimen non punitur, sed diui<lb ed="#P" break="no" n="5"/>no
+          iudicio reseruatur. Iudaeum (inquiunt)
+          <lb ed="#P" n="6"/>esse, in se est delictum, scilicet, habito respectu
+          <lb ed="#P" n="7"/>ad deum et ad penam eternam: sed non
+          <lb ed="#P" n="8"/>ad iudicem et forum contentiosum, et sic<lb ed="#P" break="no" n="9"/>
+          non est per homines punibile.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e356">
+          Ita docet
+          <lb ed="#P" n="10"/><ref xml:id="lca8s8-d1e329-Rd1e359">Bartholus in l. ppud iulianum, § 1o</ref>. Et
+          <lb ed="#P" n="11"/>ibi <ref xml:id="lca8s8-d1e329-Rd1e363">Iasso § constat, 5a columna</ref>. <ref xml:id="lca8s8-d1e329-Rd1e365">Ludo<lb ed="#P" break="no" n="12"/>uicus
+          Romanus in l. multum ff. de ver<lb ed="#P" break="no" n="13"/>borum
+          obligationibus</ref>. <ref xml:id="lca8s8-d1e329-Rd1e372">Ioanes de Anania in c. pre<lb ed="#P" break="no" n="14"/>senti:
+            in principio</ref>. <ref xml:id="lca8s8-d1e329-Rd1e378">extrauagantium de Iudaeis</ref>. <ref xml:id="lca8s8-d1e329-Rd1e380">Fe<lb ed="#P" break="no" n="15"/>linus
+          in c. multorum, 2a, columna eo titu<lb ed="#P" break="no" n="16"/>lo</ref>.
+          Et alii etiam doctores idem tenent. Idem
+          <lb ed="#P" n="17"/>de Sarracenis, Arabibus et aliis paganis.
+          <lb ed="#P" n="18"/>Neque eorum enim superstitio ab humanis
+          <lb ed="#P" n="19"/>iudicibus christianis punitur: sed deo re<lb ed="#P" break="no" n="20"/>seruatur,
+          vt patet ex superioribus.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e396">
+          ¶ Simi<lb ed="#P" break="no" n="21"/>liter
+          iudicandum de criminibus comissis ab
+          <lb ed="#P" n="22"/>Ebriis vel furiosis. Quamuis enim occidant
+          <lb ed="#P" n="23"/>blasphement vel atrocia alia comittant,
+          <lb ed="#P" n="24"/>non sunt puniendi dum furor vel ebrietas
+          <lb ed="#P" n="25"/>durat ut in <ref xml:id="lca8s8-d1e329-Rd1e409"><expan><abbr>clemen</abbr><choice><ex cert="high">tina</ex></choice></expan> si furiosus. de homicidis</ref>.
+          <lb ed="#P" n="26"/>Potest enim furiosus iniuriam pati non ta<lb ed="#P" break="no" n="27"/>men
+          facere .l. illud ff. de iniuriis. Horum
+          <lb ed="#P" n="28"/>enim delicta non aliter iudicantur quam si caso
+          <lb ed="#P" n="29"/>fortuito comissa forent.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e426">
+          Si tamen homo cul<lb ed="#P" break="no" n="30"/>pa
+          sua inebriatus est vel in furorem incidit
+          <lb ed="#P" n="31"/>dando operam rei illicitae: tunc rei crimi<lb ed="#P" break="no" n="32"/>num
+          sunt: ideo Deo rationem reddent. <ref xml:id="lca8s8-d1e329-Rd1e434">Sanctus
+          <pb ed="#P" n="104-v"/>
+          <lb ed="#P" n="1"/>Thomas 2a 2ae q. 64, articulo 2o, q</ref>. Et <ref xml:id="lca8s8-d1e329-Rd1e441">4º. sententiarum
+          <lb ed="#P" n="2"/>distinctio 17, q. 2, articulo 2o. q. 24, 2m</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e447">
+          Quo<lb ed="#P" break="no" n="3"/>niam
+          quando quis culpa sua inebriatur:
+          <lb ed="#P" n="4"/>culpa ab eo comissa quodammodo est volunta<lb ed="#P" break="no" n="5"/>ria:
+          quemadmodum <ref xml:id="lca8s8-d1e329-Rd1e455">si quis <subst hand="AB"><del rend="strikethrough">iaculum</del><add place="above-line">arcum</add></subst></ref> con<lb ed="#P" break="no" n="6"/>torqueret:
+          non respiciendo prius an esset
+          <lb ed="#P" n="7"/>aliquis qui <subst hand="AB"><del rend="strikethrough">fieri</del><add place="above-line">feriri</add></subst> posset, quemadmodum
+          <lb ed="#P" n="8"/>fecit <ref xml:id="lca8s8-d1e329-Rd1e476"><name xml:id="lca8s8-d1e329-Nd1e477">Lamech</name>, qui huiusmodi casu <name xml:id="lca8s8-d1e329-Nd1e479">Ca<lb ed="#P" break="no" n="9"/>in</name>
+          occidit</ref>. Eadem ratione qui vxorem
+          <lb ed="#P" n="10"/>alienam concupiscit reus est apud deum:
+          <lb ed="#P" n="11"/>non tamen humano iudicio punitur si<lb ed="#P" break="no" n="12"/>mile
+          exemplum assignatur in <ref xml:id="lca8s8-d1e329-Rd1e492">c. si quis
+          <lb ed="#P" n="13"/>insaniens. 15. q. 1</ref>. et in <ref xml:id="lca8s8-d1e329-Rd1e497">c. inebriauerunt</ref>.
+          <lb ed="#P" n="14"/>Et in <ref xml:id="lca8s8-d1e329-Rd1e501">c. sane</ref>. His similes sunt qui ex a<lb ed="#P" break="no" n="15"/>lienis
+          diuites <del rend="strikethrough"><gap extent="5" unit="characters"/></del> euadere cupiunt, et<lb ed="#P" break="no" n="16"/>
+          qui aliena possidentes restitutioni obnoxii
+          <lb ed="#P" n="17"/>sunt.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e514">
+          Item qui mala fide possident. Quam<lb ed="#P" break="no" n="18"/>uis
+          enim ab humanis iudicibus non pu<lb ed="#P" break="no" n="19"/>niantur
+          apud deum tamen, rei criminis
+          <lb ed="#P" n="20"/><add place="margin-left" hand="F">adrianus</add>
+          sunt. De his quodlibetum scripsit <ref xml:id="lca8s8-d1e329-Rd1e524">Adria<lb ed="#P" break="no" n="21"/>nus
+          Florentinus Romanus pontifex (scilicet)
+          <lb ed="#P" n="22"/>quodlibetum 1m. articulo 2o.</ref> vbi quatuor scribit
+          <lb ed="#P" n="23"/>propositiones huic tractatui satis congru<lb ed="#P" break="no" n="24"/>entes.
+          De horum numero sunt, etiam de<lb ed="#P" break="no" n="25"/>licta
+          carnalia puerorum, qui doli capaces non
+          <lb ed="#P" n="26"/>sunt: non puniuntur a iure ut in <ref xml:id="lca8s8-d1e329-Rd1e540">c. 1o. de
+          <lb ed="#P" n="27"/>delictis Puerorum</ref>. Vnde minor duodecim an<lb ed="#P" break="no" n="28"/>is
+          adulterii accusari non potest. Vt in
+          <lb ed="#P" n="29"/><ref xml:id="lca8s8-d1e329-Rd1e549">l. minor. ff. ad legem luliam de adulteriis</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e552">
+          Pec<lb ed="#P" break="no" n="30"/>cant
+          tamen mortaliter quo ad Deum si do<lb ed="#P" break="no" n="31"/>li
+          capaces sunt. Vt in <ref xml:id="lca8s8-d1e329-Rd1e558">c. firmissime 15. q.
+          <lb ed="#P" n="32"/>1</ref>. et in <ref xml:id="lca8s8-d1e329-Rd1e563">c. 1o. de delictis puerorum</ref>. Vbi etiam
+          <pb ed="#P" n="105-r"/>
+          <lb ed="#P" n="1"/>probatur quod si pueri furantur, mentiun<lb ed="#P" break="no" n="2"/>tur,
+          vel falsum iurant, quae crimina sunt
+          <lb ed="#P" n="3"/>aduersus legem naturae: rei criminis sunt
+          <lb ed="#P" n="4"/>apud Deum, si doli capaces sunt. Quod
+          <lb ed="#P" n="5"/>in nonullis contigit septimo etatis anno.
+        </p>
+        <p xml:id="lca8s8-d1e329-d1e580">
+          <lb ed="#P" n="6"/>Iudicio autem humano non puniuntur ni<lb ed="#P" break="no" n="7"/>si
+          sunt pubertati proximi. Vt notatur
+          <lb ed="#P" n="8"/>in <ref xml:id="lca8s8-d1e329-Rd1e588">dicto c. 1o</ref>. et <ref xml:id="lca8s8-d1e329-Rd1e590">in § pupillus. institutionum: de
+          <lb ed="#P" n="9"/>inutilibus stipulationibus</ref>, <ref xml:id="lca8s8-d1e329-Rd1e596">glossa in §. in suma de
+          <lb ed="#P" n="10"/>obligationibus quae ex delicto nascuntur</ref>.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>

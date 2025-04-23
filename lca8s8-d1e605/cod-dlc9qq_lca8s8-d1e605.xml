@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 43 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 43 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-17">April 17, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="189-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e605">
+        <head xml:id="lca8s8-d1e605-Hd1e97">Caput 43</head>
+        <p xml:id="lca8s8-d1e605-d1e99">
+          <lb ed="#P" n="13"/>Caput 43m
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e104">
+          <lb ed="#P" n="14"/><pc type="pilcrow"/> De huiusmodi<!--typo here in edition --> compulsione persuasiua vide 
+          <lb ed="#P" n="15"/>oro quae prompsit sanctus Thomas in 3 parte quaestione 
+          <lb ed="#P" n="16"/>44 articulo 3 ad 1m ubi inquit: Iustifica<lb ed="#P" break="no" n="17"/>re 
+          autem homines non conueniebat nisi eis 
+          <lb ed="#P" n="18"/>volentibus. Hoc <sic>non</sic> esset contra rationem 
+          <lb ed="#P" n="19"/>iustitiae: quae rectitudinem voluntatis im<lb ed="#P" break="no" n="20"/>portat: 
+          et etiam contra rationem huma<lb ed="#P" break="no" n="21"/>nae 
+          naturae, quae libero arbitrio ad bonum 
+          <lb ed="#P" n="22"/>deducenda est non autem per coactionem. 
+          <lb ed="#P" n="23"/>Christus ergo virtute diuina interius ho<lb ed="#P" break="no" n="24"/>mines 
+          Iustificauit non tamen eis inuitis. 
+          <lb ed="#P" n="25"/>Et post multa (inquit sanctus Thomas): circa ani<lb ed="#P" break="no" n="26"/>mas 
+          hominum maxime quantum ad immutandas inferiores vires Christus aliqua
+          <lb ed="#P" n="27"/>miracula facit: unde Hieronimus super 
+          <lb ed="#P" n="28"/>illud Matthei 9: Surgens secutus est eum
+          (scilicet) Mattheus dicit: fulgor ipse et 
+          <lb ed="#P" n="29"/>maiestas deitatis occultae quae etiam in 
+          <lb ed="#P" n="30"/>facie relucebat humana: videntes ad se 
+          <pb ed="#P" n="190-r"/>
+          <lb ed="#P" n="1"/>trahere poterat ex primo aspectu. Et hoc 
+          <lb ed="#P" n="2"/>ad inuitandas et trahendas suauiter gentes 
+          <lb ed="#P" n="3"/>ipsas inspirationibus illuminationibus 
+          <lb ed="#P" n="4"/>et infundendo illis sapientiam et amo<lb ed="#P" break="no" n="5"/>rem 
+          diuinum.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e162">
+          Addit sanctus Thomas ibidem: Et 
+          <lb ed="#P" n="6"/>super illud Matthei 21: <quote xml:id="lca8s8-d1e605-Qd1e166">eiiciebat omnes
+          <lb ed="#P" n="7"/>ementes et vendentes</quote> etc Dicit idem Hie<lb ed="#P" break="no" n="8"/>ronymus: 
+          mihi inter omnia signa quae foe<lb ed="#P" break="no" n="9"/>cit 
+          dominus: hoc videtur esse mirabilius: 
+          <lb ed="#P" n="10"/>quod unus homo et illo tempore contemptibilis 
+          <lb ed="#P" n="11"/>potuerit ad unius flagelli verbera tantam 
+          <lb ed="#P" n="12"/>eiicere multitudinem. Igneum quiddam atque 
+          <lb ed="#P" n="13"/>sidereum radiabat ex oculis eius: et dei<lb ed="#P" break="no" n="14"/>tatis 
+          maiestas lucebat in facie eius. Et
+          <lb ed="#P" n="15"/>super illud Ioanis 18: <quote xml:id="lca8s8-d1e605-Qd1e188">abierunt retrorsum 
+          <lb ed="#P" n="16"/>et ceciderunt in terram</quote> dicit Augustinus: 
+          <lb ed="#P" n="17"/><quote xml:id="lca8s8-d1e605-Qd1e195">Vna vox turbam odiis ferocem armisque 
+          <lb ed="#P" n="18"/>terribilem sine tello vllo percussit, repullit <pc type="virgula">/</pc> 
+          strauit. Deus enim latebat in carne</quote>
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e204">
+          Et 
+          <lb ed="#P" n="19"/>sanctus Thomas infra: ex quibus omnibus patet 
+          <lb ed="#P" n="20"/>quod christus quando voluit virtute diuina 
+          <lb ed="#P" n="21"/>animas hominum immutauit: non solum 
+          <lb ed="#P" n="22"/>iustificando et sapientiam infundendo 
+          <lb ed="#P" n="23"/>quod pertinet ad miraculorum finem: sed 
+          <lb ed="#P" n="24"/>etiam exterius alliciendo vel terrendo vel 
+          <lb ed="#P" n="25"/>stupefaciendo quod pertinet ad ipsa mi<lb ed="#P" break="no" n="26"/>racula. 
+          Haec sanctus Thomas.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e225">
+          Vnde apparet et 
+          <lb ed="#P" n="27"/>modum ipsum quo Christus ad sui cogni<lb ed="#P" break="no" n="28"/>tionem 
+          credentes trahebat fuisse miracu<lb ed="#P" break="no" n="29"/>losum. 
+          Et nulli dubium quin etiam quo<lb ed="#P" break="no" n="30"/>tidie 
+          per medium vel hominum vel ange<lb ed="#P" break="no" n="31"/>lorum 
+          in illuminandis hominibus tali modo 
+          <pb ed="#P" n="190-v"/>
+          <lb ed="#P" n="1"/>vtatur. Hoc patet in conuersione beati Pau<lb ed="#P" break="no" n="2"/>li. 
+          Actuum 19 Vbi discimus Paulum ex 
+          <lb ed="#P" n="3"/>lupo agnum factum diuino quodam mi<lb ed="#P" break="no" n="4"/>raculo 
+          quo coelesti lumine circumfusus ex 
+          <lb ed="#P" n="5"/>equo deturbatus est. Quamquam vocationem 
+          <lb ed="#P" n="6"/>similem non legimus alibi: ideo eam tamquam
+          <lb ed="#P" n="7"/>vnicam et mirificam celebrat ecclesia au<lb ed="#P" break="no" n="8"/>tore 
+          Thoma 1a 2ae, quaestione 113 articulo ultimo in corpore in 
+          <lb ed="#P" n="9"/>finem. Ideo huiusmodi vocatio non est pro<lb ed="#P" break="no" n="10"/>ferenda 
+          in exemplum. Fuit enim pecu<lb ed="#P" break="no" n="11"/>liaris 
+          et priuilegia particularia non fa<lb ed="#P" break="no" n="12"/>ciunt 
+          legem communem etc. Modum autem 
+          <lb ed="#P" n="13"/><sic>comunem</sic> quo dominus absque vlla com<lb ed="#P" break="no" n="14"/>pulsione
+          pertrahit homines ad se: expo<lb ed="#P" break="no" n="15"/>nit 
+          sanctus Thomas in quaestionibus de veritate 
+          <lb ed="#P" n="16"/>quaestione 22 articulo 8 et 1 parte quastione 105 articulo 3 
+          <lb ed="#P" n="17"/>et 4o per totum et in aliis locis <sic>sumae</sic> 
+          <lb ed="#P" n="18"/>contra gentiles ait sanctus Thomas: Deus po<lb ed="#P" break="no" n="19"/>test 
+          mutare voluntatem de necessitate: non 
+          <lb ed="#P" n="20"/>tamen potest eam cogere. Quantumcumque 
+          <lb ed="#P" n="21"/>enim voluntas immutetur in aliquid non 
+          <lb ed="#P" n="22"/>dicitur cogi in illud. Cuius ratio est quia 
+          <lb ed="#P" n="23"/>ipsum velle aliquid est inclinari <add place="above-line">in</add> illud 
+          <lb ed="#P" n="24"/>Coactio autem vel violentia est contraria 
+          <lb ed="#P" n="25"/>inclinationi illius rei quae cogitur. Cum 
+          <lb ed="#P" n="26"/>igitur deus voluntatem immutat: facit 
+          <lb ed="#P" n="27"/>ut precedenti inclinationi succedat alia 
+          <lb ed="#P" n="28"/>inclinatio. Itaque prima aufertur et secun<lb ed="#P" break="no" n="29"/>da 
+          manet. Vnde illud ad quod inducit 
+          <lb ed="#P" n="30"/>voluntatem: non est contrarium inclina<lb ed="#P" break="no" n="31"/>tioni
+          iam existenti: sed inclinationi quae 
+          <lb ed="#P" n="32"/>prius inerat. Vnde non est coactio vel vio<pb ed="#P" n="191-r"/><lb ed="#P" break="no" n="1"/>lentia
+          sicut lapidi ratione suae grauita<lb ed="#P" break="no" n="2"/>tis 
+          inest inclinatio ad locum deorsum. 
+          <lb ed="#P" n="3"/>Hac autem inclinatione manente si sursum 
+          <lb ed="#P" n="4"/>proiiciatur, erit violentia: si autem deus au<lb ed="#P" break="no" n="5"/>ferat 
+          a lapide inclinationem grauitatis 
+          <lb ed="#P" n="6"/>et det ei inclinationem leuitatis: tunc 
+          <lb ed="#P" n="7"/>ferri sursum non erit ei violentum. Et 
+          <lb ed="#P" n="8"/>ita oppositus motus potest esse sine vio<lb ed="#P" break="no" n="9"/>lentia. 
+          Et per hunc modum intelligendum 
+          <lb ed="#P" n="10"/>est quod deus voluntatem immutat: sine 
+          <lb ed="#P" n="11"/>hoc quod voluntatem cogat etc. haec sanctus Thomas 
+          <lb ed="#P" n="12"/>in forma.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e344">
+          Itaque dominus suauiter mouet 
+          <lb ed="#P" n="13"/>vnamquanque rem ad finem suum: iuxta 
+          <lb ed="#P" n="14"/>illud <ref xml:id="lca8s8-d1e605-Rd1e350">sapientiae 8</ref> <quote xml:id="lca8s8-d1e605-Qd1e352" source="http://scta.info/resource/sap8_1@1-12">attingit a fine vsque ad fi<lb ed="#P" break="no" n="15"/>nem 
+          et disponit omnia suauiter</quote>. Certe 
+          <lb ed="#P" n="16"/>maxime contrarius est motus iste quo 
+          <lb ed="#P" n="17"/>diuina sapientia trahit ad se res creatas 
+          <lb ed="#P" n="18"/>potissime creaturas rationales: illi quem 
+          <lb ed="#P" n="19"/>cum gladiis euaginatis ingeniis ignife<lb ed="#P" break="no" n="20"/>ris 
+          et bombardis aduersarii imaginantur. In<lb ed="#P" break="no" n="21"/>genium 
+          enim humanum eiusmodi est vt do<lb ed="#P" break="no" n="22"/>ceri 
+          adduci et alici blande velit: non vi: et 
+          <lb ed="#P" n="23"/>armis cogi. Nam secundum Philosophum 2o physicorum 
+          <lb ed="#P" n="24"/>unumquodque sic agitur vel trahitur ut aptum 
+          <lb ed="#P" n="25"/>natum est agi vel trahi. Homines namque 
+          <lb ed="#P" n="26"/>naturaliter allici desiderant suauitatibus 
+          <lb ed="#P" n="27"/>blanditiisque ut apparet experientia. Et <ref xml:id="lca8s8-d1e605-Rd1e383" target="http://scta.info/resource/sir6_5@1-7"><sic>pro<lb ed="#P" break="no" n="28"/>verbium</sic> 
+           6</ref> dicitur: <quote xml:id="lca8s8-d1e605-Qd1e391">verbum dulce multipli<lb ed="#P" break="no" n="29"/>cat 
+           amicos et mittigat inimicos</quote> et <quote xml:id="lca8s8-d1e605-Qd1e396" source="http://scta.info/resource/prov15_1@1-8">responsio 
+          <lb ed="#P" n="30"/>mollis frangit iram: sermo durus susci<lb ed="#P" break="no" n="31"/>tat 
+          furorem</quote>.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e404">
+          Et iuxta illud Valerii maxi<lb ed="#P" break="no" n="32"/>mi 
+          libro 5o humanitatis dulcedo: barbaro<pb ed="#P" n="191-v"/><lb ed="#P" break="no" n="1"/>rum 
+          ingenia penetrat. Huius rei causa 
+          <lb ed="#P" n="2"/>est generositas animi qui secundum Senecam
+          <lb ed="#P" n="3"/>magis ducitur quam trahatur. Habet enim 
+          <lb ed="#P" n="4"/>mens quodam sublime et arctum ac im<lb ed="#P" break="no" n="5"/>patiens 
+          superioris: sed delectatione cu<lb ed="#P" break="no" n="6"/>iusdam 
+          subiicitur reuerentia seu lenitatis: per quam suspicatur ad paria pos<lb ed="#P" break="no" n="7"/>se 
+          <lb ed="#P" n="8"/>conscendere: et a suo non resilire gradu 
+          <lb ed="#P" n="9"/>Sic <ref xml:id="lca8s8-d1e605-Rd1e428">philosophus 8 ethicorum</ref> quod beneuolentia est 
+          <lb ed="#P" n="10"/>principium amicitiae.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e434">
+          Sua ergo ineffabi<lb ed="#P" break="no" n="11"/>li 
+          sapientia vtitur Deus dum homines 
+          <lb ed="#P" n="12"/>his modis ad se trahit. Et quia nullus po<lb ed="#P" break="no" n="13"/>test 
+          illa operari circa voluntatem huma<lb ed="#P" break="no" n="14"/>nam 
+          nisi deus solus videlicet vt hodie 
+          <lb ed="#P" n="15"/>velit et amet quod heri horrebat et vita<lb ed="#P" break="no" n="16"/>bat 
+          dulciter intus disponendo et inclinan<lb ed="#P" break="no" n="17"/>do 
+          mentes hominum in contrarium, quod 
+          <lb ed="#P" n="18"/>totum est miraculum: in vanum enim 
+          <lb ed="#P" n="19"/>laboraret exterius lingua predicatoris: ni<lb ed="#P" break="no" n="20"/>si 
+          adesset interius gratia saluatoris. Secundum
+          <lb ed="#P" n="21"/>Augustinum. Hoc autem apparet manifes<lb ed="#P" break="no" n="22"/>te 
+          quia multi audiebant Christi predica<lb ed="#P" break="no" n="23"/>tionem:
+          non tamen omnes conuertebantur: 
+          <lb ed="#P" n="24"/>quia non circa omnium audientium men<lb ed="#P" break="no" n="25"/>tes 
+          christus predictos effectus intus ope<lb ed="#P" break="no" n="26"/>rabatur. 
+          Quisquis ergo ad fidem venit 
+          <lb ed="#P" n="27"/>et animum mutat: a Deo id accipit. Omnia 
+          <lb ed="#P" n="28"/>enim humana terriculamenta non possunt 
+          <lb ed="#P" n="29"/>voluntatem humanam immutare: nisi 
+          <lb ed="#P" n="30"/>christus intus operetur. Rursus inter omnia
+          <lb ed="#P" n="31"/>miracula dei magnum existimatur esse 
+          <pb ed="#P" n="192-r"/>
+          <lb ed="#P" n="1"/>conuersio peccatoris tum propter mag<lb ed="#P" break="no" n="2"/>nitudinem 
+          ipsius operis in se ob impe<lb ed="#P" break="no" n="3"/>dimenta 
+          quae ex peccato nascuntur. Se<lb ed="#P" break="no" n="4"/>parant 
+          enim hominem a deo infinita 
+          <lb ed="#P" n="5"/>distantia tum quia terminatur ad bonum 
+          <lb ed="#P" n="6"/>eternum. Et secundum hoc Augustinus super Ioanem capitulo 14 exponens illud: maiora
+          horum faciet inquit: maius esse ex pecca<lb ed="#P" break="no" n="7"/>tore 
+          reddere iustum quam creare coelum, de 
+          <lb ed="#P" n="8"/>qua re agit sanctus Thomas 1 parte quaestione 105 articulo 7 
+          <lb ed="#P" n="9"/>et 8 per totum.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e504">
+          <lb ed="#P" n="10"/>Ut igitur nobis christus 
+          <lb ed="#P" n="11"/>ostenderet magnitudinem veritatis suae 
+          <lb ed="#P" n="12"/>vimque fortissimam verbi diuini quibus 
+          <lb ed="#P" n="13"/>curat et sanat eos quos propter scelera sua 
+          <lb ed="#P" n="14"/>presertim idolatriae et infidelitatis impos<lb ed="#P" break="no" n="15"/>sibile 
+          est secundum naturam hoc est absque ipsius 
+          <lb ed="#P" n="16"/>ope sanari reddens eos filios dei et regni 
+          <lb ed="#P" n="17"/>coelestis heredes: usus est hoc verbo compel<lb ed="#P" break="no" n="18"/>le
+          intrare: vt significaret mutationem hu<lb ed="#P" break="no" n="19"/>manas 
+          vires superantem. Quasi dicamus 
+          <lb ed="#P" n="20"/>idolatrae nolentes idolorum cultum ab<lb ed="#P" break="no" n="21"/>iicere 
+          et caetera peccata verbo christi et ve<lb ed="#P" break="no" n="22"/>ritatis
+          coniuncti operante intus diuina 
+          <lb ed="#P" n="23"/>gratia idola abiecerunt, ad quod etiam 
+          <lb ed="#P" n="24"/>iuuat exemplum bonorum christianorum 
+          <lb ed="#P" n="25"/>euangelium predicantium. Vt autem haec 
+          <lb ed="#P" n="26"/>litteralis expositio germana fore veritatis 
+          <lb ed="#P" n="27"/>noscatur. Theophilatus super eadem pa<lb ed="#P" break="no" n="28"/>rabola 
+          videatur qui sic ait: per eos qui 
+          <lb ed="#P" n="29"/>in via et apud sepes gentes intelligendae 
+          <lb ed="#P" n="30"/>sunt. Israelitae enim fuerunt intra ciui<lb ed="#P" break="no" n="31"/>tatem 
+          vt hi qui legem susceperant et ciuilio<pb ed="#P" n="192-v"/><lb ed="#P" break="no" n="1"/>rem 
+          vi tam sortiti. Gentiles vero a testamen<lb ed="#P" break="no" n="2"/>tis 
+          et a lege Dei alieni erant et non facti 
+          <lb ed="#P" n="3"/>ciues sanctorum nec in una sed in mul<lb ed="#P" break="no" n="4"/>tis 
+          iniquitatibus et rusticitate magna 
+          <lb ed="#P" n="5"/>versabantur et apud sepes peccata dico 
+          <lb ed="#P" n="6"/>Peccatum enim magna sepes est et inter<lb ed="#P" break="no" n="7"/>stitium: 
+          nos diuidens a Deo. Per vias itaque 
+          <lb ed="#P" n="8"/><seg type="correction">pecu<subst><del rend="strikethrough">niam</del><add place="above-line">liarem</add></subst></seg> gentilium vitam et in multas 
+          <lb ed="#P" n="9"/>dissectam opiniones. Per sepes vero intel<lb ed="#P" break="no" n="10"/>ligit
+          vitam illorum in peccatis. Non sim<lb ed="#P" break="no" n="11"/>pliciter 
+          iubet illos vocari sed compelle 
+          (inquit) quamuis voluntarium sit omnibus 
+          <lb ed="#P" n="12"/>credere. Caeterum vt sciamus magnae vir<lb ed="#P" break="no" n="13"/>tutis 
+          Dei esse gentes in tanta versantes 
+          <lb ed="#P" n="14"/>ignorantia ideo dixit compelle. Nisi 
+          <lb ed="#P" n="15"/>enim magna predicaretur virtus et mag<lb ed="#P" break="no" n="16"/>na 
+          esset verbi veritas: quomodo persuasi 
+          <lb ed="#P" n="17"/>essent homines in idolorum cultu in<lb ed="#P" break="no" n="18"/>sanientes 
+          et foeda operantes vt repente 
+          <lb ed="#P" n="19"/>agnoscerent verum Deum: et spiritualem di<lb ed="#P" break="no" n="20"/>ligerent
+          vitam? Igitur admirabilem 
+          <lb ed="#P" n="21"/>translationem significare volens neces<lb ed="#P" break="no" n="22"/>sitatem 
+          nominauit quasi diceret quis: 
+          <lb ed="#P" n="23"/>gentiles etiam nolentes relinquere idola 
+          <lb ed="#P" n="24"/>et delitias a praedicatione veritatis coacti 
+          <lb ed="#P" n="25"/>sunt ea relinquere. Vel aliter et virtus 
+          <lb ed="#P" n="26"/>signorum magnam afferebat necessitatem 
+          <lb ed="#P" n="27"/>vt transferentur ad fidem christi. 
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e621">
+          Et in<lb ed="#P" break="no" n="28"/>fra: 
+          Illis igitur peccatoribus in latis et 
+          <lb ed="#P" n="29"/>spaciosis peccatorum viis errantibus: mittit
+          pater filium ad coenam inuitantem: qui 
+          <lb ed="#P" n="30"/>secundum carnem seruus fuit: qui non venit vt 
+          <pb ed="#P" n="193-r"/>
+          <lb ed="#P" n="1"/>vocet iustos: sed peccatores; Inuitatque eos 
+          <lb ed="#P" n="2"/>liberaliter predoctis illis et diuitibus <del rend="strikethrough">et</del> 
+          <lb ed="#P" n="3"/>et carni indulgentibus. Multos autem morbos 
+          <lb ed="#P" n="4"/>et pericula immittendo facit eos etiam invo<lb ed="#P" break="no" n="5"/>luntarios
+          renuntiare huic vitae quibus iu<lb ed="#P" break="no" n="6"/>diciis 
+          solet inducere illos ad coenam suam 
+          <lb ed="#P" n="7"/>necessitatem eis faciens periclitationem: et 
+          <lb ed="#P" n="8"/>huius exempla multa sunt. Docet autem 
+          <lb ed="#P" n="9"/>nos haec parabola simplicibus pauperibus 
+          <lb ed="#P" n="10"/>et debilibus potius dandum: quam diuitibus 
+          <lb ed="#P" n="11"/>id quod et paulo antea admonuerat. Dis<lb ed="#P" break="no" n="12"/>cimus 
+          et aliud debere nos alacres et libera<lb ed="#P" break="no" n="13"/>les 
+          ad pauperum susceptionem atque etiam 
+          <lb ed="#P" n="14"/>ita nolentes cogamus eos: vt participes fiant 
+          <lb ed="#P" n="15"/>nostrorum bonorum hoc et magistri admone<lb ed="#P" break="no" n="16"/>antur: 
+          quod opere pretium sit discipulos 
+          <lb ed="#P" n="17"/>etiam nolentes docere. Haec omnia theo<lb ed="#P" break="no" n="18"/>philatus 
+          in forma.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e675">
+          Docere in fine dixit non 
+          <lb ed="#P" n="19"/>bellum aut violentiam corporalem seu ex<lb ed="#P" break="no" n="20"/>teriorem 
+          inferre. Arma enim bellica vt saepe 
+          <lb ed="#P" n="21"/>tactum est non suapte natura ordinantur 
+          <lb ed="#P" n="22"/>ad subiectionem animarum sed corporum 
+          <lb ed="#P" n="23"/>rerum et locorum. Certe longe differens ex<lb ed="#P" break="no" n="24"/>positio
+          est ista Theophilati prenominatae 
+          <lb ed="#P" n="25"/>parabolae compelle intrare ab ea quam fin<lb ed="#P" break="no" n="26"/>gunt
+          aduersarii. Quibus precor potius ad<lb ed="#P" break="no" n="27"/>hibebimus 
+          fidem in expositione scripturae 
+          <lb ed="#P" n="28"/>viris sanctis quos verissimile est spiritum 
+          <lb ed="#P" n="29"/>Dei habuisse in interpretandis scripturis 
+          <lb ed="#P" n="30"/>sacris: an vero sepuluedae et complicibus 
+          <lb ed="#P" n="31"/>immensum ilium orbem exitiabili bello ad<lb ed="#P" break="no" n="32"/>uersus
+          legem christi delere conantibus? Qui 
+          <pb ed="#P" n="193-v"/>
+          <lb ed="#P" n="1"/>tam temere quam impie asserere non verentur 
+          <lb ed="#P" n="2"/>per dictam parabolam nobis christum pre<lb ed="#P" break="no" n="3"/>cepisse: 
+          vt per bellorum immanitates, et tur<lb ed="#P" break="no" n="4"/>bulentias 
+          infideles pacificos et quiete vi<lb ed="#P" break="no" n="5"/>uentes 
+          inquietemus: gentes mitissimas
+          <lb ed="#P" n="6"/>irritemus: pauperrimos spoliemus: docea<lb ed="#P" break="no" n="7"/>mus 
+          superbiam <pc type="virgula">/</pc> astutiam malitiam <pc type="virgula">/</pc> hu<lb ed="#P" break="no" n="8"/>millimos 
+          et simplicissimos: tyranica fero<lb ed="#P" break="no" n="9"/>citate 
+          populos liberos in amaram serui<lb ed="#P" break="no" n="10"/>tutem
+          contra ius gentium et naturale ad<lb ed="#P" break="no" n="11"/>dicamus 
+          nec non tandem ut impossibile <add place="margin-right">reddamus</add> <del rend="strikethrough">te<lb ed="#P" break="no" n="12"/>munt</del>
+          ne: unquam christi <unclear>ouile</unclear> ingrediantur 
+          <lb ed="#P" n="13"/>nationes ad fidem aptissimae. 
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e753">
+          Abeant 
+          <lb ed="#P" n="14"/>isti capitis somnia vanissima non doctri<lb ed="#P" break="no" n="15"/>nam 
+          solidam nobis proferentes. Sed quid 
+          <lb ed="#P" n="16"/>proferunt aduersus euangelicam veritatem 
+          <lb ed="#P" n="17"/>et apostolica exempla: preter calumnias <pc type="virgula">/</pc> men<lb ed="#P" break="no" n="18"/>dacia 
+          et adulterata loca scripturarum? Errant 
+          <lb ed="#P" n="19"/>ergo isti miseri nescientes scripturas neque 
+          <lb ed="#P" n="20"/>virtutem dei.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -56,20 +56,21 @@
           <lb ed="#P" n="15"/>Adversvs persecvtores, et calum<lb ed="#P" break="no" n="16"/>niatores 
           gentivm novi orbis
           <lb ed="#P" n="17"/>ad oceanum reperti apolo<lb ed="#P" break="no" n="18"/>gia:
-          admodum Reverendissimi domini d. fratris Bartholomei cas<lb ed="#P" break="no" n="19"/>aus 
+          admodum Reverendissimi domini
+          <lb ed="#P" n="19"/>d. fratris Bartholomei cas<lb ed="#P" break="no" n="20"/>aus 
           episcopi quondam
-          <lb ed="#P" n="20"/>chiapensis sacri ordinis predicatorum.
+          <lb ed="#P" n="21"/>chiapensis sacri ordinis predicatorum.
         </p>
         <p xml:id="lca8s8-d1e52-d1e115">
-          <lb ed="#P" n="21"/>Capvt primum
+          <lb ed="#P" n="22"/>Capvt primum
         </p>
         <p xml:id="lca8s8-d1e52-d1e120">
-          <lb ed="#P" n="22"/>Quicumque vel voce vel scriptis docent noui
-          <lb ed="#P" n="23"/>orbis habitatores, quos vulgo indos appella<lb ed="#P" break="no" n="24"/>mus, 
-          debere bello domari subigique antequam il<lb ed="#P" break="no" n="25"/>lis 
+          <lb ed="#P" n="23"/>Quicumque vel voce vel scriptis docent noui
+          <lb ed="#P" n="24"/>orbis habitatores, quos vulgo indos appella<lb ed="#P" break="no" n="25"/>mus, 
+          debere bello domari subigique antequam il<lb ed="#P" break="no" n="26"/>lis 
           anuntietur et predicetur euangelium: ut
-          <lb ed="#P" n="26"/>demum postquam sint perdomiti instruantur
-          <lb ed="#P" n="27"/>et audiant verbum dei: fede errant circa duo 
+          <lb ed="#P" n="27"/>demum postquam sint perdomiti instruantur
+          <lb ed="#P" n="28"/>et audiant verbum dei: fede errant circa duo 
           <pb ed="#P" n="11-v"/>
           <lb ed="#P" n="1"/>Primo circa ius diuinum et humanum ab<lb ed="#P" break="no" n="2"/>utentes 
           diuinis verbis: vim facientes scriptu<lb ed="#P" break="no" n="3"/>ris,
@@ -114,8 +115,8 @@
           <lb ed="#P" n="8"/>Nonne habemus verbum Christi: <quote xml:id="lca8s8-d1e52-Qd1e227" source="http://scta.info/resource/mt18_10@1-7">videte ne
           <lb ed="#P" n="9"/>contemnatis unum ex his pusillis!</quote> Et <quote xml:id="lca8s8-d1e52-Qd1e232" source="http://scta.info/resource/mt18_7@12-17">vae ei per
           <lb ed="#P" n="10"/>quem scandalum venit?</quote> Et <quote xml:id="lca8s8-d1e52-Qd1e237" source="http://scta.info/resource/mt12_30@1-13">qui non est me<lb ed="#P" break="no" n="11"/>cum 
-          contra me est: et qui non colligit mecum
-          <lb ed="#P" n="12"/>dispergit.</quote> Et alibi: <quote xml:id="lca8s8-d1e52-Qd1e248" source="http://scta.info/resource/mt6_34@14-17">Sufficit dei malitia sua</quote>.
+          contra me est</quote>: et <quote xml:id="lca8s8-d1e52-Qd1e242" source="http://scta.info/resource/lc11_23@9-13">qui non colligit mecum
+          <lb ed="#P" n="12"/>dispergit.</quote> Et alibi: <quote xml:id="lca8s8-d1e52-Qd1e248" source="http://scta.info/resource/mt6_34@14-17">Sufficit diei malitia sua</quote>.
           <lb ed="#P" n="13"/>Qis tam impius est ut excitare velit homi<lb ed="#P" break="no" n="14"/>nes 
           saeuos, ambitiosos, superbos, auaros, effre<lb ed="#P" break="no" n="15"/>nes 
           et semper ociosos ad expilandum fratres
@@ -159,7 +160,7 @@
           ad omnes homines pertinet negatiuum
           <lb ed="#P" n="22"/>illud preceptum: <quote xml:id="lca8s8-d1e52-Qd1e344">quod ab alio <del rend="erasure" hand="B">oderis</del> fieri tibi non vis</quote>,
           <lb ed="#P" n="23"/>vide tu ne alteri facias? Ac rursus illud afir<lb ed="#P" break="no" n="24"/>matiuum
-          <quote xml:id="lca8s8-d1e52-Qd1e354">omnia quaecumque vultis ut faciant
+          <quote xml:id="lca8s8-d1e52-Qd1e354" source="http://scta.info/resource/mt7_12@1-12">omnia quaecumque vultis ut faciant
             <lb ed="#P" n="25"/>vobis homines et vos facite illis.</quote> Hoc quiuis
           <lb ed="#P" n="26"/>homo lumine naturali mentibus nostris impres<lb ed="#P" break="no" n="27"/>so: 
           cognoscit deprehendit intelligit. Ex quo
@@ -244,9 +245,9 @@
           <lb ed="#P" n="1"/>redditur durus, asperus, rixosus, intolerabi
           <lb ed="#P" n="2"/>lis, saeuus precipitemque se dat in facinora: quae
           <lb ed="#P" n="3"/>non nisi eferae bestiae siluas incolentes per<lb ed="#P" break="no" n="4"/>petrarent. 
-          De boc barbarorum genere loquens
-          <lb ed="#P" n="5"/><ref xml:id="lca8s8-d1e52-Rd1e542"><name xml:id="lca8s8-d1e52-Nd1e543">philosophus</name> libro 1, c. 2. <title>politicorum</title></ref>:
-          <lb ed="#P" n="6"/>inquit quod quemadmodum homo rectam rationem et
+          De hoc barbarorum genere loquens
+          <lb ed="#P" n="5"/><ref xml:id="lca8s8-d1e52-Rd1e542"><name xml:id="lca8s8-d1e52-Nd1e543">philosophus</name> libro 1, c. 2. <title>politicorum</title></ref> inquit:
+          <lb ed="#P" n="6"/>quod quemadmodum homo rectam rationem et
           <lb ed="#P" n="7"/>optima instituta sequens omnibus animali<lb ed="#P" break="no" n="8"/>bus 
           prestat: ita si a recta ratione judicij et le<lb ed="#P" break="no" n="9"/>gibus 
           deuiat omnium animalium impijssi<lb ed="#P" break="no" n="10"/>mum, 

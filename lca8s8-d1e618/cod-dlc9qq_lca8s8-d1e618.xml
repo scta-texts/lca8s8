@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 44 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 44 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-17">April 17, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="193-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e618">
+        <head xml:id="lca8s8-d1e618-Hd1e97">Caput 44</head>
+        <p xml:id="lca8s8-d1e618-d1e99">
+          <lb ed="#P" n="21"/>Caput 44m
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e104">
+          <lb ed="#P" n="22"/><pc type="pilcrow"/> Proferunt constantinum magnum bella 
+          <lb ed="#P" n="23"/>intulisse infidelibus vt suo imperio subac<lb ed="#P" break="no" n="24"/>tis
+          idolatriam tolleret: ac fides liberius in<lb ed="#P" break="no" n="25"/>duceretur. 
+          Sed ubi constat bellum illis illa<lb ed="#P" break="no" n="26"/>tum 
+          ob id solum quod pagani essent? An 
+          <lb ed="#P" n="27"/>ex eo quod legitur <add place="margin-above">in</add> hystoria ecclesiastica libro 
+          <lb ed="#P" n="28"/>10 capitulo 9 Videlicet interea Constantinus pie<lb ed="#P" break="no" n="29"/>tate 
+          fetus Sarmatas Gotos aliasque bar<lb ed="#P" break="no" n="30"/>baras 
+          nationes nisi quae vel amicitiis vel 
+          <lb ed="#P" n="31"/>deditione sui pacem prebuerant in solo pro<pb ed="#P" n="194-r"/><lb ed="#P" n="1"/>prio 
+          armis edomuit. Et quanto magis 
+          <lb ed="#P" n="2"/>se religiosius Deo subiecerat: tanto amplius
+          ei Deus uniuersa subdebat. haec ibi.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e139">
+          Ex his 
+          <lb ed="#P" n="3"/>verbis nequaquam liquet constantinum illis 
+          <lb ed="#P" n="4"/>bellum intulisse ex eo tantum quod pagani 
+          <lb ed="#P" n="5"/>essent vt (scilicet) idolorum cultum con<lb ed="#P" break="no" n="6"/>uelleret. 
+          Etenim si hac sola <add place="above-line">de</add> causa in illos 
+          <lb ed="#P" n="7"/>arma conuertisset certe prefata ecclesiastica 
+          <lb ed="#P" n="8"/>hystoria id non tacuisset. Cum de propin<lb ed="#P" break="no" n="9"/>quo 
+          cederet in gloriam Dei et ad exaltatio<lb ed="#P" break="no" n="10"/>nem 
+          catholicae fidei. Quin probabilibus ra<lb ed="#P" break="no" n="11"/>tionibus 
+          contrarium persuadere poterimus. 
+          <lb ed="#P" n="12"/>Primo. quia cum Gothi contra quos Cons<lb ed="#P" break="no" n="13"/>tantinus 
+          arma mouebat: Romanam gen<lb ed="#P" break="no" n="14"/>tem 
+          uehementissime armis exercuissent 
+          <lb ed="#P" n="15"/>et quotidianis incursionibus lacesserent: 
+          <lb ed="#P" n="16"/>probabile est Constantinum veteribus et 
+          <lb ed="#P" n="17"/>nouis iniuriis grauiter per motum in eos 
+          <lb ed="#P" n="18"/>arma conuertisse: non autem propter idolatriam 
+          <lb ed="#P" n="19"/>tollendam precise. Gothica enim gens ef<lb ed="#P" break="no" n="20"/>fera 
+          et immani crudelitate terribilis erat 
+          <lb ed="#P" n="21"/>et Romano nomini inimicissima, omnibusque 
+          <lb ed="#P" n="22"/>gentibus molesta. Quare Constantinus 
+          Iure optimo illis bellum intulit cum Romanae ditionis gentes quarum iniurias 
+          <lb ed="#P" n="23"/>Constantinus prapulsare tenebatur plu<lb ed="#P" break="no" n="24"/>ribus 
+          illatis incommodis afflixissent. Vnde 
+          <lb ed="#P" n="25"/>dicitur in hystoria Tripartita Libro 1o capitulo 
+          <lb ed="#P" n="26"/>9. cum esset gens ilia in bellis prona et 
+          <lb ed="#P" n="27"/>multitudine et magnitudine corporum 
+          <lb ed="#P" n="28"/>armis semper exercitata aliis quidem bar<lb ed="#P" break="no" n="29"/>baris 
+          preualebat: solos autem Romanos ha<pb ed="#P" n="194-v"/><lb ed="#P" n="1"/>bebat 
+          repugnantes. Et paulo ante ait 
+          <lb ed="#P" n="2"/>dicta hystoria: quod qui vocabantur Gothi 
+          <lb ed="#P" n="3"/>tunc nouissime causa gratiae celebrarunt 
+          <lb ed="#P" n="4"/>federa apud Constantinum. Ergo ex 
+          <lb ed="#P" n="5"/>his non potest colligi Constantinum propter 
+          <lb ed="#P" n="6"/>tollendam idolatriam et trahendum gen<lb ed="#P" break="no" n="7"/>tem 
+          illam ad fidem bella illis indixisse.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e216">
+          <lb ed="#P" n="8"/><pc type="pilcrow"/> 2o Gothi Sarmatae <pc type="virgula">/</pc> et Gelones: Scy<lb ed="#P" break="no" n="9"/>thae 
+          Europae gentes erant, autore Pompo<lb ed="#P" break="no" n="10"/>nia 
+          Atella libro 2o Plinio libro 4 capitulo 12o 
+          <lb ed="#P" n="11"/>Strabo libro 11o Sed tantum differebant 
+          <lb ed="#P" n="12"/>quod alii aspera montium alii regionis pla<lb ed="#P" break="no" n="13"/>na 
+          incolehant: omnes tamen erant Scythae: 
+          quemadmodum Cantabri <pc type="virgula">/</pc> Gallograeci mon<lb ed="#P" break="no" n="14"/>tes 
+          et Iuga hyspaniae incolentes hyspa<lb ed="#P" break="no" n="15"/>ni 
+          sunt sicut et Bethici. Hos autem archie<lb ed="#P" break="no" n="16"/>piscopus 
+          Florentinus 2a parte suae hystoriae 
+          <lb ed="#P" n="17"/>scribit Scythas efferam et immanem gen<lb ed="#P" break="no" n="18"/>tem 
+          populabundos irrupisse in fines Ro<lb ed="#P" break="no" n="19"/>manae 
+          ditionis tempore Constantini. Vel 
+          <lb ed="#P" n="20"/>paulo ante. Ergo Constantinus iniuriam 
+          <lb ed="#P" n="21"/>propulsabat vel similes clades: in vindic<lb ed="#P" break="no" n="22"/>tam 
+          suorum inferebat: non vero illos vo<lb ed="#P" break="no" n="23"/>lebat 
+          adducere bello ad cognitionem christi.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e261">
+          <lb ed="#P" n="24"/><pc type="pilcrow"/> 3o Gothi Romanum imperium mag<lb ed="#P" break="no" n="25"/>nopere 
+          saepissime illato bello labefacta<lb ed="#P" break="no" n="26"/>runt
+          atque adeo de ipsa urbe Roma gen<lb ed="#P" break="no" n="27"/>tium 
+          omnium victrice triumpharunt: au<lb ed="#P" break="no" n="28"/>tore
+          Orosio Libro 7 capitulo 37 38 39. Et 
+          <lb ed="#P" n="29"/>Paulus Diaconus libro 12 Romanae hysto<lb ed="#P" break="no" n="30"/>riae
+          Et Hieronimus in epistola ad Heliodorum 
+          <lb ed="#P" n="31"/>satis id lachrimatur. Augustinus quoque
+          <pb ed="#P" n="195-r"/>
+          <lb ed="#P" n="1"/>libro 5o de ciuitate Dei capitulo 23. Constan<lb ed="#P" break="no" n="2"/>tinus 
+          ergo satis causas diuersas bellum 
+          <lb ed="#P" n="3"/>inferendi Gothis habebat, et suo seculo 
+          <lb ed="#P" n="4"/>et sequentibus Romanae genti exitiabili<lb ed="#P" break="no" n="5"/>bus. 
+          Quorum prouintias et vexarunt et 
+          <lb ed="#P" n="6"/>imperio suo asseruerunt. Ergo certum
+          <lb ed="#P" n="7"/>non est Constantinum belligerare ad<lb ed="#P" break="no" n="8"/>uersus 
+          alienigenas vt traberet eos ad fi<lb ed="#P" break="no" n="9"/>dem.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e305">
+          <pc type="pilcrow"/> 4o Gothi vltra quod idolatrae erant 
+          <lb ed="#P" n="10"/>Ariana heresi infecti fuere: vt probatur 
+          <lb ed="#P" n="11"/>ex hystoria Tripartita libro 8 capitulo 13 et 
+          <lb ed="#P" n="12"/>pestilentissimo errori fauentes. Bellum 
+          <lb ed="#P" n="13"/>fortassis inferebant catholicis ob defen<lb ed="#P" break="no" n="14"/>sionem 
+          illius sectae: qua de causa Cons<lb ed="#P" break="no" n="15"/>tantinus
+          catholicam gentem defenden<lb ed="#P" break="no" n="16"/>do: 
+          Iustissime in eos vires suas conuer<lb ed="#P" break="no" n="17"/>tit. 
+          Possibiliter ergo verissimilitudine 
+          <lb ed="#P" n="18"/>atque probabilitate harum causarum sup<lb ed="#P" break="no" n="19"/>positis: 
+          isti de contrario minime se Iac<lb ed="#P" break="no" n="20"/>tabunt 
+          facere euidentiam. Quod autem 
+          <lb ed="#P" n="21"/>dicitur Constantinum in eorum prouintias 
+          penetrasse illatoque bello perdomasse: pru<lb ed="#P" break="no" n="22"/>dentis 
+          imperatoris erat. Cum enim eas 
+          <lb ed="#P" n="23"/>gentes sibi infestas et inimicas esse sci<lb ed="#P" break="no" n="24"/>ret: 
+          nihilque aliud semper querere: quam 
+          <lb ed="#P" n="25"/>occasionem qua maxime sibi et suis no<lb ed="#P" break="no" n="26"/>cere 
+          possent: prudenter armata manu in 
+          <lb ed="#P" n="27"/>eorum prouincias penetrabat: quod bel<lb ed="#P" break="no" n="28"/>lum 
+          iustum erat de iure. Hoc enim casu 
+          <lb ed="#P" n="29"/>inimicis (scilicet) arma parantibus et 
+          <lb ed="#P" n="30"/>occasionem spectantibus bellum illis in<pb ed="#P" n="195-v"/><lb ed="#P" break="no" n="1"/>ferre 
+          licet: neque enim spectare debeo vt ini<lb ed="#P" break="no" n="2"/>micus 
+          me primo vulneret quam ego me defen<lb ed="#P" break="no" n="3"/>dam: 
+          et vim illius propulsem: quod et na<lb ed="#P" break="no" n="4"/>turalis 
+          ratio dictat et ciuilia iura dispo<lb ed="#P" break="no" n="5"/>nunt.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e367">
+          <pc type="pilcrow"/> Quinto probatur quoniam gens Hiber<lb ed="#P" break="no" n="6"/>niae 
+          siluestris barbara et idolorum cultui de<lb ed="#P" break="no" n="7"/>ditissima 
+          autore Caesare libro 5o Et Straba<lb ed="#P" break="no" n="8"/>ne 
+          libro 4o suscepit fidem Christi tempore 
+          <lb ed="#P" n="9"/>Constantini magni non quidem bellico terro<lb ed="#P" break="no" n="10"/>re 
+          compulsa a constantino: sed seruae cu<lb ed="#P" break="no" n="11"/>iusdam 
+          Christianae fide et industria ac 
+          <lb ed="#P" n="12"/>denique diuino miraculo edito. Cuius gen<lb ed="#P" break="no" n="13"/>tis 
+          conuersione ecclesiasticae hystoriae libro
+          <lb ed="#P" n="14"/>10 capitulo 11o scribitur magis letatum fuisse 
+          <lb ed="#P" n="15"/>constantinum: quam si nouis regnis et im<lb ed="#P" break="no" n="16"/>periis
+          Romanum imperium magnum in<lb ed="#P" break="no" n="17"/>crementum 
+          accepisset.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e398">
+          <pc type="pilcrow"/> Rursus eius 
+          <lb ed="#P" n="18"/>hystoriae capitulo 10 narratur indiam ulterio<lb ed="#P" break="no" n="19"/>rem 
+          tempore Constantini suscepisse verbum 
+          <lb ed="#P" n="20"/>Dei persuasione duorum famulorum merca<lb ed="#P" break="no" n="21"/>toris 
+          cuiusdam seu curiosi philosophi: qui 
+          <lb ed="#P" n="22"/>auide nouas prouintias et regna videndi 
+          <lb ed="#P" n="23"/>et discendi cupiditate peragrabant.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e416">
+          <pc type="pilcrow"/> 6o quia 
+          <lb ed="#P" n="24"/>non est vero simile ac sic non probabile 
+          <lb ed="#P" n="25"/>quod sanctus Syluester induceret Constanti<lb ed="#P" break="no" n="26"/>num 
+          id facere in fidei fauorem: per quod 
+          <lb ed="#P" n="27"/>fides infidelibus redderetur maxime odio<lb ed="#P" break="no" n="28"/>sa. 
+          Sed si bello Constantinus nationes in<lb ed="#P" break="no" n="29"/>fidelium 
+          idolatrarum quae numquam fidem 
+          <lb ed="#P" n="30"/>susceperunt impeteret, ut suae ditioni sub<lb ed="#P" break="no" n="31"/>iiceret, 
+          ad idolatriam eis inuictis destruen<lb ed="#P" break="no" n="32"/>dam, 
+          et post fidei predicatio <del rend="strikethrough"><unclear>vone</unclear></del> sequeretur: 
+          <pb ed="#P" n="196-r"/>
+          <lb ed="#P" n="1"/>redderetur fides ipsa eis odiosissima vt sa<lb ed="#P" break="no" n="2"/>tis 
+          prolixe supra foecimus huius rei eui<lb ed="#P" break="no" n="3"/>dentiam.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e456">
+          Ergo non est vero simile ac sic non 
+          <lb ed="#P" n="4"/>probabile quod vel sanctus presul tale bel<lb ed="#P" break="no" n="5"/>lum
+          consuleret Constantino: Vel quod Cons<lb ed="#P" break="no" n="6"/>tantinus 
+          ipse huiusmodi assumeret bel<lb ed="#P" break="no" n="7"/>lum.
+          Non ergo sanctus Siluester pontifex, et 
+          <lb ed="#P" n="8"/>Constantinus Caesar paganis bellum infe<lb ed="#P" break="no" n="9"/>rebant
+          ut bellico terrore ab idolorum cultu 
+          <lb ed="#P" n="10"/>abstinerent. 
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e475">
+          Ex quo liquet illum ecclesi<lb ed="#P" break="no" n="11"/>asticae 
+          hystoriae locum nihil confirmare 
+          <lb ed="#P" n="12"/>causam antichristianam quam Sepul<lb ed="#P" break="no" n="13"/>ueda 
+          tuendam suscepit. Neque enim Sil<lb ed="#P" break="no" n="14"/>uester 
+          pontifex, qui in diuorum <seg type="correction">nume<del rend="strikethrough">ro</del>rum</seg> 
+          relatus est: suadere debuit Constan<lb ed="#P" break="no" n="15"/>tino 
+          rem christianae religioni dilatandae 
+          <lb ed="#P" n="16"/>non inutilem tantum: verum etiam dam<lb ed="#P" break="no" n="17"/>nosissimam. 
+          Pagani enim bellicis incom<lb ed="#P" break="no" n="18"/>modis 
+          quae omnem pestem et calamitatem 
+          <lb ed="#P" n="19"/>superant affecti, a christianis a quibus 
+          <lb ed="#P" n="20"/>non cogi sed doceri debuissent: exosam 
+          <lb ed="#P" n="21"/>habebunt religionem christianam: viden<lb ed="#P" break="no" n="22"/>tes 
+          tantum efferae immanitatis esse in christi 
+          <lb ed="#P" n="23"/>cultoribus: cedibus <pc type="virgula">/</pc> violentia <pc type="virgula">/</pc> incendiis <pc type="virgula">/</pc> ra<lb ed="#P" break="no" n="24"/>pinis 
+          in illos grassantibus: neque vnquam 
+          <lb ed="#P" n="25"/>credent euangelium (hoc est) letum nunti<lb ed="#P" break="no" n="26"/>um 
+          sibi anuntiari: sed tartaream calami<lb ed="#P" break="no" n="27"/>tatem 
+          a demonibus immitti. Potissimum 
+          <lb ed="#P" n="28"/>cum ob suam defensionem et Deorum suo<lb ed="#P" break="no" n="29"/>rum 
+          haberent bellum iustum, supposito erro<lb ed="#P" break="no" n="30"/>re 
+          probabili contra quencumque: immo ad se 
+          <lb ed="#P" n="31"/>vlciscendum pro malis receptis esset ex parte 
+          <pb ed="#P" n="196-v"/>
+          <lb ed="#P" n="1"/>sua iustissimum. Audientne pastorum 
+          <lb ed="#P" n="2"/>et patrum nomina qui eos christiana cha<lb ed="#P" break="no" n="3"/>ritate 
+          ad ouile Christi adducere velint? 
+          <lb ed="#P" n="4"/>An videbunt predones. et lationes predae 
+          <lb ed="#P" n="5"/>inhiantes non animarum saluti? Quare 
+          <lb ed="#P" n="6"/>non immerito gentes fidem abominabun<lb ed="#P" break="no" n="7"/>tur 
+          existimantes non esse quod est: veri<lb ed="#P" break="no" n="8"/>tatem 
+          scilicet, sed mendacium.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e548">
+          <pc type="pilcrow"/> Confir<lb ed="#P" break="no" n="9"/>mantur 
+          supra decisa: quoniam beatus Siluester 
+          <lb ed="#P" n="10"/>muneribus et blanditiis adducebat ido<lb ed="#P" break="no" n="11"/>latras 
+          ad fidem, vt legitur in eius hys<lb ed="#P" break="no" n="12"/>toria: 
+          et scribunt canonistae in <ref xml:id="lca8s8-d1e618-Rd1e561" target="http://scta.info/resource/gd-p2c1q2-d1e142">c. quam 
+          <lb ed="#P" n="13"/>pio, 1, q. 2</ref>, et in <ref xml:id="lca8s8-d1e618-Rd1e566" target="http://scta.info/resource/cice-l5t3-d1e240">6. cum in ecclesiis de 
+          <lb ed="#P" n="14"/>Simonia</ref>. Sic et Gregorius iudaeis ut conuer<lb ed="#P" break="no" n="15"/>terentur 
+          offerebat remissionem tributi quod 
+          <lb ed="#P" n="16"/>ex possessionibus ecclesiae sibi locatis debe<lb ed="#P" break="no" n="17"/>bant: 
+          quod patet ex eius epistola 6 libri 
+          <lb ed="#P" n="18"/>4i. Quantum haec distant a bello? Multum 
+          <lb ed="#P" n="19"/>quidem. Nam blanditiis et charitate al<lb ed="#P" break="no" n="20"/>licere 
+          paganos conuenit precepto christi <ref xml:id="lca8s8-d1e618-Rd1e584">Mat<lb ed="#P" break="no" n="21"/>thei 
+            5</ref> <quote xml:id="lca8s8-d1e618-Qd1e589" source="http://scta.info/resource/mt5_16@1-19">Sic luceat lux vestra coram homini<lb ed="#P" break="no" n="22"/>bus 
+          vt videant opera vestra bona, et glorificent 
+          <lb ed="#P" n="23"/>patrem vestrum qui in coelis est</quote> Inferre 
+          <lb ed="#P" n="24"/>autem bellum occasio est ut blasphemetur 
+          <lb ed="#P" n="25"/>adorandum Christi nomen: autore chrisos<lb ed="#P" break="no" n="26"/>tomo 
+          homilia 10 in opere imperfecto qui 
+          <lb ed="#P" n="27"/>exponens illa christi verba inquit <add place="above-line">per eos</add> qui do<lb ed="#P" break="no" n="28"/>cent 
+          et faciunt magnificatur Deus: per eos 
+          <lb ed="#P" n="29"/>autem qui docent et non faciunt blasphematur. 
+          Vt puta si bene doceant et melius viuant: 
+          videntes gentiles dicunt benedictus Deus 
+          <lb ed="#P" n="30"/>qui tales habet seruos. Vere enim eorum 
+          <pb ed="#P" n="197-r"/>
+          <lb ed="#P" n="1"/>Deus verus est Deus. Nisi enim ipse esset 
+          <lb ed="#P" n="2"/>iustus numquam populum suum circa ius<lb ed="#P" break="no" n="3"/>titiam 
+          sic teneret: Nam disciplina domi<lb ed="#P" break="no" n="4"/>ni 
+          ex moribus familiae demonstratur. Non 
+          <lb ed="#P" n="5"/>sicut nostri philosophi qui magna loquuntur 
+          <lb ed="#P" n="6"/>et nec modica faciunt. Si autem bene doceant 
+          <lb ed="#P" n="7"/>et male conuersentur. Videntes dicunt. Qua<lb ed="#P" break="no" n="8"/>lis 
+          est Deus eorum qui talia agunt? Numquid 
+          <lb ed="#P" n="9"/>sustineret eos talia facientes: nisi consen<lb ed="#P" break="no" n="10"/>tiret 
+          operibus eorum? Patres nostri sicut illi 
+          <lb ed="#P" n="11"/>aestimant idola colentes omnem iustitiam 
+          <lb ed="#P" n="12"/>seruauerunt: isti autem gloriosos loquuntur 
+          <lb ed="#P" n="13"/>sermones: et ignominiosa opera faciunt. Vi<lb ed="#P" break="no" n="14"/>des 
+          quomodo Deus per malos christianos blas<lb ed="#P" break="no" n="15"/>phematur: 
+          nec potest dominus bonam opinio<lb ed="#P" break="no" n="16"/>nem 
+          habere, qui malam familiam habet. Vn<lb ed="#P" break="no" n="17"/>de 
+          dictum est ad populum Dei: nomen 
+          <lb ed="#P" n="18"/>enim Dei per vos blasphematur inter gentes 
+          <lb ed="#P" n="19"/>Ezechielis 36 Et Esaiae 5 et ad Romanos 2o 
+          <lb ed="#P" n="20"/>Haec Chrisostomus. 
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e661">
+          Deinde in opere perfec<lb ed="#P" break="no" n="21"/>to 
+          <ref xml:id="lca8s8-d1e618-Rd1e665">homilia 15</ref> exponens eadem verba inquit: 
+          <lb ed="#P" n="22"/><quote xml:id="lca8s8-d1e618-Qd1e668">nihil est aliud quod scandalizat gentiles quam quod non 
+          <lb ed="#P" n="23"/>amor: nihil ita conuertit vt virtus animi.
+          <lb ed="#P" n="24"/>Nihil scandalizat ut malitia. Cum enim vi<lb ed="#P" break="no" n="25"/>derint 
+          auaritia vtentem: rapientem eum 
+          <lb ed="#P" n="26"/>qui contraria iubet: et his qui eiusdem 
+          <lb ed="#P" n="27"/>sunt tribus, vt foris vtentem: cum qui iu<lb ed="#P" break="no" n="28"/>bet 
+          inimicos amare: delirationem dicet 
+          <lb ed="#P" n="29"/>ea quae dicta sunt. Cum viderit diligere 
+          <lb ed="#P" n="30"/>principatum et aliis seruientem passioni<lb ed="#P" break="no" n="31"/>bus: 
+          firmus in suis manebit dogmatibus: 
+          <lb ed="#P" n="32"/>nihil magnum imaginans. Nos enim 
+          <pb ed="#P" n="197-v"/>
+          <lb ed="#P" n="1"/>sumus causa manendi eos in errore. Nam 
+          <lb ed="#P" n="2"/>dogmata quidem quae apud ipsos sunt: 
+          <lb ed="#P" n="3"/>olim contempsissent sed et nostra similiter 
+          <lb ed="#P" n="4"/>admirarentur: ex vita autem nostra prohiben<lb ed="#P" break="no" n="5"/>tur. 
+          Cum autem magis fere diuellimus 
+          <lb ed="#P" n="6"/>proximorum substantias: iacturam nos vo<lb ed="#P" break="no" n="7"/>cant
+          orbis terrarum</quote> etc Haec Chrysostomus.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e712">
+          <lb ed="#P" n="8"/>Rursus in eadem <ref xml:id="lca8s8-d1e618-Rd1e716">homilia 15a super Ma<lb ed="#P" break="no" n="9"/>ttheum</ref> 
+          ait: <quote xml:id="lca8s8-d1e618-Qd1e721">gentilium beneuolentiam Chris<lb ed="#P" break="no" n="10"/>tiani 
+          sibi conciliant: si non male facere 
+          <lb ed="#P" n="11"/>sed male pati parati sunt</quote>. Haec ille.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

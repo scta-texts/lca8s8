@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 41 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 41 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-21">April 21, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="181-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e579">
+        <head xml:id="lca8s8-d1e579-Hd1e97">Caput 41</head>
+        <p xml:id="lca8s8-d1e579-d1e99">
+          <lb ed="#P" n="28"/>Caput 41m
+        </p>
+        <p xml:id="lca8s8-d1e579-d1e104">
+          <lb ed="#P" n="29"/><pc type="pilcrow"/> Ex superioribus apparet differentia 
+          <lb ed="#P" n="30"/>hereticorum ad alios infideles potissimum 
+          <lb ed="#P" n="31"/>qui fidem nec receperunt nec audierunt. 
+          <pb ed="#P" n="182-r"/>
+          <lb ed="#P" n="1"/>Apparet preterea quod ius aut iurisdi<lb ed="#P" break="no" n="2"/>ctionem
+          et in quos infidelium <del rend="strikethrough">et</del> ecclesia in 
+          <lb ed="#P" n="3"/>habitu et actu simul habeat vel in habi<lb ed="#P" break="no" n="4"/>tu 
+          tantum. Et qualiter et quando habi<lb ed="#P" break="no" n="5"/>tualem 
+          possit deducere ad actum tam co<lb ed="#P" break="no" n="6"/>hereitiuam
+          quam voluntariam. Ignorantia 
+          <lb ed="#P" n="7"/>autem huius veritatis maxima mala india<lb ed="#P" break="no" n="8"/>no 
+          orbi peperit et turbulentis hominibus 
+          <lb ed="#P" n="9"/>ansam prestitit affligendi fratres suos 
+          <lb ed="#P" n="10"/>inusitata saeuitia cum magno dispendio 
+          <lb ed="#P" n="11"/>honoris diuini apud eos qui Deum ignora<lb ed="#P" break="no" n="12"/>bant 
+          cum fidei iactura et impedimento 
+          <lb ed="#P" n="13"/>et horrore religionis christianae. Tracta<lb ed="#P" break="no" n="14"/>runt 
+          hanc materiam (scilicet) quando 
+          <lb ed="#P" n="15"/>possit inferri bellum infidelibus Oldra<lb ed="#P" break="no" n="16"/>ldus
+          consilio 72 Albericus in rubrica de 
+          <lb ed="#P" n="17"/>paganis et sacrificiis Corsetus in tractatu de 
+          <lb ed="#P" n="18"/>potestate et excellentia regia q. 82 columna 
+          <lb ed="#P" n="19"/>5 ibi primo poenam.
+        </p>
+        <p xml:id="lca8s8-d1e579-d1e161">
+          Alii Hostiensem 
+          <lb ed="#P" n="20"/>et Innocentium conati sunt in concordiam 
+          <lb ed="#P" n="21"/>redigere. Huius clasis fuit petrus An<lb ed="#P" break="no" n="22"/>carranus 
+          in regula peccatum quaestione 3 colu<lb ed="#P" break="no" n="23"/>mna 
+          13 et 14 de regulis iuris Petrus Bertran<lb ed="#P" break="no" n="24"/>dus 
+          in tractatu de origine iuris quaestione 4) Cor<lb ed="#P" break="no" n="25"/>setus 
+          in loco supra citato et alii in c. quod 
+          <lb ed="#P" n="26"/>super his de voto). Omnes tamen coligant 
+          <lb ed="#P" n="27"/>preter Bartholum in l. Christianis 
+          <lb ed="#P" n="28"/>C. de paganis et sacrificiis et in l. hostes in 
+          <lb ed="#P" n="29"/>finem, ff de captiuis et postliminio reuersis Dat 
+          <lb ed="#P" n="30"/>intelligi veritatem huius materiae per quam<lb ed="#P" break="no" n="31"/>dam 
+          distinctionem quam facit gentium 
+          <lb ed="#P" n="32"/>quae subiiciuntur populo Romano (id est)
+          <pb ed="#P" n="182-v"/>
+          <lb ed="#P" n="1"/>christiano. Omnes tamen multum con<lb ed="#P" break="no" n="2"/>fuse 
+          locuti sunt forte quia esse in mundo infideles quales olim erant et modo 
+          <lb ed="#P" n="3"/>videmus non putarunt. Solus <name xml:id="lca8s8-d1e579-Nd1e200">dominus
+          <lb ed="#P" n="4"/>cardinalis Caietanus</name> uniuersos tam 
+          <lb ed="#P" n="5"/>theologos quam Iuristas post se reliquit lon<lb ed="#P" break="no" n="6"/>go 
+          interuallo. Quippe qui huic materiae <ref xml:id="lca8s8-d1e579-Rd1e209" target="http://scta.info/resource/TAcCaj-d1e1613-Dd1e1633"><!--  target precise; ref seems to refer to the whol section -->super 
+          <lb ed="#P" n="7"/>2a 2ae quaestione 66 articulo 8 ad 2um</ref> lucem attulit
+          <lb ed="#P" n="8"/>Nam huius doctissimi viri distinctiones 
+          <lb ed="#P" n="9"/>indorum calumniatores non intellexerunt: 
+          <lb ed="#P" n="10"/>qui preterea perfricta fronte ab eruditis<lb ed="#P" break="no" n="11"/>simi 
+          hominis doctrina dissentire non 
+          <lb ed="#P" n="12"/>verentur nulla reddita legitima ratione 
+          <lb ed="#P" n="13"/>qua diuersum sentire adducantur. Di<lb ed="#P" break="no" n="14"/>cunt 
+          enim <name xml:id="lca8s8-d1e579-Nd1e230">Caietani</name> verba docentis non esse 
+          <lb ed="#P" n="15"/>licitum inferre bellum infidelibus ob solam 
+          <lb ed="#P" n="16"/>infidelitatem intelligenda esse quando tan<lb ed="#P" break="no" n="17"/>tum 
+          sunt infideles non autem si sint idola<lb ed="#P" break="no" n="18"/>trae.
+          Hoc enim casu <name xml:id="lca8s8-d1e579-Nd1e241">Caietani</name> doctrinam superbe reiiciunt. Supponunt praeterea 
+          <lb ed="#P" n="19"/>isti falsum cum dicunt alterum ex fun<lb ed="#P" break="no" n="20"/>damentis 
+          quae <name xml:id="lca8s8-d1e579-Nd1e248">Caietanus</name> adducit esse quod in<lb ed="#P" break="no" n="21"/>colae 
+          terrae promissionis non fuerunt de<lb ed="#P" break="no" n="22"/>leti 
+          ob infidelitatem idolatriae coniunctam. 
+          <lb ed="#P" n="23"/>Addunt autem homines turgidi hoc esse falsum 
+          <lb ed="#P" n="24"/>ex Deuteronomii capitulo 9 et 12 et 18 et leuitici
+          <lb ed="#P" n="25"/>13 et 20 Equidem qui haec asserunt ne<lb ed="#P" break="no" n="26"/>quaquam 
+          intellexerunt Caietanum vel 
+          <lb ed="#P" n="27"/>illum noluerunt intelligere. <name xml:id="lca8s8-d1e579-Nd1e265">Caietanus</name> 
+          <lb ed="#P" n="28"/>enim non dicit incolas terrae promissionis 
+          <lb ed="#P" n="29"/>non fuisse deletos ob idolatriam et alia 
+          <lb ed="#P" n="30"/>peccata quod scriptura asserit in pluribus
+          <pb ed="#P" n="183-r"/>
+          <lb ed="#P" n="1"/>locis Deuteronomii et libri iosue; sed quod non 
+          <lb ed="#P" n="2"/>legit in veteri testamento infidelibus illa<lb ed="#P" break="no" n="3"/>tum 
+          bellum accipiendo infideles pro om<lb ed="#P" break="no" n="4"/>nibus 
+          qui non incolebant terram promis<lb ed="#P" break="no" n="5"/>sionis 
+          Preceptum enim inferendi bellum 
+          <lb ed="#P" n="6"/>a deo iudaeis traditum solum comprehen<lb ed="#P" break="no" n="7"/>debat 
+          eos qui habitabant terram promis<lb ed="#P" break="no" n="8"/>sionis 
+          non vero alios extra eam regionem 
+          <lb ed="#P" n="9"/>habitantes. Et tamen omnes erant idola<lb ed="#P" break="no" n="10"/>trae 
+          et filios suos demoniis sicut aliae vni<lb ed="#P" break="no" n="11"/>uersae 
+          gentes immolabant. Haec fuit mens 
+          <lb ed="#P" n="12"/>Caietani quem in sacris literis exercitatis<lb ed="#P" break="no" n="13"/>simum 
+          credendum non est ignorasse infi<lb ed="#P" break="no" n="14"/>deles 
+          incolas terrae promissionis debellatos 
+          <lb ed="#P" n="15"/>fuisse ob idolatriam et alia peccata. ver<lb ed="#P" break="no" n="16"/>ba 
+          Caietani haec sunt. Nec in Testamento 
+          <lb ed="#P" n="17"/>veteri ubi armata manu erat possessio ca<lb ed="#P" break="no" n="18"/>pienda 
+          terrae infidelium indictum lego 
+          <lb ed="#P" n="19"/>bellum alicui propter <add place="above-line">hoc</add> quod non erant 
+          <lb ed="#P" n="20"/>fideles: sed vel quia nolebant dare transitum: vel 
+          <lb ed="#P" n="21"/>quia eos offenderant ut Madianitae: vel ut 
+          <lb ed="#P" n="22"/>recuperarent sua diuina largitione conces<lb ed="#P" break="no" n="23"/>sa 
+          etc. Haec ille. Quam opinionem probat 
+          <lb ed="#P" n="24"/>etiam <ref xml:id="lca8s8-d1e579-Rd1e331">doctissimus frater Franciscus Vic<lb ed="#P" break="no" n="25"/>toriensis 
+          in Relectione de indis titulo 5</ref>. Falso ergo indorum calumniatores obiiciunt 
+          <lb ed="#P" n="26"/>Caietano quod neque somniauit neque cogi<lb ed="#P" break="no" n="27"/>tauit. 
+          Tantum dicit nulla infidelium 
+          <lb ed="#P" n="28"/>peccata <pc type="virgula">/</pc> nullam idolatriam nulla peccata 
+          <lb ed="#P" n="29"/>contra naturam effecisse ut bellum infide<lb ed="#P" break="no" n="30"/>libus 
+          inferretur extra has tres causas. Rur<lb ed="#P" break="no" n="31"/>sus 
+          aduersus fundamentum Caietani addu<pb ed="#P" n="183-v"/><lb ed="#P" break="no" n="1"/>centis 
+          in probationem suae sententiae exem<lb ed="#P" break="no" n="2"/>plum 
+          christi et apostolorum obiiciunt hoc 
+          <lb ed="#P" n="3"/>esse fundamentum hereticorum aduersus 
+          <lb ed="#P" n="4"/>quos Diuus Augustinus scripsit. Sed iam 
+          <lb ed="#P" n="5"/>hanc eorum pernitiosam opinionem ex 
+          <lb ed="#P" n="6"/>sacris literis et sanctorum doctorum traditio<lb ed="#P" break="no" n="7"/>nibus 
+          supra latissime confutauimus. Vl<lb ed="#P" break="no" n="8"/>terius 
+          alii theologi hoc nomine indigni 
+          <lb ed="#P" n="9"/>quorum nomen interim silebitur ne pu<lb ed="#P" break="no" n="10"/>blica 
+          confusione <del rend="strikethrough">ne</del> eos laedamus aduersus 
+          <lb ed="#P" n="11"/>Caietani doctrinam quae huic materiae lu<lb ed="#P" break="no" n="12"/>men 
+          prestat ridicula et absurda quaedam 
+          <lb ed="#P" n="13"/>somnia comminiscuntur. Non est preter<lb ed="#P" break="no" n="14"/>eundum 
+          quod iureconsultus quidam ra<lb ed="#P" break="no" n="15"/>bula 
+          auccupans fortassis (ut sunt res hu<lb ed="#P" break="no" n="16"/>manae) 
+          maiorem aliquam fortunam ad<lb ed="#P" break="no" n="17"/>uersus 
+          doctrinam Caietani: ut per adu<lb ed="#P" break="no" n="18"/>lationem 
+          regi gratificaretur: protulit hoc 
+          <lb ed="#P" n="19"/>argumentum: Indi noui orbis descendunt
+          <lb ed="#P" n="20"/>ab Agar ancilla Abrahae. ergo sequitur 
+          <lb ed="#P" n="21"/>eos omnibus facultatibus et regnis suis 
+          <lb ed="#P" n="22"/>spoliari debere. Primum Agar uxor fuit 
+          <lb ed="#P" n="23"/>Abrahae licet non precipua non tamen fuit 
+          <lb ed="#P" n="24"/>ancilla maledicta ut ipse inquit. Deinde 
+          <lb ed="#P" n="25"/>huius vanissimi hominis argumentum quam 
+          <lb ed="#P" n="26"/>sit stupidum crassum <pc type="virgula">/</pc> impudens: quis 
+          <lb ed="#P" n="27"/>digne declarare queat? Deum inmortalem
+          <lb ed="#P" n="28"/>quam est dolendum hyspaniam nostram fe<lb ed="#P" break="no" n="29"/>licissimam 
+          alioquin ingeniorum parentem: 
+          <lb ed="#P" n="30"/>tam crassa capita pro magnis viris sus<lb ed="#P" break="no" n="31"/>picere. 
+          Deinde  viros qui lumen et <seg type="correction">regu<lb ed="#P" break="no" n="32"/>la<del rend="strikethrough">m</del></seg> 
+          virtutis esse deberent: rem vanissimam 
+          <pb ed="#P" n="184-r"/>
+          <lb ed="#P" n="1"/>periculosissimam <pc type="virgula">/</pc> impiam et <del rend="strikethrough">tantum non</del> 
+          <lb ed="#P" n="2"/>incendio dignam in exitium animae suae 
+          <lb ed="#P" n="3"/><seg type="correction">profe<subst><del rend="strikethrough">ne</del><add place="above-line">runt</add></subst></seg> ut innumeri mortales christi san<lb ed="#P" break="no" n="4"/>guine 
+          redempti contra exemplum et do<lb ed="#P" break="no" n="5"/>ctrinam 
+          christi et apostolorum in eter<lb ed="#P" break="no" n="6"/>num 
+          pereant et crudelissime a <seg type="correction">rapaci<del rend="strikethrough">bus</del><lb ed="#P" break="no" n="7"/>ssima</seg> h
+          yspanorum gente trucidentur. Sed 
+          <lb ed="#P" n="8"/>huius vanitatem ut tam ipse quam alii qui sub pretextu horum argumentorum veritatem 
+          <lb ed="#P" n="9"/>euangelicam oppugnant et tot mortalium 
+          <lb ed="#P" n="10"/>miriades demittunt Orcho breuissime 
+          <lb ed="#P" n="11"/>ad viuum <seg type="correction">depinga<subst><add place="aboveline">m</add><del rend="strikethrough">nt</del></subst></seg>: vt tam hic quam il<lb ed="#P" break="no" n="12"/>lic 
+          resipiscant et penitentiam agant ve<lb ed="#P" break="no" n="13"/>nenisque 
+          suis quae orbi propinarunt, ag<lb ed="#P" break="no" n="14"/>noscentes 
+          veritatem, antidotum admo<lb ed="#P" break="no" n="15"/>ueant.
+        </p>
+        <p xml:id="lca8s8-d1e579-d1e496">
+          Rursus insipidus hic iure consul<lb ed="#P" break="no" n="16"/>tus 
+          profert aduersus Caietanum Bartholum 
+          <lb ed="#P" n="17"/>in L. Hostes, ff de captiuis et postliminio 
+          <lb ed="#P" n="18"/>reuersis. Et nouam quandam distinctionem 
+          <lb ed="#P" n="19"/>facit (scilicet) alios esse infideles recognos<lb ed="#P" break="no" n="20"/>centes 
+          dominium ecclesiae, alios vero qui non
+          <lb ed="#P" n="21"/>recognoscunt. Sed Bartholus si legatur 
+          <lb ed="#P" n="22"/>huius stultitiam et ignorantiam ob oculos 
+          <lb ed="#P" n="23"/>ponet.
+        </p>
+        <p xml:id="lca8s8-d1e579-d1e517">
+          Prudenter enim de hac re tracta<lb ed="#P" break="no" n="24"/>uit 
+          in dicta l. hostes et in l. Christianis. 
+          <lb ed="#P" n="25"/>C. de paganis et sacrificiis quod nos latius 
+          <lb ed="#P" n="26"/>docuimus in aliis nostris opusculis. Pergit 
+          <lb ed="#P" n="27"/>rabula potius quam iureconsultus, et vt omni<lb ed="#P" break="no" n="28"/>no 
+          extremum stuporem suum orbi pro<lb ed="#P" break="no" n="29"/>deret: 
+          intolerandum Christianis auribus 
+          <lb ed="#P" n="30"/>ass<del rend="strikethrough">ue</del>euerat posse (scilicet) hyspanos nulla
+          <lb ed="#P" n="31"/>precedente monitione ferrum stringere in
+          <pb ed="#P" n="184-v"/>
+          <lb ed="#P" n="1"/>indos eorumque bona diripere: quoniam 
+          sufficit (inquit) illis monitio apostolorum 
+          <lb ed="#P" n="2"/>in omnem enim terram exiuit sonus eo<lb ed="#P" break="no" n="3"/>rum 
+          etc. Ac preterea hyspani eos monue<lb ed="#P" break="no" n="4"/>runt 
+          ut susciperent fidem christi: cui 
+          <lb ed="#P" n="5"/>monitioni cum non paruerint: immo potius 
+          <lb ed="#P" n="6"/>arma parauerint: iure optimo nulla pre<lb ed="#P" break="no" n="7"/>cedente 
+          monitione regnis suis spoliari pos<lb ed="#P" break="no" n="8"/>sunt. 
+          Addit impudens sicophanta leges 
+          <lb ed="#P" n="9"/>paragraphos: citat innumera doctorum 
+          <lb ed="#P" n="10"/>nomina. Sed extra rem non minus 
+          <lb ed="#P" n="11"/>indocte quam stulte. Precor illi mentem 
+          <lb ed="#P" n="12"/>saniorem quamquam ipsi sibi doctissimus 
+          <lb ed="#P" n="13"/>videtur.
+        </p>
+        <p xml:id="lca8s8-d1e579-d1e570">
+          <pc type="pilcrow"/> Et per haec omnia quae a ca<lb ed="#P" break="no" n="14"/>pite 
+          24 hucusque disputata et conclusa sunt affatim credimus <subst><del>fore</del> <add place="above-line">fuisse</add></subst> satisfactum 
+          <lb ed="#P" n="15"/>tertiae causae qua Sepulueda vult satha<lb ed="#P" break="no" n="16"/>nicas 
+          illas expeditiones siue conquistas 
+          <lb ed="#P" n="17"/>(ut appellant) gestas per nostrates aduersus 
+          <lb ed="#P" n="18"/>occiduas et meridionales gentes iustifica<lb ed="#P" break="no" n="19"/>ri. 
+          Quod si predeterminatis adjungeris duo<lb ed="#P" break="no" n="20"/>decim 
+          nostras replicas relatas in conuentu 
+          <lb ed="#P" n="21"/>et quidem solemnissimo magnorum vi<lb ed="#P" break="no" n="22"/>rorum 
+          theologorum et iuristarum iussu cae<lb ed="#P" break="no" n="23"/>saris 
+          senatui indiarum adunato valliso<lb ed="#P" break="no" n="24"/>leti 
+          anno domini MDLI luce ipsa clarius 
+          <lb ed="#P" n="25"/><seg type="correction">vide<subst><add place="above-line">bis</add><del rend="strikethrough">re licebit:</del></subst></seg> quanta tenebrarum densita<lb ed="#P" break="no" n="26"/>te 
+          doctor egregius eiusque adhaerentes erro<lb ed="#P" break="no" n="27"/>ri 
+          <pc type="virgula">/</pc> et quam periculosissime teneantur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

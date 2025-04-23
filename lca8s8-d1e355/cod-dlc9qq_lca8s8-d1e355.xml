@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 24 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 24 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-17">Apr 17, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="109-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e355">
+        <head>Caput 24 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="#P" n="7"/>Caput 24m.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Tertio adducit <name>Augustinus Anchona</name>
+          <lb ed="#P"/>quod infideles judicati et damnati sunt ab<lb ed="#P" break="no"/>
+          ecclesia. Equidem si intelligit infideli<lb ed="#P" break="no"/>um
+          crimina jurisdictione contentiosa pu<lb ed="#P" break="no"/>niri
+          ab ecclesia: errat manifeste ut ex supe<lb ed="#P" break="no"/>rioribus
+          liquet. Quod si intelligit eccle<lb ed="#P" break="no"/>siam
+          judicare et damnare paganos judicio
+          <lb ed="#P"/>catholico inquantum judicat per fidei cer<lb ed="#P" break="no"/>titudinem
+          quam habet eos eterno igni ad<lb ed="#P" break="no"/>dicendos:
+          haud negamus. Nec enim extra
+          <lb ed="#P"/>ecclesiam est salus. Vt <ref>24. q. 1, c. alienus</ref>.
+          <lb ed="#P"/>Non enim judicat vel damnat eos judicio
+          <lb ed="#P"/>contentiosae jurisdictionis, ita ut eos propter cri<lb ed="#P" break="no"/>mina
+          puniat extra sex casibus, quos jam<lb ed="#P" break="no"/>
+          cepimus numerare. Fatemur quod si euigi<lb ed="#P" break="no"/>lauerint
+          potestate clauium possunt ab
+          <lb ed="#P"/>ecclesia solui a peccatis.
+        </p>
+        <p>
+          ¶ Quod Augustinus
+          <lb ed="#P"/>subijcit ecclesiam habere potestatem
+          <lb ed="#P"/>judiciariam super infideles: absolute ac
+          <lb ed="#P"/>generaliter intellectum falsum est, ut sepe
+          <lb ed="#P"/>saepius supra fuit <choice><sic>reprobatum</sic><corr>probatum</corr></choice>. Oportet
+          <lb ed="#P"/>enim distinguere an infideles christianis
+          <lb ed="#P"/>principibus subditi sint, et quae crimina
+          <lb ed="#P"/>committant: et an sint iudaei: an sarraceni
+          <pb ed="#P" n="109-v"/>
+          <lb ed="#P"/>an heretici vel schismatici an infideles,
+          <lb ed="#P"/>qui possident prouincias quae quondam
+          <lb ed="#P"/>ad christianam ecclesiam pertinuerunt.
+          <lb ed="#P"/>An noceant incursionibus populo christia<lb ed="#P" break="no"/>no.
+          Hi enim casus distinguendi sunt quod
+          <lb ed="#P"/>satis liquet ex <ref><name>Augustino</name> libro <title>de vera
+          religione</title></ref>.
+        </p>
+        <p>
+          ¶ <quote>Haec inquit ecclesia catholica
+          <lb ed="#P"/>per totum orbem valide lateque diffusa
+          <lb ed="#P"/>omnibus errantibus utitur ad profectus suos
+          <lb ed="#P"/>et ad eorum correctionem cum euigilare vo<lb ed="#P" break="no"/>luerint.
+          Vtitur enim gentibus ad mate<lb ed="#P" break="no"/>riam
+          operationis suae: hereticis ad proba<lb ed="#P" break="no"/>tionem
+          doctrinae suae: schismaticis ad
+          <lb ed="#P"/>documentum stabilitatis suae: judaeis ad
+          <lb ed="#P"/>comparationem pulchritudinis suae. A<lb ed="#P" break="no"/>lios
+          ergo inuitat: alios excludit: alios exeludit<!--c,e, antecedit-->: omnibus
+          <lb ed="#P"/>tamen gratiae eei participandae dat po<lb ed="#P" break="no"/>testatem
+          siue illi formandi sunt adhuc:
+          <lb ed="#P"/>siue reformandi siue recolligendi, siue
+          <lb ed="#P"/>admittendi et caetera</quote>. haec Augustinus.
+        </p>
+        <p>
+          ¶ Haec
+          <lb ed="#P"/>verba referendo singula: omnes casus
+          <lb ed="#P"/>superius tactos comprehendunt: Illa
+          <lb ed="#P"/>enim verba <quote>ad materiam operationis
+          <lb ed="#P"/>suae</quote>: referuntur ad gentiles: quibus ver<lb ed="#P" break="no"/>bum
+          Dei est predicandum ab ecclesia. Haec<!--c.e. Hoc-->
+          <lb ed="#P"/>enim est proprium ecclesiae munus. Rursus
+          <lb ed="#P"/>illud verbum inuitat, clarius signifi<lb ed="#P" break="no"/>cat
+          Ecclesiam non cogere: sed allicere et
+          <lb ed="#P"/>adducere sanctis exemplis et persuasiuis
+          <lb ed="#P"/>rationibus homines ad fidem. Simi<lb ed="#P" break="no"/>liter
+          illa <quote>formandi</quote> sunt: adhuc signi<lb ed="#P" break="no"/>ficant
+          non fuisse formatos neque instruc<lb ed="#P" break="no"/>tos
+          verbo dei et doctrina catholica: quod
+          <pb ed="#P" n="110-r"/>
+          <lb ed="#P"/>non pertinet ad hereticos, sed ad illos<lb ed="#P" break="no"/>
+          qui nondum fidem susceperunt.
+        </p>
+        <p>
+          De illis enim (scilicet) hereticis (inquit) <quote>ex<lb ed="#P" break="no"/>cludit</quote>
+          et <quote>reformandi</quote>. Quibus verbis sig<lb ed="#P" break="no"/>nificat
+          hereticos et etiam schismaticos
+          <lb ed="#P"/>non resipiscentes, excommunione (scilicet)
+          <lb ed="#P"/>pena spirituali eijciendos ab ecclesia. Quod
+          <lb ed="#P"/>si contumaciter in errore persistant, fla
+          <lb ed="#P"/>mis absumendi sunt. Illud <seg type="correction">verb<subst hand="B"><del rend="strikethrough">a</del><add place="above-line">um</add></subst></seg> <quote>re<lb ed="#P" break="no"/>formandi</quote>
+          significat loqui Augusti<lb ed="#P" break="no"/>num
+          de his, qui recte formati defor<lb ed="#P" break="no"/>mati
+          postea erroribus sunt: et judicium
+          <lb ed="#P"/>quo sunt reformandi.
+        </p>
+        <p>
+          Illa verba <quote>alios
+          <lb ed="#P"/><choice><sic>reliqit</sic><corr>excludit</corr></choice></quote> intelligi possunt de infidelibus,
+          <lb ed="#P"/>qui ad jurisdictionem papae non perti<lb ed="#P" break="no"/>nent,
+          nec pontifex eorum crimina punit
+          <lb ed="#P"/>ut supra docui: cum reipublicae christia<lb ed="#P" break="no"/>nae
+          minime noceant. Sed si peccata etiam
+          <lb ed="#P"/>horrenda perpetrant: nulli nisi sibi ipsis
+          <lb ed="#P"/>nocent, et ideo deum habent dumtaxat ul<lb ed="#P" break="no"/>torem.
+        </p>
+        <p>
+          Illa vero: alios antecedit: et admit<lb ed="#P" break="no"/>tendi:
+          demonstrant ecclesiae benignitatem
+          <lb ed="#P"/>paratae scilicet ad suscipiendum Judaeos
+          <lb ed="#P"/>etiam si horrendo comisso crimine chris<lb ed="#P" break="no"/>tum
+          Dominum occiderunt. Quod si tan<lb ed="#P" break="no"/>ti
+          criminis reos in gremium ecclesia re<lb ed="#P" break="no"/>cipit:
+          multo magis suscipiet paganos quo<lb ed="#P" break="no"/>rum
+          peccatum minus est.
+        </p>
+        <p>
+          Sed et illa<lb ed="#P" break="no"/>
+          verba omnibus participandae gratiae dei
+          <lb ed="#P"/>dat potestatem. Verba <choice><orig>assunt</orig><reg>adsunt</reg></choice> pagano
+          <lb ed="#P"/>scilicet si suscipiat fidem christianam:
+          <lb ed="#P"/>heretico compellendo illum ut se reconci<pb ed="#P" n="110-v"/><lb ed="#P" break="no"/>liet
+          ecclesiae: schismatico si orthodoxis se<lb ed="#P" break="no"/>se
+          conformet: judaeis si apertis oculis ve<lb ed="#P" break="no"/>ritatem
+          christi et suam ignorantiam
+          <lb ed="#P"/>intellexerunt. Et sic omnibus ecclesia pre<lb ed="#P" break="no"/>bet
+          <!--c.e. Ecclesiam-->certam spem suae salutis.
+        </p>
+        <p>
+          <add place="margin-left" hand="F">Quo pacto omnes fideles ad ecclesiae judicium exspectant</add>
+          Omnes er<lb ed="#P" break="no"/>go
+          cuiusque generis aut speciei existant
+          <lb ed="#P"/>infideles ad judicium spectant ecclesiae:
+          <lb ed="#P"/>sed multum differenter. Pertinent namquae<!--namque missing in c.e.-->
+          <lb ed="#P"/>ad ecclesiam infideles, qui numquam fidem
+          <lb ed="#P"/>audierunt quantum ad predicationem
+          <lb ed="#P"/>et conuersionem per eius ministros pro<lb ed="#P" break="no"/>curatam:
+          et quoniam possunt si volunt eius membra effici.
+        </p>
+        <p>
+          Hoc est quod <ref>sanctus Thomas
+          <lb ed="#P"/>3 pars, q. 8. arº. 3. ad 1m</ref>. scribit, quod <quote>etiam
+          <lb ed="#P"/>si infideles actu non sunt de ecclesia: sunt
+          <lb ed="#P"/>tamen de ecclesiastica potentia. Quae qui<lb ed="#P" break="no"/>dem
+          in duobus fundatur: primo quidem
+          <lb ed="#P"/>et principaliter in virtute christi quae est
+          <lb ed="#P"/>sufficiens ad salutem totius humani ge<lb ed="#P" break="no"/>neris.
+          Secundario in arbitrij libertate:
+          <lb ed="#P"/>qua homo quilibet adiuuante diuina
+          <lb ed="#P"/>gratia potest audita christi doctrina
+          <lb ed="#P"/>eius membrum fieri</quote>.
+        </p>
+        <p>
+          Et sic patet non
+          <lb ed="#P"/>omnes infideles esse de ecclesiae judicia<lb ed="#P" break="no"/>ria
+          potestate; ut <name>Augustinus de Ancho<lb ed="#P" break="no"/>na</name>
+          est opinatus.
+        </p>
+        <p>
+          Concedimus tamen
+          <lb ed="#P"/>uniuersos infideles occasionaliter fore
+          <lb ed="#P"/>de ecclesia fructuosa utilitate, rationibus
+          <lb ed="#P"/>supra ex verbis <ref><name>Augustini</name> <title>de vera<lb ed="#P" break="no"/>
+          religione</title></ref> alatis: ut etiam dicit <ref>Ancho<lb ed="#P" break="no"/>na
+          in argumento quarto</ref>. Sed reuera
+          <pb ed="#P" n="111-r"/>
+          <lb ed="#P"/>doctrina eius satis confusa est in hac par<lb ed="#P" break="no"/>te
+          sicut doctrina Innocentij a quo accepit
+          <lb ed="#P"/>quasi formaliter, et propterea eius ar<lb ed="#P" break="no"/>gumenta
+          non sunt multum curanda.
+          <lb ed="#P"/>Et sic <choice><sic>satisfacto</sic><corr>satisfactis</corr></choice> prout credimus argumen<lb ed="#P" break="no"/>tis
+          <name>Augustini Anchonae</name> simul et Innocen<lb ed="#P" break="no"/>tij
+          transeundum est ad caeteros casus
+          <lb ed="#P"/>in quibus ecclesia jurisdictionem quam
+          <lb ed="#P"/>habitu habet contentiosam: deducat
+          <lb ed="#P"/>ad actum aduersus infideles.
+        </p>
+        <p>
+          <add place="margin-left" hand="E">Casus. 3º.</add>
+          ¶ Est
+          <lb ed="#P"/>igitur tertius casus huiusmodi si blasphemj
+          <lb ed="#P"/>sunt in Christum vel in diuos vel in chris<lb ed="#P" break="no"/>tianam
+          religionem malitiose scienterque con<lb ed="#P" break="no"/>tumeliose:
+          loquentes ex odio et contemp<lb ed="#P" break="no"/>tu
+          christianae veritatis. Haec enim ecclesia
+          <lb ed="#P"/>neque dissimulare neque ferre debet ut <ref>su<lb ed="#P" break="no"/>pra
+          docuimus capº. 15, 16</ref>: immo ve<lb ed="#P" break="no"/>ro
+          in eos arma mouere debet.
+        </p>
+        <p>
+          Si tamen
+          <lb ed="#P"/>pagani blasphema loquerentur de chris<lb ed="#P" break="no"/>tiana
+          religione non ex contemptu et odio
+          <lb ed="#P"/>religionis: sed iratim christianos a qui<lb ed="#P" break="no"/>bus
+          male multati<!--c.e. mulctati--> injurijs affecti fuis<lb ed="#P" break="no"/>sent
+          absque legitima causa ut contigit a<lb ed="#P" break="no"/>pud
+          indos in prouincia Xalisci, ubi
+          <lb ed="#P"/>in irrisionem sacerdotum et christiano<lb ed="#P" break="no"/>rum
+          Indi placentulam <del rend="strikethrough">J</del> massae in al<lb ed="#P" break="no"/>tum
+          utraque manu erigebant imittantes
+          <lb ed="#P"/>consuetudinem christianorum sacerdotum
+          <lb ed="#P"/>qui sacra facientes corpus domini nostri
+          <lb ed="#P"/>Jesu christi populo ostentant. Hi tales
+          <lb ed="#P"/>non sunt blasphemi: ignorant  enim
+          <pb ed="#P" n="111-v"/>
+          <lb ed="#P"/>quod agunt neque sciunt illud quod chris<lb ed="#P" break="no"/>tiani
+          sacerdotes <seg type="correction">osten<subst hand="B"><del rend="strikethrough">tant</del><add place="above-line">dunt</add></subst></seg> esse adorandum
+          <lb ed="#P"/>christi corpus.
+        </p>
+        <p>
+          Nec illa ex contemptu
+          <lb ed="#P"/>faciunt, sed vindicandi cupiditate: cum
+          <lb ed="#P"/>irrisione actus illorum quos saeuissimos
+          <lb ed="#P"/>hostes experti fuerant imitantur. E<lb ed="#P" break="no"/>xistimant
+          enim religionem conuenire
+          <lb ed="#P"/>cum vita impijssimorum hominum:
+          <lb ed="#P"/>a quibus vix est credibile quantum
+          <lb ed="#P"/>miserandae calamitatis acceperint: quan<lb ed="#P" break="no"/>tum
+          seuae<!--c.e. reads `saeuae`--> tyranidis pertulerint.
+        </p>
+        <p>
+          Qui<lb ed="#P" break="no"/>nimo
+          etiam si verbum dei illis anuntia<lb ed="#P" break="no"/>tum
+          et predicatum fuisset non essent
+          <lb ed="#P"/>dicendi blasphemi, si impie loqueren<lb ed="#P" break="no"/>tur
+          de christiana religione: cum duo vel
+          <lb ed="#P"/>tres homines pij verbum dei illis pre<lb ed="#P" break="no"/>dicarent:
+          mille autem eiusdem proffessio<lb ed="#P" break="no"/>nis,
+          cum quibus praedicatores familia<lb ed="#P" break="no"/>riter
+          agerent: impia vita immanitate
+          <lb ed="#P"/>saeuitia / superbia / christianam religio<lb ed="#P" break="no"/>nem
+          infamarent. Hi optimo jure appel<lb ed="#P" break="no"/>landi
+          sunt blasphemi juxta illud <ref><name>Pau<lb ed="#P" break="no"/>li</name>
+          ad Roma. 2</ref>. <quote>per vos blasphematur
+          <lb ed="#P"/>nomen domini inter gentes</quote>. Rursus
+          <lb ed="#P"/><ref>Petri. 2e. c. 2</ref>: <quote>per vos via veritatis blas<lb ed="#P" break="no"/>phematur</quote>.
+        </p>
+        <p>
+          Obijciunt aduersarij idolo<lb ed="#P" break="no"/>rum
+          cultum esse blasphemiam in de<lb ed="#P" break="no"/>um
+          juxta notata per <ref><name>D. Thom</name>. 2a 2ae.
+          <lb ed="#P"/>q. 94. arº. 3</ref>: Et quod ideo idolatrae bello
+          <lb ed="#P"/>impeti possunt juxta scripta per. <ref><name>D. Tho<pb ed="#P" n="112-r"/><lb ed="#P" break="no"/>mam</name>
+          2a 2ae. q. 10. arº. 8</ref>. Sed <name>reuera
+          <lb ed="#P"/>sanctus</name> Thomas non vult significare absolu<lb ed="#P" break="no"/>te
+          blasphemiam esse <choice><sic>juxta</sic><corr>justam</corr></choice> causam belli
+          <lb ed="#P"/>contra idolatras. Iam enim probatum
+          <lb ed="#P"/>est supra, quod si blasphemia idolatria sit:
+          <lb ed="#P"/>non tamen pertinet ad ecclesiam idola<lb ed="#P" break="no"/>tras
+          punire. Tantum loquitur <name>S. Tho<lb ed="#P" break="no"/>mas</name>
+          de his, qui scienter ac malitiose
+          <lb ed="#P"/>destinato consilio blasphemi sunt in
+          <lb ed="#P"/>christum, et impediunt predicationem
+          <lb ed="#P"/>euangelij: et ne quis fidem suscipiat. <ref>Ver<lb ed="#P" break="no"/>ba
+          S. Thomae in dicto arº. 8</ref>. subijciam
+          <lb ed="#P"/><quote>Sunt (inquit) compellendi a fidelibus,
+          <lb ed="#P"/>si adsit facultas ut fidem non impedi<lb ed="#P" break="no"/>ant
+          vel blasphemijs vel malis persuasio<lb ed="#P" break="no"/>nibus
+          vel etiam apertis persecutionibus</quote>.
+          <lb ed="#P"/>Haec ille.
+        </p>
+        <p>
+          Haec autem blasphemia qualis sit
+          <lb ed="#P"/>exponit ibi <ref>Cajetanus in commentarijs
+          <lb ed="#P"/>suis</ref>. <quote>Considera inquit diligenter cau<lb ed="#P" break="no"/>sam
+          justam belli contra infideles et
+          <lb ed="#P"/>compulsiones eorum ne <expan><abbr>.∫.</abbr><ex>scilicet</ex></expan> fidem im<lb ed="#P" break="no"/>pediant
+          aliquo trium modorum <expan><abbr>.∫.</abbr><ex>scilicet</ex></expan> vel<lb ed="#P" break="no"/>
+          blasphemijs dicendo mala de christo
+          <lb ed="#P"/>Jesu: aut sanctis eius aut ecclesiae eius.
+          <lb ed="#P"/>Vel persuasionibus inducendo nostros
+          <lb ed="#P"/>ad infidelitatem vel persecutionibus</quote>.
+          <lb ed="#P"/>Haec ille.
+        </p>
+        <p>
+          Vnde satis apparet de qua
+          <lb ed="#P"/>blasphemia <name>s. doctor</name> ibi loquatur quae
+          <lb ed="#P"/>bello vindicari mereatur non esse ido<lb ed="#P" break="no"/>latriamr:
+          sed verba contumeliosa in chris<pb ed="#P" n="112-v"/><lb ed="#P" break="no"/>tum
+          dominum nostrum malitiose pro<lb ed="#P" break="no"/>lata:
+          tali intentione ut fides non sus<lb ed="#P" break="no"/>cipiatur
+          catholica. Verum pro blasphe<lb ed="#P" break="no"/>mia,
+          quae contra Deum ex sacrilegis
+          <lb ed="#P"/>ritibus et caeremonijs pro obseruantia le<lb ed="#P" break="no"/>gis
+          siue sectae cuiuscumque infidelium re<lb ed="#P" break="no"/>sultat
+          etiam si sint idolatrae (quod re<lb ed="#P" break="no"/>uera
+          blasphemia est) ut bene dicit <ref><name>S. Tho.</name>
+            <lb ed="#P"/>ubi supra q. 94, arº. 3</ref>. non possunt
+            <lb ed="#P"/>debellari.
+        </p>
+        <p>
+          Hoc apertissime probatur.
+          <lb ed="#P"/>Judaei obseruando et exercendo caeremo<lb ed="#P" break="no"/>nias
+          hodie legis moysi absque dubio blas<lb ed="#P" break="no"/>phemiam
+          comittunt in deum: similiter
+          <lb ed="#P"/>Sarraceni apud morantes<!--c.e. corrects to `obseruantes`--> legem spurcis<lb ed="#P" break="no"/>simi
+          Machometi et utrique odio habent
+          <lb ed="#P"/>legem christi et totam catholicam re<lb ed="#P" break="no"/>ligionem
+          tamquam execrabilem et malam
+          <lb ed="#P"/>et hoc constat ecclesiae catholicae: et tamen
+          <lb ed="#P"/>ecclesia non mouet illis bellum nec pu<lb ed="#P" break="no"/>nit
+          eos etiam subditos, ergo non omnis
+          <lb ed="#P"/>blasphemia infidelium in deum pu<lb ed="#P" break="no"/>nit
+          Ecclesia.
+      </p>
+        <p>
+          At certe aliud esset si Ju<lb ed="#P" break="no"/>daei
+          vel Sarraceni in contumeliam nostrae
+          <lb ed="#P"/>religionis hominem crucifigerent vel
+          <lb ed="#P"/>simile aliquod facinus perpetrarent:
+          <lb ed="#P"/>esset blasphemia quae propagationem fi<lb ed="#P" break="no"/>dei
+          impediret et his similes bello per<lb ed="#P" break="no"/>sequendae
+          sunt. Quod eruditissime do<lb ed="#P" break="no"/>cet
+          doctissimus theologus <ref><name>Franciscus
+          <lb ed="#P"/>Victoriensis</name> in suis lucubrationibus
+          <lb ed="#P"/>2a 2ae.
+          <pb ed="#P" n="113-r"/>
+          <lb ed="#P"/>q. 10. arº. 8</ref>. Ex quibus satis conuin<lb ed="#P" break="no"/>citur
+          error aduersariorum.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

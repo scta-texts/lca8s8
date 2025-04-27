@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 27 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 27 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-27">Apr 27, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="123-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e394">
+        <head>Caput 27 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="#P" n="1"/>Caput 27m.
+        </p>
+        <p>
+His congruit quod supra probauimus: neminem cogi posse prestare bonum quod numquam promisit. Cui simile est quod etiam jure humano inuito non confertur beneficium (L. /nuito, ff De Regulis Juris385, ev L. Hoc Jure 586, S Non potest, ff De Donationibus, et L. Si Quis In Concedendo, Cod. De Pactis 587).
+        </p>
+        <p>
+Ad principes infideles, qui malitiose impedissent propagationem Euangelij reuertendo, posse contra eos Ecclesiam mouere bellum, probatur hac ratione manifeste. Quoniam cum Christus dominus et Rex sit omnis creaturae in quacumque orbis parte habitantis, impedire ne illum omnis boni fontem homines agnoscant et colant per susceptionem fidei catholicae, injuria ei fit ab Ecclesia minime ferenda.
+        </p>
+        <p>
+Neque enim hoc peccatum simile est ei quod inter se committunt et Deum, immo directe tollit honorem Deo debitum et illi directe facit injuriam et est blasphemia vera et formalis in christianam religionem malitiose commissa. Quare in omnium fertur injuriam quod in maiestatem diuinam committitur, vt supra docuimus.
+        </p>
+        <p>
+Vnde patet, rationibus supra inductis, contra infideles tantum qui malitiose fidei propagationem impedirent vel in illis [123v.] qui jam recepissent, conando vt eam relinquerent vel obstacula ponendo probabiliter credituris, Ecclesiam juste posse bellum mouere. De his loquitur Albertus Pius Comes Carpensis qui, scribens aduersus Erasmum, asserit et vult probare licitum esse bellum in Turcas vel vt recipiamus regna christianae ditioni adempta vel quia impediunt vel impedirent propagationem fidei.
+        </p>
+        <p>
+Vnde ita inquit Pius: Quicumque igitur Christo domino aduersantur eiusque gloriae obsistunt, propagationem Euangelij impedientes, sane ab omni potestate sunt deijciendi, cum illa abutantur aduersus Supremi Principis dignitatem et amplitudinem. Illis enim res moderantibus nec licet populis eorum tyranidi subiectis Euangelicam legem recipere nec permittitur illam predicari. Quam ob rem, ad illam promulgandam Christique gloriam amplificandam, licet et expedit, pro loco et tempore, illos inuadere et Christi suaui iugo subijcere, ipsis etiam nos minime lacessentibus nec terras nostras obtinentibus, quae vmquam a nobis possessae fuerint. Juris enim Christi sunt, quod vindicare fas est Christi seruos, modo igitur boc proposito, videlicet, propagandi Euangelij et gloriae Christi amplificandae, bellum assumatur, [124t.] pium ac justum erit. Haec comes Carpensis588,
+        </p>
+        <p>
+Qui legerit illa verba: ipsis etiam nos minime lacessentibus et illa: juris enim Christi sunt, existimabunt fortassis Pium docere licitum esse bellum aduersus infideles etiam pacificos, etiam si nulla alia adsit causa quam propagatio Euangelij et amplificandae gloriae Christi; sed reuera non est ita. Albertus enim loquitur quando malitiose obsistunt Euangelij predicationi et propagationi, vt patet ibi: quicumque igitur Christo domino aduersantur eiusque gloriae obsistunt, propagationem Euangelij impedientes 59.
+        </p>
+        <p>
+Item loquitur de turcis et Mauris, qui nostra dogmata non ignorant et religionis nostrae propagationi efficacissime obstant. Ita etiam probatur ex illis eius verbis vbi agens quod licitum est bellum, etiam si nulla alia adsit causa quam amplificatio gloriae Christi, pro loco et tempore, licet et expedit, scilicet, inuadere tales infideles aduersantes fidei dilatationi et Christi suaui iugo subigere. Vnde quidquid tractat ibi, hoc est, supponens malitiosam resistentiam et impedimenta infidelium ne fides propagetur et non quidem infidelium absolute sed dumtaxat Sarracenorum Turcarumque de quibus constat odium quod aduersus nomen Christi [124v.] gerunt veteratissimum.
+        </p>
+        <p>
+Non ergo semper licet bellum moueri etiam propter fidei dumtaxat dilatationem cum dicat pro loco et cempore licet et expedit, sed cum malitiose impediunt Euangelij propagationem et cum absque scandalo et odio nostrae religionis et blasphemijs in Christum suaui eius iugo subigi possent, vt supra probauimus. Alias nescio quomodo redundet in gloriam Christi et religionis augmentum neque quomodo talium infidelium animae, si ferro res agatur, salutem consequerentur. Mihi potius videtur talibus medijs inutilem eis reddi sanguinem Christi. Ideo non solum non expedit verum neque licet.
+        </p>
+        <p>
+Quintus casus??! in quo Ecclesia potest in actum deducere jurisdictionem, quam super infideles habet tantum habitu, est cum infideles bellico apparatu in prouincias nostras irrumpunt vel litora nostra infestant vel in communi, vt Turcae quotidie terribilibus exercitibus christianitatem molestant, impugnant et affligunt, vel in particulari, quemadmodum frequentius a Sarracenis patimur.
+        </p>
+        <p>
+Et ratio quae pro Ecclesia facit est clara. Lege enim naturae arma omnium populorum de mundo aduersus publicos hostes excitantur. Sic et nos vt talium insolentiam contundamus, captiuos [125r.] recipiamus et, illatis paribus cladibus, timere homines nostros et abstinere ab injurijs doceamus ita vt nobis illatas clades resartiant.
+        </p>
+        <p>
+Et huiusmodi actus naturalis defensio appellatur et continentur sub illa juris naturalis maxima Licet vim vi repelle re, L. Vt vim ££9*: De Justitia Et Jure, et in c. Olim, titulo De Restitutione Spoliatorum 91, et in c. Dilecto: De Sententia Excommunicationis 5%, Libro 6”, et in alijs locis vtriusque juris.
+        </p>
+        <p>
+Hos tres vltimos casus: 34M, 4um, et 5um, comprehendit sanctus Thomas (22 2*5, q. 10, a. 8?) his verbis: Sunt compellendi a fidelibus, scilicet, infideles, si adsitfacultas vtfidem non impediant vel blasphemijs vel malis persuasionibus vel apertis persecutionibus. Et propter boc fideles Christi frequenter contra infideles bellum mouent vt eos compellant ne fidem impedia *n9t*. Haec ille.
+        </p>
+        <p>
+Has causas appositas292 interpretantur Caietanus*9? et Carpensis*95 in loco supra citato, quamquam Erasmus numquam somniauit illud quod Carpensis illi obijcit, immo apertissime catholicam sententiam docet, enarrans Psalmum: Afferte domino, filij Dei 95, et in alijs pluribus locis. Sed Carpensis gloriam ex Erasmi forte sugillatione aucupabatur, cui Sepulueda noster nequaquam incudendo eo libello strenuam nauauit2?5 operam, [125v.] vt fama refert.
+        </p>
+        <p>
+Ratio doctrinae sancti Thomae est quoniam in illis tribus casibus, pagani ratione delicti efficiuntur nostri fori et illos punire possumus, etiam si alias nobis subditi non sint (ut in c. finali, De Foro Competenti 9". et in c. 1%, De Raptoribus 98, et c. Vbi De Criminibus Agi Oporte99t, in Authent. Qua In Prouincia et in alijs quamplurimis juribus); vbi habetur quod ratione delicti efficitur quis de jurisdictione alterius, qui judex illius alias non erat.
+        </p>
+        <p>
+Quia non inuenitur aliud remedium et propterea ratio ipsa naturalis supplet et dictat quando, videlicet, non est superior ad quem habebatur recursus et caetera. Et de huiusmodi infidelibus qui nos offendunt, ait Baldusó00 (in prooemio Decretalium Gregorij, 3a columna) quod per temporales judices bene possunt puniri omnes infideles juxta territorium iusdicentis nec distinguntur vnde sint (ut L. 3, ff De Officio Presidis) vbi dicitur quod preses prouinciae habet interdum imperium et aduersus extraneos si quod malum commisserint et caetera.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

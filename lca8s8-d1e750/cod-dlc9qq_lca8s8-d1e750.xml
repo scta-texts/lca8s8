@@ -120,9 +120,9 @@
           <lb ed="#P" n="2"/>si modo jurisdictionem exerceant ab
           <lb ed="#P" n="3"/>damno fidelium. Etiam si ipse princeps 
           <lb ed="#P" n="4"/>ad fidem conuerti nolit. Veritas enim ipsa
-          <lb ed="#P" n="5"/><ref xml:id="lca8s8-d1e750-Rd1e255">Matthei 22</ref> docuit Iudaeos debere solue<lb ed="#P" break="no" n="6"/>re 
+          <lb ed="#P" n="5"/><ref xml:id="lca8s8-d1e750-Rd1e255" corresp="#lca8s8-d1e750-Qd1e255">Matthei 22</ref> docuit Iudaeos debere solue<lb ed="#P" break="no" n="6"/>re 
           tributa Tiberio Caesari principi paga<lb ed="#P" break="no" n="7"/>no
-          Reddite inquit <qoute source="http://scta.info/resource/mt22_21@9-12">quae sunt Caesaris Cae<lb ed="#P" break="no" n="8"/>sari</quote>: 
+          Reddite inquit <quote xml:id="lca8s8-d1e750-Qd1e255" source="http://scta.info/resource/mt22_21@9-12">quae sunt Caesaris Cae<lb ed="#P" break="no" n="8"/>sari</quote>: 
           cui responsioni Paulus apostolus con<lb ed="#P" break="no" n="9"/>gruens 
           docet principatibus et potestatibus 
           <lb ed="#P" n="10"/>credentes debere esse subiectos etc Hoc 

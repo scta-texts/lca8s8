@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 38 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 38 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-30">April 30, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="167-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e539">
+        <head xml:id="lca8s8-d1e539-Hd1e97">Caput 38</head>
+        <p xml:id="lca8s8-d1e539-d1e99">
+          <lb ed="#P" n="13"/>Caput 38m
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e104">
+          <lb ed="#P" n="14"/><pc type="pilcrow"/> Pro resolutione huius rationis 4e ad 
+          <lb ed="#P" n="15"/>epilogum reducendo vniuersa quae in supe<lb ed="#P" break="no" n="16"/>rioribus 
+          presertim a capitulo 30 <seg type="correction">h<subst><del rend="strikethrough">o</del><add place="above-line">u</add></subst>c</seg> usque ra<lb ed="#P" break="no" n="17"/>tionibus 
+          et autoritatibus haud auare de<lb ed="#P" break="no" n="18"/>terminata 
+          sunt ad probandum quod nisi bel<lb ed="#P" break="no" n="19"/>lo 
+          impediri queant mala quae innocen<lb ed="#P" break="no" n="20"/>tes 
+          pati reperiri contingat cessandum sit 
+          <lb ed="#P" n="21"/>ab illo inferendo, et potius dissimulan<lb ed="#P" break="no" n="22"/>dum 
+          cum talia perperam committentibus: 
+          <lb ed="#P" n="23"/>dicimus sic. Cum sit notum euidentia 
+          <lb ed="#P" n="24"/>vel etiam probabilita<add place="above-line">te</add> eiusmodi infideli<lb ed="#P" break="no" n="25"/>bus: 
+          saltem quod immolare humanas victi<lb ed="#P" break="no" n="26"/>mas 
+          rationabile non sit de facili fieri ne<lb ed="#P" break="no" n="27"/>queat: 
+          ipsique conceptum habeant Deo se et
+          <lb ed="#P" n="28"/>sua cuncta deberi: et idola quae colunt cre<lb ed="#P" break="no" n="29"/>dant 
+          verum Deum esse: cuius rei non desint 
+          <lb ed="#P" n="30"/>eis maximae autoritatis et omni exceptione 
+          <lb ed="#P" n="31"/>maiores quam plurimos testes utpote reges <pc type="virgula">/</pc> prin<pb ed="#P" n="167-r"/><lb ed="#P" break="no" n="1"/>cipes 
+          <pc type="virgula">/</pc> sumos sacerdotes <pc type="virgula">/</pc> et theologos <pc type="virgula">/</pc> prophetas 
+          <lb ed="#P" n="2"/>seu diuinos qui apud eos in suma habentur 
+          <lb ed="#P" n="3"/>reuerentia quod putent illos passim colloquia 
+          <lb ed="#P" n="4"/>habere cum Diis a quibus archana et futu<lb ed="#P" break="no" n="5"/>ra 
+          contingentia prenuncianda suscipiunt. 
+          Ad haec habent consuetudinem approbatam 
+          <lb ed="#P" n="6"/>et legem positiuam, et preceptum erroremque 
+          <lb ed="#P" n="7"/>communem ac sic probabilitate ad homines 
+          <lb ed="#P" n="8"/>immolandos fulciri.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e190">
+          Rursus, propter eorun<lb ed="#P" break="no" n="9"/>dem 
+          mores corruptos possunt carnibus hu<lb ed="#P" break="no" n="10"/>manis 
+          uesci dum tamen neminem ad hunc 
+          <lb ed="#P" n="11"/>finem occidant: quod licet vicium sit bes<lb ed="#P" break="no" n="12"/>tialitatis 
+          extra necessitatis angustiam: sed 
+          <lb ed="#P" n="13"/>per exteram gentem nequaquam punibile <del>aut</del> 
+          <lb ed="#P" n="14"/><add place="margin-left">nec</add> propter hoc bellum posse in eos moueri. Pre<lb ed="#P" break="no" n="15"/>sertim 
+          quod possunt aliquem colorem ad sui 
+          <lb ed="#P" n="16"/>excusationem pretendere, quare illis ues<lb ed="#P" break="no" n="17"/>cantur 
+          vt diximus: nec qui liberare inno<lb ed="#P" break="no" n="18"/>centes 
+          satagunt: facile valebunt illos de 
+          <lb ed="#P" n="19"/>contrario conuincere. Cumque etiam opino<lb ed="#P" break="no" n="20"/>nem 
+          illam sacrilegam habere se gaudeant 
+          <lb ed="#P" n="21"/>quod in idolis verum Deum colant vel quod illa 
+          <lb ed="#P" n="22"/>sint Deus: et supposita conscientia erronea 
+          <lb ed="#P" n="23"/>interea quod verus Deus melioribus et probabi<lb ed="#P" break="no" n="24"/>lioribus
+          nec non efficacioribus rationibus 
+          <lb ed="#P" n="25"/>presertim cum exemplis christianis eis 
+          <lb ed="#P" n="26"/>proponitur: tenentur proculdubio pro defen<lb ed="#P" break="no" n="27"/>sione 
+          culturae Deorum suorum et suae religio<lb ed="#P" break="no" n="28"/>nis 
+          armatis copiis contra quoscumque atten<lb ed="#P" break="no" n="29"/>tantes 
+          illa sibi tollere aut iniuriam eis ir<lb ed="#P" break="no" n="30"/>rogare 
+          vel impedire sacrificia sua exire ob<lb ed="#P" break="no" n="31"/>uiam 
+          pugnare <pc type="virgula">/</pc> occidere <pc type="virgula">/</pc> capere <pc type="virgula">/</pc> et omnia 
+          <pb ed="#P" n="168-v"/>
+          <lb ed="#P" n="1"/>iura quae bellum iustum iure gentium con<lb ed="#P" break="no" n="2"/>sequuntur 
+          operari. Preterea certum est 
+          <lb ed="#P" n="3"/>apud eos qui his detestandis contamina<lb ed="#P" break="no" n="4"/>ti 
+          fuerint esse reges et magnos dominos 
+          <lb ed="#P" n="5"/>quos necessum est sequantur quamplurimi 
+          <lb ed="#P" n="6"/>tum subditi populi: tum sanguine et af<lb ed="#P" break="no" n="7"/>finitate
+          coniuncti <pc type="virgula">/</pc> tum amici confede<lb ed="#P" break="no" n="8"/>rati  
+          <pc type="virgula">/</pc> tum auxiliatores alioquin conuincini: 
+          <lb ed="#P" n="9"/>cultus etiam Deorum suorum et religionis ze<lb ed="#P" break="no" n="10"/>losissimi. 
+          Causa enim communis est omnibus 
+          <lb ed="#P" n="11"/>qui simul omnes cum apparentia iustae cau<lb ed="#P" break="no" n="12"/>sae 
+          quam sibi fauere putant acuent ani<lb ed="#P" break="no" n="13"/>mos 
+          ad viriliter dimicandum et mortem 
+          <lb ed="#P" n="14"/>potius subeundum: quam non ulcisci suas De<lb ed="#P" break="no" n="15"/>orumque
+          suorum iniurias et a propria patria 
+          <lb ed="#P" n="16"/>propellere eiusmodi aggressores. 
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e299">
+          Mani<lb ed="#P" break="no" n="17"/>festum 
+          quoque est quae ac quot mala exin<lb ed="#P" break="no" n="18"/>de 
+          subsequentur. Quot cedes / quot incen<lb ed="#P" break="no" n="19"/>dia 
+          <pc type="virgula">/</pc> quot strages <pc type="virgula">/</pc> quot homicidia <pc type="virgula">/</pc> tru<lb ed="#P" break="no" n="20"/>cidationes 
+          infantium <pc type="virgula">/</pc> puerorum <pc type="virgula">/</pc> foemina<lb ed="#P" break="no" n="21"/>rum
+          <pc type="virgula">/</pc> senum <pc type="virgula">/</pc> decrepitorum debilium et in<lb ed="#P" break="no" n="22"/>firmorum 
+          et aliorum Innocentium. Quot
+          <lb ed="#P" n="23"/>praeterea vastationes prouinciarum euersio<lb ed="#P" break="no" n="24"/>nes 
+          ciuitatum vicorum et populorum. Quot 
+          <lb ed="#P" n="25"/>spoliationes, et deiectiones a suis dignita<lb ed="#P" break="no" n="26"/>tibus 
+          et dominiis et honoribus regum et do<lb ed="#P" break="no" n="27"/>minorum: 
+          amissiones libertatum et posses<lb ed="#P" break="no" n="28"/>sionum. 
+          Quot feda et inhonesta licentia
+          <lb ed="#P" n="29"/>militari committentur. Quot stupra <pc type="virgula">/</pc> raptus
+          <lb ed="#P" n="30"/>incestus <pc type="virgula">/</pc> adulteria. 
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e361">
+          Quo nimirum odio ta<lb ed="#P" break="no" n="31"/>lia 
+          sustinentes prosequentur christianam 
+          <pb ed="#P" n="169-r"/>
+          <lb ed="#P" n="1"/>gentem, et ipsum christianorum verum ado<lb ed="#P" break="no" n="2"/>randum 
+          Deum? Quot denique millia milli<lb ed="#P" break="no" n="3"/>um 
+          interim descendent animarum in lacum 
+          <lb ed="#P" n="4"/>profundum et peribunt in eternum. Et 
+          <lb ed="#P" n="5"/>haec quidem omnia ut liberemus nonnullos 
+          <lb ed="#P" n="6"/>paucos Innocentes. An placeb<subst><del rend="strikethrough">te</del><add place="above-line">unt</add></subst> oculis di<lb ed="#P" break="no" n="7"/>uinae 
+          pietatis: haec nostra sacrificia? Re<lb ed="#P" break="no" n="8"/>uera 
+          usque adeo placeb<subst><del rend="strikethrough">st</del><add place="above-line">unt</add></subst> quasi eius qui vic<lb ed="#P" break="no" n="9"/>timat 
+          filium in conspectu patris Ecclesiastici 
+          <lb ed="#P" n="10"/>34, Quis nisi plane sit vel impius 
+          <lb ed="#P" n="11"/>vel stultus remedium admittat grauius 
+          <lb ed="#P" n="12"/>morbo? Quis ne pauci immolentur Ido<lb ed="#P" break="no" n="13"/>lis: 
+          velit animas nihil tale meritas peri<lb ed="#P" break="no" n="14"/>re 
+          in eternum innumerabiles? Aliena 
+          <lb ed="#P" n="15"/>sunt haec a christi doctrina et apostolo<lb ed="#P" break="no" n="16"/>rum 
+          exemplis: neque placent nisi saeuis 
+          <lb ed="#P" n="17"/>et immanibus predonibus: aut stultis
+          <lb ed="#P" n="18"/>quibusdam Christi gloriae hostibus Sodo<lb ed="#P" break="no" n="19"/>mam 
+          suo modo iustificantibus. Et sic 
+          <lb ed="#P" n="20"/>de 4a ratione supra cap. 3o disputari 
+          <lb ed="#P" n="21"/>incepta.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e426">
+          <lb ed="#P" n="22"/><pc type="pilcrow"/> Addamus 5am rationem ad probandum 
+          <lb ed="#P" n="23"/>quod si nepharia quae indi committunt im<lb ed="#P" break="no" n="24"/>molando 
+          homines et comedendo carnes hu<lb ed="#P" break="no" n="25"/>manas: 
+          non possint impediri nisi bello: 
+          <lb ed="#P" n="26"/>sunt dissimulanda non autem curanda bello: 
+          <lb ed="#P" n="27"/>vel potius exasperanda: et haec sit ratio<lb ed="#P" break="no" n="28"/>ne 
+          scilicet communis boni et publicae utili<lb ed="#P" break="no" n="29"/>tatis 
+          Publica enim utilitas prefertur 
+          <lb ed="#P" n="30"/>priuatae et utilitas plurimorum prefertur 
+          <pb ed="#P" n="169-v"/>
+          <lb ed="#P" n="1"/>utilitati paucorum ut in <ref xml:id="lca8s8-d1e539-Rd1e453" corresp="#lca8s8-d1e539-Qd1e458">c. bonae memoriae 
+          <lb ed="#P" n="2"/>cl. 1o de postulatione prelatorum</ref> ibi: <quote xml:id="lca8s8-d1e539-Qd1e458" source="http://scta.info/resource/cice-l1t5-d1e149@250-258">non immerito 
+          <lb ed="#P" n="3"/>preferentes speciali utilitati communem, et 
+            <lb ed="#P" n="4"/>minori maiorem</quote>. Et in <ref xml:id="lca8s8-d1e539-Rd1e465" corresp="#lca8s8-d1e539-Qd1e470">c. licet. de regu<lb ed="#P" break="no" n="5"/>laribus</ref> 
+          <quote xml:id="lca8s8-d1e539-Qd1e470" source="http://scta.info/resource/cice-l3t31-d1e377@293-305">Quoniam sicut maius bonum mino<lb ed="#P" break="no" n="6"/>ri 
+          bono preponitur ita communis utilitas 
+            <lb ed="#P" n="7"/>speciali utilitati prefertur</quote>. haec ibi. Et <ref xml:id="lca8s8-d1e539-Rd1e477" corresp="#lca8s8-d1e539-Qd1e488">7, 
+          <lb ed="#P" n="8"/>q. 1, c. <sic>scientias</sic></ref> Ubi <name xml:id="lca8s8-d1e539-Nd1e483">Pelagius papa</name> in<lb ed="#P" break="no" n="9"/>quit: 
+          <quote xml:id="lca8s8-d1e539-Qd1e488" source="http://scta.info/resource/gd-p2c7q1-d1e652@47-55">nam plurimorum utilitas: unius uti<lb ed="#P" break="no" n="10"/>litati 
+          vel voluntati praeferenda est</quote>. Fa<lb ed="#P" break="no" n="11"/>cit 
+          etiam <ref xml:id="lca8s8-d1e539-Rd1e495" target="http://scta.info/resource/gd-p2c8q1-d1e203">8, q. 1, c. in scripturis</ref> et <ref xml:id="lca8s8-d1e539-Rd1e498" target="http://scta.info/resource/bgy6gt-d1e1491-d1e926">ff 
+            <lb ed="#P" n="12"/>pro socio, § labeo</ref>, et <ref xml:id="lca8s8-d1e539-Rd1e503" target="http://scta.info/resource/azsw2e-d1e3985-d1e211">C. de Caducis tollendis, 
+              <lb ed="#P" n="13"/>L. unica, § penultimo <!-- target needs confirmation --></ref>, et in alijs juribus. Quam<lb ed="#P" break="no" n="14"/>uis 
+          autem glosae in illis locis doceant: bonum 
+          <lb ed="#P" n="15"/>publicum tunc preferendum priuato: quan<lb ed="#P" break="no" n="16"/>do 
+          in bono publico continetur comodum 
+          <lb ed="#P" n="17"/>priuati: nam alias charitas bene ordina<lb ed="#P" break="no" n="18"/>ta 
+          incipit a seipsa <ref xml:id="lca8s8-d1e539-Rd1e520" target="http://scta.info/resource/gd-p2c23q5-Dd1e242"><!-- target at div level as there are several paragraphs -->23 q. 5, c. si non 
+          <lb ed="#P" n="19"/>licet</ref> et <ref xml:id="lca8s8-d1e539-Rd1e527" target="http://scta.info/resource/gd-p2c33q3d3-d1e247">de penitentia, distinctione 3, c. Qui vult</ref> 
+          <lb ed="#P" n="20"/>et <ref xml:id="lca8s8-d1e539-Rd1e532" target="http://scta.info/resource/gd-p2c19q2-d1e138">19 q. 2. c. duae</ref> etc. Nihilominus 
+          <lb ed="#P" n="21"/>tamen judex vel gubernator utilitatem pu<lb ed="#P" break="no" n="22"/>blicam 
+          debet preferre priuatae, etiam si 
+          <lb ed="#P" n="23"/>publica utilitas non sit utilis unicuique 
+          <lb ed="#P" n="24"/>priuato ut in dictis iuribus. 
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e545">
+          Probatur 
+          <lb ed="#P" n="25"/>etiam ratione, quoniam scilicet bonum publi<lb ed="#P" break="no" n="26"/>cum 
+          diuinum quiddam est autore <ref xml:id="lca8s8-d1e539-Rd1e551" corresp="#lca8s8-d1e539-Qd1e553">Philosopho 1 Ethicorum</ref>: <quote xml:id="lca8s8-d1e539-Qd1e553" source="http://scta.info/resource/ArNeTH-d1e101-d1e184@171-216">Itaque illud erit utique summum 
+          <lb ed="#P" n="27"/>bonum humanum: etsi ens idem est uni 
+          <lb ed="#P" n="28"/>et ciuitati: maius tamen ac perfectius ci<lb ed="#P" break="no" n="29"/>uitatis 
+          et in capiendo et in conseruando 
+          <lb ed="#P" n="30"/>amabile quidem et uni soli: pulchrius ta<pb ed="#P" n="170-r"/><lb ed="#P" break="no" n="1"/>men
+          <lb ed="#P" n="2"/>ac diuinius genti ciuitatibusque</quote>. haec 
+          <lb ed="#P" n="3"/>Philosophus. 
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e573">
+          Cum autem officium gubernatoris insti<lb ed="#P" break="no" n="4"/>tutum 
+          precipue sit, ut reipublicae utilita<lb ed="#P" break="no" n="5"/>tem 
+          omni diligentia curet ita, ut respublica 
+          <lb ed="#P" n="6"/>vera felicitate perfruatur autore <ref xml:id="lca8s8-d1e539-Rd1e581">Philosopho 1o 
+          <lb ed="#P" n="7"/>Politicorum</ref> et <ref xml:id="lca8s8-d1e539-Rd1e586">8 Ethicorum</ref> et <ref xml:id="lca8s8-d1e539-Rd1e589">sancto Thomas libro 
+          <lb ed="#P" n="8"/>1o de regimine principum</ref>: Plane sequitur guberna<lb ed="#P" break="no" n="9"/>torem 
+          <lb ed="#P" n="10"/>reipublicae debere preferre utilitatem 
+          <lb ed="#P" n="11"/>publicam priuatae atque item utilitatem 
+          <lb ed="#P" n="12"/>uniuscuiusque priuati. Immo vero etiam si 
+          <lb ed="#P" n="13"/>quod reipublicae est utile: Iudici vel guber<lb ed="#P" break="no" n="14"/>natori 
+          sit damnosum. Etenim qui munus 
+          <lb ed="#P" n="15"/>gubernandi suscipit eo ipso tenetur pu<lb ed="#P" break="no" n="16"/>blicam 
+          utilitatem commodis suis preferre 
+          <lb ed="#P" n="17"/>haud aliter: quam miles ad ciuitatis presidium 
+          <lb ed="#P" n="18"/>conductus omnibus etiam certissimis vitae 
+          <lb ed="#P" n="19"/>periculis: sese tenetur obiicere adeo ut si 
+          <lb ed="#P" n="20"/>aliis rebus veniat periculum dum ipse sa<lb ed="#P" break="no" n="21"/>lutem
+          quaerens gubernationem nauis de<lb ed="#P" break="no" n="22"/>serit: 
+          tenebitur ad omnia damna ut per do<lb ed="#P" break="no" n="23"/>ctores 
+          in <ref xml:id="lca8s8-d1e539-Rd1e626" target="http://scta.info/resource/bgy6gt-d1e1604-d1e721">l. qui mercedem</ref>. Et in <ref xml:id="lca8s8-d1e539-Rd1e629">l. Item 
+            <lb ed="#P" n="24"/>quaeritur. § experi <!-- can't find see--></ref>. et in <ref xml:id="lca8s8-d1e539-Rd1e636" target="http://scta.info/resource/bgy6gt-d1e1604-d1e590">l. in lege. ff 
+              <lb ed="#P" n="25"/>locati.</ref> et in <ref xml:id="lca8s8-d1e539-Rd1e641" target="http://scta.info/resource/cice-l1t9-d1e255"><!-- target at div level because it contains several paragraphs -->c. nisi cum pridem ee renun<lb ed="#P" break="no" n="26"/>tiatione</ref>
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e648">
+          Probatur etiam exemplo et verbo 
+          <lb ed="#P" n="27"/>seruatoris nostri Ioanis 10 bonus inquit
+          <lb ed="#P" n="28"/>pastor animam suam ponit pro ouibus 
+          <lb ed="#P" n="29"/>suis. De hac materia tractat Bartholus. Et 
+          <lb ed="#P" n="30"/>doctores in l. 1, ff Soluto matrimonio. Felinus 
+          <lb ed="#P" n="31"/>in c. nonnulli, columna 21 de rescriptis. om<lb ed="#P" break="no" n="32"/>ni 
+          tamen publicae utilitati cuiuscumque generis 
+          <lb ed="#P" n="33"/>preferri debet utilitas religionis christia<pb ed="#P" n="170-v"/><lb ed="#P" break="no" n="1"/>nae 
+          et ecclesiae uniuersalis. Nam <ref xml:id="lca8s8-d1e539-Rd1e668">Hostien<lb ed="#P" break="no" n="2"/>sis 
+          in c. magnae de voto</ref> inquit quod vti<lb ed="#P" break="no" n="3"/>litas 
+          reipublicae maxime ecclesiae dei et 
+          <lb ed="#P" n="4"/>salutis animarum: est utilitati priuatae in 
+          <lb ed="#P" n="5"/>omnibus preferenda allegat dictum c. licet, 
+          <lb ed="#P" n="6"/>§ illa: de Regularibus, et dictum c. bonae: de 
+          <lb ed="#P" n="7"/>postulatione prelatorum columine 1o § hinc fit. ut si
+          <lb ed="#P" n="8"/>respublica temporalis et religio christiana 
+          <lb ed="#P" n="9"/>simul periclitarentur: nec utrique prouide<lb ed="#P" break="no" n="10"/>ri
+          esset possibile: certe utilitas religionis 
+          <lb ed="#P" n="11"/>est preferenda: quia nulla maior ratio quam 
+          <lb ed="#P" n="12"/>illa quae pro religione facit. ut in l. sunt 
+          <lb ed="#P" n="13"/>personae. <ref xml:id="lca8s8-d1e539-Rd1e697">in fine, ff. de religionis et sumptibus
+          funerum</ref>. Pro hoc facit doctrina Bartho. in 
+          <lb ed="#P" n="14"/>authenticis: quas actiones, C. de sacro sanctis ec<lb ed="#P" break="no" n="15"/>clesis 
+          ubi dicitur quod <sic>preuilegiatus</sic> utitur 
+          <lb ed="#P" n="16"/><sic>preuilegio</sic> contra <sic>preuilegiatum</sic>: quoni<lb ed="#P" break="no" n="17"/>am 
+          <seg type="correction">su<del rend="strikethrough">um</del>um</seg> <sic>preuilegium</sic> est potentius 
+          per l. verum. §. finali, ff. de minoribus viginti 
+          <lb ed="#P" n="18"/>quinque annis Cognoscitur autem specialius 
+          <lb ed="#P" n="19"/>esse inter duo specialia: quoniam alterum 
+          <lb ed="#P" n="20"/>fauet magis reipublicae secundum <ref xml:id="lca8s8-d1e539-Rd1e728" target="http://scta.info/resource/nqqq3t-d1e1390-d1e6197@1-46">Philippum 
+          <lb ed="#P" n="21"/>Probum in c. ut officium de hereticis libro 
+          <lb ed="#P" n="22"/>6</ref> Reipublicae enim nihil magis expe<lb ed="#P" break="no" n="23"/>dit 
+          quam quod ad exaltationem et conserua<lb ed="#P" break="no" n="24"/>tionem 
+          fidei conducit ad salutem anima<lb ed="#P" break="no" n="25"/>rum. 
+          Preterea dignior est causa domi<lb ed="#P" break="no" n="26"/>ni 
+          quam serui et anima <del rend="strikethrough">rebus</del> omnibus 
+          <lb ed="#P" n="27"/>corporalibus preferenda est iuxta illud 
+          <lb ed="#P" n="28"/>Matthei 16. Quid enim prodest homini
+          <pb ed="#P" n="171-r"/>
+          <lb ed="#P" n="1"/>si uniuersum mundum lucretur animae 
+          <lb ed="#P" n="2"/>vero suae detrimentum patiatur. Et in <ref xml:id="lca8s8-d1e539-Rd1e758">c. 
+          <lb ed="#P" n="3"/>cum infirmitas. de penitentiis et remissionibus.</ref> <ref xml:id="lca8s8-d1e539-Rd1e763">12. q. 
+          <lb ed="#P" n="4"/>1. c. prescimus.</ref> <ref xml:id="lca8s8-d1e539-Rd1e769">24, q. 3. c. si habes</ref>. <ref xml:id="lca8s8-d1e539-Rd1e771">C. 
+          <lb ed="#P" n="5"/>de sacro sanctis ecclesiis, l. sancimus, in finem</ref>
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e777">
+          hoc 
+          <lb ed="#P" n="6"/>principio supposito: quod optimus quisque rex 
+          <lb ed="#P" n="7"/>vel gubernator tenetur bonum commune par<lb ed="#P" break="no" n="8"/>ticulari: 
+          utilitatem multorum, paucorum 
+          <lb ed="#P" n="9"/>utilitati: et maius bonum preferre mino<lb ed="#P" break="no" n="10"/>ri: 
+          et super haec omnia fidei catholicae dila<lb ed="#P" break="no" n="11"/>tationem 
+          prosperitatem ecclesiae: salutemque 
+          <lb ed="#P" n="12"/>animarum: atque proinde omnia contraria 
+          <lb ed="#P" n="13"/>his et quae possent ilia impedire vitare 
+          <lb ed="#P" n="14"/>manifestissimum est nulla ratione de<lb ed="#P" break="no" n="15"/>bere 
+          pati ob publicam et maiorem immo 
+          <lb ed="#P" n="16"/>maximam utilitatem innumeram gen<lb ed="#P" break="no" n="17"/>tium 
+          multitudinem occidi: vt pauci ho<lb ed="#P" break="no" n="18"/>mines 
+          non immolentur idolis, cum hoc 
+          <lb ed="#P" n="19"/>pertineat ad propagationem religionis 
+          <lb ed="#P" n="20"/>christianae. Numquam enim indi christia<lb ed="#P" break="no" n="21"/>nam 
+          veritatem suscipient si bello exas<lb ed="#P" break="no" n="22"/>perentur. Rursus publicae utilitatis est 
+          <lb ed="#P" n="23"/>tot animas non perire: et fratrum nos<lb ed="#P" break="no" n="24"/>trorum
+          Deum ignorantium bona non 
+          <lb ed="#P" n="25"/>diripi Iuxta illud Deuteronomii 22: non vi<lb ed="#P" break="no" n="26"/>debis
+          bouem aut ouem fratris tui erran<lb ed="#P" break="no" n="27"/>tem 
+          et preteribis: sed reduces fratri tuo: etiam<lb ed="#P" break="no" n="28"/>si 
+          non sit propinquus frater tuus nec nosti 
+          <lb ed="#P" n="29"/>eum. Similiter facies de asino, de vestimen<lb ed="#P" break="no" n="30"/>to, 
+          de omni re fratris tui, quae perierit: nec 
+          <lb ed="#P" n="31"/>negligas quasi alienam. Et Exodi 23. Si 
+          <lb ed="#P" n="32"/>occurreris boui inimici tui aut asino erran<lb ed="#P" break="no" n="33"/>ti 
+          reduc ad eum etc. De hoc sanctus Thomas in 
+          <pb ed="#P" n="171-v"/>
+          <lb ed="#P" n="1"/>quaestionibus de virtutibus q. 3. articulo 1o in 
+          <lb ed="#P" n="2"/>corpore.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e848">
+          Quod si amissionem bouis unius 
+          <lb ed="#P" n="3"/>fratris nostri et damnum seu mortem unius 
+          <lb ed="#P" n="4"/>tenemur excusare: multo magis direptio<lb ed="#P" break="no" n="5"/>nem 
+          <pc type="virgula">/</pc> mortem <pc type="virgula">/</pc> exitium et captiuitatem 
+          <lb ed="#P" n="6"/>tot fratrum nostrorum. Quod si omnes ser<lb ed="#P" break="no" n="7"/>uare 
+          et liberare a morte non possumus: cer<lb ed="#P" break="no" n="8"/>te 
+          plurimorum utilitas preferenda est utili<lb ed="#P" break="no" n="9"/>tati 
+          paucorum, qui nisi plurimorum exitio 
+          <lb ed="#P" n="10"/>liberari non valent. Ideo dissimulemus 
+          <lb ed="#P" n="11"/>paucos occidi: ne tot hominum miriades 
+          <lb ed="#P" n="12"/>moriantur.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e879">
+          Seneca enim non admittit re<lb ed="#P" break="no" n="13"/>media 
+          morbo grauiora. Quod si hoc malum 
+          <lb ed="#P" n="14"/>bello sit curandum: innumerae mortalium 
+          <lb ed="#P" n="15"/>animae et corpora peribunt in eternum: non 
+          <lb ed="#P" n="16"/>tantum ratione illorum criminum quibus 
+          <lb ed="#P" n="17"/>pauciores sunt obnoxii: verum etiam propter 
+          <lb ed="#P" n="18"/>alia peccata quae sine fide remitti non 
+          <lb ed="#P" n="19"/>possunt. De quo sanctus Thomas 2a 2ae q. 10 articulo 
+          <lb ed="#P" n="20"/>1o in corpore
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e899">
+          Vnde tollitur eis tempus vel spati<lb ed="#P" break="no" n="21"/>um 
+          conuersionis et penitentiae quod ma<lb ed="#P" break="no" n="22"/>ximum
+          malorum est <subst><del rend="strikethrough">quae</del> <add place="above-line">eorum quae</add></subst> proximis in<lb ed="#P" break="no" n="23"/>ferri 
+          <seg type="correction">po<del rend="strikethrough">test</del><add place="above-line">ssunt</add></seg> ut sepe supra tactum est. Item 
+          <lb ed="#P" n="24"/>qui viui remanserint: perpetuo religio<lb ed="#P" break="no" n="25"/>nem 
+          christianam odio prosequuntur cum 
+          <lb ed="#P" n="26"/>videant eandem profitentes: tot im<lb ed="#P" break="no" n="27"/>mania 
+          facinora et attrocia incendia com<lb ed="#P" break="no" n="28"/>mittere: 
+          tot oppida diripere sub pretex<lb ed="#P" break="no" n="29"/>tu 
+          impediendi idolorum immolationem.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e935">
+          <lb ed="#P" n="30"/>In suma principes et gubernatores quibus 
+          <lb ed="#P" n="31"/>publicam utilitatem tueri incumbit: ne<lb ed="#P" break="no" n="32"/>quaquam
+          pati possunt absque hoc quod omnium 
+          <pb ed="#P" n="172-r"/>
+          <lb ed="#P" n="1"/>malorum sint rei: bellum indis inferri: 
+          etiam si huiusmodi crimina alio modo excusa<lb ed="#P" break="no" n="2"/>ri 
+          non possint. Debet enim publica vti<lb ed="#P" break="no" n="3"/>litas 
+          priuatae prefferri: ac denique nihil 
+          <lb ed="#P" n="4"/>non est ferendum ne bellum malorum omni<lb ed="#P" break="no" n="5"/>um 
+          occeanus: miserae genti nudae <pc type="virgula">/</pc> inermi, 
+          et per ignorantiam erranti inferatur. Hoc 
+          <lb ed="#P" n="6"/>enim non expedit propagationi verita<lb ed="#P" break="no" n="7"/>tis 
+          euangelicae neque ulla ex parte conue<lb ed="#P" break="no" n="8"/>nit 
+          christianae doctrinae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

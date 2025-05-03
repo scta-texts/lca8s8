@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 30 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 30 [Bnf 12926 Transcription]</title>
+          <date when="2025-05-03">May 03, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="135-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e434">
+        <head>Caput 30 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="#P" n="26"/>Caput 30m.
+        </p>
+        <p>
+Ad argumentum, scilicet, quod, damnata justo bello ciuitate, omnes eius incolae presumuntur hostes, falsum est. Non [136r.] enim presumptio juris operari debet in his quae sunt impossibilia. Quis enim presumat infantes, viribus et consilio infirmos omnique malitia vacantes, reos esse? Quis trepidantes foeminas bello dedisse causam suspicetur, nisi constet facultatibus collatis bellum aluisse, quod rarissime continget? Itaque hos esse innocentes est naturalis demonstratio. Ergo presumptio diuersa hoc casu nihil operatur (ut in c. Veritate, 8 distinctio)677,
+        </p>
+        <p>
+Rursus foeminas et pueros innocentes esse ac sic poenam non mereri probatur per legem diuinam (Deuteronomij 20?)€8 vbi dominus precipit Hebraeis vt, cum aliquam ciuitatem oppugnarent, ob justam aliquam causam, puta, injuriam sibi illatam, parcerent foeminis et infantibus, bellica vero vi vterentur aduersus viros; quod Deus non precepisset nisi manifestum esset, saltem pro maiori parte, tale genus personarum hostes non esse sed innocentes. Ergo hi innocentes sunt diuino testimonio.
+        </p>
+        <p>
+Secundo, probatur ex Innocentio (in dicto c. Dilectus 679 et in dicto c. Graue 680) et ex doctoribus vtrobique, qui veluti manifestum supponunt in quolibet populo esse plurimos innocentes. Deinde si forte bellum geritur inter christianos in qualibet ciuitate, sunt sacerdotes, monachi et monachae et alij [136v.] plures diuino cultui dedicati, sunt agricolae, operarij, exteri, mercatores, peregrini quos lex judicat esse innocentes adeo vt ab omni vi bellica sint immunes ex Ecclesiae decreto (ut in c. Innouamus: De Tregua Et Pace 681) adeo vt, si a militibus spolientur, milites tenentur ad restitutionem et peccant mortaliter.
+        </p>
+        <p>
+Cum ergo in quacumque ciuitate plurimi sint innocentes, falsum est quod, damnata ciuitate, omnes qui intus sunt presumuntur hostes et ex consequenti milites abstinere debent ab inferenda vi personis quae pre se ferunt esse innocentes, quod exercitus maiores duces exacte ac seuere admonere debent, nisi vellent participes fieri eiusdem peccati et damni.
+        </p>
+        <p>
+Meminisse tamen oportet illam confusam doctorum sententiam quod, damnata ciuitate vt diripiatur bello, scilicet, justo, milites non tenentur excutere quinam sint nocentes, qui vero innocentes, quia, vt dicunt, tunc de per accidens, id est preter intentionem, est occidere innocentes; veram esse quando, si omitteretur aliqua circunstantia, vel actu victoria illius justi belli haberi non posset vel hostes non subigerentur; et tamen accidit in illo actu vel circunstantia inueniri innocentes.
+        </p>
+        <p>
+Quod si talis actus vel circunstantia necessaria non est sed excusari potest, proculdubio rei sunt mortis et aliorum [137r.] nocumentorum talium innocentium. Huius circunstantiae sit exemplum: finge exercitum justo bello irruere?24 in vrbem damnatam Principis decreto vt diripiatur; discurrunt milites per fora et regiones vrbis, occidendo omnes obuios; certe tunc, si occidant mercatorem vel peregrinum, non peccant.
+        </p>
+        <p>
+Non enim tenentur??? eo tempore excutere sitne ciuitatis incola qui occurrit??6 an exterus ne, dum haec agit, victoria in periculum327 veniat, et victores, commutata fortuna, remaneant victi. Et ideo de per accidens tunc occiduntur innocentes, non de per se.
+        </p>
+        <p>
+Hoc tamen intelligendum est328 nisi obuij manifeste sint ex illis quibus tamquam innocentibus parcendum est, puta si sit puer, mulier vel senex vel homo inermis vel sacerdotali seu monachali cultu venerabilis. Hos enim si milites occidant, peccant mortaliter. lam enim illis non de per accidens vim inferunt, sed de per se et ex principali intentu.
+        </p>
+        <p>
+Et quod teneantur presumere, per eiusmodi probabilia signa, tales fore innocentes, et sic ab inferendo illis mala abstinere, patet, quia nocumenta quae inferuntur in bello non sunt tam parui momenti quod in dubio vel de facili et passim, absque timore Deum et proximum offendendi, possint inferri. Tenentur ergo bellatores christiani quos [137v.] talibus signis viderint apparere, innocentes potius presumere quam noxios, etiam in conflictu.
+        </p>
+        <p>
+Sit aliud exemplum: Receperunt sese in arcem aliquam foeminae, pueri, senes et alij innocentes. Certe si ad prosperum totius belli exitium non est maxime necessarium arcem illam oppugnari, peccatum grauissimum esset arcem vel flammis vel cuniculis diruere cum magna, vt necesse est, innoxiorum clade. Esset enim hoc de per se occidere innocentes. Si autem necessarium sit, accidentaliter et preter intentionem occiderentur.
+        </p>
+        <p>
+Quod probatur quoniam bellum numquam est licitum nisi cum est necessarium, ita quod nullo modo possit excusari. Est enim pestis et atrox humani generis calamitas, (ut in c. S; quos, 23, q. 4882, et in c. Ad apostolicae: De Re Judicata 885, Libro 6^, et in c. Pisanis: De Restitutione Spoliatorum 684).
+        </p>
+        <p>
+Bellum enim opus est de se impium et de tertio genere actuum (capite 28? bis [259] supra) nisi ex circunstantia, scilicet, et, necessitate justum reddatur, autore Augustino (in c. Noli, 23, q. 1. Bellum) inquit, debet esse necessitatis vt liberet Deus a  necessitate et conseruet in pace 985. Haec ille.
+        </p>
+        <p>
+Rursus Nicolaus$86 papa in c. Si Nulla, 23, q. 8, inquit: Si nulla viget necessitas, non solum quadragesimali tempore sed etiam omni tempore est a proelijs abstinendum. Si autem ineuitabilis vrget importunitas nec [138r.] quadragesimali tempore, pro defensione tam sua quam patriae seu legum paternarum, est bellorum proculdubio preparationi parcendum, et caetera. Haec ille. His consonant verba diuina: Si fieri potest, quod ex vobis est, cum omnibus bominibus pacem habentes (Ad Romanos 122)687.
+        </p>
+        <p>
+[tem Cicero$88 (Officiorum Libro 1 ?) numquam probat bellum nisi vrgeat ineuitabilis necessitas ita quod nullo modo euitari possit. Ergo si arx innoxijs hominibus referta possit non dirui, citra magnum totius belli victoriae periculum, certe princeps, eam oppugnans et cruenta irruptione diruens, reus est apud Summum Judicem, quod occidit de per se innocentes. Deficit enim circunstantia qua bellum justum redditur, scilicet, necessitas. Ideo omnium malorum quae ibi acciderint rationem reddent Deo et tenebuntur ipse atque milites ad restitutionem.
+        </p>
+        <p>
+Confirmatur haec veritas ex verbis sancti Thomaef89 qui, exponens illa verba apostoli: Non possumus aliquid contra veritatem (2% Ad Corinthios 139)922 inquit quod, si puniret apostolus innocentes, faceret contra veritatem et justitiam. Facere autem contra justitiam est peccatum mortale (autore Diuo Thoma 22 22€, q. 59, a. 4)6%, Et aliquid in huiusmodi actibus rapientes peccant mortaliter et tenentur ad restitutionem.
+        </p>
+        <p>
+Non ergo occidendi sunt pauci et multo minus plures innocentes, vt [138v.]  puniantur pauci nocentes. Non enim sunt facienda mala vt inde veniant bona (4d Romanos 3*)6%, Neque enim haec mala vult Deus tali lucro compensari, secundum Augustinum$92 (Super Psalmo 146 et legitur 33, q. 5, c. 1): Non enim inquit vult Deus tale damnum tali lucro compensari, nimirum periculosissime admittitur haec compensatio.
+        </p>
+        <p>
+Et in alia parte (14 distinctio, c. Quod A11)6%. Et ibi est glossa notabilisó% et concordat sancto Thomae$95 (23 22€, q. 26, a. 4, in corpore, et ad 24M; et q. 43, a. 7, ad 5um?9? vbi inquit quod nemini licet peccare venialiter vt alius non peccet mortaliter; quod etiam asserit Augustinus (in c. Faciat Homo, 22, q. 2) his verbis: Faciat homo etiam pro temporali salute hominum quod potest. Cum autem ad hoc ventum fuerit vt tali saluti nisi peccando consulere non possit, jam se existimet non babere quidfaciat6%,
+        </p>
+        <p>
+Et c. Sequenti et c. Ne Quis Arbitretur ex c. Primum et Extra. De vsuris 67, c. Super Eo, et Extra. Ne Clerici vel Monachi, c. Magnopere). Immo vero inquit sanctus Thomas quod homo potius debet eligere mortem et cruciatum atrocem quam peccare vel venialiter. (Ita 27 226, q. 110, a. 3?, ad 3"^, et in alijs locis)698,
+        </p>
+        <p>
+Hinc oritur regula quod quando malum et bonum sunt ita conjuncta vt ex bono quod volo facere necessario debeat oriri malum vel fere semper oriatur malum, si malum [139r.] maius est quam bonum quod volo facere, semper bonum est omittendum ne inde malum oriatur. Ratio est quoniam si quis maximis virtutibus preditus minimi cuiusdam peccati mortalis reus sit, damnabitur in eternum.
+        </p>
+        <p>
+Hanc autem regulam sanctus Thomas et Augustinus intelligunt etiam quando inde oritur peccatum veniale. Item haec regula non solum est intelligenda in nobis ipsis, verum etiam quando alicui beneficium facere volumus, curando ne illi veniat malum; circumspicere enim debemus an ex eo bono quod illi facere volumus oriatur maius malum quam illud quod euitare volumus.
+        </p>
+        <p>
+Ita sanctus Thomas699 (Quodlibeto 3, a. 11, ad 5") vbi sic ait: Tunc solum aliquod bonum esset pretermittendum propter consequens malum, quando malum consequens esset multo maius quam bonum et vtfrequentius accideret. Haec sanctus Thomas formaliter. Et vide Abulensem (Super Mattheum, c. 235, q. 19)700,
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

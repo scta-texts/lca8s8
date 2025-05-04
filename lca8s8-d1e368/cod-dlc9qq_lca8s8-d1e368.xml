@@ -50,449 +50,448 @@
     </front>
     <body>
       <div xml:id="lca8s8-d1e368">
-        <head>Caput 25 [Bnf 12926 Transcription]</head>
-        <p>
+        <head xml:id="lca8s8-d1e368-Hd1e97">Caput 25 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e368-d1e99">
           <lb ed="#P" n="3"/>CAPut. 25m.
         </p>
-        <p>
-          <lb ed="#P"/><add place="margin-left" hand="E">Casus. 4º.</add>
+        <p xml:id="lca8s8-d1e368-d1e104">
+          <lb ed="#P" n="4"/><note type="marginal-note" place="margin-left" hand="E">Casus. 4º.</note>
           ¶ Quartus casus in quo Ecclesia bello
-          <lb ed="#P"/>vel alias potest punire paganos: est cum
-          <lb ed="#P"/>impediunt propagationem fidei de per
-          <lb ed="#P"/>se non per accidens verboque vel opere se<lb ed="#P" break="no"/>uiunt<!--c.e. 'saeiunt'-->
+          <lb ed="#P" n="5"/>vel alias potest punire paganos: est cum
+          <lb ed="#P" n="6"/>impediunt propagationem fidei de per
+          <lb ed="#P" n="7"/>se non per accidens verboque vel opere se<lb ed="#P" break="no" n="8"/>uiunt<!--c.e. 'saeiunt'-->
           in eos, qui illam amplecti volunt:
-          <lb ed="#P"/>vel jam amplexi sunt, aut certe precibus
-          <lb ed="#P"/>aut muneribus id efficere conantur.
-          <lb ed="#P"/>Huiusmodi enim injurias obstantes
-          <lb ed="#P"/>dilatationi fidei, et illatas membris ec<lb ed="#P" break="no"/>clesiae:
-          potest jure naturali ecclesia coer<lb ed="#P" break="no"/>cere
+          <lb ed="#P" n="9"/>vel jam amplexi sunt, aut certe precibus
+          <lb ed="#P" n="10"/>aut muneribus id efficere conantur.
+          <lb ed="#P" n="11"/>Huiusmodi enim injurias obstantes
+          <lb ed="#P" n="12"/>dilatationi fidei, et illatas membris ec<lb ed="#P" break="no" n="13"/>clesiae:
+          potest jure naturali ecclesia coer<lb ed="#P" break="no" n="14"/>cere
           et apparatu bellico per principes
-          <lb ed="#P"/>christianos comprimere. Neque enim
-          <lb ed="#P"/>alio remedio huiusmodi malo obuiam
-          <lb ed="#P"/>iri poterit ut patet ex <ref>multis locis. 23.
-          <lb ed="#P"/>q. 8<!--Gracian's decree, 23, q. 2, c. 2 "Dominus Noster": PL 187: 1.166-1.167; from Augustine, Quaest. in Pentateuchum, lib. 6, c. 10: PL 34, p. 780-->.</ref>. neque juri et eequitati conuenit ecclesi<lb ed="#P" break="no"/>am
+          <lb ed="#P" n="15"/>christianos comprimere. Neque enim
+          <lb ed="#P" n="16"/>alio remedio huiusmodi malo obuiam
+          <lb ed="#P" n="17"/>iri poterit ut patet ex <ref xml:id="lca8s8-d1e368-Rd1e140">multis locis. 23.
+          <lb ed="#P" n="18"/>q. 8<!--Gracian's decree, 23, q. 2, c. 2 "Dominus Noster": PL 187: 1.166-1.167; from Augustine, Quaest. in Pentateuchum, lib. 6, c. 10: PL 34, p. 780-->.</ref>. neque juri et eequitati conuenit ecclesi<lb ed="#P" break="no" n="19"/>am
           pati homines christianis mysterijs
-          <lb ed="#P"/>initiatos / donis / blanditijs / vel minis re<lb ed="#P" break="no"/>silire
+          <lb ed="#P" n="20"/>initiatos / donis / blanditijs / vel minis re<lb ed="#P" break="no" n="21"/>silire
           a christiana proffessione.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e155">
           Quod etiam
-          <lb ed="#P"/>probatur quoniam omnes principes vel reipublicae
-          <lb ed="#P"/>gubernatores: tenenrur subditos suos ab om<lb ed="#P" break="no"/>ni
-          injuria tueri: et aduersus illorum oppres<lb ed="#P" break="no"/>sores
-          arma expedire ut <ref>ff. de dolo. l. cum
-          <lb ed="#P"/>quis</ref>. et <ref>de ordi. cognitio. c. 2</ref>. et <ref>de re<lb ed="#P" break="no"/>stitu.
-          spolia. c. 1</ref>. et <ref>de appella. c. dilec<lb ed="#P" break="no"/>tis<!--c.e. adds Gratian, Causa 23, q. 8, c. 8 (no 18: Losada) (PL 187: 1.248).--></ref>.
-          Et <ref>23. q. 2. c. dominus noster</ref> et
-          <lb ed="#P"/><ref>q. 8. c. ccire vos oportet</ref>. Ita notant <ref>Inno<lb ed="#P" break="no"/>cen.
-          et Hostien. in d. c. dilectis</ref>. Et <ref>Hos<pb ed="#P" n="113-v"/><lb ed="#P" break="no"/>tien.
+          <lb ed="#P" n="22"/>probatur quoniam omnes principes vel reipublicae
+          <lb ed="#P" n="23"/>gubernatores: tenenrur subditos suos ab om<lb ed="#P" break="no" n="24"/>ni
+          injuria tueri: et aduersus illorum oppres<lb ed="#P" break="no" n="25"/>sores
+          arma expedire ut <ref xml:id="lca8s8-d1e368-Rd1e165">ff. de dolo. l. cum
+          <lb ed="#P" n="26"/>quis</ref>. et <ref xml:id="lca8s8-d1e368-Rd1e171">de ordi. cognitio. c. 2</ref>. et <ref xml:id="lca8s8-d1e368-Rd1e173">de re<lb ed="#P" break="no" n="27"/>stitu.
+          spolia. c. 1</ref>. et <ref xml:id="lca8s8-d1e368-Rd1e178">de appella. c. dilec<lb ed="#P" break="no" n="28"/>tis<!--c.e. adds Gratian, Causa 23, q. 8, c. 8 (no 18: Losada) (PL 187: 1.248).--></ref>.
+          Et <ref xml:id="lca8s8-d1e368-Rd1e184">23. q. 2. c. dominus noster</ref> et
+          <lb ed="#P" n="29"/><ref xml:id="lca8s8-d1e368-Rd1e187">q. 8. c. ccire vos oportet</ref>. Ita notant <ref xml:id="lca8s8-d1e368-Rd1e190">Inno<lb ed="#P" break="no" n="30"/>cen.
+          et Hostien. in d. c. dilectis</ref>. Et <ref xml:id="lca8s8-d1e368-Rd1e195">Hos<pb ed="#P" n="113-v"/><lb ed="#P" break="no" n="1"/>tien.
           de tregua et pace, c. 1</ref>.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e202">
           Ergo papa
-          <lb ed="#P"/>cum sit princeps et caput ecclesiae catholicae
-          <lb ed="#P"/>tenetur omnes<!--missing in c.e.--> vbique degentes christianos
-          <lb ed="#P"/>tueri et ab omni injuria defendere sub
-          <lb ed="#P"/>quocumque principe viuant: ita vt nulla
-          <lb ed="#P"/>oppressione desciscant. Quod <ref>Leo papa
-          <lb ed="#P"/>significat in c. scire vos oportet</ref>. quod <quote>num<lb ed="#P" break="no"/>quam
+          <lb ed="#P" n="2"/>cum sit princeps et caput ecclesiae catholicae
+          <lb ed="#P" n="3"/>tenetur omnes<!--missing in c.e.--> vbique degentes christianos
+          <lb ed="#P" n="4"/>tueri et ab omni injuria defendere sub
+          <lb ed="#P" n="5"/>quocumque principe viuant: ita vt nulla
+          <lb ed="#P" n="6"/>oppressione desciscant. Quod <ref xml:id="lca8s8-d1e368-Rd1e217">Leo papa
+          <lb ed="#P" n="7"/>significat in c. scire vos oportet</ref>. quod <quote xml:id="lca8s8-d1e368-Qd1e222">num<lb ed="#P" break="no" n="8"/>quam
           ab aliquibus nostros homines sinimus
-          <lb ed="#P"/>opprimi, sed (si necessitas vlla
-          <lb ed="#P"/>occurrerit) presentialiter vindicamus. Quia
-          <lb ed="#P"/>nostri gregis in omnibus vltores esse debemus,
-          <lb ed="#P"/>et precipui adiutores</quote>. haec ibi.
+          <lb ed="#P" n="9"/>opprimi, sed (si necessitas vlla
+          <lb ed="#P" n="10"/>occurrerit) presentialiter vindicamus. Quia
+          <lb ed="#P" n="11"/>nostri gregis in omnibus vltores esse debemus,
+          <lb ed="#P" n="12"/>et precipui adiutores</quote>. haec ibi.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e237">
           Rursus:
-          <lb ed="#P"/>cum christiani infidelium opera abne<lb ed="#P" break="no"/>gantes
+          <lb ed="#P" n="13"/>cum christiani infidelium opera abne<lb ed="#P" break="no" n="14"/>gantes
           christi cultum: minuant quod
-          <lb ed="#P"/>corpori christi et ecclesiae christianae jam
-          <lb ed="#P"/>erat insertum et tali abnegatione adoran<lb ed="#P" break="no"/>dum
+          <lb ed="#P" n="15"/>corpori christi et ecclesiae christianae jam
+          <lb ed="#P" n="16"/>erat insertum et tali abnegatione adoran<lb ed="#P" break="no" n="17"/>dum
           christi nomen blasphematur: papa
-          <lb ed="#P"/>et quiuis princeps christianus huiusmodi inju<lb ed="#P" break="no"/>riam
-          vlcisci, quinimo quaelibet particula<lb ed="#P" break="no"/>ris
+          <lb ed="#P" n="18"/>et quiuis princeps christianus huiusmodi inju<lb ed="#P" break="no" n="19"/>riam
+          vlcisci, quinimo quaelibet particula<lb ed="#P" break="no" n="20"/>ris
           persona saltem impedire tenetur.
-          <lb ed="#P"/>Nam in omnium fertur injuriam quod
-          <lb ed="#P"/>in diuinam religionem comittitur, vt
-          <lb ed="#P"/>in <ref>l. manichaeos, C. de hereticis</ref>.
+          <lb ed="#P" n="21"/>Nam in omnium fertur injuriam quod
+          <lb ed="#P" n="22"/>in diuinam religionem comittitur, vt
+          <lb ed="#P" n="23"/>in <ref xml:id="lca8s8-d1e368-Rd1e263">l. manichaeos, C. de hereticis</ref>.
         </p>
-        <p>
-          ¶ Pre<lb ed="#P" break="no"/>terea
+        <p xml:id="lca8s8-d1e368-d1e266">
+          ¶ Pre<lb ed="#P" break="no" n="24"/>terea
           cum pagani impediunt ne volentes
-          <lb ed="#P"/>suscipere christianam fidem illam sus<lb ed="#P" break="no"/>cipiant:
+          <lb ed="#P" n="25"/>suscipere christianam fidem illam sus<lb ed="#P" break="no" n="26"/>cipiant:
           magnam injuriam inferunt
-          <lb ed="#P"/>catholicae ecclesiae, quod patet sic primo.
-          <lb ed="#P"/>Voluntas enim suscipiendi christia<lb ed="#P" break="no"/>nam
-          fidem quemadmodum in caeteris vir<lb ed="#P" break="no"/>tutum
-          operibus justa est: nemini preju<lb ed="#P" break="no"/>dicium
-          aliquod generans: neque enim prin<lb ed="#P" break="no"/>cipes
-          pagani si recipiant verbum dei: reg<lb ed="#P" break="no"/>na
+          <lb ed="#P" n="27"/>catholicae ecclesiae, quod patet sic primo.
+          <lb ed="#P" n="28"/>Voluntas enim suscipiendi christia<lb ed="#P" break="no" n="29"/>nam
+          fidem quemadmodum in caeteris vir<lb ed="#P" break="no" n="30"/>tutum
+          operibus justa est: nemini preju<lb ed="#P" break="no" n="31"/>dicium
+          aliquod generans: neque enim prin<lb ed="#P" break="no" n="32"/>cipes
+          pagani si recipiant verbum dei: reg<lb ed="#P" break="no" n="33"/>na
           vel ditionem suam amittunt: immo vero
           <pb ed="#P" n="114-r"/>
-          <lb ed="#P"/>illorum possessio firmior redditur et magis
-          <lb ed="#P"/>legitima confirmatur: vrbesque veritatis no<lb ed="#P" break="no"/>titia,
-          et bonis moribus instructae: floren<lb ed="#P" break="no"/>tissimae
-          reddentur, robore sanctorum sacra<lb ed="#P" break="no"/>mentorum
-          quae ibi exercentur. Ideo punien<lb ed="#P" break="no"/>tes
-          vel prohibentes huius voluntatis execu<lb ed="#P" break="no"/>tionem
-          ecclesiae christianae atque ipsis volen<lb ed="#P" break="no"/>tibus
+          <lb ed="#P" n="1"/>illorum possessio firmior redditur et magis
+          <lb ed="#P" n="2"/>legitima confirmatur: vrbesque veritatis no<lb ed="#P" break="no" n="3"/>titia,
+          et bonis moribus instructae: floren<lb ed="#P" break="no" n="4"/>tissimae
+          reddentur, robore sanctorum sacra<lb ed="#P" break="no" n="5"/>mentorum
+          quae ibi exercentur. Ideo punien<lb ed="#P" break="no" n="6"/>tes
+          vel prohibentes huius voluntatis execu<lb ed="#P" break="no" n="7"/>tionem
+          ecclesiae christianae atque ipsis volen<lb ed="#P" break="no" n="8"/>tibus
           injuriam inferunt contra naturalem
-          <lb ed="#P"/>justitiam. Ergo ecclesia illos punire potest.
+          <lb ed="#P" n="9"/>justitiam. Ergo ecclesia illos punire potest.
         </p>
-        <p>
-          Secundo probatur quoniam papae comissa est<lb ed="#P" break="no"/>
+        <p xml:id="lca8s8-d1e368-d1e312">
+          Secundo probatur quoniam papae comissa est<lb ed="#P" break="no" n="10"/>
           diuinitus cura totius orbis quem tam fide
-          <lb ed="#P"/>les quam infideles incolunt: eta docet <ref><name>Chrysos<lb ed="#P" break="no"/>tomus</name>
-          super joanem homilia 87</ref>. <quote>Nam
-          <lb ed="#P"/>cum magna christus petro comunicasset:
-          <lb ed="#P"/>orbis terrarum curam demandasset</quote>. Haec ille.
+          <lb ed="#P" n="11"/>les quam infideles incolunt: eta docet <ref xml:id="lca8s8-d1e368-Rd1e318"><name xml:id="lca8s8-d1e368-Nd1e319">Chrysos<lb ed="#P" break="no" n="12"/>tomus</name>
+          super joanem homilia 87</ref>. <quote xml:id="lca8s8-d1e368-Qd1e325">Nam
+          <lb ed="#P" n="13"/>cum magna christus petro comunicasset:
+          <lb ed="#P" n="14"/>orbis terrarum curam demandasset</quote>. Haec ille.
         </p>
-        <p>
-          Et <ref><name>sanctus Bernardus</name> lib. 2. de consi<lb ed="#P" break="no"/>dera.
-            ad papam Eugenium</ref>. <quote>Stat ergo
-          <lb ed="#P"/>inconcussum priuilegium tuum tibi: tam
-          <lb ed="#P"/>in datis clauibus: quam in ouibus comendatis.
-          <lb ed="#P"/>Accipe aliquid quod nihilo minus preroga<lb ed="#P" break="no"/>tiuam
-          confirmat tibi: discipuli nauiga<lb ed="#P" break="no"/>bant:
+        <p xml:id="lca8s8-d1e368-d1e333">
+          Et <ref xml:id="lca8s8-d1e368-Rd1e335"><name xml:id="lca8s8-d1e368-Nd1e336">sanctus Bernardus</name> lib. 2. de consi<lb ed="#P" break="no" n="15"/>dera.
+            ad papam Eugenium</ref>. <quote xml:id="lca8s8-d1e368-Qd1e341">Stat ergo
+          <lb ed="#P" n="16"/>inconcussum priuilegium tuum tibi: tam
+          <lb ed="#P" n="17"/>in datis clauibus: quam in ouibus comendatis.
+          <lb ed="#P" n="18"/>Accipe aliquid quod nihilo minus preroga<lb ed="#P" break="no" n="19"/>tiuam
+          confirmat tibi: discipuli nauiga<lb ed="#P" break="no" n="20"/>bant:
           et dominus apparebat in littore
-          <lb ed="#P"/>sciens petrus quia dominus est: in ma<lb ed="#P" break="no"/>re
-          se misit et sic venit ad ipsum alijs naui<lb ed="#P" break="no"/>gio
+          <lb ed="#P" n="21"/>sciens petrus quia dominus est: in ma<lb ed="#P" break="no" n="22"/>re
+          se misit et sic venit ad ipsum alijs naui<lb ed="#P" break="no" n="23"/>gio
           venientibus Joan. vlti. Quid istud
-          <lb ed="#P"/>nempe signum singularis potentiae et pon<lb ed="#P" break="no"/>tificij
+          <lb ed="#P" n="24"/>nempe signum singularis potentiae et pon<lb ed="#P" break="no" n="25"/>tificij
           Petri: per quod non nauem vnam
-          <lb ed="#P"/>vt caeteri quique suam sed seculum ipsum
-          <lb ed="#P"/>suscepit gubernandum</quote>. haec <name>Bernardus</name>.
+          <lb ed="#P" n="26"/>vt caeteri quique suam sed seculum ipsum
+          <lb ed="#P" n="27"/>suscepit gubernandum</quote>. haec <name xml:id="lca8s8-d1e368-Nd1e370">Bernardus</name>.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e373">
           Et
-          <lb ed="#P"/>sanctus <ref>Leo papa in sermone <choice><sic>3º</sic><corr>4º<note>Modern numbering from PL 54:149–50.</note></corr></choice></ref> suae ordina<lb ed="#P" break="no"/>tionis
+          <lb ed="#P" n="28"/>sanctus <ref xml:id="lca8s8-d1e368-Rd1e377">Leo papa in sermone <choice><sic>3º</sic><corr>4º<note>Modern numbering from PL 54:149–50.</note></corr></choice></ref> suae ordina<lb ed="#P" break="no" n="29"/>tionis
           exagerans excelentias Petri inquit:
-          <lb ed="#P"/><quote>Vnus petrus eligitur qui et vniuersarum
-          <lb ed="#P"/>gentium vocationi et omnibus apostolis cunctisque
+          <lb ed="#P" n="30"/><quote xml:id="lca8s8-d1e368-Qd1e388">Vnus petrus eligitur qui et vniuersarum
+          <lb ed="#P" n="31"/>gentium vocationi et omnibus apostolis cunctisque
           <pb ed="#P" n="114-v"/>
-          <lb ed="#P"/>ecclesiae partibus preponatur</quote>. haec ille.
+          <lb ed="#P" n="1"/>ecclesiae partibus preponatur</quote>. haec ille.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e398">
           Cum
-          <lb ed="#P"/>ergo totius orbis gentes petro et eius successo<lb ed="#P" break="no"/>ribus
+          <lb ed="#P" n="2"/>ergo totius orbis gentes petro et eius successo<lb ed="#P" break="no" n="3"/>ribus
           comissae sint, et sint subditae ecclesiae:
-          <lb ed="#P"/>aliae quidem actu; aliae habitu et potentia.
-          <lb ed="#P"/>Et cura pertrahendi ad agnitionem verita<lb ed="#P" break="no"/>tis
-          gentes pertineat ad Romanum ponti<lb ed="#P" break="no"/>ficem:
+          <lb ed="#P" n="4"/>aliae quidem actu; aliae habitu et potentia.
+          <lb ed="#P" n="5"/>Et cura pertrahendi ad agnitionem verita<lb ed="#P" break="no" n="6"/>tis
+          gentes pertineat ad Romanum ponti<lb ed="#P" break="no" n="7"/>ficem:
           manifestum est justum esse bellum
-          <lb ed="#P"/>quo ecclesia coercet infideles impedientes pro<lb ed="#P" break="no"/>pagationem
-          fidei et prohibentes ne quis chris<lb ed="#P" break="no"/>tianam
+          <lb ed="#P" n="8"/>quo ecclesia coercet infideles impedientes pro<lb ed="#P" break="no" n="9"/>pagationem
+          fidei et prohibentes ne quis chris<lb ed="#P" break="no" n="10"/>tianam
           religionem suscipiat.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e421">
           Hinc fit
-          <lb ed="#P"/>vt quiuis princeps paganus possit bello cogi
-          <lb ed="#P"/>Euangelium in sua ditione predicari. Non
-          <lb ed="#P"/>quidem ex peccato quod prohibendo predi<lb ed="#P" break="no"/>cationem
-          euangelij comittunt: quod cano<lb ed="#P" break="no"/>nistae
+          <lb ed="#P" n="11"/>vt quiuis princeps paganus possit bello cogi
+          <lb ed="#P" n="12"/>Euangelium in sua ditione predicari. Non
+          <lb ed="#P" n="13"/>quidem ex peccato quod prohibendo predi<lb ed="#P" break="no" n="14"/>cationem
+          euangelij comittunt: quod cano<lb ed="#P" break="no" n="15"/>nistae
           asserunt: neque enim ecclesia punit
-          <lb ed="#P"/>eorum peccata vt supra jam planum est:
-          <lb ed="#P"/>sed quoniam maliciose absque legitima cau<lb ed="#P" break="no"/>sa
-          quod diximus de per se: impediunt dila<lb ed="#P" break="no"/>tationem
-          Euangelicae veritatis quam chris<lb ed="#P" break="no"/>tus
+          <lb ed="#P" n="16"/>eorum peccata vt supra jam planum est:
+          <lb ed="#P" n="17"/>sed quoniam maliciose absque legitima cau<lb ed="#P" break="no" n="18"/>sa
+          quod diximus de per se: impediunt dila<lb ed="#P" break="no" n="19"/>tationem
+          Euangelicae veritatis quam chris<lb ed="#P" break="no" n="20"/>tus
           omnibus gentibus anunciari jussit.
         </p>
-        <p>
-          <lb ed="#P"/>Impediunt etiam vtilitatem animarum qui
-          <lb ed="#P"/>audito verbo dei illud suscipient. Quare
-          <lb ed="#P"/>ecclesia ad quam cura gentium totius orbis
-          <lb ed="#P"/>pertinet quo ad anuntiationem veritatis:
-          <lb ed="#P"/>juste infert bellum prohibentibus ne euan<lb ed="#P" break="no"/>gelium
+        <p xml:id="lca8s8-d1e368-d1e445">
+          <lb ed="#P" n="21"/>Impediunt etiam vtilitatem animarum qui
+          <lb ed="#P" n="22"/>audito verbo dei illud suscipient. Quare
+          <lb ed="#P" n="23"/>ecclesia ad quam cura gentium totius orbis
+          <lb ed="#P" n="24"/>pertinet quo ad anuntiationem veritatis:
+          <lb ed="#P" n="25"/>juste infert bellum prohibentibus ne euan<lb ed="#P" break="no" n="26"/>gelium
           in sua ditione predicetur.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e461">
           Et ita
-          <lb ed="#P"/>intelligenda sunt quae doctores de hac re
-          <lb ed="#P"/>scribunt, presertim <ref><name>Cajetanus</name>. 2 2. q. 10.
-          <lb ed="#P"/>ar. 8</ref> vbi asserit ecclesiam juste posse infer<lb ed="#P" break="no"/>re
-          bellum infidelibus occidentibus praedi<lb ed="#P" break="no"/>catores:
-          vetantes enim predicationem euan<lb ed="#P" break="no"/>gelij
-          aduersantur etiam dilatationi et pro<lb ed="#P" break="no"/>pagationi
+          <lb ed="#P" n="27"/>intelligenda sunt quae doctores de hac re
+          <lb ed="#P" n="28"/>scribunt, presertim <ref xml:id="lca8s8-d1e368-Rd1e467"><name xml:id="lca8s8-d1e368-Nd1e468">Cajetanus</name>. 2 2. q. 10.
+          <lb ed="#P" n="29"/>ar. 8</ref> vbi asserit ecclesiam juste posse infer<lb ed="#P" break="no" n="30"/>re
+          bellum infidelibus occidentibus praedi<lb ed="#P" break="no" n="31"/>catores:
+          vetantes enim predicationem euan<lb ed="#P" break="no" n="32"/>gelij
+          aduersantur etiam dilatationi et pro<lb ed="#P" break="no" n="33"/>pagationi
           fidei.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e483">
           ¶ Meminisse autem oportet
           <pb ed="#P" n="115-r"/>
-          <lb ed="#P"/>hoc verum esse quando pagani scientes
-          <lb ed="#P"/>quid eis predicetur occidunt <add place="above-line" hand="B">predicatores</add> malitiose, et
-          <lb ed="#P"/>propter odium quod ad ipsam fidem semper
-          <lb ed="#P"/>gerunt <del rend="strikethrough" hand="B">predicatores</del>: huiusmodi pagani
-          <lb ed="#P"/>sunt Turcae et mauri qui christiana
-          <lb ed="#P"/>dogmata non ignorant. Si tamen non
-          <lb ed="#P"/>occiderent eos scienter et malitiose ac per
-          <lb ed="#P"/>se tamquam predicatores euangelij: sed odio
-          <lb ed="#P"/>christianae gentis a qua fortassis mag<lb ed="#P" break="no"/>nas
+          <lb ed="#P" n="1"/>hoc verum esse quando pagani scientes
+          <lb ed="#P" n="2"/>quid eis predicetur occidunt <add place="above-line" hand="B">predicatores</add> malitiose, et
+          <lb ed="#P" n="3"/>propter odium quod ad ipsam fidem semper
+          <lb ed="#P" n="4"/>gerunt <del rend="strikethrough" hand="B">predicatores</del>: huiusmodi pagani
+          <lb ed="#P" n="5"/>sunt Turcae et mauri qui christiana
+          <lb ed="#P" n="6"/>dogmata non ignorant. Si tamen non
+          <lb ed="#P" n="7"/>occiderent eos scienter et malitiose ac per
+          <lb ed="#P" n="8"/>se tamquam predicatores euangelij: sed odio
+          <lb ed="#P" n="9"/>christianae gentis a qua fortassis mag<lb ed="#P" break="no" n="10"/>nas
           injurias immani et effera violentia
-          <lb ed="#P"/>accepissent: quemadmodum Indi aliquos
-          <lb ed="#P"/>jnnocentes predicatores occiderunt: non
-          <lb ed="#P"/>quidem quia predicatores erant: sed
-          <lb ed="#P"/>quia ex hyspanica gente sibi et suis vni<lb ed="#P" break="no"/>uersisque
+          <lb ed="#P" n="11"/>accepissent: quemadmodum Indi aliquos
+          <lb ed="#P" n="12"/>jnnocentes predicatores occiderunt: non
+          <lb ed="#P" n="13"/>quidem quia predicatores erant: sed
+          <lb ed="#P" n="14"/>quia ex hyspanica gente sibi et suis vni<lb ed="#P" break="no" n="15"/>uersisque
           indianis nationibus <add place="above-line" hand="B">damna susceperunt</add> <del rend="strikethrough" hand="B">exitiali
-          <lb ed="#P"/>quam omnium gentium eferentissimam
-          <lb ed="#P"/>et truculentam seaitia barbaram et
-          <lb ed="#P"/>immanem optimo iure iudicant: cum
-          <lb ed="#P"/>ab eis tot saeua eta seculis</del> <add place="above line" hand="B">et a seculis</add> in audita in<lb ed="#P" break="no"/>comoda,
+          <lb ed="#P" n="16"/>quam omnium gentium eferentissimam
+          <lb ed="#P" n="17"/>et truculentam seaitia barbaram et
+          <lb ed="#P" n="18"/>immanem optimo iure iudicant: cum
+          <lb ed="#P" n="19"/>ab eis tot saeua eta seculis</del> <add place="above line" hand="B">et a seculis</add> in audita in<lb ed="#P" break="no" n="20"/>comoda,
           <del rend="strikethrough" hand="B">acceperint</del>: euastatis non modo
-          <lb ed="#P"/>vrbibus: verum et regnis et maximis regio<lb ed="#P" break="no"/>nibus.
+          <lb ed="#P" n="21"/>vrbibus: verum et regnis et maximis regio<lb ed="#P" break="no" n="22"/>nibus.
         </p>
-        <p>
-          Trucidataque mortalium innume<lb ed="#P" break="no"/>ra
-          et non cogitata multitudine. Spolia<lb ed="#P" break="no"/>tis
-          regibus et principibus magnis princi<lb ed="#P" break="no"/>patibus
+        <p xml:id="lca8s8-d1e368-d1e554">
+          Trucidataque mortalium innume<lb ed="#P" break="no" n="23"/>ra
+          et non cogitata multitudine. Spolia<lb ed="#P" break="no" n="24"/>tis
+          regibus et principibus magnis princi<lb ed="#P" break="no" n="25"/>patibus
           / dominijs / et regalibus honoribus:
-          <lb ed="#P"/>abductis in seruitutem populis. Tales
-          <lb ed="#P"/>ergo non recipiendo predicatores vel etiam
-          <lb ed="#P"/>eos crudeliter occidendo: non impediunt
-          <lb ed="#P"/>euangelij predicationem de per se: sed ac<lb ed="#P" break="no"/>cidentaliter
+          <lb ed="#P" n="26"/>abductis in seruitutem populis. Tales
+          <lb ed="#P" n="27"/>ergo non recipiendo predicatores vel etiam
+          <lb ed="#P" n="28"/>eos crudeliter occidendo: non impediunt
+          <lb ed="#P" n="29"/>euangelij predicationem de per se: sed ac<lb ed="#P" break="no" n="30"/>cidentaliter
           et preter intentionem, et causa
-          <lb ed="#P"/>per accidens est extra regulas. Et judi<lb ed="#P" break="no"/>cium
+          <lb ed="#P" n="31"/>per accidens est extra regulas. Et judi<lb ed="#P" break="no" n="32"/>cium
           de rebus non est dandum secundum illud
           <pb ed="#P" n="115-v"/>
-          <lb ed="#P"/>quod est per accidens, sed de per se ex <ref>2º.
-          <lb ed="#P"/>Phisi.</ref> et <ref>4º Metaphysicae 9</ref>. Quod autem est preter
-          <lb ed="#P"/>intentionem <choice><sic>ponam</sic><corr>poenam</corr></choice> corporalem vel seue<lb ed="#P" break="no"/>ram
+          <lb ed="#P" n="1"/>quod est per accidens, sed de per se ex <ref xml:id="lca8s8-d1e368-Rd1e582">2º.
+          <lb ed="#P" n="2"/>Phisi.</ref> et <ref xml:id="lca8s8-d1e368-Rd1e587">4º Metaphysicae 9</ref>. Quod autem est preter
+          <lb ed="#P" n="3"/>intentionem <choice><sic>ponam</sic><corr>poenam</corr></choice> corporalem vel seue<lb ed="#P" break="no" n="4"/>ram
           non meretur.
         </p>
-        <p>
-          Ergo cum indi tot<lb ed="#P" break="no"/>
-          horrendis malis afflicti: videant predica<lb ed="#P" break="no"/>tores
-          homines eiusdem nationis et lo<lb ed="#P" break="no"/>quelae
-          esse: colore candido ac mento / <del rend="strikethrough" hand="B">bar<lb ed="#P" break="no"/>ba
+        <p xml:id="lca8s8-d1e368-d1e598">
+          Ergo cum indi tot<lb ed="#P" break="no" n="5"/>
+          horrendis malis afflicti: videant predica<lb ed="#P" break="no" n="6"/>tores
+          homines eiusdem nationis et lo<lb ed="#P" break="no" n="7"/>quelae
+          esse: colore candido ac mento / <del rend="strikethrough" hand="B">bar<lb ed="#P" break="no" n="8"/>ba
           conuestio</del> inimicis suis hyspanis
-          <lb ed="#P"/>intermixtos et cum eis perquam fami<lb ed="#P" break="no"/>liariter
+          <lb ed="#P" n="9"/>intermixtos et cum eis perquam fami<lb ed="#P" break="no" n="10"/>liariter
           tractantes: necessario ignorabunt:
-          <lb ed="#P"/>quinam sint serui dei? Ac rursus qui<lb ed="#P" break="no"/>nam
+          <lb ed="#P" n="11"/>quinam sint serui dei? Ac rursus qui<lb ed="#P" break="no" n="12"/>nam
           sint ministri et organa sathanae?
-          <lb ed="#P"/>Ignorabunt etiam quo tendant praedica<lb ed="#P" break="no"/>tores?
+          <lb ed="#P" n="13"/>Ignorabunt etiam quo tendant praedica<lb ed="#P" break="no" n="14"/>tores?
           Quo vero caeteri hyspani cum quibus
-          <lb ed="#P"/>justissime belligerantur? Quid volumus
-          <lb ed="#P"/>agere Indos?
+          <lb ed="#P" n="15"/>justissime belligerantur? Quid volumus
+          <lb ed="#P" n="16"/>agere Indos?
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e631">
           An vbi primum audierint
-          <lb ed="#P"/>predicatores monentes vt agnoscant ve<lb ed="#P" break="no"/>rum
-          deum testantes quam sese non esse de ill<lb ed="#P" break="no"/>orum
+          <lb ed="#P" n="17"/>predicatores monentes vt agnoscant ve<lb ed="#P" break="no" n="18"/>rum
+          deum testantes quam sese non esse de ill<lb ed="#P" break="no" n="19"/>orum
           turba, qui illis nocent: statim illis
-          <lb ed="#P"/>fidem adhibere debent qui: millies fide
-          <lb ed="#P"/>data ad hyspanica castra euocati a perfi<lb ed="#P" break="no"/>dis
+          <lb ed="#P" n="20"/>fidem adhibere debent qui: millies fide
+          <lb ed="#P" n="21"/>data ad hyspanica castra euocati a perfi<lb ed="#P" break="no" n="22"/>dis
           hominibus trucidati: leuitatis suae
-          <lb ed="#P"/>poenas dedere? An vsquam indus ab hyspano
-          <lb ed="#P"/>homine: beneficium accipit?
+          <lb ed="#P" n="23"/>poenas dedere? An vsquam indus ab hyspano
+          <lb ed="#P" n="24"/>homine: beneficium accipit?
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e651">
           Superat ergo
-          <lb ed="#P"/>omnem stuporem miseramque ignoran<lb ed="#P" break="no"/>tiam
-          sapit: afirmare indos bello impe<lb ed="#P" break="no"/>ti
-          posse: etiam si bis centum mille praedica<lb ed="#P" break="no"/>tores
-          occidant: et quamuis ipsum <name>Paulum apostolum</name> a
-          <lb ed="#P"/>ceteros christi discipulos e<lb ed="#P" break="no"/>uangelizantes
-          occiderent. Tale enim bel<lb ed="#P" break="no"/>lum
+          <lb ed="#P" n="25"/>omnem stuporem miseramque ignoran<lb ed="#P" break="no" n="26"/>tiam
+          sapit: afirmare indos bello impe<lb ed="#P" break="no" n="27"/>ti
+          posse: etiam si bis centum mille praedica<lb ed="#P" break="no" n="28"/>tores
+          occidant: et quamuis ipsum <name xml:id="lca8s8-d1e368-Nd1e661">Paulum apostolum</name> a
+          <lb ed="#P" n="29"/>ceteros christi discipulos e<lb ed="#P" break="no" n="30"/>uangelizantes
+          occiderent. Tale enim bel<lb ed="#P" break="no" n="31"/>lum
           efferam barbariem: et plusquam Scitharum
-          <lb ed="#P"/>immanitatem saperet: bellumque diaboli
+          <lb ed="#P" n="32"/>immanitatem saperet: bellumque diaboli
           <pb ed="#P" n="116-r"/>
-          <lb ed="#P"/>cum esset appellandum potiusquam chris<lb ed="#P" break="no"/>tianum.
+          <lb ed="#P" n="1"/>cum esset appellandum potiusquam chris<lb ed="#P" break="no" n="2"/>tianum.
           Indique belligerantes aduersus
-          <lb ed="#P"/>hyspanos ita rem gerentes: exquisitissi<lb ed="#P" break="no"/>mis
+          <lb ed="#P" n="3"/>hyspanos ita rem gerentes: exquisitissi<lb ed="#P" break="no" n="4"/>mis
           laudibus a prudentibus quibusquam
-          <lb ed="#P"/>philosophis ornandi essent.
+          <lb ed="#P" n="5"/>philosophis ornandi essent.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e686">
           <add place="margin-left" hand="F">nota</add>
           Quinimo illud
-          <lb ed="#P"/>affirmare ausim non statim juste immo
-          <lb ed="#P"/>injuste posse inferri bellum indis prin<lb ed="#P" break="no"/>cipibus:
+          <lb ed="#P" n="6"/>affirmare ausim non statim juste immo
+          <lb ed="#P" n="7"/>injuste posse inferri bellum indis prin<lb ed="#P" break="no" n="8"/>cipibus:
           si metuentes <unclear reason="inkspot">pro</unclear> rebus suis nollint
-          <lb ed="#P"/>recipere predicatores: ferocibus a barbaris
-          <lb ed="#P"/>hominibus comitatos, etiam in terris aut
-          <lb ed="#P"/>prouincijs vbi cognita nondum esset chris<lb ed="#P" break="no"/>tianorum
-          seua <seg type="correction" hand="B">tyrani<subst><del rend="strikethrough">de</del><add place="above-line">s</add></subst></seg>: Neque enim te<lb ed="#P" break="no"/>mere
+          <lb ed="#P" n="9"/>recipere predicatores: ferocibus a barbaris
+          <lb ed="#P" n="10"/>hominibus comitatos, etiam in terris aut
+          <lb ed="#P" n="11"/>prouincijs vbi cognita nondum esset chris<lb ed="#P" break="no" n="12"/>tianorum
+          seua <seg type="correction" hand="B">tyrani<subst><del rend="strikethrough">de</del><add place="above-line">s</add></subst></seg>: Neque enim te<lb ed="#P" break="no" n="13"/>mere
           metuet incolumitati regni sui: si
-          <lb ed="#P"/>recipiat exteram gentem, vel ipso tantum
-          <lb ed="#P"/>vultu formidandam. Tenetur enim qui<lb ed="#P" break="no"/>uis
-          princeps incolumitati regni sui pros<lb ed="#P" break="no"/>picere
+          <lb ed="#P" n="14"/>recipiat exteram gentem, vel ipso tantum
+          <lb ed="#P" n="15"/>vultu formidandam. Tenetur enim qui<lb ed="#P" break="no" n="16"/>uis
+          princeps incolumitati regni sui pros<lb ed="#P" break="no" n="17"/>picere
           vt alibi plenius docui.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e729">
           Desinite
-          <lb ed="#P"/>ergo christiani his <del rend="strikethrough" hand="B">l</del> fucis vobis blandi<lb ed="#P" break="no"/>ri:
-          nolite innocentissimae gentis profuso san<lb ed="#P" break="no"/>guine,
+          <lb ed="#P" n="18"/>ergo christiani his <del rend="strikethrough" hand="B">l</del> fucis vobis blandi<lb ed="#P" break="no" n="19"/>ri:
+          nolite innocentissimae gentis profuso san<lb ed="#P" break="no" n="20"/>guine,
           inexplebilem cupiditatem vestram
-          <lb ed="#P"/>diabolico spiritu sociare. Taceant qui stul<lb ed="#P" break="no"/>ta
-          eruditione turgidi animos addunt ty<lb ed="#P" break="no"/>rannis,
-          vt oues innocentissimas persequan<lb ed="#P" break="no"/>tur:
-          obijcientes quod occidunt fidei praedica<lb ed="#P" break="no"/>tores,
+          <lb ed="#P" n="21"/>diabolico spiritu sociare. Taceant qui stul<lb ed="#P" break="no" n="22"/>ta
+          eruditione turgidi animos addunt ty<lb ed="#P" break="no" n="23"/>rannis,
+          vt oues innocentissimas persequan<lb ed="#P" break="no" n="24"/>tur:
+          obijcientes quod occidunt fidei praedica<lb ed="#P" break="no" n="25"/>tores,
           quia verum non est formaliter: sed
-          <lb ed="#P"/>potius ipsi qui causam dant eos occidunt.
+          <lb ed="#P" n="26"/>potius ipsi qui causam dant eos occidunt.
         </p>
-        <p>
-         <lb ed="#P"/>Neque enim illi agnoscunt quid sit euan<lb ed="#P" break="no"/>gelium:
+        <p xml:id="lca8s8-d1e368-d1e754">
+         <lb ed="#P" n="27"/>Neque enim illi agnoscunt quid sit euan<lb ed="#P" break="no" n="28"/>gelium:
          quid sit predicator: occidunt quam<!--quam not in c.e.-->
-         <lb ed="#P"/>illos non vt predicatores: sed vt homines
-         <lb ed="#P"/>hyspanos ceteris eiusdem gentis seuis ho<lb ed="#P" break="no"/>minibus
-         hostibus suis intermixtos: coro<lb ed="#P" break="no"/>nabuntur
-         nimirum a christo viri religiosis<pb ed="#P" n="116-v"/><lb ed="#P" break="no"/>simi:
+         <lb ed="#P" n="29"/>illos non vt predicatores: sed vt homines
+         <lb ed="#P" n="30"/>hyspanos ceteris eiusdem gentis seuis ho<lb ed="#P" break="no" n="31"/>minibus
+         hostibus suis intermixtos: coro<lb ed="#P" break="no" n="32"/>nabuntur
+         nimirum a christo viri religiosis<pb ed="#P" n="116-v"/><lb ed="#P" break="no" n="1"/>simi:
          illos autem dicentur occidisse hyspani
-         <lb ed="#P"/>ipsi suis facinoribus, infamantes euan<lb ed="#P" break="no"/>gelium
+         <lb ed="#P" n="2"/>ipsi suis facinoribus, infamantes euan<lb ed="#P" break="no" n="3"/>gelium
          et impedientes propagationem
-         <lb ed="#P"/>fidei. Indi vero apud sumum Judicem
-         <lb ed="#P"/>meo judicio nullo modo rei sunt: quoni<lb ed="#P" break="no"/>am
+         <lb ed="#P" n="4"/>fidei. Indi vero apud sumum Judicem
+         <lb ed="#P" n="5"/>meo judicio nullo modo rei sunt: quoni<lb ed="#P" break="no" n="6"/>am
          ignorantes et tot (scilicet) exagitati
-         <lb ed="#P"/>malis ad id facinus descendunt.
+         <lb ed="#P" n="7"/>malis ad id facinus descendunt.
         </p>
-        <p>
-          ¶ Ad<lb ed="#P" break="no"/>uertendum
+        <p xml:id="lca8s8-d1e368-d1e788">
+          ¶ Ad<lb ed="#P" break="no" n="8"/>uertendum
           etiam bellum tunc hac de
-          <lb ed="#P"/>causa forte justum esse aduersus infi<lb ed="#P" break="no"/>deles:
-          cum soli principes vel reges mali<lb ed="#P" break="no"/>ciose
-          impediunt propagationem vel pre<lb ed="#P" break="no"/>dicationem
-          euangelij: si tamen tam prin<lb ed="#P" break="no"/>cipes
-          quam populus vniuersus precise ob amo<lb ed="#P" break="no"/>rem
+          <lb ed="#P" n="9"/>causa forte justum esse aduersus infi<lb ed="#P" break="no" n="10"/>deles:
+          cum soli principes vel reges mali<lb ed="#P" break="no" n="11"/>ciose
+          impediunt propagationem vel pre<lb ed="#P" break="no" n="12"/>dicationem
+          euangelij: si tamen tam prin<lb ed="#P" break="no" n="13"/>cipes
+          quam populus vniuersus precise ob amo<lb ed="#P" break="no" n="14"/>rem
           et deuotionem religionis suae nolit
-          <lb ed="#P"/>audire, neque admittere predicatores <del rend="strikethrough" hand="B">chris<lb ed="#P" break="no"/>tares</del>
-          christianos: <del rend="strikethrough" hand="B">et</del> tunc nullo modo bel<lb ed="#P" break="no"/>lo
+          <lb ed="#P" n="15"/>audire, neque admittere predicatores <del rend="strikethrough" hand="B">chris<lb ed="#P" break="no" n="16"/>tares</del>
+          christianos: <del rend="strikethrough" hand="B">et</del> tunc nullo modo bel<lb ed="#P" break="no" n="17"/>lo
           cogi possunt illos admittere.
         </p>
-        <p>
-          Aduersan<lb ed="#P" break="no"/>tur
-          enim diuinis verbis. Christus <quote>enim
-          <lb ed="#P"/>euntes dixit: docete omnes gentes</quote> (scilicet)
-          <lb ed="#P"/>volentes audire: non vim inferte audi<lb ed="#P" break="no"/>re
+        <p xml:id="lca8s8-d1e368-d1e819">
+          Aduersan<lb ed="#P" break="no" n="18"/>tur
+          enim diuinis verbis. Christus <quote xml:id="lca8s8-d1e368-Qd1e823">enim
+          <lb ed="#P" n="19"/>euntes dixit: docete omnes gentes</quote> (scilicet)
+          <lb ed="#P" n="20"/>volentes audire: non vim inferte audi<lb ed="#P" break="no" n="21"/>re
           nolentibus. nullum inuenies dictum
-          <lb ed="#P"/>vel in sacris scripturis vel a sanctis docto<lb ed="#P" break="no"/>ribus
-          prolatum: nullam adduces ratio<lb ed="#P" break="no"/>nem:
-          quibus fulti absque reprehensione in<lb ed="#P" break="no"/>fideles
+          <lb ed="#P" n="22"/>vel in sacris scripturis vel a sanctis docto<lb ed="#P" break="no" n="23"/>ribus
+          prolatum: nullam adduces ratio<lb ed="#P" break="no" n="24"/>nem:
+          quibus fulti absque reprehensione in<lb ed="#P" break="no" n="25"/>fideles
           nolentes audire christi doctrinam
-          <lb ed="#P"/>compellere ad id valeamus. Vnde talia
-          <lb ed="#P"/>agentes offenderemus christum: cuius
-          <lb ed="#P"/>preciosae mortis fructus inutilis redderetur.
+          <lb ed="#P" n="26"/>compellere ad id valeamus. Vnde talia
+          <lb ed="#P" n="27"/>agentes offenderemus christum: cuius
+          <lb ed="#P" n="28"/>preciosae mortis fructus inutilis redderetur.
         </p>
-        <p>
-          <lb ed="#P"/>Nam cum infideles presertim, qui doc<lb ed="#P" break="no"/>trina
-          veritatis semper caruerunt, ad cul<lb ed="#P" break="no"/>turam
+        <p xml:id="lca8s8-d1e368-d1e848">
+          <lb ed="#P" n="29"/>Nam cum infideles presertim, qui doc<lb ed="#P" break="no" n="30"/>trina
+          veritatis semper caruerunt, ad cul<lb ed="#P" break="no" n="31"/>turam
           et amorem immo defensionem deorum
-          <lb ed="#P"/>suorum et ritus antiquae religionis aliqui<pb ed="#P" n="117-r"/><lb ed="#P" break="no"/>bus
+          <lb ed="#P" n="32"/>suorum et ritus antiquae religionis aliqui<pb ed="#P" n="117-r"/><lb ed="#P" break="no" n="1"/>bus
           probabilibus ducantur rationibus.
-          <lb ed="#P"/>Insuper vt consulant paci / libertati / et
-          <lb ed="#P"/>incolumitati totius status reipublicae suae pre<lb ed="#P" break="no"/>sentis
+          <lb ed="#P" n="2"/>Insuper vt consulant paci / libertati / et
+          <lb ed="#P" n="3"/>incolumitati totius status reipublicae suae pre<lb ed="#P" break="no" n="4"/>sentis
           et futuri nolint admittere exteras et
-          <lb ed="#P"/>incognitas gentes in regnis vel terris suis
-          <lb ed="#P"/>et sic nec recipere fidei predicatores, nec
-          <lb ed="#P"/>eorum audire doc<lb ed="#P" break="no"/>trinam:
-          etiam Zelo suae re<lb ed="#P" break="no"/>ligionis:
+          <lb ed="#P" n="5"/>incognitas gentes in regnis vel terris suis
+          <lb ed="#P" n="6"/>et sic nec recipere fidei predicatores, nec
+          <lb ed="#P" n="7"/>eorum audire doc<lb ed="#P" break="no" n="8"/>trinam:
+          etiam Zelo suae re<lb ed="#P" break="no" n="9"/>ligionis:
           si hac dumtaxat occasione bello
-          <lb ed="#P"/>quod malorum omnium occeanus quidem
-          <lb ed="#P"/>est impeterentur: quo tandem ipsis sub<lb ed="#P" break="no"/>actis
+          <lb ed="#P" n="10"/>quod malorum omnium occeanus quidem
+          <lb ed="#P" n="11"/>est impeterentur: quo tandem ipsis sub<lb ed="#P" break="no" n="12"/>actis
           et tot cedibus: tot irreparabilibusque
-          <lb ed="#P"/>incomodis: doloribus gemitibus <choice><sic>flectibus></sic><corr>fletibus</corr></choice>
-          <lb ed="#P"/>et amaritudinibus affectis.
+          <lb ed="#P" n="13"/>incomodis: doloribus gemitibus <choice><sic>flectibus&gt;</sic><corr>fletibus</corr></choice>
+          <lb ed="#P" n="14"/>et amaritudinibus affectis.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e895">
           Esto quod jam
-          <lb ed="#P"/>sic coacti audiant euangelium: quo ani<lb ed="#P" break="no"/>mo
-          quaeso euangelicam veritatem auscul<lb ed="#P" break="no"/>tabunt?
+          <lb ed="#P" n="15"/>sic coacti audiant euangelium: quo ani<lb ed="#P" break="no" n="16"/>mo
+          quaeso euangelicam veritatem auscul<lb ed="#P" break="no" n="17"/>tabunt?
           quo pacto eam intelligent? qua
-          <lb ed="#P"/>voluntate illam amabunt? quomodo chris<lb ed="#P" break="no"/>tianae
-          lenitatis et veritatis documentis fi<lb ed="#P" break="no"/>dem
+          <lb ed="#P" n="18"/>voluntate illam amabunt? quomodo chris<lb ed="#P" break="no" n="19"/>tianae
+          lenitatis et veritatis documentis fi<lb ed="#P" break="no" n="20"/>dem
           adhibebunt.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e911">
           <add place="margin-right" hand="F">notandum nullo
             modo decet ut predicatores
             simul cum milite armato
             vadant ad enangelizandum</add>
           ¶ Quinimo audenter
-          <lb ed="#P"/>loquor et me non piget ista depromere,
-          <lb ed="#P"/>quod si praedicatores armorum strepitu comi<lb ed="#P" break="no"/>tati
-          euangelium alicui genti anuncia<lb ed="#P" break="no"/>rent:
-          eo ipso indignos esse vt ipsorum ver<lb ed="#P" break="no"/>bis
+          <lb ed="#P" n="21"/>loquor et me non piget ista depromere,
+          <lb ed="#P" n="22"/>quod si praedicatores armorum strepitu comi<lb ed="#P" break="no" n="23"/>tati
+          euangelium alicui genti anuncia<lb ed="#P" break="no" n="24"/>rent:
+          eo ipso indignos esse vt ipsorum ver<lb ed="#P" break="no" n="25"/>bis
           fides habeatur. Quid enim euangelio
-          <lb ed="#P"/>cum bombardis? Quid euangelij anuntia<lb ed="#P" break="no"/>tori
+          <lb ed="#P" n="26"/>cum bombardis? Quid euangelij anuntia<lb ed="#P" break="no" n="27"/>tori
           cum armatis latronibus? Equidem
-          <lb ed="#P"/>talibus predicatoribus credentes: vanis<lb ed="#P" break="no"/>simi
-          et stultissimi essent potius quam pru<lb ed="#P" break="no"/>dentes:
-          et aspernantes illorum verba ex<lb ed="#P" break="no"/>cusari
+          <lb ed="#P" n="28"/>talibus predicatoribus credentes: vanis<lb ed="#P" break="no" n="29"/>simi
+          et stultissimi essent potius quam pru<lb ed="#P" break="no" n="30"/>dentes:
+          et aspernantes illorum verba ex<lb ed="#P" break="no" n="31"/>cusari
           aliquatenus possent apud deum.
-          <lb ed="#P"/>Neque enim apostolis vel ipsi christo re<lb ed="#P" break="no"/>demptori
-          nostro hoc modo euangelizanti fi<pb ed="#P" n="117-v"/><lb ed="#P" break="no"/>dem
+          <lb ed="#P" n="32"/>Neque enim apostolis vel ipsi christo re<lb ed="#P" break="no" n="33"/>demptori
+          nostro hoc modo euangelizanti fi<pb ed="#P" n="117-v"/><lb ed="#P" break="no" n="1"/>dem
           adhibere tenerentur.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e948">
           Astruebant
-          <lb ed="#P"/>miracula fidem verbis christi: et nisi chris<lb ed="#P" break="no"/>tus
-          miracula visibilia vel inuisibilia foe<lb ed="#P" break="no"/>cisset
+          <lb ed="#P" n="2"/>miracula fidem verbis christi: et nisi chris<lb ed="#P" break="no" n="3"/>tus
+          miracula visibilia vel inuisibilia foe<lb ed="#P" break="no" n="4"/>cisset
           homines non forent criminis rei
-          <lb ed="#P"/>quod illi non credidissent. Tenetur enim
-          <lb ed="#P"/>nemo ad hoc quod est supra vires suas: ni<lb ed="#P" break="no"/>si
+          <lb ed="#P" n="5"/>quod illi non credidissent. Tenetur enim
+          <lb ed="#P" n="6"/>nemo ad hoc quod est supra vires suas: ni<lb ed="#P" break="no" n="7"/>si
           per hunc modum quo fit sibi possibile.
-          <lb ed="#P"/>Credere autem est supra potentiam hominis
-          <lb ed="#P"/>naturalem. Vnde ex dono dei prouenit
-          <lb ed="#P"/>secundum illud <ref>apostoli ad Ephes. 2º</ref>. <quote>gratia sal<lb ed="#P" break="no"/>uati
+          <lb ed="#P" n="8"/>Credere autem est supra potentiam hominis
+          <lb ed="#P" n="9"/>naturalem. Vnde ex dono dei prouenit
+          <lb ed="#P" n="10"/>secundum illud <ref xml:id="lca8s8-d1e368-Rd1e969">apostoli ad Ephes. 2º</ref>. <quote xml:id="lca8s8-d1e368-Qd1e971">gratia sal<lb ed="#P" break="no" n="11"/>uati
           estis per fidem: et hoc non ex vobis.
-          <lb ed="#P"/>Dei enim donum est</quote>. Ex <ref>ad phil. 1</ref>. <quote>vo<lb ed="#P" break="no"/>bis
-          datum est non solum vt in ipsum cre<lb ed="#P" break="no"/>datis:
+          <lb ed="#P" n="12"/>Dei enim donum est</quote>. Ex <ref xml:id="lca8s8-d1e368-Rd1e979">ad phil. 1</ref>. <quote xml:id="lca8s8-d1e368-Qd1e981">vo<lb ed="#P" break="no" n="13"/>bis
+          datum est non solum vt in ipsum cre<lb ed="#P" break="no" n="14"/>datis:
           sed vt pro illo patiamini</quote>. Homo
-          <lb ed="#P"/>ergo tenetur credere secundum hoc quod juuatur
-          <lb ed="#P"/>a deo ad credendum.
+          <lb ed="#P" n="15"/>ergo tenetur credere secundum hoc quod juuatur
+          <lb ed="#P" n="16"/>a deo ad credendum.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e993">
           Adiuuatur aliquis
-          <lb ed="#P"/>a deo ad credendum tripliciter: Vel arca<lb ed="#P" break="no"/>no
+          <lb ed="#P" n="17"/>a deo ad credendum tripliciter: Vel arca<lb ed="#P" break="no" n="18"/>no
           afflatu: vel doctrina vel miraculis.
-          <lb ed="#P"/>Quae tria miracula Dei esse interpretamur.
-          <lb ed="#P"/>Quae si defoecissent, totus orbis excusatus
-          <lb ed="#P"/>foret sí non crederet. Ita docet <ref>seruator
-          <lb ed="#P"/>Joan. 15</ref>.<quote>si non venissem et locutus
-          <lb ed="#P"/>eis non fuissem peccatum non haberent</quote>
-          <lb ed="#P"/>(scilicet) infidelitatis secundum Augustinum.
-          <lb ed="#P"/>Item <ref>ibidem</ref>: <quote>si opera non foecissem in eis,
-          <lb ed="#P"/>quae nemo alius fecit peccatum non ha<lb ed="#P" break="no"/>berent</quote>.
+          <lb ed="#P" n="19"/>Quae tria miracula Dei esse interpretamur.
+          <lb ed="#P" n="20"/>Quae si defoecissent, totus orbis excusatus
+          <lb ed="#P" n="21"/>foret sí non crederet. Ita docet <ref xml:id="lca8s8-d1e368-Rd1e1006">seruator
+          <lb ed="#P" n="22"/>Joan. 15</ref>.<quote xml:id="lca8s8-d1e368-Qd1e1011">si non venissem et locutus
+          <lb ed="#P" n="23"/>eis non fuissem peccatum non haberent</quote>
+          <lb ed="#P" n="24"/>(scilicet) infidelitatis secundum Augustinum.
+          <lb ed="#P" n="25"/>Item <ref xml:id="lca8s8-d1e368-Rd1e1020">ibidem</ref>: <quote xml:id="lca8s8-d1e368-Qd1e1022">si opera non foecissem in eis,
+          <lb ed="#P" n="26"/>quae nemo alius fecit peccatum non ha<lb ed="#P" break="no" n="27"/>berent</quote>.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e368-d1e1031">
           <choice><sic>Si</sic><corr>Sic</corr></choice> dominus Deus preceperat Judaeis
-          <lb ed="#P"/>ne crederent cuiquam affirmanti se mitti a
-          <lb ed="#P"/>deo nisi vel signa faceret: vel futura pre<lb ed="#P" break="no"/>dicaret
-          in nomine domini. Ita legimus <ref>Deu<lb ed="#P" break="no"/>tero.
-          8</ref>. Scribit de hoc <ref>s. Thom. in quodlib.
-          <lb ed="#P"/>2º. arº. 6</ref>. Et <ref>Abulensis super Matthe. c. 10</ref>.
+          <lb ed="#P" n="28"/>ne crederent cuiquam affirmanti se mitti a
+          <lb ed="#P" n="29"/>deo nisi vel signa faceret: vel futura pre<lb ed="#P" break="no" n="30"/>dicaret
+          in nomine domini. Ita legimus <ref xml:id="lca8s8-d1e368-Rd1e1043">Deu<lb ed="#P" break="no" n="31"/>tero.
+          8</ref>. Scribit de hoc <ref xml:id="lca8s8-d1e368-Rd1e1049">s. Thom. in quodlib.
+          <lb ed="#P" n="32"/>2º. arº. 6</ref>. Et <ref xml:id="lca8s8-d1e368-Rd1e1054">Abulensis super Matthe. c. 10</ref>.
           <pb ed="#P" n="118-r"/>
-          <lb ed="#P"/>q. 21.
+          <lb ed="#P" n="1"/>q. 21.
         </p>
-        <p>
-          ¶ Cum igitur armatorum exerci<lb ed="#P" break="no"/>tus
-          precipue inopinatus cunctis homini<lb ed="#P" break="no"/>bus
-          prima fronte: suapte natura sit for<lb ed="#P" break="no"/>midabilis:
+        <p xml:id="lca8s8-d1e368-d1e1061">
+          ¶ Cum igitur armatorum exerci<lb ed="#P" break="no" n="2"/>tus
+          precipue inopinatus cunctis homini<lb ed="#P" break="no" n="3"/>bus
+          prima fronte: suapte natura sit for<lb ed="#P" break="no" n="4"/>midabilis:
           etiamsi ad actus bellicos quos
-          <lb ed="#P"/>patrare consueuerunt satellites manus non
-          <lb ed="#P"/>extendant videlicet: trucidando / spolian<lb ed="#P" break="no"/>do
+          <lb ed="#P" n="5"/>patrare consueuerunt satellites manus non
+          <lb ed="#P" n="6"/>extendant videlicet: trucidando / spolian<lb ed="#P" break="no" n="7"/>do
           / rapiendo et exercendo alia saeua: tantumque
-          <lb ed="#P"/>abhorreat a naturali ratione / a pace / tran<lb ed="#P" break="no"/>quillitate:
-          ab humilitate, a christiana leni<lb ed="#P" break="no"/>tate
+          <lb ed="#P" n="8"/>abhorreat a naturali ratione / a pace / tran<lb ed="#P" break="no" n="9"/>quillitate:
+          ab humilitate, a christiana leni<lb ed="#P" break="no" n="10"/>tate
           / mansuetudine: a doctrina et miraculis
-          <lb ed="#P"/>christi: sequitur si apostoli comitati exer<lb ed="#P" break="no"/>citu
+          <lb ed="#P" n="11"/>christi: sequitur si apostoli comitati exer<lb ed="#P" break="no" n="12"/>citu
           armatorum iuissent, vt terrore gentes
-          <lb ed="#P"/>compellerent ad audiendum euangelium:
-          <lb ed="#P"/>potissimum si actus bellicos exercerent: im<lb ed="#P" break="no"/>mo
+          <lb ed="#P" n="13"/>compellerent ad audiendum euangelium:
+          <lb ed="#P" n="14"/>potissimum si actus bellicos exercerent: im<lb ed="#P" break="no" n="15"/>mo
           si christus ipsemet taliter sociatus
-          <lb ed="#P"/>fuisset ad praedicandum: nisi miraculis
-          <lb ed="#P"/>vel interna inspiratione iuuasset audien<lb ed="#P" break="no"/>tes:
+          <lb ed="#P" n="16"/>fuisset ad praedicandum: nisi miraculis
+          <lb ed="#P" n="17"/>vel interna inspiratione iuuasset audien<lb ed="#P" break="no" n="18"/>tes:
           proculdubio eorum verba fide carerent:
-          <lb ed="#P"/>nec tenerentur infideles doctrinae illorum
-          <lb ed="#P"/>credere: sed potius bellum justissimum ve<lb ed="#P" break="no"/>luti
-          contra publicos hostes merito mo<lb ed="#P" break="no"/>uissent.
+          <lb ed="#P" n="19"/>nec tenerentur infideles doctrinae illorum
+          <lb ed="#P" n="20"/>credere: sed potius bellum justissimum ve<lb ed="#P" break="no" n="21"/>luti
+          contra publicos hostes merito mo<lb ed="#P" break="no" n="22"/>uissent.
         </p>
-        <p>
-          Omnia haec manifesta sunt ex<lb ed="#P" break="no"/>
-          doctrina christi, et ex ipsa naturali ra<lb ed="#P" break="no"/>tione:
+        <p xml:id="lca8s8-d1e368-d1e1109">
+          Omnia haec manifesta sunt ex<lb ed="#P" break="no" n="23"/>
+          doctrina christi, et ex ipsa naturali ra<lb ed="#P" break="no" n="24"/>tione:
           apparent non minus ex quampluribus
-          <lb ed="#P"/>supra demonstratis veritatibus.
+          <lb ed="#P" n="25"/>supra demonstratis veritatibus.
         </p>
 	    </div>
     </body>
   </text>
 </TEI>
-

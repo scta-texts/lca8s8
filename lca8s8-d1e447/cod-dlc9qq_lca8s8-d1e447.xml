@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 31 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 31 [Bnf 12926 Transcription]</title>
+          <date when="2025-05-03">May 03, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="138-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e447">
+        <head>Caput 31 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="#P" n="23"/>CAPut 31m.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Vt autem principes et gubernatores rei<lb ed="#P" break="no"/>publicae
+          accuratius huiusmodi causas expen<lb ed="#P" break="no"/>dant:
+          Probabo etiam alijs argumentis non
+          <lb ed="#P"/>licere occidere vel damnum inferre pluri<lb ed="#P" break="no"/>bus
+          immo nec paucis innocentibus: vt pau<lb ed="#P" break="no"/>ci
+          innocentes a morte liberentur: et quod
+          <pb ed="#P" n="139-v"/>
+          <lb ed="#P"/>princeps vel gubernator aliud faciens vel
+          <lb ed="#P"/>permittens, peccat mortaliter et ad resti<lb ed="#P" break="no"/>tutionem
+          tenetur. Quod probatur primo
+          <lb ed="#P"/>de peccato quoniam in tali casu est per se
+          <lb ed="#P"/>occidere innocentem. Ergo est peccatum mor<lb ed="#P" break="no"/>tale:
+          hic autem occiduntur vel damno affi<lb ed="#P" break="no"/>ciuntur
+          plures nihil tale meriti vt appa<lb ed="#P" break="no"/>ret
+          ex dictis. Ergo peccat mortaliter talis
+          <lb ed="#P"/>princeps.
+        </p>
+        <p>
+          Secundo quoniam hoc opus
+          <lb ed="#P"/>est impium et ingratum oculis dei: haud
+          <lb ed="#P"/>aliter quam sacrificium <name>Cayn</name> aut votum<name>Gep<lb ed="#P" break="no"/>te</name>
+          qui filiam suam immolauit <ref>Judic. 11</ref>.
+          <lb ed="#P"/>quem <ref><!--Quaestionum in Heptateuchum, lib. 7, In Iudices, 11, a. 49: PL 34, pp. 810-822--><name>Augustinus</name></ref> saeue et crudeliter foe<lb ed="#P" break="no"/>cisse
+          affirmat. Simile fecit <name>Agamemnon</name>
+          <lb ed="#P"/>qui <name>Ephigeniam</name> filiam <name>Dianae</name> ex voto
+          <lb ed="#P"/>immolauit, cuius factum refert et repre<lb ed="#P" break="no"/>hendit
+          <ref><!--Officiorum, liber 3, c. 25: vol. 2, fol. 47v--><name>Tullius</name> <title>officiorum</title> lib. 3</ref>.
+        </p>
+        <p>
+          Tertio ta<lb ed="#P" break="no"/>le
+          opus iniquum et indiscretum est quod
+          <lb ed="#P"/>offertur Deo carens debitis circunstantijs
+          <lb ed="#P"/>loco tempore et rebus quae Deo gratae non
+          <lb ed="#P"/>sunt. Neque enim gaudet Deus dolore
+          <lb ed="#P"/>innocentium et innoxiorum: quos occidere
+          <lb ed="#P"/>maius peccatum est quam quod committunt
+          <lb ed="#P"/>pagani immolando innocentes. Hi enim
+          <lb ed="#P"/>ignorantia probabili (ut infra dicam)
+          <lb ed="#P"/>triginta vel centum aut mille quotanis
+          <lb ed="#P"/>immolant: illi vero scilicet milites: hac
+          <lb ed="#P"/>de causa belligerantes vno die trucidant
+          <lb ed="#P"/>decem millia <seg>innocent<choice><corr>i</corr></choice>um</seg> magna cum
+          <lb ed="#P"/>
+            <seg type="correction">anima<subst hand="B"><del rend="strikethrough">e</del><add place="above-line">rum</add></subst></seg>
+            <seg type="correction">sua<subst hand="B"><del rend="strikethrough">e</del><add place="above-line">rum</add></subst></seg>
+            jactura. Cum enim Christi
+          <pb ed="#P" n="140-r"/>
+          <lb ed="#P"/>doctrina sint instituti: ignorare non debent
+          <lb ed="#P"/>innocentibus parcendum esse: vnde non di<lb ed="#P" break="no"/>uidunt
+          recte sicut <ref>supra dixit <name>Augusti<lb ed="#P" break="no"/>nus</name>
+          de <name>Cayn</name></ref>. Ideo grauissimi criminis
+          <lb ed="#P"/>rei sunt coram Deo aeterna damnatione dig<lb ed="#P" break="no"/>ni.
+        </p>
+        <p>
+          ¶ Quod vero attinet ad restitutionem
+          <lb ed="#P"/><seg>com<choice><reg>m</reg></choice>unis</seg>
+            <seg>doctor<choice><sic>is</sic><corr>um</corr></choice></seg>
+            sententia est: quod preda
+          <lb ed="#P"/>rapta ab innocentibus qui belli culpam
+          <lb ed="#P"/>nullam habent: est necessario restituenda.
+          <lb ed="#P"/>Rationem reddit <ref><name>S. Thomas</name> 2a 2ae q. 40.
+          <lb ed="#P"/>arº. 1º.</ref> scilicet quod bellum licitum est ex
+          <lb ed="#P"/>culpa eorum quibus infertur. Innocentes
+          <lb ed="#P"/>autem et inculpati homines nihil tale me<lb ed="#P" break="no"/>ruerunt.
+          Ergo quo ad eos bellum licitum
+          <lb ed="#P"/>non fuit. Quod autem bello injusto rapitur
+          <lb ed="#P"/>restitui necessario debet.
+        </p>
+        <p>
+          De hoc etiam dis<lb ed="#P" break="no"/>serit
+          <ref><name>S. Thom.</name> 2a 2ae. q. 66. arº. 8 in
+          <lb ed="#P"/>corpore et ad 1m.</ref> et probatur in <ref>c. sicut
+          <lb ed="#P"/>in 3. de jure eius</ref>, et <ref>ex doctoribus ibi</ref>: et
+          <lb ed="#P"/>nominatim loquendo de innocentibus
+          <lb ed="#P"/>quibus non de per accidens damnum fit,
+          <lb ed="#P"/>vt in exemplo superius posito: docet <ref>Ray<lb ed="#P" break="no"/>mundus
+          in sua suma, titulo de bello §.
+          <lb ed="#P"/>17. et §. 19.</ref> his verbis: <quote>subditos qui nol<lb ed="#P" break="no"/>unt
+          suo domino in bello illicito impen<lb ed="#P" break="no"/>dere
+          consilium et auxilium vel fauorem:
+          <lb ed="#P"/>credo nullatenus esse spoliandos: vel <del rend="strikethrough" hand="A">in</del> ali<lb ed="#P" break="no"/>quo
+          modo puniendos. Pena enim suos de<lb ed="#P" break="no"/>bet
+          tenere autores: nec est vlterius protra<lb ed="#P" break="no"/>benda
+          quam delictum sit in excedente
+          <lb ed="#P"/>repertum <del rend="strikethrough" hand="A">est</del></quote> <ref>extrauagantes de his quae fiunt par.
+          <pb ed="#P" n="140-v"/>cap. c. quaesiuit</ref>. et. <ref>1. q. 4, c. 1</ref>.
+        </p>
+        <p>
+          Do<lb ed="#P" break="no"/>cet
+          etiam <ref><name>Vlricus</name> discipulus<name>Alberti mag<lb ed="#P" break="no"/>ni</name>
+            in suma sua lib. 6. tractatu .3º. c. 7º.</ref>
+          <lb ed="#P"/>et addit in <ref>c. 9.</ref> <quote>Tertia conditio, quod subditi
+          <lb ed="#P"/>non sunt ledendi etiam si dominus in
+          <lb ed="#P"/>bello injusto violenter rebus eorum ablatis
+          <lb ed="#P"/>vtitur in subsidium belli sui</quote>. haec ille. Do<lb ed="#P" break="no"/>cet
+          etiam <ref><name>Hostien.</name> in suma titulo de peni<lb ed="#P" break="no"/>ten.
+          et remisio. § quibus et qualiter et
+          <lb ed="#P"/>a quibus versi. c. quid de rapina.</ref> Ha<lb ed="#P" break="no"/>betur
+          etiam in <ref>suma confessorum lib. 2º.
+          <lb ed="#P"/>titulo 5º. quaestio. 44</ref>. Idem probat <ref><name>As<lb ed="#P" break="no"/>tensanus</name>
+          in suma 1ª. par. lib. 1º. titulo
+          <lb ed="#P"/>32. ar. 6</ref>. et <ref>lib. 2º. titulo 64. arº. 7.</ref>
+        </p>
+        <p>
+          <lb ed="#P"/>Hoc etiam probat <ref>suma <name>siluestrina</name> bello
+          <lb ed="#P"/>1º. §. 10. 3. particula</ref>, his verbis: <quote>habens
+          <lb ed="#P"/>justum bellum vel se in illo reperiens si
+          <lb ed="#P"/>spoliauit clericos / religiosos / vel conuersos
+          <lb ed="#P"/>velperegrinos quamuis essent cum hostibus:
+          <lb ed="#P"/>restituere <seg type="correction">tene<choice><sic>n</sic></choice>tur</seg>, et mortaliter
+            <seg>pecca<subst hand="A"><del rend="strikethrough">nt</del><add place="above-line">t</add></subst></seg>.
+          <lb ed="#P"/>Tales rapinam comittunt si spoliant rus<lb ed="#P" break="no"/>ticos
+          aut viatores aut existentes in agri<lb ed="#P" break="no"/>cultura:
+          et animalia quibus arant et se<lb ed="#P" break="no"/>mina
+          portant. Immo subditi domini in<lb ed="#P" break="no"/>juste
+          bellantis non prestantes consilium
+          <lb ed="#P"/>auxilium vel fauorem directe vel indi<lb ed="#P" break="no"/>recte
+          non sunt spoliandi vel in aliquo
+          <lb ed="#P"/>puniendi: sed tenentur restituere ne pe<lb ed="#P" break="no"/>na
+          excedat autores. A fortiori autem res<lb ed="#P" break="no"/>tituere
+          tenetur damnificans innocentes
+          <lb ed="#P"/>non subditos hostis: nisi hoc faciat pre<pb ed="#P" n="141-r"/><lb ed="#P" break="no"/>ter
+          suam intentionem: puta si non valens
+          <lb ed="#P"/>capere ciuitatem dat eam ad sacum, vel
+          <lb ed="#P"/>incendit: non aliter potens punire multos
+          <lb ed="#P"/>nocentes</quote>. haec ille.
+        </p>
+        <p>
+          His verbis <name>siluestri</name> pro<lb ed="#P" break="no"/>batur:
+          innocentes non esse vexandos vel dam<lb ed="#P" break="no"/>nificandos:
+          nisi cum aliter fieri non potest
+          <lb ed="#P"/>juxta dicta in <ref>c. precedenti</ref>: et quod vt pu<lb ed="#P" break="no"/>niantur
+          pauci nocentes: non sunt leden<lb ed="#P" break="no"/>di
+          plurimi innocentes: et quod aliter faciens
+          <lb ed="#P"/>peccat mortaliter, et tenetur ad restitutio<lb ed="#P" break="no"/>nem,
+          et censentur homicidae illorum inno<lb ed="#P" break="no"/>centium.
+          Idem docet <ref>frater joanes Tabi<lb ed="#P" break="no"/>ensis
+          in sua suma quae Tabiana appella<lb ed="#P" break="no"/>tur
+          in verbo bellum .§. 8</ref>. Et <ref>doctissimus
+          <lb ed="#P"/>pater <name>Franciscus Victoriensis</name> in 2ª. re<lb ed="#P" break="no"/>lectione
+          de Indis</ref>.
+        </p>
+        <p>
+          Ergo cum in eis prouin<lb ed="#P" break="no"/>tijs
+          <add place="margin-right" hand="F"><del rend="strikethrough" hand="F">in</del> prouincia ubi
+            immolant innocentes
+            vel carnes humanas
+            comedunt non
+            est eo debellanda</add>
+          vbi infideles comedunt carnes huma<lb ed="#P" break="no"/>nas,
+          et immolant innocentes: sint pauci,
+          <lb ed="#P"/>qui haec crimina comittunt: innumeri
+          <lb ed="#P"/>autem: qui ab his criminibus immunes sunt
+          <lb ed="#P"/>immo ne de illis quidem quidquam partici<lb ed="#P" break="no"/>pant
+          cumque non debeamus exponere pericu<lb ed="#P" break="no"/>lo
+          plures innocentes ob paucos liberandos
+          <lb ed="#P"/>etiam innocentes: sequitur ecclesiam non
+          <lb ed="#P"/>debere tale bellum inferre neque alium prin<lb ed="#P" break="no"/>cipem
+          vel membrum ecclesiae, cum hoc fa<lb ed="#P" break="no"/>ciant
+          non pretextu defendendi sua re<lb ed="#P" break="no"/>gna,
+          quae ab infidelium regnis remota sunt:
+          <lb ed="#P"/>sed duntaxat pretextu liberandi innocen<lb ed="#P" break="no"/>tes:
+          cum reuera infinita innocentium mul<lb ed="#P" break="no"/>titudo
+          sub hoc pretextu perimerentur.
+        </p>
+        <p>
+          Et
+          <pb ed="#P" n="141-v"/>
+          <lb ed="#P"/>sic non militat contra predeterminata secundum
+          <lb ed="#P"/>argumentum cum tota illa respublica nec
+          <lb ed="#P"/>sit nec presumi debeat secundum jurisdictionem
+          <lb ed="#P"/>hostis vel inimica, sed potius innocens et
+          <lb ed="#P"/>amica.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

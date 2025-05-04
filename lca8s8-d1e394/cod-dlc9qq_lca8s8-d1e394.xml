@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 27 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 27 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-27">Apr 27, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="123-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e394">
+        <head>Caput 27 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="#P" n="1"/>Caput 27m.
+        </p>
+        <p>
+          ¶ His congruit quod supra probauimus
+          <lb ed="#P"/>neminem cogi posse prestare bonum quod
+          <lb ed="#P"/>numquam promisit. Cui simile est quod
+          <lb ed="#P"/>etiam jure humano inuito non confertur bene<lb ed="#P" break="no"/>ficium
+          <ref>l. inuito. ff. de regulis juris</ref>.
+          <lb ed="#P"/>Et <ref>l. hoc jure. §. non potest, ff. de do<lb ed="#P" break="no"/>natio</ref>.
+          et <ref>l. si quis in inconcedendo, C. de
+          <lb ed="#P"/>pactis</ref>.
+        </p>
+        <p>
+          ¶ Ad principes infideles, qui
+          <lb ed="#P"/>maliciose impedissent propagationem
+          <lb ed="#P"/>euangelij reuertendo: posse contra eos
+          <lb ed="#P"/>ecclesiam mouere bellum probatur hac
+          <lb ed="#P"/>ratione manifeste. Quoniam cum chris<lb ed="#P" break="no"/>tus
+          dominus et rex sit omnis creatu<lb ed="#P" break="no"/>rae
+          in quacumque orbis parte habitantis:
+          <lb ed="#P"/>impedire ne illum omnis boni fontem
+          <lb ed="#P"/>homines agnoscant et colant per suscep<lb ed="#P" break="no"/>tionem
+          fidei catholicae: injuria ei fit
+          <lb ed="#P"/>ab ecclesia minime ferenda.
+        </p>
+        <p>
+          Neque enim
+          <lb ed="#P"/>hoc peccatum simile est ei, quod inter se
+          <lb ed="#P"/>comittunt et Deum: immo directe tollit
+          <lb ed="#P"/>honorem deo debitum et illi directe fa<lb ed="#P" break="no"/>cit
+          injuriam et est blasphemia vera
+          <lb ed="#P"/>et formalis in christianam religionem
+          <lb ed="#P"/>malicciose comissa: quare in omnium fer<lb ed="#P" break="no"/>tur
+          injuriam quod in maiestatem diui<lb ed="#P" break="no"/>nam
+          comittitur, vt supra docuimus.
+        </p>
+        <p>
+          Vnde
+          <lb ed="#P"/>patet rationibus supra inductis
+          <lb ed="#P"/>contra infideles tantum qui maliciose
+          <lb ed="#P"/>fidei propagationem impedirent: vel in illis
+          <pb ed="#P" n="123-v"/>
+          <lb ed="#P"/>qui jam recepissent conando vt eam relin<lb ed="#P" break="no"/>querent:
+          vel obstacula ponendo probabiliter
+          <lb ed="#P"/>credituris: ecclesiam juste posse bellum
+          <lb ed="#P"/>mouere. De his loquitur <ref><name>Albertus Pius
+          <lb ed="#P"/>comes carpensis</name> qui <title>scribens aduersus
+          <lb ed="#P"/>Erasmum</title></ref> asserit et vult probare licitum
+          <lb ed="#P"/>esse bellum in Turcas vel vt recipiamus
+          <lb ed="#P"/>regna christianae ditioni adempta: vel
+          <lb ed="#P"/>quia impediunt vel impedirent propaga<lb ed="#P" break="no"/>tionem
+          fidei.
+        </p>
+        <p>
+          Vnde ita inquit <name>Pius</name>.
+          <lb ed="#P"/>Quicumque igitur christo domino aduer<lb ed="#P" break="no"/>santur
+          eiusque gloriae obsistunt: propa<lb ed="#P" break="no"/>gationem
+          euangelij impedientes: sane
+          <lb ed="#P"/>ab omni potestate sunt deijciendi, cum
+          <lb ed="#P"/>illa abutantur aduersus supremi prin<lb ed="#P" break="no"/>cipis
+          dignitatem et amplitudinem. Illis
+          <lb ed="#P"/>enim res moderantibus nec licet populis
+          <lb ed="#P"/>eorum tyranidi subiectis: euangelicam le<lb ed="#P" break="no"/>gem
+          recipere, nec permittitur illam prae<lb ed="#P" break="no"/>dicari:
+          quam ob rem ad illam promul<lb ed="#P" break="no"/>gandam
+          christique gloriam amplifican<lb ed="#P" break="no"/>dam:
+          licet et expedit pro loco et tempore
+          <lb ed="#P"/>illos inuadere et christi suaui jugo sub<lb ed="#P" break="no"/>ijcere:
+          ipsis etiam nos minime lacessenti<lb ed="#P" break="no"/>bus
+          nec terras nostras obtinentibus, quae
+          <lb ed="#P"/>vmquam a nobis possessae fuerint. Juris
+          <lb ed="#P"/>enim christi sunt: quod vindicare phas
+          <lb ed="#P"/>est Christi seruos: modo igitur hoc pro<lb ed="#P" break="no"/>posito
+          videlicet, propagandi euangelij et
+          <lb ed="#P"/>gloriae christi amplificandae: bellum assu<pb ed="#P" n="124-r"/><lb ed="#P" break="no"/>matur,
+          pium ac justum erit, haec <name>comes
+          <lb ed="#P"/>carpensis</name>.
+        </p>
+        <p>
+          Qui legerit illa verba: ipsis etiam
+          <lb ed="#P"/>nos minime lacessentibus: et illa juris
+          <lb ed="#P"/>enim Christi sunt. Existimabunt for<lb ed="#P" break="no"/>tassis
+          <name>Pium</name> docere: licitum esse bellum
+          <lb ed="#P"/>aduersus infideles etiam pacificos: etiam
+          <lb ed="#P"/>si nulla alia adsit causa, quam propaga<lb ed="#P" break="no"/>tio
+          euangelij et amplificandae gloriae chri<lb ed="#P" break="no"/>sti,
+          sed reuera non est ita. <name>Albertus</name> enim
+          <lb ed="#P"/>loquitur quando maliciose obsistunt euan<lb ed="#P" break="no"/>gelij
+          predicationi et propagationi vt pa<lb ed="#P" break="no"/>tet
+          <ref>ibi</ref>: <quote>quicumque igitur christo domino
+          <lb ed="#P"/>aduersantur, eiusque gloriae obsistunt pro<lb ed="#P" break="no"/>pagationem
+          euangelij impedientes</quote>.
+        </p>
+        <p>
+          Item
+          <lb ed="#P"/>loquitur de Turcis et mauris, qui nostra
+          <lb ed="#P"/>dogmata non ignorant et religionis nostrae
+          <lb ed="#P"/>propagationi efficacissime obstant. Ita
+          <lb ed="#P"/>etiam probatur ex illis eius verbis, vbi a<lb ed="#P" break="no"/>gens
+          quod licitum est bellum etiam si nulla
+          <lb ed="#P"/>alia adsit causa quam amplificatio gloriae
+          <lb ed="#P"/>christi pro loco et tempore licet et ex<lb ed="#P" break="no"/>pedit,
+          scilicet, inuadere tales infideles aduer<lb ed="#P" break="no"/>santes
+          fidei dilatationi et Christi sua<lb ed="#P" break="no"/>ui
+          jugo subigere. Vnde quidquid tractat
+          <lb ed="#P"/>ibi: hoc est supponens maliciosam resis<lb ed="#P" break="no"/>tentiam
+          et impedimenta infidelium ne
+          <lb ed="#P"/>fides propagetur et non quidem infide<lb ed="#P" break="no"/>lium
+          <del rend="strikethrough" hand="B">no fides prpagatus et non quidem
+          <lb ed="#P"/>infidelium</del> absolute: sed dumtaxat Sa<lb ed="#P" break="no"/>racenorum
+          Turcarumque de quibus constat
+          <lb ed="#P"/>odium quod aduersus nomen christi ge<pb ed="#P" n="124-v"/><lb ed="#P" break="no"/>runt
+          veteratissimum.
+        </p>
+        <p>
+          Non ergo semper
+          <lb ed="#P"/>licet bellum moueri etiam propter fidei dun<lb ed="#P" break="no"/>taxat
+          dilatationem cum dicat: pro loco
+          <lb ed="#P"/>et cempore licet et expedit: sed cum ma<lb ed="#P" break="no"/>liciose
+          impediunt euangelij propagatio<lb ed="#P" break="no"/>nem:
+          et cum absque scandalo et odio nostrae re<lb ed="#P" break="no"/>ligionis
+          et blasphemijs in@christum sua<lb ed="#P" break="no"/>ui
+          eius iugo subigi possent vt supra pro<lb ed="#P" break="no"/>bauimus.
+          Alias nescio quomodo redun<lb ed="#P" break="no"/>det
+          in gloriam christi, et religionis aug<lb ed="#P" break="no"/>mentum:
+          neque quomodo talium infideli<lb ed="#P" break="no"/>um
+          animae si ferro res agatur salutem
+          <lb ed="#P"/>consequerentur. Mihi potius videtur
+          <lb ed="#P"/>talibus medijs inutilem eis reddi san<lb ed="#P" break="no"/>guinem
+          christi: ideo non solum non
+          <lb ed="#P"/>expedit verum neque licet.
+        </p>
+        <p>
+          <lb ed="#P" break="no"/><add place="margin-left" hand="E">Quinsus casus</add>
+          ¶ Quintus casus in quo ecclesia potest
+          <lb ed="#P"/>in actum deducere jurisdictionem quam
+          <lb ed="#P"/>super infideles habet tantum habitu:
+          <lb ed="#P"/>est cum infideles bellico apparatu in
+          <lb ed="#P"/>prouintias <gap extent="2" unit="characters"/> nostras irrumpunt vel li<lb ed="#P" break="no"/>tora
+          nostra infestant. Vel in comuni vt
+          <lb ed="#P"/>Turcae quotidie terribilibus exercitibus
+          <lb ed="#P"/>christianitatem molestant impugnant
+          <lb ed="#P"/>et affligunt: vel in particulari quemad<lb ed="#P" break="no"/>modum
+          frequentius a Sarracenis pati<lb ed="#P" break="no"/>mur.
+        </p>
+        <p>
+          Et ratio quae pro Ecclesia facit est
+          <lb ed="#P"/>clara. Lege enim naturae arma omnium
+          <lb ed="#P"/>populorum de mundo aduersus publicos
+          <lb ed="#P"/>hostes excitantur. Sic et nos vt talium
+          <lb ed="#P"/>insolentiam contundamus: captiuos re<pb ed="#P" n="125-r"/><lb ed="#P" break="no"/>cipiamus:
+          et illatis paribus cladibus,
+          <lb ed="#P"/>timere homines nostros et abstinere ab in<lb ed="#P" break="no"/>jurijs
+          doceamus: ita vt nobis illatas cla<lb ed="#P" break="no"/>des
+          resartiant.
+        </p>
+        <p>
+          Et huiusmodi actus na<lb ed="#P" break="no"/>turalis
+          defensio appellatur et continen<lb ed="#P" break="no"/>tur
+          sub illa juris naturalis maxima
+          <lb ed="#P"/><quote>licet vim vi repelle re</quote>. <ref>l. ut vim ff. de
+          <lb ed="#P"/>justi et jur</ref>. et in <ref>c. olim. t. de resti<lb ed="#P" break="no"/>tu.
+          spoliatorum</ref>. et in <ref>c. dilecto: de senten.
+          <lb ed="#P"/>excomuni. lib. 6</ref>. Et in alijs locis v<lb ed="#P" break="no"/>triusque
+          juris.
+        </p>
+        <p>
+          Hos tres vltimos casus
+          <lb ed="#P"/>3m. 4m. et 5m. comprehendit <ref><name>S. Thomas</name>
+            <lb ed="#P"/>2a 2ae, q. 10, arº. 8</ref>. his verbis: <quote>sunt com<lb ed="#P" break="no"/>pellendi
+          a fidelibus, scilicet, infideles, si ad<lb ed="#P" break="no"/>sit
+          facultas: vt fidem non impediant:
+          <lb ed="#P"/>vel blasphemijs vel malis persuasionibus
+          <lb ed="#P"/>vel apertis persecutionibus: et propter hoc
+          <lb ed="#P"/>fideles christi frequenter contra infide<lb ed="#P" break="no"/>les
+          bellum mouent, vt eos compellant
+          <lb ed="#P"/>ne fidem impediant</quote>. Haec ille.
+        </p>
+        <p>
+          Has cau<lb ed="#P" break="no"/>sas
+          <choice><sic>apositae</sic><corr>appositas</corr><!--c.e.'s suggestion--></choice> interpretantur<ref><name>Caietanus</name></ref>
+          <lb ed="#P"/>et <ref><name>Carpensis</name> in loco supra citato</ref> quanquam
+          <lb ed="#P"/><name>Erasmus</name> numquam somniauit illud quod
+          <lb ed="#P"/><name>Carpensis</name> illi obijcit immo apertissime ca<lb ed="#P" break="no"/>tholicam
+          sententiam docet <ref>enarrans psal<lb ed="#P" break="no"/>mum
+          Afferte domino, filij dei</ref> et in alijs
+          <lb ed="#P"/>pluribus locis: Sed carpensis gloriam ex
+          <lb ed="#P"/><name>Erasmi</name> forte sugillatione aucupabatur:
+          <lb ed="#P"/>cui <name>Sepulueda</name> noster nequaquam incu<lb ed="#P" break="no"/>dendo
+            eo libello strenuam <choice><sic>narrauit</sic><corr>nauauit</corr><!--c.e.'s suggestion--></choice> ope<pb ed="#P" n="125-v"/><lb ed="#P" break="no"/>ram
+          vt fama refert.
+        </p>
+        <p>
+          ¶ Ratio doctrinae
+          <lb ed="#P"/><name>S. Thomae</name> est: quoniam in illis tribus
+          <lb ed="#P"/>casibus, pagani ratione delicti: efficiuntur nostri
+          <lb ed="#P"/>fori et illos punire possumus, etiam si
+          <lb ed="#P"/>alias nobis subditi non sint ut in <ref>c.
+          <lb ed="#P"/>fi. de foro compe.</ref> et in <ref>c. 1º. de raptori.</ref>
+          <lb ed="#P"/>Et <ref>c. vbi de criminibus agi oportet.</ref> in
+          <lb ed="#P"/><ref>auten. qua in prouincia</ref> et in alijs quam<lb ed="#P" break="no"/>plurimis
+          juribus: vbi habetur quod ratio<lb ed="#P" break="no"/>ne
+          delicti efficitur quis de jurisdictione
+          <lb ed="#P"/>alterius: qui judex illius alias non erat.
+        </p>
+        <p>
+          <lb ed="#P"/>Quia non inuenitur aliud remedium
+          <lb ed="#P"/>et propterea ratio ipsa naturalis supplet
+          <lb ed="#P"/>et dictat: quando videlicet non est supe<lb ed="#P" break="no"/>rior
+          ad quem habebatur recursus et caetera.
+          <lb ed="#P"/>Et de huiusmodi infidelibus, qui nos of<lb ed="#P" break="no"/>fendunt
+          ait <ref><name>Baldus</name> in <title>prohemio de<lb ed="#P" break="no"/>cretalium
+          Gregorij</title> 3 col.</ref> quod per tem<lb ed="#P" break="no"/>porales
+          judices bene possunt puniri om<lb ed="#P" break="no"/>nes
+          infideles juxta territorium jusdicen<lb ed="#P" break="no"/>tis:
+          nec distinguntur vnde sint ut <ref>l.
+          <lb ed="#P"/>3. ff. de offi. presi.</ref> vbi dicitur: quod pre<lb ed="#P" break="no"/>ses
+          prouinciae habet interdum imperium
+          <lb ed="#P"/>et aduersus extraneos si quod malum
+          <lb ed="#P"/>commisserint et caetera.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

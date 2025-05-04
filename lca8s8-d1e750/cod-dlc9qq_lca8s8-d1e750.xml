@@ -127,7 +127,7 @@
           docet principatibus et potestatibus 
           <lb ed="#P" n="10"/>credentes debere esse subiectos etc Hoc 
           <lb ed="#P" n="11"/><name xml:id="lca8s8-d1e750-Nd1e270">Hieronimus</name> docet in loco infra citando 
-          <lb ed="#P" n="12"/>inquit et addit verba <ref xml:id="lca8s8-d1e750-Rd1e274">Diui Pauli ad Romanos 
+          <lb ed="#P" n="12"/>inquit et addit verba <ref xml:id="lca8s8-d1e750-Rd1e274" corresp="#lca8s8-d1e750-Qd1e280 #lca8s8-d1e750-Qd1e283 #lca8s8-d1e750-Qd1e292 #lca8s8-d1e750-Qd1e300">Diui Pauli ad Romanos 
           <lb ed="#P" n="13"/>13.</ref> <quote xml:id="lca8s8-d1e750-Qd1e280" source="http://scta.info/resource/rom13_1@1-6">omnis anima potestatibus sublimioribus subdita sit</quote>. Et infra:
           <quote xml:id="lca8s8-d1e750-Qd1e283" source="http://scta.info/resource/rom13_5@1-8">Ideoque <seg type="correction">necessi<lb ed="#P" break="no" n="14"/>tat<subst><add>e</add><del>ibus</del></subst></seg> 
           subditi estote: non solum propter iram</quote> 

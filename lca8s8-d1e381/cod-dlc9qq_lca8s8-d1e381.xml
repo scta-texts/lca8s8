@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 26 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 26 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-24">Apr 24, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="118-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e381">
+        <head>Caput 26 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="#P" n="26"/>Caput 26m.
+        </p>
+        <p>
+          ¶ Superioribus haud quaquam obstat quod eccle<lb ed="#P" break="no"/>sia
+          tenetur euangelium predicare
+          <lb ed="#P"/>omnibus gentibus: et quod ideo possumus eas compel<lb ed="#P" break="no"/>lere
+          audire euangelicam veritatem. Equidem
+          <pb ed="#P" n="118-v"/>
+          <lb ed="#P"/>concedo ecclesiam teneri euangelizare, jux<lb ed="#P" break="no"/>ta
+          illud <ref>Marci vltimo</ref> et <ref>Matthe. vltimo</ref>: <quote>Eun<lb ed="#P" break="no"/>tes
+          in mundum vniuersum predicate euan<lb ed="#P" break="no"/>gelium
+          omni creaturae, et euntes docete om<lb ed="#P" break="no"/>nes
+          gentes</quote> et cactera. Et <ref>1º. ad Corinth. 9</ref>. <quote>Neces<lb ed="#P" break="no"/>sitas
+          enim mihi incumbit; vae enim mihi
+          <lb ed="#P"/>est si non euangelizauero</quote>. Haec verba precep<lb ed="#P" break="no"/>ti
+          sunt et necessitatem inducunt, ut in <ref>c.
+          <lb ed="#P"/>quisquis. 14. q. 1</ref>. non tamen inde se<lb ed="#P" break="no"/>quitur
+          <add place="margin-left" hand="F">Non possunt cogi fideles ad audiendum Euangelium</add>
+          nos posse cogere in fideles ad audi<lb ed="#P" break="no"/>endum
+          euangelium, quod probatur qua<lb ed="#P" break="no"/>druplici
+          ratione.
+        </p>
+        <p>
+          <lb ed="#P"/><add place="margin-left" hand="F">pra ratio</add>
+          Primo quoniam cum
+          <lb ed="#P"/>infideles non possint cogi suscipere fidem:
+          <lb ed="#P"/>multo minus cogi poterunt audire verba euan<lb ed="#P" break="no"/>gelica,
+          per quae peruenitur ad fidem. Ete<lb ed="#P" break="no"/>nim:
+          si non possum cogi ad religionem: non
+          <lb ed="#P"/>potero etiam cogi ad audiendum dogmata
+          <lb ed="#P"/>et traditiones religionis. Neque obstat si
+          <lb ed="#P"/>quis <add place="margin-left" hand="B">significat quod</add> <quote>fides est ex auditu: auditus autem per
+          <lb ed="#P"/>verbum christi</quote> <ref>ad Roma. 10</ref>. Quemad<lb ed="#P" break="no"/>modum
+          enim infideles non coguntur ad
+          <lb ed="#P"/>religionem: ex eo quod non possunt ad eam
+          <lb ed="#P"/>cogi nisi illato bello quod quidquid est vs<lb ed="#P" break="no"/>quam
+          malorum secum trahens: gignet potius
+          <lb ed="#P"/>odium nostrae religionis. quam fidei catholicae ar<lb ed="#P" break="no"/>gumentum:
+          sic etiam infideles sua regna
+          <lb ed="#P"/>incolentes non possumus cogere audire euan<lb ed="#P" break="no"/>gelium:
+          nisi innumeris cedibus, incendijs
+          <lb ed="#P"/>vrbiumque euastationibus: et ideo sacrilegum
+          <lb ed="#P"/><del rend="strikethrough">um</del> et stultum esset, bellum infidelibus
+          <lb ed="#P"/>inferre vt audiant euangelium: cum potius
+          <pb ed="#P" n="119-r"/>
+          <lb ed="#P"/>exinde oriatur odium religionis quam fidei<lb ed="#P" break="no"/>
+          <seg>profectu<subst hand="B"><del rend="strikethrough">m</del><add place="above-line">s</add></subst></seg>
+        </p>
+        <p>
+          ¶ Secundo cum ecclesia vi<lb ed="#P" break="no"/>gilet
+          semper et sollicita sit de commodis gre<lb ed="#P" break="no"/>gis
+          christiani: neque vsquam cogat audire
+          <lb ed="#P"/>verbum Dei infideles sibi subditos de jure<lb ed="#P" break="no"/>
+          et de facto puta subditos christianis prin<lb ed="#P" break="no"/>cipibus
+          vt Judaei et Sarraceni, necessario in<lb ed="#P" break="no"/>fertur:
+          infideles neque de jure neque de facto
+          <lb ed="#P"/>subditos non esse cogendos audire verbum
+          <lb ed="#P"/>Dei.
+        </p>
+        <p>
+          ¶ 3º, Christus solum precepit prae<lb ed="#P" break="no"/>dicare
+          euangelium per omnem orbem: Vbi
+          <lb ed="#P"/>autem euangelium praedicatur impletum cen<lb ed="#P" break="no"/>setur
+          preceptum christi et nolentes audi<lb ed="#P" break="no"/>re
+          praedicantes sibi imputent: et deo rationes
+          <lb ed="#P"/>reddent: tumque vsurpare licebit consilium
+          <lb ed="#P"/>sapientis <ref>Ecclesias. 32</ref>: <quote>Vbi auditus non
+          <lb ed="#P"/>est non effundas sermonem</quote>.
+        </p>
+        <p>
+          ¶ 4º. Ex
+          <lb ed="#P"/>institutione qua ehristus primum misit
+          <lb ed="#P"/>discipulos suos ad euangelizandum liquet
+          <lb ed="#P"/>expresse quid debeat fieri cum infideles
+          <lb ed="#P"/>euangelium audire nolunt. Legimus enim
+          <lb ed="#P"/><ref>Matthe. c. 10</ref>. et <ref>Marci c. 6</ref>. <ref>Luce vero
+          <lb ed="#P"/>10</ref>. <quote>Intrantes autem in domum salutate
+          <lb ed="#P"/>eam dicentes: pax huic domui. Et siqui<lb ed="#P" break="no"/>dem
+          fuerit domus illa digna veniet pax
+          <lb ed="#P"/>vestra super eam, si autem non fuerit dig<lb ed="#P" break="no"/>na
+          pax vestra reuertetur ad vos, et qui<lb ed="#P" break="no"/>cumque
+          non receperit vos neque audierint
+          <lb ed="#P"/>sermones vestros: exeuntes foras domo
+          <lb ed="#P"/>vel ciuitate excutite puluerem de pedibus
+          <lb ed="#P"/>vestris. Amen dico vobis tolerabilius erit
+          <pb ed="#P" n="119-v"/>
+          <lb ed="#P"/>terrae Sodomorum et Gomorraeorum in die judi<lb ed="#P" break="no"/>cij:
+          quam illi ciuitati</quote>. Haec ibi.
+        </p>
+        <p>
+          Ecce christus
+          <lb ed="#P"/>non docuit nolentes audire euangelium
+          <lb ed="#P"/>cogendos esse vel puniendos, sed sibi ad
+          <lb ed="#P"/>diem judicij poenam reseruabit: sicut etiam
+          <lb ed="#P"/>reseruabit penam nolentium credere jux<lb ed="#P" break="no"/>ta
+          illud <ref>Matthe. <choice><sic>10</sic><corr>11</corr></choice></ref>. Et <ref>Luc. 10</ref>: <quote>tunc ce<lb ed="#P" break="no"/>pit
+          exprobare ciuitatibus in quibus factae
+          <lb ed="#P"/>sunt plurimae virtutes eius quia non egis<lb ed="#P" break="no"/>sent
+          penitentiam. Vae tibi Corozajn: vae
+          <lb ed="#P"/>tibi Bethsayda: quia si in Tyro et Sidone
+          <lb ed="#P"/>factae essent virtutes: quae factae sunt in
+          <lb ed="#P"/>vobis: olim in cilicio et cinere penitentiam
+          <lb ed="#P"/>egissent. Verum tamen dico vobis. tyro et
+          <lb ed="#P"/>Sydoni remissius erit in die judicij quam vo<lb ed="#P" break="no"/>bis.
+          Et tu, Capharnaum</quote> et caetera, <quote>quia si
+          <lb ed="#P"/>in Sodomis</quote>, et caetera. <quote>Verumtamen dico vobis
+          <lb ed="#P"/>quia terrae Sodomorum remisius erit in
+          <lb ed="#P"/>die judicij quam tibi</quote>. Et secundum <ref>Marcum ultiº
+          <lb ed="#P"/>capº</ref>. <quote>qui vero non crediderit, condemnabi<lb ed="#P" break="no"/>tur</quote>.
+        </p>
+        <p>
+          Ergo quemadmodum ecclesia puni<lb ed="#P" break="no"/>ens
+          infideles nolentes suscipere euangeli<lb ed="#P" break="no"/>um
+          vsurparet ius quod dominus sibi re<lb ed="#P" break="no"/>seruabit:
+          sic etiam vsurpare dicceretur si
+          <lb ed="#P"/>cogeret infideles ad audiendum euange<lb ed="#P" break="no"/>lium.
+          Par enim ratio est in vtroque casu:
+          <lb ed="#P"/>quia scilicet vtriusque delicti punitionem
+          <lb ed="#P"/>infligendam, sibi reseruauit christus
+          <lb ed="#P"/>pro die judicij. Quod expresse docet <ref>S.
+          <lb ed="#P"/>Thomas in tractatu contra empugnantes
+          <lb ed="#P"/>religionem. c. 15, ad 4m argumentum</ref>: super illum
+          <pb ed="#P" n="120-r"/>
+          <lb ed="#P"/>locum:
+        </p>
+        <p>
+          <add place="margin-right" hand="F">.S. Tho.</add>
+          <quote>excutite puluerem. vbi sic ait ad
+          <lb ed="#P"/>4m. dicendum quod dominus praecepit quod apostoli
+          <lb ed="#P"/>pedes excutiant a puluere in testimonium
+          <lb ed="#P"/>eorum, eos non recipiunt. Vnde<ref>Mar<lb ed="#P" break="no"/>ci</ref>
+          6.<!--How to cite quotes within quotes?--> dicitur: excutite puluerem de pedibus
+          <add place="margin-right" hand="F">ex S. Thoma probatur quod
+            infideles cogendi non sunt vt
+            audiant predicatores</add>
+          <lb ed="#P"/>vestris in testimonium illis. Vnde super illud
+          <lb ed="#P"/><ref>Luc. 10. excutite puluerem</ref> dicit glossa:
+          <lb ed="#P"/>ad contestationem terreni laboris quem
+          <lb ed="#P"/>pro eis innaniter susceperunt. Et hoc
+          <lb ed="#P"/>testimonium ordinatur ad diuinum ju<lb ed="#P" break="no"/>dicium.
+          Vnde sequitur <ref>Matthe. 10</ref>. amen
+          <lb ed="#P"/>dico vobis tolerabilius erit terrae Sodomo<lb ed="#P" break="no"/>rum
+          et Gomorraeorum in die judicij: quam illi
+          <lb ed="#P"/>ciuitati. Ab illis ergo dominus discipulis
+          <lb ed="#P"/>suis mandat vt non recepti recedamus:
+          <lb ed="#P"/>qui finali judicio pro suis sceleribus reser<lb ed="#P" break="no"/>uantur:
+          sicut sunt infideles de quibus
+          <lb ed="#P"/>dicitur <ref>1. ad corinth. 5</ref>. eos qui foris
+          <lb ed="#P"/>suntjudicabit deus. Sed de his qui intus
+          <lb ed="#P"/>sunt scilicet fidelibus: judicium ecclesiae commit<lb ed="#P" break="no"/>titur.
+          Vnde si aliquis in societate fide<lb ed="#P" break="no"/>lium
+          recipi volit: et ipsi injuste contradi<lb ed="#P" break="no"/>cant:
+          non debet homo hoc diuino judi<lb ed="#P" break="no"/>cio
+          reseruari: sed ad judicium ecclesiae cor<lb ed="#P" break="no"/>rigendum
+          deduci</quote>. haec S. Tho. in forma.
+        </p>
+        <p>
+          Equidem cum verba et actiones Christi no<lb ed="#P" break="no"/>bis
+          exemplaria esse debeant: nescio quid
+          <lb ed="#P"/>expressius reperiri possit aut certius: quam
+          <lb ed="#P"/><choice><sic>dum</sic><corr>cum</corr></choice> hac suorum institutione docuijsse
+          <lb ed="#P"/>homines non esse cogendos ad audiendum
+          <lb ed="#P"/>euangelium. Quod si hoc non sufficit
+          <lb ed="#P"/>attende quid in casu isto ad confirmatio<pb ed="#P" n="120-v"/><lb ed="#P" break="no"/>nem
+          veritatis huius: christus egit et dixit:
+          <lb ed="#P"/><ref>Luc. 9. Vbi Joanes et Jacobus videntes Sa<lb ed="#P" break="no"/>maritanorum
+          populum noluisse recipere chris<lb ed="#P" break="no"/>tum
+          volentem ingredi dixerunt ei</ref>: <quote>domine
+          <lb ed="#P"/>vis dicimus vt descendat ignis de coelo qui
+          <lb ed="#P"/>absumat<!--c.e. et consumat--> illos</quote>? Christus autem <quote>conuersus in<lb ed="#P" break="no"/>crepauit
+          illos dicens. Nescitis cuius spiritus
+          <lb ed="#P"/>estis filius hominis non venit animas per<lb ed="#P" break="no"/>dere:
+            sed saluare</quote>: quasi diceret <quote>non est spi<lb ed="#P" break="no"/>ritus
+          bonus qui hoc vobis dictat, et sequi<lb ed="#P" break="no"/>tur:
+          et abierunt in aliud castellum</quote>.
+        </p>
+        <p>
+          Ille
+          <lb ed="#P"/>autem <del rend="strikethrough" hand="B">ipse</del> populus qui christum tunc recipe<lb ed="#P" break="no"/>re
+          noluit: primo amplexus est euangeli<lb ed="#P" break="no"/>cam
+          veritatem per mulierem Samaritanam
+          <lb ed="#P"/>iuxta <ref>glosam ibi</ref>. Et docet pulchre <ref>Joanes
+          <lb ed="#P"/>c. 4</ref>. quod etiam <ref><name>Beda</name></ref> et <ref><name>Ambrosius</name></ref> no<lb ed="#P" break="no"/>tant
+          super eum locum: et legitur in <ref>glo<lb ed="#P" break="no"/>sa
+          ordinaria</ref>: Denique Samaritani cicius cre<lb ed="#P" break="no"/>diderunt
+          a quibus hoc loco ignis arcetur.
+          <lb ed="#P"/>Haec glosa. Et refert <ref>Gratianus 23. q.
+          <lb ed="#P"/>4. c. quod christus discipulos suos in<lb ed="#P" break="no"/>crepauit
+          et caetera</ref>.
+        </p>
+        <p>
+          Ecce christus verbo et opere
+          <lb ed="#P"/>docuit infideles non esse cogendos ad au<lb ed="#P" break="no"/>diendum
+          Euangelium. Sed si audire
+          <lb ed="#P"/>noluerint nobis abeundum est in alium
+          <lb ed="#P"/>locum quousque beneuolos inueniamus au<lb ed="#P" break="no"/>dientes.
+          Christum autem eterni doctoris jussu
+          <lb ed="#P"/>audire id est imitari tenemur juxta illud
+          <lb ed="#P"/><ref>Matthe. 17</ref>. <quote>hic est filius meus dilectus
+          <lb ed="#P"/>in quo mihi bene complacui: ipsum audite</quote>.
+          <lb ed="#P"/>Datus est enim in ducem ac preceptorem gen<pb ed="#P" n="121-r"/><lb ed="#P" break="no"/>tium
+          juxta illud <ref>Esaij 55</ref>:
+        </p>
+        <p>
+          Neque aduersa<lb ed="#P" break="no"/>tur
+          si quis replicet infideles: numquam
+          <lb ed="#P"/>futuros christianos: si non possunt cogi
+          <lb ed="#P"/>ad audiendum euangelium ad quod dici<lb ed="#P" break="no"/>mus
+          non oportere nos curare salutem
+          <lb ed="#P"/>hominum diligentius quam ehristus ipse, qui
+          <lb ed="#P"/>pro illis preciosum sanguinem suum fu<lb ed="#P" break="no"/>dit,
+          juxta illud <ref>Matthe. 10</ref>. <quote>Sufficit dis<lb ed="#P" break="no"/>cipulo
+          vt sit sicut magister eius</quote>, et <ref>luc.
+          <lb ed="#P"/>6</ref>, et <ref>Joan. 13</ref>. <quote>Perfectus omnis erit si
+          <lb ed="#P"/>sit sicut magister eius</quote>.
+        </p>
+        <p>
+          Imitemur exem<lb ed="#P" break="no"/>pla
+          christi et doctrinam christi: et aposto<lb ed="#P" break="no"/>lorum
+          eius et reluceat imago eius in mo<lb ed="#P" break="no"/>ribus
+          nostris. Exprimamus: factis magis<lb ed="#P" break="no"/>trum
+          et seruatorem nostrum: et tunc qui de
+          <lb ed="#P"/>paganismo ad eternam vitam fuerint pre<lb ed="#P" break="no"/>ordinati
+          libentissime: accurrerent ad ouile
+          <lb ed="#P"/>christi: ad ciuitatem dei: ad locum extra
+          <lb ed="#P"/>quem non est salus. Infideles autem qui no<lb ed="#P" break="no"/>bis
+          christiana viuentibus et modo prefato
+          <lb ed="#P"/>eos docentibus audire vel conuerti neglexe<lb ed="#P" break="no"/>rint
+          sibi non nobis imputabitur.
+        </p>
+        <p>
+          Neque enim aliam arbitror esse rationem quare sarra<lb ed="#P" break="no"/>ceni.
+          Turcae et infideles alij fidem nostram am<lb ed="#P" break="no"/>plecti
+          nolunt, quam quia ea quae verbis offerimus
+          <lb ed="#P"/>opere negamus. Non ergo est impossibile in<lb ed="#P" break="no"/>fideles
+          amplecti fidem ex eo: quod non liceat
+          <lb ed="#P"/>illos armis impetere vt audiant euangelium.
+          <lb ed="#P"/>Efficacissimum enim remedium est vt vi<lb ed="#P" break="no"/>deant
+          in moribus nostris relucentem vitam
+          <lb ed="#P"/>christianam. Obtrudere autem euangelium
+          <pb ed="#P" n="121-v"/>
+          <lb ed="#P"/>armatis copijs: non est exemplum chris<lb ed="#P" break="no"/>tianum:
+          sed pretextus ad rapiendum alie<lb ed="#P" break="no"/>nas
+          facultates: subigendasque alienas pro<lb ed="#P" break="no"/>uintias.
+        </p>
+        <p>
+          Optimum remedium, vt haec se<lb ed="#P" break="no"/>ditiosa
+          et diabolica facinora cessarent esset:
+          <lb ed="#P"/>vt e regionibus jam pacatis, et in quibus
+          <lb ed="#P"/>aliqui fidem nostram amplexi sunt: mit<lb ed="#P" break="no"/>terentur
+          legati ex illis nouiter conuer<lb ed="#P" break="no"/>sis
+          nomine aliquorum piorum et religio<lb ed="#P" break="no"/>sorum
+          virorum quibus jam ipsi deuoti
+          <lb ed="#P"/>sunt: qui caeteris eius prouintiae gentibus
+          <lb ed="#P"/>denunciarent: qua consilio pij illi homines,
+          <lb ed="#P"/>et ab aliorum sicariorum moribus longe dis<lb ed="#P" break="no"/>tantes
+          venerint in eas prouintias, vt
+          <lb ed="#P"/>scilicet illis anuntiarent viam veritatis
+          <lb ed="#P"/>et veri dei cultumr: ita nobis contigit latis<lb ed="#P" break="no"/>simas
+          prouintias adducere ad fidem.
+          <lb ed="#P"/>Deinde vtile esset arcem aliquam loco ac<lb ed="#P" break="no"/>comodato
+          erigere: vbi praedicatores impo<lb ed="#P" break="no"/>sito
+          presidio bonorum et probatorum se<lb ed="#P" break="no"/>dem
+          haberent. His autem presidianis non ce<lb ed="#P" break="no"/>dibus
+          non opibus indorum inhiantibus:
+          <lb ed="#P"/>oporteret principem stipendium opimum
+          <lb ed="#P"/>concedere.
+        </p>
+        <p>
+          Hoc suaui et christiano modo
+          <lb ed="#P"/>absque seditione et armorum strepitu, solo
+          <lb ed="#P"/>christi verbo et armorum comoditate / le<lb ed="#P" break="no"/>nitate
+          et officijs, quibus mansuescunt etiam
+          <lb ed="#P"/>ferae: adduximus ad fidem nonullas pro<lb ed="#P" break="no"/>uintias
+          Tecultanas ad Guatimale regnum
+          <lb ed="#P"/>pertinentes. Missimus enim ad illos ali<lb ed="#P" break="no"/>quos
+          ex nouiter conuersis, qui nos et ama<pb ed="#P" n="122-r"/><lb ed="#P" break="no"/>bant
+          et colebant. Hi caeteris exposuerunt
+          <lb ed="#P"/>nos ad eos venire zelo domus dei: et vt ig<lb ed="#P" break="no"/>norantia
+          qua tot seculis tenebantur ex<lb ed="#P" break="no"/>pergiscerentur:
+          non vt eos proprijs facul<lb ed="#P" break="no"/>tatibus
+          et libertate spoliaremus quemad<lb ed="#P" break="no"/>modum
+          ceteri hyspani faciebant: Omnes
+          <lb ed="#P"/>res naturales volunt in finem suum sua<lb ed="#P" break="no"/>uiter
+          dirigi et ita illas mouet dominus,
+          <lb ed="#P"/>qui <quote>omnia suauiter disponit</quote>: <ref>Sapien. 8</ref>.
+          <lb ed="#P"/>Hoc magnum donum mihi et socijs meis
+          <lb ed="#P"/>concessum fuit a christo.
+        </p>
+        <p>
+          Tot enim anima<lb ed="#P" break="no"/>rum
+          millia creatori ac seruatori suo asse<lb ed="#P" break="no"/>ruimus
+          absque tumultu omni lenitate ac
+          <lb ed="#P"/>beneuolentia: et ita illis conuictus nos<lb ed="#P" break="no"/>ter
+          placuit: vt regio paulo ante indigna<lb ed="#P" break="no"/>bunda,
+          et quae capitali odio nostros pros<lb ed="#P" break="no"/>equebatur
+          propter ingentia mala quae sepe
+          <lb ed="#P"/>illis intulerant: deposita <seg>feroci<subst hand="B"><del rend="strikethrough">a</del><add place="above-line">tate</add></subst></seg>: paccatis<lb ed="#P" break="no"/>sima
+          redderetur: adeo vt jussu inuictis<lb ed="#P" break="no"/>simi
+          principis nostri <name>Philippi Caroli</name> illius
+          <lb ed="#P"/><name>magni caesaris</name> filij prouintiae illae dictae
+          <lb ed="#P"/>sint prouintiae verae pacis.
+        </p>
+        <p>
+          Neque dubito
+          <lb ed="#P"/>Christum hoc opere quod per nos omnium
+          <lb ed="#P"/>infirmos efficere dignatus est: voluisse
+          <lb ed="#P"/>ostendere quam prepostere Euangelium antea
+          <lb ed="#P"/>eis gentibus fuerit predicatum: quantum
+          <lb ed="#P"/>distarent ab eius doctrina / cedes et incen<lb ed="#P" break="no"/>dia
+          ab impijssimis hominibus in mise<lb ed="#P" break="no"/>ras
+          illas gentes comissa: et qualiter esset
+          <lb ed="#P"/>illis deinceps euangelium predicandum.
+        </p>
+        <p>
+          Qui autem hoc modo euangelizans suaue ju<pb ed="#P" n="122-v"/><lb ed="#P" break="no"/>gum
+          christi gentibus suauiter imponere
+          <lb ed="#P"/>non valuerit: satis impleuit preceptum
+          <lb ed="#P"/>christi, qui eius institutionem et exem<lb ed="#P" break="no"/>plum
+          secutus est. Aliter autem predicans
+          <lb ed="#P"/>euangelium scilicet armis, jam discessit
+          <lb ed="#P"/>a doctrina christi neque apud illum ali<lb ed="#P" break="no"/>quo
+          modo excusari poterit.
+        </p>
+        <p>
+          Non enim sunt
+          <lb ed="#P"/>facienda mala vt eueniant bona <ref>ad Roma.
+          <lb ed="#P"/>3</ref>. nec pretextu pietatis est comittenda im<lb ed="#P" break="no"/>pietas
+          ut in <ref>c. non est putanda, 1. q. 1</ref>.
+          <lb ed="#P"/>et in <ref>c. ad apostolicam. de simonia</ref>. Sic
+          <lb ed="#P"/>aptissime <ref><name>Diuus Augustinus</name> lib. de men<lb ed="#P" break="no"/>dacio</ref>,
+          et legitur. <ref target="http://scta.info/resource/gd-p2c22q2-d1e360">22: q. 2, in c. faciat
+          <lb ed="#P"/>homo<!--c.e. notes the ref is directly from from Gratian, causa 22, q, 2, c. 15; "Faciat homo": PL 187, 1.135-1.136--></ref> (inquit) <quote>etiam pro temporali salute
+          <lb ed="#P"/>hominum quod potest. Cum autem ad hoc ven<lb ed="#P" break="no"/>tum
+          fuerit vt tali salute nisi peccando con<lb ed="#P" break="no"/>sulere
+          non posset: jam se existimet non
+          <lb ed="#P"/>habere quid faciat quoniam id reliquum
+          <lb ed="#P"/>esse prospexit quod recte faciat</quote>. Haec <name>Augustinus</name>,
+        </p>
+        <p>
+          Ex his constat non esse inferen<lb ed="#P" break="no"/>dum
+          Indis bellum pretextu quod christi prae<lb ed="#P" break="no"/>dicationem
+          audiant etiam si praedicato<lb ed="#P" break="no"/>res
+          occiderint: quia non praedicatores, vt prae<lb ed="#P" break="no"/>dicatores:
+          nec christianos vt christiani
+          <lb ed="#P"/>sunt occidunt: sed vt publicos hostes sibi
+          <lb ed="#P"/>truculentissimos: ne ab eis vel opprimantur
+          <lb ed="#P"/>vel mactentur, interimunt. Metuant er<lb ed="#P" break="no"/>go
+          Deum peruersarum molitionum vlto<lb ed="#P" break="no"/>rem:
+          qui sub pretextu propagandae fidei:
+          <lb ed="#P"/>armatis copijs alienas possessiones inu<lb ed="#P" break="no"/>adunt
+          rapiunt et detinent.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

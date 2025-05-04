@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 29 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 29 [Bnf 12926 Transcription]</title>
+          <date when="2025-05-02">May 02, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="132-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e421">
+        <head>Caput 29 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="#P" n="23"/>Caput 29m.
+        </p>
+        <p>
+          ¶ Non obstat superioribus quod Deus Sodo<lb ed="#P" break="no"/>mae
+          et Gomorrae occidit patres et filios no<lb ed="#P" break="no"/>centes
+          et innocentes: ac similiter ob peccatum
+          <lb ed="#P"/><name><seg>Ach<choice><!--Achan is the man, Achor the place where he was stoned.--><sic>or</sic><corr>an</corr></choice></seg></name>: foeminae et infantes paruuli igne ab<lb ed="#P" break="no"/>sumpti
+          fuere <ref target="http://scta.info/resource/ios7_24">Josue 7</ref>. et Tribus Benja<lb ed="#P" break="no"/>min
+          ob vim a quodam eius Tribu illatam
+          <pb ed="#P" n="132-v"/>
+          <lb ed="#P"/>vxori leuitae cuiusdam: a caeteris vndecim
+          <lb ed="#P"/>Tribubus funditus deletus fuit nullo dis<lb ed="#P" break="no"/>crimine
+            facto etatis vel sexus.<!--Joshua 19-21-->
+        </p>
+        <p>
+          Neque etiam
+          <lb ed="#P"/>obstat quod cum prosequimur bellum justum
+          <lb ed="#P"/>solent ob peccatum principis vel procerum
+          <lb ed="#P"/>ciuitatis: occidi et diripi insontes et inno<lb ed="#P" break="no"/>centes:
+          qui neque opere neque consilio causam
+          <lb ed="#P"/>bello prestiterunt vel auxiliati sunt. Quoniam
+          <lb ed="#P"/>secundum aliquos doctores: cum ciuitas juste dam<lb ed="#P" break="no"/>natur
+          vt diruatur aut detur in predam
+          <lb ed="#P"/>non tenemur excutere an sint in ea ali<lb ed="#P" break="no"/>qui
+          innoxij et nihil tale meriti: quoniam
+          <lb ed="#P"/>omnes ciues presumuntur esse hostes rei<lb ed="#P" break="no"/>publicae
+          vel principis bellum justum infe<lb ed="#P" break="no"/>rentis.
+        </p>
+        <p>
+          Et ita milites occidendo vel diripi<lb ed="#P" break="no"/>endo
+          vrbem non peccant neque restituere
+          <lb ed="#P"/>tenentur: quoniam occidere insontes fit
+          <lb ed="#P"/>(vt ipsi aiunt) de per accidens non autem de<lb ed="#P" break="no"/>liberato
+          consilio neque directe capitur ciui<lb ed="#P" break="no"/>tas
+          vt illi occidantur.
+        </p>
+        <p>
+          ¶ Sed redeundo
+          <lb ed="#P"/>ad 1m. argumentum illud re vera non obstat quadru<lb ed="#P" break="no"/>plici
+          ratione.
+        </p>
+        <p>
+          <add place="margin-left" hand="F">Exempla veteris testamenti sunt admiranda non tamen semper imitanda</add>
+          Primo <ref>quoniam exempla veteris
+          <lb ed="#P"/>testamenti (vt supra declaratum est capº. <add place="margin-right" hand="AB">15.</add></ref>
+          <lb ed="#P"/>sunt admiranda: non autem semper sunt
+          <lb ed="#P"/>imitanda.
+        </p>
+        <p>
+          ¶ Secundo judicia dei sunt
+          <lb ed="#P"/>inscrutabilia: ideo non ex quod eeus il<lb ed="#P" break="no"/>lud
+          fieri <del rend="strikethrough" hand="B">jusseri</del> jusserit: nos etiam possu<lb ed="#P" break="no"/>mus
+          illud facere. Totius enim orbis ho<lb ed="#P" break="no"/>mines
+          sunt Dei: ideo ad libitum potest
+          <lb ed="#P"/>de eis disponere quemadmodum homines
+          <lb ed="#P"/>de possessione sua et longe melius nimi<pb ed="#P" n="133-r"/><lb ed="#P" break="no"/>rum
+          rum de propria creatoris.
+        </p>
+        <p>
+          Hominis autem
+          <lb ed="#P"/>ad possessionem suam non est justum poli<lb ed="#P" break="no"/>ticum
+          secundum <ref><name>Philosophum</name> 5 <title>Ethicorum</title></ref> presertim quia
+          <lb ed="#P"/>homines, quantumuis sint justi moritu<lb ed="#P" break="no"/>ri
+          tamen sunt et debitores mortis. <ref>Ad he<lb ed="#P" break="no"/>bre.
+          9</ref>. <quote>Statutum est hominibus semel
+          <lb ed="#P"/>mori</quote>. Inter homines autem seruanda est
+          <lb ed="#P"/>justitia politica: id est aequalitas justitiae:
+          <lb ed="#P"/>ideo judices non habent homines adeo
+          <lb ed="#P"/>subditos sibi: vt possint illos castigare
+          <lb ed="#P"/>vel occidere preter jus et fas. Non enim
+          <lb ed="#P"/>judex homo judicare aliter valet quam lex
+          <lb ed="#P"/>jubet potissimum naturalis et diuina.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Tertio respondeo quod quantumuis homo
+          <lb ed="#P"/>innocens et inculpatissimus sit apud ho<lb ed="#P" break="no"/>mines:
+          apud Deum reus est ratione pec<lb ed="#P" break="no"/>cati
+          originis juxta illud <ref>Exodi. 34</ref>. Nul<lb ed="#P" break="no"/>lus
+          apud te per se innocens est, id est, nullus
+          <lb ed="#P"/>est, qui non sit obligatus per proprium: vel
+          <lb ed="#P"/>alienum peccatum tibi. Ideo Deus juste
+          <lb ed="#P"/>occidit vel occidi jubet quem vult et quando
+          <lb ed="#P"/>vult. Quemadmodum <ref>Genesis 22</ref>. jussit
+          <lb ed="#P"/><name>Abraham</name> sacrificare filium suum <name>Isaac</name>.
+          <lb ed="#P"/>Et <quote>visitat peccata parentum in filios vsque
+          <lb ed="#P"/>ad 3m. et 4m. generationem</quote>: punitque pec<lb ed="#P" break="no"/>cata
+          e contra filiorum super patres vt le<lb ed="#P" break="no"/>gimus
+          <ref>Exodi. 34</ref>.
+        </p>
+        <p>
+          Ideo numquam vere dici
+          <lb ed="#P"/>potest Deum occidere vel punire innocen<lb ed="#P" break="no"/>tem:
+          vel in hac vita vel in futura. De prin<lb ed="#P" break="no"/>cipe
+          autem, qui delicta punit comissa in rem<lb ed="#P" break="no"/>publicam,
+          longe aliud est. Nam innoxius
+          <pb ed="#P" n="133-v"/>
+          <lb ed="#P"/>delicti nec reipublicae nec principi reus est:
+          <lb ed="#P"/>ideo neque pater pro filio nec filius pro patre
+          <lb ed="#P"/>principes penas dare possunt: neque homo<lb ed="#P" break="no"/>
+          pro delicto quod ipsemet non commisit pu<lb ed="#P" break="no"/>niri
+          debet.
+        </p>
+        <p>
+          ¶ Quarto respondeo quod cum Deus
+          <lb ed="#P"/>occultissima cordis cognoscat <ref target="http://scta.info/resource/Isam16_7@28-33">1. regum <choice><sic>10</sic><corr>16</corr></choice></ref>
+          <lb ed="#P"/>et vere intelligat quid vnicuique expediat:
+          <lb ed="#P"/>aliquando rapit hominem quia illi expedit
+          <lb ed="#P"/>tum mori, ne incidat in peccata juxta id
+          <lb ed="#P"/>quod legimus <ref>Sapien. <choice><sic>8</sic><corr>4</corr></choice></ref>: <quote source="http://scta.info/resource/sap4_11@1-12">raptus est ne
+          <lb ed="#P"/>malitia mutaret intellectum eius: aut
+          <lb ed="#P"/>ne fictio deciperet animam illius</quote>. <quote source="http://scta.info/resource/sap4_14@1-14">Placita
+          <lb ed="#P"/>enim erat deo anima eius: propterea pro<lb ed="#P" break="no"/>perauit
+          <seg><choice><sic>ad</sic><corr>e</corr></choice>ducere</seg> eum de medio iniquita<lb ed="#P" break="no"/>tum</quote>.
+          Et huiusmodi forsan erant infantes So<lb ed="#P" break="no"/>domae
+          <ref target="http://scta.info/resource/num16_32"><!--how to cite whole chapter?--><name>Dathami</name> que et <name>Abironi</name></ref> et pueri Cha<lb ed="#P" break="no"/>nanaeorum
+          quos deus occidi jussit. forsam
+          <lb ed="#P"/>enim si ad adultam etatem peruenirent
+          <lb ed="#P"/>impietatem paternam imittarentur.
+        </p>
+        <p>
+          So<lb ed="#P" break="no"/>lent
+          enim filij parentum referre vitia:
+          <lb ed="#P"/>prout dicitur <ref>Sapientiae 12</ref>: <quote source="http://scta.info/resource/sap12_10@10-26">Iniqua est na<lb ed="#P" break="no"/>tio
+          illorum et naturalis malitia: et quoniam
+          <lb ed="#P"/>non poterat <choice><sic>imittari</sic><corr>mutari</corr></choice> cogitatio cordis illorum
+          <lb ed="#P"/>in perpetuum</quote>. <quote source="http://scta.info/resource/sap12_11@1-6">Semen enim erat
+          <lb ed="#P"/>maledictum ab initio</quote>, et ibi loquitur ad litte<lb ed="#P" break="no"/>ram
+          de chananaeis. Aliquando etiam hoc
+          <lb ed="#P"/>facit dominus vt mitiores penas patian<lb ed="#P" break="no"/>tur
+          occisi ante maturam etatem: quem<lb ed="#P" break="no"/>admodum
+          Sodomorum et Chananaeorum
+          <lb ed="#P"/>filij qui jam judicium rationis attige<lb ed="#P" break="no"/>rant.
+          <seg>Existimar<subst hand="B"><del rend="strikethrough">e</del><add place="above-line">i</add></subst></seg> enim
+          <seg>debe<subst hand="B"><del rend="strikethrough">t</del><add place="above-line">mus</add></subst></seg>
+          <seg>domin<subst hand="B"><del rend="strikethrough">s</del><add place="above-line">um</add></subst></seg>
+          <pb ed="#P" n="134-r"/>
+          <lb ed="#P"/>misericordia vti etiam in infideles qui<lb ed="#P" break="no"/>bus
+          primis statim annis vitam surri<lb ed="#P" break="no"/>pit:
+          cum vitam vicando nequiores paren<lb ed="#P" break="no"/>tibus
+          poterant euadere: ac post mortem
+          <lb ed="#P"/>passuri essent penas acerbiores.
+        </p>
+        <p>
+          Quidquid
+          <lb ed="#P"/>ergo dominus facit circa hominum sta<lb ed="#P" break="no"/>tum
+          etiam cum intempestiua morte re<lb ed="#P" break="no"/>ctissimum
+          judicari oportet: quoniam vel ad
+          <lb ed="#P"/>meliorem vel saltem ad minus <seg type="correction">malu<subst hand="B"><del rend="strikethrough">d</del><add place="above-line">m</add></subst></seg> illud
+          <lb ed="#P"/>ordinat et disponit. Quia vero horum cau<lb ed="#P" break="no"/>sas
+          ignoramus: nobis videtur cum aliqui<lb ed="#P" break="no"/>bus
+          aliter quam fit esset agendum. Hanc ig<lb ed="#P" break="no"/>norationem
+          in nobis <seg>cont<choice><sic>u</sic><corr>e</corr></choice>endit</seg> <ref><name>Boethius</name>.
+          <lb ed="#P"/><title>de consola.</title> lib. 4. prosa 5a</ref>. <quote>Sed tu (in<lb ed="#P" break="no"/>quit)
+          quamuis causam tantae dispositio<lb ed="#P" break="no"/>nis
+          ignores: tamen quoniam bonus mun<lb ed="#P" break="no"/>dum
+          rector temperat: recte fieri cuncta ne<lb ed="#P" break="no"/>
+          dubites</quote>.
+        </p>
+        <p>
+          Et quoniam nemo judicum
+          <lb ed="#P"/>de mundo potestatem habet quatenus
+          <lb ed="#P"/>vel occidendo vel cruciando homines il<lb ed="#P" break="no"/>los
+          deducat ad statum meliorem: quin
+          <lb ed="#P"/>ad deteriorem quia de esse ad non esse: im<lb ed="#P" break="no"/>mo
+          si tales in peccato mortali mors appre<lb ed="#P" break="no"/>henderit:
+          ad infelicissimum omnium et
+          <lb ed="#P"/>eternum deijciunt: idcirco nulli puro ho<lb ed="#P" break="no"/>mini
+          aliquem punire corporaliter (scilicet)
+          <lb ed="#P"/>morte aut pena corporis afflictiua: pro
+          <lb ed="#P"/>alieno peccato absque mortali offensa gra<lb ed="#P" break="no"/>uissima
+          licet.
+        </p>
+        <p>
+          Homo ergo occidens innocen<lb ed="#P" break="no"/>tem
+          vel puniens illum corporaliter ob peccatum
+          <pb ed="#P" n="134-v"/>
+          <lb ed="#P"/>alienum impie facit et grande peccatum
+          <lb ed="#P"/>comittit: non enim possumus suspicari ju<lb ed="#P" break="no"/>dicem
+          occidere innocentem, vt illi melius
+          <lb ed="#P"/>sit. Quid enim melius vita: qua dominum
+          <lb ed="#P"/>nostris sceleribus iratum: lacrimis ac pre<lb ed="#P" break="no"/>cibus
+          reconciliare possumus?
+        </p>
+        <p>
+          Hinc ju<lb ed="#P" break="no"/>dicibus
+          humanis apposita est lex nullo
+          <lb ed="#P"/>modo transgredienda: Insontem et justum
+          <lb ed="#P"/><quote>non occides et illa non occidentur patres
+          <lb ed="#P"/>pro filijs<!--See above 28b, n. 21 (Ex 23:7); 24 (Dt 24:16)--></quote> et caetera. Sic <ref><name>Augustinus</name> .q. 8. su<lb ed="#P" break="no"/>per
+          josue</ref> inquit <quote>homini preceptum cur<lb ed="#P" break="no"/>rere
+          non occidetur filius pro patre Deut.
+          <lb ed="#P"/>24. Sed longe secretio re justitia judi<lb ed="#P" break="no"/>cat
+          Deus qui potens est etiam post mor<lb ed="#P" break="no"/>tem
+          (quod homo non potest) liberare vel
+          <lb ed="#P"/>perdere</quote>. Haec <name>Augustinus</name>.
+        </p>
+        <p>
+          Et <ref><name>S. Thomas</name>
+          <lb ed="#P"/>2a 2ae. q. 108. arº. vltiº. per totum precipue
+          <lb ed="#P"/>ad 3m. argum.</ref> inquit: <quote source="http://scta.info/resource/TAca84-d1e1830-d1e1150@25-71">occulta vero dei judi<lb ed="#P" break="no"/>cia
+          quibus temporaliter aliquos punit absque
+          <lb ed="#P"/>culpa: non potest humanum judicium im<lb ed="#P" break="no"/>mittari:
+          quia homo non potest comprehen<lb ed="#P" break="no"/>dere
+          horum judiciorum rationes: vt sciat
+          <lb ed="#P"/>quid expediat vnicuique: et ideo numquam secundum
+          <lb ed="#P"/>humanum judicium aliquis debet puni<lb ed="#P" break="no"/>ri
+          sine culpa poena flagelli vt occidatur
+          <lb ed="#P"/>vel mutiletur vel verberetur</quote> haec <name>S. Thomas</name>.
+        </p>
+        <p>
+          Idem docet <ref><name>Innocentius</name> in capº graue. de
+          <lb ed="#P"/>senten. excommunicationis</ref>. Et sic intelligenda sunt
+          <lb ed="#P"/>loca quae adducit <ref><name>Gratianus</name> in capº. eccle<lb ed="#P" break="no"/>sia</ref>
+          et in <ref>capº. Turbatur. 1. q. 4</ref>. et <ref>24.
+          <pb ed="#P" n="135-r"/>
+          <lb ed="#P"/>q. 3. in suma</ref>. Et <ref>glosa. in suma ibi</ref>: et <ref>1. q.
+          <lb ed="#P"/>4. in suma</ref>. vbi tractatur: an deus puniat
+          <lb ed="#P"/>hominem pro peccato alterius hominis. His
+          <lb ed="#P"/>consonat quod <ref><name>S. Thomas</name> adducit 2a 2ae. q.
+          <lb ed="#P"/>64: arº. 6. ad 1m</ref>: <ref>12. q. 100. arº. 8, ad 3m</ref>.
+          <lb ed="#P"/>Ex his liquet quantum ponderis habeant ea
+          <lb ed="#P"/>quae <ref>jureconsulti docent in l. aut facta ff.
+          <lb ed="#P"/>de penis</ref>. Et in <ref>c. dilectus filius. cl. 2º. de
+          <lb ed="#P"/>symonia</ref>. disserentes contra <ref><name>Innocen.</name> in
+          <lb ed="#P"/>d. c. Graue<!--refers to immediately above--></ref>.
+        </p>
+        <p>
+          Vniuersitatem cum nocenti<lb ed="#P" break="no"/>bus
+          deleri posse: ex eo quod deus vt legimus in
+          <lb ed="#P"/>veteri testamento<!--Sam 15, 3; Jos 6, 21; c£. Dt 7, 16; 20, 16-17--> aliquando jusserit fun<lb ed="#P" break="no"/>ditus
+          dirui ciuitates omnesque pueros <add place="above-line" hand="AB">et</add> foe<lb ed="#P" break="no"/>minas
+          promiscue occidi. Adducunt etiam
+          <lb ed="#P"/>Troiam fuisse deletam: quasi exemplum mi<lb ed="#P" break="no"/>litare
+          a paganis profectum: viros christia<lb ed="#P" break="no"/>nos
+          mouere debeat. His enim respondetur
+          <lb ed="#P"/>judicia Dei vbique recta esse atque sancta:
+          <lb ed="#P"/>hominum autem judicia: semper justa vel
+          <lb ed="#P"/>bona non existere: nisi rationi naturali ju<lb ed="#P" break="no"/>rique
+          diuino et aequitati congruere noscantur.
+        </p>
+        <p>
+          Neque enim propterea quod principes aut impe<lb ed="#P" break="no"/>ratores
+          leges aliquas edant vel ediderint
+          <lb ed="#P"/>quibus innocentes pro culpis alienis pe<lb ed="#P" break="no"/>na
+          flagelli et corporaliter puniatur statue<lb ed="#P" break="no"/>rint:
+          ideo necesse est non continere iniqui<lb ed="#P" break="no"/>tatem
+          cum multae non justae reperiantur.
+          <lb ed="#P"/>Et voluntas Principis recipitur pro lege ali<lb ed="#P" break="no"/>quando
+          ut <ref>insti. de jure naturali. § sed et
+          <lb ed="#P"/>quod princi.</ref>
+        </p>
+        <p>
+          Quae tamen est valde variabi<lb ed="#P" break="no"/>lis.
+          Et secundum <ref><!--Not 3, but Poli. 2, c. 8 (1.272 b 5-7)--><name>philosophum</name> 3. <title>Poli.</title></ref> Voluntas humana
+          <lb ed="#P"/>est valde malus canon. Presertim quia error
+          <pb ed="#P" n="135-r"/>
+          <lb ed="#P"/>principis facit ius secundum leges humanas ut
+          <lb ed="#P"/><ref>ff. de suppel. lega. l. 3. in fine</ref>. Propterea
+          <lb ed="#P"/>imittandum non est quod legimus in <ref>l.
+          <lb ed="#P"/>si quis. cum militibus<!--Si Quisquis Cum Militibus-->. Cod. doctores, l. ju<lb ed="#P" break="no"/>lia.
+            Maiesta</ref>. vbi inquit: <quote>filij vero eius
+          <lb ed="#P"/>scilicet comittentis crimen lesae maiestatis qui<lb ed="#P" break="no"/>bus
+          vitam imperatoria specialiter leni<lb ed="#P" break="no"/>tate
+          concedimus (paterno enim deberent
+          <lb ed="#P"/>perire suplicio) in quibus hoc est here<lb ed="#P" break="no"/>ditarij
+          criminis exempla metuuntur</quote>:
+          <lb ed="#P"/>haec lex reuera injusta est: quantum
+          <lb ed="#P"/>ad illam partem <quote>paterno deberent pe<lb ed="#P" break="no"/>rire
+          supplicio</quote>.
+        </p>
+        <p>
+          Jureconsultorum igitur
+          <lb ed="#P"/>verba attente perpendenda distinguenda
+          <lb ed="#P"/>et intelligenda sunt: quod si innocentes
+          <lb ed="#P"/>pro culpis alienis sunt puniendi: hoc
+          <lb ed="#P"/>fieri debet pena damni non sensus
+          <lb ed="#P"/>vt filius infamis ob crimen patris reddatur
+          <lb ed="#P"/>ratione laesae maiestatis diuinae vel hu<lb ed="#P" break="no"/>manae
+          priueturque amissione bonorum: et
+          <lb ed="#P"/>incapacitate ad dignitates.
+        </p>
+        <p>
+          Numquam tamen
+          <lb ed="#P"/>innocens alieni criminis ratione
+          <lb ed="#P"/>puniri debet humano judicio aliter: et
+          <lb ed="#P"/>secus faciens reus est grauissimi crimi<lb ed="#P" break="no"/>nis
+          apud Deum.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 30 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#a1wilson">Andrew Lars Wilson</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 30 [Bnf 12926 Transcription]</title>
+          <date when="2025-05-03">May 03, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="135-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e434">
+        <head>Caput 30 [Bnf 12926 Transcription]</head>
+        <p>
+          <lb ed="#P" n="26"/>Caput 30m.
+        </p>
+        <p>
+          <lb ed="#P"/>¶ Ad argumentum (scilicet) quod damnata
+          <lb ed="#P"/>justo bello ciuitate: omnes eius incolae
+          <lb ed="#P"/>presumuntur hostes / falsum est. Non
+          <pb ed="#P" n="136-r"/>
+          <lb ed="#P"/>enim presumptio juris operari debet in his
+          <lb ed="#P"/>quae sunt impossibilia. Quis enim presu<lb ed="#P" break="no"/>mat
+          infantes viribus et consilio infirmos
+          <lb ed="#P"/>omnique malitia vacantes reos esse? Quis
+          <lb ed="#P"/>trepidantes foeminas bello dedisse causam
+          <lb ed="#P"/>suspicetur: nisi constet facultatibus col<lb ed="#P" break="no"/>latis
+          bellum aluisse quod rarissime con<lb ed="#P" break="no"/>tinget?
+          Itaque hos esse innocentes est natu<lb ed="#P" break="no"/>ralis
+          demonstratio. Ergo presumptio di<lb ed="#P" break="no"/>uersa
+          hoc casu nihil operatur. Vt in <ref>c.
+          <lb ed="#P"/>Veritate 8. distin.</ref>
+        </p>
+        <p>
+          Rursus foeminas
+          <lb ed="#P"/>et pueros innocentes esse ac sic penam
+          <lb ed="#P"/>non mereri: probatur per <ref>leg. diui. Deut.
+          <lb ed="#P"/>20</ref>. Vbi dominus precipit Hebraeis, vt cum
+          <lb ed="#P"/>aliquam ciuitatem opugnarent ob jus<lb ed="#P" break="no"/>tam
+          aliquam causam puta injuriam
+          <lb ed="#P"/>sibi illatam: parcerent foeminis et in<lb ed="#P" break="no"/>fantibus:
+          bellica vero vi vterentur ad<lb ed="#P" break="no"/>uersus
+          viros; quod Deus non precepisset ni<lb ed="#P" break="no"/>si
+          manifestum esset saltem pro maiori
+          <lb ed="#P"/>parte tale genus personarum hostes non
+          <lb ed="#P"/>esse sed innocentes. Ergo hi innocentes
+          <lb ed="#P"/>sunt diuino testimonio.
+        </p>
+        <p>
+          Secundo proba<lb ed="#P" break="no"/>tur
+          ex <ref>Innocentio in d. c. Dilectus</ref>. et
+          <lb ed="#P"/>in <ref>d. c. Graue</ref>. et ex doctoribus vtro<lb ed="#P" break="no"/>bique:
+          qui veluti manifestum supponunt
+          <lb ed="#P"/>in quolibet populo: esse plurimos innocen<lb ed="#P" break="no"/>tes.
+          Deinde si forte bellum geritur in<lb ed="#P" break="no"/>ter
+          christianos in qualibet ciuitate: sunt
+          <lb ed="#P"/>sacerdotes monachi et monachae et alij
+          <pb ed="#P" n="136-v"/>
+          <lb ed="#P"/>plures diuino cultui dedicati. Sunt agri<lb ed="#P" break="no"/>colae:
+          operarij, exteri mercatores: peregrini
+          <lb ed="#P"/>quos lex judicat esse innocentes: adeo vt
+          <lb ed="#P"/>ab omni vi bellica sint immunes ex ecclesiae
+          <lb ed="#P"/>decreto ut in <ref>c. ennouamus. de tregua
+          <lb ed="#P"/>et pace</ref>: adeo vt si a militibus spolientur:
+          <lb ed="#P"/>milites tenentur ad restitutionem et pec<lb ed="#P" break="no"/>cant
+          mortaliter.
+        </p>
+        <p>
+          Cum ergo in quacumque
+          <lb ed="#P"/>ciuitate plurimi sint innocentes: falsum
+          <lb ed="#P"/>est quod damnata ciuitate omnes qui intus
+          <lb ed="#P"/>sunt presumuntur hostes et ex conse<lb ed="#P" break="no"/>quenti
+          milites abstinere debent ab infer<lb ed="#P" break="no"/>enda
+          vi personis quae prese ferunt esse
+          <lb ed="#P"/>innocentes: quod exercitus maiores du<lb ed="#P" break="no"/>ces
+          exacte ac seuere admonere debent:
+          <lb ed="#P"/>nisi vellent participes fieri eiusdem peccati
+          <lb ed="#P"/>et damni.
+        </p>
+        <p>
+          Meminisse tamen oportet il<lb ed="#P" break="no"/>lam
+          confusam doctorum sententiam quod
+          <lb ed="#P"/>damnata ciuitate vt diripiatur bello, scilicet,
+          <lb ed="#P"/>justo: milites non tenentur excutere qui<lb ed="#P" break="no"/>nam
+          sint nocentes: qui vero innocentes:
+          <lb ed="#P"/>quia vt dicunt tunc de per accidens (id est)
+          <lb ed="#P"/>preter intentionem est occidere innocentes:
+          <lb ed="#P"/>veram esse quando si omitteretur aliqua
+          <lb ed="#P"/>circunstantia vel actu victoria illius jus<lb ed="#P" break="no"/>ti
+          belli haberi non posset: vel hostes non
+          <lb ed="#P"/>subigerentur. Et tamen accidit in illo ac<lb ed="#P" break="no"/>tu
+          vel circunstantia inueniri innocentes.
+        </p>
+        <p>
+          Quod si talis actus vel circunstantia nec<lb ed="#P" break="no"/>essaria
+          non est sed excusari potest pro<lb ed="#P" break="no"/>culdubio
+          rei sunt mortis et aliorum no<pb ed="#P" n="137-r"/><lb ed="#P" break="no"/>cumentorum
+          talium innocentium. Hu<lb ed="#P" break="no"/>ius
+          circunstantiae sit exemplum, finge exer<lb ed="#P" break="no"/>citum
+          <!--complicated substitution; please verify-->
+            <seg>just<subst hand="B"><del rend="strikethrough">um</del><add place="overwrite">o</add></subst></seg>
+            <seg>bell<subst hand="B"><del rend="strikethrough">um</del><add place="overwrite">o</add></subst></seg>
+            <del rend="strikethrough" hand="B">prosequentem</del>
+            <seg>irru<subst hand="B"><add place="margin-right">ere</add>
+             <lb ed="#P" break="no"/><del rend="strikethrough">mpere</del></subst></seg>
+           vrbem damnatam principis decre<lb ed="#P" break="no"/>to,
+           vt diripiatur: discurrunt milites per
+           <lb ed="#P"/>fora, et regiones vrbis: occidendo omnes ob<lb ed="#P" break="no"/>uios,
+           certe tunc si occidant mercatorem
+           <lb ed="#P"/>vel peregrinum non peccant.
+        </p>
+        <p>
+          Non enim <add place="margin-right" hand="AB">tenentur</add>
+          <lb ed="#P"/>eo tempore excutere situ ne ciuitatis inco<lb ed="#P" break="no"/>la
+          <add place="margin-left" hand="AB">qui occurit</add>
+          an exterus: ne dum haec agit: victoria
+          <lb ed="#P"/>in periculum <del rend="strikethrough" hand="A">agit</del> veniat: et victores com<lb ed="#P" break="no"/>mutata
+          fortuna remaneant victi. Et ideo
+          <lb ed="#P"/>de per accidens tunc occiduntur innocentes
+          <lb ed="#P"/>non de per se.
+        </p>
+        <p>
+          Hoc tamen intelligendum <add place="margin-right" hand="A">est</add>
+          <lb ed="#P"/>nisi obuij manifeste sint ex illis quibus
+          <lb ed="#P"/>tamquam innocentibus parcendum est:
+          <lb ed="#P"/>puta si sit puer / mulier vel senex / vel
+          <lb ed="#P"/>homo inermis / vel sacerdotali seu mona<lb ed="#P" break="no"/>chali
+          cultu venerabilis. Hos enim si mi<lb ed="#P" break="no"/>lites
+          occidant, peccant mortaliter. lam enim
+          <lb ed="#P"/>illis non de per accidens vim inferunt sed
+          <lb ed="#P"/>de per se et ex principali intentu.
+        </p>
+        <p>
+          Et quod te<lb ed="#P" break="no"/>neantur
+          presumere per eiusmodi probabi<lb ed="#P" break="no"/>lia
+          signa tales fore innocentes et sic ab in<lb ed="#P" break="no"/>ferendo
+          illis mala abstinere patet: quia
+          <lb ed="#P"/>nocumenta quae inferuntur in bello: non
+          <lb ed="#P"/>sunt tam parui momenti: quod in dubio vel
+          <lb ed="#P"/>de facili et passim absque timore deum et
+          <lb ed="#P"/>proximum offendendi: possint inferri. Te<lb ed="#P" break="no"/>nentur
+          ergo bellatores christiani: quos ta<pb ed="#P" n="137-v"/><lb ed="#P" break="no"/>libus
+          signis viderint apparere innocentes
+          <lb ed="#P"/>potius presumere quam noxios etiam in con<lb ed="#P" break="no"/>flictu.
+        </p>
+        <p>
+          ¶ Sit aliud exemplum: recepe<lb ed="#P" break="no"/>runt
+          sese in arcem aliquam foeminae / pue<lb ed="#P" break="no"/>ri
+          senes / et alij innocentes. Certe si ad pros<lb ed="#P" break="no"/>perum
+          totius belli exitium non est ma<lb ed="#P" break="no"/>xime
+          necessarium arcem illam oppugnari:
+          <lb ed="#P"/>peccatum grauissimum esset arcem vel
+          <lb ed="#P"/>flammis vel cuniculis diruere cum magna
+          <lb ed="#P"/>vt necesse est innoxiorum clade. Esset
+          <lb ed="#P"/>enim hoc de per se occidere innocentes. Si
+          <lb ed="#P"/>autem necessarium sit accidentaliter et pre<lb ed="#P" break="no"/>ter
+          intentionem occiderentur.
+        </p>
+        <p>
+          Quod pro<lb ed="#P" break="no"/>batur
+          quoniam bellum numquam est lici<lb ed="#P" break="no"/>tum
+          nisi cum est necessarium: ita quod nul<lb ed="#P" break="no"/>lo
+          modo possit excusari. Est enim pestis
+          <lb ed="#P"/>et atrox humani generis calamitas ut in
+          <lb ed="#P"/><ref>c. s. quos. 23. q. 4</ref>. et in <ref>c. ad apostolice
+          <lb ed="#P"/>de re judi. libro 6</ref>. et in<ref>c. Pisanis. de res<lb ed="#P" break="no"/>titu.
+          spolia.</ref>
+        </p>
+        <p>
+          Bellum enim opus est dese
+          <lb ed="#P"/>impium et de tertio genere actuum <ref>capº. <choice><sic>29</sic><corr>28b</corr></choice>
+          <lb ed="#P"/>supra</ref>, nisi ex circunstantia, scilicet, <add place="above-line" hand="B">et</add> neces<lb ed="#P" break="no"/>sitate
+          justum reddatur autore <ref><name>Augustino</name></ref>
+          <lb ed="#P"/>in <ref>c. noli. 23. q. 1. Bellum</ref> inquit <quote>de<lb ed="#P" break="no"/>bet
+          esse necessitatis: vt liberet Deus a neces<lb ed="#P" break="no"/>sitate
+          et conseruet in pace</quote> haec ille.
+        </p>
+        <p>
+          Rursus
+          <lb ed="#P"/><name>Nicolaus papa</name> in c. si nulla 23. q. 8.
+          <lb ed="#P"/>inquit:<ref>si nulla viget necessitas: non solum
+          <lb ed="#P"/>quadragessimali tempore: sed etiam omni
+          <lb ed="#P"/>tempore est a prelijs abstinendum. Si autem
+          <lb ed="#P"/>ineuitabilis vrget importunitas nec quad<pb ed="#P" n="138-r"/><lb ed="#P" break="no"/>ragesimali
+          tempore pro defensione tam
+          <lb ed="#P"/>sua quam patriae seu legum paternarum, est
+          <lb ed="#P"/>bellorum proculdubio preparationi parcen<lb ed="#P" break="no"/>dum</ref>
+          et caetera. haec ille. His consonant verba
+          <lb ed="#P"/>diuina <quote>si fieri potest quod ex vobis est:
+          <lb ed="#P"/>cum omnibus bominibus pacem haben<lb ed="#P" break="no"/>tes</quote>.
+          <ref>ad Roma. 12</ref>.
+        </p>
+        <p>
+          Item <ref><name>Cicero</name> <title>officiorum</title>
+          <lb ed="#P"/>lib. 1º.</ref> nunquam probat bellum nisi
+          <lb ed="#P"/>vrgeat ineuitabilis necessitas: ita quod nullo
+          <lb ed="#P"/>modo euitari possit. Ergo si arx innoxijs
+          <lb ed="#P"/>hominibus referta possit non dirui citra
+          <lb ed="#P"/>magnum totius belli victoriae periculum:
+          <lb ed="#P"/>certe princeps eam opugnans, et cruenta ir<lb ed="#P" break="no"/>ruptione
+          diruens reus est apud sumum
+          <lb ed="#P"/>Judicem quod occidit de per se innocentes. De<lb ed="#P" break="no"/>ficit
+          enim circunstantia qua bellum jus<lb ed="#P" break="no"/>tum
+          redditur (scilicet) necessitas. Ideo om<lb ed="#P" break="no"/>nium
+          malorum quae ibi acciderint ratio<lb ed="#P" break="no"/>nem
+          reddent Deo: et tenebuntur ipse atque
+          <lb ed="#P"/>milites ad restitutionem.
+        </p>
+        <p>
+          Confirmatur
+          <lb ed="#P"/>haec veritas ex verbis <name>S. Thomae</name> qui expo<lb ed="#P" break="no"/>nens
+          illa verba <name>apostoli</name> <quote>non possumus ali<lb ed="#P" break="no"/>quid
+          contra veritatem</quote> <ref>2 ad Corinth.
+          <lb ed="#P"/>13</ref>. inquit quod si puniret apostolus innocen<lb ed="#P" break="no"/>tes:
+          faceret contra veritatem et justitiam.
+          <lb ed="#P"/>Facere autem contra justitiam est peccatum
+          <lb ed="#P"/>mortale autore <ref><name>diuo Thoma.</name> 2a 2ae. q. 59.
+          <lb ed="#P"/>arº. 4</ref>. et aliquid in huiusmodi actibus rapien<lb ed="#P" break="no"/>tes
+          peccant mortaliter et tenentur ad res<lb ed="#P" break="no"/>titutionem.
+        </p>
+        <p>
+          Non ergo occidendi sunt pau<lb ed="#P" break="no"/>ci
+          et multo minus plures innocentes: vt
+          <pb ed="#P" n="138-v"/>
+          <lb ed="#P"/>puniantur pauci nocentes. Non enim sunt
+          <lb ed="#P"/>facienda mala vt inde veniant bona. <ref>Ad
+          <lb ed="#P"/>Romanos 3º</ref>. Neque enim haec mala vult deus:
+          <lb ed="#P"/>tali lucro compensari <ref>secundum <name>Augustinum</name>
+          <lb ed="#P"/><title>super psalmo</title>. 146.</ref> et legitur. <ref>33. q. 5. c.
+          <lb ed="#P"/>1</ref>. <quote>Non enim (inquit) vult deus tale dam<lb ed="#P" break="no"/>num
+          tali lucro compensari: nimirum pe<lb ed="#P" break="no"/>riculosissime
+          admittitur haec compensatio</quote> et in <ref>alia parte 14. dist. c. quod ait</ref>.
+        </p>
+        <p>
+          Et
+          <lb ed="#P"/>ibi est <ref>glossa notabilis</ref> et concordat <ref><name>S. Tho.</name>
+          <lb ed="#P"/>2a 2ae. q. 26. arº. 4. in corpore</ref>. et <ref>2m.</ref> et
+          <lb ed="#P"/><ref>q. 43. arº. <choice><sic><gap reason="blank" quantity="5" unit="character"/></sic><corr>7, ad 5um</corr></choice></ref> vbi inquit quod nemini li<lb ed="#P" break="no"/>cet
+          peccare venialiter vt alius non peccet
+          <lb ed="#P"/>mortaliter. Quod etiam asserit <ref><name>Augustinus</name>
+          <lb ed="#P"/>in c. faciat homo 22. q. 2</ref>. his verbis:
+          <lb ed="#P"/><quote>faciat homo etiam pro temporali salute
+          <lb ed="#P"/>hominum: quod potest: cum autem ad hoc
+          <lb ed="#P"/>ventum fuerit vt tali saluti nisi pec<lb ed="#P" break="no"/>cando
+          consulere non possit: jam se existi<lb ed="#P" break="no"/>met
+          non habere quid faciat</quote>.
+        </p>
+        <p>
+          Et <ref>c. se<lb ed="#P" break="no"/>quenti</ref>
+          et <ref>c. nequis arbitretur</ref>. et <ref>c. Pri<lb ed="#P" break="no"/>mum</ref>.
+          et <ref>extra de vsuris. c. super eo</ref>. et
+          <lb ed="#P"/><ref>extra ne cleri. vel monachi. c. magnopere</ref>.
+          <lb ed="#P"/>Immo vero inquit <name>S. Tho.</name> quod homo potius
+          <lb ed="#P"/>debet eligere mortem et cruciatum attrocem
+          <lb ed="#P"/>quam peccare vel venialiter, ita <ref>2a 2ae: q. 110.
+          <lb ed="#P"/>arº. 3. ad 3um</ref>. et in alijs locis.
+        </p>
+        <p>
+          Hinc oritur
+          <lb ed="#P"/>regula quod quando malum et bonum sunt
+          <lb ed="#P"/>ita conjuncta vt ex bono quod volo fa<lb ed="#P" break="no"/>cere:
+          necessario debeat oriri malum vel
+          <lb ed="#P"/>fere semper <del rend="strikethrough"><gap extent="1" unit="word"></gap></del> oriatur malum, si ma<pb ed="#P" n="139-r"/><lb ed="#P" break="no"/>lum
+          maius est quam bonum quod volo facere:
+          <lb ed="#P"/>semper bonum est omittendum ne inde
+          <lb ed="#P"/>malum oriatur. Ratio est quoniam si
+          <lb ed="#P"/>quis maximis virtutibus preditus: mini<lb ed="#P" break="no"/>mi
+          cuiusdam peccati mortalis reus sit:
+          <lb ed="#P"/>damnabitur in eternum.
+        </p>
+        <p>
+          Hanc autem re<lb ed="#P" break="no"/>gulam
+          <name>S. Thomas</name> et <name>Augustinus</name> intel<lb ed="#P" break="no"/>ligunt:
+          etiam quando inde oritur peccatum
+          <lb ed="#P"/>veniale. Item haec regula non solum est in<lb ed="#P" break="no"/>telligenda
+          in nobis ipsis: verum etiam quan<lb ed="#P" break="no"/>do
+          alicui beneficium facere volumus: cu<lb ed="#P" break="no"/>rando
+          ne illi veniat malum: circumspice<lb ed="#P" break="no"/>re
+          enim debemus an ex eo bono quod illi
+          <lb ed="#P"/>facere volumus oriatur maius malum
+          <lb ed="#P"/>quam illud quod euitare volumus.
+        </p>
+        <p>
+          Ita <ref>S.
+          <lb ed="#P"/>Thomas quodlib. 3. arº. 11º. ad. 5m</ref>. vbi
+          <lb ed="#P"/>sic ait: <quote>tunc solum aliquod bonum esset
+          <lb ed="#P"/>pretermittendum propter consequens malum:
+          <lb ed="#P"/>quando malum consequens esset multo maius
+          <lb ed="#P"/>quam bonum: et vt frequentius accideret</quote>. haec
+          <lb ed="#P"/><name>S. Thomas</name> formaliter. Et vide <ref>Abulen. su<lb ed="#P" break="no"/>per
+          Matthe. c. 23. q. 19</ref>.
+        </p>
+	    </div>
+    </body>
+  </text>
+</TEI>
+

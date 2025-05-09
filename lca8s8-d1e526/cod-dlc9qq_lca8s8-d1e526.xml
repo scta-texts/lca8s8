@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 37 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 37 [Bnf 12926 Transcription]</title>
+          <date when="2025-05-09">May 09, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="164-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e526">
+        <head xml:id="lca8s8-d1e526-Hd1e97">Caput 37</head>
+        <p xml:id="lca8s8-d1e526-d1e99">
+          <lb ed="#P" n="10"/>Caput 37m
+        </p>
+        <p xml:id="lca8s8-d1e526-d1e104">
+          <lb ed="#P" n="11"/><pc type="pilcrow"/> Cuncta deducta superius confirma<lb ed="#P" break="no" n="12"/>ri 
+          videntur et sic non esse omnino abo<lb ed="#P" break="no" n="13"/>minandum
+          immolare Deo homines sua<lb ed="#P" break="no" n="14"/>deri 
+          potest per illud quod Deus iussit Abra<lb ed="#P" break="no" n="15"/>hamo, 
+          ut unicum filium suum Isaac sibi 
+          <lb ed="#P" n="16"/>immolaret. Quod quamquam ex verbis sacrae 
+          <lb ed="#P" n="17"/>scripturae Genesis 22 c. Et ex interpre<lb ed="#P" break="no" n="18"/>tatione 
+          sacrorum doctorum constet Deum Iusis<lb ed="#P" break="no" n="19"/>se
+          ut ostenderet hominibus fidem et obe<lb ed="#P" break="no" n="20"/>dientiam 
+          serui sui Abraham et signi<lb ed="#P" break="no" n="21"/>ficaret 
+          adorandum illud misterium quo 
+          <lb ed="#P" n="22"/>Deus pater unicum filium suum Iesam 
+          <lb ed="#P" n="23"/>obtulit in sacrificium morti pro salute 
+          <lb ed="#P" n="24"/>hominum: nihilominus tamen dicere 
+          <lb ed="#P" n="25"/>possumus Deum etiam voluisse signifi<lb ed="#P" break="no" n="26"/>care: 
+          nequaquam ulli facere iniuriam si 
+          <lb ed="#P" n="27"/>iussisset sibi eum in sacrificium offerri. 
+          <lb ed="#P" n="28"/>Deus enim autor est omnis creaturae, et 
+          <lb ed="#P" n="29"/>omnes creaturae possessiones sunt eius, 
+          <lb ed="#P" n="30"/>ut dictum fuit. <quote xml:id="lca8s8-d1e526-Qd1e150">Domini enim est terra 
+          <pb ed="#P" n="165-r"/>
+          <lb ed="#P" n="1"/>et plenitudo eius</quote> <ref xml:id="lca8s8-d1e526-Rd1e157">psalmo 23</ref>. <quote xml:id="lca8s8-d1e526-Qd1e159">Et dominus 
+          <lb ed="#P" n="2"/>uniuersorum tu es</quote> <ref xml:id="lca8s8-d1e526-Rd1e165">2o Machabaeorum 14</ref> et 
+          <lb ed="#P" n="3"/>per consequens mortis et vitae. Quanuis autem do<lb ed="#P" break="no" n="4"/>minus 
+          semel tantum petierit ut sibi offer<lb ed="#P" break="no" n="5"/>retur 
+          humana victima in <sic>holocaustrum</sic> 
+          <lb ed="#P" n="6"/>(scilicet) Isaac secundum quod intellexit Abraham
+          <lb ed="#P" n="7"/>neque illud ipsum voluerit perfici? hoc tamen 
+          <lb ed="#P" n="8"/>non fuit quod sibi omnia offerri etiam vita 
+          <lb ed="#P" n="9"/>hominum non deberentur sed nimirum 
+          <lb ed="#P" n="10"/>id processit ex immensa eius erga genus hu<lb ed="#P" break="no" n="11"/>manum 
+          charitate: et ita misertus Isaac 
+          <lb ed="#P" n="12"/>noluit illum sibi immolari propter foedus
+          <lb ed="#P" n="13"/>quod pepigerat cum Abrahamo et pos<lb ed="#P" break="no" n="14"/>teritate 
+          illius, unde habet originem 
+          <lb ed="#P" n="15"/>quam diximus in 2o principio Iusti<lb ed="#P" break="no" n="16"/>tia 
+          dignatiua.
+        </p>
+        <p xml:id="lca8s8-d1e526-d1e200">
+          Rursus Deo etiam omnia 
+          <lb ed="#P" n="17"/>deberi et offerri etiam homines in sacri<lb ed="#P" break="no" n="18"/>ficium 
+          ab alio loco scripturae confirma<lb ed="#P" break="no" n="19"/>ri 
+          videtur. Iussit enim populum suum 
+          <lb ed="#P" n="20"/>sibi sacrificare omne primo genitum his 
+          <lb ed="#P" n="21"/>verbis: sanctifica mihi omne primo geni<lb ed="#P" break="no" n="22"/>tum 
+          quod aperit vuluam in filiis Isra<lb ed="#P" break="no" n="23"/>el 
+          tam de hominibus quam de iumentis: 
+          <lb ed="#P" n="24"/>mea sunt enim omnia exodi 13 et Nu<lb ed="#P" break="no" n="25"/>merorum
+          8 Quamuis postea illos ab hoc pre<lb ed="#P" break="no" n="26"/>cepto 
+          liberauerit: dummodo illi parturtu<lb ed="#P" break="no" n="27"/>rum 
+          vel agnum anniculum offerrent 
+          <lb ed="#P" n="28"/>ut patet Leuitici 12 et lucae 2o Nam 
+          <lb ed="#P" n="29"/>cum deus iussit sibi omnia primogeni<lb ed="#P" break="no" n="30"/>ta 
+          sacrificari: et cum addidit mea sunt 
+          <lb ed="#P" n="31"/>omnia primogenita: satis ostendit omnia 
+          <lb ed="#P" n="32"/>sibi iuste deberi: posseque absque ullius in<pb ed="#P" n="165-v"/><lb ed="#P" break="no" n="1"/>iuria 
+          precipere ut sibi immolarentur, vel 
+          <lb ed="#P" n="2"/>quod seruirent sibi perpetuo in tabernaculo 
+          <lb ed="#P" n="3"/>foederis: in ministerium cultus diuini. 
+          <lb ed="#P" n="4"/>Quemadmodum hodie videmus Deum non<lb ed="#P" break="no" n="5"/>numquam 
+          morte rapere primogenitos: prout 
+          <lb ed="#P" n="6"/>sibi placet: quo facto nulli infert iniuri<lb ed="#P" break="no" n="7"/>am 
+          ut dictum est. Sic etiam Deus quos<lb ed="#P" break="no" n="8"/>dam 
+          seruitio suo voluit esse adductos
+          <lb ed="#P" n="9"/>scilicet, Tribum leui ut patet Numerorum 3 
+          <lb ed="#P" n="10"/>et 8 c. ac denique absque ullius iniuria 
+          <lb ed="#P" n="11"/>potest omnes homines ad libitum: vel oc<lb ed="#P" break="no" n="12"/>cidere 
+          vel seruare vel cuiquam usui addicere. <lb ed="#P" n="13"/>Cum vero preceptum illud sacrifica mi<lb ed="#P" break="no" n="14"/>hi 
+          omne primogenitum redimi vult obla<lb ed="#P" break="no" n="15"/>to 
+          pare turturum vel certis quibusdam ani<lb ed="#P" break="no" n="16"/>malibus 
+          nobis manifeste ostendit immen<lb ed="#P" break="no" n="17"/>sam 
+          misericordiam suam condescenden<lb ed="#P" break="no" n="18"/>tiam 
+          <pc type="virgula">/</pc> gratiam <pc type="virgula">/</pc> et iustitiam dignatiuam.
+        </p>
+        <p xml:id="lca8s8-d1e526-d1e284">
+          <lb ed="#P" n="19"/>His congruit quod legimus iudicum 11o capitulo 
+          <lb ed="#P" n="20"/>Iepte unicam filiam suam Deo immolasse: 
+          <lb ed="#P" n="21"/>forte adductus scilicet quod Deus simile sacri<lb ed="#P" break="no" n="22"/>ficium 
+          ab Abrahamo exegerit: atque ideo il<lb ed="#P" break="no" n="23"/>li 
+          gratum fore <del rend="strikethrough">illi</del> existimans: quod ibi 
+          <lb ed="#P" n="24"/>notat <ref xml:id="lca8s8-d1e526-Rd1e302">Abulensis quqestione 48 et 52</ref>. Cum autem 
+          <lb ed="#P" n="25"/>populus Israeliticus clarissimus et celeber<lb ed="#P" break="no" n="26"/>rimus 
+          esset apud omnes orbis nationes prop<lb ed="#P" break="no" n="27"/>ter 
+          admiranda opera et miracula a deo a<lb ed="#P" break="no" n="28"/>pud 
+          illos edita: autore Eusebio de prepara<lb ed="#P" break="no" n="29"/>tione 
+          euangelica libro 11o et 12 ubi asserit 
+          grecos et Platonem multa ad religionem 
+          <lb ed="#P" n="30"/>et <sic>policiam</sic> pertinentia ab hebraeis didicis<lb ed="#P" break="no" n="31"/>se: 
+          <quote xml:id="lca8s8-d1e526-Qd1e321">sapientes (inquit) Grecorum Iudaicam fuisse 
+          <pb ed="#P" n="166-r"/>
+          <lb ed="#P" n="1"/>immitatos doctrinam</quote>. Et parum infra: <quote xml:id="lca8s8-d1e526-Qd1e329">omnia 
+          <lb ed="#P" n="2"/>vero a Iudaeis atque barbaris furatos commodius 
+          <lb ed="#P" n="3"/>dixisse nullus admirabitur qui et loquen<lb ed="#P" break="no" n="4"/>tes 
+          et fures fuisse non ignoret</quote>. haec Eusebius. 
+          <lb ed="#P" n="5"/>Ergo non absurde quis suspicetur consuetu<lb ed="#P" break="no" n="6"/>dinem
+          immolandi homines in omnes gen<lb ed="#P" break="no" n="7"/>tes 
+          deriuatam: quod audirent maximum Iudaeorum
+          Deum charissimo seruo suo Abrahamo 
+          <lb ed="#P" n="8"/>iussisse ut proprium filium illi in sacrifi<lb ed="#P" break="no" n="9"/>cium
+          offerret: ac rursus clarissimum eius 
+          <lb ed="#P" n="10"/>gentis ducem victoriam adeptum filiam 
+          <lb ed="#P" n="11"/>unicam Deo immolasse: utique non factu<lb ed="#P" break="no" n="12"/>rus 
+          nisi id Deo gratissimum futurum opi<lb ed="#P" break="no" n="13"/>naretur.
+          Mirandum ergo non est si popu<lb ed="#P" break="no" n="14"/>li 
+          <del rend="strikethrough">et reiplublicae</del> destituti fide et institutio<lb ed="#P" break="no" n="15"/>ne 
+          christiana: agnoscentes immensam Dei 
+          <lb ed="#P" n="16"/>maiestatem et cumulatissimam in omnes 
+          <lb ed="#P" n="17"/>beneficentiam seque teneri ad offerendum 
+          <lb ed="#P" n="18"/>illi sacrificium ex preciosioribus rebus 
+          <lb ed="#P" n="19"/>quae tamen quot et quales sint arbitrio eo<lb ed="#P" break="no" n="20"/>rum 
+          relinquitur) persuasi essent statuere 
+          <lb ed="#P" n="21"/>ut de toto populo in aliquibus diebus et 
+          <lb ed="#P" n="22"/>pro quibusdam necessitatibus nonnulli quantum<lb ed="#P" break="no" n="23"/>cunque 
+          Innocentes pro salute totius reipublicae 
+          <lb ed="#P" n="24"/>Diis immolarentur.
+        </p>
+        <p xml:id="lca8s8-d1e526-d1e386">
+          Et sic apparet non 
+          <lb ed="#P" n="25"/>in breui aut verbis paucis posse fieri eui<lb ed="#P" break="no" n="26"/>dentiam 
+          infidelibus presertim nostris: quod immo<lb ed="#P" break="no" n="27"/>lare 
+          homines deo, natura aduersetur. Atque 
+          <lb ed="#P" n="28"/>proinde relinquitur manifeste non esse ius<lb ed="#P" break="no" n="29"/>tam 
+          causam inferendi belli aliquibus re<lb ed="#P" break="no" n="30"/>gnis 
+          scire incolas homines immolare Diis 
+          <lb ed="#P" n="31"/>suis vel etiam humanas carnes comedere.
+          <pb ed="#P" n="166-v"/>
+          <lb ed="#P" n="1"/>Ac rursus haec consuetudo apud eos inue<lb ed="#P" break="no" n="2"/>terata 
+          non potest subito conuelli: ideo cul<lb ed="#P" break="no" n="3"/>pandi non sunt Indi Innocentissimi: quod 
+          <lb ed="#P" n="4"/>ad primam predicantis euangelium vo<lb ed="#P" break="no" n="5"/>cem 
+          non expergiscantur. Neque enim intel<lb ed="#P" break="no" n="6"/>ligunt 
+          dicentem neque statim a maiorum 
+          <lb ed="#P" n="7"/>religione (non intellecto quod melius est) 
+          <lb ed="#P" n="8"/>desciscere debent: neque immolare homines 
+          <lb ed="#P" n="9"/>etiam Innocentes pro salute totius reipubli<lb ed="#P" break="no" n="10"/>cae 
+          adeo aduersatur rationi naturali: ut qua<lb ed="#P" break="no" n="11"/>si 
+          res naturae dictamini contraria statim 
+          <lb ed="#P" n="12"/>abominanda sit. Potest enim hic error a 
+          <lb ed="#P" n="13"/>probabili ratione naturali originem ducere.
+        </p>
+        <p xml:id="lca8s8-d1e526-d1e434">
+          <lb ed="#P" n="14"/><pc type="pilcrow"/> Ex superioribus probatur eos qui ultro 
+          <lb ed="#P" n="15"/>patiuntur sese immolari <subst><del rend="strikethrough">et</del><add place="above-line">ut sunt</add></subst> communiter <del rend="strikethrough">om<lb ed="#P" break="no" n="16"/>nes</del> 
+          <seg type="correction">plebei<del rend="strikethrough">os</del></seg>, et ministri qui eos diis immo<lb ed="#P" break="no" n="17"/>lant 
+          principum vel sacerdotum iussu ex<lb ed="#P" break="no" n="18"/>cusabilem 
+          et inuincibilem habere ignoran<lb ed="#P" break="no" n="19"/>tiam 
+          parcendumque esse illorum errori etiam 
+          <lb ed="#P" n="20"/>si supponeremus esse aliquem iudicem com<lb ed="#P" break="no" n="21"/>petentem: 
+          qui haec peccata punire posset. Quod 
+          <lb ed="#P" n="22"/>si in huiusmodi immolationibus Deum offendunt: 
+          <lb ed="#P" n="23"/>ipse solus hoc peccatum immolandi homines 
+          <lb ed="#P" n="24"/>puniet. 
+        </p>
+        <p xml:id="lca8s8-d1e526-d1e476">
+          Tamen quatenus idolis sacrificia 
+          <lb ed="#P" n="25"/>offerunt: certe non videtur excusari posse ig<lb ed="#P" break="no" n="26"/>norantia
+          in<del rend="strikethrough">con</del>uincibili Iuxta communem 
+          <lb ed="#P" n="27"/>doctorum sententiam: qui aiunt in his quae ne<lb ed="#P" break="no" n="28"/>cessaria 
+          sunt ad consequendam aeternam sa<lb ed="#P" break="no" n="29"/>lutem: 
+          nullus habet ignorantiam inuin<lb ed="#P" break="no" n="30"/>cibilem. 
+          Quoniam si homines fecerint quod 
+          <lb ed="#P" n="31"/>in se est: dominus illis dabit lucem aut spi<lb ed="#P" break="no" n="32"/>ritus 
+          sancti inspirationem dando unicuique 
+          <pb ed="#P" n="167-r"/>
+          <lb ed="#P" n="1"/>cognitionem sui aut aperiendo oculos infi<lb ed="#P" break="no" n="2"/>delium 
+          per homines aut per angelos. Nam in 
+          <lb ed="#P" n="3"/>simili casu sanctus Thomas in quaestionibus de 
+          <lb ed="#P" n="4"/>veritate q. 14 articulo 11o ad 1m loquens de 
+          <lb ed="#P" n="5"/>homine educato inter nemora siluas et fe<lb ed="#P" break="no" n="6"/>ras 
+          inquit: hoc enim ad diuinam prouiden<lb ed="#P" break="no" n="7"/>tiam 
+          pertinet: ut cuilibet prouideat de ne<lb ed="#P" break="no" n="8"/>cessariis 
+          ad salutem: dummodo ex parte 
+          <lb ed="#P" n="9"/>eius non impediatur. Si enim aliquis ta<lb ed="#P" break="no" n="10"/>liter 
+          nutriatur in siluis vel inter lupos, 
+          <lb ed="#P" n="11"/>et ductum rationis naturalis sequeretur cum 
+          <lb ed="#P" n="12"/>appetitu boni et fuga mali: certissime est 
+          <lb ed="#P" n="13"/>tenendum: quod Deus ei per internam inspira<lb ed="#P" break="no" n="14"/>tionem 
+          reuelaret ea quae sunt ad credendum 
+          <lb ed="#P" n="15"/>necessaria: vel aliquem fidei predicatorem 
+          <lb ed="#P" n="16"/>dirigeret sicut misit Petrum ad Cornelium 
+          <lb ed="#P" n="17"/>actuum 10 haec Sanctus Thomas.
+        </p>
+        <p xml:id="lca8s8-d1e526-d1e538">
+          Idem docet super 
+          <lb ed="#P" n="18"/>epistolam ad Romanos c. 10 lectione 3 Quod 
+          <lb ed="#P" n="19"/>autem quoad homines excusati sunt: pro<lb ed="#P" break="no" n="20"/>batur 
+          in <ref xml:id="lca8s8-d1e526-Rd1e546" target="http://scta.info/resource/bgy6gt-d1e1823-Dd1e201"><!-- target precise -->l. regula, ff de <sic>iure</sic> et facti ig<lb ed="#P" break="no" n="21"/>norantia</ref>.
+          Ubi error probabilis excusat a poe<lb ed="#P" break="no" n="22"/>na. 
+          Quod etiam probatur in <ref xml:id="lca8s8-d1e526-Rd1e557" target="http://scta.info/resource/cice-l4t15-d1e195">c. fraterni<lb ed="#P" break="no" n="23"/>tas. 
+          de frigidis et maleficis</ref>, et <ref xml:id="lca8s8-d1e526-Rd1e562">ibi docet Ab<lb ed="#P" break="no" n="24"/>bas 
+          2a columna prepositi)</ref>. Et <ref xml:id="lca8s8-d1e526-Rd1e567">cardinalis in
+          <lb ed="#P" n="25"/>clementinas 1. q. 39. de priuilegiis)</ref>. Rursus pro<lb ed="#P" break="no" n="26"/>batur 
+          quoniam error populi confirmatus 
+          <lb ed="#P" n="27"/>autoritate principis facit ius et excusat, 
+          ut per iureconsultos in l. Barbarius Philip<lb ed="#P" break="no" n="28"/>pus 
+          ff de officio presidis et in l. si arbiter. 
+          <lb ed="#P" n="29"/>C. de sententiis et interlocutionibus omnium iudicum et ff 
+          <lb ed="#P" n="30"/>de suppellectile legata. l. 3 in finem, et C.
+          <lb ed="#P" n="31"/>de testamentis l. 3 et per Canonistas in c. 
+          <pb ed="#P" n="167-v"/>
+          <lb ed="#P" n="1"/>nihil. de electione et ibi late Abbas 9 columna 
+          <lb ed="#P" n="2"/>et sequenti.
+        </p>
+        <p xml:id="lca8s8-d1e526-d1e592">
+          <pc type="pilcrow"/> Cum igitur apud aliquas noui 
+          <lb ed="#P" n="3"/>orbis regiones vel lege aut vetustissima con<lb ed="#P" break="no" n="4"/>suetudine
+          Iussuque principum doctorum et 
+          <lb ed="#P" n="5"/>sacerdotum autoritate confirmata et sic publi<lb ed="#P" break="no" n="6"/>ca 
+          autoritate: pium et sanctum habeatur Diis 
+          <lb ed="#P" n="7"/>pro Deo vero aestimatis: homines immolare 
+          <lb ed="#P" n="8"/>sequitur, quod haec consuetudo et communis error in<lb ed="#P" break="no" n="9"/>ter 
+          eos faciat Ius ac: per consequens excusabit 
+          <lb ed="#P" n="10"/>immolantes: non enim censetur errare aut 
+          <lb ed="#P" n="11"/>falli qui ius publicum sequitur ut in l. 
+          <lb ed="#P" n="12"/>nihil consensui ff de regulis iuris.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

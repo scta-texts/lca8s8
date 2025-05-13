@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 36 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 36 [Bnf 12926 Transcription]</title>
+          <date when="2025-05-12">May 12, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="160-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e513">
+        <head xml:id="lca8s8-d1e526-Hd1e97">Caput 36</head>
+        <p xml:id="lca8s8-d1e513-d1e100">
+          <lb ed="#P" n="21"/>Caput 36m
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e105">
+          <lb ed="#P" n="22"/> <pc type="pilcrow"/> His suppositis infertur quod supra 
+          <lb ed="#P" n="23"/>docuimus (scilicet) quod sistendo infra limi<lb ed="#P" break="no" n="24"/>tes 
+          naturalis luminis hoc est cessante le<lb ed="#P" break="no" n="25"/>ge 
+          positiua humana vel diuina et si ad<lb ed="#P" break="no" n="26"/>das 
+          his ubi defuerit gratia <subst><del>vel</del> <add place="above-line">et</add></subst> doctrina 
+          <lb ed="#P" n="27"/>homines debere humanas victimas immo<lb ed="#P" break="no" n="28"/>lare 
+          Deo vero aut putatiuo: si pro deo vero 
+          <lb ed="#P" n="29"/>habeatur. <del>ipsam naturam inclinati <pc type="virgula">/</pc> posse 
+          <lb ed="#P" n="30"/>defendi</del>. Quod sic deducimus <subst><add place="above-line">cum enim</add> <del>scilicet</del></subst> ho<lb ed="#P" break="no" n="31"/>mines
+          natura cognoscant deum esse exis<lb ed="#P" break="no" n="32"/>timentque 
+          nihil illo esse melius neque maius
+          <pb ed="#P" n="160-v"/>
+          <lb ed="#P" n="1"/>omnia etiam quaecumque possidemus valemus
+          <lb ed="#P" n="2"/>et sumus immensa ipsius bonitate nobis 
+          <lb ed="#P" n="3"/>dari: ita ut etiam si omnia nostra offeramus 
+          <lb ed="#P" n="4"/>simul cum vita: nequaquam illi parem gratiam 
+          <lb ed="#P" n="5"/>referemus: Item precipuus modus colen<lb ed="#P" break="no" n="6"/>di 
+          Deum est offerre illi sacrificium: qui 
+          <lb ed="#P" n="7"/>unus est actus quo ostendimus illum cui 
+          <lb ed="#P" n="8"/>sacrificium offerimus Deum esse nosque illi 
+          <lb ed="#P" n="9"/>subditos et gratos existere. Preterea na<lb ed="#P" break="no" n="10"/>tura 
+          <subst><del rend="strikethrough">quas</del> <add place="above-line">docet</add></subst> aequissimum <add place="above-line">esse</add>
+          Deo cui tot rationi<lb ed="#P" break="no" n="11"/>bus 
+          agnoscimus nos debitores, offerre ea 
+          <lb ed="#P" n="12"/>quae sunt preciosiora et excellentiora: propter 
+          <lb ed="#P" n="13"/>admirandam excellentiam maiestatis suae: 
+          <lb ed="#P" n="14"/>sed secundum humanum iudicium et veritatem 
+          <lb ed="#P" n="15"/>vita hominum et ipsis hominibus nihil 
+          <lb ed="#P" n="16"/>in rebus est preciosius aut maius. Ergo 
+          <lb ed="#P" n="17"/>ipsa natura dictat et docet eos qui fide gratia 
+          <lb ed="#P" n="18"/>vel doctrina carent omni positiua lege 
+          <lb ed="#P" n="19"/>in contrarium cessante <subst><del rend="strikethrough">sed</del> <add>qui</add></subst> existunt intra 
+          <lb ed="#P" n="20"/>limites luminis naturalis: deo vero vel fal<lb ed="#P" break="no" n="21"/>so, 
+          si pro vero aestimatur etiam victimas 
+          <lb ed="#P" n="22"/>humanas debere immolare: ut sic rem pre<lb ed="#P" break="no" n="23"/>ciosissimam 
+          offerendo pro tot receptis beneficiis <unclear>grati<!-- corrected somehow --></unclear> magis reperiantur. Lex namque 
+          <lb ed="#P" n="24"/>naturae docet gratitudinem, et ut benefacien<lb ed="#P" break="no" n="25"/>ti 
+          non solum beneficiamus: verum etiam 
+          <lb ed="#P" n="26"/>ut beneficium acceptum cumulatissime re<lb ed="#P" break="no" n="27"/>pendamus: 
+          considerando beneficium, et eum 
+          <lb ed="#P" n="28"/>qui beneficium facit et animum quo be<lb ed="#P" break="no" n="29"/>neficium 
+          in nos confert: autore Seneca 
+          <lb ed="#P" n="30"/>et sancto Thoma 2a 2ae q. 107 articulo 5o et 6 
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e240">
+          be<lb ed="#P" break="no" n="31"/>neficentia 
+          autem qua dominus nos creauit tot 
+          <pb ed="#P" n="161-r"/>
+          <lb ed="#P" n="1"/>dotibus instruxit: tot bonis locupletauit: 
+          <lb ed="#P" n="2"/>ab immensa charitate et bonitate infinita 
+          <lb ed="#P" n="3"/>proficiscitur: nobisque innumera bona ipsamque 
+          <lb ed="#P" n="4"/>vitam: denique quicquid sumus parit. Cum 
+          <lb ed="#P" n="5"/>autem pro tot beneficiis gratiam parem repo<lb ed="#P" break="no" n="6"/>nere 
+          non poss<subst><del>u</del><add>i</add></subst>mus: certe tenemur quod nobis ma<lb ed="#P" break="no" n="7"/>ximum
+          et preciosissimum videtur prestare 
+          <lb ed="#P" n="8"/>scilicet vitam hominum presertim cum abla<lb ed="#P" break="no" n="9"/>tio 
+          fit pro salute reipublicae. Existimabunt 
+          <lb ed="#P" n="10"/>enim Ethnici per huiusmodi immolationes
+          <lb ed="#P" n="11"/>auertere a republica mala regnisque fauorem 
+          <lb ed="#P" n="12"/>ac prosperitatem conciliare. Ergo quisquis 
+          <lb ed="#P" n="13"/>Deo homines immolat naturali ratione ad 
+          <lb ed="#P" n="14"/>id adduci potest potissimum deficiente fide 
+          <lb ed="#P" n="15"/>et christiana institutione. 
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e284">
+          Corroborat pre<lb ed="#P" break="no" n="16"/>dicta 
+          quod Dionisius Halicarnaseus libro 
+          <lb ed="#P" n="17"/>1o scribit, quod cum Italiae populi multis ma<lb ed="#P" break="no" n="18"/>lis 
+          afflicti deos propiciare studuissent obla<lb ed="#P" break="no" n="19"/>tis 
+          rerum primitiis: senex quidam dixit 
+          <lb ed="#P" n="20"/>falli eos si se a diis immerito accusari exis<lb ed="#P" break="no" n="21"/>timarent. 
+          Nam rerum quidem aliarum pri<lb ed="#P" break="no" n="22"/>mitias 
+          recte ipsos inquit et iure persoluisse: 
+          prolis vero rei apud Deos preciosissimae pri<lb ed="#P" break="no" n="23"/>mitias 
+          adhuc eos debere. Si quid igitur 
+          <lb ed="#P" n="24"/>horum autem partem debitam Dii acciperent: 
+          <lb ed="#P" n="25"/>finem responso fore. Haec cum audissent 
+          <lb ed="#P" n="26"/>aliis quidem visum est ea recte dici: aliis 
+          <lb ed="#P" n="27"/>vero ex fraude compositus sermo videbatur. 
+          <lb ed="#P" n="28"/>Proponente demum quoddam exquirendum 
+          <lb ed="#P" n="29"/>esse dei sententiam: an ei gratum esset de<lb ed="#P" break="no" n="30"/>cimas 
+          hominum accipere: mittunt secundo 
+          <lb ed="#P" n="31"/>augures: responditque Deus sic ut facerent. 
+          <pb ed="#P" n="161-v"/>
+          <lb ed="#P" n="1"/>haec ille. Hine fortassis dimanauit per om<lb ed="#P" break="no" n="2"/>nes 
+          gentes opinio immolandi homines. Sed 
+          <lb ed="#P" n="3"/>reclamabit aliquis hoc non esse admittendum:
+          cum immolantur homines inuiti et inno<lb ed="#P" break="no" n="4"/>centes. 
+          Sed huic ego respondebo ut supra 
+          <lb ed="#P" n="5"/>dixi nullum hominem quantumuis inno<lb ed="#P" break="no" n="6"/>centem 
+          non debere Deo plusquam vitam: et ita 
+          <lb ed="#P" n="7"/>licet actu elicito non sint voluntarii: sunt 
+          <lb ed="#P" n="8"/>tamen voluntarii actu debito. Debent 
+          <lb ed="#P" n="9"/>enim omnes homines sanguinem et vitam 
+          <lb ed="#P" n="10"/>profundere: ubicumque hoc exigit honor Dei. 
+          <lb ed="#P" n="11"/>Quod christiani facere tenemur iure di<lb ed="#P" break="no" n="12"/>uino: 
+          et omnes qui priscis seculis Deum 
+          <lb ed="#P" n="13"/>cognouerunt. Sed casus videbatur occur<lb ed="#P" break="no" n="14"/>rere 
+          in quo versabatur honor diuinus: cum 
+          ex lege in aliquo regno recepta immolan<lb ed="#P" break="no" n="15"/>tur 
+          illi quibus sors obtigisset. Ergo licet In<lb ed="#P" break="no" n="16"/>nocentes 
+          alias illi essent nulla iniuria sal<lb ed="#P" break="no" n="17"/>tem 
+          secundum aestimationem eorum qui carebant 
+          <lb ed="#P" n="18"/>gratia et doctrina <sic>irogabarur</sic> illis <pc type="virgula">/</pc> et con<lb ed="#P" break="no" n="19"/>firmatur. 
+          Et enim unusquisque optimus 
+          <lb ed="#P" n="20"/>ciuis: vitam pro salute reipublicae (quae secundum 
+          <lb ed="#P" n="21"/>erroneam opinionem gentilium in Deorum 
+          <lb ed="#P" n="22"/>cultura consistere putabatur) profunde<lb ed="#P" break="no" n="23"/>re 
+          tenetur: secundum Philosophum et probatur 23, q. 3, c. 
+          <lb ed="#P" n="24"/>fortitudo. et q. 8, c. omni timore. Et sanctus 
+          <lb ed="#P" n="25"/>Thomas, I, q. 60, articulo 5 et 1a 2ae, q. 109, 
+          <lb ed="#P" n="26"/>articulo 3, in corpore. Et 3 sententiarum, distinctio 29 articulo 
+          <lb ed="#P" n="27"/>3. Illi ergo qui fide carent probabilem ha<lb ed="#P" break="no" n="28"/>bent 
+          errorem immolandi homines Deo.
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e390">
+          <pc type="pilcrow"/> Neque 
+          <lb ed="#P" n="29"/>aduersatur si quis obiiciat illud censeri esse 
+          <lb ed="#P" n="30"/>homini possibile quod commode absque exitio 
+          <pb ed="#P" n="162-r"/>
+          <lb ed="#P" n="1"/>suo facere potest autore <ref xml:id="lca8s8-d1e513-Rd1e403">Diuo Thoma in 
+          <lb ed="#P" n="2"/>4o Sententiarum distinctio 15a q. 2, articulo 2o ad 3um</ref> 
+          <lb ed="#P" n="3"/>ubi docet quod quamuis homo totum suum 
+          <lb ed="#P" n="4"/>posse Deo debeat: non tamen ab eo exigi<lb ed="#P" break="no" n="5"/>tur 
+          de necessitate ut totum quod possit faci<lb ed="#P" break="no" n="6"/>at 
+          quia hoc est impossibile secundum statum 
+          <lb ed="#P" n="7"/>presentis vitae: ut totum posse suum ad 
+          <lb ed="#P" n="8"/>aliquid unum expendat: cum oporteat 
+          <lb ed="#P" n="9"/>eum circa multa solicitum esse: sed est 
+          <lb ed="#P" n="10"/>quaedam mensura homini adhibita quae 
+          <lb ed="#P" n="11"/>ab eo requiritur id est impletio mandatorum 
+          <lb ed="#P" n="12"/>Dei: et super ea potest aliquid erogare ut 
+          <lb ed="#P" n="13"/>satisfaciat. Haec ille. Rursus q. 3, articulo 2o 
+          <lb ed="#P" n="14"/>q. 4 in corpore inquit: legislator suo 
+          <lb ed="#P" n="15"/>precepto non exigit ab homine totum quod 
+          <lb ed="#P" n="16"/>potest: cum non intendat ordinare statum 
+          <lb ed="#P" n="17"/>hominis quantum ad unum diem vel ad 
+          <lb ed="#P" n="18"/>paruum tempus: sed ad totam vitam a quo 
+          <lb ed="#P" n="19"/>deficeret, si semel homo totum quod pos<lb ed="#P" break="no" n="20"/>set 
+          faceret etc haec sanctus Thomas. Ad pri<lb ed="#P" break="no" n="21"/>mum 
+          enim respondeo: quod quanuis verum 
+          <lb ed="#P" n="22"/>sit Deum pro immensa misericordia sua
+          <lb ed="#P" n="23"/>non tantum ab hominibus exigere quod 
+          <lb ed="#P" n="24"/>possunt: hoc tamen non intelligunt omnes
+          <lb ed="#P" n="25"/>homines. Neque enim id natura docet: ita quod 
+          <lb ed="#P" n="26"/>solo lumine intellectus percipiatur vt 
+          nullus homo id negare queat. Quemadmo<lb ed="#P" break="no" n="27"/>dum 
+          ea quae sunt per se nota, quae cognitis
+          terminis sine aliquo discursu per lumen 
+          <lb ed="#P" n="28"/>intellectus agentis omnes concedunt velu<lb ed="#P" break="no" n="29"/>ti
+          principium illud de quolibet afirmatio 
+          <lb ed="#P" n="30"/>et negatio et de nullo istorum ambo. Neque etiam 
+          <pb ed="#P" n="162-v"/>
+          <lb ed="#P" n="1"/>id percipitur discursu inperceptibili sicut 
+          <lb ed="#P" n="2"/>illud: si ab aequalibus aequalia demas quae 
+          <lb ed="#P" n="3"/>remanent sunt equalia et alia principia 
+          <lb ed="#P" n="4"/>quae non probantur sed supponuntur. De 
+          <lb ed="#P" n="5"/>quibus satis per Philosophum libris Posteriorum.
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e482">
+          Illud ergo quod sanctus Thomas docet cum ho<lb ed="#P" break="no" n="6"/>mines 
+          naturali lumine solo non percipiant: 
+          gratiam et doctrinam requir<subst><del rend="strikethrough">it</del><add place="above-line">unt</add></subst> hac vero 
+          <lb ed="#P" n="7"/>carent infideles. Deo autem deberi omnia 
+          <lb ed="#P" n="8"/>quaecumque in hac vita debemus et barba<lb ed="#P" break="no" n="9"/>ri 
+          naturali tantum lumine percipiunt 
+          <lb ed="#P" n="10"/>et est illis communis animi conceptio etiam 
+          <lb ed="#P" n="11"/>absque dei speciali gratia vel doctrina: sup<lb ed="#P" break="no" n="12"/>posita 
+          tamen semper uniuersali influen<lb ed="#P" break="no" n="13"/>tia 
+          prouidentiae diuinae. Quare non est 
+          <lb ed="#P" n="14"/>mirandum si infideles qui gratia et ins<lb ed="#P" break="no" n="15"/>titutione 
+          carent considerando quantum 
+          <lb ed="#P" n="16"/>homines Deo debeant: retributionem ex<lb ed="#P" break="no" n="17"/>cogitent 
+          difficilimam (scilicet) immolare 
+          <lb ed="#P" n="18"/>illi aliquos homines in honorem dei. Quod 
+          <lb ed="#P" n="19"/>quidem absolute loquendo eis possibile 
+          <lb ed="#P" n="20"/>est. Responderi etiam potest ad id quod 
+          <lb ed="#P" n="21"/>S. Thomas docet: quod cum honor Dei venit 
+          <lb ed="#P" n="22"/>in periculum tunc homo precepto diui<lb ed="#P" break="no" n="23"/>no 
+          tenetur impendere totum posse suum 
+          <lb ed="#P" n="24"/>absolute et sic exponere vitam ne Dei 
+          <lb ed="#P" n="25"/>gloria et honor minuatur. Vult enim 
+          <lb ed="#P" n="26"/>Deus omnem hominem tunc mori pro 
+          <lb ed="#P" n="27"/>defensione gloriae suae. Quod etiam ipsa 
+          <lb ed="#P" n="28"/>naturae lex docet etiam si dei preceptum 
+          <lb ed="#P" n="29"/>positiuum non haberemus. Naturaliter 
+          <lb ed="#P" n="30"/>enim omnia animalia tam rationalia 
+          <pb ed="#P" n="163-r"/>
+          <lb ed="#P" n="1"/>quam etiam irrationalia diligunt Deum 
+          <lb ed="#P" n="2"/>plusquam seipsa. Quoniam omnes creaturae 
+          <lb ed="#P" n="3"/>naturaliter magis diligunt illum a quo 
+          <lb ed="#P" n="4"/>procedunt et per quem sunt: quam seipsas. 
+          <lb ed="#P" n="5"/>Hoc patet exemplo. Etenim si corpus 
+          <lb ed="#P" n="6"/>periclitetur manusque pars corporis est, 
+          <lb ed="#P" n="7"/>opponit sese ne corpus vulneretur. Quoniam 
+          <lb ed="#P" n="8"/>manus pars et membrum est corporis. Hic 
+          <lb ed="#P" n="9"/>autem naturalis appetitus hanc habet ra<lb ed="#P" break="no" n="10"/>tionem 
+          quod foelicitas partis pendet a foe<lb ed="#P" break="no" n="11"/>licitate 
+          totiusL et foelicitas totius utili<lb ed="#P" break="no" n="12"/>or 
+          est parti seu membro quam felicitas sui 
+          <lb ed="#P" n="13"/>ipsius. Neque enim parti bene esset: si 
+          <lb ed="#P" n="14"/>male esset toto a quo pars habet quidquid 
+          <lb ed="#P" n="15"/>est. Quid enim esset manus si corrum<lb ed="#P" break="no" n="16"/>peretur 
+          corpus. Ergo cum omnes crea<lb ed="#P" break="no" n="17"/>turae 
+          sint a Deo: Deus enim est totius 
+          <lb ed="#P" n="18"/>bonum uniuersi: sequitur omnem crea<lb ed="#P" break="no" n="19"/>turam
+          amore natura insito plus dili<lb ed="#P" break="no" n="20"/>gere 
+          Deum: quam seipsam, et per consequens debe<lb ed="#P" break="no" n="21"/>re 
+          exponere vitam suam morti pro de<lb ed="#P" break="no" n="22"/>fensione 
+          gloriae Dei a quo habet quicquid 
+          habet foelicitatis. De hac materia disse<lb ed="#P" break="no" n="23"/>rit 
+          sanctus Thomas 1 parte, q. 60, articulo 5o 
+          <lb ed="#P" n="24"/>et 1a 2ae q. 109 articulo 3 in corpore. Hinc fit 
+          <lb ed="#P" n="25"/>vt omnes christiani teneamur exponere 
+          <lb ed="#P" n="26"/>vitam nostram morti: ubicumque in pe<lb ed="#P" break="no" n="27"/>riculum 
+          vertitur honor Dei: vel verissi<lb ed="#P" break="no" n="28"/>mile 
+          est proximum in cursurum in a<lb ed="#P" break="no" n="29"/>liquod 
+          mortale offendiculum. autore 
+          <lb ed="#P" n="30"/>sancto Thoma 2a2ae q. 3 articulo 2o per totum 
+          <pb ed="#P" n="163-v"/>
+          <lb ed="#P" n="1"/>et 3o Sententiarum distinctio 29 articulo 8 q. 2 ad 
+          <lb ed="#P" n="2"/>3m Exemplum huius habemus in confes<lb ed="#P" break="no" n="3"/>sione 
+          fidei exteriori ad quam tenemur 
+          <lb ed="#P" n="4"/>de necessitate salutis etiam exponendo 
+          <lb ed="#P" n="5"/>mortis periculis vitam. Tunc (scilicet) quando 
+          <lb ed="#P" n="6"/>per dimissionem huius fidei confessionis 
+          <lb ed="#P" n="7"/>honor debitus Deo subtraheretur: et etiam 
+          <lb ed="#P" n="8"/>utilitas impendenda proximis. Et hac 
+          <lb ed="#P" n="9"/>ratione dictum Sancti Thomae in casu nostro 
+          <lb ed="#P" n="10"/>non procedit.
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e636">
+          <pc type="pilcrow"/> Ad aliud autem quod Sanctus 
+          <lb ed="#P" n="11"/>Thomas dixit: legislatorem non obligare 
+          <lb ed="#P" n="12"/>hominem vt faciat totum quod potest 
+          <lb ed="#P" n="13"/>etc. Dicimus quod dispar est ratio de Deo qui 
+          <lb ed="#P" n="14"/>omnium dominus est absolute: ac de le<lb ed="#P" break="no" n="15"/>gibus 
+          ab eo proditis: et de hominibus et 
+          <lb ed="#P" n="16"/>legibus ab eis conditis. Nam quilibet le<lb ed="#P" break="no" n="17"/>gislator 
+          cum non a se ipso sed a populo 
+          <lb ed="#P" n="18"/>siue communitate autoritatem condendi le<lb ed="#P" break="no" n="19"/>gem 
+          habeat: non potest per legem suam 
+          <lb ed="#P" n="20"/>subditos ad faciendum vel patiendum 
+          <lb ed="#P" n="21"/>obligare: nisi quod expedit saluti et foe<lb ed="#P" break="no" n="22"/>licitati 
+          totius reipublicae aut communita<lb ed="#P" break="no" n="23"/>tis: 
+          secundum exigentiam necessita<lb ed="#P" break="no" n="24"/>tis 
+          reipublicae. Habendo respectum vt 
+          <lb ed="#P" n="25"/>status cuiuslibet ciuis ordinetur et con<lb ed="#P" break="no" n="26"/>seruetur 
+          <add place="above-line">per</add> tempus longum quantum fieri 
+          <lb ed="#P" n="27"/>potest. Sed si necessitas reipublicae hoc 
+          <lb ed="#P" n="28"/>exigat quod totum quod potest homo fa<lb ed="#P" break="no" n="29"/>ciat 
+          vel patiatur (hoc est) quod vitam pe<lb ed="#P" break="no" n="30"/>riculis 
+          mortis exponat pro salute rei<lb ed="#P" break="no" n="31"/>publicae. 
+          Proculdubio iure potest precep<pb ed="#P" n="164-r"/><lb ed="#P" break="no" n="1"/>to 
+          suo quemlibet aptum ciuem ad id 
+          <lb ed="#P" n="2"/>obligare legislator: et ciuis ipse iure na<lb ed="#P" break="no" n="3"/>turali 
+          tenetur parere mandato. Hoc pro<lb ed="#P" break="no" n="4"/>batur:
+          ex paulo superius probatis de to<lb ed="#P" break="no" n="5"/>to 
+          et de pane. Ciuis enim cum sit pars 
+          <lb ed="#P" n="6"/>totius reipublicae ac felicitas vel bonum 
+          <lb ed="#P" n="7"/>suum dependeat a bono et foelicitate rei<lb ed="#P" break="no" n="8"/>publicae 
+          idcirco diligere tenetur bonum 
+          <lb ed="#P" n="9"/>et felicitatem communem magis quam suam 
+          <lb ed="#P" n="10"/>propriam particularem atque proinde pro 
+          <lb ed="#P" n="11"/>illa saluanda totum quod potest etiam vi<lb ed="#P" break="no" n="12"/>tam 
+          in breui finiendo tenetur facere vel 
+          <lb ed="#P" n="13"/>pati iure naturali. <pc type="pilcrow"/>Cum igitur bonum 
+          <lb ed="#P" n="14"/>uniuersale et felicitas totius reipublicae 
+          <lb ed="#P" n="15"/>in huiusmodi sacrificiis et immolationibus seu 
+          <lb ed="#P" n="16"/>victimis humanis consistere credant gen<lb ed="#P" break="no" n="17"/>tiles 
+          ut ex Augustino Chrisostomo et Va<lb ed="#P" break="no" n="18"/>lerio 
+          alibi probauimus: mirum non est 
+          <lb ed="#P" n="19"/>si necessitatibus afflicti. Deo rem omni<lb ed="#P" break="no" n="20"/>um 
+          judicio suo preciosissimam et gratis<lb ed="#P" break="no" n="21"/>simam: 
+          immolabant (scilicet) homines 
+          <lb ed="#P" n="22"/>ut patet ex exemplis supra relatis: et 
+          <lb ed="#P" n="23"/>ex eo quod scribit Titus liuius 3 deca<lb ed="#P" break="no" n="24"/>dis 
+          libro 2. Romanos cum urbs maxi<lb ed="#P" break="no" n="25"/>mo  
+          in periculo versaretur placasse Martem 
+          <lb ed="#P" n="26"/>immolato gallo et galla: greco et greca. 
+          <lb ed="#P" n="27"/>Ac deinde supposita gentilium erroris pro<lb ed="#P" break="no" n="28"/>babilitate 
+          posse ac debere legislatorem 
+          <lb ed="#P" n="29"/>aliquos de populo precepto suo constrin<lb ed="#P" break="no" n="30"/>gere 
+          in magna totius reipublicae necessi<lb ed="#P" break="no" n="31"/>tate: 
+          ut de eis mactatis sacrificium offe<pb ed="#P" n="164-v"/><lb ed="#P" break="no" n="1"/>ratur: 
+          ipsosque id velle actu elicito teneri 
+          <lb ed="#P" n="2"/>ut ex iam deductis late apparet.
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e765">
+          Ergo 
+          <lb ed="#P" n="3"/>vides lector aliquam esse probabilem ratio<lb ed="#P" break="no" n="4"/>nem 
+          naturalem qua homines induci pos<lb ed="#P" break="no" n="5"/>sunt 
+          ad immolandum homines Deo: et 
+          <lb ed="#P" n="6"/>ex consequenti non facile: neque repente neque 
+          <lb ed="#P" n="7"/>paucis verbis persuaderi posse indis: ut 
+          <lb ed="#P" n="8"/>a recepta immolandi homines consuetu<lb ed="#P" break="no" n="9"/>dine 
+          abstineant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

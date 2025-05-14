@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 35 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 35 [Bnf 12926 Transcription]</title>
+          <date when="2025-05-13">May 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="154-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e500">
+        <head xml:id="lca8s8-d1e500-Hd1e97">Caput 35</head>
+        <p xml:id="lca8s8-d1e500-d1e99">
+          <lb ed="#P" n="27"/>Caput 35m
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e104">
+          <lb ed="#P" n="28"/><pc type="pilcrow"/>Secundo principaliter <add place="above-line">probatur</add> quod indi non sta<lb ed="#P" break="no" n="29"/>tim 
+          credere debeant nefas esse immolare 
+          <lb ed="#P" n="30"/>homines Diis suis: <del rend="strikethrough">probatur</del> quoniam non pote<lb ed="#P" break="no" n="31"/>rit 
+          eis fieri euidentia verbis paucis nec mul<pb ed="#P" n="155-r"/><lb ed="#P" break="no" n="1"/>tis 
+          etiam: immolari homines deo vero vel 
+          <lb ed="#P" n="2"/>putatiuo, si pro vero colatur fore ratione 
+          <lb ed="#P" n="3"/>naturali prohibitum. Quinimo per ean<lb ed="#P" break="no" n="4"/>dem 
+          naturalem rationem ipsi possunt 
+          <lb ed="#P" n="5"/>ostendere: non modo homines deo deberi 
+          <lb ed="#P" n="6"/>offerri in sacrificium: verum etiam ipsos 
+          <lb ed="#P" n="7"/>angelos parum erat si sacrificabiles fuis<lb ed="#P" break="no" n="8"/>sent. 
+          Hoc persuademus sic suppositis pri<lb ed="#P" break="no" n="9"/>mo 
+          quatuor principiis. Primo quod nulla 
+          <lb ed="#P" n="10"/>est gens tam barbara quae non habeat 
+          <lb ed="#P" n="11"/>aliquam etsi confusam Dei cognitionem. 
+          Deum autem intelligunt omnes esse quendam 
+          <lb ed="#P" n="12"/>quo nihil est neque maius neque melius 
+          <lb ed="#P" n="13"/>aut esse potest. Ita docet Damascenus 
+          <lb ed="#P" n="14"/>in <ref xml:id="lca8s8-d1e500-Rd1e153">principio libri de fide orthodoxa. Et 
+          <lb ed="#P" n="15"/>c. 3</ref> <quote xml:id="lca8s8-d1e500-Qd1e158">haud quaquam (inquit) nos dese<lb ed="#P" break="no" n="16"/>ruit 
+          deus omnimodo sui circumfusos 
+          <lb ed="#P" n="17"/>ignorantia: quinimo cunctis cognitio 
+          <lb ed="#P" n="18"/>quod deus sit: ab ipso naturaliter insita 
+          <lb ed="#P" n="19"/>est atque ingenita</quote>. haec ille.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e170">
+          Item <ref xml:id="lca8s8-d1e500-Rd1e172">Grego<lb ed="#P" break="no" n="20"/>rius 
+          Nazianzenus lib. de Theologia co<lb ed="#P" break="no" n="21"/>lumna 
+          11a</ref>. Item <ref xml:id="lca8s8-d1e500-Rd1e179">lactantius lib. 3, c. 11o. di<lb ed="#P" break="no" n="22"/>uinarum 
+          institutionum</ref>. Rursus <ref xml:id="lca8s8-d1e500-Rd1e184">Tullius 
+            <lb ed="#P" n="23"/>lib. Tusculanarum quaestionum</ref> inquit: <quote xml:id="lca8s8-d1e500-Qd1e189" source="http://scta.info/resource/ctd99a-asdvss-d1e219@16-26">Nemo <sic>hominum</sic> est tam immanis cuius men<lb ed="#P" break="no" n="24"/>tem 
+          non imbuerit diuinitatis opinio</quote>. Et 
+          <lb ed="#P" n="25"/><ref xml:id="lca8s8-d1e500-Rd1e197">libro de legibus</ref>: <quote xml:id="lca8s8-d1e500-Qd1e200">Nulla gens tam immansue<lb ed="#P" break="no" n="26"/>ta 
+          tam fora, quae non etiam si ignoret 
+          <lb ed="#P" n="27"/>qualem habere Deum debeat: non tamen 
+          <lb ed="#P" n="28"/>habendum sciat</quote>. <ref xml:id="lca8s8-d1e500-Rd1e209">Aristoteles 1o et 2o de 
+          <lb ed="#P" n="29"/>coelo et mundo</ref>. Et <ref xml:id="lca8s8-d1e500-Rd1e214">3o physicorum</ref> inquit: 
+          <lb ed="#P" n="30"/>quod omnes homines conuenerunt in hoc
+          <pb ed="#P" n="155-v"/>
+          <lb ed="#P" n="1"/>quod hoc corpus gloriosum primum (scilicet) 
+          <lb ed="#P" n="2"/>coelum est locus supremi scilicet Dei scilicet greci 
+          <lb ed="#P" n="3"/>et alii primarum gentium qui cognoue<lb ed="#P" break="no" n="4"/>runt 
+          Deum et diuinum eius. Utrumque 
+          <lb ed="#P" n="5"/>docet <ref xml:id="lca8s8-d1e500-Rd1e231">Boethius de consolatione libro 3o pro<lb ed="#P" break="no" n="6"/>sa 
+          10</ref> his verbis: <quote xml:id="lca8s8-d1e500-Qd1e236" source="http://scta.info/resource/hy7y6y-d1e67-d1e561@156-182">Deum verum omni<lb ed="#P" break="no" n="7"/>um 
+          principem siue principium bonum 
+          <lb ed="#P" n="8"/>esse communis humanorum conceptio probat 
+          <lb ed="#P" n="9"/>animorum. Nam cum nihil deo melius 
+          <lb ed="#P" n="10"/>excogitari queat: id quo melius nihil 
+          <lb ed="#P" n="11"/>est bonum esse quis dubitet</quote>. haec ille.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e250">
+          <lb ed="#P" n="12"/><pc type="pilcrow"/>Secundo supponendum est homines: 
+          <lb ed="#P" n="13"/>instinctu naturali adduci ad colendum
+          <lb ed="#P" n="14"/>Deum pro viribus et secundum modum suum: 
+          <lb ed="#P" n="15"/>cuius ratio est quoniam naturaliter ab eo aes<lb ed="#P" break="no" n="16"/>timant 
+          et credunt esse suum. vitam su<lb ed="#P" break="no" n="17"/>am 
+          <del rend="strikethrough">et quicquid</del>: et quidquid habent di<lb ed="#P" break="no" n="18"/>manare: 
+          ita scribit <ref xml:id="lca8s8-d1e500-Rd1e271">Diuus Thomas libro 3 
+            <lb ed="#P" n="19"/>c. 119 contra gentiles</ref>: <quote xml:id="lca8s8-d1e500-Qd1e276" source="http://scta.info/resource/v8naTA-d1e2680-d1e294@1-27" type="paraphrase">cum autem omnia ab 
+          <lb ed="#P" n="20"/>eo dari et procedere credant omnia deo 
+          <lb ed="#P" n="21"/>deberi iudicat intellectus noster</quote>. Et <ref xml:id="lca8s8-d1e500-Rd1e283">philosophus 
+          <lb ed="#P" n="22"/>7o Politicorum c. 9 </ref>scribit: <quote xml:id="lca8s8-d1e500-Qd1e289">deo propter 
+          <lb ed="#P" n="23"/>excellentiam suam omnia summa et 
+          <lb ed="#P" n="24"/>meliora esse offerenda: quod etiam ipsa 
+          <lb ed="#P" n="25"/>naturalis ratio dictat</quote>. Ac rursus <ref xml:id="lca8s8-d1e500-Rd1e298">Ethi<lb ed="#P" break="no" n="26"/>corum 
+          8 c. 10</ref> inquit: <quote xml:id="lca8s8-d1e500-Qd1e303">est autem homini<lb ed="#P" break="no" n="27"/>bus 
+          amicitia ad Deos ut ad bonum su<lb ed="#P" break="no" n="28"/>per 
+          excellens et in amicis secundum excellen<lb ed="#P" break="no" n="29"/>tiam 
+          magis dandum est</quote>. ac rursus in<lb ed="#P" break="no" n="30"/>quit: 
+          <quote xml:id="lca8s8-d1e500-Qd1e314">Diis nullus pro dignitate unquam re<lb ed="#P" break="no" n="31"/>tribuere
+          potest: sed qui pro facultate 
+          <lb ed="#P" n="32"/>id agit bonus esse videtur</quote>. Idem docet 
+          <pb ed="#P" n="156-r"/>
+          <lb ed="#P" n="1"/><ref xml:id="lca8s8-d1e500-Rd1e325">sanctus Thomas in 4o Sententiarum distinctione 19 q. 1 
+            <lb ed="#P" n="2"/>articulo 2o in corpore</ref> ubi inquit, <quote xml:id="lca8s8-d1e500-Qd1e330" source="http://scta.info/resource/ta-l4d15q1-d1e335@8-88" type="paraphrase">hominem du<lb ed="#P" break="no" n="3"/>plici 
+          ratione debere deo: primo propter beneficia 
+          <lb ed="#P" n="4"/>ab eo accepta. Secundo ob peccata in eum 
+          <lb ed="#P" n="5"/>comissa. His autem duabus obligationibus 
+          <lb ed="#P" n="6"/>numquam homo potest ex aequo Deo satis<lb ed="#P" break="no" n="7"/>facere 
+          quoniam: (inquit) in his honoribus 
+          <lb ed="#P" n="8"/>qui sunt ad parentes et ad Deos: etiam 
+          <lb ed="#P" n="9"/>secundum Philosophum impossibile est aequiualens red<lb ed="#P" break="no" n="10"/>dere 
+          secundum quantitatem: sed sufficit quod ho<lb ed="#P" break="no" n="11"/>mo 
+          reddat quod potest secundum proportiona<lb ed="#P" break="no" n="12"/>litatem</quote> 
+          etc. haec sanctus Thomas.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e356">
+          Ex his 
+          <lb ed="#P" n="13"/>liquet homines naturali iure teneri per 
+          <lb ed="#P" n="14"/>excellentiora ac meliora Deum honorare:
+          <lb ed="#P" n="15"/>ac de <sic>melioris</sic> sacrificium offerre. Hinc 
+          <lb ed="#P" n="16"/>consequens est quod neque homo particularis 
+          <lb ed="#P" n="17"/>neque communitas rota simul siue totum 
+          <lb ed="#P" n="18"/>regnum valet Deo pro receptis beneficiis 
+          <lb ed="#P" n="19"/>recompensam facere: etiam si illi opes 
+          <lb ed="#P" n="20"/>labores / vigilias ac denique vitam et mortem 
+          <lb ed="#P" n="21"/>ipsam pro Dei gloria reddat et sustine<lb ed="#P" break="no" n="22"/>at 
+          quantumcumque Deus in alia vita nolit 
+          <lb ed="#P" n="23"/>talia remunerare quoniam Deus nihil debet: 
+          <lb ed="#P" n="24"/>qui tot tamque admiranda beneficia ine<lb ed="#P" break="no" n="25"/>fabili 
+          largitate in nos congessit ob quod 
+          <lb ed="#P" n="26"/>illud<ref xml:id="lca8s8-d1e500-Rd1e390"> psalmi 114</ref>. <quote xml:id="lca8s8-d1e500-Qd1e392" source="http://scta.info/resource/ps115_3@1-7">Quid retribuam domino 
+          <lb ed="#P" n="27"/>pro omnibus quae retribuit mihi</quote> Quasi 
+          <lb ed="#P" n="28"/>dicat nihil est in me aut possum facere 
+          <lb ed="#P" n="29"/>quo reddere possim deo pro his, quibus 
+          <lb ed="#P" n="30"/>ei me debitorem esse conspicio. Ratio 
+          <lb ed="#P" n="31"/>autem est quoniam sicut homo nequaquam facit 
+          <pb ed="#P" n="156-v"/>
+          <lb ed="#P" n="1"/>iniuriam possessioni suae etiam si ea frua<lb ed="#P" break="no" n="2"/>tur 
+          et nullum ei prestet premium quia ho<lb ed="#P" break="no" n="3"/>minis 
+          ad possessionem suam non est ius<lb ed="#P" break="no" n="4"/>tum 
+          politicum siue ciuile secundum philosophum 5 
+          <lb ed="#P" n="5"/>Ethicorum. Omnes autem creaturae sumus pos<lb ed="#P" break="no" n="6"/>sessiones 
+          dei: ergo nullo modo est possibi<lb ed="#P" break="no" n="7"/>le 
+          Deum facere nobis iniuriam si non re<lb ed="#P" break="no" n="8"/>tribueret 
+          obsequia quae ad honorem ipsi<lb ed="#P" break="no" n="9"/>us 
+          impenderimus. Quia inter Deum et 
+          <lb ed="#P" n="10"/>nos non potest dari iustum politicum 
+          <lb ed="#P" n="11"/>quod est iustum simpliciter. Quamuis 
+          <lb ed="#P" n="12"/>enim Deus charitatem habentibus eter<lb ed="#P" break="no" n="13"/>nam 
+          felicitatem donet: non id tenetur 
+          <lb ed="#P" n="14"/>facere ex iustitia in quantum est ius<lb ed="#P" break="no" n="15"/>tum 
+          simpliciter quod significat aequa<lb ed="#P" break="no" n="16"/>litatem 
+          quantitatiuam ex una parte 
+          <lb ed="#P" n="17"/>ad aliam. Nam iuxta <ref xml:id="lca8s8-d1e500-Rd1e445">apostolum ad 
+            <lb ed="#P" n="18"/>Romanos 8</ref> <quote xml:id="lca8s8-d1e500-Qd1e450" source="http://scta.info/resource/rom8_18@4-16">non sunt condignae passiones 
+          <lb ed="#P" n="19"/>huius mundi ad futuram gloriam quae
+          <lb ed="#P" n="20"/>reuelabitur in nobis</quote>.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e458">
+          Dicitur tamen in<lb ed="#P" break="no" n="21"/>ter 
+          hominem et Deum esse iustum quod<lb ed="#P" break="no" n="22"/>dam 
+          dignatiuum (scilicet) quod dominus vtens 
+          <lb ed="#P" n="23"/>magnitudine misericordiae suae dignatur 
+          <lb ed="#P" n="24"/>inter se et homines esse aequalitatem quan<lb ed="#P" break="no" n="25"/>dam 
+          proportionabilem: volens (scilicet) se 
+          <lb ed="#P" n="26"/>obligari hominibus: et homines sibi: ita 
+          <lb ed="#P" n="27"/>ut persistentibus usque ad mortem in fi<lb ed="#P" break="no" n="28"/>de 
+          et charitate: teneatur donare vitam 
+          <lb ed="#P" n="29"/>eternam: non ex paribus meritis nostris 
+          <lb ed="#P" n="30"/>sed ex dispositione a se constabilita, quam 
+          <lb ed="#P" n="31"/>voluit inter se et nos esse iustitiam quan<pb ed="#P" n="157-r"/><lb ed="#P" break="no" n="1"/>dam 
+          dignatiuam: et quasi pactum quo<lb ed="#P" break="no" n="2"/>dam 
+          ut in operibus charitatis nobis deus 
+          <lb ed="#P" n="3"/>teneatur donare vitam eternam. Et haec 
+          <lb ed="#P" n="4"/>vocatur iustitia non simpliciter sed secundum 
+          <lb ed="#P" n="5"/>quid Et iuxta hunc sensum deus di<lb ed="#P" break="no" n="6"/>ceretur 
+          facere iniustitiam si non presta<lb ed="#P" break="no" n="7"/>ret 
+          vitam eternam morientibus in cha<lb ed="#P" break="no" n="8"/>ritate 
+          et ita intelligitur apostolus 2 ad 
+          <lb ed="#P" n="9"/>Thimotheum 4o de reliquo reposita est mi<lb ed="#P" break="no" n="10"/>hi 
+          corona iustitiae id est per iustitiam con<lb ed="#P" break="no" n="11"/>uento 
+          vel pacto supposito iam dicto. 
+          <lb ed="#P" n="12"/>Deus igitur nobis nihil debet nisi ex 
+          <lb ed="#P" n="13"/>iusto dignatiuo nos illi omnia quaecumque 
+          <lb ed="#P" n="14"/>habemus et sumus opes <pc type="virgula">/</pc> vires vitam et 
+          <lb ed="#P" n="15"/>animam ipsam in eius obsequium of<lb ed="#P" break="no" n="16"/>ferre 
+          debemus ad quod vinculo maio<lb ed="#P" break="no" n="17"/>ri 
+          tenemur postquam ipse pro nobis ani<lb ed="#P" break="no" n="18"/>mam 
+          suam dedit.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e528">
+          <pc type="pilcrow"/>Tertio supponen<lb ed="#P" break="no" n="19"/>dum 
+          est nulla re magis coli Deum quam 
+          <lb ed="#P" n="20"/>sacrificio qui est principalis actus latriae 
+          <lb ed="#P" n="21"/>Deo tantum debito: nec ulla re homines 
+          <lb ed="#P" n="22"/>magis sese ostendere gratos et subdi<lb ed="#P" break="no" n="23"/>tos 
+          deo actibus exterioribus. Sacrifi<lb ed="#P" break="no" n="24"/>cium 
+          enim est signum eum cui offertur 
+          <lb ed="#P" n="25"/>Deum esse: illudque certissimum est nul<lb ed="#P" break="no" n="26"/>lam 
+          fuisse gentem adeo barbaram brutam
+          <lb ed="#P" n="27"/>et stupidam: quae sacrificium offerret 
+          <lb ed="#P" n="28"/>alio quam ei quem Deum putabat autore <ref xml:id="lca8s8-d1e500-Rd1e554">Diuo 
+          <lb ed="#P" n="29"/>Augustinos libro 10 c. 4 de ciuitate Dei</ref>: <quote xml:id="lca8s8-d1e500-Qd1e559" source="http://scta.info/resource/adcd-l10-d1e1382@62-98">Quis 
+          <lb ed="#P" n="30"/>vero sacrificandum censuit: nisi ei quem 
+          <pb ed="#P" n="157-v"/>
+          <lb ed="#P" n="1"/>Deum aut sciuit aut puta<subst><del rend="strikethrough">r</del><add place="above-line">u</add></subst>it aut fin<lb ed="#P" break="no" n="2"/>xit? 
+          Quam porro antiquus sit in sacri<lb ed="#P" break="no" n="3"/>ficando 
+          Dei cultus: duo illi fratres Ca<lb ed="#P" break="no" n="4"/>in 
+          et Abel satis indicant quorum ma<lb ed="#P" break="no" n="5"/>ioris 
+          Deus reprobauit sacrificium: mi<lb ed="#P" break="no" n="6"/>noris 
+          aspexit</quote>: haec Augustinus: 
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e586">
+          Idem 
+          <lb ed="#P" n="7"/>docet <ref xml:id="lca8s8-d1e500-Rd1e590">Sanctus Thomas libro 3 c. 120 contra 
+          <lb ed="#P" n="8"/>gentiles</ref>. <quote xml:id="lca8s8-d1e500-Qd1e595" source="http://scta.info/resource/v8naTA-d1e2688-d1e365@29-43">Sacrificium autem nullus offeren<lb ed="#P" break="no" n="9"/>dum 
+          censuit alicui nisi quia eum De<lb ed="#P" break="no" n="10"/>um 
+          aestimauit, aut aestimare se finxit</quote>. 
+          <lb ed="#P" n="11"/>haec ille.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e605">
+          <pc type="pilcrow"/> Quarto. supponendum est 
+          <lb ed="#P" n="12"/>quod offerre sacrificium Deo vero vel illi 
+          <lb ed="#P" n="13"/>qui Deus aestimatur est de iure naturali. 
+          <lb ed="#P" n="14"/>Quae autem res sint deo offerendae: lex est 
+          <lb ed="#P" n="15"/>humana et constitutio positiua. Unde 
+          <lb ed="#P" n="16"/>vel hoc relinquitur toti communitati aut 
+          <lb ed="#P" n="17"/>eius vices gerenti ut principi: vel si hoc 
+          <lb ed="#P" n="18"/>desit cuilibet personae particulari commit<lb ed="#P" break="no" n="19"/>titur 
+          ex qua vel quibus rebus suum con<lb ed="#P" break="no" n="20"/>ficiat 
+          sacrificium. Primum patet pri<lb ed="#P" break="no" n="21"/>mo. 
+          Ex tribus precedentibus principiis: 
+          <lb ed="#P" n="22"/>quoniam cum omnes gentes natura ipsa 
+          <lb ed="#P" n="23"/>cognoscant Deum omnia quae excogitare
+          <lb ed="#P" n="24"/>possunt excedere: ab eoque se habere vitam 
+          <lb ed="#P" n="25"/>et quaecumque possident: cumque natura in<lb ed="#P" break="no" n="26"/>telligant 
+          se Deo sumam reuerentiam et cul<lb ed="#P" break="no" n="27"/>tum 
+          debere propter incomparabilem excel<lb ed="#P" break="no" n="28"/>lentiam 
+          et maiestatem suam: et apud omnes 
+          <lb ed="#P" n="29"/>receptum sit actum precipuum latriae 
+          <lb ed="#P" n="30"/>soli Deo debitae fore sacrificium: sequitur 
+          <lb ed="#P" n="31"/>eos naturali lege teneri offerre sacrificium 
+          <pb ed="#P" n="158-r"/>
+          <lb ed="#P" n="1"/>quo homines supra caetera omnia exterio<lb ed="#P" break="no" n="2"/>ra 
+          magis ostendunt sese gratos et subditos 
+          <lb ed="#P" n="3"/>esse deo. Hinc nulla gens tam barbara <del rend="strikethrough">sit</del> 
+          <lb ed="#P" n="4"/>fuit quae natura impulsa non iudicaret 
+          <lb ed="#P" n="5"/>Deo vero vel ei quem errans verum existi<lb ed="#P" break="no" n="6"/>mabat 
+          sacrificium deberi.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e671">
+          <pc type="pilcrow"/>Secundo pro<lb ed="#P" break="no" n="7"/>batur 
+          ex <ref xml:id="lca8s8-d1e500-Rd1e677">Sancto Thoma 2a 2ae, q. 85, articulo 1o</ref> 
+          <lb ed="#P" n="8"/>ubi inquit quod <quote xml:id="lca8s8-d1e500-Qd1e681" source="http://scta.info/resource/TAca84-d1e1711-d1e242@5-17">in qualibet etate et apud 
+          <lb ed="#P" n="9"/>quaslibet hominum nationes semper fuit 
+          <lb ed="#P" n="10"/>aliqua sacrificiorum oblatio</quote>: et ratio est: 
+          <lb ed="#P" n="11"/>quia <quote xml:id="lca8s8-d1e500-Qd1e691" source="http://scta.info/resource/TAca84-d1e1711-d1e255@4-37">naturalis ratio dictat homini quod a<lb ed="#P" break="no" n="12"/>licui 
+          superiori subdatur propter deffectus, 
+          <lb ed="#P" n="13"/>quos in seipso sentit in quibus ab aliquo 
+          <lb ed="#P" n="14"/>superiori eget adiuuari et dirigi: et quic<lb ed="#P" break="no" n="15"/>quid
+          illud sit: hoc est: quod apud om<lb ed="#P" break="no" n="16"/>nes 
+          dicitur Deus</quote>. Et ideo oblatio sacrifi<lb ed="#P" break="no" n="17"/>ciorum 
+          pertinet ad ius naturale ex sancto 
+          <lb ed="#P" n="18"/>Thoma.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e710">
+          <pc type="pilcrow"/> Tertio probatur ex iurecon<lb ed="#P" break="no" n="19"/>sultis: 
+          qui religionem de iure gentium 
+          <lb ed="#P" n="20"/>esse docent in <ref xml:id="lca8s8-d1e500-Rd1e718" target="http://scta.info/resource/bgy6gt-d1e59-d1e131">l. veluti. ff. de iustitia et 
+          <lb ed="#P" n="21"/>iure</ref>. Ius autem naturale ius gentium ideo 
+          <lb ed="#P" n="22"/>appellant: quoniam homines eo tantum 
+          <lb ed="#P" n="23"/>utuntur ut in <ref xml:id="lca8s8-d1e500-Rd1e728" target="http://scta.info/resource/bgy6gt-d1e59-d1e123">l. 1. ff. eo titulo.</ref> et in 
+          <lb ed="#P" n="24"/><ref xml:id="lca8s8-d1e500-Rd1e732">§ singulorum institutis de rerum diuisi.</ref> Ho<lb ed="#P" break="no" n="25"/>mines 
+          autem ubi primum creuerunt statim 
+          <lb ed="#P" n="26"/>ius gentium exercuerunt. Gentes enim quae 
+          <lb ed="#P" n="27"/>primis seculis vixere plurima instinctu 
+          <lb ed="#P" n="28"/>naturae docuerunt. Ergo ab eo initium sump<lb ed="#P" break="no" n="29"/>sit 
+          consuetudo sacrificandi naturae ins<lb ed="#P" break="no" n="30"/>tinctu
+          producta. Ergo offerre sacrificia 
+          <lb ed="#P" n="31"/>vetustissima res est iure naturali inducta
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e750">
+          <pb ed="#P" n="158-v"/>
+          <lb ed="#P" n="1"/><pc type="pilcrow"/> Secundum autem (scilicet) quod hoc vel illud 
+          <lb ed="#P" n="2"/>offerre in sacrificium. sit de iure humano:
+          <lb ed="#P" n="3"/>non autem rem certam prescribat lex naturae: 
+          <lb ed="#P" n="4"/>probatur etiam primo. quoniam etiam si ge<lb ed="#P" break="no" n="5"/>neraliter 
+          aliquid sit de iure naturali: ta<lb ed="#P" break="no" n="6"/>men 
+          dispositio et ordinatio quando et qua<lb ed="#P" break="no" n="7"/>liter 
+          illud fieri debet est positiuum, quod 
+          <lb ed="#P" n="8"/>nihil est aliud quam quaedam determinatio iu<lb ed="#P" break="no" n="9"/>ris 
+          naturalis quam vel princeps vel res<lb ed="#P" break="no" n="10"/>publica 
+          constituit. Exempli gratia: ho<lb ed="#P" break="no" n="11"/>mines 
+          tenentur vacare aliquando rebus 
+          <lb ed="#P" n="12"/>diuinis, et aliquibus actibus extrinsecis
+          <lb ed="#P" n="13"/>Deum colere quos Theologi actus latriae vo<lb ed="#P" break="no" n="14"/>cant. 
+          Quod naturalis ratio dictat: sed 
+          <lb ed="#P" n="15"/>quod dies septimus diuino cultui dari debeat: 
+          <lb ed="#P" n="16"/>constitutio humana est prodita ab ecclesia
+          <lb ed="#P" n="17"/>cui Christus condendi leges circa diuinum 
+          <lb ed="#P" n="18"/>cultum Ius dedit. Quamquam scio diem
+          <lb ed="#P" n="19"/>septimum (scilicet) Dominicum successisse 
+          <lb ed="#P" n="20"/>in locum Sabati: quem Deus in lege posi<lb ed="#P" break="no" n="21"/>tiua 
+          iussit diuinis rebus dari. Sic etiam 
+          <lb ed="#P" n="22"/>lex naturae docet nocentes puniri debere: 
+          poena autem qualis esse debeat docet lex 
+          <lb ed="#P" n="23"/>humana. Eodem modo quamquam natura 
+          <lb ed="#P" n="24"/>ipsa docet et adducit hominem ad sacrifi<lb ed="#P" break="no" n="25"/>candum 
+          Deo. tamen quae res debeat in 
+          <lb ed="#P" n="26"/>sacrificium offerri: an boues an oues vel 
+          <lb ed="#P" n="27"/>similia non docet lex naturae sed homi<lb ed="#P" break="no" n="28"/>nes
+          constituerunt <del rend="strikethroughs">diversus</del> ut patet ex im<lb ed="#P" break="no" n="29"/>molationibus 
+          diuersarum gentium supra re<lb ed="#P" break="no" n="30"/>latis. 
+          Item quoniam alii sues immolabant 
+          <lb ed="#P" n="31"/>cereri: equos Phoebo: Dianae anseres: Priapo 
+          <pb ed="#P" n="159-r"/>
+          <lb ed="#P" n="1"/>asinos ac rursus aliis aliaque <ref xml:id="lca8s8-d1e500-Rd1e830">Ouidius Fas<lb ed="#P" break="no" n="2"/>torum 
+          1o</ref> refert, et <ref xml:id="lca8s8-d1e500-Rd1e835">Lucanus de Bello ciui<lb ed="#P" break="no" n="3"/>li 
+          libro 6</ref> <ref xml:id="lca8s8-d1e500-Rd1e840">Iuuenalis satira penultima</ref>. Ra<lb ed="#P" break="no" n="4"/>tionem 
+          supra scriptam desumpsi ex <ref xml:id="lca8s8-d1e500-Rd1e844" target="http://scta.info/resource/TAca84-d1e1711-d1e303@10-58">S. 
+            <lb ed="#P" n="5"/>Thoma 2a 2ae, q. 85, articulo 1o, ad 1um</ref> et <ref xml:id="lca8s8-d1e500-Rd1e849" target="http://scta.info/resource/ta-l4d26q2-d1e201@5-45">4o Sententiarum 
+          <lb ed="#P" n="6"/>distinctione 26a, q. 2, articulo 2 ad 1m</ref> Et quodlibeto 
+          <lb ed="#P" n="7"/>2o articulo 8 in corpore.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e858">
+          <pc type="pilcrow"/> 2o Hoc probatur 
+          <lb ed="#P" n="8"/>ex <ref xml:id="lca8s8-d1e500-Rd1e864">Philosopho 5 Ethicorum</ref> ubi loquens de iure na<lb ed="#P" break="no" n="9"/>turali
+          et de iure positiuo: scribit omnes 
+          <lb ed="#P" n="10"/>homines idem sentire in his quae sunt 
+          <lb ed="#P" n="11"/>naturalia differre tamen legibus et insti<lb ed="#P" break="no" n="12"/>tutis. 
+          De sacrificiis enim loquens inquit: 
+          <lb ed="#P" n="13"/><quote xml:id="lca8s8-d1e500-Qd1e876">ius alterum naturale est: alterum legi<lb ed="#P" break="no" n="14"/>timum 
+          id est legale vel positiuum. Natu<lb ed="#P" break="no" n="15"/>rale 
+          quidem quod ubique eandem habet 
+          <lb ed="#P" n="16"/>vim ut ignis hic et Persis urit. Non 
+          <lb ed="#P" n="17"/>quia sic videatur vel non videatur. le<lb ed="#P" break="no" n="18"/>gitimum 
+          id est legale autem quod nihil ex prin<lb ed="#P" break="no" n="19"/>cipio 
+          quidem differt sic vel aliter: quan<lb ed="#P" break="no" n="20"/>do 
+          autem ponitur, differt: <del rend="strikethrough">si vel aliter quan<lb ed="#P" break="no" n="21"/>do 
+          autem ponitur puta</del> puta ut redemptiones 
+          <lb ed="#P" n="22"/>captiuorum certo precio fiant: vel capram 
+          <lb ed="#P" n="23"/>sacrificare: sed non duas oues et quae de 
+          <lb ed="#P" n="24"/>singulis cauta legibus sunt ut sacra fa<lb ed="#P" break="no" n="25"/>cere 
+          Braside</quote> etc 
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e909">
+          Ecce docet naturae le<lb ed="#P" break="no" n="26"/>gem 
+          non mutari quod alius velit alius nolit 
+          <lb ed="#P" n="27"/>illam implere. Neque enim quod bonum est 
+          <lb ed="#P" n="28"/>hominum voluntate impium effici potest 
+          <lb ed="#P" n="29"/>veluti redimere captiuum iniuriam pati<lb ed="#P" break="no" n="30"/>entem 
+          naturae lex docet: atque item Deo 
+          <lb ed="#P" n="31"/>sacrificium offerre: hoc autem omnes homines 
+          <pb ed="#P" n="159-v"/>
+          <lb ed="#P" n="1"/>velint nolint, facere tenentur. Quantum
+          <lb ed="#P" n="2"/>autem debeat esse pretium capitur et quae res 
+          <lb ed="#P" n="3"/>sit immolanda humana constitutio do<lb ed="#P" break="no" n="4"/>cet: 
+          quam postquam posita est obseruare de<lb ed="#P" break="no" n="5"/>cet 
+          et transgredi non licet. Exemplum 
+          <lb ed="#P" n="6"/>sit quod legimus Athenienses et Lacedemo<lb ed="#P" break="no" n="7"/>nios: 
+          bellum inter se gerentes: communi con<lb ed="#P" break="no" n="8"/>sensu 
+          statuisse: captiuos cuiusque liberta<lb ed="#P" break="no" n="9"/>tem 
+          precio quodam certo redimi. Item si 
+          <lb ed="#P" n="10"/>statuerentur non unam sed duas oues 
+          <lb ed="#P" n="11"/>in sacrificium offerri: vel alicui de re<lb ed="#P" break="no" n="12"/>publica 
+          bene merito immolationes fieri 
+          <lb ed="#P" n="13"/>et festa celebrari: quemadmodum Am<lb ed="#P" break="no" n="14"/>phipolitae 
+          statuerunt: ut sacrificia offer<lb ed="#P" break="no" n="15"/>rentur 
+          a Braside: quem aliqui Lacede<lb ed="#P" break="no" n="16"/>moniorum 
+          regem alii foeminam reginam 
+          <lb ed="#P" n="17"/>fuisse putant: ob beneficia in suam gen<lb ed="#P" break="no" n="18"/>tem 
+          collata: haec sacrificia et formam 
+          <lb ed="#P" n="19"/>lege sancitam nequaquam transgredi licet. 
+          <lb ed="#P" n="20"/>Quod si lex nihil sanxisset unusquisque 
+          <lb ed="#P" n="21"/>priuatus quod vellet immolare posset 
+          <lb ed="#P" n="22"/>et quanto vellet precio captiuum venderet. 
+          <lb ed="#P" n="23"/>Non enim haec docet lex naturalis. Et u<lb ed="#P" break="no" n="24"/>nusquisque 
+          enim in his quae sunt indif<lb ed="#P" break="no" n="25"/>ferentia 
+          potest arbitrio suo uti et suis 
+          <lb ed="#P" n="26"/>(scilicet) natis et uxori quod velit pres<lb ed="#P" break="no" n="27"/>cribere
+          secundum Philosophum 1o Politicorum ubi loquens 
+          <lb ed="#P" n="28"/>de familiis eiusque ciuitatis inquit: om<lb ed="#P" break="no" n="29"/>nis 
+          autem domus regitur a seniori itaque 
+          <lb ed="#P" n="30"/>et genera inde propagata propter consan<lb ed="#P" break="no" n="31"/>guinitatem. 
+          <lb ed="#P" n="32"/>Et hoc est quod inquit Ho<pb ed="#P" n="160-r"/><lb ed="#P" break="no" n="1"/>merus 
+          iura dent singuli natis et uxoribus. 
+          <lb ed="#P" n="2"/>Sparsim namque etiam sic antiquitus habi<lb ed="#P" break="no" n="3"/>tabant 
+          haec ille. De his loquitur <ref xml:id="lca8s8-d1e500-Rd1e1003" target="http://scta.info/resource/TAca84-d1e1566-d1e599@5-80">Sanctus Thomas 
+          <lb ed="#P" n="4"/>2a 2ae, q. 57, articulo 2 ad 2m</ref> et <ref xml:id="lca8s8-d1e500-Rd1e1008" target="http://scta.info/resource/TAca84-d1e1582-d1e1226@6-67">q. <choice><sic>6</sic><corr>60</corr></choice>, articulo 5 ad 
+            <lb ed="#P" n="5"/>1m</ref> et <ref xml:id="lca8s8-d1e500-Rd1e1017" target="http://scta.info/resource/TAca84-d1e1582-d1e1255@4-54">2m</ref> <ref xml:id="lca8s8-d1e500-Rd1e1020" target="http://scta.info/resource/TAca84-d1e1613-d1e1444@4-16">quaestione 66, articulo 7 in corpore</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e1024">
+          Quod autem 
+          <lb ed="#P" n="6"/>nisi lege certus modus vel res immolanda 
+          <lb ed="#P" n="7"/>prescripta esset: liceret unicuique sacrificare 
+          <lb ed="#P" n="8"/>quod vellet. probatur Genesis C. 4) ubi 
+          <lb ed="#P" n="9"/>Cayn spicas et fructus terrae obtulit Abel 
+          <lb ed="#P" n="10"/>autem qui pastor erat primogenita gregis sui domino
+          sacrificauit. Postquam autem dominus 
+          <lb ed="#P" n="11"/>pactum foecit cum Abraham et posteritate
+          <lb ed="#P" n="12"/>illius prescripsit per Moysem sacrificia 
+          <lb ed="#P" n="13"/>sibi offerenda: scilicet: ex quadrupedibus
+          <lb ed="#P" n="14"/>boues et oues <pc type="virgula">/</pc> ex volatilibus autem turtures 
+          <lb ed="#P" n="15"/>et columbinos ut patet Genesis 814 c. 19 et 
+          <lb ed="#P" n="16"/>leuitici c. 1. De his erudite tractat Abulen<lb ed="#P" break="no" n="17"/>sis 
+          q. 11a et 12 super leuiticum et q. 
+          <lb ed="#P" n="18"/>9. columna 7, c. 25, super exodum et ali<lb ed="#P" break="no" n="19"/>quid 
+          Genesis c. 15.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

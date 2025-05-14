@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 34 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 34 [Bnf 12926 Transcription]</title>
+          <date when="2025-05-14">May 14, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="151-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e487">
+        <head xml:id="lca8s8-d1e487-Hd1e97">Caput 34</head>
+        <p xml:id="lca8s8-d1e487-d1e99">
+          <lb ed="#P" n="22"/>CAPut 34m
+        </p>
+        <p xml:id="lca8s8-d1e487-d1e104">
+          <lb ed="#P" n="23"/> <pc type="pilcrow"/> Idem deduci oportet de crimine immo<lb ed="#P" break="no" n="24"/>landi 
+          homines quod apud eos in usu esse 
+          <lb ed="#P" n="25"/>dicitur. Non enim ideo bellum est ius<lb ed="#P" break="no" n="26"/>tum 
+          Tum ex superioribus (scilicet) quod dif<lb ed="#P" break="no" n="27"/>ficulter 
+          ipsis potest breui significari veritas 
+          <lb ed="#P" n="28"/>per legatos anunciata: tum etiam quoniam
+          <lb ed="#P" n="29"/>indi non tenentur fidem adhibere hyspa<lb ed="#P" break="no" n="30"/>nis 
+          etiam si millies illis veritatem incul<lb ed="#P" break="no" n="31"/>cent.
+          Cur <del rend="strikethrough">enim</del> credant genti superbae a<pb ed="#P" n="152-r"/><lb ed="#P" break="no" n="1"/>uarae 
+          truculentae <pc type="virgula">/</pc> rapaci? Aut cur a maio<lb ed="#P" break="no" n="2"/>rum
+          religione tot seculorum consensu compro<lb ed="#P" break="no" n="3"/>bata 
+          tot prudentium autoritate roborata 
+          <lb ed="#P" n="4"/>discedent: monitu gentis cuius <del rend="strikethrough">verbis</del> mi<lb ed="#P" break="no" n="5"/>racula 
+          fidem non adstruunt <add place="above-line">nec</add> vitia eleuant?
+        </p>
+        <p xml:id="lca8s8-d1e487-d1e153">
+          <lb ed="#P" n="6"/>Indi enim idola colentes quamuis apud Deum 
+          <lb ed="#P" n="7"/>excusari non possint: apud homines tamen 
+          <lb ed="#P" n="8"/>omnino excusati sunt duplici ratione. Pri<lb ed="#P" break="no" n="9"/>mo 
+          quoniam probabilem errorem sequuntur 
+          autore enim philosopho 1 Thopicorum, illud pro<lb ed="#P" break="no" n="10"/>babile 
+          dicitur quod omnes homines appro<lb ed="#P" break="no" n="11"/>bant 
+          vel maior pars sapientium vel illi quo<lb ed="#P" break="no" n="12"/>rum 
+          sapientia est magis approbata. Rur<lb ed="#P" break="no" n="13"/>sus 
+          1o Rhetorices c. 20 inquit: Illud ne<lb ed="#P" break="no" n="14"/>cessario 
+          esse existimandum bonum vel me<lb ed="#P" break="no" n="15"/>lius 
+          quod omnes vel maior pars prudentium 
+          <lb ed="#P" n="16"/>vel illi qui prudentiores existimantur, etiam 
+          <lb ed="#P" n="17"/>si sit unus iudicant bonum. Et huiusmodi 
+          <lb ed="#P" n="18"/>decreta horum sententiis comprobata moraliter 
+          <lb ed="#P" n="19"/>dicuntur certa secundum eundem Philosophum 1 Ethicorum 
+          <lb ed="#P" n="20"/>c. 2 quem omnes tam Philosophi quam theo<lb ed="#P" break="no" n="21"/>logi 
+          sequuntur. Cum autem opinio de diis et 
+          <lb ed="#P" n="22"/>sacrificiis eis offerendis: et <del rend="strikethrough">in quibus vel</del> 
+          <lb ed="#P" n="23"/>ex quibus rebus sacrificandum sit omni<lb ed="#P" break="no" n="24"/>um 
+          gentium Indis cognitarum consensu com<lb ed="#P" break="no" n="25"/>probetur: 
+          colanturque ab his quos viros sa<lb ed="#P" break="no" n="26"/>cros, 
+          ac diuinos credunt (scilicet) a sacerdo<lb ed="#P" break="no" n="27"/>tibus: 
+          legumque decretis ac principum san<lb ed="#P" break="no" n="28"/>ctionibus 
+          sit idolorum cultus confir<lb ed="#P" break="no" n="29"/>matus 
+          additis, minis ac penis in transgres<lb ed="#P" break="no" n="30"/>sores. 
+          Denique cum idola non clam sed 
+          <pb ed="#P" n="152-v"/>
+          <lb ed="#P" n="1"/>in templis publice ac religiose a vetustis<lb ed="#P" break="no" n="2"/>simis<del rend="strikethrough">usque</del> 
+          seculis colantur: certe errare pro<lb ed="#P" break="no" n="3"/>babiliter 
+          manifestissimum est. Neque miran<lb ed="#P" break="no" n="4"/>dum 
+          est: si statim ad primam nostrorum 
+          <lb ed="#P" n="5"/>vocem non expergiscantur.
+        </p>
+        <p xml:id="lca8s8-d1e487-d1e229">
+          Et signanter 
+          <lb ed="#P" n="6"/>etiam errant probabiliter circa consuetu<lb ed="#P" break="no" n="7"/>dinem 
+          immolandi humanas victimas: quoniam 
+          <lb ed="#P" n="8"/>omnes fere gentes idem facere solitas testan<lb ed="#P" break="no" n="9"/>tur 
+          vetustae hystoriae tam Ethnicorum quam 
+          <lb ed="#P" n="10"/>etiam catholicorum. Sic enim inquit Eu<lb ed="#P" break="no" n="11"/>sebius 
+          de preparatione euangelica libro 4o 
+          <lb ed="#P" n="12"/>c. 7: <quote xml:id="lca8s8-d1e487-Qd1e246">omnes communiter homines cum dies 
+          <lb ed="#P" n="13"/>statutus aduenerit quo sacrificare homi<lb ed="#P" break="no" n="14"/>nem 
+          solebant: aram sanguine hominis 
+          <lb ed="#P" n="15"/>spargunt, morem priscis in magnis cala<lb ed="#P" break="no" n="16"/>mitatibus 
+          atque periculis fuisse: ut ciuita<lb ed="#P" break="no" n="17"/>tis 
+          aut gentis princeps dilectissimum ex 
+          <lb ed="#P" n="18"/>liberis ulciscenti demoni: quasi redemptio<lb ed="#P" break="no" n="19"/>nis 
+          premium traderet: et sic traditum mis<lb ed="#P" break="no" n="20"/>tice 
+          iugularet</quote>. Et infra: <quote xml:id="lca8s8-d1e487-Qd1e266">immolationes ho<lb ed="#P" break="no" n="21"/>minum 
+          postulant scilicet demones: qui mul<lb ed="#P" break="no" n="22"/>tis
+          nonunquam ciuitatibus atque gentibus tam<lb ed="#P" break="no" n="23"/>quam 
+          communes pestes et fulmina incidentes,
+          <lb ed="#P" n="24"/>non cessarunt attrociter homines uexare 
+          <lb ed="#P" n="25"/>quousque sanguine horum placati sunt</quote> 
+          <lb ed="#P" n="26"/>Haec ille.
+        </p>
+        <p xml:id="lca8s8-d1e487-d1e283">
+          Rursus Clemens libro 9 re<lb ed="#P" break="no" n="27"/>cognitionum 
+          <lb ed="#P" n="28"/>ad Iacobum fratrem domini: re<lb ed="#P" break="no" n="29"/>fert 
+          quasdam gentes in india occiden<lb ed="#P" break="no" n="30"/>tali 
+          quae fortassis hae nostrae sunt solere hos<lb ed="#P" break="no" n="31"/>pites 
+          aduenientes immolare Diis suis, 
+          <lb ed="#P" n="32"/>ac postea comedere: quod etiam Eusebius 
+          <pb ed="#P" n="153-r"/>
+          <lb ed="#P" n="1"/>scribit in loco supra citato. Preterea lac<lb ed="#P" break="no" n="2"/>tantius 
+          diuinarum institutionum libro 1o 
+          <lb ed="#P" n="3"/>c. 21 inquit: Erat (inquit) lex apud 
+          <lb ed="#P" n="4"/>Tauras inhumanam et feram gentem uti 
+          <lb ed="#P" n="5"/>Dianae hospes immolaretur et id sacrifi<lb ed="#P" break="no" n="6"/>cium 
+          multis temporibus celebratum est. 
+          <lb ed="#P" n="7"/>Galli esum atque <choice><sic><seg type="correction">Tenta<del rend="strikethrough">n</del>tem</seg></sic><corr>Teutatem</corr></choice> humano cruo<lb ed="#P" break="no" n="8"/>re 
+          placabant. Nec latini quidem: huius 
+          <lb ed="#P" n="9"/>immanitatis expertes fuerunt. Siquidem 
+          <lb ed="#P" n="10"/>latialis Iupiter etiam nunc sanguine coli<lb ed="#P" break="no" n="11"/>tur 
+          humano. Sed de barbaris non est ad<lb ed="#P" break="no" n="12"/>mirandum
+          quorum religio cum moribus con<lb ed="#P" break="no" n="13"/>gruit: 
+          nostri vero qui semper mansuetudinis 
+          <lb ed="#P" n="14"/>et humanitatis gloriam sibi vindicarunt 
+          <lb ed="#P" n="15"/>non ne sacrilegis his sacris immaniores re<lb ed="#P" break="no" n="16"/>periuntur? 
+          Et paulo infra: apparet tamen 
+          <lb ed="#P" n="17"/>antiquum esse hunc immolandorum ho<lb ed="#P" break="no" n="18"/>minum 
+          ritum. hos in honorem Saturni a 
+          <lb ed="#P" n="19"/>ponte Miluia proiiciebant in tyberim. De 
+          <lb ed="#P" n="20"/>pueris vero innocentibus inquit: nam de 
+          <lb ed="#P" n="21"/>infantibus qui eidem Saturno immola<lb ed="#P" break="no" n="22"/>bantur 
+          propter odium Iouis: quid dicam 
+          <lb ed="#P" n="23"/>non inuenio. Tam barbaros tam immanes 
+          <lb ed="#P" n="24"/>fuisse homines ut parricidium id est tetrum 
+          <lb ed="#P" n="25"/>atque execrabile humano generi facinus sa<lb ed="#P" break="no" n="26"/>crificium 
+          vocarent cum teneras atque inno<lb ed="#P" break="no" n="27"/>centes 
+          animas <pc type="virgula">/</pc> quae maxime est etas pa<lb ed="#P" break="no" n="28"/>rentibus 
+          dulcior: sine ullo respectu pie<lb ed="#P" break="no" n="29"/>tatis 
+          extinguerent etc. et infra: cartagi<lb ed="#P" break="no" n="30"/>nenses 
+          Saturno humanas hostias solitos 
+          <pb ed="#P" n="153-v"/>
+          <lb ed="#P" n="1"/>immolare: et cum victi essent ab Aglatho<lb ed="#P" break="no" n="2"/>cle 
+          rege Syculorum iratum sibi deum p<subst><del rend="strikethrough"><unclear>auc</unclear></del><add place="above-line">aca</add></subst><lb ed="#P" n="3"/>uisse: 
+          itaque ut diligentius piaculum sol<lb ed="#P" break="no" n="4"/>uerent 
+          ducentos nobilium filios immolas<lb ed="#P" break="no" n="5"/>se 
+          etc.
+        </p>
+        <p xml:id="lca8s8-d1e487-d1e396">
+          Rursus <ref xml:id="lca8s8-d1e487-Rd1e398">Plutarchus in problematibus 
+          <lb ed="#P" n="6"/>pagina 465</ref> scribit Romanos <pc type="virgula">/</pc> barbaros quos<lb ed="#P" break="no" n="7"/>dam 
+          homines Diis immolantes non castigas<lb ed="#P" break="no" n="8"/>se: 
+          quoniam consuetudine ac lege fecisse cognouerunt. Refert tamen Plutarchus Ro<lb ed="#P" break="no" n="9"/>manos 
+          aliquando idem fecisse. Eius ver<lb ed="#P" break="no" n="10"/>ba 
+          hic subiiciam: quid est quod quoniam Ro<lb ed="#P" break="no" n="11"/>mani 
+          barbaros quosdam Diis immortalibus
+          <lb ed="#P" n="12"/>hominem immolasse accepissent magis<lb ed="#P" break="no" n="13"/>tratus 
+          eorum accersendos ac puniendos pu<lb ed="#P" break="no" n="14"/>tauerunt: 
+          quos postea cum id consuetudine 
+          <lb ed="#P" n="15"/>quadam ac lege foecisse accepissent eos di<lb ed="#P" break="no" n="16"/>miserunt
+          alias id facere prohibuerunt: cum 
+          <lb ed="#P" n="17"/>ipsi non multis annis ante: duos viros et duas 
+          mulieres in foro Boario obruerunt. 
+          <lb ed="#P" n="18"/>Non enim videtur conuenire ipsos haec face<lb ed="#P" break="no" n="19"/>re: 
+          et barbaros qui talia comississent repre<lb ed="#P" break="no" n="20"/>hendere. 
+          An Diis immortalibus hominem 
+          <lb ed="#P" n="21"/>impium ducebatur: demonibus autem neces<lb ed="#P" break="no" n="22"/>sarium? 
+          An qui more et lege id agerent 
+          <lb ed="#P" n="23"/>peccare arbitrabantur: se vero 
+          <lb ed="#P" n="24"/>libris Sybi<lb ed="#P" break="no" n="25"/>linis 
+          iussos eodem teneri scelere non puta<lb ed="#P" break="no" n="26"/>bant
+          etc. haec Plutarchus.
+        </p>
+        <p xml:id="lca8s8-d1e487-d1e450">
+          Deinde Hero<lb ed="#P" break="no" n="27"/>dotus 
+          hystoriographus grecus libro 4 pa<lb ed="#P" break="no" n="28"/>gina 
+          299 narrat Scytas unum ex centum 
+          <lb ed="#P" n="29"/>quibusque captis in bello diis suis immola<lb ed="#P" break="no" n="30"/>re 
+          solitos. Ac deinde scribit populos 
+          <lb ed="#P" n="31"/>Scytho Tauros qui sunt in Germania offer<pb ed="#P" n="154-r"/><lb ed="#P" break="no" n="1"/>re 
+          Ephigeniae Agamemnonis filiae omnes nau<lb ed="#P" break="no" n="2"/>fragium 
+          passos et in litus eiectos atque item 
+          <lb ed="#P" n="3"/>hospites. Idem scribit Solinus in Polihis<lb ed="#P" break="no" n="4"/>toria. 
+          c. 20 et Pomponius Mela libro 2 c. 
+          <lb ed="#P" n="5"/>1. Deinde Diodorus Siculus libro 6 folio 
+          <lb ed="#P" n="6"/>190. scribit Galatas Diis immolare captos
+          <lb ed="#P" n="7"/>vel ex delictis damnatos. Hispani nostri 
+          <lb ed="#P" n="8"/>qui miserae indorum genti hominum immo<lb ed="#P" break="no" n="9"/>lationes 
+          exprobrant Marti captiuos et 
+          <lb ed="#P" n="10"/>equos immolabant quod memoriae prodit 
+          <lb ed="#P" n="11"/>Strabo tertio de situ orbis. Aliquos inquit 
+          <lb ed="#P" n="12"/>Durio vicinos amni Spartano ritu degere
+          <lb ed="#P" n="13"/>tradunt. Et parum infra: Sacrificiis de<lb ed="#P" break="no" n="14"/>diti 
+          ex intestinis quoque horum maxime 
+          <lb ed="#P" n="15"/>captiuorum diuinationem captant. Abs<lb ed="#P" break="no" n="16"/>cissas 
+          captiuorum dextras diis offerunt. Hir<lb ed="#P" break="no" n="17"/>co 
+          maxime uescuntur quem et marti immo<lb ed="#P" break="no" n="18"/>lant 
+          sicut et captiuos et equos etc. haec S<lb ed="#P" break="no" n="19"/>trabo. 
+          Ac de aliis pluribus gentibus similia 
+          <lb ed="#P" n="20"/>narrant in libris sequentibus. Et plurima 
+          <lb ed="#P" n="21"/>memoriae prodidit Polidorus Virgilius de 
+          <lb ed="#P" n="22"/>rerum inuentoribus libro 5 c. 8o.
+        </p>
+        <p xml:id="lca8s8-d1e487-d1e512">
+          Cum er<lb ed="#P" break="no" n="23"/>go 
+          <sic>aput</sic> tot gentes homines diis immolare 
+          <lb ed="#P" n="24"/>sollemne fuerit: certe indi immolantes a tot 
+          <lb ed="#P" n="25"/>seculis homines probabiliter errant. Scimus 
+          <lb ed="#P" n="26"/>quidem in pluribus orbis regionibus claris<lb ed="#P" break="no" n="27"/>simos 
+          vixisse philosophos. Hi tamen licet hysto<lb ed="#P" break="no" n="28"/>rias 
+          de Diis mera esse fabulamenta cognos<lb ed="#P" break="no" n="29"/>cerent: 
+          neque ipsis diuinos honores tribu<lb ed="#P" break="no" n="30"/>endos 
+          iudicarent (<sic>e</sic> quorum numero Seneca 
+          <lb ed="#P" n="31"/>et Cicero fuerunt) nolebant tamen populum 
+          <lb ed="#P" n="32"/>ab antiqua consuetudine tot seculis recepta 
+          <pb ed="#P" n="154-v"/>
+          <lb ed="#P" n="1"/>auocare <ref xml:id="lca8s8-d1e487-Rd1e545" target="http://scta.info/resource/adcd-l6-Dd1e243"><!-- target imprecise -->autore Augustino de ciuitate Dei libro 6 
+          <lb ed="#P" n="2"/>c. 10</ref>
+        </p>
+        <p xml:id="lca8s8-d1e487-d1e547">
+          cur ergo existimandum est indos a tot 
+          <lb ed="#P" n="3"/>seculis recepta religione tot principum le<lb ed="#P" break="no" n="4"/>gibus 
+          sancita: tot prudentium exemplo con<lb ed="#P" break="no" n="5"/>firmata 
+          discere debere hortatu christiano<lb ed="#P" break="no" n="6"/>rum
+          militum <add place="above-line">cum sint</add> <del rend="strikethrough">gere quidem ignotae et aspostet 
+          <lb ed="#P" n="7"/>horribilis quae non fstam non edunt verum </del> omni impietate <add place="above-line">gentes barbaras</add> <del rend="strikethrough">eos</del> barbaras <unclear>superantes<!-- corrected somehow --></unclear> Immo essent 
+          <lb ed="#P" n="8"/>leuissimi et reprehensione ac punitione 
+          <lb ed="#P" n="9"/>digni in re tam ardua tantique momenti 
+          <lb ed="#P" n="10"/>et desertione difficillima ut Chrysostomus 
+          <lb ed="#P" n="11"/>ait 1a Corinthios homilia 7 <add place="above-line">si</add> illis fidem 
+          <lb ed="#P" n="12"/>de hoc adhiberent tot et tantis tantaeque auto<lb ed="#P" break="no" n="13"/>ritatis 
+          apud se testimoniis omissis donec 
+          <lb ed="#P" n="14"/>rationibus probabilioribus quod in breui 
+          <lb ed="#P" n="15"/>fieri nequit probabilior eos doceatur esse 
+          <lb ed="#P" n="16"/>christiana religio. Pudeat ergo istos quibus 
+          <lb ed="#P" n="17"/>armata manu euangelium predicari pla<lb ed="#P" break="no" n="18"/>cet: 
+          homines doceri volunt cogi nolunt. 
+          <lb ed="#P" n="19"/>Doceri autem breuiter nullo modo possunt ni<lb ed="#P" break="no" n="20"/>mirum 
+          nostrae linguae ignari et nos suae, ac 
+          <lb ed="#P" n="21"/>suae religionis quousque ratione conuincan<lb ed="#P" break="no" n="22"/>tur 
+          prudenter tenaces. Nullum enim ne<lb ed="#P" break="no" n="23"/>gocium 
+          homini maius est aut magis ardu<lb ed="#P" break="no" n="24"/>um 
+          quam discedere a religione quam semel in<lb ed="#P" break="no" n="25"/>duit,
+          ut diximus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

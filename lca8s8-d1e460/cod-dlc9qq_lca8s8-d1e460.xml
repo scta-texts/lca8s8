@@ -180,7 +180,7 @@
           <lb ed="#P"/>animus. Quarto quoniam si impius aliquis
           <lb ed="#P"/>prepotens sit: non potest puniri absque per<lb ed="#P" break="no"/>turbatione
           diuinarum et humanarum rerum
-          <lb ed="#P"/>omnium.<!--c.e. cites Bibliorum Sacrorum una cum Glosa..., Tomus Quintus, Glosa ordi. Marth. c. 13, 29: Lugduni, 1545, 45v)-->
+          <lb ed="#P"/>omnium.<!--c.e. cites Bibliorum Sacrorum una cum Glosa..., Tomus Quintus, Glosa ordi. Marth. c. 13, 29: Lugduni, 1545, 45v.-->
         </p>
         <p>
           Huius sanctissimae doctrinae exem<lb ed="#P" break="no"/>plum
@@ -210,25 +210,93 @@
           <lb ed="#P"/>occidere: inter quos fortassis fere omnes
           <lb ed="#P"/>coram deo innocentissimi sunt saltem
           <lb ed="#P"/>eorum criminum quorum ratione existimamus
-          <lb ed="#P"/>bellum esse justum (scilicet, immolandi infantes et comedendi humanas carnes. Rursus haec veritas ex jureconsultorum decretis probatur. Legimus enim (in L. Absentem, ff De Poenis) vbi dicit: Satius35 id est, melius (aliqui dicunt sanctius) est impunitum reliquifacinus nocentis quam innocentem damnari 55.
+          <lb ed="#P"/>bellum esse justum (scilicet) immolandi
+          <lb ed="#P"/>infantes et comedendi humanas carnes.
+          <lb ed="#P"/>Rursus hec veritas ex jureconsultorum de<lb ed="#P" break="no"/>cretis
+          probatur. Legimus enim in <ref>.l. ab<lb ed="#P" break="no"/>sentem,
+          .ff de penis vbi dicit</ref> <add place="margin-left" hand="A">Statius</add> <quote><choice><sic>Statius</sic><corr>Satius</corr></choice>. 1º.<!--c.e. expands to "id est"-->
+          <lb ed="#P"/>melius (aliqui dicunt sanctius) est im<lb ed="#P" break="no"/>punitum
+          reliqui facinus nocentis: quam
+          <lb ed="#P"/>innocentem damnari</quote>.
         </p>
         <p>
-Vbi dicit Bartholus?26 quod si liquet judici quem non commisisse delictum vel eum non commisisse delictum vel eum non esse culpabilem, judex non potest condemnare eum etiam ex vera sua confessione (ut L. inde Neratius? in finem et L. sequenti, ff Ad Legem Aquiliam). Et hoc est quod dicitur judicem debere querere defensionem rei (ut ff De Quaestionibus, L. 9, in finem, et L. Si Non Defendatur, f£ De Poenis). Idem intelligitur quando de culpa dubitatur?5,
+          Vbi dicit <ref><!--c.e. cites Bartolo de SAXOFERRATO, ln Secundam Digesti Noui Partem, Ad librum 48 Digest., tit. 19 “De Poenis”, lex 5* "Absentem" (Lugduni, 1581, fol. 185v)-->Bartho<lb ed="#P" break="no"/>lus</ref>
+          quod si liquet judici quem non comisis<lb ed="#P" break="no"/>se
+          delictum vel eum non comisisse delic<lb ed="#P" break="no"/>tum
+          vel eum non esse culpabilem: judex
+          <lb ed="#P"/>non potest condemnare eum etiam ex vera
+          <lb ed="#P"/>sua confessione ut <ref>l. inde Neratius in
+          <lb ed="#P"/>fi.</ref> et <ref>.l. sequen. ff. ad l. aquil.</ref> Et hoc
+          <lb ed="#P"/>est quod dicitur <quote>judicem debere querere
+          <lb ed="#P"/>defensionem rei</quote> ut <ref><!--c.e. for this and the next: "No está clara la referencia que Las Casas hace al Digestum, lib. 48, tit. 18 “De quaestionibus". Lex 92 al final; quizás se refiera a la Lex 72"-->.ff. de quaestio. l. <choice><sic>1</sic><corr>9</corr></choice>. in
+          <lb ed="#P"/>fi.</ref> et <ref>l. si non defendatur .ff. de poenis</ref>.
+          <lb ed="#P"/>Idem intelligitur quando de culpa dubi<lb ed="#P" break="no"/>tatur.
         </p>
         <p>
-Sic etiam inquit Chrysostomus (Super Mattheum, c. 1*, Homilia 12, in opere [144r.] imperfecto): /n re, ait, incerta, melius est vt meretrix constituta euadat quam vt innocens moriatur. Justius enim est injustum juste euadere quam justum injuste perire. Quia etsi reus semel euaserit iterum potest perire; innocens autem si semel perierit, jam non potest reuocari 9. Haec Chrysostomus.
+          Sic etiam inquit <ref>Chrisostomus
+          <lb ed="#P"/>super Mattheum .c. 1º, homel. 1a. in opere
+          <pb ed="#P" n="144-r"/>
+          <lb ed="#P"/>imperfecto</ref>. <quote>In re (ait) incerta melius est vt
+          <lb ed="#P"/>meretrix constituta euadat: quam vt innocens
+          <lb ed="#P"/>moriatur. Justius enim est injustum juste
+          <lb ed="#P"/>euadere: quam justum injuste perire. Quia et<lb ed="#P" break="no"/>si
+          reus semel euaserit iterum potest perire:
+          <lb ed="#P"/>innocens autem si semel perierit: jam non po<lb ed="#P" break="no"/>test
+          reuocari</quote> haec Chrisostomus.
         </p>
         <p>
-Ex his verbis Chrysostomi vides nostram sententiam esse verissimam peccatumque esse eterna morte dignum affligere et occidere innocentes vt nocentes puniantur, quod contra justitiam est. Item, summopere cauendum est ne pretextu nocentis innocens puniatur (ut in L. 2, in fine, Cod. De His Qui Latrones... Occultant)730 vbi dicit Baldus??! quod nec innocentes debent capi nec grauari in sumptibus nec in aliquo alio. Allegat L. 1, $ Tribuni eo titulo?32, Idem ait quod qui facit aliquem capi qui postea apparet innocens, debet postea puniri ad similitudinem supplici et sic inquit: Per hoc fuit decapitatus 353 quidam Perusij, quod nota 95, Haec Baldus.
+          Ex his
+          <lb ed="#P"/>verbis chrisostomi vides nostram senten<lb ed="#P" break="no"/>tiam
+          esse verissimam peccatumque esse eter<lb ed="#P" break="no"/>na
+          morte dignum: affligere et occidere in<lb ed="#P" break="no"/>nocentes
+          vt nocentes puniantur quod contra
+          <lb ed="#P"/>justitiam est. Item sumo pere cauendum
+          <lb ed="#P"/>est ne pretextu nocentis innocens punia<lb ed="#P" break="no"/>tur,
+          ut in <ref><!--Codex lustinianus, lib. 9, c. 39-->l. 2. in fi. c. de his qui la<lb ed="#P" break="no"/>tro
+          occul.</ref> Ubi dicit <ref>Baldus</ref>: quod nec inno<lb ed="#P" break="no"/>centes
+          debent capi nec grauari in sumpti<lb ed="#P" break="no"/>bus
+          nec in aliquo alio. Allegat <ref>l. .1. §.
+          <lb ed="#P"/>tribuni eo titulo</ref>. Idem ait quod qui facit
+          <lb ed="#P"/>aliquem capi qui postea apparet innocens,
+          <lb ed="#P"/>debet postea puniri ad similitudinem su<lb ed="#P" break="no"/>ppliciij:
+          et sic inquit: <quote>per hoc fuit decapi<lb ed="#P" break="no"/>tatus
+          quidam Perusij quod nota</quote>. Haec Baldus.
         </p>
         <p>
-Facit etiam quia non debet alteri per alterum iniqua conditio afferri (ff De Regulis Juris, L. Nemo debet)734, Et poena suos solum debet tenere autores, L. Sancimus 35, Cod. De Poenis, L. Si Poena, ff eo titulo, L. Ab Maritorum, Cod. Ne vxor Pro Marito, et c. Illud, 11, q. 3, et c. Romana: De Sententia Excommunicationis, Libro 6*, et c. Placuit, et c. Crimen, et c. Nullius et c. Judaei, 1, q. 4, et c. Peruenit: [144v.] De his Quae Fiunta Maiore Parte Capituli 755.
+          Facit etiam quia non debet alteri
+          <lb ed="#P"/>per alterum iniqua conditio afferri. <ref>ff. de
+          <lb ed="#P"/>regul. jur. l. nemo debet</ref>. Et pena suos
+          <lb ed="#P"/>solum debet tenere autores .<ref><!--long note with various sources in c.e.-->l. sanctimus<!--c.e. corrects to Sancimus-->
+          <lb ed="#P"/>C. de penis. l. si pena. ff. eo titulo .l. ab
+          <lb ed="#P"/>maritorum C. ne vxor pro marito</ref>, et <ref>c. illud
+          <lb ed="#P"/>.11. q. 3</ref>. et <ref>c. Romana. de sen. excommunicationis.
+          <lb ed="#P"/>lib. 6</ref>. et <ref>c. Placuit</ref>, et <ref>c. crimen</ref>, et <ref>c.
+          <lb ed="#P"/>nullius</ref>. et <ref>c. judaei. 1. q. 4</ref>. et <ref>c. peruenit.
+          <pb ed="#P" n="144-v"/>
+          <lb ed="#P"/>de his quae fi. Amaso<!--c.e. corrects to "Maiore", with a very long explanatory note--> par. cap</ref>.
         </p>
         <p>
-Idem probat ex decretis canonicis in c. Denique, 14, q. 5, vbi inquit Ambrosius: Denique si non potest subueniri alteri nisi alter laedatur, commodius est neutrum iuuari quam grauari alterum, et caetera7%, vbi dicit Archidiachonus??? (et in c. [psa pietas 798, 23, q. 4) quod nemo debet alteri impendere auxilium ex quo directe et necessario sequatur alterius nocumentum; et merito, quia nulli est consulendum cum alterius jactura vel injuria (ut in c. Primum): ibi Non est mentiendum tertio genere, et caetera (22. q. 2, et 11, q. 3, 57 quis vero739), Et in regula Locuplectari non debet aliquis cum alterius, et caetera"), Et L. Jure Naturae, f£ De Regulis Juris, vbi dicit textus: Jure naturae aequum est neminem cum alterius detrimento et injuria fieri locuplectiorem 74,
+          ¶ Idem
+          <lb ed="#P"/>probat ex <ref>decretis canonicis in c. denique
+          <lb ed="#P"/>.14. q. 5</ref>. vbi inquit <name>Ambrosius</name>: <quote>denique
+          <lb ed="#P"/>si non potest subueniri alteri nisi alter le<lb ed="#P" break="no"/>datur:
+          commodius est nevtrum juuari
+          <lb ed="#P"/>quam grauari alterum</quote>, et caetera. Vbi dicit <ref><name>Archi<lb ed="#P" break="no"/>diachonus</name>.</ref>
+          et in <ref>.c. ipsa pietas. 23. q.
+          <lb ed="#P"/>4</ref>. quod nemo debet alteri impendere auxi<lb ed="#P" break="no"/>lium
+          ex quo directe et necessario sequatur
+          <lb ed="#P"/>alterius nocumentum: et merito quia nul<lb ed="#P" break="no"/>li
+          est consulendum cum alterius jactura
+          <lb ed="#P"/>vel injuria vt in <ref>c. primum</ref> ibi <quote>non est men<lb ed="#P" break="no"/>tiendum
+          tertio genere</quote> et caetera <ref>22. q. 2</ref>. et
+          <lb ed="#P"/><ref>11. q. 3. si quis vero</ref>. Et in regula <ref>locu<lb ed="#P" break="no"/>plectari
+          non debet aliquis cum alterius</ref>
+        <lb ed="#P"/>et caetera. Et .<ref>l. jure nature. ff. de regu. jur.</ref>
+        <lb ed="#P"/>vbi dicit textus <quote>jure naturae aequum est
+        <lb ed="#P"/>neminem cum alterius detrimento et inju<lb ed="#P" break="no"/>ria:
+        fieri locuplectiorem</quote>.
         </p>
 	    </div>
     </body>
   </text>
 </TEI>
-

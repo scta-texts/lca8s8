@@ -84,7 +84,7 @@
           prohibet dominus malos eradicari,
           <lb ed="#P"/>sed in diem judicij eorum punitionem
           <pb ed="#P" n="142-r"/>
-          <lb ed="#P"/><seg>difer<subst hand="B"><del rend="strikethrough"><unclear>t</unclear></del><add place="above-line"></add><unclear>ri</unclear></subst></seg> <del rend="strikethrough" hand="B">his verbis</del> et hoc non ob aliud nisi
+          <lb ed="#P"/><seg>difer<subst hand="B"><del rend="strikethrough">t</del><add place="above-line">ri</add></subst></seg> <del rend="strikethrough" hand="B">his verbis</del> et hoc non ob aliud nisi
           <lb ed="#P"/><choice><corr>ne</corr></choice> pij vel innocentes pereant cum impijs
           <lb ed="#P"/>et nocentibus.
         </p>

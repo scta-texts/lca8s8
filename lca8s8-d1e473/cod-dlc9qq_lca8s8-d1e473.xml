@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Caput 33 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Caput 33 [Bnf 12926 Transcription]</title>
+          <date when="2025-05-15">May 15, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="144-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e473">
+        <head>Caput 33</head>
+        <p>
+          <lb ed="#P" n="20"/>CAPut 33m
+        </p>
+        <p>
+          <lb ed="#P"/><pc type="pilcrow"/> Cum igitur per bellorum strepitus in<lb ed="#P"/>nocentes 
+          a suis oppressoribus discerni non pos<lb ed="#P"/>sint, 
+          cum tamen sit notorium esse innumeros. 
+          <lb ed="#P"/>Tum ob immensam mortalium multitudi<lb ed="#P"/>nem:
+          tum ob bellicum furorem, ac seditio<lb ed="#P"/>sum 
+          tumultum quo filius patrem non re<lb ed="#P"/>ueretur, 
+          nec miseretur filio pater: vt interim 
+          <lb ed="#P"/>omittamus predae cupiditatem aut in<lb ed="#P"/>pudentem
+          ac crudelem inuadentium licen<lb ed="#P"/>tiam 
+          ad malum perpetrandum. Tum 
+          <pb ed="#P" n="145-r"/>
+          <lb ed="#P"/>demum turbationem ac tremorem inua<lb ed="#P"/>sorum 
+          sint: quoque multi qui mali viden<lb ed="#P"/>tur 
+          et mali non sunt: et in re dubia ut 
+          <lb ed="#P"/>dixit Chrisostomus Iustius est iniustos 
+          <lb ed="#P"/>Iuste euadere quam Iustos vel innocentes in<lb ed="#P"/>quantum 
+          huiusmodi iniuste perire: unde secundum 
+          <lb ed="#P"/>eum primum secundum iustitiam est injustum 
+          <lb ed="#P"/>autem secundum. Similiter sanctius sit 
+          <lb ed="#P"/>impunitum relinqui facinus nocentis quam 
+          <lb ed="#P"/>innocentem damnari. Rursus nec debea<lb ed="#P"/>mus
+          subuenire alteri cum iniuria vel lae<lb ed="#P"/>sione 
+          alterius etc. Quibus quidem ratio<lb ed="#P"/>nibus 
+          leges humanae canonicae atque ciuiles 
+          <lb ed="#P"/>conformari <del rend="strikethrough">d</del> videantur prohibitioni chri<lb ed="#P"/>sti 
+          sequitur lege naturali et diuina et etiam 
+          <lb ed="#P"/>humanis legibus fore prohibitum: quod in casu 
+          <lb ed="#P"/>quo alio remedio nisi per bellum eius<lb ed="#P"/>modi 
+          Innocentium incommodis nequit obuiam 
+          <lb ed="#P"/>iri teneamur precepto naturali humano 
+          <lb ed="#P"/>et diuino tolerare ac dissimulare illa: ne in 
+          <lb ed="#P"/>aeternum pereant crudeliter infiniti: qui blan<lb ed="#P"/>de 
+          et moderatis rationibus pertracti ad Iu<lb ed="#P"/>gum 
+          Christi forsan consequentur salutem 
+          <lb ed="#P"/>ex zizaniorum corruptione in salubre triti<lb ed="#P"/>cum. 
+          Quae omnia comprehendit Chrisos<lb ed="#P"/>tomus 
+          super mattheum homilia 47 ubi etiam 
+          <lb ed="#P"/>hereticos asserit non esse occidendos his ver<lb ed="#P"/>bis 
+          dominus autem prohibet ne forte simul 
+          <lb ed="#P"/>cum zizaniis herbam etiam tritici euellant 
+          <lb ed="#P"/>quod dicebat: ut bella et effusionem sangui<lb ed="#P"/>nis 
+          prohiberet. Nam si trucidarentur ma<pb ed="#P" n="145-v"/><lb ed="#P"/>li 
+          absque foedere pacis atque <sic>inducis</sic> bellum 
+          <lb ed="#P"/>orbi inferretur. Duabus igitur rationibus 
+          <lb ed="#P"/>prohibuit. Altera quia frumentis parum 
+          <lb ed="#P"/>nocerent: altera quia nisi sanarentur ex<lb ed="#P"/>trema 
+          supplicia non euaderent. Quare et<lb ed="#P"/>si 
+          puniri eos vultis et frumentis nequaquam 
+          <lb ed="#P"/>officere opportunitas temporis congrua ex<lb ed="#P"/>pectanda 
+          vobis est. Quid autem quod eradicabitis simul cum ipsis etiam frumen<lb ed="#P"/>ta?
+          Certe aut quia si arma capietis (in<lb ed="#P"/>quit) 
+          necesse est cum hereticos trucidatis 
+          <lb ed="#P"/>multos sanctorum simul interimere aut 
+          <lb ed="#P"/>qui ab ipsis zizaniis multa commutata in 
+          <lb ed="#P"/>frumenti conditionem seipsam conuerte<lb ed="#P"/>rent. 
+          Si ergo preuenientes euellitis ea fru<lb ed="#P"/>menta 
+          deperibunt quae a commutatis zizaniis 
+          <lb ed="#P"/>prouenirent. Haec omnia Chrysosto<lb ed="#P"/>mus 
+          in forma. Vides ergo diuina et hu<lb ed="#P"/>mana 
+          decreta rationemque ipsam natura<lb ed="#P"/>lem 
+          hanc aequitatis ac moderationis chris<lb ed="#P"/>tianae 
+          plenam sententiam tueri. Ergo 
+          <lb ed="#P"/>agnoscamus indos ex huiusmodi <del rend="strikethrough">per similitudi<lb ed="#P"/>nem</del>
+          causis bello impeti esse iniquum et 
+          <lb ed="#P"/>impium. <pc type="pilcrow"/> Potest addi 4a ratio ad pro<lb ed="#P"/>bationem 
+          huiusmodi per similitudinem puni<lb ed="#P"/>tionis 
+          delictorum. Punire namque delicta 
+          <lb ed="#P"/>non est actus iustitiae nisi quatenus de<lb ed="#P"/>linquens
+          punitione ad meliorem mentem 
+          <lb ed="#P"/>reddit vel reipublicae pax et quies res<lb ed="#P"/>tituitur. 
+          Etenim si punitio criminis vel 
+          <lb ed="#P"/>remedium quod assumitur ad impedien<pb ed="#P" n="146-r"/><lb ed="#P" break="no"/>dum 
+          delicta maiora crimina vel qualita<lb ed="#P"/>te 
+          vel numero pariat vel tota respublica des<lb ed="#P"/>truitur: 
+          vitium est delicta punire non 
+          <lb ed="#P"/>virtus nec actus iustitiae. Probatur hoc 
+          <lb ed="#P"/>ex Augustino (in 2a epistola ad macedo<lb ed="#P"/>nium 
+          et legitur in c. Prodest, 23, q. 5, 
+          <lb ed="#P"/>ubi inquit siue plectendo siue ignoscen<lb ed="#P"/>do 
+          hoc solum bene agitur ut vita homi<lb ed="#P"/>num 
+          corrigatur. haec ille.
+        </p>
+        <p>
+          Nec enim in 
+          <lb ed="#P"/>hac vita pena irrogatur, ut sit poena neque 
+          <lb ed="#P"/>enim hic est locus plenae retributionis. 
+          ideo poena in hac vita in medicinam im<lb ed="#P"/>ponitur: 
+          non in poenam. Iterum proba<lb ed="#P"/>tur 
+          quoniam punitio vel impedimentum 
+          <lb ed="#P"/>delictorum assumitur etiam sicut quoddam 
+          <lb ed="#P"/>medicamentum siue morbi medicina. Me<lb ed="#P"/>dicamentum 
+          autem si augeat morbum corpo<lb ed="#P"/>ris 
+          venenum est, potius quam medicamentum. 
+          Quid enim si ut sanes pedem noceas ocu<lb ed="#P"/>lis? 
+          An esset optimus medicus, qui ut 
+          <lb ed="#P"/><unclear>medeatur<!-- corrected somehow --></unclear> digito secat manum? Medic<lb ed="#P"/>ina 
+          leuioribus partibus nonumquam nocet 
+          <lb ed="#P"/>ut precipuis sanitatem adferat sed non 
+          <lb ed="#P"/>econtra. Sic si punitio delicti vel impedi<lb ed="#P"/>mentum 
+          delictorum delicta auget vel di<lb ed="#P"/>recte 
+          vel per occasionem: crimen esset de<lb ed="#P"/>licta 
+          punire vel impedire velle: et omni vir<lb ed="#P"/>tuti 
+          aduersaretur. Quod Augustinus as<lb ed="#P"/>serit 
+          libro 2 aduersus epistolam Parmenia<lb ed="#P"/>ni 
+          quod legitur in c. non potest, 23, q. 4 
+          <lb ed="#P"/>reuera inquit cum contagio peccandi mul<pb ed="#P" n="146-v"/><lb ed="#P" break="no"/>titudinem 
+          inuaserit diuinae disciplinae 
+          <lb ed="#P"/>seuera misericordia necessaria est. Nam 
+          <lb ed="#P"/>consilia separationis scilicet per mortem vel 
+          <lb ed="#P"/>excommunicationem: et inania sunt et perni<lb ed="#P"/>tiosa 
+          atque sacrilega quia impia et superba 
+          <lb ed="#P"/>sunt: et plus perturbant infirmos bonos 
+          <lb ed="#P"/>quam corrigant animosos malos. haec ille. ubi 
+          satis vituperat Augustinus intempesti<lb ed="#P"/>uam 
+          punitionem vel remedium quod pro 
+          <lb ed="#P"/>sanandis malis assumitur sacrilegam <pc type="virgula">/</pc> per<lb ed="#P"/>niciosam 
+          <pc type="virgula">/</pc> impiam et superbam appellans: 
+          <lb ed="#P"/>ex qua maiora mala quam vitare intendi<lb ed="#P"/>tur 
+          nascuntur. Rursus idem Augustinus in epistola ad Macedonium supra citata et le<lb ed="#P"/>gitur 
+          in eadem causa et quaestione in decretis: ve<lb ed="#P"/>rum 
+          inquit qui in huiusmodi causis ubi 
+          <lb ed="#P"/>per graues dissensionum scissuras non 
+          <lb ed="#P"/>huius aut illius hominis periculum, sed 
+          populorum strages iacent detrahendum 
+          <lb ed="#P"/>est aliquid seueritati ut maioribus ma<lb ed="#P"/>lis 
+          sanandis charitas sincera subueniat 
+          <lb ed="#P"/>etc haec Augustinus.
+        </p>
+        <p>
+          Cuius verba sunt 
+          <lb ed="#P"/>notanda quoniam loquitur de subditis 
+          <lb ed="#P"/>ecclesiae qui ab ea puniri possunt. Punitio 
+          <lb ed="#P"/>ergo facienda non est aut remedium ap<lb ed="#P"/>ponere 
+          contendendum: quando ad puni<lb ed="#P"/>tionem 
+          vel remedium ipsius delicti: mul<lb ed="#P"/>ti 
+          essent occidendi. De iure autem multi di<lb ed="#P"/>cuntur 
+          plusquam quadraginta ut in c. lato<lb ed="#P"/>res 
+          de clerico excommunicato vel deposito ministrante 
+          Et de testibus, c. cum causam. et 
+          <pb ed="#P" n="147-r"/>
+          <lb ed="#P"/>c. significauerunt. et ibi notant glossa et doc<lb ed="#P"/>tores 
+          inspiciendum esse materiam de qua agitur 
+          <lb ed="#P"/>ut iudicemus qui nam sint multi vel pauci. 
+          <lb ed="#P"/>Quid autem si non quadraginta vel quinquagin<lb ed="#P"/>ta 
+          homines sed innumera hominum millia 
+          <lb ed="#P"/>periclitentur inter quos fere omnes innocentes 
+          <lb ed="#P"/>sunt et liberi a criminibus supra relatis? An 
+          <lb ed="#P"/>non tunc bellica talis prohibitio impia esset? 
+          <lb ed="#P"/>Tertio probatur idem quoniam delictorum 
+          <lb ed="#P"/>punitio seu per vim prohibitio etiam de iure 
+          <lb ed="#P"/>ciuili remittitur ratione multitudinis ut 
+          <lb ed="#P"/>in dicto c. latores et in c. 2 de temporibus ordinationum 
+          <lb ed="#P"/>et 1, q. 7, c. quotiens columine 2o ubi dicitur quotiens a populis aut a turba peccatur (quia 
+          <lb ed="#P"/>in omnes propter multitudinem vindicari 
+          <lb ed="#P"/>non potest inultum solet transire. Et 9, q. 
+          <lb ed="#P"/>1, c. ordinationes et 10 distinctio, c. <add place="above-line">ut</add> constitueren<lb ed="#P"/>tur 
+          et 44 distinctio, c. <del rend="strikethrough">denique</del> comensationes 
+          <lb ed="#P"/>et 4 distinctio, c. denique et ibi late glossae et 
+          <lb ed="#P"/>doctores. Hinc natus est versiculus ille: ob 
+          <lb ed="#P"/>populum multum: crimen pertransit in<lb ed="#P"/>ultum 
+          Quod si multitudini delinquenti 
+          <lb ed="#P"/>parcitur: multo magis parcetur in casu 
+          <lb ed="#P"/>nostro. multa hominum millia numquam 
+          <lb ed="#P"/>deliquerunt, vel poenam meruerunt: qui 
+          <lb ed="#P"/>necessario peribunt et inuoluentur exitio 
+          <lb ed="#P"/>simul cum paucis nocentibus. His conue<lb ed="#P"/>nit 
+          quod scribit Chrisostomus Super Mat<lb ed="#P"/>theum. 
+          c. 1 homelia 1 Quicquid a multis pec<lb ed="#P"/>catur 
+          plerunque manet inuindicabile. haec 
+          <lb ed="#P"/>ille.
+        </p>
+        <p>
+          Sic etiam eadem ratione puniri aut 
+          <lb ed="#P"/>velle impedire non debet delictum eius 
+          <lb ed="#P"/>qui prepotens est, et plurimos habet defen<pb ed="#P" n="147-v"/><lb ed="#P" break="no"/>sores 
+          ita quod eius crimen impossibile est pu<lb ed="#P"/>niri 
+          aut impediri absque morte plurimorum 
+          <lb ed="#P"/>qui in unum coacti illum tuebuntur, puta, 
+          <lb ed="#P"/>si sit princeps. Ita docet Diuus Augustinus libro 
+          <lb ed="#P"/>2o contra epistolam Parmeniani: non potest 
+          <lb ed="#P"/>esse salubris a multis correctio nisi cum 
+          <lb ed="#P"/>ille corripitur qui non habet sociam mul<lb ed="#P"/>titudinem. 
+          Cum vero idem morbus plu<lb ed="#P"/>rimos 
+          occupauerit, nihil aliud bonis res<lb ed="#P"/>tat 
+          quam dolor et gemitus etc 23, q. 4, c. 
+          <lb ed="#P"/>non potest. Item in eodem libro cum cu<lb ed="#P"/>iusquam
+          crimen est notum et omnibus exe<lb ed="#P"/>crabile 
+          appareat ut vel nullos prorsus vel 
+          <lb ed="#P"/>non tales habeat defensores, per quos pos<lb ed="#P"/>sit 
+          schisma contingere, non dormiat seue<lb ed="#P"/>ritas 
+          disciplinae.
+        </p>
+        <p>
+          ergo ubi tales defensores fue<lb ed="#P"/>rint 
+          debet dormire seueritas disciplinae: Et 
+          <lb ed="#P"/>paulo superius ait Augustinus: fiat hoc ubi 
+          <lb ed="#P"/>periculum schismatis non est etc. Ea causa 
+          <lb ed="#P"/>et quaestione c. cum quis. Hinc fit ut peccatum 
+          <lb ed="#P"/>principis puniatur castigando populum 
+          <lb ed="#P"/>vel regnum eius qui numquam peccauit. casti<lb ed="#P"/>gando 
+          (inquam) poena damni ut supra 
+          <lb ed="#P"/>tetigimus. Et patet in c. non est nobis. de 
+          <lb ed="#P"/>sponsalibus.
+        </p>
+        <p>
+          In summa haec est comunis sententia 
+          <lb ed="#P"/>tam theologorum quam iure consultorum quod 
+          <lb ed="#P"/>poena non est imponenda vel facienda 
+          <lb ed="#P"/>correctio: siue aliquod bonum opus de
+          <lb ed="#P"/>se: cum timetur seditionem vel scanda<lb ed="#P"/>lum 
+          aliquod magnum exoriturum. Scan<lb ed="#P"/>dalum 
+          autem omissa magistrali deffinitio<lb ed="#P"/>ne 
+          dicitur cum subito exoritur tumul<pb ed="#P" n="148-r"/><lb ed="#P" break="no"/>tus: 
+          seditio vel bellum inter aliquos au<lb ed="#P"/>tore 
+          dominico in c. licet 45 distinctio Et in
+          c. 1, de officio legati libro 6. Et Cardinalis 
+          <lb ed="#P"/>post Paulum in clementinas 1, 2 columna, de of<lb ed="#P"/>ficio 
+          ordinari dicitur etiam scandalum quic<lb ed="#P"/>quid 
+          pium opus impedit Iuxta illud Mat<lb ed="#P"/>thei 
+          16 ubi Christus Petro conanti illum 
+          <lb ed="#P"/>reuocare a morte dixit scandalum mihi 
+          <lb ed="#P"/>es. Omnia igitur opera pia preter ea quae 
+          <lb ed="#P"/>ad salutem sunt necessaria veluti baptis<lb ed="#P"/>mus 
+          et similia non est peccatum omittere 
+          <lb ed="#P"/>si exinde scandalum speretur. Immo non 
+          <lb ed="#P"/>omittere pro loco et tempore esset peccatum. 
+          <lb ed="#P"/>Et adeo hoc verum est quod omnes penae a pa<lb ed="#P"/>pa 
+          impositae etiam excommunicatio vel 
+          <lb ed="#P"/>quaelibet alia maior poena spiritualis dissimu<lb ed="#P"/>lari 
+          <lb ed="#P"/>potest: et teneremur iure diuino: si 
+          <lb ed="#P"/>ex obseruatione papalis precepti cuius trans<lb ed="#P"/>gressoribus 
+          imponitur excommunicatio: ori<lb ed="#P"/>ri
+          potest <del rend="strikethrough">u</del> seditio vel tumultus vel bellum 
+          <lb ed="#P"/>vel alia attrocia mala. Ita docet Innocentius 
+          <lb ed="#P"/>in c. inquisitione. de sententia excommunicationis. doc<lb ed="#P"/>tores 
+          in c. si quando de rescriptis. Omnibus 
+          <lb ed="#P"/>latius Felinus ibi. Et generaliter ad eui<lb ed="#P"/>tandum 
+          scandalum licitum est omnia 
+          iura transgredi autore Philipo Probo in 
+          <lb ed="#P"/>additionibus ad glosam Ioanis Monachi 
+          <lb ed="#P"/>in c. licet, columna 3, libro 6. Et ne oriatur 
+          <lb ed="#P"/>scandalum poena generaliter irroganda omit<lb ed="#P"/>ti 
+          debet secundum doctores in c. nisi cum pridem, 
+          <lb ed="#P"/>§ pro graui scandalo: de renuntiatione. Et 
+          <pb ed="#P" n="148-v"/>
+          <lb ed="#P"/>in regula qui scandalizauerit. de regulis Iuris;
+          <lb ed="#P"/><name>Hostiensis</name> in summa titulo de renuntiatione § 
+          <lb ed="#P"/>cum si renunciatur verbis breuiter tamen 
+          <lb ed="#P"/>ubi inquit: si vero euitans non peccat mor<lb ed="#P"/>taliter 
+          euitando semper debet scanda<lb ed="#P"/>lum 
+          euitari: ut probatur infra. Nisi cum 
+          <lb ed="#P"/>pridem et de noui operis nunciatione. Cum ex
+          <lb ed="#P"/>iniuncto, § super eo. haec Hostiensis. Admitte<lb ed="#P"/>mus 
+          ergo tum versiculum quem citat glo<lb ed="#P"/>sa 
+          in dicto c. qui scandalizauerit. Et Hos<lb ed="#P"/>tiensis 
+          ubi supra: Est verum vitae do<lb ed="#P"/>ctrinae 
+          iustitiaeque: Primum semper <unclear>habeo</unclear>, 
+          <lb ed="#P"/>duo propter scandalum linque. Et tunc recte
+          <lb ed="#P"/>dicitur illud: Vtilius disciplina omittitur 
+          <lb ed="#P"/>quam ut scandalum nasci permittatur. Huic
+          <lb ed="#P"/>sententiae accedit Diuus Thomas 2a 2ae q. 43, 
+          <lb ed="#P"/>articulo. 7, ad 1m; et q. 66, articulo 6, ad 2m,
+          <lb ed="#P"/>et q. 68, articulo 1o in corpore et in aliis partibus 
+          <lb ed="#P"/>ubi inquit quod poenarum inflictio non est prop<lb ed="#P"/>ter 
+          se appetenda: sed poenae infliguntur 
+          <lb ed="#P"/>ut medicinae ad cohibendum peccata: et
+          <lb ed="#P"/>ideo in tantum habent rationem iustitiae: 
+          <lb ed="#P"/>in quantum per eas peccata cohibentur. Si autem
+          <lb ed="#P"/>per inflictionem poenarum manifestum sit 
+          <lb ed="#P"/>plura et maiora peccata sequ: tunc poena<lb ed="#P"/>rum
+          inflictio non continebitur sub ius<lb ed="#P"/>titia. 
+          haec sanctus Thomas formaliter.
+        </p>
+        <p>
+          Et 
+          <lb ed="#P"/>in tantum hoc verum est quod etiam si occi<lb ed="#P"/>dere 
+          tyranum reipublicae pestem sit opus 
+          <lb ed="#P"/>pium, et premio dignum: hoc tamen non 
+          <lb ed="#P"/>habet locum quando ex eius morte sedi<lb ed="#P"/>tio 
+          vel tumultus ingens mala reipublicae 
+          <pb ed="#P" n="149-r"/>
+          <lb ed="#P"/>conduplicans orietur. tunc enim iniustum 
+          <lb ed="#P"/>est tyranum occidere: sed gemitus solabitur 
+          <lb ed="#P"/>patientes. Ita etiam docet idem Sanctus Thomas 
+          <lb ed="#P"/>2a 2ae, q. 42, articulo 2, ad 3m; Et Copiosius 
+          libro 1o, <del rend="strikethrough">c</del> de regimine principum. Sic etiam 
+          <lb ed="#P"/>licet lex iniusta non habeat vim legis (au<lb ed="#P"/>tore 
+          Augustino) libro 1o de libero arbitrio: 
+          nec obliger in conscientia: tamen ne oriatur 
+          <lb ed="#P"/>scandalum vel seditio, tenentur subditi il<lb ed="#P"/>lam 
+          seruare saltem quo ad actus exterio<lb ed="#P"/>res 
+          autore Diuo Thoma 1a 2ae, q. 96, articulo 4o, 
+          <lb ed="#P"/>in corpore.  <pc type="pilcrow"/>Quod autem maiora immo maxi<lb ed="#P"/>ma 
+          mala orientur si bello res geratur ad 
+          <lb ed="#P"/>impediundum ne innocentes immolentur 
+          <lb ed="#P"/>et comedantur: iam supra saris manet pro<lb ed="#P"/>batum 
+          et reuera bellum esset impiissimum; 
+          <lb ed="#P"/>Quod non piget liquidius ostendere. <pc type="pilcrow"/> Po<lb ed="#P"/>namus 
+          ad notitiam deuenire hyspanorum 
+          <lb ed="#P"/>indos vel alios paganos humanas carnes comedere, 
+          vel humanas victimas immo<lb ed="#P"/>lare. 
+          Ponamus praeterea hyspanos tam mo<lb ed="#P"/>rigeratos 
+          et rectos existere quod nihil aliud 
+          <lb ed="#P"/>eos moueat nisi innocentium <seg type="correction">liberatio<del rend="strikethrough">nem</del></seg>
+          <lb ed="#P"/>et nocentium <seg type="correction">emendatio<del>nem</del></seg>. Numquid 
+          <lb ed="#P"/>sine aliqua monitione iustum erit eos 
+          <lb ed="#P"/>inuadere ac punire? Dices non: sed lega<lb ed="#P"/>tos 
+          ad illos mittent, qui eos moneant, ut 
+          <lb ed="#P"/>ab his criminibus abstineant. Quaeso 
+          <lb ed="#P"/>te, lector, qua lingua loquentur legati: la<lb ed="#P"/>tina 
+          ne an greca, an potius hyspanica 
+          <lb ed="#P"/>vel arabica: ut intelligantur ab indis 
+          <pb ed="#P" n="149-v"/>
+          <lb ed="#P"/>qui istarum nullam intelligunt? Nisi 
+          <lb ed="#P"/>forte credimus milites a deo sanctos fore 
+          <lb ed="#P"/>ut christus illis prestet donum linguarum 
+          <lb ed="#P"/>ut ab indis intelligantur. Deinde quis 
+          <lb ed="#P"/>terminus assignabitur illis ut resipis<lb ed="#P"/>cant 
+          et a criminibus illis abstineant? 
+          Longum enim tempus requiritur, vt in<lb ed="#P"/>telligant 
+          quid sibi dicatur, et qua potestate, 
+          <lb ed="#P"/>quibus rationibus et quare precipiatur
+          <lb ed="#P"/>illis ut ab immolatione hominum abstine<lb ed="#P"/>ant 
+          ita quod fiat euidentia eiusmodi mala 
+          <lb ed="#P"/>legi naturae aduersari. Praeterea intra illum 
+          <lb ed="#P"/>terminum sibi assignandum quem longum 
+          <lb ed="#P"/>esse oportet: certe monitio illos non obligat 
+          <lb ed="#P"/>nec incurrent contumaciam. Neque enim 
+          <lb ed="#P"/>monitio obligat nisi transacto termino. 
+          <lb ed="#P"/>Similiter lex <pc type="virgula">/</pc> constitutio aut praceptum 
+          <lb ed="#P"/>non obligat quenquam nisi distincte verba 
+          <lb ed="#P"/>idiomatis quo proponitur intelligantur 
+          <lb ed="#P"/>prout doctores iuristae tractant. Et suf<lb ed="#P"/>ficit 
+          citare Felinum qui plura cumulat 
+          <lb ed="#P"/>in rubrica de constitutionibus, columna 4. Et diffusi<lb ed="#P"/>us 
+          Gometius super regulis chancelariae 
+          <lb ed="#P"/>in regula de idiomate: pagina 231 cum 
+          <lb ed="#P"/>sequentibus. Subinde quaero dum om<lb ed="#P"/>ne 
+          istud tempus indis ut resipiscant 
+          <lb ed="#P"/>designatum transiit: quid agent mi<lb ed="#P"/>lites 
+          vacabunt ne forsan ieiunii et 
+          <lb ed="#P"/>orationibus: quemadmodum fecerunt 
+          <lb ed="#P"/>quadraginta monachi a beato Gregorio 
+          <lb ed="#P"/>missi ad conuertendum anglos: ut dominus
+          <pb ed="#P" n="150-r"/>
+          <lb ed="#P"/>indorum oculos aperire dignetur: ita ut ve<lb ed="#P"/>ritatem 
+          suscipientes a talibus criminibus 
+          <lb ed="#P"/>abstineant? An potius toto corde ac men<lb ed="#P"/>te 
+          tota exoptabunt adeo illos excaecari, ut 
+          <lb ed="#P"/>ne videant nec audiant: quatenus rapi<lb ed="#P"/>endi 
+          et captiuandi occasionem sibi valde 
+          <lb ed="#P"/>desideratam nanciscantur?
+        </p>
+        <p>
+          Ignorat prorsus militaria ingenia qui haec vel stulte vel vanissime suspicatur.
+          Immo votis omnibus exoptabunt indos vel monitionem non intelligere vel prorsus
+          reijcere ut voti compotes in illos ferro, flammis, et omnibus extremi belli incommodis
+          grassentur, ut, effuso innumerorum hominum sanguine, opes sibi parent superstitesque
+          in seruitutem abducant, contra preceptum Domini et regulam caritatis, qua
+          illi rem et vitam pro salute proximorum profundere tenebantur. Equidem etiam si
+          Caesar ipse adesset, nequaquam vel biduo a rapinis ac cedibus abstinerent, presertim
+          si res ad famem tendere videretur. Porro compertum habeo plures milites nostros, indos,
+          ad Hyspanica castra venientes, gallinis, pomis, et omnis generis edulijs onustos,
+          ut Hyspanis omne officium deferrent et exhiberent, districtis ensibus vulnerasse; redeuntesque
+          in castra, narrasse indos illos occurrisse armatos, cuius rei, ut fidem facerent,
+          ipsimet aliquas sagittas ficte emisisse ab arcubus ac deinde, hoc pretextu impetu
+          facto, innocentissimos populos et nihil tale cogitantes [150v.] vel trucidasse vel in seruitutem
+          abduxisse.
+          Preterea, supponamus indos nihil tale pati et post longum tempus vel breuiter intelligere
+          Hyspanorum monita. Quid si illi respondeant sese non occidere innocentes
+          vel ad369 uescendum eorum carnibus vel ad immolandum, sed tantum eos qui ex
+          criminibus morti damnabant vel justo bello capiebant vel naturaliter moriebantur, atque
+          ideo sese nulli innocenti facere injuriam, sed potius sibi ipsis, dum ferarum ritu
+          humanas carnes comedunt? Nonne hoc casu ratio liberandi ab injusta morte innocentes
+          cessabit? Et ideo nihil est quod christiani illis obijciant. Potest enim dari casus
+          in quo liceat comedere carnes humanas, puta, propter necessitatem et extremam famem.
+          Tune enim vel mortuum fame vel morti damnatum comedere licet absque peccato.
+          Comedere enim carnes humanas, quod est quidam ferum et bestiale, autore
+          
+          Aristotele 768 (Ethicorum Libro 7°) est contra legem naturae ex duabus causis. Primo,
+          si occiduntur innoxij ad uescendum eorum carnibus. Deinde, quoniam, comedere
+          humanas carnes ferum quidem; immo vero rarae sunt ferae quae cadauera sui generis
+          comedant. Cum tamen humanae carnes comeduntur ex necessitate370 et innocentes
+          non occiduntur sed cadauera mortuorum vel delinquentium, tune certe nihil fit contra
+          legem naturae nee committitur propter peccatum. Huiusmodi [15lr.] casum narrat
+          Augustinus 769 (De Ciuitate Dei, Libro 22°, c. 20°): Si enim quispiam confectus
+          fame carnes comedere atque compulsus uescitur cadaueribus hominum, quod malum aliquotiens
+          accidisse et vetus testatur hystoria et nostrorum temporum infelicia experimenta
+          docuerunt. Haec ille. Vbi refert hystoriam relatam Regum (Libro 4°, c. 6°)770 scilicet,
+          quod duae mulieres comederunt in ciuitate Samariae filium unius ex eis cum ciuitas
+          ab Assyriorum exercitu obsidione premeretur; peccarunt enim quoniam innocentem
+          occiderunt. Si tamen filij ipsi naturaliter morerentur et illae extremam famem paterentur,
+          minime peccarent comedendo carnes filij mortui. Sic Hyspani mortui socij
+          hepar comederunt. Redeuntes enim ad insulam Cubae Hyspani quidam a Yucatano
+          nouiter reperto e nauibus in montes quosdam nullo victu descenderunt et cum Biuerus
+          quidam nomine, mihi notissimus, fame moreretur, socij ne eandem paterentur
+          fortunam eius hepar comederunt. Idem contigit Numantiae Hyspaniarum ciuitate
+          celeberrima: Numantini enim a Scipione obsessi, cum extrema fame premerentur, humana
+          cadauera comederunt, quod Gerundensis 771 Episcopus refert Paralipomenon
+          Hyspaniae (Libro 7°) his verbis: Numantini itaque, sic obsessi ac fame coacti, ad ultimum
+          humanis carnibus uescentes, deditionem postremo Scipioni obtulerunt si tolerabilia
+          et humana iuberet. Haec ille.
+          Si ergo infideles responderent se [151 v.] huiusmodi homines mortuos, scilicet, vel
+          de jure occidendos comedere, non autem innocentes trucidare, quando res plene37l
+          cognosci possent, presertim si princeps ipse [ ... ] cuius dictum de jure presumitur esse
+          verum. Quod si bellum illis inferretur, ante plenam et certam negotij cognitionem,
+          nonne bellum esset injustum?
+          
+          Deinde supponamus verum esse et sciri propria sponte et solo ex vitio ferali eos
+          uesci cadaueribus hominum vel mortuorum morte naturali vel occissorum propter
+          sua delicta vel etiam in bello captorum, quod sine dubio est vitium bestialitatis et sic
+          peccatum; quaero an sol um hac de causa bellum eis juste inferri valeat? Certe nee tune
+          eos bello impetere possumus ex quocumque crimine committant etiam idolatriae, ut
+          supra decem rationibus probauimus. Nullus enim est in orbe judex vel princeps qui
+          huiusmodi crimina punire posset preter eorum principes, judices et reges.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

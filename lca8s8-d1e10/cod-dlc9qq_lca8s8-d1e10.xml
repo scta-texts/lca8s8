@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sumarium Sepuluedae [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sumarium Sepuluedae [Bnf 12926 Transcription]</title>
+          <date when="2025-05-21">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="3-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e10">
+        <head xml:id="lca8s8-d1e10-Hd1e97">Sumarium Sepuluedae</head>
+        <p xml:id="lca8s8-d1e10-d1e99">
+          <lb ed="#P" n="23"/><pc type="pilcrow"/> Sumarium Sepuluedae
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e105">
+          <lb ed="#P" n="24"/><pc type="pilcrow"/> Opus quod Sepulueda Theologus regius hys<lb ed="#P" break="no" n="25"/>toriographus 
+          aduersus indos composuit haec in 
+          <lb ed="#P" n="26"/>suma continebat argumenta: quibus expedi<lb ed="#P" break="no" n="27"/>tiones 
+          bellicas aduersus indos iustas esse tuetur: 
+          <lb ed="#P" n="28"/>dummodo bellum legitime et rite inferatur: si<lb ed="#P" break="no" n="29"/>cuti 
+          reges hyspaniae hactenus inferri preceperunt.
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e122">
+          <lb ed="#P" n="30"/>Primo profert quod illae gentes barbarae sunt litera<lb ed="#P" break="no" n="31"/>rum 
+          et politiae rudes, prorsus expertes <pc type="virgula">/</pc> brutae 
+          <lb ed="#P" n="32"/>et omnino indociles nisi ad artes mechanicas: 
+          <pb ed="#P" n="3-v"/>
+          <lb ed="#P" n="1"/>vitijs obrutae <pc type="virgula">/</pc> crudeles ac eo ingenio ut aliorum 
+          <lb ed="#P" n="2"/>arbitrio natura doceat illas esse gubernandas. 
+          <lb ed="#P" n="3"/>Sicuti variis temporibus multi homines fide 
+          <lb ed="#P" n="4"/>digni, interposito sacramento asseruerunt 
+          <lb ed="#P" n="5"/>qui illos et cum eis familiariter conuixerunt 
+          <lb ed="#P" n="6"/>Et sicuti etiam apparet ex libro 3, c. 6, gene<lb ed="#P" break="no" n="7"/>ralis 
+          indiarum hystoriae excussae et approbatae per 
+          <lb ed="#P" n="8"/>supremum senatum indianum. Gentes autem 
+          <lb ed="#P" n="9"/>huiusmodi tenentur iure naturali ad propri<lb ed="#P" break="no" n="10"/>am 
+          utilitatem obedire imperio prudentioris 
+          <lb ed="#P" n="11"/>et eorum qui virtute et melioribus institutis
+          <lb ed="#P" n="12"/>prestant, quales sunt hyspani: presertim no<lb ed="#P" break="no" n="13"/>biles 
+          <pc type="virgula">/</pc> docti <pc type="virgula">/</pc> ecclesiastici <pc type="virgula">/</pc> et religiosi, ac denique 
+          <lb ed="#P" n="14"/>omnes recte educati et instituti: quorum personae 
+          <lb ed="#P" n="15"/>qui sunt respiciendae cum de moribus et inge<lb ed="#P" break="no" n="16"/>nio 
+          alicuius gentis censura ferenda est. In 
+          <lb ed="#P" n="17"/>his enim precipue relucet ingenium <pc type="virgula">/</pc> probitas 
+          <lb ed="#P" n="18"/>instituta et mores optimi cuiusque gentis. Et 
+          <lb ed="#P" n="19"/>his tam hyspaniae quam apud indos committitur 
+          <lb ed="#P" n="20"/>gubernatio spiritualium et temporalium: non 
+          <lb ed="#P" n="21"/>autem militibus qui plerumque improbi sunt et 
+          <lb ed="#P" n="22"/>militarem licentiam editis pluribus iniuriis 
+          <lb ed="#P" n="23"/>exercent. Hinc infertur quod his virtute et ingenio 
+          <lb ed="#P" n="24"/>prestantibus iure naturae obedire tenentur. Ha<lb ed="#P" break="no" n="25"/>ud 
+          aliter quam materia cedit formae <pc type="virgula">/</pc> corpus animae 
+          <lb ed="#P" n="26"/>sensus rationi: bruta animantia hominibus / foe<lb ed="#P" break="no" n="27"/>minae 
+          viris <pc type="virgula">/</pc> pueri perfectam etatem agentibus:
+          <lb ed="#P" n="28"/>ac denique imperfecta perfectioribus <pc type="virgula">/</pc> pessima melio<lb ed="#P" break="no" n="29"/>ribus 
+          <pc type="virgula">/</pc> viliora preciosioribus ac maioris virtutis, 
+          <lb ed="#P" n="30"/>ut tam his quam illis bene sit. <seg type="correction">H<subst><del>e</del><add place="in-line">i</add></subst>c</seg> est enim ordo 
+          <lb ed="#P" n="31"/>naturae quan=m adseruari iubet lex aeterna et di<lb ed="#P" break="no" n="32"/>uina 
+          autore diuo augustino libro 2o de libero 
+          <pb ed="#P" n="4-r"/>
+          <lb ed="#P" n="1"/>arbitrio. Itaque si indi moniti recusant huic le<lb ed="#P" break="no" n="2"/>gitimo 
+          imperio parere, cogi possunt ad propriam 
+          <lb ed="#P" n="3"/>utilitatem admoto bellico terrore: bellum autem 
+          <lb ed="#P" n="4"/>hoc tam iure ciuili quam lege naturali iustum erit 
+          <lb ed="#P" n="5"/>authore Aristotele polyticorum, c. 1, 3, et 5, quem
+          <lb ed="#P" n="6"/>tam philosophi quam etiam magni theologi se<lb ed="#P" break="no" n="7"/>quuntur 
+          tanquam magistrum, tum iustitiae tum 
+          <lb ed="#P" n="8"/>etiam caeterarum virtutum moralium sagacis<lb ed="#P" break="no" n="9"/>simumque 
+          <sic>tan</sic> naturae quam etiam naturalium 
+          <lb ed="#P" n="10"/>legum interpretem. Aristotelis sententiam 
+          <lb ed="#P" n="11"/>probat et sapiens in sacris prouerbiis, c. 11, do<lb ed="#P" break="no" n="12"/>cens 
+          stultum debere obedire sapienti. Idem 
+          <lb ed="#P" n="13"/>etiam sanctus Thomas docet in tractatu de regimine princi<lb ed="#P" break="no" n="14"/>pum. 
+          Thomas autem inter scholasticos theologos 
+          <lb ed="#P" n="15"/>primum locum tenet, semperque in explanatio<lb ed="#P" break="no" n="16"/>ne 
+          legum naturalium Aristotelis placita 
+          <lb ed="#P" n="17"/>sequitur. Denique omnes philosophi qui po<lb ed="#P" break="no" n="18"/>litica 
+          precepta tradiderunt, hac unica ratione 
+          <lb ed="#P" n="19"/>innixi docent tam in urbibus quam in regnis ac 
+          <lb ed="#P" n="20"/>republica prudentia virtuteque prestantes <seg type="correction">gu<lb ed="#P" break="no" n="21"/>bernation<subst><del>e</del><add place="in-line">i</add></subst></seg> 
+          cum imperio preficiendos ad hoc 
+          <lb ed="#P" n="22"/>ut gubernatio lege naturae iusta sit. Et ita 
+          <lb ed="#P" n="23"/>videmus in toto orbe quod optimi reges et rectae
+          <lb ed="#P" n="24"/>institutae reipublicae deligunt prudentiores 
+          <lb ed="#P" n="25"/>ac meliores ad reipublicae administrationem.
+          <lb ed="#P" n="26"/>Haec autem uniuersalis consuetudo censetur lex 
+          <lb ed="#P" n="27"/>naturae: leges autem naturae omnes diuinae sunt 
+          <lb ed="#P" n="28"/>ab aeterna lege profluentes. Sicut diuus Au<lb ed="#P" break="no" n="29"/>gustinus 
+          <del rend="strikethrough">cene</del> censet esse voluntatem dei volentis 
+          <lb ed="#P" n="30"/>naturalem ordinem seruari prohibentisque in<lb ed="#P" break="no" n="31"/>uerti.
+          Unde idem Augustinus inquit in plu<pb ed="#P" n="4-v"/><lb ed="#P" n="1"/>ribus 
+          locis quod si quis nollit facere ea quae sibi 
+          <lb ed="#P" n="2"/>expediunt, et tenetur ad propriam utilitatem 
+          <lb ed="#P" n="3"/>facere: potest iuste cogi ut illud faciat etiam 
+          <lb ed="#P" n="4"/>inuitus et repugnans. His consonat quod idem Au<lb ed="#P" break="no" n="5"/>gustinus 
+          docet in variis locis libri de ciuitate dei 
+          <lb ed="#P" n="6"/>quos citat diuus Thomas eandem sententiam 
+          <lb ed="#P" n="7"/>probans libro de regimine principis (scilicet) 
+          <lb ed="#P" n="8"/>quod Romani iuste subegerunt caeteras orbis natio<lb ed="#P" break="no" n="9"/>nes.
+          Voluit enim deus maiorem orbis portio<lb ed="#P" break="no" n="10"/>nem 
+          in eorum ditionem concedere, ut sub gen<lb ed="#P" break="no" n="11"/>te 
+          prudenti et iustitiam colenti rectius guberna<lb ed="#P" break="no" n="12"/>rentur.
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e351">
+          Quod si his barbaris (scilicet) indis non 
+          <lb ed="#P" n="13"/>deest capacitas, tanto magis tenentur obedi<lb ed="#P" break="no" n="14"/>re 
+          et auscultare imperio eorum qui illos doce<lb ed="#P" break="no" n="15"/>re 
+          possint, ritu hominum viuere eaque facere 
+          <lb ed="#P" n="16"/>quae tam presenti quam futurae vitae utilia sunt <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e366">
+          <lb ed="#P" n="17"/><pc type="pilcrow"/> Secundo Sepulueda probat indos debere 
+          <lb ed="#P" n="18"/>hyspanicum iugum suscipere inuitos etiam 
+          <lb ed="#P" n="19"/>ut a peccatis et criminibus quibus contaminati 
+          <lb ed="#P" n="20"/>sunt legi diuinae atque naturali aduersantibus 
+          <lb ed="#P" n="21"/>emendentur et poenam accipiant precipue ido<lb ed="#P" break="no" n="22"/>latriae 
+          et impiae consuetudinis immolandi ho<lb ed="#P" break="no" n="23"/>mines. 
+          Etenim propter haec duo peccata probatur 
+          <lb ed="#P" n="24"/>ex variis locis sacrae scripturae deletos fuisse 
+          <lb ed="#P" n="25"/>Amorreos et Ferezeos et caeteros incolas terrae 
+          <lb ed="#P" n="26"/>promissionis a filiis Israel atque item ipsos He<lb ed="#P" break="no" n="27"/>braeos 
+          ex eodem peccato punitos fuisse absum<lb ed="#P" break="no" n="28"/>pta 
+          magna suae gentis multitudine: per<lb ed="#P" break="no" n="29"/>tractisque 
+          eorum populis in seruitutem eius<lb ed="#P" break="no" n="30"/>dem 
+          terrae et patriae extorres.
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e400">
+          Ex quo ap<lb ed="#P" break="no" n="31"/>paret 
+          legem qua tam hi, quam illi damnati fue<pb ed="#P" n="5-r"/><lb ed="#P" break="no" n="1"/>re 
+          naturalem esse ac diuinam: et ex consequen<lb ed="#P" break="no" n="2"/>ti 
+          omni tempore <seg type="correction">seruan<add place="above-line">dam</add></seg> fore. Quod Cyprianus 
+          <lb ed="#P" n="3"/>doctissimus Episcopus et sanctissimus martyr docet, 
+          <lb ed="#P" n="4"/>et ita apud omnes doctores ea est frequentior 
+          <lb ed="#P" n="5"/>sententia: paganos non seruantes legem na<lb ed="#P" break="no" n="6"/>turae 
+          posse puniri a christianis. Illi autem censen<lb ed="#P" break="no" n="7"/>tur 
+          non seruare legem naturae: apud quos ali<lb ed="#P" break="no" n="8"/>qua 
+          peccata mortalia non puniuntur vel non 
+          <lb ed="#P" n="9"/>iudicantur esse peccata quae sum contra legem 
+          <lb ed="#P" n="10"/>naturae. 
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e433">
+          Et ita illud quod Cayetanus <subst><del rend="strikethrough">scripit</del> <add place="margin-right">scripsit</add></subst> 
+          <lb ed="#P" n="11"/>nullam gentem bello impeti posse ratione in<lb ed="#P" break="no" n="12"/>fidelitatis: 
+          intelligendum est quando tantum 
+          <lb ed="#P" n="13"/>infideles sunt: secus si peccata de quibus supra 
+          <lb ed="#P" n="14"/>diximus, comittentur infidelitatem.
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e451">
+          <lb ed="#P" n="15"/><pc type="pilcrow"/> Tertium argumentum Sepuluedae est ut 
+          <lb ed="#P" n="16"/>euitentur iniuriae et maxima incommoda quae 
+          <lb ed="#P" n="17"/>isti inferebant et inferunt hodie (qui nondum 
+          <lb ed="#P" n="18"/>subacti sunt) magnae innocentium hominum 
+          <lb ed="#P" n="19"/>multitudini: quam quotanis cacodemoni im<lb ed="#P" break="no" n="20"/>molabant: 
+          a quibus iniuriis omnes homines, 
+          <lb ed="#P" n="21"/>quibus facultas est: tenentur iure naturali 
+          <lb ed="#P" n="22"/>et diuino defendere quoscumque et qualescumque 
+          <lb ed="#P" n="23"/>homines, cum omnes homines ad inuicem 
+          <lb ed="#P" n="24"/>proximi et fratres simus iuxta Theologorum 
+          <lb ed="#P" n="25"/>traditiones. Quod autem teneantur cauere a proxi<lb ed="#P" break="no" n="26"/>mo
+          periculum si liceat: probatur ex illis verbis 
+          <lb ed="#P" n="27"/>sapientis: Erue eos qui ducuntur ad mortem
+          <lb ed="#P" n="28"/>Et rursus ex eo loco mandauit deus unicuique 
+          <lb ed="#P" n="29"/>de proximo suo. hoc autem malum euitari non 
+          <lb ed="#P" n="30"/>potest, nisi barbari isti perdomentur subigan<lb ed="#P" break="no" n="31"/>turque
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e491">
+          <lb ed="#P" n="32"/><pc type="pilcrow"/> Quarto aducit fauorem dilatandae et augendae 
+          <pb ed="#P" n="5-v"/>
+          <lb ed="#P" n="1"/>religionis christianae. Hoc enim efficietur si per<lb ed="#P" break="no" n="2"/>domitis 
+          eis regionibus euangelium christi tuto 
+          <lb ed="#P" n="3"/>et absque ullo periculo praedicari possit a viris sa<lb ed="#P" break="no" n="4"/>cratis: 
+          ita ut neque ab eorum principibus sacerd<lb ed="#P" break="no" n="5"/>otibus 
+          ue occidi possint, quod iam ter quater<lb ed="#P" break="no" n="6"/>ue 
+          fecerunt. Hoc confirmat authoritate Au<lb ed="#P" break="no" n="7"/>gustini 
+          in Epistola ad Donatum: ubi scribit 
+          <lb ed="#P" n="8"/>christum voluisse homines mansuetudine et 
+          <lb ed="#P" n="9"/>lenitate inuitari ad fidem in primordiis nas<lb ed="#P" break="no" n="10"/>centis 
+          ecclesiae. Postquam autem ecclesia vires acce<lb ed="#P" break="no" n="11"/>pit 
+          et incrementum: christum voluisse homi<lb ed="#P" break="no" n="12"/>nes 
+          cogi etiam inuitos ad suscipiendam chris<lb ed="#P" break="no" n="13"/>tianam 
+          religionem. Quod ostendit in parabola 
+          <lb ed="#P" n="14"/>conuiuii ubi primi inuitati fuere: caeteri autem 
+          <lb ed="#P" n="15"/>compulsi et coacti sunt: adhibita etiam vio<lb ed="#P" break="no" n="16"/>lentia
+          <lb ed="#P" n="17"/>ut <sic>conuio</sic> interessent. Quoniam ut ipse 
+          <lb ed="#P" n="18"/>Augustinus dicit nondum impletum fuerat 
+          <lb ed="#P" n="19"/>vaticinium illud: adorabunt eum omnes reges 
+          <lb ed="#P" n="20"/>terrae, omnes gentes seruient ei. Quod quo ma<lb ed="#P" break="no" n="21"/>gis 
+          completur: tanto magis ecclesia viribus uti<lb ed="#P" break="no" n="22"/>tur: 
+          non solum inuitans verum etiam cogens 
+          <lb ed="#P" n="23"/>ad fidem.
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e551">
+          Ne vero quis <seg type="correction">ex<add place="above-line">is</add>timet</seg> rationes quas 
+          <lb ed="#P" n="24"/>Augustinus adducit in hereticos, non valere in 
+          <lb ed="#P" n="25"/>paganos. Adducit Sepulueda in eius confir<lb ed="#P" break="no" n="26"/>mationem: 
+          legem pii Caesaris Constantini in 
+          <lb ed="#P" n="27"/>paganos. Constantinus enim sub poena capitis 
+          <lb ed="#P" n="28"/>et amissionis bonorum vetuit idolorum cultum 
+          <lb ed="#P" n="29"/>clausis paganorum templis: et prohibitis foedis 
+          <lb ed="#P" n="30"/>illis litationibus immolationibus et sacrificiis. 
+          Quae lex a sanctissimis patribus Ambrosio 
+          <lb ed="#P" n="31"/>et Augustino et a caeteris viris christianis: col<lb ed="#P" break="no" n="32"/>laudata 
+          fuit veluti aequa et iusta.
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e580">
+          Testatur 
+          <pb ed="#P" n="6-r"/>
+          <lb ed="#P" n="1"/>tamen Sepulueda se nolle illos inuitos baptizari: 
+          <lb ed="#P" n="2"/>id enim lege diuina prohibetur. Neque lex potest 
+          <lb ed="#P" n="3"/>inducere, ut quisquam baptizetur inuitus. Sed 
+          <lb ed="#P" n="4"/>inquit violentias et omnia quae verissimiliter 
+          <lb ed="#P" n="5"/>conducere possum tentanda esse: ut haereti<lb ed="#P" break="no" n="6"/>ci 
+          et pagani agnoscant errorem suum et resi<lb ed="#P" break="no" n="7"/>piscant: 
+          ita ut sponte petant baptismum: 
+          <lb ed="#P" n="8"/>sicuti plurimi horum indorum foecerunt per<lb ed="#P" break="no" n="9"/>moti 
+          violentia et vi belli quae similis est ei 
+          <lb ed="#P" n="10"/>qua Constantinus usus est et quam etiam 
+          <lb ed="#P" n="11"/>exercuit Genandius africae Exarchus: quem
+          <lb ed="#P" n="12"/>diuus Gregorius magnopere collaudat quod ad 
+          <lb ed="#P" n="13"/>dilatandos religionis christianae fines paga<lb ed="#P" break="no" n="14"/>nis 
+          bellum inferebat. Neque obstat (inquit 
+          <lb ed="#P" n="15"/>Sepulueda) si quis obiiciat hoc admittendum 
+          <lb ed="#P" n="16"/>quando bellum infertur subditis: quoniam 
+          <lb ed="#P" n="17"/>illi in quos Genandius ferrum <seg type="correction">exerceba<subst><add place="above-line">t</add><del rend="strikethrough">nt</del></subst></seg> non 
+          <lb ed="#P" n="18"/>erant subditi populo Romano, quoniam si su<lb ed="#P" break="no" n="19"/>bditi 
+          populo Romano forent non inferret eis 
+          <lb ed="#P" n="20"/>bellum.
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e636">
+          Claudit Sepulueda opus, asserens rem 
+          <lb ed="#P" n="21"/>esse cum iustissimam tum etiam his barbaris
+          <lb ed="#P" n="22"/>utilissimam ut subigantur et subiiciantur 
+          <lb ed="#P" n="23"/>hyspanis christi cultoribus. Nam hic est aper<lb ed="#P" break="no" n="24"/>tissimus 
+          modus ut religionem christianam 
+          <lb ed="#P" n="25"/>amplectantur quod manifeste docuit experientiam <pc type="virgula">/</pc>. 
+          <lb ed="#P" n="26"/>Presertim cum hoc effici possit <subst><del rend="strikethrough">quam</del> <add place="above-line">cum</add></subst> minima hu<lb ed="#P" break="no" n="27"/>mani 
+          sanguinis iactura, etenim multo plures 
+          <lb ed="#P" n="28"/>homines illi immolabant quotanis diis suis 
+          <lb ed="#P" n="29"/>quam peribunt admoto in eos bellico terrore 
+          <lb ed="#P" n="30"/>ad incomparabilem tam viuentium quam etiam 
+          <lb ed="#P" n="31"/>posterorum utilitatem.
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e673">
+          <pb ed="#P" n="6-v"/>
+          <lb ed="#P" n="1"/>Adducit preterea quod Alexander Sextus Ro<lb ed="#P" break="no" n="2"/>manus 
+          pontifex ex decreto collegii cardinali<lb ed="#P" break="no" n="3"/>um 
+          pronuntiauit bellicas expeditiones in in<lb ed="#P" break="no" n="4"/>dos 
+          iustas esse: concedens regibus castilliae 
+          <lb ed="#P" n="5"/>ut illos subigant imperioque suo adiiciant: pro<lb ed="#P" break="no" n="6"/>hibens 
+          expresse ob iustas causas: ne quis alius 
+          <lb ed="#P" n="7"/>princeps arma in eos mouere possit. Sicuti ergo 
+          <lb ed="#P" n="8"/>bella iussu dei mota nemo potest negare esse 
+          <lb ed="#P" n="9"/>iustissima, ita etiam nemo negabit iustum 
+          <lb ed="#P" n="10"/>esse bellum quod dei vicarius matura deli<lb ed="#P" break="no" n="11"/>beratione 
+          precedenti, interposita pontificia 
+          <lb ed="#P" n="12"/>autoritate pronuntiat iustum esse. Haec omnia 
+          <lb ed="#P" n="13"/>(inquit Sepulueda) in eo opusculo variis sa<lb ed="#P" break="no" n="14"/>crorum 
+          voluminum testimoniis veteris ac no<lb ed="#P" break="no" n="15"/>ui 
+          testamenti et ex lege naturae probantur 
+          <lb ed="#P" n="16"/>copiosissime. Et rursus autoritate Theolo<lb ed="#P" break="no" n="17"/>gorum 
+          docentium quod cum bellum est Iustum 
+          <lb ed="#P" n="18"/><sic>(</sic>nimirum motum in eos quibus est denuntia<lb ed="#P" break="no" n="19"/>tum 
+          ut istud: milites non tenentur resti<lb ed="#P" break="no" n="20"/>tuere 
+          iure belli parata: etiamsi arma indu<lb ed="#P" break="no" n="21"/>erint: 
+          non tam amore asserendae veritatis 
+          <lb ed="#P" n="22"/>et iustitiae: quam cupiditate spoliandi hostis 
+          <lb ed="#P" n="23"/>et parandae rei: quamquam cum hoc animo <del rend="strikethrough">ani<lb ed="#P" break="no" n="24"/>ma</del> 
+          pergunt ad bellum grauiter peccant.
+        </p>
+        <p xml:id="lca8s8-d1e10-d1e734">
+          In<lb ed="#P" break="no" n="25"/>ferentes 
+          autem iniurias et rapientes aliena con<lb ed="#P" break="no" n="26"/>tra 
+          leges belli et iustitiam: quemadmodum 
+          <lb ed="#P" n="27"/>multi fecerunt tenentur ad restitutionem 
+          <lb ed="#P" n="28"/>et committunt crimen grauissimum: et prin<lb ed="#P" break="no" n="29"/>ceps 
+          qui talia pateretur vel non prohiberet cum 
+          <lb ed="#P" n="30"/>posset eiusdem criminis reus deo rationem red<lb ed="#P" break="no" n="31"/>dere 
+          teneretur. 
+          <lb ed="#P" n="32"/>haectenus Sepulueda
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

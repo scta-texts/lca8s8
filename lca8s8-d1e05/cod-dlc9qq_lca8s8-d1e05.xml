@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Argumentum [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Argumentum [Bnf 12926 Transcription]</title>
+          <date when="2025-05-21">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="1-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e05">
+        <head xml:id="lca8s8-d1e05-Hd1e97">Argumentum</head>
+        <p xml:id="lca8s8-d1e05-d1e99">
+          <pb ed="#P" n="1-r"/>
+          <lb ed="#P" n="1"/>Argumentum Apologiae Reuerendissimi
+          <lb ed="#P" n="2"/>domini Fratris Bartholomei a 
+          <lb ed="#P" n="3"/>casaus Episcopi quondam 
+          <lb ed="#P" n="4"/>chiapensis aduersus 
+          <lb ed="#P" n="5"/>Genesium Sepu<lb ed="#P" break="no" n="6"/>luedam 
+          Theolo<lb ed="#P" break="no" n="7"/>gum 
+          cordu<lb ed="#P" break="no" n="8"/>bensem
+        </p>
+        <p xml:id="lca8s8-d1e05-d1e121">
+          <lb ed="#P" n="9"/><pc type="pilcrow"/> Anno a partu virginis millessimo quin<lb ed="#P" break="no" n="10"/>gentessimo 
+          quadragessimo secundo Carolus Cae<lb ed="#P" break="no" n="11"/>sar 
+          hyspaniarum Rex sempiterna homi<lb ed="#P" break="no" n="12"/>num 
+          memoria dignus, edoctus <pc type="virgula">/</pc> hyspanos 
+          cordibus <pc type="virgula">/</pc> violentia <pc type="virgula">/</pc> Tyranide longe lateque gras<lb ed="#P" break="no" n="13"/>sari 
+          <add place="margin-right">per Indias</add> seruitute premere maximisque incommo<lb ed="#P" break="no" n="14"/>dis 
+          afficere indos occeani maris acolas: qui 
+          <lb ed="#P" n="15"/>Romani pontificis decreto ad imperium su<lb ed="#P" break="no" n="16"/>premum 
+          castilliae et legionis pertinent: solem<lb ed="#P" break="no" n="17"/>ne 
+          quoddam concilium Pintiae siue Valiso<lb ed="#P" break="no" n="18"/>leti 
+          indixit, <seg type="correction">aduocat<del rend="strikethrough">o</del><add place="above-line">is quibusdam</add></seg> ex omni senatu lectis<lb ed="#P" break="no" n="19"/>simo, 
+          ac doctissimo quoque: his iniunxit ut 
+          <lb ed="#P" n="20"/>cognoscerent an atrocia illa quae ad se delata 
+          <lb ed="#P" n="21"/>fuissent, vera essent, utque opportune remedium 
+          <lb ed="#P" n="22"/>excogitarent quo tantis malis obuiam iretur:
+          <lb ed="#P" n="23"/>ita ut indi pristinae suae libertati restitueren<lb ed="#P" break="no" n="24"/>tur 
+          simulque nouus ille orbis salutaribus le<lb ed="#P" break="no" n="25"/>gibus 
+          ac prudentibus institutis compositus 
+          <lb ed="#P" n="26"/>in posterum gubernaretur.
+        </p>
+        <p xml:id="lca8s8-d1e05-d1e183">
+          De hac re per 
+          <lb ed="#P" n="27"/>plures dies magnis est disputationibus agi<lb ed="#P" break="no" n="28"/>tatum, 
+          ac denique leges quaedam sancitae sunt 
+          <pb ed="#P" n="1-v"/>
+          <lb ed="#P" n="1"/>quibus hyspaniorum bellicae expeditiones 
+          <lb ed="#P" n="2"/>aduersus indos quas conquistas vulgo ap<lb ed="#P" break="no" n="3"/>pellauerant 
+          prohibitae sunt: simulque cautum 
+          <lb ed="#P" n="4"/>est; ut indi omnes seruitute pressi ab eis quibus 
+          <lb ed="#P" n="5"/>facta diuisione id est repartimiento siue co<lb ed="#P" break="no" n="6"/>menda 
+          (inuentione quidem sathanica numquam 
+          <lb ed="#P" n="7"/>antehac audita) adjudicati perperam fue<lb ed="#P" break="no" n="8"/>rant: 
+          restituerentur in libertatem 
+          <add place="margin-left">atque in regum hyspaniarum 
+            uniuersalem 
+            ditionem indi 
+            uniuersi reducerentur: 
+            regibus et 
+            dominis naturalibus 
+            in sua potestate 
+            et iurisdictione 
+            remanentibus</add> <del rend="strikethrough">essentque 
+              <lb ed="#P" n="9"/>hyspaniarum regum vasalli eo iure quo hys<lb ed="#P" break="no" n="10"/>paniae 
+              gentes principi suo subidita censsen<lb ed="#P" break="no" n="11"/>tur </del>. 
+          Haec res vehementer pupugit animos 
+          <lb ed="#P" n="12"/>hyspanorum quibus indi preda opima erant 
+          <lb ed="#P" n="13"/>et quorum facultates / violentiis rapinis, et 
+          indorum direptione crescebant, indignabun<lb ed="#P" break="no" n="14"/>dique 
+          et irato animo frementes deplorabant 
+          <lb ed="#P" n="15"/>a caesare<del rend="strikethrough">m</del> sese facultatibus propriis spoliar<subst><add place="in-line">i</add><del rend="strikethrough">e</del></subst> 
+          <lb ed="#P" n="16"/>ac si non predones sacrilega preda: sed legi<lb ed="#P" break="no" n="17"/>timos 
+          rerum dominos <seg type="correction">iusta<!--corrected somehow--></seg> rerum posses<lb ed="#P" break="no" n="18"/>sione 
+          deturbaret. Ut nonnulli nullum non 
+          <lb ed="#P" n="19"/>lapidem mouentes: quo suis rebus consule<lb ed="#P" break="no" n="20"/>rent 
+          impudenter a caesare defecerint aduer<lb ed="#P" break="no" n="21"/>sus 
+          caesarem rebellarint. Alii ad viros do<lb ed="#P" break="no" n="22"/>ctrinae 
+          opinione claros confugerint, ut soli<lb ed="#P" break="no" n="23"/>dis
+          iuris argumentis caesareas constitutio<lb ed="#P" break="no" n="24"/>nes 
+          oppugnarent, ut tandem Caesar, legum
+          <lb ed="#P" n="25"/>iniquitate permotus vel aboleret: vel saltem 
+          <lb ed="#P" n="26"/>suspenderet earum obseruationem, ut in ali<lb ed="#P" break="no" n="27"/>quibus 
+          earum factum est: non quod non essent 
+          <lb ed="#P" n="28"/>aequissimae iustissimaeque: sed quod cognita rebel<lb ed="#P" break="no" n="29"/>lione 
+          a proditoribus illis maius aliquod malum 
+          <pb ed="#P" n="2-r"/>
+          <lb ed="#P" n="1"/>ac atrocior seditio timeretur.
+        </p>
+        <p xml:id="lca8s8-d1e05-d1e279">
+          Reperuerunt 
+          <lb ed="#P" n="2"/>hi suae opinionis defensorem doctum quen<lb ed="#P" break="no" n="3"/>dam 
+          qui hic certe parum eruditum sese pres<lb ed="#P" break="no" n="4"/>tat. 
+          Is fuit Genesius quidam Sepulueda 
+          <lb ed="#P" n="5"/>regius hystoriographus: qui opusculum Elo<lb ed="#P" break="no" n="6"/>quentiae 
+          floribus adornatum, cui titulum 
+          <lb ed="#P" n="7"/>fecit de iustis belli causis composuit: in 
+          <lb ed="#P" n="8"/>quo totis viribus has nouas leges opugnat 
+          <lb ed="#P" n="9"/>minime quidem earum expressam mentio<lb ed="#P" break="no" n="10"/>nem 
+          faciens: sed hyspanorum in indos pre<lb ed="#P" break="no" n="11"/>terita 
+          ac futura bella et expeditiones defen<lb ed="#P" break="no" n="12"/>dens: 
+          comprobansque seruitutem id est diui<lb ed="#P" break="no" n="13"/>sionem 
+          siue commendam qua indi ab hys<lb ed="#P" break="no" n="14"/>panis 
+          oppressi vel moriuntur, vel morte du<lb ed="#P" break="no" n="15"/>riorem 
+          vitam agunt. Diuisi in partes ac si 
+          <lb ed="#P" n="16"/>armenta vel pecora essent: nimirum diuisi 
+          <lb ed="#P" n="17"/>inter hyspanos et unicuique usque ad certum 
+          <lb ed="#P" n="18"/>numerum assignati, ut ipsis seruiant. Has 
+          <lb ed="#P" n="19"/>enim primo conquistas siue inuasiones: se<lb ed="#P" break="no" n="20"/>cundo 
+          diuisiones et assignationes: quae re<lb ed="#P" break="no" n="21"/>gionatim
+          ex certo indorum numero per totum 
+          <lb ed="#P" n="22"/>illum orbem fiunt: semper hyspani ab eo die
+          <lb ed="#P" n="23"/>quo nobis primum nouus ille orbis apertus 
+          <lb ed="#P" n="24"/>est fieri curarunt.
+        </p>
+        <p xml:id="lca8s8-d1e05-d1e332">
+          Adfert Sepulueda fu<lb ed="#P" break="no" n="25"/>cata 
+          quaedam argumenta, quibus auarissimae 
+          <lb ed="#P" n="26"/>tyranorum cupiditati fauet: detorquens 
+          <lb ed="#P" n="27"/>sacrorum voluminum autoritates sanctis<lb ed="#P" break="no" n="28"/>simorum 
+          patrum prudentium ac philoso<lb ed="#P" break="no" n="29"/>phorum 
+          decreta. Referens indorum crimina 
+          <pb ed="#P" n="2-v"/>
+          <lb ed="#P" n="1"/>ac vitia naturalia, edoctus (scilicet) ab hys<lb ed="#P" break="no" n="2"/>panis 
+          illis infensissimis indorum hostibus 
+          <lb ed="#P" n="3"/>falsisque illis delationibus innixus: falso qui<lb ed="#P" break="no" n="4"/>dem 
+          traducit maiorem humani generis par<lb ed="#P" break="no" n="5"/>tem 
+          quam diuini numinis prouidentia 
+          <lb ed="#P" n="6"/>in ea indiarum spatia vastissima dispersit <pc type="virgula">/</pc>.
+        </p>
+        <p xml:id="lca8s8-d1e05-d1e364">
+          <lb ed="#P" n="7"/><pc type="pilcrow"/>Episcopus chiapensis cum cognouisset 
+          <lb ed="#P" n="8"/>opusculum illud a Genesio conscriptum fuis<lb ed="#P" break="no" n="9"/>se, 
+          et in eius manus venisset compendium 
+          <lb ed="#P" n="10"/>eius operis hyspanice descriptum: (latinum
+          enim <seg type="correction">codice<add place="in-line">m</add></seg> tum temporis <del rend="strikethrough">copiam</del> habere 
+          <lb ed="#P" n="11"/>non potuit), intelligens quae esset opinio genesii: apologiam sequentem elucubra<lb ed="#P" break="no" n="12"/>uit 
+          in eos indorum qui pacifice absque al<lb ed="#P" break="no" n="13"/>terius 
+          nationis degebant iniuria inuaso<lb ed="#P" break="no" n="14"/>res 
+          oppressoresque: qui indos oppressos de<lb ed="#P" break="no" n="15"/>tinent
+          et ad mortem adigunt: cupiens il<lb ed="#P" break="no" n="16"/>los 
+          ab omni iniuria tueri defendereque. Apo<lb ed="#P" break="no" n="17"/>logiam
+          autem dicauit Serenissimo principi 
+          <lb ed="#P" n="18"/>nostro philipo tum temporis huius regni gu<lb ed="#P" break="no" n="19"/>bernationi
+          ab inuictissimo Caesare Caro<lb ed="#P" break="no" n="20"/>lo 
+          patre cum imperio prefecto. Continebat 
+          <lb ed="#P" n="21"/>apologia responsionem ad quatuor causas 
+          <lb ed="#P" n="22"/>quibus Sepulueda tuebatur eas hyspanorum 
+          <lb ed="#P" n="23"/>expeditiones et assignationes quarum ti<lb ed="#P" break="no" n="24"/>tulo 
+          indos seruitute premebant. Cum autem 
+          <lb ed="#P" n="25"/>Episcopus Sepuluedam Compluti confutas<lb ed="#P" break="no" n="26"/>set 
+          totaque illa celebris academia Sepuluedae
+          <pb ed="#P" n="3-r"/>
+          <lb ed="#P" n="1"/>opinionem damnasset ceu parum sanam: vetans 
+          <lb ed="#P" n="2"/>hac ipsa expressa causa ne opus excuderetur. Haec 
+          <lb ed="#P" n="3"/>Episcopi ac Sepuluedae disceptatio ad aures caesaris in
+          <lb ed="#P" n="4"/>germania tum agentis peruenit. qui anno sa<lb ed="#P" break="no" n="5"/>lutis 
+          humanae quinquagesimo primo supra
+          <lb ed="#P" n="6"/>millessimum et quingentessimum iussit ut con<lb ed="#P" break="no" n="7"/>uenirent 
+          in unum insignes Theologi ac iure<lb ed="#P" break="no" n="8"/>consulti 
+          simul cum senatoribus indiani pre<lb ed="#P" break="no" n="9"/>torii: 
+          et ut tam Episcopum quam Sepuluedam au<lb ed="#P" break="no" n="10"/>dirent 
+          statuerentque quod e republica maxime fo<lb ed="#P" break="no" n="11"/>ret, 
+        </p>
+        <p xml:id="lca8s8-d1e05-d1e445">
+          data est primo Sepuluedae copia fandi per 
+          <lb ed="#P" n="12"/>unum diem. Episcopum vero per quinque dies 
+          <lb ed="#P" n="13"/>dicentem audierunt: qui totam hanc Apolo<lb ed="#P" break="no" n="14"/>giam 
+          seriatim recitauit, ac denique, multis hinc 
+          <lb ed="#P" n="15"/>inde habitis disceptationibus iudicarunt Ex<lb ed="#P" break="no" n="16"/>peditiones 
+          quas vulgo conquistas dicimus Ini<lb ed="#P" break="no" n="17"/>quas 
+          esse illicitas et iniustas, atque ideo in posterum 
+          <lb ed="#P" n="18"/>omnino prohibendas. De assignationibus vero 
+          <lb ed="#P" n="19"/>quas vulgo appellamus repartimientos nihil de<lb ed="#P" break="no" n="20"/>creuerunt 
+          durabat enim rebellio quorundam 
+          <lb ed="#P" n="21"/>tyranorum in peruranis regnis tumultuaban<lb ed="#P" break="no" n="22"/>turque
+          aliae prouinciae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

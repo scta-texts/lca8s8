@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dedicatio [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Dedicatio [Bnf 12926 Transcription]</title>
+          <date when="2025-05-21">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="f3-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e01">
+        <head xml:id="lca8s8-d1e01-Hd1e97">Dedicatio</head>
+        <p xml:id="lca8s8-d1e01-d1e99">
+          <pb ed="#P" n="f3-v"/>
+          <lb ed="#P" n="1"/>Frater Bartholomeus de vega ordinis praedicatorum 
+          <lb ed="#P" n="2"/>Supremo indiarum senatui regio feli<lb ed="#P" break="no" n="3"/>citatem 
+          Eternam
+        </p>
+        <p xml:id="lca8s8-d1e01-d1e108">
+          <lb ed="#P" n="4"/>Quantum sit de hyspaniarum regnis bene meritus Incliti regii se<lb ed="#P" break="no" n="5"/>natus 
+          Iudices) operis huius autor, vix dici potest: quippe qui primus 
+          <lb ed="#P" n="6"/>in indorum rebus tum difficillimis, tum apprimae Hyspaniae gentium 
+          <lb ed="#P" n="7"/>ne dicam indiarum omnium saluti necessariis, veritatem comperit.
+        </p>
+        <p xml:id="lca8s8-d1e01-d1e119">
+          Nam 
+          <lb ed="#P" n="8"/>quanti referat in indorum negotio veritatem scire, causas cognoscere 
+          <lb ed="#P" n="9"/>ac ius omne penetrare, ex inauditis praedis et furtis, ex noui illius 
+          <lb ed="#P" n="10"/>orbis deuastatione ex tot millium animarum perditione propter huius rei igno<lb ed="#P" break="no" n="11"/>rantiam 
+          patratis, liquido constare potest.
+        </p>
+        <p xml:id="lca8s8-d1e01-d1e130">
+          Priores Romani et aliorum 
+          <lb ed="#P" n="12"/>regnorum quondam cultores, quorum respublicae aequis statutis utebantur, 
+          <lb ed="#P" n="13"/>aliquod insigne facinus adorientes rerumque in publica commoda in<lb ed="#P" break="no" n="14"/>uentores 
+          eo modo faciebant, ut illorum imagines sculperent, quas 
+          <lb ed="#P" n="15"/>in templis seu aliis locis posita summa deuotione colebant, ne eorum 
+          <lb ed="#P" n="16"/>cum morte extingueretur memoria, quorum vita rei publicae fauorem uti<lb ed="#P" break="no" n="17"/>litatis 
+          adduxerat. 
+        </p>
+        <p xml:id="lca8s8-d1e01-d1e147">
+          Ea propter non dubium est si presentis libri illa prio<lb ed="#P" break="no" n="18"/>ra 
+          tempora sortita fuissent autorem, quin eius statuam mortales 
+          <lb ed="#P" n="19"/>colerent, et eum veritatis inuentorem in negotio indico, patremque omnium 
+          <lb ed="#P" n="20"/>nouum ilium orbem incolentium ab uniuersis suscipiendum, ob<lb ed="#P" break="no" n="21"/>seruandum 
+          diligendumque esse, edicto publico statuissent. 
+        </p>
+        <p xml:id="lca8s8-d1e01-d1e158">
+          Porro ma<lb ed="#P" break="no" n="22"/>ximi 
+          quidem habendi sunt Theologiae sacrae doctores, omnesque iure<lb ed="#P" break="no" n="23"/>consulti, 
+          qui componendis libris curam impendentes sua doctrina 
+          <lb ed="#P" n="24"/>illustrauerunt orbem, inter quos illi profecto multo pluris aestiman<lb ed="#P" break="no" n="25"/>di 
+          sunt qui, a nullo mortalium lumen accipientes, ipsi primo toti 
+          <lb ed="#P" n="26"/>orbi lucem veritatemque irradiarunt. Quocirca maxime de hyspana 
+          <lb ed="#P" n="27"/>gente benemeritus est Reuerendissimus Episcopus chiapensis, qui non solum primus 
+          <lb ed="#P" n="28"/>in Indorum Iustitia cognoscenda viam ostendit, eiusque opera et labore 
+          <lb ed="#P" n="29"/>in hoc summo et difficillimo negotio hyspaniae uniuersae illuxit veritas: 
+          <lb ed="#P" n="30"/>verum etiam per plures annos in huius rei disputatione et examine 
+          <lb ed="#P" n="31"/>cum doctoribus quibusdam bellum concussit, qui oppositum omnino veritati omni 
+          <lb ed="#P" n="32"/>cura conati sunt defendere, atque in hanc usque diem ab insana sua 
+          <lb ed="#P" n="33"/>opinione nolunt desistere, qui nisi toto conatu per memoratum Episcopum 
+          <lb ed="#P" n="34"/>repulsi essent simulatque conuicti, totam pene hyspaniam falsissimo 
+          <lb ed="#P" n="35"/>illo suo dogmate infecissent. Qui cum in Indorum iustitia et causis 
+          <pb ed="#P" n="f2-r"/><!-- pages out of order in mirador and scta db-->
+          <lb ed="#P" n="1"/>errent foto coelo atque caecutiant mortiferam sectam atque errores circa 
+          <lb ed="#P" n="2"/>indiarum materiam, quibus usque adhuc capti sunt multi, non verentur do<lb ed="#P" break="no" n="3"/>cere. 
+          Asserentes nihilo securius sese pro veritate dimicare nostrorum hys<lb ed="#P" break="no" n="4"/>panorum 
+          iustam causam sustinere. Cum causam Dei potius tenerentur 
+          <lb ed="#P" n="5"/>defendere atque indorum gentium, qui christi sanguine redempti sunt. 
+          <lb ed="#P" n="6"/>quorum tot animarum millia ob hoc tam impium tamque iniustum dissemina<lb ed="#P" break="no" n="7"/>tum 
+          dogma, sempiterno igne cremari non dubitemus). 
+        </p>
+        <p xml:id="lca8s8-d1e01-d1e209">
+          Haec igitur igno<lb ed="#P" break="no" n="8"/>rantia 
+          tam multis noxia, haec inquam tam profunda hyspaniae gen<lb ed="#P" break="no" n="9"/>tium 
+          caligo, procul exsulat a presenti opere. In quo multis naturae ipsius 
+          <lb ed="#P" n="10"/>rationibus ac plurimis apertissimisque tum sacrarum litterarum, tum 
+          <lb ed="#P" n="11"/>sanctorum doctorum testimoniis ad haec et conciliorum et pontificum decretis 
+          <lb ed="#P" n="12"/>veritatis et iustitiae in materia indica patens fit demonstratio. In quo 
+          <lb ed="#P" n="13"/>etiam opere plurima noua sed cunctis quidem pernecessaria docentur 
+          <lb ed="#P" n="14"/>quae memoratos alias non vulgaris eloquentiae doctores fuisse cognosci<lb ed="#P" break="no" n="15"/>mus. 
+          Hic euangelium Iesu Christi modus praedicandi docetur. Hic item 
+          <lb ed="#P" n="16"/>ostenditur quo pacto infideles ad fidem conuertendi sunt. Hic pate<lb ed="#P" break="no" n="17"/>fiunt 
+          indiarum tyranides. Incredibiles manifestantur rapinae. Dam<lb ed="#P" break="no" n="18"/>nantur 
+          impiae cedes. Resarciendis iniuriis aperitur via. Patent 
+          <lb ed="#P" n="19"/>uniuersa dubia. Et quod dictu longe mirabilius est res indica quae 
+          <lb ed="#P" n="20"/>hactenus tam obscura tamque rudis et indigesta septuaginta labenti<lb ed="#P" break="no" n="21"/>bus
+          annis permansit: ordinem iam prese fert, iam clarior est ipsa luce, 
+          <lb ed="#P" n="22"/>iam neminem fugit, iam ab uniuersis scitur.
+        </p>
+        <p xml:id="lca8s8-d1e01-d1e244">
+          Siquidem hic liber 
+          <lb ed="#P" n="23"/>est quo pelluntur tenebrae ab hyspania, fugatur caligo, expergiscun<lb ed="#P" break="no" n="24"/>tur
+          homines, decepti reddeunt ad meliorem mentem, confunduntur 
+          <lb ed="#P" n="25"/>qui sapientes erant in oculis suis. Tota demum illuminatur hys<lb ed="#P" break="no" n="26"/>pania 
+          quae usque adhuc in tanto indiarum negotio (quod absque dubio omnium alio<lb ed="#P" break="no" n="27"/>rum 
+          quae sub coelo sunt maximum est) ignara perstitit. Nulla 
+          <lb ed="#P" n="28"/>quippe res est (nisi ego fallor) quae negocium hoc indicum magnitu<lb ed="#P" break="no" n="29"/>dine 
+          superare queat. Vtpote cum in eo nihil minus intersit quam salus
+          <lb ed="#P" n="30"/>atque perditio et corporum et animarum omnium illius denuo reperti orbis 
+          <lb ed="#P" n="31"/>cultorum. Merito ergo est summi habendum hoc opus siquidem to<lb ed="#P" break="no" n="32"/>ti 
+          uniuerso est pernecessarium. In quo autor tantum laboris impendit, 
+          <lb ed="#P" n="33"/>tot curis insenuit et vigiliis, tot volumina peruoluit, ut re ipsa 
+          <lb ed="#P" n="34"/>quisque facile valet comperire. Cuius zelo et laboribus perfecte re<lb ed="#P" break="no" n="35"/>tribuet, 
+          qui veritatem et sapientiam quae Deus est in lucem eden<pb ed="#P" n="f2-v"/><!-- folio order problem--><lb ed="#P" n="1"/>tibus 
+          mercedem pollicetur inquiens. Qui elucidant me vitam 
+          <lb ed="#P" n="2"/>aeternam habebunt.
+        </p>
+        <p xml:id="lca8s8-d1e01-d1e281">
+          Et quoniam tantum opus toti hyspaniae profuturum 
+          <lb ed="#P" n="3"/>esse aperte constat, illud vestra celsitudo iubere dignetur excudi regioque 
+          <lb ed="#P" n="4"/>fauore et animo cui proprium munus est ceu indiarum omnium modera<lb ed="#P" break="no" n="5"/>tori
+          et protectori circa materiam hanc difficillimam simul atque 
+          <lb ed="#P" n="6"/>necessariam veritatem explorare. Ne propter huius veritatis 
+          <lb ed="#P" n="7"/>ignorantiam et ille nouus orbis funditus extirpetur et quod 
+          <lb ed="#P" n="8"/>residuum est animarum eternus ignis consumat. Quod si typis hoc 
+          <lb ed="#P" n="9"/>opus vestro imperio mandatum sit ut cunctis veritas rei huius 
+          <lb ed="#P" n="10"/>innotescat, multa (ut reor) in statum pristinum redigentur.
+          <lb ed="#P" n="11"/>Atque dici non potest quantum incrementi hyspaniarum regnis adau<lb ed="#P" break="no" n="12"/>gebitur. 
+          Quibus ut ipse teneor maxime et temporalem in dies pro<lb ed="#P" break="no" n="13"/>fectum 
+          precor simul atque felicitatem eternam.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

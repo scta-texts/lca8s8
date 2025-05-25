@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praefatio [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praefatio [Bnf 12926 Transcription]</title>
+          <date when="2025-05-21">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="7-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e15">
+        <head xml:id="lca8s8-d1e15-Hd1e97">Praefatio</head>
+        <p xml:id="lca8s8-d1e15-d1e99">
+          <pb ed="#P" n="7-r"/>
+          <lb ed="#P" n="1"/>Prefatio Apologiae admodum Reuerendissimi 
+          <lb ed="#P" n="2"/>Domini Fratris Bartholomei Casai ex instituto diui 
+          <lb ed="#P" n="3"/>dominici Episcopi quondam chiapensis 
+          <lb ed="#P" n="4"/>magno hyspaniarum principi Philipo 
+          <lb ed="#P" n="5"/><del rend="strikethrough">S. P. D. </del>
+          <lb ed="#P" n="6"/>Frater Bartholomeus Casaus ex ins<lb ed="#P" break="no" n="7"/>tituto 
+          Diui dominici Episcopus quondam 
+          <lb ed="#P" n="8"/>chiapensis magno hyspani<lb ed="#P" break="no" n="9"/>arum 
+          Principi Philippo
+          <lb ed="#P" n="10"/><del rend="strikethrough">S. P. D. </del>
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e130">
+          <lb ed="#P" n="11"/><pc type="pilcrow"/> Inclite princeps quoniam ea quae ad ma<lb ed="#P" break="no" n="12"/>ximi 
+          imperii, numinis benignitate tibi con<lb ed="#P" break="no" n="13"/>cessi, 
+          tutelam ac tranquillitatem pertinent, 
+          <lb ed="#P" n="14"/>aequum est tibi hyspaniarum <seg type="correction">reg<subst><add place="above-line">i</add><del>nis</del></subst></seg> ac noui 
+          <lb ed="#P" n="15"/>illius et stupendi orbis terrarum Maximi Ca<lb ed="#P" break="no" n="16"/>roli 
+          patris nomine, cum imperio prefecto, tum 
+          <lb ed="#P" n="17"/>generoso spiritu et indita a christo sapientia 
+          <lb ed="#P" n="18"/>ad immortalem laudem contendenti renun<lb ed="#P" break="no" n="19"/>tiari. 
+          Opere pretium duxi coelsitudinem tuam 
+          <lb ed="#P" n="20"/>admonere in manus meas venisse compendio<lb ed="#P" break="no" n="21"/>lum 
+          quoddam hyspanice descriptum eius ope<lb ed="#P" break="no" n="22"/>ris 
+          quod Genesius Sepulueda latine conscri<lb ed="#P" break="no" n="23"/>psisse 
+          dicitur. In eo quatuor adducit causas 
+          <lb ed="#P" n="24"/>quarum unaquaeque ut ipsi videtur irrefutabiliter 
+          <lb ed="#P" n="25"/>probat bellum in indos iustum esse dummodo 
+          <lb ed="#P" n="26"/>rite fiat, et seruatis legibus belli sicuti hacte<lb ed="#P" break="no" n="27"/>nus 
+          hyspaniarum reges infferri et geri preceperunt: 
+          <lb ed="#P" n="28"/>audio hominis consilium esse: docere quo iure 
+          <pb ed="#P" n="7-v"/>
+          <lb ed="#P" n="1"/>hyspaniae reges indiarum imperium possi<lb ed="#P" break="no" n="2"/>deatis 
+          illudque rationibus ac iuribus confir<lb ed="#P" break="no" n="3"/>mare 
+          ut iam deinceps nullus sit qui vel ta<lb ed="#P" break="no" n="4"/>citus 
+          hinc vobis calumniam struere possit. 
+          <lb ed="#P" n="5"/>legi ac relegi opus attente narraturque sepul<lb ed="#P" break="no" n="6"/>uedam 
+          alia quaedam prolixius in codice la<lb ed="#P" break="no" n="7"/>tino 
+          (quem mihi nondum videre contingit) in<lb ed="#P" break="no" n="8"/>culcare. 
+          Quid aliis accidat nescio: certe ego 
+          <lb ed="#P" n="9"/>in eo venena melle prelita deprehendi. vir 
+          <lb ed="#P" n="10"/>namque Theologus sub pretextu principi suo 
+          <lb ed="#P" n="11"/>gratificandi: Toxicum melle perunctum por<lb ed="#P" break="no" n="12"/>rigit 
+          panemque ostentans lapidem incutit.
+          <lb ed="#P" n="13"/>Quod nisi mortiferum hoc venenum prin<lb ed="#P" break="no" n="14"/>ceps 
+          maxime tua <seg type="correction">s<del rend="strikethrough">e</del>apientia</seg> cohibeatur: ne
+          <lb ed="#P" n="15"/>in plurimos sparsum legentium animos in<lb ed="#P" break="no" n="16"/>ficiat 
+          incautis imponat: Tyranosque ad im<lb ed="#P" break="no" n="17"/>probitatem 
+          armet excitetque: crede mihi plu<lb ed="#P" break="no" n="18"/>rimorum 
+          animis libellus ille conciliabit exiti<lb ed="#P" break="no" n="19"/>um.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e229">
+          Primo enim proffessus <add place="in-line"><unclear>est</unclear></add> se velle vestrum 
+          <lb ed="#P" n="20"/>indiarum imperium comprobare: ius vestrum 
+          <lb ed="#P" n="21"/>lacerat minuitque: adducens quaedam partim 
+          <lb ed="#P" n="22"/>vana: partim falsa: partim eius generis ut 
+          <lb ed="#P" n="23"/>minimum habeant roboris. Deinde si ho<lb ed="#P" break="no" n="24"/>minis 
+          hac in re iudicium regia facultate 
+          <lb ed="#P" n="25"/>et priuilegio confirmatum typis euulgaretur: 
+          breui proculdubio maximum illud indianum 
+          <lb ed="#P" n="26"/>imperium prorsus euerteretur periretque. Et<lb ed="#P" break="no" n="27"/>enim 
+          si tot editae leges: tot decreta: tot se<lb ed="#P" break="no" n="28"/>uerae 
+          minae: tot constitutiones a Carolo Caesa<lb ed="#P" break="no" n="29"/>re 
+          <pc type="virgula">/</pc> et a precedentibus principibus religiose 
+          <lb ed="#P" n="30"/>proditae: nihil profecerunt, quominus tot in<pb ed="#P" n="8-r"/><lb ed="#P" n="1"/>nocentissimorum
+          hominum millia ferro fameque 
+          <lb ed="#P" n="2"/>ac omnibus extremi belli incommodis absumerentur:
+          <lb ed="#P" n="3"/>euastarenturque immanissime latissima cultissi<lb ed="#P" break="no" n="4"/>morum 
+          regnorum foelicissimarumque prouinciarum 
+          <lb ed="#P" n="5"/>spatia: si efferatissimos ac saeuos hyspanorum 
+          <lb ed="#P" n="6"/>animos non dicam continuit: sed vel leniit dei 
+          <lb ed="#P" n="7"/>timor vel gehenae metus. Si nihil profecerunt con<lb ed="#P" break="no" n="8"/>ciniatorum
+          ac piorum hominum clamores. Interdi<lb ed="#P" break="no" n="9"/>ci 
+          ecclesiasticis sacramentis non expiari in sacris 
+          <lb ed="#P" n="10"/>confessionibus. Quid futurum si improbi (quibus 
+          <lb ed="#P" n="11"/>iuxta vetus prouerbium nihil deest preter oc<lb ed="#P" break="no" n="12"/>casionem) 
+          legerint virum doctum Theologiae 
+          <lb ed="#P" n="13"/>doctorem ac regium hystoriographum libris 
+          <lb ed="#P" n="14"/>editis probare scelerata ilia bella: ac tartareas 
+          <lb ed="#P" n="15"/>expeditiones adductisque argumentis confirmari 
+          <lb ed="#P" n="16"/>tuerique inauditum scelus, quo christianae vir<lb ed="#P" break="no" n="17"/>tutis 
+          obliti homines christiani seruitute prae<lb ed="#P" break="no" n="18"/>munt 
+          gentem omnium miserrimam: quae fato 
+          <lb ed="#P" n="19"/>quodam potius quam hyspanorum misericordia im<lb ed="#P" break="no" n="20"/>manissimae 
+          gentis saeuitiam efugisse videtur? atque 
+          <lb ed="#P" n="21"/>insuper docere omnia in his bellis parata licite 
+          <lb ed="#P" n="22"/>possideri a militibus etiamsi expeditionem sus<lb ed="#P" break="no" n="23"/>ceperint 
+          animo prauo predandi (scilicet) diri<lb ed="#P" break="no" n="24"/>piendi 
+          flammis <pc type="virgula">/</pc> ferro <pc type="virgula">/</pc> cedibus <pc type="virgula">/</pc> rapinis ac vio<lb ed="#P" break="no" n="25"/>lentia 
+          miscendi euertendi ac conturbandi diui<lb ed="#P" break="no" n="26"/>na 
+          et humana iura omnia. Neque teneri resti<lb ed="#P" break="no" n="27"/>tuere 
+          bona huiusmodi acquisita? Quoniam haec agentes hyspani et Innocentium sanguinem profun<lb ed="#P" break="no" n="28"/>dentes
+          manus suas consecrant deo: ut audio se<lb ed="#P" break="no" n="29"/>puluedam 
+          scripsisse<sic>)</sic> demerenturque christi gratiam 
+          <lb ed="#P" n="30"/>dum idolorum cultum vetant? Cui parcent? Quem 
+          <lb ed="#P" n="31"/>sanguinem non profundent? Quam saeuitiam 
+          <pb ed="#P" n="8-v"/>
+          <lb ed="#P" n="1"/>non exercebunt?
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e346">
+          Eferi homines campos huma<lb ed="#P" break="no" n="2"/>no 
+          sanguine tinctos videre soliti: nullam sexus 
+          <lb ed="#P" n="3"/>nullam etatis rationem habentes: non matrum 
+          <lb ed="#P" n="4"/>ubera lactentibus infantibus parcentes: non pre<lb ed="#P" break="no" n="5"/>gnantibus: 
+          non maximis: non minimis: denique 
+          <lb ed="#P" n="6"/>non decrepitae et canosae senectae: hominibus qui<lb ed="#P" break="no" n="7"/>bus 
+          ingrauescens etas vel reuerentiam vel misericordiam conciliare solet? Si audiant esse ho<lb ed="#P" break="no" n="8"/>minem 
+          aliquem qui doceat sese manus suas 
+          <lb ed="#P" n="9"/>consecrare deo: dum cedibus: rapinis: ac tyra<lb ed="#P" break="no" n="10"/>nide 
+          opprimunt indos: haut aliter quam illi qui 
+          <lb ed="#P" n="11"/>filios issrael vitulum adorantes occiderunt: ad<lb ed="#P" break="no" n="12"/>hibebunt 
+          enim illi maiorem fidem verbis cu<lb ed="#P" break="no" n="13"/>iusuis 
+          hominis grata docentis: quam ipsi dei 
+          <lb ed="#P" n="14"/>filio si presens presentibus diuersum doceret. 
+          <lb ed="#P" n="15"/>Quod si ad internitionem deleantur indi: si euas<lb ed="#P" break="no" n="16"/>tentur 
+          tot populi tamque late patientia regna 
+          <lb ed="#P" n="17"/>diruantur: quis nisi sit insanus dubitet flo<lb ed="#P" break="no" n="18"/>rentissimum 
+          illud noui orbis imperium veteri<lb ed="#P" break="no" n="19"/>bus 
+          incolis absumptis: desertum nihil aliud 
+          <lb ed="#P" n="20"/>quam tygridum leonum ac ferarum ditionem Hys<lb ed="#P" break="no" n="21"/>paniae 
+          regibus futurum? Deus autem sapientissi<lb ed="#P" break="no" n="22"/>mus
+          cum statuisset populos quosdam dirue<lb ed="#P" break="no" n="23"/>re: 
+          noluit statim omnino euastari: ne vacui ho<lb ed="#P" break="no" n="24"/>minibus
+          ferarum stabula forent quae paucis 
+          <lb ed="#P" n="25"/>iudaeis nouis incolis nocerent. Ita legimus deuteronomii 7.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e402">
+          <lb ed="#P" n="26"/><pc type="pilcrow"/> Ergo Sepulueda vel voce vel libris editis docens 
+          <lb ed="#P" n="27"/>expeditiones in indos licitas esse: quid aliud 
+          <lb ed="#P" n="28"/>quam tyranis animos addit: totque criminibus et 
+          <lb ed="#P" n="29"/>miserandis malis: quot isti supra quam cuiquam 
+          <lb ed="#P" n="30"/>credibile sit committunt ansam prestat? Inte<lb ed="#P" break="no" n="31"/>rim 
+          certissima animae suae iactura efficiens: ut 
+          <pb ed="#P" n="9-r"/>
+          <lb ed="#P" n="1"/>innumeri mortales saeuis sublatis cedibus 
+          <lb ed="#P" n="2"/>in aeternum pereant: nimirum immani 
+          <lb ed="#P" n="3"/>hyspanorum <seg type="correction">fe<subst><del rend="strikethrough">rocia</del><add>ritate</add></subst></seg> animam efflantes an<lb ed="#P" break="no" n="4"/>tequam
+          verbum dei audiant: et mitissima chris<lb ed="#P" break="no" n="5"/>ti 
+          doctrina pascantur: christianisque sacra<lb ed="#P" break="no" n="6"/>mentis
+          roborentur. qua re quid atrocius aut 
+          <lb ed="#P" n="7"/>iniquius excogitari potest.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e443">
+          <lb ed="#P" n="8"/><pc type="pilcrow"/> Deinde si Sepuluedae opinio probatur (sci<lb ed="#P" break="no" n="9"/>licet) 
+          ut expeditiones in indos licitae sint: san<lb ed="#P" break="no" n="10"/>ctissima 
+          fides christi cum opprobrio christi<lb ed="#P" break="no" n="11"/>ani 
+          nominis exosa erit et abominabilis cunctis 
+          <lb ed="#P" n="12"/>eius orbis nationibus: ad quas fama imma<lb ed="#P" break="no" n="13"/>nium 
+          scelerum quae in miseram gentem ab 
+          <lb ed="#P" n="14"/>hyspanis exercentur peruenerit: ita ut neque 
+          <lb ed="#P" n="15"/>nostra etate neque in futurum fidem nostram 
+          <lb ed="#P" n="16"/>ullo modo recipere vellint: videntes primos eius 
+          <lb ed="#P" n="17"/>anuntiatores non pastores esse, sed predones: 
+          <lb ed="#P" n="18"/>non patres: sed tyranos: et eos qui illam pro<lb ed="#P" break="no" n="19"/>fitentur 
+          homines esse impios saeuos et atroci 
+          <lb ed="#P" n="20"/>immanitate inexorabiles.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e475">
+          <lb ed="#P" n="21"/><pc type="pilcrow"/> Praeterea Sepuluedae opus cum sit elegans 
+          <lb ed="#P" n="22"/>elaboratum disertum pluribusque argumentorum
+          <lb ed="#P" n="23"/>machinis undique operose instructum: imponet 
+          <lb ed="#P" n="24"/>perpetuo his latronibus humani generis hosti<lb ed="#P" break="no" n="25"/>bus  
+          <pc type="virgula">/</pc> ne unquam resipiscant et agnoscentes crimen 
+          <lb ed="#P" n="26"/>suum ad domini misericordiam forsan pro 
+          <lb ed="#P" n="27"/>sua ineffabili caritate vocantis ad peniten<lb ed="#P" break="no" n="28"/>tiam 
+          confugiant: eiusque opem implorent. Hic 
+          <lb ed="#P" n="29"/>enim sceleratam horum impietatem quae quicquid
+          <lb ed="#P" n="30"/>est usquam malorum in vita mortalium secum 
+          <lb ed="#P" n="31"/>adfert: specie religionis excusat, tragicisque 
+          <lb ed="#P" n="32"/>verbis predones saeuissime latrocinantes, collau<pb ed="#P" n="9-v"/><lb ed="#P" n="1"/>dat 
+          bellicamque eorum virtutem commendat.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e511">
+          <lb ed="#P" n="2"/>Postremo non est ferendum <del rend="strikethrough">bellum</del> virum 
+          <lb ed="#P" n="3"/>cui munus scribendae caesareae hystoriae man<lb ed="#P" break="no" n="4"/>datum 
+          est typis euulgare perniciosum errorem 
+          <lb ed="#P" n="5"/>longe lateque dissidentem a verbis euange<lb ed="#P" break="no" n="6"/>licis 
+          et a mansuetudine et lenitate quam 
+          <lb ed="#P" n="7"/>tota christi doctrina spirat et qua ecclesia 
+          <lb ed="#P" n="8"/>magistrum suum referens utitur erga eos 
+          <lb ed="#P" n="9"/>qui christum non agnoscunt. 
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e534">
+          Posteri enim 
+          <lb ed="#P" n="10"/>jure optimo <seg type="correction">ex<add place="above-line">is</add>timabunt</seg> hominem qui in 
+          <lb ed="#P" n="11"/>re manifestissima turpiter lapsus est, haud<lb ed="#P" break="no" n="12"/>quaquam 
+          in contexenda hystoria veritatem in 
+          <lb ed="#P" n="13"/>consilium adhibuisse, quae res quantumuis 
+          <lb ed="#P" n="14"/>hystoria scite et eleganter conscripta sit: 
+          <lb ed="#P" n="15"/>clarissimas caesaris victorias obscurabit <pc type="virgula">/</pc>. 
+          <lb ed="#P" n="16"/><pc type="pilcrow"/>Ego igitur considerans tot incommoda tan<lb ed="#P" break="no" n="17"/>tam 
+          malorum segetem reprehensione ac duris<lb ed="#P" break="no" n="18"/>sima 
+          punitione dignissimam: quae ex eius 
+          <lb ed="#P" n="19"/>propositionibus oritur: offensam dei: infami<lb ed="#P" break="no" n="20"/>am 
+          odiumque sanctissimae nostrae religionis: irre<lb ed="#P" break="no" n="21"/>parabilem 
+          iacturam: tot fidelium animarum 
+          <lb ed="#P" n="22"/>exitium: juris regibus hyspaniae competentis 
+          <lb ed="#P" n="23"/>ad imperium noui orbis: considerans etiam 
+          <lb ed="#P" n="24"/>quod his suis opinionibus difunditur per omnes 
+          <lb ed="#P" n="25"/>orbis nationes saeua et inueterata consuetudo 
+          <lb ed="#P" n="26"/>rapiendi aliena, et augendae rei humano san<lb ed="#P" break="no" n="27"/>guine 
+          profuso quae inuidia iam olim hyspa<lb ed="#P" break="no" n="28"/>nica 
+          gens laborat. Quod Sepulueda ad 
+          <lb ed="#P" n="29"/>virtutem et gloriam hyspaniae refert. non 
+          <lb ed="#P" n="30"/>potui me continere: memor me christianum 
+          <pb ed="#P" n="10-r"/>
+          <lb ed="#P" n="1"/>monachum: episcopum: hyspanum regibusque
+          <lb ed="#P" n="2"/>hyspaniarum subditum esse: quin pro defensio<lb ed="#P" break="no" n="3"/>ne 
+          veritatis et decore domus dei: augmentoque 
+          <lb ed="#P" n="4"/>adorandi euangelii domini nostri iesu christi cala<lb ed="#P" break="no" n="5"/>mi 
+          mucronem stringerem: ut pro modulo gra<lb ed="#P" break="no" n="6"/>tiae 
+          mihi donatae christiani nominis oppro<lb ed="#P" break="no" n="7"/>brium
+          abstergerem impedimentaque et offen<lb ed="#P" break="no" n="8"/>dicula 
+          dilatandae euangelicae fidei submoue<lb ed="#P" break="no" n="9"/>rem:
+          propalaremque veritatem quam in baptismo 
+          <lb ed="#P" n="10"/>voui: in religione didici: ac denuo licet indi<lb ed="#P" break="no" n="11"/>gnus 
+          consecratus Episcopus proffessus sum. 
+          <lb ed="#P" n="12"/>His enim omnibus nominibus teneor me tam<lb ed="#P" break="no" n="13"/>quam 
+          murum aduersus impios opponere ad defensio<lb ed="#P" break="no" n="14"/>nem 
+          innocentissimae gentis breuiter inseren<lb ed="#P" break="no" n="15"/>dae 
+          verae domui israel: quam lupi rapaces in<lb ed="#P" break="no" n="16"/>desinenter 
+          persequuntur.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e629">
+          Teneor etiam ad 
+          <lb ed="#P" n="17"/>precludendam viam qua tot mortalium mi<lb ed="#P" break="no" n="18"/>riades 
+          in aeternum exitium pertrahuntur, et 
+          <lb ed="#P" n="19"/>ad defendendum oues meas quas edito so<lb ed="#P" break="no" n="20"/>lemni 
+          voto usque ad mortem tueri promisi 
+          <lb ed="#P" n="21"/>aduersus omnes lupos vel ecclesiasticos vel 
+          <lb ed="#P" n="22"/>profanos irrumpentes in caulas meas.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e646">
+          <pc type="pilcrow"/> Post<lb ed="#P" break="no" n="23"/>remo 
+          volo explicare principis mei verum ius 
+          <lb ed="#P" n="24"/>quo titulo scilicet nouum orbem possideat, 
+          <lb ed="#P" n="25"/>celareque horribilia et infamia facinora: quae 
+          mei (scilicet) Hyspani indis terribili strage 
+          <lb ed="#P" n="26"/>dirutis contra ius et fas his paucis annis edi<lb ed="#P" break="no" n="27"/>derunt 
+          Diluereque ignominiam apud omnes 
+          <lb ed="#P" n="28"/>orbis terrarum nationes eo nomine contractam.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e664">
+          <lb ed="#P" n="29"/>Quatuor igitur mihi ut haec omnino prestem hic 
+          <pb ed="#P" n="10-v"/>
+          <lb ed="#P" n="1"/>tractanda sunt: Primo confutabo Sepuluedae 
+          <lb ed="#P" n="2"/>opinionem contendentis bellum in indos ius<lb ed="#P" break="no" n="3"/>tum 
+          esse quia barbari <pc type="virgula">/</pc> rudes <pc type="virgula">/</pc> indociles politiaeque 
+          <lb ed="#P" n="4"/>expertes sint.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e686">
+          <pc type="pilcrow"/>Secundo ostendam Sepul<lb ed="#P" break="no" n="5"/>uedam 
+          certissimo animae suae exitio: errare 
+          <lb ed="#P" n="6"/>docens bellum in indos iustum esse ut eorum 
+          <lb ed="#P" n="7"/>crimina legi naturae contraria puniantur pre<lb ed="#P" break="no" n="8"/>cipue 
+          crimen <pc type="punctus"/> idolatriae, et immolandi ho<lb ed="#P" break="no" n="9"/>mines.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e704">
+          <pc type="pilcrow"/> Tertio impugnabimus tertiam cau<lb ed="#P" break="no" n="10"/>sam 
+          qua fisus Sepulueda docet bellum posse 
+          <lb ed="#P" n="11"/>inferri nationibus illis absolute ac indiffe<lb ed="#P" break="no" n="12"/>renter 
+          ob liberationem innocentium.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e715">
+          <pc type="pilcrow"/> Quar<lb ed="#P" break="no" n="13"/>to 
+          tractabo quam sit alienum ab euangelica doc<lb ed="#P" break="no" n="14"/>trina, 
+          et pietate christiana quarta eius pro<lb ed="#P" break="no" n="15"/>positio 
+          docens bellum in indos iustum esse ut 
+          <lb ed="#P" n="16"/>dilatentur fines christianae religionis et ape<lb ed="#P" break="no" n="17"/>riatur 
+          via anuntiatoribus et predicatoribus 
+          <lb ed="#P" n="18"/>Euangelii.
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e733">
+          His absolutis manifeste liquebit 
+          <lb ed="#P" n="19"/>veritas huius causae et quantum commiserint scelus: 
+          qui indos latrociniis caedibus et aliis 
+          <lb ed="#P" n="20"/>non credendis belli incommodis afflixerunt et 
+          <lb ed="#P" n="21"/>afligunt: simulque quam inania sint hominis 
+          <lb ed="#P" n="22"/>argumenta errantis tam injure quam in facto: 
+          <lb ed="#P" n="23"/>quo consilio adductus perniciosum illum 
+          <lb ed="#P" n="24"/>tractatum scripserit: et qualiter detorquet 
+          <lb ed="#P" n="25"/>philosophorum theologorumque decreta: adultera<lb ed="#P" break="no" n="26"/>uerit 
+          verba scripturae sacrae diuinarum et hu<lb ed="#P" break="no" n="27"/>manarum 
+          legum neque minus perniciose ad 
+          <lb ed="#P" n="28"/>impiae causae victoriam adduxisse autoritatem 
+          <lb ed="#P" n="29"/>Alexandri papae sexti apparebit. 
+        </p>
+        <p xml:id="lca8s8-d1e15-d1e760">
+          Postremo 
+          <lb ed="#P" n="30"/>docebitur verum ius quo hyspaniae Reges 
+          <pb ed="#P" n="11-r"/>
+          <lb ed="#P" n="1"/>noui orbis imperium possident. Quare ma<lb ed="#P" break="no" n="2"/>xime 
+          princeps, tuam celsitudinem obsecro ut opus hoc magnis sudoribus et vigilijs a me 
+          <lb ed="#P" n="3"/>elaboratum excuti examinarique a doctis iube<lb ed="#P" break="no" n="4"/>as.
+          Quod si quid minus apte, vel minus bene 
+          <lb ed="#P" n="5"/>dictum repertum fuerit: gratissimum mihi 
+          <lb ed="#P" n="6"/>erit meas vigilias ab eis cum charitate elima<lb ed="#P" break="no" n="7"/>ri. 
+          Si vero aliquid foeliciter elaboratum exti<lb ed="#P" break="no" n="8"/>terit 
+          nullum aliud humanum premium exop<lb ed="#P" break="no" n="9"/>to 
+          nisi ut tua celsitudo iubeat Sepuluedae ut 
+          <lb ed="#P" n="10"/>mihi operis quod latine de hac re conscripsit 
+          <lb ed="#P" n="11"/>copiam faciat: ut plenius confutata falsitate
+          veritas illuceat et regnet in conscientiis omnium 
+          <lb ed="#P" n="12"/><choice><sic>immortalium</sic> <corr>mortalium</corr></choice>. Vale.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

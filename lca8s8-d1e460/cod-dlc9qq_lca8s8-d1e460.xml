@@ -50,250 +50,250 @@
     </front>
     <body>
       <div xml:id="lca8s8-d1e460">
-        <head>Caput 32 [Bnf 12926 Transcription]</head>
-        <p>
+        <head xml:id="lca8s8-d1e460-Hd1e97">Caput 32 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e460-d1e99">
           <lb ed="#P" n="6"/>CAPut 32m.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e460-d1e104">
           Ratio .3ª. quare hoc crimen immolandi
-          <lb ed="#P"/>innocentes
+          <lb ed="#P" n="7"/>innocentes
             <seg>dissimula<subst hand="B"><del rend="strikethrough"><unclear>rum</unclear></del><add place="above-line">ndum</add></subst></seg>
             <subst hand="B"><add place="above-line">sit</add><del rend="strikethrough">debeat</del></subst>
-          quando non<lb ed="#P" break="no"/>nisi
+          quando non<lb ed="#P" break="no" n="8"/>nisi
           bello curari potest: et quando absque
-          <lb ed="#P"/>damno innocentium liberari non pos<lb ed="#P" break="no"/>sunt
+          <lb ed="#P" n="9"/>damno innocentium liberari non pos<lb ed="#P" break="no" n="10"/>sunt
           aliqui innocentes, haec est: quando
-          <lb ed="#P"/>scilicet nocentes discerni non possunt ab
-          <lb ed="#P"/>innocentibus quod manifestum est con<lb ed="#P" break="no"/>tingere
+          <lb ed="#P" n="11"/>scilicet nocentes discerni non possunt ab
+          <lb ed="#P" n="12"/>innocentibus quod manifestum est con<lb ed="#P" break="no" n="13"/>tingere
           in bellis: propter confusionem
-          <lb ed="#P"/>et inordinationes quibus sunt plena.
+          <lb ed="#P" n="14"/>et inordinationes quibus sunt plena.
         </p>
-        <p>
-          <lb ed="#P"/>Haec probantur ex verbis <name>domini</name> <ref>Matthe.
-          <lb ed="#P"/>13</ref>. dum prohibet euelli <seg>zizania<del rend="strikethrough" hand="AB">m</del></seg> ne
-          <lb ed="#P"/>forte simul etiam euellatur triticum.
-          <lb ed="#P"/>Vis (inquiunt apostoli) sus et colligimus
-          <lb ed="#P"/><seg>ea<del rend="strikethrough" hand="AB">m</del></seg>? Et ait<quote>non ne forte colligentes zi<lb ed="#P" break="no"/>zania
+        <p xml:id="lca8s8-d1e460-d1e138">
+          <lb ed="#P" n="15"/>Haec probantur ex verbis <name xml:id="lca8s8-d1e460-Nd1e142">domini</name> <ref xml:id="lca8s8-d1e460-Rd1e144">Matthe.
+          <lb ed="#P" n="16"/>13</ref>. dum prohibet euelli <seg>zizania<del rend="strikethrough" hand="AB">m</del></seg> ne
+          <lb ed="#P" n="17"/>forte simul etiam euellatur triticum.
+          <lb ed="#P" n="18"/>Vis (inquiunt apostoli) sus et colligimus
+          <lb ed="#P" n="19"/><seg>ea<del rend="strikethrough" hand="AB">m</del></seg>? Et ait<quote xml:id="lca8s8-d1e460-Qd1e165">non ne forte colligentes zi<lb ed="#P" break="no" n="20"/>zania
           <subst hand="AB"><del rend="strikethrough">euandi cecis</del><add place="above-line">eradicetis</add></subst> simul et triticum.
-          <lb ed="#P"/>Sinite <seg>vutra<del rend="strikethrough" hand="B">m</del>que</seg> crescere vsque in messem</quote>
-          <lb ed="#P"/>et caetera. ne forte volentes cuellere <seg>zizani<lb ed="#P" break="no"/>a<del rend="strikethrough" hand="AB">m</del></seg>
-          euellatis etiam et triticum. Triti<lb ed="#P" break="no"/>cum
+          <lb ed="#P" n="21"/>Sinite <seg>vutra<del rend="strikethrough" hand="B">m</del>que</seg> crescere vsque in messem</quote>
+          <lb ed="#P" n="22"/>et caetera. ne forte volentes cuellere <seg>zizani<lb ed="#P" break="no" n="23"/>a<del rend="strikethrough" hand="AB">m</del></seg>
+          euellatis etiam et triticum. Triti<lb ed="#P" break="no" n="24"/>cum
           innocentes et pios significat, vel
-          <lb ed="#P"/>eos qui ad mentem deo dignam <seg>re<del hand="AB" rend="strikethrough">d</del>dire</seg>
-          <lb ed="#P"/>possunt. Ne autem his innocentibus nocea<lb ed="#P" break="no"/>tur:
+          <lb ed="#P" n="25"/>eos qui ad mentem deo dignam <seg>re<del hand="AB" rend="strikethrough">d</del>dire</seg>
+          <lb ed="#P" n="26"/>possunt. Ne autem his innocentibus nocea<lb ed="#P" break="no" n="27"/>tur:
           prohibet dominus malos eradicari,
-          <lb ed="#P"/>sed in diem judicij eorum punitionem
+          <lb ed="#P" n="28"/>sed in diem judicij eorum punitionem
           <pb ed="#P" n="142-r"/>
-          <lb ed="#P"/><seg>difer<subst hand="B"><del rend="strikethrough">t</del><add place="above-line">ri</add></subst></seg> <del rend="strikethrough" hand="B">his verbis</del> et hoc non ob aliud nisi
-          <lb ed="#P"/><choice><corr>ne</corr></choice> pij vel innocentes pereant cum impijs
-          <lb ed="#P"/>et nocentibus.
+          <lb ed="#P" n="1"/><seg>difer<subst hand="B"><del rend="strikethrough">t</del><add place="above-line">ri</add></subst></seg> <del rend="strikethrough" hand="B">his verbis</del> et hoc non ob aliud nisi
+          <lb ed="#P" n="2"/><choice><corr>ne</corr></choice> pij vel innocentes pereant cum impijs
+          <lb ed="#P" n="3"/>et nocentibus.
         </p>
-        <p>
-          Vnde sic dominus expo<lb ed="#P" break="no"/>nit.
-          <quote>Qui seminat bonum <seg>semen<del rend="strikethrough"><choice><unclear cert="low">m</unclear></choice></del></seg>, hi sunt
-          <lb ed="#P"/>filij regni: zizania autem filij nequam. Ini<lb ed="#P" break="no"/>micus
+        <p xml:id="lca8s8-d1e460-d1e232">
+          Vnde sic dominus expo<lb ed="#P" break="no" n="4"/>nit.
+          <quote xml:id="lca8s8-d1e460-Qd1e236">Qui seminat bonum <seg>semen<del rend="strikethrough"><choice><unclear cert="low">m</unclear></choice></del></seg>, hi sunt
+          <lb ed="#P" n="5"/>filij regni: zizania autem filij nequam. Ini<lb ed="#P" break="no" n="6"/>micus
           autem qui <seg>semina<subst hand="AB"><del rend="strikethrough">bit</del><add place="above-line">uit</add></subst></seg> ea, est diabolus.
-          <lb ed="#P"/>Messis vero, consumatio seculi est. Messo<lb ed="#P" break="no"/>res
-          autem angeli sunt</quote>. <quote>Mittet ergo filius
-          <lb ed="#P"/>hominis angelos suos, et colligent de reg<lb ed="#P" break="no"/>no
+          <lb ed="#P" n="7"/>Messis vero, consumatio seculi est. Messo<lb ed="#P" break="no" n="8"/>res
+          autem angeli sunt</quote>. <quote xml:id="lca8s8-d1e460-Qd1e263">Mittet ergo filius
+          <lb ed="#P" n="9"/>hominis angelos suos, et colligent de reg<lb ed="#P" break="no" n="10"/>no
           eius omnia scandala, et eos qui faciunt
-          <lb ed="#P"/>iniquitatem. Et mittent eos in caminum
-          <lb ed="#P"/>ignis</quote>. Ergo non vult christus sed prohi<lb ed="#P" break="no"/>bet
-          nocentes per homines judicari / puni<lb ed="#P" break="no"/>ri
+          <lb ed="#P" n="11"/>iniquitatem. Et mittent eos in caminum
+          <lb ed="#P" n="12"/>ignis</quote>. Ergo non vult christus sed prohi<lb ed="#P" break="no" n="13"/>bet
+          nocentes per homines judicari / puni<lb ed="#P" break="no" n="14"/>ri
           aut euelli: quotiens ab innocentibus non
-          <lb ed="#P"/>possunt discerni et ita sine istorum pericu<lb ed="#P" break="no"/>lo.
+          <lb ed="#P" n="15"/>possunt discerni et ita sine istorum pericu<lb ed="#P" break="no" n="16"/>lo.
           Et hic est alius casus quo dominus
-          <lb ed="#P"/>sibi peccantium judicium reseruauit.
+          <lb ed="#P" n="17"/>sibi peccantium judicium reseruauit.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e460-d1e287">
           Quod
-          <lb ed="#P"/>glosa docet exponens illa verba: <quote>domine vis
-          <lb ed="#P"/>imus? Consulit inquit justitiam dei an
-          <lb ed="#P"/>facere debeat, et an Deus velit esse hoc officium
-          <lb ed="#P"/>hominum. Sed veritas respondit: non
-          <lb ed="#P"/>posse hominem in hac vita qualis futurus
-          <lb ed="#P"/>sit qui modo errat: et quid bonis conferat
-          <lb ed="#P"/>eius error: et ideo eos non esse tollendos: ne
-          <lb ed="#P"/>forte interficiantur, qui forte futuri sunt:
-          <lb ed="#P"/><choice><sic/><corr>boni</corr></choice> vel ne bonis ob sit, quibus prosunt</quote>. Et infra:
-          <lb ed="#P"/><quote>Tunc vero opportune fieri: cum jam non est
-          <lb ed="#P"/>comutandae vitae tempus et proficiendi alijs:
-          <lb ed="#P"/>et tunc non ab hominibus sed ab angelis
-          <lb ed="#P"/>dicit fieri</quote>. haec glosa.
+          <lb ed="#P" n="18"/>glosa docet exponens illa verba: <quote xml:id="lca8s8-d1e460-Qd1e291">domine vis
+          <lb ed="#P" n="19"/>imus? Consulit inquit justitiam dei an
+          <lb ed="#P" n="20"/>facere debeat, et an Deus velit esse hoc officium
+          <lb ed="#P" n="21"/>hominum. Sed veritas respondit: non
+          <lb ed="#P" n="22"/>posse hominem in hac vita qualis futurus
+          <lb ed="#P" n="23"/>sit qui modo errat: et quid bonis conferat
+          <lb ed="#P" n="24"/>eius error: et ideo eos non esse tollendos: ne
+          <lb ed="#P" n="25"/>forte interficiantur, qui forte futuri sunt:
+          <lb ed="#P" n="26"/><choice><sic/><corr>boni</corr></choice> vel ne bonis ob sit, quibus prosunt</quote>. Et infra:
+          <lb ed="#P" n="27"/><quote xml:id="lca8s8-d1e460-Qd1e315">Tunc vero opportune fieri: cum jam non est
+          <lb ed="#P" n="28"/>comutandae vitae tempus et proficiendi alijs:
+          <lb ed="#P" n="29"/>et tunc non ab hominibus sed ab angelis
+          <lb ed="#P" n="30"/>dicit fieri</quote>. haec glosa.
         </p>
-        <p>
-          Ex quibus manifes<lb ed="#P" break="no"/>te
+        <p xml:id="lca8s8-d1e460-d1e325">
+          Ex quibus manifes<lb ed="#P" break="no" n="31"/>te
           colligitur, quod illi qui in casu proposito
           <pb ed="#P" n="142-v"/>
-          <lb ed="#P"/>nocentes cum jactura et damno innocentium <add place="margin-right" hand="AB">occidunt</add>
-          <lb ed="#P"/>quos belli procella necessario inuoluet exitio:
-          <lb ed="#P"/>impie faciunt vsurpantes munus quod si<lb ed="#P" break="no"/>bimet
+          <lb ed="#P" n="1"/>nocentes cum jactura et damno innocentium <add place="margin-right" hand="AB">occidunt</add>
+          <lb ed="#P" n="2"/>quos belli procella necessario inuoluet exitio:
+          <lb ed="#P" n="3"/>impie faciunt vsurpantes munus quod si<lb ed="#P" break="no" n="4"/>bimet
           dominus et angelis <seg>reserua<subst hand="AB"><del rend="strikethrough">bit</del><add place="above-line">uit</add></subst></seg>. Ita
-          <lb ed="#P"/>docet <ref><name>Chrisostomus</name> <title>super Matthe.</title> c. 1º. ho<lb ed="#P" break="no"/>mel.
-          1.</ref> non in opere imperfecto <quote>videte (in<lb ed="#P" break="no"/>quit)
+          <lb ed="#P" n="5"/>docet <ref xml:id="lca8s8-d1e460-Rd1e353"><name xml:id="lca8s8-d1e460-Nd1e354">Chrisostomus</name> <title>super Matthe.</title> c. 1º. ho<lb ed="#P" break="no" n="6"/>mel.
+          1.</ref> non in opere imperfecto <quote xml:id="lca8s8-d1e460-Qd1e361">videte (in<lb ed="#P" break="no" n="7"/>quit)
           quam illicitum est vsurpare opus quod
-          <lb ed="#P"/>a deo non est comissum</quote> et caetera. Et <ref><name>S. Thomas</name>
-          <lb ed="#P"/>2a 2ae, q. 108. arº. 1º. ad 1m.</ref> vbi dicitur:
-          <lb ed="#P"/><quote>quod si aliquis preter ordinem diuinae institu<lb ed="#P" break="no"/>tionis
+          <lb ed="#P" n="8"/>a deo non est comissum</quote> et caetera. Et <ref xml:id="lca8s8-d1e460-Rd1e369"><name xml:id="lca8s8-d1e460-Nd1e370">S. Thomas</name>
+          <lb ed="#P" n="9"/>2a 2ae, q. 108. arº. 1º. ad 1m.</ref> vbi dicitur:
+          <lb ed="#P" n="10"/><quote xml:id="lca8s8-d1e460-Qd1e376">quod si aliquis preter ordinem diuinae institu<lb ed="#P" break="no" n="11"/>tionis
           vindictam exerceat, vsurpat sibi quod
-          <lb ed="#P"/>Dei est et deo peccat</quote>. haec ille.
+          <lb ed="#P" n="12"/>Dei est et deo peccat</quote>. haec ille.
         </p>
-        <p>
-          Idem asserit <ref><!--several references in c.e.--><name>Diuus Thomas</name> in diuersis locis</ref> de ea<lb ed="#P" break="no"/>dem
-          parabola disserens: scilicet: <quote>quod domi<lb ed="#P" break="no"/>nus
-          abstinendum mandauit ab erradica<lb ed="#P" break="no"/>tione
-          zizaniorum vt tritico parceret, id est, bo<lb ed="#P" break="no"/>nis:
-          quod quidem fit quoniam non pos<lb ed="#P" break="no"/>sunt
-          occidi mali quin simul occidan<lb ed="#P" break="no"/>tur
+        <p xml:id="lca8s8-d1e460-d1e384">
+          Idem asserit <ref xml:id="lca8s8-d1e460-Rd1e386"><!--several references in c.e.--><name xml:id="lca8s8-d1e460-Nd1e388">Diuus Thomas</name> in diuersis locis</ref> de ea<lb ed="#P" break="no" n="13"/>dem
+          parabola disserens: scilicet: <quote xml:id="lca8s8-d1e460-Qd1e393">quod domi<lb ed="#P" break="no" n="14"/>nus
+          abstinendum mandauit ab erradica<lb ed="#P" break="no" n="15"/>tione
+          zizaniorum vt tritico parceret, id est, bo<lb ed="#P" break="no" n="16"/>nis:
+          quod quidem fit quoniam non pos<lb ed="#P" break="no" n="17"/>sunt
+          occidi mali quin simul occidan<lb ed="#P" break="no" n="18"/>tur
           et boni: vel quia latent inter bonos:
-          <lb ed="#P"/>vel quia habent multos sequaces ita quod
-          <lb ed="#P"/>sine bonorum periculo interfici non pos<lb ed="#P" break="no"/>sunt,
-            vt <ref><name>Augustinus</name> dicit <title>contra Permi<lb ed="#P" break="no"/>nianum <!--Lib. 3, c. 2--></title></ref>,
+          <lb ed="#P" n="19"/>vel quia habent multos sequaces ita quod
+          <lb ed="#P" n="20"/>sine bonorum periculo interfici non pos<lb ed="#P" break="no" n="21"/>sunt,
+            vt <ref xml:id="lca8s8-d1e460-Rd1e412"><name xml:id="lca8s8-d1e460-Nd1e413">Augustinus</name> dicit <title>contra Permi<lb ed="#P" break="no" n="22"/>nianum <!--Lib. 3, c. 2--></title></ref>,
           Vnde dominus docet magis
-          <lb ed="#P"/>esse sinendum malos viuere: et vltionem
-          <lb ed="#P"/>seruandam: vsque ad extremum judicium:
-          <lb ed="#P"/>quam quod boni simul occidantur. Quando
-          <lb ed="#P"/>vero ex occissione malorum non imminet
-          <lb ed="#P"/>periculum bonis: sed magis tutela et salus:
-          <lb ed="#P"/>tunc licite possunt mali occidi</quote>. haec ille
-          <lb ed="#P"/>in forma. <ref>2a 2ae. q. 10, arº. 8º. ad 1m.</ref>
-          <lb ed="#P"/>et <ref>q. 11. arº. 3. ad 3m</ref>. et <ref>q. 64. arº. 2º. ad 1m.</ref>
-          <lb ed="#P"/>et <ref>q. 108. arº. 1º. ad 5m.</ref> et <ref>arº. 3. ad 1m.</ref>
-          <pb ed="#P" n="143-r"/>et <ref>4º. senten. dist. 13. q. 2. arº. 3. ad
-          <lb ed="#P"/>3m.</ref> et <ref>lib. 3. c. 146. in fine contra gen.</ref>
-        <lb ed="#P"/>Et quodlibet. 10. arº. <choice><sic>15. ad 1m.</sic><corr>5 ad 2m.</corr></choice><!--c.e.'s correction, is somewhat strange and confusing: see n721-->
+          <lb ed="#P" n="23"/>esse sinendum malos viuere: et vltionem
+          <lb ed="#P" n="24"/>seruandam: vsque ad extremum judicium:
+          <lb ed="#P" n="25"/>quam quod boni simul occidantur. Quando
+          <lb ed="#P" n="26"/>vero ex occissione malorum non imminet
+          <lb ed="#P" n="27"/>periculum bonis: sed magis tutela et salus:
+          <lb ed="#P" n="28"/>tunc licite possunt mali occidi</quote>. haec ille
+          <lb ed="#P" n="29"/>in forma. <ref xml:id="lca8s8-d1e460-Rd1e437">2a 2ae. q. 10, arº. 8º. ad 1m.</ref>
+          <lb ed="#P" n="30"/>et <ref xml:id="lca8s8-d1e460-Rd1e442">q. 11. arº. 3. ad 3m</ref>. et <ref xml:id="lca8s8-d1e460-Rd1e444">q. 64. arº. 2º. ad 1m.</ref>
+          <lb ed="#P" n="31"/>et <ref xml:id="lca8s8-d1e460-Rd1e448">q. 108. arº. 1º. ad 5m.</ref> et <ref xml:id="lca8s8-d1e460-Rd1e450">arº. 3. ad 1m.</ref>
+          <pb ed="#P" n="143-r"/>et <ref xml:id="lca8s8-d1e460-Rd1e455">4º. senten. dist. 13. q. 2. arº. 3. ad
+          <lb ed="#P" n="1"/>3m.</ref> et <ref xml:id="lca8s8-d1e460-Rd1e460">lib. 3. c. 146. in fine contra gen.</ref>
+        <lb ed="#P" n="2"/>Et quodlibet. 10. arº. <choice><sic>15. ad 1m.</sic><corr>5 ad 2m.</corr></choice><!--c.e.'s correction, is somewhat strange and confusing: see n721-->
         </p>
-        <p>
-          <ref><name>Idem</name> docet
-          <lb ed="#P"/><title>super Matthe.<!--13.19--></title></ref> exponens illam domini
-          <lb ed="#P"/>parabolam vbi quattuor causas reddit hu<lb ed="#P" break="no"/>ius
+        <p xml:id="lca8s8-d1e460-d1e470">
+          <ref xml:id="lca8s8-d1e460-Rd1e472"><name xml:id="lca8s8-d1e460-Nd1e473">Idem</name> docet
+          <lb ed="#P" n="3"/><title>super Matthe.<!--13.19--></title></ref> exponens illam domini
+          <lb ed="#P" n="4"/>parabolam vbi quattuor causas reddit hu<lb ed="#P" break="no" n="5"/>ius
           precepti, scilicet malos non cuellendos
-          <lb ed="#P"/>ne periclitentur pij. Primo propter bonorum
-          <lb ed="#P"/>patientiam exercendam. Secundo quoniam qui
-          <lb ed="#P"/>mali sunt forsan ex zizania conuerten<lb ed="#P" break="no"/>tur
-          in triticum: et impiam vitam detes<lb ed="#P" break="no"/>tantes
+          <lb ed="#P" n="6"/>ne periclitentur pij. Primo propter bonorum
+          <lb ed="#P" n="7"/>patientiam exercendam. Secundo quoniam qui
+          <lb ed="#P" n="8"/>mali sunt forsan ex zizania conuerten<lb ed="#P" break="no" n="9"/>tur
+          in triticum: et impiam vitam detes<lb ed="#P" break="no" n="10"/>tantes
           conuertentur ad dominum: et ex
-          <lb ed="#P"/>lupis agni efficientur quemadmodum
-          <lb ed="#P"/>vidimus in <name>Paulo</name>. Has duas rationes <ref>red<lb ed="#P" break="no"/>didit
+          <lb ed="#P" n="11"/>lupis agni efficientur quemadmodum
+          <lb ed="#P" n="12"/>vidimus in <name xml:id="lca8s8-d1e460-Nd1e499">Paulo</name>. Has duas rationes <ref xml:id="lca8s8-d1e460-Rd1e502">red<lb ed="#P" break="no" n="13"/>didit
           etiam glossa</ref>. Tertio quoniam plures
-          <lb ed="#P"/>videntur impij et tamen impietate vacat
-          <lb ed="#P"/>animus. Quarto quoniam si impius aliquis
-          <lb ed="#P"/>prepotens sit: non potest puniri absque per<lb ed="#P" break="no"/>turbatione
+          <lb ed="#P" n="14"/>videntur impij et tamen impietate vacat
+          <lb ed="#P" n="15"/>animus. Quarto quoniam si impius aliquis
+          <lb ed="#P" n="16"/>prepotens sit: non potest puniri absque per<lb ed="#P" break="no" n="17"/>turbatione
           diuinarum et humanarum rerum
-          <lb ed="#P"/>omnium.<!--c.e. cites Bibliorum Sacrorum una cum Glosa..., Tomus Quintus, Glosa ordi. Marth. c. 13, 29: Lugduni, 1545, 45v.-->
+          <lb ed="#P" n="18"/>omnium.<!--c.e. cites Bibliorum Sacrorum una cum Glosa..., Tomus Quintus, Glosa ordi. Marth. c. 13, 29: Lugduni, 1545, 45v.-->
         </p>
-        <p>
-          Huius sanctissimae doctrinae exem<lb ed="#P" break="no"/>plum
-          prestitit <name>Diuus Ambrosius</name>, qui in
-          <lb ed="#P"/>Theodosium caesarem <seg>alioqui<choice><corr>n</corr></choice></seg> pium acerr<lb ed="#P" break="no"/>ime
-          inuectus est quod irato animo, Thesaloni<lb ed="#P" break="no"/>censium
+        <p xml:id="lca8s8-d1e460-d1e520">
+          Huius sanctissimae doctrinae exem<lb ed="#P" break="no" n="19"/>plum
+          prestitit <name xml:id="lca8s8-d1e460-Nd1e524">Diuus Ambrosius</name>, qui in
+          <lb ed="#P" n="20"/>Theodosium caesarem <seg>alioqui<choice><corr>n</corr></choice></seg> pium acerr<lb ed="#P" break="no" n="21"/>ime
+          inuectus est quod irato animo, Thesaloni<lb ed="#P" break="no" n="22"/>censium
           populum quaesito colore congregari
-          <lb ed="#P"/>in forum jussit: et quod judicem a se missum
-          <lb ed="#P"/>occidissent promiscue nocentes et innocen<lb ed="#P" break="no"/>tes
-          trucidari jussit, quod legimus <ref><name>historiae
-          <lb ed="#P"/>ecclesiasticae<!--c.e. n. 724: not Eusebius, but AURELIO CASSIODORO, Historia Tripartita, lib. 9, c. 30: PL 69, p. 1.145; cf cc. 1.144–1.147; lib. 11, c. 18: PL 69, pp. 1.200-1.203--></name> lib. 11º. c. <choice><sic>18</sic><corr>13</corr></choice>.</ref> <ref><title>latius lib.</title> 9.
-          <lb ed="#P"/>c. 30</ref>. in <quote>tripartita Thesalonica ciuitas (in<lb ed="#P" break="no"/>quit)
+          <lb ed="#P" n="23"/>in forum jussit: et quod judicem a se missum
+          <lb ed="#P" n="24"/>occidissent promiscue nocentes et innocen<lb ed="#P" break="no" n="25"/>tes
+          trucidari jussit, quod legimus <ref xml:id="lca8s8-d1e460-Rd1e544"><name xml:id="lca8s8-d1e460-Nd1e545">historiae
+          <lb ed="#P" n="26"/>ecclesiasticae<!--c.e. n. 724: not Eusebius, but AURELIO CASSIODORO, Historia Tripartita, lib. 9, c. 30: PL 69, p. 1.145; cf cc. 1.144–1.147; lib. 11, c. 18: PL 69, pp. 1.200-1.203--></name> lib. 11º. c. <choice><sic>18</sic><corr>13</corr></choice>.</ref> <ref xml:id="lca8s8-d1e460-Rd1e556"><title>latius lib.</title> 9.
+          <lb ed="#P" n="27"/>c. 30</ref>. in <quote xml:id="lca8s8-d1e460-Qd1e563">tripartita Thesalonica ciuitas (in<lb ed="#P" break="no" n="28"/>quit)
           est grandis et populosa in qua dum
-          <lb ed="#P"/>fuisset seditio quidam Judicum lapida<lb ed="#P" break="no"/>ti
+          <lb ed="#P" n="29"/>fuisset seditio quidam Judicum lapida<lb ed="#P" break="no" n="30"/>ti
           sunt atque trucidati. Hinc indignatus
           <pb ed="#P" n="143-v"/>
-          <lb ed="#P"/>Theodosius iracundiae non refrenauit in<lb ed="#P" break="no"/>firmitatem:
-          sed jussit injustos gladios su<lb ed="#P" break="no"/>per
-          omnes euaginari, et vna cum nocenti<lb ed="#P" break="no"/>bus
+          <lb ed="#P" n="1"/>Theodosius iracundiae non refrenauit in<lb ed="#P" break="no" n="2"/>firmitatem:
+          sed jussit injustos gladios su<lb ed="#P" break="no" n="3"/>per
+          omnes euaginari, et vna cum nocenti<lb ed="#P" break="no" n="4"/>bus
           innocentes interimi, septem millia etiam
-          <lb ed="#P"/>hominum sic fertur occisi sunt</quote> et caetera. haec illa.
+          <lb ed="#P" n="5"/>hominum sic fertur occisi sunt</quote> et caetera. haec illa.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e460-d1e586">
           In casu autem nostro non septem millia
-          <lb ed="#P"/>sed septuaginta millia: immo septem homi<lb ed="#P" break="no"/>num
+          <lb ed="#P" n="6"/>sed septuaginta millia: immo septem homi<lb ed="#P" break="no" n="7"/>num
           centum miriades, necessarium est
-          <lb ed="#P"/>occidere: inter quos fortassis fere omnes
-          <lb ed="#P"/>coram deo innocentissimi sunt saltem
-          <lb ed="#P"/>eorum criminum quorum ratione existimamus
-          <lb ed="#P"/>bellum esse justum (scilicet) immolandi
-          <lb ed="#P"/>infantes et comedendi humanas carnes.
-          <lb ed="#P"/>Rursus hec veritas ex jureconsultorum de<lb ed="#P" break="no"/>cretis
-          probatur. Legimus enim in <ref>.l. ab<lb ed="#P" break="no"/>sentem,
-          .ff de penis vbi dicit</ref> <add place="margin-left" hand="A">Statius</add> <quote><choice><sic>Statius</sic> <corr>Satius</corr></choice>. 1º.<!--c.e. expands to "id est"-->
-          <lb ed="#P"/>melius (aliqui dicunt sanctius) est im<lb ed="#P" break="no"/>punitum
+          <lb ed="#P" n="8"/>occidere: inter quos fortassis fere omnes
+          <lb ed="#P" n="9"/>coram deo innocentissimi sunt saltem
+          <lb ed="#P" n="10"/>eorum criminum quorum ratione existimamus
+          <lb ed="#P" n="11"/>bellum esse justum (scilicet) immolandi
+          <lb ed="#P" n="12"/>infantes et comedendi humanas carnes.
+          <lb ed="#P" n="13"/>Rursus hec veritas ex jureconsultorum de<lb ed="#P" break="no" n="14"/>cretis
+          probatur. Legimus enim in <ref xml:id="lca8s8-d1e460-Rd1e607">.l. ab<lb ed="#P" break="no" n="15"/>sentem,
+          .ff de penis vbi dicit</ref> <add place="margin-left" hand="A">Statius</add> <quote xml:id="lca8s8-d1e460-Qd1e616"><choice><sic>Statius</sic> <corr>Satius</corr></choice>. 1º.<!--c.e. expands to "id est"-->
+          <lb ed="#P" n="16"/>melius (aliqui dicunt sanctius) est im<lb ed="#P" break="no" n="17"/>punitum
           reliqui facinus nocentis: quam
-          <lb ed="#P"/>innocentem damnari</quote>.
+          <lb ed="#P" n="18"/>innocentem damnari</quote>.
         </p>
-        <p>
-          Vbi dicit <ref><!--c.e. cites Bartolo de SAXOFERRATO, ln Secundam Digesti Noui Partem, Ad librum 48 Digest., tit. 19 “De Poenis”, lex 5* "Absentem" (Lugduni, 1581, fol. 185v)-->Bartho<lb ed="#P" break="no"/>lus</ref>
-          quod si liquet judici quem non comisis<lb ed="#P" break="no"/>se
-          delictum vel eum non comisisse delic<lb ed="#P" break="no"/>tum
+        <p xml:id="lca8s8-d1e460-d1e633">
+          Vbi dicit <ref xml:id="lca8s8-d1e460-Rd1e635"><!--c.e. cites Bartolo de SAXOFERRATO, ln Secundam Digesti Noui Partem, Ad librum 48 Digest., tit. 19 “De Poenis”, lex 5* "Absentem" (Lugduni, 1581, fol. 185v)-->Bartho<lb ed="#P" break="no" n="19"/>lus</ref>
+          quod si liquet judici quem non comisis<lb ed="#P" break="no" n="20"/>se
+          delictum vel eum non comisisse delic<lb ed="#P" break="no" n="21"/>tum
           vel eum non esse culpabilem: judex
-          <lb ed="#P"/>non potest condemnare eum etiam ex vera
-          <lb ed="#P"/>sua confessione ut <ref>l. inde Neratius in
-          <lb ed="#P"/>fi.</ref> et <ref>.l. sequen. ff. ad l. aquil.</ref> Et hoc
-          <lb ed="#P"/>est quod dicitur <quote>judicem debere querere
-          <lb ed="#P"/>defensionem rei</quote> ut <ref><!--c.e. for this and the next: "No está clara la referencia que Las Casas hace al Digestum, lib. 48, tit. 18 “De quaestionibus". Lex 92 al final; quizás se refiera a la Lex 72"-->.ff. de quaestio. l. <choice><sic>1</sic><corr>9</corr></choice>. in
-          <lb ed="#P"/>fi.</ref> et <ref>l. si non defendatur .ff. de poenis</ref>.
-          <lb ed="#P"/>Idem intelligitur quando de culpa dubi<lb ed="#P" break="no"/>tatur.
+          <lb ed="#P" n="22"/>non potest condemnare eum etiam ex vera
+          <lb ed="#P" n="23"/>sua confessione ut <ref xml:id="lca8s8-d1e460-Rd1e650">l. inde Neratius in
+          <lb ed="#P" n="24"/>fi.</ref> et <ref xml:id="lca8s8-d1e460-Rd1e655">.l. sequen. ff. ad l. aquil.</ref> Et hoc
+          <lb ed="#P" n="25"/>est quod dicitur <quote xml:id="lca8s8-d1e460-Qd1e659">judicem debere querere
+          <lb ed="#P" n="26"/>defensionem rei</quote> ut <ref xml:id="lca8s8-d1e460-Rd1e664"><!--c.e. for this and the next: "No está clara la referencia que Las Casas hace al Digestum, lib. 48, tit. 18 “De quaestionibus". Lex 92 al final; quizás se refiera a la Lex 72"-->.ff. de quaestio. l. <choice><sic>1</sic><corr>9</corr></choice>. in
+          <lb ed="#P" n="27"/>fi.</ref> et <ref xml:id="lca8s8-d1e460-Rd1e674">l. si non defendatur .ff. de poenis</ref>.
+          <lb ed="#P" n="28"/>Idem intelligitur quando de culpa dubi<lb ed="#P" break="no" n="29"/>tatur.
         </p>
-        <p>
-          Sic etiam inquit <ref>Chrisostomus
-          <lb ed="#P"/>super Mattheum .c. 1º, homel. 1a. in opere
+        <p xml:id="lca8s8-d1e460-d1e682">
+          Sic etiam inquit <ref xml:id="lca8s8-d1e460-Rd1e684">Chrisostomus
+          <lb ed="#P" n="30"/>super Mattheum .c. 1º, homel. 1a. in opere
           <pb ed="#P" n="144-r"/>
-          <lb ed="#P"/>imperfecto</ref>. <quote>In re (ait) incerta melius est vt
-          <lb ed="#P"/>meretrix constituta euadat: quam vt innocens
-          <lb ed="#P"/>moriatur. Justius enim est injustum juste
-          <lb ed="#P"/>euadere: quam justum injuste perire. Quia et<lb ed="#P" break="no"/>si
+          <lb ed="#P" n="1"/>imperfecto</ref>. <quote xml:id="lca8s8-d1e460-Qd1e693">In re (ait) incerta melius est vt
+          <lb ed="#P" n="2"/>meretrix constituta euadat: quam vt innocens
+          <lb ed="#P" n="3"/>moriatur. Justius enim est injustum juste
+          <lb ed="#P" n="4"/>euadere: quam justum injuste perire. Quia et<lb ed="#P" break="no" n="5"/>si
           reus semel euaserit iterum potest perire:
-          <lb ed="#P"/>innocens autem si semel perierit: jam non po<lb ed="#P" break="no"/>test
+          <lb ed="#P" n="6"/>innocens autem si semel perierit: jam non po<lb ed="#P" break="no" n="7"/>test
           reuocari</quote> haec Chrisostomus.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e460-d1e710">
           Ex his
-          <lb ed="#P"/>verbis chrisostomi vides nostram senten<lb ed="#P" break="no"/>tiam
-          esse verissimam peccatumque esse eter<lb ed="#P" break="no"/>na
-          morte dignum: affligere et occidere in<lb ed="#P" break="no"/>nocentes
+          <lb ed="#P" n="8"/>verbis chrisostomi vides nostram senten<lb ed="#P" break="no" n="9"/>tiam
+          esse verissimam peccatumque esse eter<lb ed="#P" break="no" n="10"/>na
+          morte dignum: affligere et occidere in<lb ed="#P" break="no" n="11"/>nocentes
           vt nocentes puniantur quod contra
-          <lb ed="#P"/>justitiam est. Item sumo pere cauendum
-          <lb ed="#P"/>est ne pretextu nocentis innocens punia<lb ed="#P" break="no"/>tur,
-          ut in <ref><!--Codex lustinianus, lib. 9, c. 39-->l. 2. in fi. c. de his qui la<lb ed="#P" break="no"/>tro
-          occul.</ref> Ubi dicit <ref>Baldus</ref>: quod nec inno<lb ed="#P" break="no"/>centes
-          debent capi nec grauari in sumpti<lb ed="#P" break="no"/>bus
-          nec in aliquo alio. Allegat <ref>l. .1. §.
-          <lb ed="#P"/>tribuni eo titulo</ref>. Idem ait quod qui facit
-          <lb ed="#P"/>aliquem capi qui postea apparet innocens,
-          <lb ed="#P"/>debet postea puniri ad similitudinem su<lb ed="#P" break="no"/>ppliciij:
-          et sic inquit: <quote>per hoc fuit decapi<lb ed="#P" break="no"/>tatus
+          <lb ed="#P" n="12"/>justitiam est. Item sumo pere cauendum
+          <lb ed="#P" n="13"/>est ne pretextu nocentis innocens punia<lb ed="#P" break="no" n="14"/>tur,
+          ut in <ref xml:id="lca8s8-d1e460-Rd1e727"><!--Codex lustinianus, lib. 9, c. 39-->l. 2. in fi. c. de his qui la<lb ed="#P" break="no" n="15"/>tro
+          occul.</ref> Ubi dicit <ref xml:id="lca8s8-d1e460-Rd1e733">Baldus</ref>: quod nec inno<lb ed="#P" break="no" n="16"/>centes
+          debent capi nec grauari in sumpti<lb ed="#P" break="no" n="17"/>bus
+          nec in aliquo alio. Allegat <ref xml:id="lca8s8-d1e460-Rd1e740">l. .1. §.
+          <lb ed="#P" n="18"/>tribuni eo titulo</ref>. Idem ait quod qui facit
+          <lb ed="#P" n="19"/>aliquem capi qui postea apparet innocens,
+          <lb ed="#P" n="20"/>debet postea puniri ad similitudinem su<lb ed="#P" break="no" n="21"/>ppliciij:
+          et sic inquit: <quote xml:id="lca8s8-d1e460-Qd1e751">per hoc fuit decapi<lb ed="#P" break="no" n="22"/>tatus
           quidam Perusij quod nota</quote>. Haec Baldus.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e460-d1e757">
           Facit etiam quia non debet alteri
-          <lb ed="#P"/>per alterum iniqua conditio afferri. <ref>ff. de
-          <lb ed="#P"/>regul. jur. l. nemo debet</ref>. Et pena suos
-          <lb ed="#P"/>solum debet tenere autores .<ref><!--long note with various sources in c.e.-->l. sanctimus<!--c.e. corrects to Sancimus-->
-          <lb ed="#P"/>C. de penis. l. si pena. ff. eo titulo .l. ab
-          <lb ed="#P"/>maritorum C. ne vxor pro marito</ref>, et <ref>c. illud
-          <lb ed="#P"/>.11. q. 3</ref>. et <ref>c. Romana. de sen. excommunicationis.
-          <lb ed="#P"/>lib. 6</ref>. et <ref>c. Placuit</ref>, et <ref>c. crimen</ref>, et <ref>c.
-          <lb ed="#P"/>nullius</ref>. et <ref>c. judaei. 1. q. 4</ref>. et <ref>c. peruenit.
+          <lb ed="#P" n="23"/>per alterum iniqua conditio afferri. <ref xml:id="lca8s8-d1e460-Rd1e761">ff. de
+          <lb ed="#P" n="24"/>regul. jur. l. nemo debet</ref>. Et pena suos
+          <lb ed="#P" n="25"/>solum debet tenere autores .<ref xml:id="lca8s8-d1e460-Rd1e768"><!--long note with various sources in c.e.-->l. sanctimus<!--c.e. corrects to Sancimus-->
+          <lb ed="#P" n="26"/>C. de penis. l. si pena. ff. eo titulo .l. ab
+          <lb ed="#P" n="27"/>maritorum C. ne vxor pro marito</ref>, et <ref xml:id="lca8s8-d1e460-Rd1e778">c. illud
+          <lb ed="#P" n="28"/>.11. q. 3</ref>. et <ref xml:id="lca8s8-d1e460-Rd1e784">c. Romana. de sen. excommunicationis.
+          <lb ed="#P" n="29"/>lib. 6</ref>. et <ref xml:id="lca8s8-d1e460-Rd1e789">c. Placuit</ref>, et <ref xml:id="lca8s8-d1e460-Rd1e791">c. crimen</ref>, et <ref xml:id="lca8s8-d1e460-Rd1e793">c.
+          <lb ed="#P" n="30"/>nullius</ref>. et <ref xml:id="lca8s8-d1e460-Rd1e798">c. judaei. 1. q. 4</ref>. et <ref xml:id="lca8s8-d1e460-Rd1e800">c. peruenit.
           <pb ed="#P" n="144-v"/>
-          <lb ed="#P"/>de his quae fi. Amaso<!--c.e. corrects to "Maiore", with a very long explanatory note--> par. cap</ref>.
+          <lb ed="#P" n="1"/>de his quae fi. Amaso<!--c.e. corrects to "Maiore", with a very long explanatory note--> par. cap</ref>.
         </p>
-        <p>
+        <p xml:id="lca8s8-d1e460-d1e810">
           ¶ Idem
-          <lb ed="#P"/>probat ex <ref>decretis canonicis in c. denique
-          <lb ed="#P"/>.14. q. 5</ref>. vbi inquit <name>Ambrosius</name>: <quote>denique
-          <lb ed="#P"/>si non potest subueniri alteri nisi alter le<lb ed="#P" break="no"/>datur:
+          <lb ed="#P" n="2"/>probat ex <ref xml:id="lca8s8-d1e460-Rd1e814">decretis canonicis in c. denique
+          <lb ed="#P" n="3"/>.14. q. 5</ref>. vbi inquit <name xml:id="lca8s8-d1e460-Nd1e819">Ambrosius</name>: <quote xml:id="lca8s8-d1e460-Qd1e821">denique
+          <lb ed="#P" n="4"/>si non potest subueniri alteri nisi alter le<lb ed="#P" break="no" n="5"/>datur:
           commodius est nevtrum juuari
-          <lb ed="#P"/>quam grauari alterum</quote>, et caetera. Vbi dicit <ref><name>Archi<lb ed="#P" break="no"/>diachonus</name>.</ref>
-          et in <ref>.c. ipsa pietas. 23. q.
-          <lb ed="#P"/>4</ref>. quod nemo debet alteri impendere auxi<lb ed="#P" break="no"/>lium
+          <lb ed="#P" n="6"/>quam grauari alterum</quote>, et caetera. Vbi dicit <ref xml:id="lca8s8-d1e460-Rd1e830"><name xml:id="lca8s8-d1e460-Nd1e831">Archi<lb ed="#P" break="no" n="7"/>diachonus</name>.</ref>
+          et in <ref xml:id="lca8s8-d1e460-Rd1e838">.c. ipsa pietas. 23. q.
+          <lb ed="#P" n="8"/>4</ref>. quod nemo debet alteri impendere auxi<lb ed="#P" break="no" n="9"/>lium
           ex quo directe et necessario sequatur
-          <lb ed="#P"/>alterius nocumentum: et merito quia nul<lb ed="#P" break="no"/>li
+          <lb ed="#P" n="10"/>alterius nocumentum: et merito quia nul<lb ed="#P" break="no" n="11"/>li
           est consulendum cum alterius jactura
-          <lb ed="#P"/>vel injuria vt in <ref>c. primum</ref> ibi <quote>non est men<lb ed="#P" break="no"/>tiendum
-          tertio genere</quote> et caetera <ref>22. q. 2</ref>. et
-          <lb ed="#P"/><ref>11. q. 3. si quis vero</ref>. Et in regula <ref>locu<lb ed="#P" break="no"/>plectari
+          <lb ed="#P" n="12"/>vel injuria vt in <ref xml:id="lca8s8-d1e460-Rd1e851">c. primum</ref> ibi <quote xml:id="lca8s8-d1e460-Qd1e854">non est men<lb ed="#P" break="no" n="13"/>tiendum
+          tertio genere</quote> et caetera <ref xml:id="lca8s8-d1e460-Rd1e859">22. q. 2</ref>. et
+          <lb ed="#P" n="14"/><ref xml:id="lca8s8-d1e460-Rd1e862">11. q. 3. si quis vero</ref>. Et in regula <ref xml:id="lca8s8-d1e460-Rd1e864">locu<lb ed="#P" break="no" n="15"/>plectari
           non debet aliquis cum alterius</ref>
-        <lb ed="#P"/>et caetera. Et .<ref>l. jure nature. ff. de regu. jur.</ref>
-        <lb ed="#P"/>vbi dicit textus <quote>jure naturae aequum est
-        <lb ed="#P"/>neminem cum alterius detrimento et inju<lb ed="#P" break="no"/>ria:
+        <lb ed="#P" n="16"/>et caetera. Et .<ref xml:id="lca8s8-d1e460-Rd1e872">l. jure nature. ff. de regu. jur.</ref>
+        <lb ed="#P" n="17"/>vbi dicit textus <quote xml:id="lca8s8-d1e460-Qd1e876">jure naturae aequum est
+        <lb ed="#P" n="18"/>neminem cum alterius detrimento et inju<lb ed="#P" break="no" n="19"/>ria:
         fieri locuplectiorem</quote>.
         </p>
 	    </div>

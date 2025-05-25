@@ -61,32 +61,35 @@
           <lb ed="#P" n="5"/>Genesium Sepu<lb ed="#P" break="no" n="6"/>luedam 
           Theolo<lb ed="#P" break="no" n="7"/>gum 
           cordu<lb ed="#P" break="no" n="8"/>bensem
+          <lb ed="#P" n="9"/><!-- line coord error -->
         </p>
         <p xml:id="lca8s8-d1e05-d1e121">
-          <lb ed="#P" n="9"/><pc type="pilcrow"/> Anno a partu virginis millessimo quin<lb ed="#P" break="no" n="10"/>gentessimo 
-          quadragessimo secundo Carolus Cae<lb ed="#P" break="no" n="11"/>sar 
-          hyspaniarum Rex sempiterna homi<lb ed="#P" break="no" n="12"/>num 
+          <lb ed="#P" n="10"/><pc type="pilcrow"/> Anno a partu virginis millessimo quin<lb ed="#P" break="no" n="11"/>gentessimo 
+          quadragessimo secundo Carolus Cae<lb ed="#P" break="no" n="12"/>sar 
+          hyspaniarum Rex sempiterna homi<lb ed="#P" break="no" n="13"/>num 
           memoria dignus, edoctus <pc type="virgula">/</pc> hyspanos 
-          cordibus <pc type="virgula">/</pc> violentia <pc type="virgula">/</pc> Tyranide longe lateque gras<lb ed="#P" break="no" n="13"/>sari 
-          <add place="margin-right">per Indias</add> seruitute premere maximisque incommo<lb ed="#P" break="no" n="14"/>dis 
+          <lb ed="#P" n="14"/>cordibus <pc type="virgula">/</pc> violentia <pc type="virgula">/</pc> Tyranide longe lateque gras<lb ed="#P" break="no" n="15"/>sari 
+          <add place="margin-right">per Indias</add> seruitute premere maximisque incommo<lb ed="#P" break="no" n="16"/>dis 
           afficere indos occeani maris acolas: qui 
-          <lb ed="#P" n="15"/>Romani pontificis decreto ad imperium su<lb ed="#P" break="no" n="16"/>premum 
-          castilliae et legionis pertinent: solem<lb ed="#P" break="no" n="17"/>ne 
-          quoddam concilium Pintiae siue Valiso<lb ed="#P" break="no" n="18"/>leti 
-          indixit, <seg type="correction">aduocat<del rend="strikethrough">o</del><add place="above-line">is quibusdam</add></seg> ex omni senatu lectis<lb ed="#P" break="no" n="19"/>simo, 
+          <lb ed="#P" n="17"/>Romani pontificis decreto ad imperium su<lb ed="#P" break="no" n="18"/>premum 
+          castilliae et legionis pertinent: solem<lb ed="#P" break="no" n="19"/>ne
+          <lb ed="#P" n="20"/><!-- line coord error -->
+          quoddam concilium Pintiae siue Valiso<lb ed="#P" break="no" n="21"/>leti 
+          indixit, <seg type="correction">aduocat<del rend="strikethrough">o</del><add place="above-line">is quibusdam</add></seg> ex omni senatu lectis<lb ed="#P" break="no" n="22"/>simo, 
           ac doctissimo quoque: his iniunxit ut 
-          <lb ed="#P" n="20"/>cognoscerent an atrocia illa quae ad se delata 
-          <lb ed="#P" n="21"/>fuissent, vera essent, utque opportune remedium 
-          <lb ed="#P" n="22"/>excogitarent quo tantis malis obuiam iretur:
-          <lb ed="#P" n="23"/>ita ut indi pristinae suae libertati restitueren<lb ed="#P" break="no" n="24"/>tur 
-          simulque nouus ille orbis salutaribus le<lb ed="#P" break="no" n="25"/>gibus 
+          <lb ed="#P" n="23"/>cognoscerent an atrocia illa quae ad se delata 
+          <lb ed="#P" n="24"/>fuissent, vera essent, utque opportune remedium 
+          <lb ed="#P" n="25"/>excogitarent quo tantis malis obuiam iretur:
+          <lb ed="#P" n="26"/>ita ut indi pristinae suae libertati restitueren<lb ed="#P" break="no" n="27"/>tur 
+          simulque nouus ille orbis salutaribus le<lb ed="#P" break="no" n="28"/>gibus 
           ac prudentibus institutis compositus 
-          <lb ed="#P" n="26"/>in posterum gubernaretur.
+          <lb ed="#P" n="29"/>in posterum gubernaretur.
         </p>
         <p xml:id="lca8s8-d1e05-d1e183">
           De hac re per 
-          <lb ed="#P" n="27"/>plures dies magnis est disputationibus agi<lb ed="#P" break="no" n="28"/>tatum, 
+          <lb ed="#P" n="30"/>plures dies magnis est disputationibus agi<lb ed="#P" break="no" n="31"/>tatum, 
           ac denique leges quaedam sancitae sunt 
+          <lb ed="#P" n="32"/><!-- line coord error -->
           <pb ed="#P" n="1-v"/>
           <lb ed="#P" n="1"/>quibus hyspaniorum bellicae expeditiones 
           <lb ed="#P" n="2"/>aduersus indos quas conquistas vulgo ap<lb ed="#P" break="no" n="3"/>pellauerant 
@@ -110,22 +113,22 @@
           Haec res vehementer pupugit animos 
           <lb ed="#P" n="12"/>hyspanorum quibus indi preda opima erant 
           <lb ed="#P" n="13"/>et quorum facultates / violentiis rapinis, et 
-          indorum direptione crescebant, indignabun<lb ed="#P" break="no" n="14"/>dique 
+          <lb ed="#P" n="14"/>indorum direptione crescebant, indignabun<lb ed="#P" break="no" n="15"/>dique 
           et irato animo frementes deplorabant 
-          <lb ed="#P" n="15"/>a caesare<del rend="strikethrough">m</del> sese facultatibus propriis spoliar<subst><add place="in-line">i</add><del rend="strikethrough">e</del></subst> 
-          <lb ed="#P" n="16"/>ac si non predones sacrilega preda: sed legi<lb ed="#P" break="no" n="17"/>timos 
-          rerum dominos <seg type="correction">iusta<!--corrected somehow--></seg> rerum posses<lb ed="#P" break="no" n="18"/>sione 
+          <lb ed="#P" n="16"/>a caesare<del rend="strikethrough">m</del> sese facultatibus propriis spoliar<subst><add place="in-line">i</add><del rend="strikethrough">e</del></subst> 
+          <lb ed="#P" n="17"/>ac si non predones sacrilega preda: sed legi<lb ed="#P" break="no" n="18"/>timos 
+          rerum dominos <seg type="correction">iusta<!--corrected somehow--></seg> rerum posses<lb ed="#P" break="no" n="19"/>sione 
           deturbaret. Ut nonnulli nullum non 
-          <lb ed="#P" n="19"/>lapidem mouentes: quo suis rebus consule<lb ed="#P" break="no" n="20"/>rent 
-          impudenter a caesare defecerint aduer<lb ed="#P" break="no" n="21"/>sus 
-          caesarem rebellarint. Alii ad viros do<lb ed="#P" break="no" n="22"/>ctrinae 
-          opinione claros confugerint, ut soli<lb ed="#P" break="no" n="23"/>dis
-          iuris argumentis caesareas constitutio<lb ed="#P" break="no" n="24"/>nes 
+          <lb ed="#P" n="20"/>lapidem mouentes: quo suis rebus consule<lb ed="#P" break="no" n="21"/>rent 
+          impudenter a caesare defecerint aduer<lb ed="#P" break="no" n="22"/>sus 
+          caesarem rebellarint. Alii ad viros do<lb ed="#P" break="no" n="23"/>ctrinae 
+          opinione claros confugerint, ut soli<lb ed="#P" break="no" n="24"/>dis
+          iuris argumentis caesareas constitutio<lb ed="#P" break="no" n="25"/>nes 
           oppugnarent, ut tandem Caesar, legum
-          <lb ed="#P" n="25"/>iniquitate permotus vel aboleret: vel saltem 
-          <lb ed="#P" n="26"/>suspenderet earum obseruationem, ut in ali<lb ed="#P" break="no" n="27"/>quibus 
+          <lb ed="#P" n="26"/>iniquitate permotus vel aboleret: vel saltem 
+          <lb ed="#P" n="27"/>suspenderet earum obseruationem, ut in ali<lb ed="#P" break="no" n="28"/>quibus 
           earum factum est: non quod non essent 
-          <lb ed="#P" n="28"/>aequissimae iustissimaeque: sed quod cognita rebel<lb ed="#P" break="no" n="29"/>lione 
+          <lb ed="#P" n="29"/>aequissimae iustissimaeque: sed quod cognita rebel<lb ed="#P" break="no" n="30"/>lione 
           a proditoribus illis maius aliquod malum 
           <pb ed="#P" n="2-r"/>
           <lb ed="#P" n="1"/>ac atrocior seditio timeretur.
@@ -176,22 +179,23 @@
           <lb ed="#P" n="8"/>opusculum illud a Genesio conscriptum fuis<lb ed="#P" break="no" n="9"/>se, 
           et in eius manus venisset compendium 
           <lb ed="#P" n="10"/>eius operis hyspanice descriptum: (latinum
-          enim <seg type="correction">codice<add place="in-line">m</add></seg> tum temporis <del rend="strikethrough">copiam</del> habere 
-          <lb ed="#P" n="11"/>non potuit), intelligens quae esset opinio genesii: apologiam sequentem elucubra<lb ed="#P" break="no" n="12"/>uit 
-          in eos indorum qui pacifice absque al<lb ed="#P" break="no" n="13"/>terius 
-          nationis degebant iniuria inuaso<lb ed="#P" break="no" n="14"/>res 
-          oppressoresque: qui indos oppressos de<lb ed="#P" break="no" n="15"/>tinent
-          et ad mortem adigunt: cupiens il<lb ed="#P" break="no" n="16"/>los 
-          ab omni iniuria tueri defendereque. Apo<lb ed="#P" break="no" n="17"/>logiam
+          <lb ed="#P" n="11"/>enim <seg type="correction">codice<add place="in-line">m</add></seg> tum temporis <del rend="strikethrough">copiam</del> habere 
+          <lb ed="#P" n="12"/>non potuit), intelligens quae esset opinio 
+          <lb ed="#P" n="13"/>genesii: apologiam sequentem elucubra<lb ed="#P" break="no" n="14"/>uit 
+          in eos indorum qui pacifice absque al<lb ed="#P" break="no" n="15"/>terius 
+          nationis degebant iniuria inuaso<lb ed="#P" break="no" n="16"/>res 
+          oppressoresque: qui indos oppressos de<lb ed="#P" break="no" n="17"/>tinent
+          et ad mortem adigunt: cupiens il<lb ed="#P" break="no" n="18"/>los 
+          ab omni iniuria tueri defendereque. Apo<lb ed="#P" break="no" n="19"/>logiam
           autem dicauit Serenissimo principi 
-          <lb ed="#P" n="18"/>nostro philipo tum temporis huius regni gu<lb ed="#P" break="no" n="19"/>bernationi
-          ab inuictissimo Caesare Caro<lb ed="#P" break="no" n="20"/>lo 
+          <lb ed="#P" n="20"/>nostro philipo tum temporis huius regni gu<lb ed="#P" break="no" n="21"/>bernationi
+          ab inuictissimo Caesare Caro<lb ed="#P" break="no" n="22"/>lo 
           patre cum imperio prefecto. Continebat 
-          <lb ed="#P" n="21"/>apologia responsionem ad quatuor causas 
-          <lb ed="#P" n="22"/>quibus Sepulueda tuebatur eas hyspanorum 
-          <lb ed="#P" n="23"/>expeditiones et assignationes quarum ti<lb ed="#P" break="no" n="24"/>tulo 
+          <lb ed="#P" n="23"/>apologia responsionem ad quatuor causas 
+          <lb ed="#P" n="24"/>quibus Sepulueda tuebatur eas hyspanorum 
+          <lb ed="#P" n="25"/>expeditiones et assignationes quarum ti<lb ed="#P" break="no" n="26"/>tulo 
           indos seruitute premebant. Cum autem 
-          <lb ed="#P" n="25"/>Episcopus Sepuluedam Compluti confutas<lb ed="#P" break="no" n="26"/>set 
+          <lb ed="#P" n="27"/>Episcopus Sepuluedam Compluti confutas<lb ed="#P" break="no" n="28"/>set 
           totaque illa celebris academia Sepuluedae
           <pb ed="#P" n="3-r"/>
           <lb ed="#P" n="1"/>opinionem damnasset ceu parum sanam: vetans 

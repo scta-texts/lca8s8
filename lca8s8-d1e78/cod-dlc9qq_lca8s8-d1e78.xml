@@ -183,11 +183,12 @@
           <lb ed="#P" n="24"/>plurimos esse ut (<name xml:id="lca8s8-d1e78-Nd1e477">Aristotelis</name> dogmata sequens) 
           <lb ed="#P" n="25"/>in illos sacuum carnificem agat, ut illos serui<lb ed="#P" break="no" n="26"/>tute
           premat, et de eis ditescat: tyranus est 
-          <lb ed="#P" n="27"/>non christianus: filius sathanae, non dei, pre<lb ed="#P" break="no" n="28"/>do
+          <lb ed="#P" n="27"/><!-- line coord error -->
+          <lb ed="#P" n="28"/>non christianus: filius sathanae, non dei, pre<lb ed="#P" break="no" n="29"/>do
           est non pastor: ducitur spiritu diabolico 
-          <lb ed="#P" n="29"/>non spiritu coelesti. Si indos quaeritis ut blan<lb ed="#P" break="no" n="30"/>de,
+          <lb ed="#P" n="30"/>non spiritu coelesti. Si indos quaeritis ut blan<lb ed="#P" break="no" n="31"/>de,
           ut modeste ut leniter ut humaniter denique 
-          <lb ed="#P" n="31"/>ut christiane instruatis: illos verbo dei, et ope
+          <lb ed="#P" n="32"/>ut christiane instruatis: illos verbo dei, et ope
           <pb ed="#P" n="21-v"/>
           <lb ed="#P" n="1"/>adducatis ad ouile christi: infigentes mentibus 
           <lb ed="#P" n="2"/>illorum christum illum mitissimum: apostoli<lb ed="#P" break="no" n="3"/>cum
@@ -203,21 +204,22 @@
             <lb ed="#P" n="12"/>onus meum leue</quote>. Vos onera importabilia 
           <lb ed="#P" n="13"/>imponitis et qui vita caecis lumen ign<lb ed="#P" break="no" n="14"/>orantibus
           esse debuistis absumitis creatu<lb ed="#P" break="no" n="15"/>ras
-          dei. Audite <ref xml:id="lca8s8-d1e78-Rd1e550"><name xml:id="lca8s8-d1e78-Nd1e551">Dionysium</name> in <title>Epistola ad Demophilum monachum</title></ref>: <quote xml:id="lca8s8-d1e78-Qd1e555">Doceri quippe 
-            <lb ed="#P" n="16"/>ignaros decet, non suppliciis affici, sicuti 
-            <lb ed="#P" n="17"/>et caecos non cruciamus sed ad manum du<lb ed="#P" break="no" n="18"/>cimus</quote>.
+          dei. Audite <ref xml:id="lca8s8-d1e78-Rd1e550"><name xml:id="lca8s8-d1e78-Nd1e551">Dionysium</name> in <title>Epistola 
+            <lb ed="#P" n="16"/>ad Demophilum monachum</title></ref>: <quote xml:id="lca8s8-d1e78-Qd1e555">Doceri quippe 
+            <lb ed="#P" n="17"/>ignaros decet, non suppliciis affici, sicuti 
+            <lb ed="#P" n="18"/>et caecos non cruciamus sed ad manum du<lb ed="#P" break="no" n="19"/>cimus</quote>.
           Et <ref xml:id="lca8s8-d1e78-Rd1e564"><name xml:id="lca8s8-d1e78-Nd1e565">paulo</name> infra</ref>: <quote xml:id="lca8s8-d1e78-Qd1e568">hoc igitur ingentis 
-            <lb ed="#P" n="19"/>borroris est quod <subst hand="B"><del rend="strikethrough">his</del><add place="above-line">is</add></subst><del rend="strikethrough" hand="B">ipse</del> quem christus summe 
-            <lb ed="#P" n="20"/>bonus errantem in montibus requirit, fu<lb ed="#P" break="no" n="21"/>gientemque
+            <lb ed="#P" n="20"/>borroris est quod <subst hand="B"><del rend="strikethrough">his</del><add place="above-line">is</add></subst><del rend="strikethrough" hand="B">ipse</del> quem christus summe 
+            <lb ed="#P" n="21"/>bonus errantem in montibus requirit, fu<lb ed="#P" break="no" n="22"/>gientemque
             reuocat: et vix repertum sacris 
-            <lb ed="#P" n="22"/>humeris retulit: abste aflligitur, repudiatur 
-            <lb ed="#P" n="23"/>abiicitur</quote>. hactenus ille. Hoc modo dissemi<lb ed="#P" break="no" n="24"/>narunt
+            <lb ed="#P" n="23"/>humeris retulit: abste aflligitur, repudiatur 
+            <lb ed="#P" n="24"/>abiicitur</quote>. hactenus ille. Hoc modo dissemi<lb ed="#P" break="no" n="25"/>narunt
           Euangelium et totum orbem christo 
-          <lb ed="#P" n="25"/>subegerunt apostoli ut patet ex actibus 
-          <lb ed="#P" n="26"/>apostolorum. Et de beato <name xml:id="lca8s8-d1e78-Nd1e597">Iuda <del rend="strikethrough">vel</del>Thadeo</name> 
-          <lb ed="#P" n="27"/>leguntur in <title>lectionario Romano</title> haec verba: 
-          <lb ed="#P" n="28"/><quote xml:id="lca8s8-d1e78-Qd1e609">missus beatus apostolus ex motione divina 
-            <lb ed="#P" n="29"/>ad Edessam ciuitatem Euangelista et predi<lb ed="#P" break="no" n="30"/>cator
+          <lb ed="#P" n="26"/>subegerunt apostoli ut patet ex actibus 
+          <lb ed="#P" n="27"/>apostolorum. Et de beato <name xml:id="lca8s8-d1e78-Nd1e597">Iuda <del rend="strikethrough">vel</del>Thadeo</name> 
+          <lb ed="#P" n="28"/>leguntur in <title>lectionario Romano</title> haec verba: 
+          <lb ed="#P" n="29"/><quote xml:id="lca8s8-d1e78-Qd1e609">missus beatus apostolus ex motione divina 
+            <lb ed="#P" n="30"/>ad Edessam ciuitatem Euangelista et predi<lb ed="#P" break="no" n="31"/>cator
             verbi dei: et in mesopotamiam et in
             <pb ed="#P" n="22-r"/>
             <lb ed="#P" n="1"/>inferiores partes Ponti veniens et euangelizans 
@@ -225,14 +227,16 @@
             sancto dogmate mitigabat et fidei do<lb ed="#P" break="no" n="4"/>minicae
             subiugabat</quote>. Diuersa fuit haec vena<lb ed="#P" break="no" n="5"/>tio
           ab illa quam docuit Aristoteles: qui ni<lb ed="#P" break="no" n="6"/>mirum
-          licet magna philosophia polleret: non tamen dignus fuit illa capi, ut ad de<lb ed="#P" break="no" n="7"/>um
-          per verae fidei cognitionem veniret. 	
+          licet magna philosophia polleret: 
+          <lb ed="#P" n="7"/>non tamen dignus fuit illa capi, ut ad de<lb ed="#P" break="no" n="8"/>um
+          per verae fidei cognitionem veniret.
         </p>
         <p xml:id="lca8s8-d1e78-d1e634">
-          <lb ed="#P" n="8"/>¶ Haec tria barbarorum genera de quibus dis<lb ed="#P" break="no" n="9"/>seruimus
-          colliguntur ex sancto <ref xml:id="lca8s8-d1e78-Rd1e640"><name xml:id="lca8s8-d1e78-Nd1e641">Thomas</name> super 1um et 3um <title>politicorum</title></ref> et ex <ref xml:id="lca8s8-d1e78-Rd1e645">1a lectura epistolae Pauli
-            <lb ed="#P" n="10"/>ad Romanos</ref> et <ref xml:id="lca8s8-d1e78-Rd1e650">1a ad Corinthios 14 lectio 2a</ref> 
-          <lb ed="#P" n="11"/>et <ref xml:id="lca8s8-d1e78-Rd1e655">ad Collossenses 3o lectio 2a</ref>.
+          <lb ed="#P" n="9"/>¶ Haec tria barbarorum genera de quibus dis<lb ed="#P" break="no" n="10"/>seruimus
+          colliguntur ex sancto <ref xml:id="lca8s8-d1e78-Rd1e640"><name xml:id="lca8s8-d1e78-Nd1e641">Thomas</name> super 
+            <lb ed="#P" n="11"/>1 et 3 <title>politicorum</title></ref> et ex <ref xml:id="lca8s8-d1e78-Rd1e645">1a lectura epistolae Pauli
+            <lb ed="#P" n="12"/>ad Romanos</ref> et <ref xml:id="lca8s8-d1e78-Rd1e650">1a ad Corinthios 14 lectio 2a</ref> 
+          <lb ed="#P" n="13"/>et <ref xml:id="lca8s8-d1e78-Rd1e655">ad Collossenses 3o lectio 2a</ref>.
         </p>
       </div>
     </body>

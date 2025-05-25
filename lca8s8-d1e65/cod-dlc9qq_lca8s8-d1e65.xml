@@ -169,19 +169,20 @@
           <lb ed="#P" n="19"/>denique nullus ex contractibus jur<lb ed="#P" break="no" n="20"/>is
           gentium apud eos in usu est de quibus
           <lb ed="#P" n="21"/>loquitur <ref xml:id="lca8s8-d1e65-Rd1e405">liber ex hoc jure, ff de justitia et jure</ref>
-          <lb ed="#P" n="22"/>et<ref xml:id="lca8s8-d1e65-Rd1e409">§ justitia: de jure naturali et gentium et ci<lb ed="#P" break="no" n="23"/>uili</ref> 
+          <lb ed="#P" n="22"/><!-- line coord error -->
+          <lb ed="#P" n="23"/>et<ref xml:id="lca8s8-d1e65-Rd1e409">§ justitia: de jure naturali et gentium et ci<lb ed="#P" break="no" n="24"/>uili</ref> 
           immo viuunt dissipati et sparsi nemora et 
-          <lb ed="#P" n="24"/>montes incolentes contenti tantum foeminis suis
-          <lb ed="#P" n="25"/>quemadmodum faciunt animalia non solum 
-          <lb ed="#P" n="26"/>mansueta verum etiam fera.
+          <lb ed="#P" n="25"/>montes incolentes contenti tantum foeminis suis
+          <lb ed="#P" n="26"/>quemadmodum faciunt animalia non solum 
+          <lb ed="#P" n="27"/>mansueta verum etiam fera.
         </p>
         <p xml:id="lca8s8-d1e65-d1e421">
           Hi simpliciter
-          <lb ed="#P" n="27"/>et proprie sunt barbari quales fortassis erant 
-          <lb ed="#P" n="28"/>incolentes prouinciam quae barbaria apellata fuit.
-          <lb ed="#P" n="29"/>Expertes rationis et morum homini congruen<lb ed="#P" break="no" n="30"/>tium:
+          <lb ed="#P" n="28"/>et proprie sunt barbari quales fortassis erant 
+          <lb ed="#P" n="29"/>incolentes prouinciam quae barbaria apellata fuit.
+          <lb ed="#P" n="30"/>Expertes rationis et morum homini congruen<lb ed="#P" break="no" n="31"/>tium:
           et earum rerum quae apud omnes homines 
-          <lb ed="#P" n="31"/>consuetudine recepta sunt. De his loquitur
+          <lb ed="#P" n="32"/>consuetudine recepta sunt. De his loquitur
           <pb ed="#P" n="16-v"/>
           <lb ed="#P" n="1"/>philosophus, et hos pronuntiat esse natura ser<lb ed="#P" break="no" n="2"/>uos
           cum careant naturali principatu, non ha<lb ed="#P" break="no" n="3"/>bentes
@@ -269,17 +270,17 @@
           <lb ed="#P" n="17"/>vel ut in pluribus optima et perfecta pro<lb ed="#P" break="no" n="18"/>ducere,
           raro autem et in paucioribus imperfe<lb ed="#P" break="no" n="19"/>cta
           et pessima, de qua re tractat sanctus <ref xml:id="lca8s8-d1e65-Rd1e660"><name xml:id="lca8s8-d1e65-Nd1e661">Thomas</name> 
-            <lb ed="#P" n="20"/>in 2o <title>Sententiarum</title>, dist 34a, q. 1, a. 8o, in corpore 
-            <lb ed="#P" n="21"/>et ad 2um</ref> et in alijs pluribus locis. Cum ergo 
+          <lb ed="#P" n="20"/>in 2o <title>Sententiarum</title>, dist 34a, q. 1, a. 8o, in corpore 
+          <lb ed="#P" n="21"/>et ad 2um</ref> et in alijs pluribus locis. Cum ergo 
           <lb ed="#P" n="22"/>huiusmodi barbari, feri, imperfecti pessimique 
           <lb ed="#P" n="23"/>homines sint et naturae peccata siue monstrua 
-          <lb ed="#P" n="24"/>in natura rationali, ut in<lb ed="#P" break="no" n="25"/>quit <ref xml:id="lca8s8-d1e65-Rd1e679"><name xml:id="lca8s8-d1e65-Nd1e680">Commentator</name> in 
-            <lb ed="#P" n="26"/>3o <title>de anima</title></ref> his verbis: error intellectus 
-          <lb ed="#P" n="27"/>et falsa opinio ita se habent in cognitioni<lb ed="#P" break="no" n="28"/>bus
-          sicut monstrum in natura corpora<lb ed="#P" break="no" n="29"/>li:
-          et natura rationalis sit prouisa et di<lb ed="#P" break="no" n="30"/>rigatur
-          per diuinam prouidentiam propter se<lb ed="#P" break="no" n="31"/>ipsam
-          et singulari modo pre caeteris creaturis:
+          <lb ed="#P" n="24"/>in natura rationali, ut inquit <ref xml:id="lca8s8-d1e65-Rd1e679"><name xml:id="lca8s8-d1e65-Nd1e680">Commentator</name> in 
+          <lb ed="#P" n="25"/>3o <title>de anima</title></ref> his verbis: error intellectus 
+          <lb ed="#P" n="26"/>et falsa opinio ita se habent in cognitioni<lb ed="#P" break="no" n="27"/>bus
+          sicut monstrum in natura corpora<lb ed="#P" break="no" n="28"/>li:
+          et natura rationalis sit prouisa et di<lb ed="#P" break="no" n="29"/>rigatur
+          per diuinam prouidentiam propter se<lb ed="#P" break="no" n="30"/>ipsam
+          et singulari modo prae caeteris creaturis:
           <pb ed="#P" n="18-r"/>
           <lb ed="#P" n="1"/>non solum quantum ad speciem sed quantum ad 
           <lb ed="#P" n="2"/>quodlibet indiuiduum: plane sequitur fore im<lb ed="#P" break="no" n="3"/>possibile

@@ -96,9 +96,12 @@
           vel inconueniens. Debet enim quae<lb ed="#P" break="no" n="26"/>libet
           dispositio sic intelligi, vt nulla se<lb ed="#P" break="no" n="27"/>quatur
           inhumanitas vel absurditas, quia
-          <lb ed="#P" n="28"/>absurditas semper vitanda est. Hinc est
-          <lb ed="#P" n="29"/>quod pro euitanda absurditate: restringenda
-          <lb ed="#P" n="30"/>est generalis dispositio <ref xml:id="lca8s8-d1e250-Rd1e204">.l. 2. C. de no<lb ed="#P" break="no" n="31"/>xialibus
+          <lb ed="#P" n="28"/><!-- line coord error -->
+          <lb ed="#P" n="29"/>absurditas semper vitanda est. Hinc est
+          <lb ed="#P" n="30"/><!-- line coord error -->
+          <lb ed="#P" n="31"/>quod pro euitanda absurditate: restringenda
+          <lb ed="#P" n="32"/><!-- line coord error -->
+          <lb ed="#P" n="33"/>est generalis dispositio <ref xml:id="lca8s8-d1e250-Rd1e204">.l. 2. C. de no<lb ed="#P" break="no" n="34"/>xialibus
             actionibus</ref>, et <ref xml:id="lca8s8-d1e250-Rd1e209" target="http://scta.info/resource/bgy6gt-d1e5013-d1e305">.l. vt gradatim, §.1. ff. de
           <pb ed="#P" n="80-v"/>
             <lb ed="#P" n="1"/>muneribus et honoribus</ref> etiam statutaria vt dicit
@@ -197,17 +200,18 @@
           ditionis fuerunt. Addit autem mag<lb ed="#P" break="no" n="19"/>nam
           causam precedere debere antequam pon<lb ed="#P" break="no" n="20"/>tifex
           hoc faciat ob magnam seditionem
-          <lb ed="#P" n="21"/>et tumultum, qui inde necessario orie<lb ed="#P" break="no" n="22"/>tur:
-          dummodo christiani non pericliten<lb ed="#P" break="no" n="23"/>tur.
-          Periculum autem versari intelligen<lb ed="#P" break="no" n="24"/>dum
-          est quando est periculum ne chris<lb ed="#P" break="no" n="25"/>tiani
-          a fide catholica resiliant: vel a<lb ed="#P" break="no" n="26"/>liud
-          periculum simile. Tunc enim ne ta<lb ed="#P" break="no" n="27"/>le
+          <lb ed="#P" n="21"/><!-- line coord error -->
+          <lb ed="#P" n="22"/>et tumultum, qui inde necessario orie<lb ed="#P" break="no" n="23"/>tur:
+          dummodo christiani non pericliten<lb ed="#P" break="no" n="24"/>tur.
+          Periculum autem versari intelligen<lb ed="#P" break="no" n="25"/>dum
+          est quando est periculum ne chris<lb ed="#P" break="no" n="26"/>tiani
+          a fide catholica resiliant: vel a<lb ed="#P" break="no" n="27"/>liud
+          periculum simile. Tunc enim ne ta<lb ed="#P" break="no" n="28"/>le
           <ref xml:id="lca8s8-d1e250-Rd1e472">quidquam fiat omnia sunt postponenda.</ref>
         </p>
         <p xml:id="lca8s8-d1e250-d1e476">
-          ¶ Item docet Innocentius tales infideles de<lb ed="#P" break="no" n="28"/>bere
-          permittere Euangelium in suis reg<lb ed="#P" break="no" n="29"/>nis
+          <lb ed="#P" n="29"/>¶ Item docet Innocentius tales infideles de<lb ed="#P" break="no" n="30"/>bere
+          permittere Euangelium in suis reg<lb ed="#P" break="no" n="31"/>nis
           predicari alias cum peccent puniri pos<pb ed="#P" n="82-r"/><lb ed="#P" break="no" n="1"/>sunt
           a papa. <ref xml:id="lca8s8-d1e250-Rd1e485">Sed de hoc infra</ref>.
         </p>

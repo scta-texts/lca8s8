@@ -128,12 +128,12 @@
           <lb ed="#P" n="24"/>veram esse quando si omitteretur aliqua
           <lb ed="#P" n="25"/>circunstantia vel actu victoria illius jus<lb ed="#P" break="no" n="26"/>ti
           belli haberi non posset: vel hostes non
-          <lb ed="#P" n="27"/>subigerentur. Et tamen accidit in illo ac<lb ed="#P" break="no" n="28"/>tu
+          <lb ed="#P" n="27"/>subigerentur. Et tamen accidit in illo <sic>ac<lb ed="#P" break="no" n="28"/>ctu</sic>
           vel circunstantia inueniri innocentes.
         </p>
         <p xml:id="lca8s8-d1e434-d1e268">
-          Quod si talis actus vel circunstantia nec<lb ed="#P" break="no" n="29"/>essaria
-          non est sed excusari potest pro<lb ed="#P" break="no" n="30"/>culdubio
+          <lb ed="#P" n="29"/>Quod si talis actus vel circunstantia nec<lb ed="#P" break="no" n="30"/>essaria
+          non est sed excusari potest pro<lb ed="#P" break="no" n="31"/>culdubio
           rei sunt mortis et aliorum no<pb ed="#P" n="137-r"/><lb ed="#P" break="no" n="1"/>cumentorum
           talium innocentium. Hu<lb ed="#P" break="no" n="2"/>ius
           circunstantiae sit exemplum, finge exer<lb ed="#P" break="no" n="3"/>citum
@@ -166,7 +166,7 @@
           <lb ed="#P" n="17"/>puta si sit puer / mulier vel senex / vel
           <lb ed="#P" n="18"/>homo inermis / vel sacerdotali seu mona<lb ed="#P" break="no" n="19"/>chali
           cultu venerabilis. Hos enim si mi<lb ed="#P" break="no" n="20"/>lites
-          occidant, peccant mortaliter. lam enim
+          occidant, peccant mortaliter. Iam enim
           <lb ed="#P" n="21"/>illis non de per accidens vim inferunt sed
           <lb ed="#P" n="22"/>de per se et ex principali intentu.
         </p>
@@ -178,7 +178,8 @@
           <lb ed="#P" n="26"/>nocumenta quae inferuntur in bello: non
           <lb ed="#P" n="27"/>sunt tam parui momenti: quod in dubio vel
           <lb ed="#P" n="28"/>de facili et passim absque timore deum et
-          <lb ed="#P" n="29"/>proximum offendendi: possint inferri. Te<lb ed="#P" break="no" n="30"/>nentur
+          <lb ed="#P" n="29"/><!-- line coord error -->
+          <lb ed="#P" n="30"/>proximum offendendi: possint inferri. Te<lb ed="#P" break="no" n="31"/>nentur
           ergo bellatores christiani: quos ta<pb ed="#P" n="137-v"/><lb ed="#P" break="no" n="1"/>libus
           signis viderint apparere innocentes
           <lb ed="#P" n="2"/>potius presumere quam noxios etiam in con<lb ed="#P" break="no" n="3"/>flictu.
@@ -221,7 +222,7 @@
           <lb ed="#P" n="28"/>inquit:<ref xml:id="lca8s8-d1e434-Rd1e490">si nulla viget necessitas: non solum
           <lb ed="#P" n="29"/>quadragessimali tempore: sed etiam omni
           <lb ed="#P" n="30"/>tempore est a prelijs abstinendum. Si autem
-          <lb ed="#P" n="31"/>ineuitabilis vrget importunitas nec quad<pb ed="#P" n="138-r"/><lb ed="#P" break="no" n="1"/>ragesimali
+          <lb ed="#P" n="31"/>ineuitabilis vrget importunitas nec qua<pb ed="#P" n="138-r"/><lb ed="#P" break="no" n="1"/>dragesimali
           tempore pro defensione tam
           <lb ed="#P" n="2"/>sua quam patriae seu legum paternarum, est
           <lb ed="#P" n="3"/>bellorum proculdubio preparationi parcen<lb ed="#P" break="no" n="4"/>dum</ref>
@@ -269,38 +270,39 @@
           <lb ed="#P" n="5"/><title>super psalmo</title>. 146.</ref> et legitur. <ref xml:id="lca8s8-d1e434-Rd1e625">33. q. 5. c.
           <lb ed="#P" n="6"/>1</ref>. <quote xml:id="lca8s8-d1e434-Qd1e630">Non enim (inquit) vult deus tale dam<lb ed="#P" break="no" n="7"/>num
           tali lucro compensari: nimirum pe<lb ed="#P" break="no" n="8"/>riculosissime
-          admittitur haec compensatio</quote> et in <ref xml:id="lca8s8-d1e434-Rd1e637">alia parte 14. dist. c. quod ait</ref>.
+          admittitur haec compensatio</quote> 
+          <lb ed="#P" n="9"/>et in <ref xml:id="lca8s8-d1e434-Rd1e637">alia parte 14. dist. c. quod ait</ref>.
         </p>
         <p xml:id="lca8s8-d1e434-d1e640">
           Et
-          <lb ed="#P" n="9"/>ibi est <ref xml:id="lca8s8-d1e434-Rd1e644">glossa notabilis</ref> et concordat <ref xml:id="lca8s8-d1e434-Rd1e646"><name xml:id="lca8s8-d1e434-Nd1e647">S. Tho.</name>
-          <lb ed="#P" n="10"/>2a 2ae. q. 26. arº. 4. in corpore</ref>. et <ref xml:id="lca8s8-d1e434-Rd1e652">2m.</ref> et
-          <lb ed="#P" n="11"/><ref xml:id="lca8s8-d1e434-Rd1e655">q. 43. arº. <choice><sic><gap reason="blank" quantity="5" unit="character"/></sic><corr>7, ad 5um</corr></choice></ref> vbi inquit quod nemini li<lb ed="#P" break="no" n="12"/>cet
+          <lb ed="#P" n="10"/>ibi est <ref xml:id="lca8s8-d1e434-Rd1e644">glossa notabilis</ref> et concordat <ref xml:id="lca8s8-d1e434-Rd1e646"><name xml:id="lca8s8-d1e434-Nd1e647">S. Tho.</name>
+          <lb ed="#P" n="11"/>2a 2ae. q. 26. arº. 4. in corpore</ref>. et <ref xml:id="lca8s8-d1e434-Rd1e652">2m.</ref> et
+          <lb ed="#P" n="12"/><ref xml:id="lca8s8-d1e434-Rd1e655">q. 43. arº. <choice><sic><gap reason="blank" quantity="5" unit="character"/></sic><corr>7, ad 5um</corr></choice></ref> vbi inquit quod nemini li<lb ed="#P" break="no" n="13"/>cet
           peccare venialiter vt alius non peccet
-          <lb ed="#P" n="13"/>mortaliter. Quod etiam asserit <ref xml:id="lca8s8-d1e434-Rd1e667"><name xml:id="lca8s8-d1e434-Nd1e668">Augustinus</name>
-          <lb ed="#P" n="14"/>in c. faciat homo 22. q. 2</ref>. his verbis:
-          <lb ed="#P" n="15"/><quote xml:id="lca8s8-d1e434-Qd1e674">faciat homo etiam pro temporali salute
-          <lb ed="#P" n="16"/>hominum: quod potest: cum autem ad hoc
-          <lb ed="#P" n="17"/>ventum fuerit vt tali saluti nisi pec<lb ed="#P" break="no" n="18"/>cando
-          consulere non possit: jam se existi<lb ed="#P" break="no" n="19"/>met
+          <lb ed="#P" n="14"/>mortaliter. Quod etiam asserit <ref xml:id="lca8s8-d1e434-Rd1e667"><name xml:id="lca8s8-d1e434-Nd1e668">Augustinus</name>
+          <lb ed="#P" n="15"/>in c. faciat homo 22. q. 2</ref>. his verbis:
+          <lb ed="#P" n="16"/><quote xml:id="lca8s8-d1e434-Qd1e674">faciat homo etiam pro temporali salute
+          <lb ed="#P" n="17"/>hominum: quod potest: cum autem ad hoc
+          <lb ed="#P" n="18"/>ventum fuerit vt tali saluti nisi pec<lb ed="#P" break="no" n="19"/>cando
+          consulere non possit: jam se existi<lb ed="#P" break="no" n="20"/>met
           non habere quid faciat</quote>.
         </p>
         <p xml:id="lca8s8-d1e434-d1e686">
-          Et <ref xml:id="lca8s8-d1e434-Rd1e688">c. se<lb ed="#P" break="no" n="20"/>quenti</ref>
-          et <ref xml:id="lca8s8-d1e434-Rd1e693">c. nequis arbitretur</ref>. et <ref xml:id="lca8s8-d1e434-Rd1e695">c. Pri<lb ed="#P" break="no" n="21"/>mum</ref>.
+          Et <ref xml:id="lca8s8-d1e434-Rd1e688">c. se<lb ed="#P" break="no" n="21"/>quenti</ref>
+          et <ref xml:id="lca8s8-d1e434-Rd1e693">c. nequis arbitretur</ref>. et <ref xml:id="lca8s8-d1e434-Rd1e695">c. Pri<lb ed="#P" break="no" n="22"/>mum</ref>.
           et <ref xml:id="lca8s8-d1e434-Rd1e700">extra de vsuris. c. super eo</ref>. et
-          <lb ed="#P" n="22"/><ref xml:id="lca8s8-d1e434-Rd1e703">extra ne cleri. vel monachi. c. magnopere</ref>.
-          <lb ed="#P" n="23"/>Immo vero inquit <name xml:id="lca8s8-d1e434-Nd1e708">S. Tho.</name> quod homo potius
-          <lb ed="#P" n="24"/>debet eligere mortem et cruciatum attrocem
-          <lb ed="#P" n="25"/>quam peccare vel venialiter, ita <ref xml:id="lca8s8-d1e434-Rd1e714">2a 2ae: q. 110.
-          <lb ed="#P" n="26"/>arº. 3. ad 3um</ref>. et in alijs locis.
+          <lb ed="#P" n="23"/><ref xml:id="lca8s8-d1e434-Rd1e703">extra ne cleri. vel monachi. c. magnopere</ref>.
+          <lb ed="#P" n="24"/>Immo vero inquit <name xml:id="lca8s8-d1e434-Nd1e708">S. Tho.</name> quod homo potius
+          <lb ed="#P" n="25"/>debet eligere mortem et cruciatum attrocem
+          <lb ed="#P" n="26"/>quam peccare vel venialiter, ita <ref xml:id="lca8s8-d1e434-Rd1e714">2a 2ae: q. 110.
+          <lb ed="#P" n="27"/>arº. 3. ad 3um</ref>. et in alijs locis.
         </p>
         <p xml:id="lca8s8-d1e434-d1e720">
           Hinc oritur
-          <lb ed="#P" n="27"/>regula quod quando malum et bonum sunt
-          <lb ed="#P" n="28"/>ita conjuncta vt ex bono quod volo fa<lb ed="#P" break="no" n="29"/>cere:
+          <lb ed="#P" n="28"/>regula quod quando malum et bonum sunt
+          <lb ed="#P" n="29"/>ita conjuncta vt ex bono quod volo fa<lb ed="#P" break="no" n="30"/>cere:
           necessario debeat oriri malum vel
-          <lb ed="#P" n="30"/>fere semper <del rend="strikethrough"><gap extent="1" unit="word"/></del> oriatur malum, si ma<pb ed="#P" n="139-r"/><lb ed="#P" break="no" n="1"/>lum
+          <lb ed="#P" n="31"/>fere semper <del rend="strikethrough"><gap extent="1" unit="word"/></del> oriatur malum, si ma<pb ed="#P" n="139-r"/><lb ed="#P" break="no" n="1"/>lum
           maius est quam bonum quod volo facere:
           <lb ed="#P" n="2"/>semper bonum est omittendum ne inde
           <lb ed="#P" n="3"/>malum oriatur. Ratio est quoniam si

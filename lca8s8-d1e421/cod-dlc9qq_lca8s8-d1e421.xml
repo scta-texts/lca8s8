@@ -52,14 +52,14 @@
       <div xml:id="lca8s8-d1e421">
         <head xml:id="lca8s8-d1e421-Hd1e97">Caput 29 [Bnf 12926 Transcription]</head>
         <p xml:id="lca8s8-d1e421-d1e99">
-          <lb ed="#P" n="23"/>Caput 29m.
+          <lb ed="#P" n="24"/>Caput 29m.
         </p>
         <p xml:id="lca8s8-d1e421-d1e104">
-          ¶ Non obstat superioribus quod Deus Sodo<lb ed="#P" break="no" n="24"/>mae
-          et Gomorrae occidit patres et filios no<lb ed="#P" break="no" n="25"/>centes
+          <lb ed="#P" n="25"/>¶ Non obstat superioribus quod Deus Sodo<lb ed="#P" break="no" n="26"/>mae
+          et Gomorrae occidit patres et filios no<lb ed="#P" break="no" n="27"/>centes
           et innocentes: ac similiter ob peccatum
-          <lb ed="#P" n="26"/><name xml:id="lca8s8-d1e421-Nd1e111"><seg>Ach<choice><!--Achan is the man, Achor the place where he was stoned.--><sic>or</sic><corr>an</corr></choice></seg></name>: foeminae et infantes paruuli igne ab<lb ed="#P" break="no" n="27"/>sumpti
-          fuere <ref xml:id="lca8s8-d1e421-Rd1e121" target="http://scta.info/resource/ios7_24">Josue 7</ref>. et Tribus Benja<lb ed="#P" break="no" n="28"/>min
+          <lb ed="#P" n="28"/><name xml:id="lca8s8-d1e421-Nd1e111"><seg>Ach<choice><!--Achan is the man, Achor the place where he was stoned.--><sic>or</sic><corr>an</corr></choice></seg></name>: foeminae et infantes paruuli igne ab<lb ed="#P" break="no" n="29"/>sumpti
+          fuere <ref xml:id="lca8s8-d1e421-Rd1e121" target="http://scta.info/resource/ios7_24">Josue 7</ref>. et Tribus Benja<lb ed="#P" break="no" n="30"/>min
           ob vim a quodam eius Tribu illatam
           <pb ed="#P" n="132-v"/>
           <lb ed="#P" n="1"/>vxori leuitae cuiusdam: a caeteris vndecim
@@ -94,7 +94,7 @@
           ratione.
         </p>
         <p xml:id="lca8s8-d1e421-d1e188">
-          <add place="margin-left" hand="F">Exempla veteris testamenti sunt admiranda non tamen semper imitanda</add>
+          <note type="marginal-note" place="margin-left" hand="F">Exempla veteris testamenti sunt admiranda non tamen semper imitanda</note>
           Primo <ref xml:id="lca8s8-d1e421-Rd1e193">quoniam exempla veteris
           <lb ed="#P" n="23"/>testamenti (vt supra declaratum est capº. <add place="margin-right" hand="AB">15.</add></ref>
           <lb ed="#P" n="24"/>sunt admiranda: non autem semper sunt
@@ -307,7 +307,7 @@
           Quae tamen est valde variabi<lb ed="#P" break="no" n="30"/>lis.
           Et secundum <ref xml:id="lca8s8-d1e421-Rd1e776"><!--Not 3, but Poli. 2, c. 8 (1.272 b 5-7)--><name xml:id="lca8s8-d1e421-Nd1e778">philosophum</name> 3. <title>Poli.</title></ref> Voluntas humana
           <lb ed="#P" n="31"/>est valde malus canon. Presertim quia error
-          <pb ed="#P" n="135-r"/>
+          <pb ed="#P" n="135-v"/>
           <lb ed="#P" n="1"/>principis facit ius secundum leges humanas ut
           <lb ed="#P" n="2"/><ref xml:id="lca8s8-d1e421-Rd1e790">ff. de suppel. lega. l. 3. in fine</ref>. Propterea
           <lb ed="#P" n="3"/>imittandum non est quod legimus in <ref xml:id="lca8s8-d1e421-Rd1e794">l.

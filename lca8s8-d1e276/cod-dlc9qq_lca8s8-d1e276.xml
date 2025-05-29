@@ -52,10 +52,10 @@
       <div xml:id="lca8s8-d1e276">
         <head xml:id="lca8s8-d1e276-Hd1e97">Caput 18 [Bnf 12926 Transcription]</head>
         <p xml:id="lca8s8-d1e276-d1e99">
-          <lb ed="P" n="18"/>Caput 18m.
+          <lb ed="#P" n="18"/>Caput 18m.
         </p>
         <p xml:id="lca8s8-d1e276-d1e104">
-          <lb ed="P" n="19"/>¶ Verumtamen contra predeterminata est
+          <lb ed="#P" n="19"/>¶ Verumtamen contra predeterminata est
           <lb ed="#P" n="20"/>autoritas <ref xml:id="lca8s8-d1e276-Rd1e108"><name xml:id="lca8s8-d1e276-Nd1e109">Damasceni</name> et etiam sanctorum
           <lb ed="#P" n="21"/>aliquorum imo et philosophorum, qui dicunt
           <lb ed="#P" n="22"/>quod cognitio Dei naturaliter inserta est men<lb ed="#P" break="no" n="23"/>tibus
@@ -67,11 +67,10 @@
         </p>
         <p xml:id="lca8s8-d1e276-d1e133">
           ¶ Ad quod dicendum
-          <lb ed="P" n="28"/><!-- line coord error -->
-          <lb ed="#P" n="29"/>est. Verum esse quod cognitio dei comunis in<lb ed="#P" break="no" n="30"/>serta
+          <lb ed="#P" n="28"/>est. Verum esse quod cognitio dei comunis in<lb ed="#P" break="no" n="29"/>serta
           est naturaliter mentibus hominum.
-          <lb ed="#P" n="31"/>Sed illa est valde confusa et vniuersalis et
-          <lb ed="#P" n="32"/>quae solum ostendit esse aliquem ordinato<lb ed="#P" break="no" n="33"/>rem
+          <lb ed="#P" n="30"/>Sed illa est valde confusa et vniuersalis et
+          <lb ed="#P" n="31"/>quae solum ostendit esse aliquem ordinato<lb ed="#P" break="no" n="32"/>rem
           rerum quas videamus currere secundum ordinem
           <pb ed="#P" n="85-v"/>
           <lb ed="#P" n="1"/>quendam. Quis autem vel qualis: vel si vnus

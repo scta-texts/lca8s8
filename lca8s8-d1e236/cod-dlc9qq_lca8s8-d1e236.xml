@@ -52,7 +52,7 @@
       <div xml:id="lca8s8-d1e236">
         <head xml:id="lca8s8-d1e236-Hd1e97">Caput 15 [Bnf 12926 Transcription]</head>
         <p xml:id="lca8s8-d1e236-d1e99">
-          <lb ed="P" n="26"/>Caput 15m.
+          <lb ed="#P" n="26"/>Caput 15m.
         </p>
         <p xml:id="lca8s8-d1e236-d1e104">
           <lb ed="#P" n="27"/>¶ Hactenus docuimus <add place="above-line" hand="B">nec</add> ecclesiam nec chris<lb ed="#P" break="no" n="28"/>tianos
@@ -179,21 +179,20 @@
           quam super cos habet habi<lb ed="#P" break="no" n="19"/>tu:
           potest in actum deducere ad recupe<lb ed="#P" break="no" n="20"/>randum
           per belli compulsionem, quae
-          <lb ed="#P" n="21"/><!-- line coord error -->
-          <lb ed="#P" n="22"/>sunt sua. Nullum enim aliud reme<lb ed="#P" break="no" n="23"/>dium
+          <lb ed="#P" n="21"/>sunt sua. Nullum enim aliud reme<lb ed="#P" break="no" n="22"/>dium
           superest.
         </p>
         <p xml:id="lca8s8-d1e236-d1e390">
           Et de huius modi infidelibus
-          <lb ed="#P" n="24"/>loquitur <ref xml:id="lca8s8-d1e236-Rd1e394">Hostiensis in c. quod uper his.
-          <lb ed="#P" n="25"/>de voto</ref>. Ex ibi alie doctores. Et <ref xml:id="lca8s8-d1e236-Rd1e399">Oldraldus
-          <lb ed="#P" n="26"/>in consilio 72</ref>. Et <ref xml:id="lca8s8-d1e236-Rd1e404">Albericus in Rubricam c.
-          <lb ed="#P" n="27"/>de paganis et eorum templis</ref>. Vbi Hos<lb ed="#P" break="no" n="28"/>tiensis
-          et eius sequaces dicunt quod infide<lb ed="#P" break="no" n="29"/>les
+          <lb ed="#P" n="23"/>loquitur <ref xml:id="lca8s8-d1e236-Rd1e394">Hostiensis in c. quod uper his.
+          <lb ed="#P" n="24"/>de voto</ref>. Ex ibi alie doctores. Et <ref xml:id="lca8s8-d1e236-Rd1e399">Oldraldus
+          <lb ed="#P" n="25"/>in consilio 72</ref>. Et <ref xml:id="lca8s8-d1e236-Rd1e404">Albericus in Rubricam c.
+          <lb ed="#P" n="26"/>de paganis et eorum templis</ref>. Vbi Hos<lb ed="#P" break="no" n="27"/>tiensis
+          et eius sequaces dicunt quod infide<lb ed="#P" break="no" n="28"/>les
           si non recognoscunt dominium ecclesiae
-          <lb ed="#P" n="30"/>sunt indigni omni dominio et iurisdictio<lb ed="#P" break="no" n="31"/>ne.
+          <lb ed="#P" n="29"/>sunt indigni omni dominio et iurisdictio<lb ed="#P" break="no" n="30"/>ne.
           Et intelligit<ref xml:id="lca8s8-d1e236-Rd1e418">Hostiensis de iurisdictione
-          <lb ed="#P" break="no" n="32"/>et emperio</ref> quod principes infideles ha<pb ed="#P" n="76-v"/><lb ed="#P" break="no" n="1"/>bent
+          <lb ed="#P" break="no" n="31"/>et emperio</ref> quod principes infideles ha<pb ed="#P" n="76-v"/><lb ed="#P" break="no" n="1"/>bent
           in terris quae quondam erant chris<lb ed="#P" break="no" n="2"/>tianorum
           et super christianos in illis dege<lb ed="#P" break="no" n="3"/>ntes:
           vel si totus populus aut aliqua pars
@@ -267,15 +266,14 @@
           <lb ed="#P" n="24"/>enim in eis verum sacrificium corporis
           <lb ed="#P" n="25"/>et sanguinis christi fuerit consecratum
           <lb ed="#P" n="26"/>veroque deo purus cultus sit exhibitus: et
-          <lb ed="#P" n="27"/><!-- line coord error -->
-          <lb ed="#P" n="28"/>sacra sacramenta sint administrata. De
-          <lb ed="#P" n="29"/>quo<ref xml:id="lca8s8-d1e236-Rd1e583">sanctus Thomas 3a parte. q. 63. ar. 2. 3. 4.
-          <lb ed="#P" n="30"/>6. in c.</ref>
+          <lb ed="#P" n="27"/>sacra sacramenta sint administrata. De
+          <lb ed="#P" n="28"/>quo<ref xml:id="lca8s8-d1e236-Rd1e583">sanctus Thomas 3a parte. q. 63. ar. 2. 3. 4.
+          <lb ed="#P" n="29"/>6. in c.</ref>
         </p>
         <p xml:id="lca8s8-d1e236-d1e589">
-          Quorum finis est vt homines ex<lb ed="#P" break="no" n="31"/>hibentes
+          Quorum finis est vt homines ex<lb ed="#P" break="no" n="30"/>hibentes
           gloriam et honorem vero deo sese
-          <lb ed="#P" n="32"/>illi corpore et anima prorsus subiiciant au<lb ed="#P" break="no" n="33"/>tore
+          <lb ed="#P" n="31"/>illi corpore et anima prorsus subiiciant au<lb ed="#P" break="no" n="32"/>tore
           <ref xml:id="lca8s8-d1e236-Rd1e597">Thoma 2a 2ae  q. 93. a. 27. c.</ref> et <ref xml:id="lca8s8-d1e236-Rd1e599">libro
           <pb ed="#P" n="77-v"/>
           <lb ed="#P" n="1"/>3. c. 119, contra gentiles</ref>: nequaquam ratio<lb ed="#P" break="no" n="2"/>ni

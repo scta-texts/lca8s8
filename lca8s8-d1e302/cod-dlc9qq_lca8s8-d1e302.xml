@@ -52,7 +52,7 @@
       <div xml:id="lca8s8-d1e302">
         <head xml:id="lca8s8-d1e302-Hd1e97">Caput 20 [Bnf 12926 Transcription]</head>
         <p xml:id="lca8s8-d1e302-d1e99">
-          <lb ed="P" n="20"/>Caput 20m
+          <lb ed="#P" n="20"/>Caput 20m
         </p>
         <p xml:id="lca8s8-d1e302-d1e104">
           <lb ed="#P" n="21"/>Restat modo referre quae <ref xml:id="lca8s8-d1e302-Rd1e108"><name xml:id="lca8s8-d1e302-Nd1e109">Augustinus
@@ -231,9 +231,7 @@
           <lb ed="#P" n="28"/>excellentiori modo inquantum simul est
           <lb ed="#P" n="29"/>deus et homo: et tali modo operatur per
           <lb ed="#P" n="30"/>eam excellentius quam alius quicumque homo:
-          <lb ed="#P" n="31"/>Ita est in papa vicario eius: licet sit potes
-          <lb ed="#P" n="32"/><!-- line coord error -->
-          <pb ed="#P" n="95-r"/><lb ed="#P" break="no" n="1"/>tas
+          <lb ed="#P" n="31"/>Ita est in papa vicario eius: licet sit potes<pb ed="#P" n="95-r"/><lb ed="#P" break="no" n="1"/>tas
           diuina collata ei a deo et homine: re<lb ed="#P" break="no" n="2"/>cipit
           tamen illam vt purus homo et vtitur
           <lb ed="#P" n="3"/>ea suo modo christum imittando prout ne<lb ed="#P" break="no" n="4"/>cessarium
@@ -372,28 +370,28 @@
           <lb ed="#P" n="13"/>6</ref>. <quote xml:id="lca8s8-d1e302-Qd1e889">cum venerit spiritus veritatis docebit vos
           <lb ed="#P" n="14"/>omnem veritatem</quote>. Omnem scilicet pertinen<lb ed="#P" break="no" n="15"/>tem
           ad predicationem et propagationem
-          <lb ed="#P" n="16"/>euangelii, et salutem hominum: non ve<lb ed="#P" n="17"/><!-- line coord error --><lb ed="#P" break="no" n="18"/>ritates
-          pertinentes ad philosophiam, cos<lb ed="#P" break="no" n="19"/>mographiam,
+          <lb ed="#P" n="16"/>euangelii, et salutem hominum: non ve<lb ed="#P" break="no" n="17"/>ritates
+          pertinentes ad philosophiam, cos<lb ed="#P" break="no" n="18"/>mographiam,
           geometriam et similes artes.
         </p>
         <p xml:id="lca8s8-d1e302-d1e904">
-          <lb ed="#P" n="20"/>Ideo <ref xml:id="lca8s8-d1e302-Rd1e906">glossa ibi interpretatur</ref> <quote xml:id="lca8s8-d1e302-Qd1e908">veritatem salu<lb ed="#P" break="no" n="21"/>ti
-          necessariam</quote>. Sic etiam intelligendus tex<lb ed="#P" break="no" n="22"/>tus
+          <lb ed="#P" n="19"/>Ideo <ref xml:id="lca8s8-d1e302-Rd1e906">glossa ibi interpretatur</ref> <quote xml:id="lca8s8-d1e302-Qd1e908">veritatem salu<lb ed="#P" break="no" n="20"/>ti
+          necessariam</quote>. Sic etiam intelligendus tex<lb ed="#P" break="no" n="21"/>tus
           in <ref xml:id="lca8s8-d1e302-Rd1e915">c. solitae. de maioritate et obedientia</ref> <quote xml:id="lca8s8-d1e302-Qd1e917">nihil
-          <lb ed="#P" n="23"/>excipiens qui dixit quodcumque</quote>, et <ref xml:id="lca8s8-d1e302-Rd1e923">c. si
-          <lb ed="#P" n="24"/>Romanorum. 19 distinctio</ref> intelligitur namque
-          <lb ed="#P" n="25"/>de omni necessario et vtili ad ecclesiae di<lb ed="#P" break="no" n="26"/>rectionem
+          <lb ed="#P" n="22"/>excipiens qui dixit quodcumque</quote>, et <ref xml:id="lca8s8-d1e302-Rd1e923">c. si
+          <lb ed="#P" n="23"/>Romanorum. 19 distinctio</ref> intelligitur namque
+          <lb ed="#P" n="24"/>de omni necessario et vtili ad ecclesiae di<lb ed="#P" break="no" n="25"/>rectionem
           in finem beatitudinis. Sic etiam
-          <lb ed="#P" n="27"/>in iure ciuili verba generalia restringun<lb ed="#P" break="no" n="28"/>tur
-          et intelliguntur de habilibus et capa<lb ed="#P" break="no" n="29"/>cibus.
+          <lb ed="#P" n="26"/>in iure ciuili verba generalia restringun<lb ed="#P" break="no" n="27"/>tur
+          et intelliguntur de habilibus et capa<lb ed="#P" break="no" n="28"/>cibus.
           Exemplum est in <ref xml:id="lca8s8-d1e302-Rd1e939">l. 1, C. de sacrosancti
-          <lb ed="#P" n="30"/>ecclesiis</ref>.
+          <lb ed="#P" n="29"/>ecclesiis</ref>.
         </p>
         <p xml:id="lca8s8-d1e302-d1e945">
           Ex ibi notant doctores: vbi dicitur,
-          <lb ed="#P" n="31"/>habeat vnus quisque licentiam in testamen<lb ed="#P" break="no" n="32"/>to
+          <lb ed="#P" n="30"/>habeat vnus quisque licentiam in testamen<lb ed="#P" break="no" n="31"/>to
           relinquere piis locis. Quod intelligitur
-          <lb ed="#P" n="33"/><ref xml:id="lca8s8-d1e302-Rd1e952">secundum glossam</ref>:<quote xml:id="lca8s8-d1e302-Qd1e954">vnusquisque habilis ad testan<pb ed="#P" n="97-r"/><lb ed="#P" break="no" n="1"/>dum</quote>
+          <lb ed="#P" n="32"/><ref xml:id="lca8s8-d1e302-Rd1e952">secundum glossam</ref>: <quote xml:id="lca8s8-d1e302-Qd1e954">vnusquisque habilis ad testan<pb ed="#P" n="97-r"/><lb ed="#P" break="no" n="1"/>dum</quote>
           Item restringitur verbum vniuersa<lb ed="#P" break="no" n="2"/>le
           ad naturam subiectae materiae. Sic <ref xml:id="lca8s8-d1e302-Rd1e963">Baldus
           <lb ed="#P" n="3"/>exponens illud c. canonum statuta ab

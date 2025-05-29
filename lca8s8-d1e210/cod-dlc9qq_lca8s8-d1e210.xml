@@ -154,9 +154,9 @@
         <p xml:id="lca8s8-d1e210-d1e343">
           <add place="inline" hand="B">Et</add> Quamquam <del rend="strikethrough" hand="B">vero</del>esset hoc generale sci<lb ed="#P" break="no" n="32"/>licet,
           quod nulli nationum quantumcumque idolatrae
-          <lb ed="#P" n="33"/>esset
+          <!--<lb ed="#P" n="33"/> line coord error -->esset
           <pb ed="#P" n="68-r"/>
-          <lb ed="#P" n="1"/><del rend="strikethrough" hand="B">esset</del>earum quae extra terram habitabant promis<lb ed="#P" break="no" n="2"/>sionis,
+          <lb ed="#P" n="1"/><del rend="strikethrough" hand="B">esset</del> earum quae extra terram habitabant promis<lb ed="#P" break="no" n="2"/>sionis,
           bellum aut incommodum aliud inferre 
           <lb ed="#P" n="3"/>poterant nisi subesset aliqua <del rend="strikethrough" hand="B">noua et</del> legitima 
           <lb ed="#P" n="4"/>causa: de alijs tamen omnibus duas dominus

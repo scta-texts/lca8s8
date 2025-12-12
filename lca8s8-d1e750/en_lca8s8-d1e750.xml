@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 54 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 54 [Bnf 12926 Translation]</title>
+          <date when="2025-12-12">December 12, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="229-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e750">
+        <head xml:id="lca8s8-d1e750-Hd1e90">Chapter 54 [Bnf 12926 Translation]</head>
+        <p xml:id="lca8s8-d1e750-d1e94">
+          Chapter 54
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e99">
+          ¶ Therefore 
+          <name xml:id="lca8s8-d1e750-Nd1e104">John Major</name> 
+          teaches first:
+          that a king should be stripped of his empire if the people are converted to the faith and he himself is unwilling to receive it:
+          But 
+          <name xml:id="lca8s8-d1e750-Nd1e113">Major</name> 
+          errs in fact,
+          not knowing the disposition of the Indians,
+          for none receive the faith more willingly or sooner,
+          if they are rightly instructed,
+          than the kings and princes of those nations (whom we commonly call caciques).
+          Again he errs in law.
+          For neither is a king to be compelled to the faith.
+          Furthermore,
+          one is not to be punished on the basis that he can do harm if he has not yet sinned or committed anything against his own people,
+          because they have accepted the Christian religion.
+          For innumerable things do not occur:
+          which according to active and passive potentiality can happen,
+          as per the Philosopher (5 and 9 Metaphysics):
+          God never wills that an innocent person be punished,
+          and a rightly begun work would perhaps be overturned if we tyrannically despoil a king of his kingdom for a sin not committed,
+          even if he might commit it:
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e129">
+          <name xml:id="lca8s8-d1e750-Nd1e156">John Major</name> 
+          would act more prudently if he added that this should be understood when it is probably and vehemently presumed,
+          not by vain conjectures,
+          that the king would bring loss to the faith or punish the people:
+          which is scarcely to be believed concerning Indian princes,
+          given their most gentle nature.
+          But if there were a vehement suspicion,
+          then something should be given to him in compensation for the kingdom,
+          as per 
+          <ref xml:id="lca8s8-d1e750-Rd1e177" target="http://scta.info/resource/cice-l3t34-d1e225">
+            <name xml:id="lca8s8-d1e750-Nd1e178">Innocent</name> 
+            in c. quod super his de voto
+          </ref> 
+          where,
+          speaking of pagan princes who have occupied our provinces,
+          he teaches that they are not to be despoiled or deposed from their kingdom,
+          even if the people are converted to Christ:
+          lest sedition and hatred of the Christian name be instilled in the minds of the pagans.
+          How much more should this theologian have taught this,
+          speaking of Indians whom he had never seen:
+          who have not occupied Christian provinces:
+          nor have they ever heard the Christian name,
+          dwelling in kingdoms most remote from our world.
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e212">
+          ¶ Second,
+          <ref xml:id="lca8s8-d1e750-Rd1e216">
+            <sic>John</sic> Major
+          </ref> 
+          teaches that such a prince should be stripped of his lordship:
+          so that his subjects can freely profess the Catholic faith.
+          But he errs,
+          because since the jurisdiction of princes,
+          even pagan ones,
+          is by natural law and by the law of nations and divine law,
+          as we have proved elsewhere most extensively with irrefragable arguments and authorities of divine Scripture,
+          certainly even if his subjects are converted to the faith,
+          they owe him reverence and obedience in those things which are not against God,
+          as to a lord,
+          and his jurisdiction endures,
+          and tributes must be paid to him if indeed they exercise jurisdiction without harm to the faithful.
+          Even if the prince himself is unwilling to be converted to the faith.
+          For Truth itself 
+          <ref xml:id="lca8s8-d1e750-Rd1e255" corresp="#lca8s8-d1e750-Qd1e255">Matthew 22</ref> 
+          taught that the Jews should pay tribute to Tiberius Caesar,
+          a pagan prince.
+          He said,
+          <quote xml:id="lca8s8-d1e750-Qd1e255" source="http://scta.info/resource/mt22_21@9-12">
+            Render to Caesar what belongs to Caesar
+          </quote>,
+          to which response Paul the Apostle,
+          in agreement,
+          teaches that believers should be subject to principalities and powers,
+          etc.
+          This 
+          <name xml:id="lca8s8-d1e750-Nd1e270">Jerome</name> 
+          teaches in the place cited below and says and adds the words of 
+          <ref xml:id="lca8s8-d1e750-Rd1e274" corresp="#lca8s8-d1e750-Qd1e280 #lca8s8-d1e750-Qd1e283 #lca8s8-d1e750-Qd1e292 #lca8s8-d1e750-Qd1e300">
+            Saint Paul to the Romans 13.
+          </ref>
+          <quote xml:id="lca8s8-d1e750-Qd1e280" source="http://scta.info/resource/rom13_1@1-6">
+            Let every soul be subject to higher powers
+          </quote>.
+          And below:
+          <quote xml:id="lca8s8-d1e750-Qd1e283" source="http://scta.info/resource/rom13_5@1-8">
+            Therefore by necessity be subject:
+            not only because of wrath
+          </quote> 
+          that is,
+          for the sake of avoiding temporal or corporal danger or punishment:
+          <quote xml:id="lca8s8-d1e750-Qd1e292" source="http://scta.info/resource/rom13_5@9-12">
+            but also for conscience sake
+          </quote> 
+          that is,
+          lest there be sin in conscience:
+          because 
+          <quote xml:id="lca8s8-d1e750-Qd1e300" source="http://scta.info/resource/rom13_2@2-14">
+            he who resists the power resists the ordinance of God and acquires damnation for himself
+          </quote>
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e309">
+          But that Christians are commanded to obey their princes,
+          even though they are unbelievers,
+          is proved first from the holy doctors thus explaining the words of Paul to the Romans 13.
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e318">
+          It is proved second:
+          because as is clear from the histories,
+          both sacred and profane,
+          at the time when Paul wrote this,
+          all princes were pagans under whom the apostles and the faithful lived.
+          Which also teaches 
+          <ref xml:id="lca8s8-d1e750-Rd1e332">
+            <name xml:id="lca8s8-d1e750-Nd1e333">Chrysostom</name> 
+            on those words
+          </ref>:
+          for they are ministers of God.
+          For at that time Christians were mostly common people,
+          according to 
+          <name xml:id="lca8s8-d1e750-Nd1e341">Chrysostom's</name> 
+          words.
+          Therefore Paul transmits that precept to his own,
+          that is to Christians,
+          "let every soul",
+          not to pagans who either ridiculed it or did not acknowledge it.
+          Moreover Paul adds:
+          "render to all their dues:
+          tribute to whom tribute is due;
+          custom to whom custom."
+          Which the same Paul clearly teaches 
+          <ref xml:id="lca8s8-d1e750-Rd1e359">1 Timothy 6</ref>
+          <quote xml:id="lca8s8-d1e750-Qd1e364" source="http://scta.info/resource/Itim6_1@1-4">
+            Whoever are under the yoke
+          </quote> 
+          namely of the unfaithful,
+          according to the interlinear gloss,
+          are 
+          <quote xml:id="lca8s8-d1e750-Qd1e372" source="http://scta.info/resource/Itim6_1@5-7">
+            servants,
+            let them consider their masters
+          </quote> 
+          namely unfaithful ones 
+          <quote xml:id="lca8s8-d1e750-Qd1e376" source="http://scta.info/resource/Itim6_1@8-17">
+            worthy of all honor:
+            lest the name of the Lord and doctrine be blasphemed
+          </quote>.
+          And it follows:
+          <quote xml:id="lca8s8-d1e750-Qd1e388" source="http://scta.info/resource/Itim6_2@1-13">
+            But those who have believing masters,
+            let them not despise them because they are brothers:
+            but rather let them serve them
+          </quote>.
+          Therefore service should be rendered to unfaithful masters or princes by subjects,
+          even if the subjects are Christians but the lord is an unbeliever.
+          Which more clearly the 
+          gloss 
+          teaches on those words "let every soul be subject to higher powers".
+          The 
+          <ref xml:id="lca8s8-d1e750-Rd1e406">gloss</ref> 
+          says:
+          <quote xml:id="lca8s8-d1e750-Qd1e408">
+            For it seemed that unfaithful masters should be equals to the faithful:
+            this arrogance too the apostle removes.
+            For there is no power except from God.
+          </quote>
+          <ref xml:id="lca8s8-d1e750-Rd1e419">This gloss</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e422">
+          And again on those words 
+          <quote xml:id="lca8s8-d1e750-Qd1e426">
+            "lest the name of the Lord and doctrine be blasphemed",
+            the interlinear gloss says:
+            as if one invading another's property:
+            but rather through the services of faithful servants,
+            the unfaithful masters may be converted:
+            and the doctrine,
+            namely the Christian one,
+            as if preached unjustly and contrary to law,
+            may be blasphemed
+          </quote>.
+          This is it.
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e446">
+          And 
+          <ref xml:id="lca8s8-d1e750-Rd1e448">
+            <name xml:id="lca8s8-d1e750-Nd1e449">Saint Thomas</name> 
+            on the first epistle to the Corinthians 6,
+            lecture 1a at the beginning
+          </ref> 
+          says:
+          <quote xml:id="lca8s8-d1e750-Qd1e456">
+            it is against divine law to prohibit:
+            that the faithful not appear before the judgment of unfaithful princes if they are summoned:
+            or before those appointed,
+            that is magistrates or judges established by them,
+            since it pertains to the authority of a prince to judge concerning subjects.
+            For this would be against the subjection which is owed to princes
+          </quote>.
+          These things from him,
+          as it were,
+          in form.
+        </p>
+        <p xml:id="lca8s8-d1e750-d1e464">
+          Therefore an unfaithful prince should not be deposed and despoiled of his kingdom for the freedom of the Catholic faith;
+          rather indeed his subjects should pay him tribute.
+          Which 
+          <ref xml:id="lca8s8-d1e750-Rd1e487" target="http://scta.info/resource/jsnvu6-e146938-d1e441">
+            <name xml:id="lca8s8-d1e750-Nd1e488">Durandus</name> 
+            in Sentences II,
+            distinction 44,
+            q. 3
+          </ref> 
+          confirms by evident reason:
+          because that the subjects of some pagan prince are converted to the faith does not increase his sins nor is it a new crime for him,
+          wherefore it is only their merit and not his fault.
+          Therefore since he does not deserve to be deposed if his subjects did not receive the faith:
+          much less would he be deposed if his subjects receive it.
+          And certainly the opinion of 
+          <name xml:id="lca8s8-d1e750-Nd1e508">John Major</name> 
+          savors of the heresy of those who think through baptism they are liberated from all obedience and obligation of paying tribute:
+          whom 
+          <ref xml:id="lca8s8-d1e750-Rd1e517">
+            <name xml:id="lca8s8-d1e750-Nd1e518">Jerome</name> 
+            on Paul's Epistle to Titus,
+            c. 3
+          </ref> 
+          reports defend themselves by the words of 
+          <ref xml:id="lca8s8-d1e750-Rd1e523">Paul to the Galatians 2a c. 4</ref> 
+          namely (those words) "with what liberty Christ freed us."
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

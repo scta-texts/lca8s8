@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 55 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 55 [Bnf 12926 Translation]</title>
+          <date when="2026-01-06">January 06, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="232-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e763">
+        <head xml:id="lca8s8-d1e763-Hd1e97">Chapter 55 [Bnf 12926 Translation]</head>
+        
+        <p xml:id="lca8s8-d1e763-d1e101">
+          <pb ed="#P" n="232-r"/>
+          Chapter 55
+        </p>
+        
+        <p xml:id="lca8s8-d1e763-d1e108">
+          It does not oppose these things what Saint Thomas writes 2a 2ae,
+          q. 10 argument 10 in the body:
+          He says:
+          Infidels by merit of their infidelity deserve to lose power over the faithful,
+          who are transferred to the sons of God.
+          These things seem to agree with the opinion of John Major,
+          but Thomas himself explains his opinion in the body of the question and in the solution to the 2nd argument,
+          where he teaches that since kingdoms are from the law of nations derived from natural law,
+          and the distinction of faithful and infidel is from divine law,
+          and divine law does not abolish human law derived from divine law,
+          certainly infidelity considered absolutely does not abolish the jurisdiction of an infidel prince over faithful subjects.
+          In the response however to the 2nd he writes that the empire of 
+          <name xml:id="lca8s8-d1e763-Nd1e149">Nero</name>
+          and his jurisdiction which flourished in the time of the blessed Paul was not abolished even if his subjects were converted to the faith by his empire.
+          Therefore unless there should be some new and just cause on account of which he would deserve to lose dominion and jurisdiction,
+          always his Christian subjects would remain his.
+          Therefore those first words of Saint Thomas must necessarily be understood when there is some great and probable danger to the faith if a pagan reigns.
+          For example if he should treat his subjects tyrannically and violently because they received the faith,
+          or if he should be a blasphemer against Christ 
+          <pb ed="#P" n="232-v"/>
+          or if he should do or say anything,
+          or what might obscure His glory.
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e182">
+            Saint Thomas assigns these causes in article 8 of the same question
+          </ref>.
+          Concerning what should be done with princes perpetrating such things,
+          we have already taught above in case 4.
+          That if a prince should vex his subjects directly in hatred of the faith,
+          he would be deprived of the kingdom by that law itself,
+          or at least could be deprived by sentence from the church from the power committed to it by God.
+          As Saint Thomas notes there.
+          In this case that argument of 
+          <name xml:id="lca8s8-d1e763-Nd1e205">John Major</name>
+          fits which he brings forward for proof of his 2nd conclusion,
+          namely that just as a petty king subject to a king inducing his subjects to rebel against the king could be lawfully deprived of his dominion,
+          so also a prince striving that his subjects should fall away from the faith of Christ,
+          to whom all things heavenly and earthly are subject,
+          ought to be deprived of the kingdom.
+        </p>
+        
+        <p xml:id="lca8s8-d1e763-d1e225">
+          Nevertheless outside this case it does not fit.
+          For what if the prince does not impede his subjects from receiving the faith of Christ?
+          Or what if the subjects do not wish to receive it?
+          Certainly here the reason of John Major has nothing to do with the matter,
+          especially toward infidels who have never heard anything of Christ or the faith or his church.
+          Therefore when the holy doctor said that infidels by merit of their infidelity deserve to lose power over the faithful,
+          he intends this supposing namely some condition repugnant to the progress of the faith.
+          <pb ed="#P" n="233-r"/>
+          But since the church from many and more ancient centuries,
+          with experience teaching,
+          supposes the obstinate blindness of the Jews and the impious truculence of the Saracens,
+          who by profession oppose the gospel of Christ,
+          certainly in these infidels who are subject to the church or to its members,
+          it will judge that a servant of the Jews or Moors should obtain liberty if he acknowledges the truth of Christ,
+          as in 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e276" target="http://scta.info/resource/gd-p1d54-d1e304">
+            c. mancipia
+          </ref>,
+          and in 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e281" target="http://scta.info/resource/gd-p1d54-d1e335">
+            c. Fraternitatem, distinctio 54
+          </ref>,
+          and in 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e288" target="http://scta.info/resource/cice-l5t6-d1e392">
+            c. ultimo de Iudaeis
+          </ref>.
+          Since the church believes that they will work with all their strength so that a servant converted to the faith should fall away from it.
+          The church could dispose the same concerning servants of Jews or Saracens who are not subject to us.
+          Which however it does not do lest scandal arise.
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e304" target="http://scta.info/resource/TAca84-d1e1324-Dd1e184">
+            Saint Thomas taught these things in that article
+          </ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e763-d1e312">
+          That this is the reason of the constitution is proved in 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e316" corresp="#lca8s8-d1e763-Qd1e321">
+            the said c. mancipia
+          </ref>.
+          There:
+          
+          <quote xml:id="lca8s8-d1e763-Qd1e321" source="http://scta.info/resource/gd-p1d54-d1e304@1-21">
+            Whatever Christian slaves a Jew shall have been shown to have purchased,
+            bring them to liberty according to the precepts of the law without any ambiguity,
+            lest (which may it not be) the Christian religion subjected to the Jews be polluted
+          </quote>.
+          These things there.
+          The text makes 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e334" target="http://scta.info/resource/cice-l3t33-d1e134">
+            c. ex literis de conuersione infidelium
+          </ref>.
+          Because truly the church has from the most ancient experience in Turks and Saracens as completed the said condition,
+          that namely they are always prepared 
+          <pb ed="#P" n="233-v"/>
+          to attack the faith and disturb the Christian people.
+          Therefore rightly always the faculty should be prepared,
+          when it is available,
+          to invade them,
+          even if for some years they should cease from infestation.
+          But where that reason should happen to cease,
+          as in infidels who have neither troubled the church nor the Christian people,
+          who have heard nothing whatsoever of Christ or the Catholic faith,
+          as is manifest in our Indies,
+          certainly that law constituted by the church will not have place in the least.
+        </p>
+        
+        <p xml:id="lca8s8-d1e763-d1e382">
+          All these things are confirmed from the words of 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e388" corresp="#lca8s8-d1e763-Qd1e393">
+            Saint Thomas in article 1 of the same tenth question
+          </ref>,
+          where he writes 
+          
+          <quote xml:id="lca8s8-d1e763-Qd1e393" source="http://scta.info/resource/TAca84-d1e1324-d1e297@1-32" type="paraphrase">
+            that the infidelity of those who have never heard the faith and who do not resist it does not have the nature of guilt but of punishment.
+            Since by the sin of our first parents we are ignorant of divine things
+          </quote>,
+          and although such infidels are damned to eternity by reason of the sins which they commit,
+          which cannot be purged without Christian sacraments,
+          nevertheless not because they did not believe in Christ of whom they never heard anything.
+          Therefore in no way should it be said that infidels ought by reason of their infidelity to lose the jurisdiction and power which they have over their subjects from the fact that the subjects receive the faith,
+          but they themselves are unwilling to receive it,
+          especially if not by obstinacy of stubborn mind,
+          but by ignorance or by wishing to be more fully instructed they cease to receive the faith.
+          Since the merit of subjects crossing over to Christian service does not add new sin 
+          <pb ed="#P" n="234-r"/>
+          to the princes themselves remaining in infidelity.
+          As we said.
+          For it is difficult for pagans to relinquish their most ancient faith,
+          according to 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e465">
+            Chrysostom homily 7 on 1 Corinthians c. 2
+          </ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e763-d1e457">
+          Therefore Saint Thomas understands concerning princes of Turks or Moors who in his time were known in the world to be enemies of Christians,
+          because not only do they not permit their subjects to receive the Christian faith,
+          but also they desire that the entire religion of Christ should have been long ago fundamentally extinguished,
+          and Christians generally in every place and at all times,
+          as far as they can,
+          they do not allow to conduct a tranquil life.
+          This is the true sense of the words of Saint Thomas,
+          otherwise that man would hardly be consistent with himself by writing diverse things,
+          which should not be said of the holy doctor's teaching.
+          But in doubt that sense is to be embraced as genuine which removes repugnance and reduces diverse sentences,
+          prima facie,
+          into harmony according to the jurists,
+          as in 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e503" target="http://scta.info/resource/cice-l3t42-d1e149">
+            c. maiores: de baptismo
+          </ref>,
+          and in 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e508" target="http://scta.info/resource/cice-l2t28-d1e923">
+            c. sollicitudinem de appellationibus
+          </ref>.
+          And in 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e531">
+            ll. vbi repugnantia, ff. de regulis juris
+          </ref>.
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e520" target="http://scta.info/resource/jsnvu6-e146938-d1e441">
+            <name xml:id="lca8s8-d1e763-Nd1e521">Durandus</name>
+            in the 2nd of Sentences distinction 44 q. 3
+          </ref>,
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e526">
+            <name xml:id="lca8s8-d1e763-Nd1e527">Abulensis</name>
+            on Matthew c. 20 q. 96a
+          </ref>,
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e532">
+            <name xml:id="lca8s8-d1e763-Nd1e533">Albertus Campensis</name>
+            in the book of ecclesiastical hierarchy book 5
+          </ref>,
+          and 
+          <pb ed="#P" n="234-v"/>
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e540">
+            in the book of controversies controversy 16
+          </ref>,
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e545">
+            <name xml:id="lca8s8-d1e763-Nd1e546">John Driedo</name>
+            on ecclesiastical liberty part 1 c. 1
+          </ref>,
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e551">
+            and part 4 in the beginning
+          </ref>,
+          and 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e557">
+            sentence 7
+          </ref>,
+          and 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e559">
+            part 5 c. 2 part 2
+          </ref>,
+          and 
+          
+          <ref xml:id="lca8s8-d1e763-Rd1e561">
+            part 3
+          </ref>
+          prove our determination by name.
+        </p>
+        
+        <p xml:id="lca8s8-d1e763-d1e564">
+          But the opinion of these is much more undoubted in the princes of the Indies.
+          And thus it is clear that 
+          <name xml:id="lca8s8-d1e763-Nd1e570">John Major</name>
+          has gone far astray in error when he said that if the people of an infidel prince are converted to the faith and he himself wishes to remain in his perfidy,
+          he ought to be deposed from his principate on account of the liberty of the faith.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

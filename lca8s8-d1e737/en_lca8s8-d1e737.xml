@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 53 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 53 [Bnf 12926 Translation]</title>
+          <date when="2024-05-23">May 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="226-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e737">
+        <head xml:id="lca8s8-d1e737-Hd1e90">Chapter 53 [Bnf 12926 Translation]</head>
+        <p xml:id="lca8s8-d1e737-d1e94">
+          Chapter 53
+        </p>
+        
+        <p xml:id="lca8s8-d1e737-d1e99">
+          <pc type="pilcrow"/> As for the slanderers of the Indians: 
+          they also bring forward what 
+          <ref xml:id="lca8s8-d1e737-Rd1e109" target="http://scta.info/resource/jb2v19-d111866-d1e326@114-285">
+            John Major wrote on this matter in the second book of Sentences, chapter 44, question 3
+          </ref> 
+          who truly, with all due respect, 
+          spoke very confusedly partly about all unbelievers: 
+          partly he thinks erroneously and against natural reason and divine law, 
+          to the scandal and impediment of the faith: 
+          he said certain things in the present business of the Indians. 
+          However, 
+          <ref xml:id="lca8s8-d1e737-Rd1e129" target="http://scta.info/resource/jsnvu6-e146938">
+            <name xml:id="lca8s8-d1e737-Nd1e130">Durandus</name>, 
+            a theologian of greater authority, 
+            disapproves of his doctrine in that Book of Sentences in the same distinction
+          </ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e737-d1e136">
+          But so that the errors of this man ignorant of law and fact may appear more clearly, 
+          I will set forth his words: 
+          <quote xml:id="lca8s8-d1e737-Qcyaa8a" source="http://scta.info/resource/jb2v19-d111866-d1e326@114-285">
+            Since, he says, the Indians did not understand the Spanish language: 
+            nor would they admit preachers of the divine word without a great army, 
+            it was necessary to build fortified strongholds here and there, 
+            so that with the passage of time the unbridled people might become accustomed to the ways 
+            of Christians, understanding each other mutually. 
+            And because great expenses are required in all these things, 
+            which no other king provides, 
+            it is therefore lawful to seize them, 
+            because another ought reasonably to wish this. 
+            And then when the people will have become Christian, 
+            either the ancient king receives the faith or not. 
+            If the latter, since he can turn to the harm of the faith, 
+            he is to be deposed for the liberty of the orthodox faith, 
+            and also deserves to be deposed: 
+            and this the people wishes if they properly receive Christianity. 
+            But if you suppose the people still wish to have that ancient king, 
+            although he remains a pagan, 
+            it is a great indication that the faith is not yet sincerely received: 
+            and then the kingdom is not to be left to him, 
+            nor is it fitting that an infidel king have a Christian people, 
+            since through gifts and honors he can turn them away from the faith. 
+            But if the same one will wish to receive it along with the others, 
+            paying for the expenses assumed, 
+            I do not see that he should be deposed. 
+            And this if he will be prudent, 
+            unless a lapse into infidelity is feared
+          </quote> 
+          etc. These are 
+          <ref xml:id="lca8s8-d1e737-Rccyxxy" corresp="lca8s8-d1e737-Qcyaa8a">
+            <name xml:id="lca8s8-d1e737-Nd1e208">John Major's</name>
+          </ref> 
+          words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e737-d1e212">
+          First, while he supposes the Indians would not receive preachers without a great army, 
+          he clearly stumbles, 
+          ignorant of how the matter stands. 
+          For the Indians are most gentle, 
+          and where the Spanish first penetrated into those provinces, 
+          a great number of them, with sincere spirit, 
+          eagerly entered the ships of the Christians, 
+          and entertaining the Spanish in their houses as divine men and sent from heaven, 
+          they honored them most devotedly. 
+          From which it is clearly evident that they would receive and almost worship the preachers 
+          if they reflect the example of Christ and the apostles in their conduct, 
+          and are such as the announcers of evangelical truth ought to be.
+        </p>
+        
+        <p xml:id="lca8s8-d1e737-d1e249">
+          Moreover, when 
+          <name xml:id="lca8s8-d1e737-Nd1e251">John Major</name> 
+          asserts that kings can be despoiled of their kingdoms 
+          until they pay the expenses incurred by the kings of Spain in sending soldiers and preachers, 
+          certainly he errs. 
+          Shall we seize a kingdom in the name of a pledge, 
+          just as a cloak which is easily returned when the debt is paid? 
+          Furthermore, so that a king may be despoiled of his kingdom under this tyrannical pretense, 
+          how many slaughters, how many fires, 
+          how many pitiable calamities must necessarily precede? 
+          Where has this theologian read of such pledges which bring about the destruction of so many souls? 
+          What moreover will the Indian kings think 
+          when they see the Spanish, a bearded, fierce, strong, and formidable people, 
+          erecting fortresses and building stone houses without royal permission? 
+          These things will make the name of Christ hateful to worship, 
+          and from them will follow the innumerable evils related above. 
+          Did Paul accept such pledges from those to whom he preached the gospel? 
+          Or rather did he labor with his hands lest an offense be presented to the gospel? 
+          All things, he says, we endure, 
+          lest we give an obstacle to the gospel of Christ, 
+          <ref xml:id="lca8s8-d1e737-Rd1e311" target="http://scta.info/resource/Icor9_12">
+            1 Corinthians 9
+          </ref>. 
+          Did he say this for himself alone, as if he alone were bound to give the gospel freely, 
+          and not rather say this for all, 
+          which is narrated in 
+          <ref xml:id="lca8s8-d1e737-Rd1e320" corresp="#lca8s8-d1e737-Qd1e344">
+            the Acts of the Apostles chapter 20
+          </ref> 
+          that he said to the bishop and prelates at Miletus: 
+          <quote xml:id="lca8s8-d1e737-Qd1e344" source="http://scta.info/resource/act20_33-35">
+            I have coveted no one's silver or gold or clothing, as you yourselves know: 
+            because these hands have ministered to my needs and to those who were with me. 
+            I have shown you all things, that laboring thus you ought to support the weak, 
+            and to remember the word of the Lord Jesus, because he himself said: 
+            it is more blessed to give than to receive
+          </quote>? 
+          Why do we not imitate this man of generous mind?
+        </p>
+        
+        <p xml:id="lca8s8-d1e737-d1e349">
+          Why, by reason of money or expenses which he pretends, 
+          do we give occasion for the Indians to think that the law of the gospel is troublesome and burdensome? 
+          Let us follow the footsteps of Paul saying that thus it is necessary to support the weak. 
+          That word "necessary" is prescriptive and introduces necessity, as I said above. 
+          Therefore 
+          <name xml:id="lca8s8-d1e737-Nd1e366">John Major</name> errs, 
+          who, granting that the kingdoms of the Indians exist, 
+          asserts that kings ought to be despoiled of their kingdoms in the name of a pledge, 
+          so that when the expenses are paid they may receive them back if they have accepted the faith of Christ. 
+          Which is most vain. 
+          For let us suppose that they are unwilling to accept the faith of Christ nor to pay the expenses: 
+          I ask by what title can they be despoiled of their kingdom? 
+          Certainly not by the title of action for business conducted usefully. 
+          For it cannot be said that their business was conducted usefully, 
+          since from the arrival of the Spanish they are despoiled of their own kingdoms, 
+          and innumerable evils arise from the war which it is necessary to wage 
+          so that the Indian king may be despoiled of his dominion. 
+          Since therefore the business was not conducted usefully, 
+          they need not pay the expenses, as in 
+          <ref xml:id="lca8s8-d1e737-Rd1e407">
+            L. sed si ideo, ff soluto matrimonio
+          </ref>. 
+          Since therefore from the doctrine of Christ no one is to be punished 
+          for the reason that he does not wish to receive the Christian faith, 
+          nor is he to be compelled to the faith, 
+          what kind of example is it to despoil a prince of his kingdom because he does not wish to accept the faith, 
+          especially preached by impious men whom you would rather call demons and ministers of Satan 
+          and enemies of the glory of Christ than angels of peace and announcers of truth?
+        </p>
+        
+        <p xml:id="lca8s8-d1e737-d1e432">
+          Therefore let 
+          <name xml:id="lca8s8-d1e737-Nd1e434">John Major</name> go away with his dreams. 
+          For he is ignorant of law and fact. 
+          But it is laughable that this theologian says that the Indian king, 
+          even before he understands the Spanish language, 
+          and even before he understands with what plan the Spanish erect fortified strongholds, 
+          ought to be despoiled of his kingdom if he does not accept the faith, 
+          by reason of expenses. 
+          If the wretched king does not understand the Spanish language, 
+          how will he perceive or believe the truth of Christ, 
+          and depart from his religion approved by the consensus of so many centuries? 
+          Would not one who did this be insane? 
+          Are Christian dogmas similar to principles which nature itself teaches and demonstrates 
+          to each man, gentile and infidel, by a peculiar light inserted in him? 
+          Who is so blind that he does not see these to be the arts of Satan: 
+          to despoil an innocent prince completely ignorant, 
+          and to lead him into captivity stripped of his goods, under the pretext of expenses? 
+          What does this have in common with the charity of Christ or with common reason? 
+          The Indian who has never heard the name of Christ believes, 
+          at least in a human way, that his religion is true no less than a Christian believes Christianity is. 
+          <name xml:id="lca8s8-d1e737-Nd1e495">John Major</name> adds 
+          that the Indian king ought reasonably to endure this. 
+          I by no means think that 
+          <name xml:id="lca8s8-d1e737-Nd1e504">John Major</name> himself would tolerate these things so impious and crude, 
+          even if he were an Indian, 
+          if Hungarians or Bohemians whose language he did not understand, 
+          even if they were moved only for his good, 
+          should despoil him, that is, at their first entrance, of his dignity or kingdom if he were king: 
+          all provinces overturned, shaken by warlike tumult. 
+          Would he receive graciously with joy that good thing and willingly pay the expenses 
+          when already with the passage of time they understood each other's language? 
+          I think not. 
+          What is it to compel to the faith if this is not? 
+          And it is not simple coercion, 
+          but with deaths and warlike terror than which there is nothing greater. 
+          <name xml:id="lca8s8-d1e737-Nd1e546">Gregory</name> says in the place cited above: 
+          this is a new and unheard-of preaching which demands faith by blows.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

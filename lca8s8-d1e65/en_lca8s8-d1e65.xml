@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 2 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 2 [Bnf 12926 Translation]</title>
+          <date when="2024-07-26">July 26, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="14-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e65">
+        <head xml:id="lca8s8-d1e65-Hd1e97">Chapter 2 [Bnf 12926 Translation]</head>
+        
+        <p xml:id="lca8s8-d1e65-d1e99">
+          Chapter Two 
+        </p>
+        
+        <p xml:id="lca8s8-d1e65-d1e104">
+          The second species of barbarians is of those who lack a written language corresponding to their native tongue:
+          as we have Latin for our language:
+          and thus they do not know how to express in it what they think.
+          Hence on this account they are considered rude and lacking in letters and education.
+          For this reason the venerable Bede,
+          lest his English people be regarded as barbarians,
+          wrote in English the disciplines of all the liberal arts,
+          which we read in his life,
+          and Saint 
+          <ref xml:id="lca8s8-d1e65-Rd1e125">
+            <name xml:id="lca8s8-d1e65-Nd1e126">Thomas</name> 
+          relates in his commentary on the first book of the 
+            <title>Politics</title>,
+            lecture 1
+          </ref>.
+          And Saint 
+          <ref xml:id="lca8s8-d1e65-Rd1e133">
+            <name xml:id="lca8s8-d1e65-Nd1e134">Gregory</name> 
+            in the 
+            <title>Morals</title>
+          </ref>,
+          as 
+          <name xml:id="lca8s8-d1e65-Nd1e142">John Gerson</name> 
+          relates:
+          <quote xml:id="lca8s8-d1e65-Qd1e147">
+            Behold the tongue of Britain,
+            which knew nothing else but to gnash barbarously,
+            has long since begun to resound Hebrew words in the praises of God.
+            Behold now already the ocean,
+            formerly withdrawn from the feet of the saints,
+            serves,
+            and its barbarous motions,
+            which earthly princes were unable to subdue with the sword:
+            these,
+            out of divine fear,
+            the mouths of priests bind with simple words.
+          </quote>
+          These are his words.
+          In this sense a barbarian is called one who,
+          on account of the difference of his language,
+          does not understand another speaking with him:
+          thus 
+          <name xml:id="lca8s8-d1e65-Nd1e173">Paul</name> 
+          speaking of himself says to the 
+          <ref xml:id="lca8s8-d1e65-Rd1e177">
+            <title>Corinthians</title> 14
+          </ref>.
+          <quote xml:id="lca8s8-d1e65-Qd1e181">
+            If I do not know the meaning of the voice,
+            I shall be a barbarian to him to whom I speak:
+            and he who speaks to me will be a barbarian
+          </quote>.
+          And in this sense 
+          <ref xml:id="lca8s8-d1e65-Rd1e197">
+            <name xml:id="lca8s8-d1e65-Nd1e198">Saint John Chrysostom</name>
+            in his commentary 
+            <title>on Matthew</title> 
+            chapter 2,
+            homily 7
+          </ref>,
+          very often calls the holy Magi kings barbarians.
+          <quote xml:id="lca8s8-d1e65-Qd1e209">
+            Indeed (he says) even though the star called the magi from the east and they were barbarian men:
+            they undertook the labor of a long and distant journey
+          </quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e65-d1e217">
+          ¶ Barbarians of this kind are not called barbarians simply but in a qualified sense:
+          that is,
+          they are not properly barbarians:
+          but accidentally,
+          which 
+          <name xml:id="lca8s8-d1e65-Nd1e226">Chrysostom</name> 
+          indicates there with these words:
+          <quote xml:id="lca8s8-d1e65-Qd1e228">
+            The star leads to adoration those whom it had preceded,
+            to be avoided not simply as barbarians,
+            but as those who surely excelled by far in the dignity of wisdom
+          </quote> 
+          and so forth.
+          These are his words,
+          in the perfect work 
+          <ref xml:id="lca8s8-d1e65-Rd1e240">
+            on Matthew,
+            chapter 2,
+            homily 7
+          </ref>. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e65-d1e246">
+          From these words of 
+          <name xml:id="lca8s8-d1e65-Nd1e248">Chrysostom</name>
+          it manifestly appears that it can happen that some are called barbarians and yet are wise,
+          prudent,
+          sensible,
+          and politically organized:
+          and hence the Greeks in ancient times called the Romans barbarians:
+          and in turn the Romans called both the Greeks and other peoples of the world barbarians.
+          Concerning these barbarians it is most manifest that the 
+          <ref xml:id="lca8s8-d1e65-Rd1e265">
+            <name xml:id="lca8s8-d1e65-Nd1e266">Philosopher</name> 
+            in the first book of the 
+            <title>Politics</title>
+          </ref> 
+          is not speaking when he says that barbarians are slaves by nature:
+          nor that they have an intellect capable of governing themselves or others.
+          Yet he does speak of this kind of barbarians in the 
+          <ref xml:id="lca8s8-d1e65-Rd1e282">
+            third book of the 
+            <title>Politics</title>
+          </ref>,
+          where,
+          relating four species of kings and kingdoms:
+          in the second place he relates the kingdoms of barbarians:
+          whose princes,
+          although he says have some similarity with tyrants:
+          nevertheless he judges them to be just and legitimate princes according to the custom of their country.
+          For their subjects are so modest that they endure the exactions,
+          tributes,
+          burdens and labors which are imposed on them by their princes,
+          even though they are heavy.
+          And again he writes that their kingdoms are more firm and secure than others:
+          because the subjects love and guard their prince:
+          who governs them according to the customs of the province,
+          and is a natural prince,
+          in whose command the sons succeed:
+          The words of Aristotle are these.
+          <quote xml:id="lca8s8-d1e65-Qd1e319">
+            There is another species of monarchy besides,
+            such as exist among certain barbarians,
+            having a power close to tyranny,
+            although they are legitimate and according to the custom of the country.
+            Because barbarian nations are more naturally suited to servitude than the Greeks:
+            and those who inhabit Asia more than those who inhabit Europe.
+            They bear under a master's rule the servile yoke with an even temper:
+            and for this reason such kingdoms are tyrannical:
+            but they have security because they are established by custom and laws:
+            and for the same reason they have a royal guard,
+            not a tyrannical one.
+            For kings are guarded by citizens with arms:
+            tyrants,
+            however,
+            by foreigners hired for pay.
+            And kings rule according to laws and over the willing:
+            but tyrants over the unwilling,
+            and so some are guarded by citizens,
+            others prepare a guard against the citizens
+          </quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e65-d1e366">
+          The third species of barbarians,
+          properly speaking in the strict sense of the term:
+          is of those men who either by impious and worst character,
+          or by the misfortune of the region they inhabit,
+          are cruel,
+          fierce,
+          dull,
+          stupid,
+          alien to reason:
+          who are governed neither by laws nor by right:
+          nor do they cultivate friendship:
+          nor do they have a republic or city constituted by political reason:
+          indeed they lack a prince:
+          laws:
+          and institutions.
+          They do not enter into marriages with fixed rites:
+          finally they have no human commerce:
+          they do not sell:
+          they do not buy:
+          they do not hire:
+          they do not rent:
+          they do not contract society:
+          they do not deposit:
+          they do not lend:
+          they do not loan:
+          finally,
+          none of the contracts of the law of nations is in use among them,
+          of which 
+          <ref xml:id="lca8s8-d1e65-Rd1e405">
+            the book speaks from this law,
+            ff de justitia et jure
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e65-Rd1e409">
+            § justitia: de jure naturali et gentium et civili
+          </ref>.
+          Indeed they live scattered and dispersed,
+          inhabiting forests and mountains,
+          content only with their women,
+          just as animals do,
+          not only tame but also wild.
+        </p>
+        
+        <p xml:id="lca8s8-d1e65-d1e421">
+          These are simply and properly barbarians,
+          such as perhaps were the inhabitants of the province which was called Barbaria.
+          Lacking reason and customs suitable to man:
+          and of those things which are received by custom among all men.
+          Of these the philosopher speaks,
+          and he pronounces them to be slaves by nature,
+          since they lack natural rule,
+          not having the institution of a republic.
+          Because among them there is no order:
+          for they are subject to no one,
+          nor do they have a prince:
+          surely among such no one excels in prudence worthy of rule:
+          nor is there among them such cleverness of mind or rectitude of judgment,
+          that they would wish to choose for themselves a prince who would keep them in virtue by political governance:
+          they have no laws which they fear or by which all things are ordered among them:
+          there is no one who weighs good deeds,
+          nourishes virtue;
+          restrains vices with punishment.
+          Finally,
+          not caring for social life,
+          they lead a life most similar to brute animals.
+          And since they differ most from other men in capacity of mind and customs:
+          they are prone to harm other men:
+          quarrelsome,
+          litigious,
+          eager for war,
+          and inclined to all cruelty,
+          just as wild beasts and birds that live by rapine.
+          Hence they are not free by nature:
+          but only when they are at home because of the lack of rulers.
+          Against these the philosopher cites a Homeric reproach against someone whom he calls uncivilized because of his depraved character,
+          and likewise solitary without a neighbor,
+          because his customs were such that with no one could he either contract or preserve friendship or association:
+          he calls him lawless because he obeyed the command of no law.
+          He calls him restless and turbulent:
+          finally,
+          impious and wicked,
+          because he could not temper his actions to the dictate of reason,
+          and hence he became eager for war and quarrels and prone and headlong to every evil.
+          All of which we see in birds living by rapine and not flying in flocks with others.
+          To these agrees what the 
+          <name xml:id="lca8s8-d1e65-Nd1e518">philosopher</name> 
+          says:
+          <quote xml:id="lca8s8-d1e65-Qd1e520">
+            He who is without a city is either superior to man or a beast,
+            as Homer reproaches by way of insult:
+            without tribe,
+            without law,
+            without home,
+            for such a one is by nature eager for war,
+            like one who is held back by no yoke,
+            like the birds
+          </quote>.
+          These are his words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e65-d1e534">
+          Barbarians of this kind,
+          or rather wild men,
+          are rare in any part of the world,
+          and few in number:
+          if they are compared to the rest of the multitude of mankind,
+          by the authority of 
+          <ref xml:id="lca8s8-d1e65-Rd1e544">
+            <name xml:id="lca8s8-d1e65-Nd1e545">Aristotle</name>
+            at the beginning of book 7 of the 
+            <title>Ethics</title>
+          </ref>.
+          Just as also men endowed with heroic virtue,
+          whom we call heroes and demigods,
+          are very rare.
+        </p>
+        
+        <p xml:id="lca8s8-d1e65-d1e559">
+          The same is proved from 
+          <ref xml:id="lca8s8-d1e65-Rd1e563">
+            <name xml:id="lca8s8-d1e65-Nd1e564">the Philosopher</name>,
+            in book 2 of 
+            <title>On the Heaven and the World</title>
+          </ref>,
+          where he says:
+          <quote xml:id="lca8s8-d1e65-Qd1e571">
+            nature always does what is best of those things that can be done
+          </quote>.
+          A little later 
+          <quote xml:id="lca8s8-d1e65-Qd1e578">
+            nature has greater care for nobler things
+          </quote>,
+          and again in the work 
+          <ref xml:id="lca8s8-d1e65-Rd1e584">
+            <title>On Old Age and Youth</title>,
+            chapter 2
+          </ref> 
+          he says:
+          <quote xml:id="lca8s8-d1e65-Qd1e591">
+            nature does what is best from the possible
+          </quote>.
+          Moreover,
+          in 
+          <ref xml:id="lca8s8-d1e65-Rd1e598">
+            book 1 of the 
+            <title>Rhetoric</title>,
+            c. 10
+          </ref>,
+          he 
+          <quote xml:id="lca8s8-d1e65-Qd1e603">
+            says that things which come about by nature have an ordered cause in themselves:
+            for they come about either always or for the most part
+          </quote>.
+          These are his words.
+          And so nature for the most part generates and produces what is best and perfect,
+          for rarely do natural causes fail to produce effects congruent with their nature.
+          Rarely is a man born lame,
+          or maimed,
+          or blind,
+          or one-eyed,
+          or with feet placed flat,
+          such as some are said to have been in Africa by 
+          <name xml:id="lca8s8-d1e65-Nd1e630">Augustine</name> 
+          and others.
+          But generally fire generates fire,
+          olive generates olive,
+          man generates man:
+          finally every thing in its species produces and generates perfectly something similar to itself,
+          and every man naturally understands and grants the first principles.
+          The sole cause of these things is namely that the works of nature are the works of the highest intelligence,
+          who is God,
+          as is said in the 
+          <title>Book of Causes</title>.
+          Therefore it befits the divine providence and goodness:
+          that nature always or for the most part produces the best and most perfect things,
+          but rarely and in fewer cases the imperfect and worst,
+          concerning which matter Saint 
+          <ref xml:id="lca8s8-d1e65-Rd1e660">
+            <name xml:id="lca8s8-d1e65-Nd1e661">Thomas</name> 
+            treats in book 2 of the 
+            <title>Sentences</title>,
+            dist. 34,
+            q. 1,
+            a. 8,
+            in the body and ad 2
+          </ref> 
+          and in many other places.
+          Since therefore such barbarians are savage,
+          imperfect and worst men,
+          and defects of nature or monsters in rational nature,
+          as the 
+          <ref xml:id="lca8s8-d1e65-Rd1e679">
+            <name xml:id="lca8s8-d1e65-Nd1e680">Commentator</name> 
+            says in book 3 
+            <title>On the Soul</title>
+          </ref> 
+          in these words:
+          error of intellect and false opinion are related to cognitions just as a monster is to corporeal nature:
+          and rational nature is provided for and directed by divine providence for its own sake and in a singular way above other creatures:
+          not only as to the species but as to each individual:
+          clearly it follows that it would be impossible in a rational creature to find such monstrosity or defect of nature,
+          namely,
+          to lack the common reason of mankind,
+          except very rarely and in far fewer cases than in other creatures.
+          Since God,
+          good and omnipotent,
+          out of his charity for the human race:
+          created all things for the utility of man:
+          and protects him,
+          equipped with so many gifts by special will and care as we have said:
+          and directs his acts and illumines the intellect of each one:
+          and disposes him to virtue according to the capacity given to him.
+          Hence rational nature,
+          having its power from that maker alone:
+          it is necessary that for the most part it has men perfect with the best gifts of mind:
+          rarely stupid or barbarous.
+          For since nature grants this to brute animals:
+          why would it not grant the same to man whom God willed to preside over all other animals,
+          chosen for himself and endowed with admirable gifts,
+          and by no other thing should nature be thought to produce man more perfect than by intellect,
+          by which thing especially he excels other animals.
+          Who therefore,
+          unless impious toward God and contumelious toward nature,
+          would dare to write that the infinite multitude inhabiting the ocean is barbarous,
+          savage,
+          uncultivated and stupid,
+          when,
+          if they are judged by right reason:
+          they far exceed other mortals by a very great multitude.
+          To these agrees what Saint 
+          <ref xml:id="lca8s8-d1e65-Rd1e766">
+            <name xml:id="lca8s8-d1e65-Nd1e767">Thomas</name> 
+            writes in 1. p. q. 23,
+            a. 3,
+            ad 3
+          </ref>,
+          that 
+          <quote xml:id="lca8s8-d1e65-Qd1e774">
+            The good proportioned to the common state of nature happens in the majority and fails from this good in the minority,
+            as is clear (he says) that more men are those who have sufficient knowledge for the government of their life:
+            but fewer who lack this knowledge,
+            who are called fools and stupid
+          </quote>.
+          These are the words of Saint 
+          <name xml:id="lca8s8-d1e65-Nd1e793">Thomas</name>.
+          In sum therefore,
+          since such barbarians lack the good of intellect which is the knowledge of truth,
+          just as Saint 
+          <ref xml:id="lca8s8-d1e65-Rd1e799">
+            <name xml:id="lca8s8-d1e65-Nd1e800">Thomas</name> 
+            says in 
+            <title>On Truth</title> 
+            q. 18,
+            a. 6
+          </ref>,
+          proportioned to the common state of rational nature:
+          it is manifest that in any part of the world or anywhere among nations such barbarians or rather monsters of rational nature cannot exist:
+          except very rarely.
+          For since so great is God's charity toward the human race:
+          then the counsel of God is to save all men:
+          it befits his wisdom that the whole universe being perfect in every part:
+          his highest wisdom should shine more and more in that thing which is most perfect,
+          that is,
+          in rational nature.
+          Therefore it is established that such barbarians whom we have placed in this third species:
+          are very rare:
+          since with such minds who can neither seek God:
+          nor know him:
+          nor invoke him:
+          nor love him:
+          nor are they capable of doctrine:
+          nor of faith:
+          nor of charity as to the exercise of these virtues.
+          Again,
+          if we believe such an immense multitude of men to be barbarous:
+          it would follow that the intention of God for the most part lacked effect:
+          namely with so many thousands of men being deprived of the light of nature common to all peoples and thus much would be detracted from the perfection of the whole universe,
+          which is a great incongruity and thinkable by no Christian.
+          For this reason Saint 
+          <ref xml:id="lca8s8-d1e65-Rd1e886">
+            <name xml:id="lca8s8-d1e65-Nd1e887">Thomas</name> 
+            in 1 p.,
+            q. 50,
+            a. 3
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e65-Rd1e890">
+            in book 2 of the 
+            <title>Sentences</title>,
+            dist. 3,
+            q. 1,
+            a. 3
+          </ref>;
+          and in 
+          <ref xml:id="lca8s8-d1e65-Rd1e896">
+            book 2,
+            c. 92,
+            <title>Against the Gentiles</title>
+          </ref> 
+          says that God created an immense multitude of angels,
+          exceeding all material multitude.
+          He adds the reason:
+          because since the perfection of the universe is that which God especially intends in the creation of things,
+          the more perfect some things are:
+          the more in greater excess they were created by God.
+          To the same can be adduced what 
+          <ref xml:id="lca8s8-d1e65-Rd1e918">
+            <name xml:id="lca8s8-d1e65-Nd1e919">the holy doctor</name> 
+            teaches in question 63,
+            a. 9,
+            in the body of that part
+          </ref>,
+          namely that many more angels remained in heaven than fell.
+          Saint 
+          <name xml:id="lca8s8-d1e65-Nd1e928">Thomas</name> 
+          is moved because 
+          <quote xml:id="lca8s8-d1e65-Qd1e930">
+            sin is against nature:
+            but those things which are against nature:
+            happen only rarely.
+            For nature achieves its effect either always or for the most part
+          </quote>.
+          These are the words of Saint 
+          <name xml:id="lca8s8-d1e65-Nd1e941">Thomas</name>. 	
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

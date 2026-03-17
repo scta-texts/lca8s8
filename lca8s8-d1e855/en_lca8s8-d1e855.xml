@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 62 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 62 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2024-06-20">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="250-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e855">
+        <p xml:id="lca8s8-d1e855-d1e97">
+          Chapter 62
+        </p>
+        <p xml:id="lca8s8-d1e855-d1e102">
+          Therefore that word contained in the bull "to subject" 
+          must be understood civilly and christianly:
+          which beyond the above is proven from the common principles of law that any law or 
+          constitution ought to be extended or restricted:
+          to the limits of the expressed reason:
+          even if the words do not allow it as in L. adigere. §. quamuis. ff. de Iure patio 
+          and in l. cum pater, 
+          § dulcissimis. ff. de legatis 2o and in L. pater. §. fundum. ff. de lega. 3o 
+          and in c. cum dilecta de confir. utili. And in 
+          <ref xml:id="lca8s8-d1e855-Rd1e138">regula fi. de regulis Iuris. lib. 6</ref> 
+          where it is said: 
+          <quote xml:id="lca8s8-d1e855-Qd1e143" source="http://scta.info/resource/wef6td-d1e1612-d1e735">
+            it is certain that he commits against the law:
+            who embracing the words of the law:
+            strives against the intention of the law</quote>.
+          And always the mind of the prince must be examined,
+          observed and followed even if it does not agree with the propriety of the words in the 
+          said § dulcissimis. For always the mind of the speaker must be considered rather than 
+          the voice. ff. de suppellecti. lega. L. labeo. Nor should the word be examined more 
+          than the will of the speaker. c. quae res pigno. obliga. possunt. l. ultima And 
+          <ref xml:id="lca8s8-d1e855-Rd1e169" target="http://scta.info/resource/gd-p2c22q5-d1e297">
+            22. q. 5 c. humanae aures.</ref>
+          and in l. scire leges: 
+          cum duabus sequen. ff. de legi. and it is noted in l. quamuis and there the gloss. 
+          finalis. ff. de in ius vocando 
+          <name xml:id="lca8s8-d1e855-Nd1e179">Panormitanus</name> 
+          and others in c. quia insulis de regularibus after 
+          <name xml:id="lca8s8-d1e855-Nd1e183">John of Legnano</name> 
+          in c. audientiam. de decimis. For words ought to serve the intention and not the 
+          intention serve the words:
+          as has been proven above. And 
+          <name xml:id="lca8s8-d1e855-Nd1e192">John of Legnano</name> 
+          in c. ad audientiam de decimis And generally in the letters of the prince the mind 
+          must be considered:
+          and the reason upon which his commands rest as in c. si propter tua debita and there 
+          the doctors. 
+          <ref xml:id="lca8s8-d1e855-Rd1e209">
+            <name xml:id="lca8s8-d1e855-Nd1e210">Ancharanus</name> 
+            in the repetition of the same chapter de Rescriptis libro 6.</ref> 
+          and 
+          <ref xml:id="lca8s8-d1e855-Rd1e215">in c. 2, eo titulo</ref> 
+          and 
+          <ref xml:id="lca8s8-d1e855-Rd1e220">c. ultimo de concessione praebendae libro 6</ref>, 
+          and in 
+          <ref xml:id="lca8s8-d1e855-Rd1e225">c. ex multiplici de decimis.</ref> 
+          <ref xml:id="lca8s8-d1e855-Rd1e230">Archidiaconnus. 25. q. 2. c. Seruatis.</ref> 
+          says,
+          that where it is evident concerning the intention of the pope that intention must be 
+          followed entirely. Likewise,
+          that the words of the pope enunciating the intention from of old determine and prove. 
+          <ref xml:id="lca8s8-d1e855-Rd1e241" 
+            target="http://scta.info/resource/gd-p2c25q2-d1e106">25. q. 2. § quod autem</ref> 
+          <name xml:id="lca8s8-d1e855-Nd1e247">Baldus</name> 
+          reports and confirms these things in the proem of the book of feuds § aliqua in 
+          principio.
+        </p>
+        <p xml:id="lca8s8-d1e855-d1e253">
+          Now the mind of the pontiff was that those peoples should be led to Christ. 
+          But this can in no way be done by war which rather generates hatred than love of our 
+          religion. Therefore by gentleness,
+          charity,
+          holy customs and the word of God the Indians must be led to the faith not by war 
+          concerning which the pontiff never dreamed (as we have often said) 
+          and the kings themselves understood that those peoples were to be subjected not by war 
+          but by the word of God as commanded to them by the pontiff as has been most clearly 
+          proven above. With these agrees that in odious matters words are to be strictly 
+          interpreted while favorable matters are to be extended and expanded. 
+          <quote xml:id="lca8s8-d1e855-Qd1e285" 
+            source="http://scta.info/resource/wef6td-d1e1612-d1e213">
+            Hatreds should be restricted and favors should be amplified</quote> 
+          <ref xml:id="lca8s8-d1e855-Rd1e290">c. odia de regulis juris lib. 6.</ref> 
+          But war which 
+          <name xml:id="lca8s8-d1e855-Nd1e299">Homer</name> 
+          writes is sent from hell is the most miserable and pestilential of all things that are 
+          under heaven:
+          and completely incompatible with the life and teaching of Christ unless when 
+          unavoidable necessity compels it. But to invite pagans to the faith by the word of God 
+          and evangelical customs is most holy and truly Christian and suitable for extending and 
+          exalting the glory of Christ.
+        </p>
+        <p xml:id="lca8s8-d1e855-d1e317">
+          Let us therefore restrict war,
+          the pestilence of body and soul:
+          and let us embrace evangelical preaching and the sword of the divine word more 
+          efficacious than all human arms. To these is added that even those things which 
+          regularly ought to be restricted such as penalties:
+          are extended / If it concerns public utility according to Bartolus in l. quemadmodum. 
+          C. de agricol. et censib. but these things pertain to the public salvation of those 
+          peoples:
+          that they should be led to the faith not by war deadly to mortals:
+          but by the word of God and to the rule of the kings of Spain. For by war it will 
+          rather happen that they hate the faith than that they embrace it. Then I believe no 
+          utility to be more public:
+          than that which besides the tranquility of so many provinces / generates the salvation 
+          of so many myriads of mortals. For the soul must be preferred to all things. as in 
+          <ref xml:id="lca8s8-d1e855-Rd1e368" 
+            target="http://scta.info/resource/cice-l5t38-d1e301">
+            c. cum infirmitas. de penitentiis et remissionibus</ref> 
+          and in 
+          <ref xml:id="lca8s8-d1e855-Rd1e374" 
+            target="http://scta.info/resource/gd-p2c12q1-d1e494">c. praecipimus. 12. q. 1</ref>
+        </p>
+        <p xml:id="lca8s8-d1e855-d1e380">
+          Let us therefore restrict that word "to subject":
+          so that it is understood concerning the subjection which will be born from the 
+          preaching of the divine word:
+          Gentle and mild:
+          in which sense that word must be accepted even if its proper signification were 
+          opposed. Especially since there exists the bull of Paul III,
+          Roman pontiff which expressly prohibits these detestable wars which are waged against 
+          the Indians under the pretext of religion:
+          commanding:
+          that they should be led to the faith not by warlike terror but by the word of God and 
+          holy customs. The content of this bull given in the year 1537 I have recounted above 
+          in the chapter.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

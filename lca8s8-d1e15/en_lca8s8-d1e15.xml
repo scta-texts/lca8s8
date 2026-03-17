@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preface [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Preface [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-05-21">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+          
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+        
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+          
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="7-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e15">
+        <head xml:id="lca8s8-d1e15-Hd1e97">Preface</head>
+        
+        <p xml:id="lca8s8-d1e15-d1e99">
+          <pb ed="#P" n="7-r"/>
+          Preface of the Apology of the Most Reverend Lord Brother Bartholomew de las Casas of the order of Saint Dominic,
+          formerly Bishop of Chiapas,
+          to the great Prince Philip of the Spains.
+          Brother Bartholomew de las Casas of the order of Saint Dominic,
+          formerly Bishop of Chiapas,
+          to the great Prince Philip of the Spains.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e130">
+          Illustrious prince,
+          since those things which pertain to the protection and tranquility of the greatest empire,
+          graciously granted to you by divine providence,
+          it is fitting that they be reported to you as heir of the Spanish kingdoms and of that new and wondrous world,
+          both by the authority of your father Maximilian Charles,
+          and by your generous spirit and wisdom divinely bestowed by Christ for immortal praise.
+          I thought it worthwhile to inform your Highness that there has come into my hands a certain summary written in Spanish of the work which Genesius Sepulveda is said to have composed in Latin.
+          In it he brings forward four causes,
+          each of which,
+          as it seems to him,
+          irrefutably proves that war against the Indians is just provided it be rightly conducted and with the laws of war observed,
+          just as hitherto the kings of the Spains have commanded it to be waged and conducted:
+          I hear that the man's counsel is to teach by what right the kings of Spain possess the empire of the Indies and to confirm it by reasons and laws,
+          <pb ed="#P" n="7-v"/>
+          so that henceforth there may be no one who can even silently construct a calumny against you from this.
+          I have read and reread the work attentively and they say Sepulveda inculcates certain other things more extensively in the Latin codex (which I have not yet had the chance to see).
+          What may happen to others I do not know:
+          certainly I have detected poisons smeared with honey in it.
+          For the man,
+          a theologian,
+          under the pretext of gratifying his prince,
+          offers poison anointed with honey and showing bread casts a stone.
+          Unless this deadly poison is restrained by your greatest wisdom,
+          O Prince,
+          lest it be spread into the minds of many readers and infect the unwary,
+          impose upon them,
+          and arm and incite tyrants to wickedness,
+          believe me that little book will bring ruin to the souls of very many.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e229">
+          For first,
+          having professed that he wishes to confirm your empire of the Indies,
+          he tears apart and diminishes your right,
+          bringing forward certain things partly vain,
+          partly false,
+          partly of such a kind that they have the least strength.
+          Then if the man's judgment in this matter were confirmed by royal faculty and privilege and published in print,
+          soon without doubt that greatest Indian empire would be utterly overthrown and perish.
+          And indeed if so many published laws,
+          so many decrees,
+          so many severe threats,
+          so many constitutions religiously promulgated by Charles Caesar and by preceding princes,
+          profited nothing to prevent so many thousands of most innocent
+          <pb ed="#P" n="8-r"/>
+          men from being consumed by sword and famine and all the hardships of extreme war,
+          and the most extensive spaces of most cultivated kingdoms and most happy provinces from being most savagely devastated;
+          if the fear of God or dread of hell did not restrain,
+          I will not say contain,
+          but even soften the most savage and cruel spirits of the Spanish;
+          if the cries of conscience-stricken and pious men profited nothing;
+          to be excluded from ecclesiastical sacraments,
+          not to be absolved in sacred confessions;
+          what will happen if the wicked (for whom according to the old proverb nothing is lacking except opportunity) read that a learned man,
+          a doctor of theology and royal historiographer,
+          in published books approves those wicked wars and hellish expeditions,
+          and with adduced arguments confirms and defends the unheard-of crime by which men forgetful of Christian virtue,
+          Christians press into servitude a race most wretched of all,
+          which seems to have escaped the savagery of the most savage race by some fate rather than by Spanish mercy?
+          And moreover to teach that all things prepared in these wars may be possessed lawfully by the soldiers even if they have undertaken the expedition with an evil intention of plundering (namely) of pillaging,
+          mingling by flames,
+          sword,
+          slaughters,
+          robberies and violence,
+          overturning and disturbing all divine and human laws?
+          Nor are they bound to restore goods thus acquired?
+          Since the Spanish doing these things and pouring out innocent blood consecrate their hands to God (as I hear Sepulveda has written),
+          and merit the grace of Christ while they forbid the worship of idols?
+          Whom will they spare?
+          Whose blood will they not pour out?
+          What savagery
+          <pb ed="#P" n="8-v"/>
+          will they not exercise?
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e346">
+          Savage men accustomed to seeing fields stained with human blood,
+          having regard for no sex,
+          no age,
+          not sparing the breasts of mothers with suckling infants,
+          not for the pregnant,
+          not for the greatest,
+          not for the least,
+          finally not for decrepit and white-haired old age,
+          men to whom increasing age is accustomed to win either reverence or mercy?
+          If they hear there is some man who teaches that they consecrate their hands to God while by slaughters,
+          robberies,
+          and tyranny they oppress the Indians,
+          no differently than those who killed the sons of Israel worshiping the calf,
+          for they will give greater faith to the words of any man teaching pleasing things than to the Son of God himself if present he were teaching the contrary to those present.
+          But if the Indians are destroyed to extermination,
+          if so many peoples and so widely patient kingdoms are devastated and destroyed,
+          who unless he be insane would doubt that most flourishing empire of the new world,
+          with the old inhabitants consumed,
+          deserted,
+          will be nothing other than the dominion of tigers,
+          lions and wild beasts for the kings of Spain?
+          But God most wise,
+          when he had determined to destroy certain peoples,
+          did not wish them to be utterly laid waste at once,
+          lest vacant of men they become lairs of wild beasts which would harm the few Jewish new inhabitants.
+          Thus we read Deuteronomy 7.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e402">
+          Therefore Sepulveda teaching either by voice or in published books that expeditions against the Indians are lawful,
+          what else does he do than add spirit to tyrants and provide occasion for so many crimes and miserable evils as they commit beyond what is credible to anyone?
+          Meanwhile with the most certain ruin of his own soul causing that innumerable mortals,
+          <pb ed="#P" n="9-r"/>
+          removed by savage slaughters,
+          perish eternally,
+          namely breathing out their souls by the savagery of the Spanish before they hear the word of God and are fed with the most gentle doctrine of Christ and are strengthened by Christian sacraments?
+          For which reason what more atrocious or more wicked can be devised?
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e443">
+          Then if Sepulveda's opinion is approved (namely) that expeditions against the Indians be lawful,
+          the most holy faith of Christ will be hateful and abominable with the reproach of the Christian name to all the nations of that world to whom the fame of the savage crimes which are exercised against the wretched race by the Spanish has reached,
+          so that neither in our age nor in the future would they wish to receive our faith in any way,
+          seeing that the first announcers of it are not shepherds but robbers,
+          not fathers but tyrants,
+          and those who profess it are impious men,
+          cruel and inexorable in atrocious savagery.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e475">
+          Moreover,
+          since Sepulveda's work is elegant,
+          elaborate,
+          eloquent and everywhere laboriously equipped with many machines of arguments,
+          it will forever impose upon these robbers,
+          enemies of the human race,
+          lest they ever come to their senses and recognizing their crime flee to the mercy of the Lord perhaps calling them to repentance by his ineffable charity,
+          and implore his help.
+          For this man excuses the wicked impiety of these men,
+          which brings with it whatever evils there are anywhere in the life of mortals,
+          under the appearance of religion,
+          and in tragic words praises the robbers savagely plundering and
+          <pb ed="#P" n="9-v"/>
+          commends their warlike virtue.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e511">
+          Finally it is not to be borne that a man to whom the duty of writing the Caesarean history has been entrusted should publish in print a pernicious error widely dissenting from the evangelical words and from the gentleness and mildness which the whole doctrine of Christ breathes and which the church,
+          reflecting its master,
+          uses toward those who do not acknowledge Christ.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e534">
+          For posterity will most justly judge that a man who has shamefully erred in a most manifest matter has by no means employed truth as his counselor in weaving history,
+          which thing,
+          however skillfully and elegantly the history be composed,
+          will obscure the most brilliant victories of Caesar.
+          I therefore,
+          considering so many disadvantages,
+          so great a harvest of evils most worthy of reproach and most harsh punishment which arises from his propositions,
+          the offense of God,
+          the infamy and hatred of our most holy religion,
+          the irreparable loss,
+          the ruin of so many souls of the faithful,
+          of the right belonging to the kings of Spain to the empire of the new world;
+          considering also that by these his opinions there is spread through all the nations of the world the savage and inveterate custom of seizing what belongs to others and of increasing one's wealth by human blood poured out,
+          the envy from which the Spanish race has long labored,
+          which Sepulveda refers to the virtue and glory of Spain,
+          I could not contain myself,
+          <pb ed="#P" n="10-r"/>
+          remembering that I am a Christian monk,
+          a bishop,
+          a Spaniard and subject to the kings of Spain,
+          that I should not draw the point of my pen for the defense of truth and the honor of the house of God and the increase of the adorable gospel of our Lord Jesus Christ,
+          so that according to the measure of grace given to me I might wipe away the reproach of the Christian name and remove the impediments and stumbling blocks to the spreading of the evangelical faith and proclaim the truth which I vowed in baptism,
+          which I learned in religion,
+          and which,
+          although unworthy,
+          I professed again when consecrated bishop.
+          For by all these titles I am bound to oppose myself like a wall against the impious for the defense of that most innocent race soon to be grafted into the true house of Israel,
+          which ravening wolves incessantly persecute.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e629">
+          I am bound also to block the way by which so many myriads of mortals are dragged to eternal ruin,
+          and to defend my sheep which by a published solemn vow I promised to protect even unto death against all wolves,
+          whether ecclesiastical or profane,
+          breaking into my folds.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e646">
+          Finally I wish to explain the true right of my prince,
+          by what title,
+          namely,
+          he possesses the new world,
+          and to conceal the horrible and infamous deeds which my people (namely) the Spanish in these few years have committed against the Indians by terrible slaughter and destruction contrary to law and right,
+          and to wash away the ignominy contracted on this account among all the nations of the world.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e664">
+          Therefore four things must be treated here in order that I may completely deliver these:
+          <pb ed="#P" n="10-v"/>
+          First I will refute Sepulveda's opinion contending that war against the Indians is just because they are barbarous,
+          rude,
+          unteachable and without experience of civil life.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e686">
+          Second I will show that Sepulveda,
+          with most certain ruin of his soul,
+          errs in teaching that war against the Indians is just in order that their crimes contrary to the law of nature may be punished,
+          especially the crime of idolatry and of sacrificing human beings.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e704">
+          Third we will attack the third cause upon which Sepulveda relies when he teaches that war can be waged against those nations absolutely and indifferently for the liberation of the innocent.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e715">
+          Fourth I will treat how alien from evangelical doctrine and Christian piety is his fourth proposition teaching that war against the Indians is just in order that the bounds of the Christian religion may be extended and the way may be opened to the announcers and preachers of the Gospel.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e733">
+          When these are completed the truth of this cause will be manifestly clear,
+          and how great a crime they have committed who have afflicted and afflict the Indians with robberies,
+          slaughters and other incredible hardships of war,
+          and at the same time how vain are the arguments of the man erring as much in law as in fact,
+          by what counsel he was led to write that pernicious treatise,
+          and how he distorts the decrees of philosophers and theologians,
+          has corrupted the words of sacred scripture,
+          of divine and human laws,
+          and no less perniciously has brought forward for the victory of his impious cause the authority of Pope Alexander VI.
+        </p>
+        
+        <p xml:id="lca8s8-d1e15-d1e760">
+          Finally there will be taught the true right by which the kings of Spain
+          <pb ed="#P" n="11-r"/>
+          possess the empire of the new world.
+          Wherefore,
+          most great prince,
+          I beseech your Highness that you command this work elaborated by me with great labors and vigils to be examined and investigated by learned men.
+          If anything less aptly or less well said should be found,
+          it will be most pleasing to me that my labors be polished by them with charity.
+          If however something happily elaborated should appear,
+          I desire no other human reward except that your Highness command Sepulveda to give me a copy of the work which he has written in Latin on this matter,
+          so that with the falsehood more fully refuted the truth may shine forth and reign in the consciences of all mortals.
+          Farewell.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 19 [Bnf 12926 English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 19 [Bnf 12926 English Translation]</title>
+          <date when="2025-02-05">Feb 05, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines 
+          for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="89-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e289">
+        <head xml:id="lca8s8-d1e289-Hd1e97">Chapter 19 [Bnf 12926 English Translation]</head>
+        <p xml:id="lca8s8-d1e289-d1e99">
+          Chapter 19.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e104">
+          From these things it is shown clearly enough in what manner a life adorned with virtues 
+          in the preachers of the faith supplies the place of miracles,
+          so that the unbelievers willingly hear the words of life 
+          and see reasonably that those things are to be believed,
+          and thus at last they may gain them for Christ.
+          On the contrary, however, if it should be infected with crimes,
+          especially with devastations of lands, 
+          rapines,
+          invasions, 
+          and unjust occupations of the dominions 
+          and possessions of those very unbelievers,
+          and on account of this with innumerable of them killed 
+          and slaughtered,
+          just as in the western Indian regions we have always and continuously done,
+          that we have been an impediment to their efficacious conversion 
+          nothing can seem clearer.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e141">
+          ¶ Wherefore we can gather that very many of the unbelievers are excused from the reception of the faith 
+          for a long time 
+          and perhaps for their whole life however long it may have lasted,
+          as long as they see the most corrupt 
+          <pb ed="#P" n="89-v"/>
+          and detestable morals of the Christians,
+          even if with such men religious men go for the sake of preaching 
+          and preach in act.
+          For they have sufficient impediments to believing,
+          indeed to hearing and conversing with men of this kind,
+          nay rather they have very many motives to the contrary,
+          as appears 
+          <ref xml:id="lca8s8-d1e289-Rd1e170">from the sayings of Chrysostom</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e173">
+          For it is written 
+          <ref xml:id="lca8s8-d1e289-Rd1e177">Ecclesiasticus 34</ref>: 
+          <quote xml:id="lca8s8-d1e289-Qd1e179" source="http://scta.info/resource/sir34_28">
+            One builds up and another tears down,
+            what does it profit them except labor?
+          </quote>
+          And the labor will be far greater if one preaches 
+          and a thousand do the contrary.
+          <ref xml:id="lca8s8-d1e289-Rd1e198">Scotus agrees in 4 Sententiarum distinction 3, question 4</ref>,
+          where he says that no one is bound to any divine precept 
+          unless it is promulgated to him by someone suitable and authentic,
+          or by truthful report and the testimony of good men,
+          which anyone ought reasonably to believe.
+          Which Scotus understands concerning a divine positive precept or law,
+          or human, 
+          which is not known interiorly in the heart.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e224">
+          ¶ But returning to the proposition, 
+          such unbelievers have no one suitable or authentic 
+          whom they ought reasonably to trust,
+          nor is there among them truthful report,
+          since they have not yet seen the preachers of the faith, 
+          as we suppose, 
+          nor the testimony of good men,
+          since all of that kind are held by ignorance of unbelief.
+          Therefore negative unbelievers will not always sin by worshiping idols.
+          And consequently they will be punished illicitly on account of this,
+          <pb ed="#P" n="90-r"/>
+          that they worship idols, 
+          by human judgment.
+          Concerning which in my judgment there ought to be no ambiguity to anyone 
+          through those things which have been alleged above.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e257">
+          <add place="margin-right" hand="F">objection</add>
+          ¶ There can also be adduced against the aforesaid the common opinion of all the holy doctors,
+          namely that concerning those things which are of the faith 
+          and of divine law and necessary for salvation,
+          invincible ignorance cannot fall.
+          Because if they did what is in them, 
+          God is ready to illuminate them by His grace.
+          Therefore if they are not illuminated, 
+          it is on account of their fault,
+          because they do not do what is in them, 
+          and thus they sin.
+          Therefore justly on account of that sin they can be punished even by human judgment.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e284">
+          The assumption is clear through 
+          <ref xml:id="lca8s8-d1e289-Rd1e288">
+            Saint Thomas especially in De Veritate, question 14, article 11, ad 1
+          </ref>,
+          where speaking of a man raised among groves, 
+          forests, 
+          or wild beasts, 
+          he says thus: 
+          <quote xml:id="lca8s8-d1e289-Qd1e297">
+            For this pertains to divine providence,
+            that it provide for each one concerning things necessary for salvation,
+            provided he is not impeded on his part.
+            For if someone should be nourished in the forests or among wolves,
+            and followed the guidance of natural reason with the appetite for good and flight from evil,
+            most certainly it is to be held that God would reveal through internal inspiration 
+            those things which are necessary to be believed,
+            or would direct some preacher of the faith,
+            just as he sent 
+            <name xml:id="lca8s8-d1e289-Nd1e320">Peter</name> 
+            to 
+            <name xml:id="lca8s8-d1e289-Nd1e323">Cornelius</name>, 
+            Acts 10.
+          </quote>
+          These words of 
+          <name xml:id="lca8s8-d1e289-Nd1e329">Saint Thomas</name>; 
+          he teaches the same in 
+          <ref xml:id="lca8s8-d1e289-Rd1e331">Romans 10, lecture 3</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e337">
+          <add place="margin-right" hand="F">objection</add>
+          ¶ To this we respond first that not always to one doing what is in him 
+          is God ready to illuminate through His grace,
+          <pb ed="#P" n="90-v"/>
+          unless it is from the intention of God that he be illuminated 
+          and receive grace, 
+          and then someone is infallibly illuminated and receives grace.
+          Thus teaches 
+          <ref xml:id="lca8s8-d1e289-Rd1e355" target="http://scta.info/resource/TAca84-d1e1251-d1e651@8-137">
+            Saint Thomas Prima Secundae, question 112, article 3 in the body
+          </ref> 
+          and 
+          <ref xml:id="lca8s8-d1e289-Rd1e359" target="http://scta.info/resource/TAca84-d1e1251-d1e699@6-59">ad 1</ref>,
+          where he asks whether by necessity grace is given to one preparing himself for grace 
+          or doing what is in him.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e367">
+          And he responded that 
+          <quote xml:id="lca8s8-d1e289-Qd1e369" source="http://scta.info/resource/TAca84-d1e1251-d1e651@24-122">
+            preparation for grace can be considered in two ways:
+            either according as it is from free will,
+            and according to this it has no necessity to the obtaining of grace;
+            or according as it is from God moving,
+            and then it has necessity to that to which it is ordained by God,
+            not indeed of coercion but of infallibility,
+            because the intention of God cannot fail.
+            Whence if it is from the intention of God moving that the man whose heart He moves 
+            should obtain grace, 
+            he infallibly obtains it,
+          </quote>
+          and so forth. 
+          These words of Saint Thomas.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e396">
+          Therefore since for those who are foreknown 
+          and at last to be damned with the reprobate,
+          it is not from the intention of God to impart grace or to illuminate them,
+          however much they prepare themselves through free will or do what is in them,
+          they will not obtain grace,
+          and therefore then they do not sin by not receiving grace.
+          Because not on account of a fault which is in them,
+          since rather in them there is punishment than fault on account of original sin 
+          according to Augustine, 
+          where he will be alleged below,
+          but because God does not will to illuminate them by His mere will,
+          not on account of sins but because He does not will,
+          from the fact that just as no cause of reprobation 
+          <pb ed="#P" n="91-r"/>
+          or predestination is given on our part,
+          so sometimes no cause of the effect itself of reprobation is given;
+          but the effect of reprobation is to deny grace 
+          and the means necessary for the obtaining of grace.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e441">
+          But a means necessary for the obtaining of faith and grace is the exterior vocation itself 
+          through preachers,
+          in which the predestination itself begins to be fulfilled 
+          according to 
+          <name xml:id="lca8s8-d1e289-Nd1e451">Augustine</name>,
+          and similarly the interior vocation by which God calls by inspiring.
+          Whence 
+          <ref xml:id="lca8s8-d1e289-Rd1e458">Saint Thomas in Quodlibet 2, article 6</ref> 
+          says that 
+          <quote xml:id="lca8s8-d1e289-Qd1e462">
+            a man is bound to believe according to how he is aided to believe.
+            But someone is aided to believe in three ways:
+            first indeed through interior vocation,
+            second through exterior teaching and preaching,
+            third through exterior miracles.
+          </quote>
+          These are his words.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e476">
+          Therefore if they are not aided by God through any of the aforesaid modes,
+          as in the foreknown, 
+          they do not sin by not believing or not receiving grace.
+          This 
+          <ref xml:id="lca8s8-d1e289-Rd1e485">Augustine intimates in the book On the Predestination of the Saints, chapters 9 and 10</ref>,
+          and 
+          <ref xml:id="lca8s8-d1e289-Rd1e490">On the Gift of Perseverance, chapters 13 and 14</ref>,
+          where among other profound and most beautiful things he says,
+          speaking of the Tyrians and Sidonians, 
+          thus: 
+          <quote xml:id="lca8s8-d1e289-Qd1e503">
+            But the rest, 
+            where if not in the mass of perdition are they left by just divine judgment?
+            Where the Tyrians were left and the Sidonians,
+            who even could have believed if they had seen those miracles of Christ.
+            But because it was not given to them to believe,
+            even that from which they might believe was denied,
+            namely preaching.
+          </quote>
+          And below: 
+          <quote xml:id="lca8s8-d1e289-Qd1e521">
+            Therefore the eyes of the Tyrians and Sidonians were not so blinded,
+            <pb ed="#P" n="91-v"/>
+            nor was the heart so hardened,
+            since they would have believed if they had seen such signs as these saw,
+            namely the Jews of whom he also speaks there,
+            but it did not profit even them that they could believe,
+            because they were not predestined.
+          </quote>
+          These words of Augustine.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e540">
+          ¶ Therefore that common opinion of the doctors is understood,
+          namely that concerning things necessary for salvation no one has invincible ignorance,
+          because if he did what is in him, et cetera,
+          concerning those who to eternal life through the mercy of God are preordained.
+          For such persons, 
+          if they did what is in them,
+          most certainly it is to be held that God would provide the remedy;
+          but as often as they do not do it, 
+          they sin, 
+          as the saints say.
+          And therefore these things do not obstruct what has been determined above.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e570">
+          <add rend="margin-left" hand="F">solution</add>
+          ¶ Second, 
+          we respond that whatever it may be concerning sin,
+          namely if we suppose that they sin,
+          nevertheless the punishment of that sin is reserved to divine judgment alone,
+          and therefore human judgment is excluded from care of this kind.
+          Both because,
+          as appears from what has been said,
+          it is uncertain,
+          indeed it would be impossible to find or discern those whom invincible ignorance cannot excuse 
+          from those who are rendered culpable by it.
+          And therefore this distinction is not of human judgment but of divine,
+          because God is the knower and judge of secrets. 
+          <ref xml:id="lca8s8-d1e289-Rd1e601" target="http://scta.info/resource/gd-p1d32-d1e300">
+            32 distinctio, c. erubescant
+          </ref>; 
+          <ref xml:id="lca8s8-d1e289-Rd1e606" target="http://scta.info/resource/gd-p2c2q5-d1e376">
+            and 2, q. 4, c. consuluisti
+          </ref>.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e609">
+          ¶ And he usurps divine judgment who judges uncertain 
+          and doubtful things. 
+          <ref xml:id="lca8s8-d1e289-Rd1e615" target="http://scta.info/resource/gd-p2c2q1-d1e301">
+            2, q. 1, nomen presbyteria
+          </ref>;
+          nor can that be condemned by human examination which God has reserved to His
+          <pb ed="#P" n="92-r"/>
+          judgment. 
+          <ref xml:id="lca8s8-d1e289-Rd1e626" target="http://scta.info/resource/gd-p2c15q6-d1e120">
+            15, q. 6, c. si a sacerdotibus
+          </ref>.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e629">
+          ¶ Both because, 
+          as is taught more fully below,
+          sins which are committed only between God and the sinner himself are reserved to divine judgment alone,
+          as is clear in many things,
+          especially in sins of thoughts,
+          even if they were known to the otherwise competent judge to be most grave.
+          And therefore no judge has the power of judging concerning hidden things. 
+          <ref xml:id="lca8s8-d1e289-Rd1e648">
+            The said c. erubescant, and 6, q. 1, c. si omnia
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e289-Rd1e654">the said c. consuluisti</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e658">
+          ¶ Likewise it is clear in this,
+          that the sin of the Jews and Saracens,
+          even those subject to Christian princes,
+          is not punished by human judgment but is reserved to divine judgment.
+          Whence the canonists say in 
+          <ref xml:id="lca8s8-d1e289-Rd1e671">c. quod super his. de voto</ref>,
+          that to be a Jew,
+          and by the same reason a pagan or Saracen,
+          is in itself a delict with respect to God and to eternal punishment,
+          but not with respect to the judge and contentious forum,
+          and thus it is not punishable by men.
+          The same says Bartholus and others in 
+          <ref xml:id="lca8s8-d1e289-Rd1e688">l. apud Iulianum, § 1</ref>,
+          and there 
+          <ref xml:id="lca8s8-d1e289-Rd1e693">Iasso § constat 5 columine</ref>.
+          See 
+          <ref xml:id="lca8s8-d1e289-Rd1e698">the gloss in c. post miserabilem: de vsuris</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e704">
+          Since therefore the sin of those worshiping idols,
+          even supposing that they are not excused from the sin of idolatry,
+          is done only between God and the sinners themselves,
+          and since it is very difficult,
+          indeed impossible,
+          to discern whom invincible ignorance does not excuse,
+          and through this they are committed by most hidden cogitation,
+          it follows that human judgment is excluded from the care of punishing
+          <pb ed="#P" n="92-v"/>
+          such sins,
+          unless it wishes rashly to usurp divine judgment.
+          Therefore the truth of the conclusion is clear,
+          that namely the negative unbelievers would be punished illicitly on account of this alone,
+          that they worship idols,
+          at least by human judgment.
+        </p>
+        <p xml:id="lca8s8-d1e289-d1e747">
+          <add place="margin-left" hand="F">
+            Against Innocent who said the pope can punish a people because they worship idols
+          </add>
+          And thus at last it appears sufficiently that Innocent in this matter errs enormously,
+          when he says it pertains to the pope to punish a gentile having only the natural law 
+          if he worships idols.
+          To his argument,
+          namely because it is natural to worship one and only God the creator,
+          we concede that it is natural,
+          but after it shall have been known that there is a true and unique God.
+          For then any rational creature will naturally understand that He is to be worshiped,
+          and to Him every act of worship,
+          reverence, 
+          and sacrifice is to be exhibited, 
+          et cetera.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

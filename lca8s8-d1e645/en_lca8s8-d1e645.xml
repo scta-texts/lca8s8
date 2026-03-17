@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 46 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+            <resp>Transcription Editor</resp>
+            <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 46 [Bnf 12926 Translation]</title>
+          <date when="2024-08-25">August 25, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-25" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="201-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e645">
+        <p xml:id="lca8s8-d1e645-d1e97">
+          Chapter 46
+        </p>
+        
+        <p xml:id="lca8s8-d1e645-d1e102">
+          We must now see what more Christ commanded when sending his disciples to preach.
+          For Luke says:
+          take nothing for your journey,
+          neither staff,
+          nor bag,
+          nor money etc.
+          Where 
+          <ref xml:id="lca8s8-d1e645-Rd1e121">Ambrose on chapter 9</ref> 
+          says:
+          What kind of person he who evangelizes the kingdom of God ought to be is designated by evangelical precepts:
+          that without bag,
+          without shoes,
+          without money that is,
+          not seeking the supports of secular aid and safe in faith he should think that the less he seeks these things,
+          the more can be supplied.
+          These are his words.
+          And on chapter 10 the same Ambrose says:
+          and therefore the good shepherd sends his disciples as lambs among wolves,
+          because they are directed not to plunder but to grace.
+          Therefore Christ does not want his faithful to be preceded by guards who intend nothing other than 
+          to plunder the resources of others.
+        </p>
+        
+        <p xml:id="lca8s8-d1e645-d1e161">
+          And the same 
+          <name xml:id="lca8s8-d1e645-Nd1e165">Ambrose</name> 
+          expounding those words "do not possess gold" says:
+          if we are forbidden to possess gold,
+          why do we try to seize,
+          why to take away?
+          If you have been commanded to give what you have,
+          how do you accumulate what you are forbidden to possess?
+          Which words all true Christians ought to consider:
+          For if Christ permitted us to accept gold from those to whom we preach the gospel,
+          the pagans would think that the evangelizers announce the faith for the sake of gain.
+          But if preachers are forbidden to accept gold that is offered,
+          how much less will they be able to seize or steal the resources of others?
+          Ambrose proceeds there:
+          you who preach "do not steal," do you steal?
+          You who say "do not commit adultery," do you commit adultery?
+          You who abhor idols,
+          do you commit sacrilege?
+          You who glory in the law,
+          do you dishonor God through transgression of the law?
+          For the name of God is blasphemed among the nations because of you.
+          Not thus Peter,
+          who was the first executor of the Lord's sentence,
+          so that he might show that the Lord's commands were not spread in vain,
+          when he was asked by a poor man that he give him some money,
+          said:
+          silver and gold I have not etc.
+          All these things are from Ambrose.
+        </p>
+        
+        <p xml:id="lca8s8-d1e645-d1e226">
+          But the Spaniards waging war on the Indians under the pretext of spreading religion,
+          will they give away their own money,
+          or rather will they violently seize and plunder the money of others?
+          Then the Indians,
+          seeing the Christian people lusting after gold and collecting with the greatest diligence,
+          preserving and all but worshiping the gilded fragments of broken idols,
+          will surely think that gold is the God of the Christians,
+          which we know for certain they have very often believed.
+          Moreover,
+          will those wagers of war meanwhile be so chaste,
+          so continent and temperate that they will not violate the wives of others?
+          Will they not rape their daughters?
+          But after those nations have learned from the teaching of religious men that these and similar things 
+          are sins prohibited by the law of the Christians,
+          and that so few observe it—namely the religious—and so many act against it,
+          that is all those men with none excepted,
+          will they not reasonably think that whatever the preachers of the faith announce about the faith,
+          about religion,
+          about Christ himself,
+          are ravings or fabricated lies?
+          Will this wickedness in those who have given cause for so great a scandal and for the infamy of Christ 
+          be expiable by any sacrifice?
+          What then do these satellites of Satan boast to us that they amplify the glory of Christ,
+          when by their impious works they defame the name of Christ,
+          which ought to be adored among the idolaters,
+          and render it hateful?
+          And upon them most truly falls that saying of Paul 
+          (which a little before Ambrose lamented):
+          <quote xml:id="lca8s8-d1e645-Qd1e311">through you the name of God is blasphemed among the nations</quote>?
+        </p>
+        
+        <p xml:id="lca8s8-d1e645-d1e311">
+          Hear,
+          reader,
+          the blessed Ambrose himself on Luke book 7 chapter 44:
+          What is the rod but the emblem of the power to be exercised and the instrument of avenging pain?
+          Therefore the humble command of the Lord—for in humility his judgment was exalted—
+          the humble command of the Lord,
+          I say,
+          the disciples of his humility execute with the offices of humility.
+          For he sent those to sow the faith who would not compel but teach.
+          Nor would they exercise the force of power but would bear the teaching of humility.
+          In which place he thought patience should also be joined to humility,
+          because he himself,
+          according to the testimony of Peter in 1 Peter 2,
+          when he was cursed did not curse,
+          when he was struck did not strike back,
+          that is to say:
+          be imitators of me,
+          lay aside desires for vengeance,
+          bear the insolence of those striking not by returning injury but by the magnanimity of patience.
+          No one should imitate in himself what he reproves in another.
+          And a little further on:
+          and you have elsewhere that when the apostles wished to call down fire from heaven to consume the Samaritans,
+          who did not wish to receive the Lord Jesus into their city,
+          he turned and rebuked them saying:
+          You do not know of what spirit you are,
+          the Son of man came not to destroy souls but to save them.
+          And a little further on he says about Paul:
+          he cast aside the rod and assumed the affection of charity.
+        </p>
+        
+        <p xml:id="lca8s8-d1e645-d1e384">
+          What can be produced more clearly against these organs of Satan,
+          ignorant of Christ,
+          blind,
+          miserable,
+          opposing the doctrine of Christ and the traditions and examples of apostolic men,
+          and disturbing the new world and indeed also our provinces with pestilential doctrine and destructive dissension?
+          We have from Christ 
+          <quote xml:id="lca8s8-d1e645-Qd1e408" source="http://scta.info/resource/mc13_37@1-6">
+            what I say to you,
+            I say to all.
+          </quote> 
+          <ref xml:id="lca8s8-d1e645-Rd1e414" corresp="#lca8s8-d1e645-Qd1e408">Mark 13.</ref> 
+          But if Christ thus instructed his disciples that he commanded them to teach not to compel,
+          to display and exalt humility not military pride and to carry around with him a band of robbers,
+          why does Sepulveda dare to profess that the Indians must be subdued by war before the gospel is preached to them,
+          so that before they understand it they may begin to hate it,
+          so that they may fall by the savage hand of soldiers before they understand the evangelical truth?
+          What do these men have to bring forward against the words of Christ and the fathers?
+          Or did Christ teach that the Indians should be dealt with differently than other idolaters?
+          Or has that command given to the apostles been revoked: 
+          <quote xml:id="lca8s8-d1e645-Qd1e446" source="http://scta.info/resource/mt10_12/critical/transcription@1-6">
+            but entering the house,
+            greet it saying:
+            peace to this house
+          </quote>,
+          and through 
+          <ref xml:id="lca8s8-d1e645-Rd1e453" corresp="#lca8s8-d1e645-Qd1e446">Luke</ref>: 
+          <quote xml:id="lca8s8-d1e645-Qd1e455" source="http://scta.info/resource/lc10_5@5-9">
+            first say peace to this house
+          </quote>?
+          What is consistent with the example of Christ:
+          to pierce with lances ignorant Indians before the gospel is preached to them,
+          and to terrify a most innocent people with proud arrogance and warlike fury,
+          driving them either to death or to flight?
+          See what 
+          <ref xml:id="lca8s8-d1e645-Rd1e476" corresp="#lca8s8-d1e645-Qd1e481">
+            Gregory says about such preaching in Epistle 25 book 2
+          </ref> 
+          <quote xml:id="lca8s8-d1e645-Qd1e481">
+            but this is a new and unheard-of preaching which demands faith by blows
+          </quote>.
+          These are his words.
+          Those words which Christ commanded his disciples to say,
+          "peace to this house," signify every felicity,
+          according to 
+          <ref xml:id="lca8s8-d1e645-Rd1e494" target="http://scta.info/resource/adcd-l19-d1e3112@315-327">
+            Augustine in The City of God book 9 chapter 13
+          </ref>,
+          for it signifies that peace by which men quietly enjoy their own things,
+          harming no one and receiving harm from no one.
+          Therefore peace is loved by all creatures,
+          even the insensible ones,
+          as Augustine notes there.
+          And 
+          <ref xml:id="lca8s8-d1e645-Rd1e513" target="http://scta.info/resource/KJde3s-d1e199-d1e108@1-35">
+            Dionysius teaches in book 11 on Divine Names
+          </ref>.
+          Therefore those words "peace to this house" spoken by the apostles signified the same as if they had said:
+          we have not come to plunder your things or to disturb your peace.
+          Which most holy words brought the pagans to hear the announcers of the gospel.
+          But we,
+          before we announce the gospel,
+          kill the innocent,
+          and having brought war we overthrow kingdoms and cause all peace to be exiled.
+        </p>
+        
+        <p xml:id="lca8s8-d1e645-d1e537">
+          Let Sepulveda produce one place where Christ or the holy fathers taught that pagans should be subjugated by war 
+          before the gospel is preached to them.
+          Sylvester the pontiff,
+          a holy man,
+          therefore it is most credible that he was not ignorant of how Christ instructed his own whom he sent 
+          to announce the gospel.
+          Did Sylvester wish to dissent from Ambrose or Chrysostom,
+          whom it is probable had the Holy Spirit in interpreting the scriptures?
+          Truth does not fight with truth,
+          nor does the Holy Spirit speak discordant things.
+          Therefore Sepulveda dreams.
+          For Constantine did not wage war on the pagans at the urging of Sylvester from the sole fact that they were pagans,
+          nor is there any place from which this can be gathered.
+          Nor has Sepulveda,
+          as he boasts,
+          diligently examined all the sacred doctors.
+          For if he had been versed in them,
+          he would by no means bring forth these impious things.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

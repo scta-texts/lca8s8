@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 9 [Bnf 12926 Transcription] [English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 9 [Bnf 12926 Transcription] [English Translation]</title>
+          <date when="2024-07-26">September 2, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-09-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="49-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e157">
+        <head xml:id="lca8s8-d1e157-Hd1e97">Chapter 9 [Bnf 12926 Transcription]</head>
+
+        <p xml:id="lca8s8-d1e157-d1e99">
+          Chapter 9
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e104">
+          ¶ Furthermore it is proved — as the seventh principal argument —
+          that the infidels of whom we speak are not subject to the Church,
+          nor within its jurisdiction,
+          and that therefore idolaters cannot be punished by the Church:
+          because they do not dwell within the boundaries of the universal Church,
+          but are outside its district and territory.
+          For no prince, king, emperor,
+          or anyone else whatsoever can exercise jurisdiction beyond his own borders;
+          for borders or limits are so called
+          because they limit, determine, or constrain
+          the thing, power, or jurisdiction of someone —
+          <ref xml:id="lca8s8-d1e157-Rd1e132" target="http://scta.info/resource/bgy6gt-d1e1565-d1e191">ff. de periculo et commodo rei venditae, l. ed quod</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e137" target="http://scta.info/resource/azsw2e-d1e349-d1e301">cod. de officio prefecti pretorio africae l. 2a § postquam vero</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e142" target="http://scta.info/resource/azsw2e-d1e349-d1e291">§ pro limitaneis</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e147" target="http://scta.info/resource/azsw2e-d1e349-d1e301">§ ex sequenti</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e149" target="http://scta.info/resource/azsw2e-d1e7721-d1e110">Cod. de fundis limitrophis l. 1a</ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e155">
+          That infidels do not dwell within the borders of the Church
+          is proved as follows:
+          because the Church is circumscribed by certain limits.
+          For the Church is nothing other than the whole Christian people,
+          united by fellowship and communion in the sacraments
+          and strengthened by faith —
+          as in <ref xml:id="lca8s8-d1e157-Rd1e172" target="http://scta.info/resource/gd-p3d4-d1e842">c. est unitas ecclesiae de consecratione distinctione 4</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e177" corresp="#lca8s8-d1e157-Qd1e179">c. loquitur, 24 q. 1</ref> where it says:
+          <quote xml:id="lca8s8-d1e157-Qd1e179" source="http://scta.info/resource/gd-p2c24q1-d1e392@13-22">the Church is one,
+            which extends itself more broadly in the multitude of its fruitful growth</quote>
+          and so forth,
+          and <ref xml:id="lca8s8-d1e157-Rd1e189" target="http://scta.info/resource/gd-p1d93-d1e470">93 distinctione c. legimus</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e192" target="http://scta.info/resource/gd-p2c1q1-d1e680">1 q. 1, c. multae in fine</ref>.
+          And these sacraments are the limits or walls
+          within which the Church is contained.
+          Or we can say that the limits of the Church are the faith —
+          the faith promised to God and to the Church in baptism
+          by those who are converted.
+          Likewise, the unity infused by charity and peace through the Holy Spirit,
+          and preserved and perpetuated
+          by the active and passive administration of the sacraments.
+          Or else they are the very multitude of the faithful,
+          gathered together in the unity of faith and charity —
+          just as <ref xml:id="lca8s8-d1e157-Rd1e221">Augustine, in Book 1 of the City of God, chapter 15</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e226">Book 15, chapter 8</ref> says:
+          <quote xml:id="lca8s8-d1e157-Qd1e229" source="http://scta.info/resource/adcd-l1-d1e90@35-43 http://scta.info/resource/adcd-l15-d1e2186@202-209">a city is a multitude of people
+            bound together by some bond of fellowship:
+            or a harmonious multitude of people</quote>.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e237">
+          ¶ The gateway of this city — that is, the Church — is baptism
+          <ref xml:id="lca8s8-d1e157-Rd1e241">de consecratione distinctio 4 capito cum itaque</ref>.
+          Those who have been washed in baptism according to the word of the Lord
+          are members of the Church and stand within it;
+          but those who have not been reborn through baptism,
+          or who waver in the vows made to God and the Church in baptism,
+          or who withdraw from the unity of the Church or from the Christian religion
+          through heresy or apostasy —
+          these are outside the Church,
+          even if they are not formally expelled.
+          Although therefore Catholics may live together with pagans or heretics
+          in the same house or city,
+          the Church certainly consists in those who are united by faith and charity,
+          and they are called the house or Church of God —
+          according to that saying of <ref xml:id="lca8s8-d1e157-Rd1e278">Jerome, 24 q. 1 c. omnibus consideratis</ref>:
+          <quote xml:id="lca8s8-d1e157-Qd1e283">I think I may say without rashness
+            that some are thus in the house of God,
+            which is said to be built upon the firm rock</quote>.
+          So says he.
+          And <ref xml:id="lca8s8-d1e157-Rd1e291">de penitentia distinctio 4 c. in domo</ref> where it says:
+          <quote xml:id="lca8s8-d1e157-Qd1e296" source="http://scta.info/resource/gd-p2c33q3d4-d1e227@16-24">the house of God,
+            the temple of God,
+            the kingdom of heaven are just people</quote>
+          and so forth.
+          This is also what <ref xml:id="lca8s8-d1e157-Rd1e303">Paul</ref> signifies
+          when he says:
+          <quote xml:id="lca8s8-d1e157-Qd1e307" source="http://scta.info/resource/Icor5_12@1-9">What is it to me to judge those who are outside?</quote>
+          And speaking of the faithful he says:
+          <quote xml:id="lca8s8-d1e157-Qd1e314" source="http://scta.info/resource/Icor5_12@10-17">Is it not those who are inside that you judge?</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e319">
+          The same is taught by <ref xml:id="lca8s8-d1e157-Rd1e321">Gregory, 24 q. 1 c. quia ex sola</ref>,
+          where he refers these words "inside" and "outside"
+          to the faithful and the infidels,
+          in these words:
+          <quote xml:id="lca8s8-d1e157-Qd1e328">from the Catholic Church alone (he says)
+            truth is perceived;
+            the Lord forbids having among oneself
+            the place of infidels, so to speak</quote>.
+          And further on:
+          <quote xml:id="lca8s8-d1e157-Qd1e337">concerning the sacrificial lamb the Lord commands, saying:
+            in one house you shall eat it;
+            and you shall not carry any of its flesh outside the doors</quote> —
+          that is, you shall not share it with infidels,
+          since they are outside the doors of the Church,
+          lacking baptism (that is),
+          which is the gateway of the Church —
+          as Gregory immediately explains:
+          <quote xml:id="lca8s8-d1e157-Qd1e353">for in one house it is eaten,
+            because in the one Catholic Church
+            the true sacrifice of the Redeemer is offered;
+            and divine law forbids carrying its flesh outside,
+            because it forbids giving what is holy to dogs;
+            it alone guards with a strong bond of charity
+            those placed within it:
+            hence too the waters of the flood lifted the ark
+            to greater heights,
+            but destroyed all those it found outside the ark</quote>
+          — so says Gregory.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e381">
+          ¶ Again, <ref xml:id="lca8s8-d1e157-Rd1e383">Origen in his commentary on Leviticus</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e388" target="http://scta.info/resource/gd-p2c24q3-d1e228@22-64">as cited in 24 q. 3 c. cum aliquis</ref>
+          says:
+          <quote xml:id="lca8s8-d1e157-Qd1e393">one who departs from truth,
+            from the fear of God,
+            from faith,
+            from charity —
+            departs from the encampment of the Church.
+            Even if he is not cast out by the voice of a bishop;
+            just as conversely,
+            if someone is sent outside by an unjust judgment
+            but has not previously departed on his own —
+            that is,
+            if he has not acted in such a way as to deserve to be cast out —
+            he suffers no harm.
+            For sometimes one who is sent outside is truly inside,
+            and one who is outside appears to be held inside</quote>.
+          So it is there.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e414">
+          And these words "outside" and "inside" are repeated frequently
+          in <ref xml:id="lca8s8-d1e157-Rd1e418" target="http://scta.info/resource/gd-p2c24q3-d1e228@22-64">c. sic autem</ref>,
+          and in <ref xml:id="lca8s8-d1e157-Rd1e421" target="http://scta.info/resource/gd-p2c1q1-d1e60X">c. nec foris 1 q. 1</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e426">in the following passages</ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e429">
+          Therefore there is a place to which the Church does not extend:
+          namely where the truth of the faith is not known,
+          and where the true sacrifice is not offered —
+          which is not to be shared with dogs,
+          that is,
+          with heretics, schismatics, Jews, idolaters,
+          or pagans.
+          Now, to be within the Church or outside the Church
+          is nothing other than either to lack baptism
+          or to have been reborn through it.
+          For those who have been baptized and hold the faith,
+          which is the gateway of the Church —
+          these are assuredly within the Church;
+          but those who lack faith are outside the Church,
+          outside of which no salvation is to be hoped for —
+          <ref xml:id="lca8s8-d1e157-Rd1e457" target="http://scta.info/resource/gd-p2c1q1-d1e60X">24 q. 1 c. alenus</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e462" target="http://scta.info/resource/gd-p2c24q1-d1e523">c. quicumque: de consecratione, distinctio 4</ref>
+          and in <ref xml:id="lca8s8-d1e157-Rd1e466" target="http://scta.info/resource/gd-p3d4-d1e781@49-57">c. ecclesia</ref> where it says:
+          <quote xml:id="lca8s8-d1e157-Qd1e470">the gift of blessed life
+            is found nowhere but within the Church</quote>.
+          So it is there.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e476">
+          Although therefore the Church is spread throughout the whole world,
+          it nonetheless has its own borders and limits —
+          not ones consisting of walls or physical barriers
+          or a fixed expanse of land,
+          but rather those of baptism and faith,
+          beyond which lives (if living they can be called)
+          every kind of infidel.
+          For if among the Garamantes
+          there are two Christians,
+          there too the Church exists —
+          even if there are very many thousands of pagans around;
+          the Church consists in those two persons,
+          in whom its limits are defined,
+          and over them alone does it have its jurisdiction.
+          The rest are outside the Church,
+          and with them the Church has no concern.
+          Just as <ref xml:id="lca8s8-d1e157-Rd1e520"><name xml:id="lca8s8-d1e157-Nd1e521">Paul</name></ref> says to a few believers
+          living among countless pagans:
+          <quote xml:id="lca8s8-d1e157-Qd1e527">Is it not those who are inside that you judge?
+            As if he were saying openly:
+            you do not judge others who are outside,
+            that is, the infidels,
+            nor ought you to judge them,
+            since God has reserved their judgment to himself</quote>,
+          and thus it must be understood in the Catholic sense —
+          <ref xml:id="lca8s8-d1e157-Rd1e539">c. ipsi met</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e541">c. cuncta per mundum</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e546">sequentibus, 9, q. 3</ref>,
+          where it is written that the Roman Church and the Vicar of Christ
+          can judge concerning the universal Church
+          and concerning particular churches.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e558">
+          For this must be understood as the power to judge all Christians —
+          not however all pagans.
+          This is sufficiently proved in <ref xml:id="lca8s8-d1e157-Rd1e566">c. Nouit de judicijs</ref>
+          where the text says:
+          <quote xml:id="lca8s8-d1e157-Qd1e571">No one of sound mind is unaware
+            that it belongs to our office
+            to rebuke any Christian whatsoever
+            for any mortal sin</quote> —
+          therefore not any infidel whatsoever,
+          because if that were the case,
+          it would surely have said "any person"
+          so as to include both the faithful and the infidel.
+          Similarly, in <ref xml:id="lca8s8-d1e157-Rd1e588">c. maiores, § etem queritur. de baptismo</ref>
+          it is proved that an infidel who receives baptism
+          even under coercion —
+          namely conditional coercion —
+          belongs to the jurisdiction of the Church by reason of the sacrament.
+          Therefore, by the contrary argument,
+          if he does not receive the sacrament,
+          he does not fall under ecclesiastical jurisdiction.
+          And so <ref xml:id="lca8s8-d1e157-Rd1e606"><name xml:id="lca8s8-d1e157-Nd1e607">Antonio de Butrio</name></ref> annotates there in these words:
+          <quote xml:id="lca8s8-d1e157-Qd1e611">Note here that those who are not baptized
+            are not under the jurisdiction of the Church;
+            and that those who bear the character of baptism
+            are subject to the jurisdiction of the Church
+            in this respect:
+            that they may be compelled to keep the faith they have assumed</quote>.
+          So says he.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e624">
+          And <ref xml:id="lca8s8-d1e157-Rd1e626">Johannes de Anania, in the rubric de Judaeis, column 3</ref> says
+          that Jews belong to the Church neither in body nor in soul,
+          because they are not baptized —
+          and therefore much less will the other infidels be so,
+          since Jews are servants of the Church
+          while the others are not.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e640">
+          Therefore those who have not received baptism
+          are outside the borders and jurisdiction of the Church.
+          From this it is manifestly inferred
+          that the Church cannot punish idolaters,
+          since they are outside the borders and territory,
+          and accordingly outside the jurisdiction of the Church.
+          For no judge pronounces law beyond his own borders:
+          neither does the King of France pronounce law for Spain,
+          nor does the King of Spain give laws to the French,
+          nor again can Caesar himself exercise imperial authority
+          beyond the borders of the empire.
+          For assuredly he lacks the power and jurisdiction
+          which the author of nature,
+          in his ineffable wisdom,
+          has prescribed within certain limits for each people and prince,
+          for the protection and preservation of every commonwealth.
+          Hence this jurisdiction is said to be implanted
+          in the place or territory
+          or in the very bones of the people
+          of every community or commonwealth:
+          from which it cannot be torn away,
+          no less than food from the preservation of life.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e686">
+          ¶ And because nature's author has granted this privilege
+          to all the kingdoms and communities of the world,
+          the jurisdiction of one kingdom therefore does not go beyond its own borders,
+          nor does it extend itself into the territory of another kingdom or province.
+          Now the law of grace perfects the acts of nature —
+          but does not overturn or abolish them:
+          which all schools, all theologians, and all sacred doctors teach.
+          <note type="marginal-note" place="margin-left" hand="F">
+            Pagans and infidels have their own jurisdiction
+            and can exercise it
+          </note>
+          Therefore pagan princes can lawfully defend their own borders,
+          and they lawfully exercise jurisdiction;
+          for their jurisdiction in this respect
+          is no less natural than the jurisdiction of Christian princes.
+          Since, according to <ref xml:id="lca8s8-d1e157-Rd1e729">the Philosopher in the Politics</ref>,
+          every commonwealth ought to be self-sufficient;
+          and territory is the totality of lands
+          lying within the borders of any given place,
+          where someone holds the right to command —
+          as in <ref xml:id="lca8s8-d1e157-Rd1e741" target="http://scta.info/resource/cice-l2t19-d1e240">c. licet de probationibus</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e746" target="http://scta.info/resource/bgy6gt-d1e5147-d1e2858">ff. de verborum significatione l. pupillus § territorium</ref>.
+          And it is said that
+          <quote xml:id="lca8s8-d1e157-Qd1e751">"district" comes from "to constrain";
+            "territory" from "terrifying"
+            or from "to frighten"</quote>
+          at that said place —
+          concerning which <ref xml:id="lca8s8-d1e157-Rd1e758">Felinus at length
+            in c. Rodulphus § de hoc verbo territorio
+            folio 173 de rescriptis</ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e766">
+          That it is forbidden by divine law
+          for anyone to violate or transgress
+          another's territory or jurisdiction
+          is shown by scripture.
+          For we read in <ref xml:id="lca8s8-d1e157-Rd1e775" source="http://scta.info/resource/prov22_28@1-8">Proverbs 22</ref>:
+          <quote xml:id="lca8s8-d1e157-Qd1e780">Do not move the ancient landmarks
+            which your fathers have set</quote>,
+          and upon those who transgress the borders of others
+          sacred scripture pronounces terrible curses in
+          <ref xml:id="lca8s8-d1e157-Rd1e790">Deuteronomy 27</ref>:
+          <quote xml:id="lca8s8-d1e157-Qd1e792" source="http://scta.info/resource/deut27_17@1-11">Cursed be he who moves
+            his neighbor's landmark;
+            and all the people shall say, Amen</quote>.
+          The same is proved from the traditions of law in
+          <ref xml:id="lca8s8-d1e157-Rd1e801" target="http://scta.info/resource/azsw2e-d1e1488-d1e177">l. final ff. de jurisdictione omnium judicum</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e807">the gloss there</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e809" target="http://scta.info/resource/bgy6gt-d1e249-d1e128">in l. 3, ff. de officio presidis</ref>
+          and in <ref xml:id="lca8s8-d1e157-Rd1e814" target="http://scta.info/resource/wef6td-d1e88-d1e159">c. vt animarum de constitutionibus libro 6o</ref>
+          and <ref xml:id="lca8s8-d1e157-Rd1e818">the doctors in both places</ref>
+          and in <ref xml:id="lca8s8-d1e157-Rd1e820" target="http://scta.info/resource/cice-l2t2-d1e301">c. cum contingat de foro competenti</ref>
+          and in <ref xml:id="lca8s8-d1e157-Rd1e826" target="http://scta.info/resource/kdhaWs-d1e326-d1e116 http://scta.info/resource/kdhaWs-d1e326-d1e128">clementina pastoralis de re judicata</ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e832">
+          For acts performed by a judge outside his territory have no validity:
+          for jurisdiction is embedded in the bones of the people
+          of every territory,
+          as has been said —
+          as the doctors attest in <ref xml:id="lca8s8-d1e157-Rd1e840" target="http://scta.info/resource/bgy6gt-d1e182-d1e123">l. 1 § cum urbem ff. de officio prefecti vrbis</ref>
+          and in <ref xml:id="lca8s8-d1e157-Rd1e845" target="http://scta.info/resource/bgy6gt-d1e182-d1e172">l. finali eo titulo</ref>
+          and in <ref xml:id="lca8s8-d1e157-Rd1e849" target="http://scta.info/resource/bgy6gt-d1e1509-d1e393">l. in modicis ff. de contrabenda emptione</ref>
+          and in <ref xml:id="lca8s8-d1e157-Rd1e852" target="http://scta.info/resource/bgy6gt-d1e249-d1e128">l. 3 ff. de officio presidis</ref>
+          and in <ref xml:id="lca8s8-d1e157-Rd1e854">l. 2 ff. de jurisdictione omnium judicum</ref>.
+          Supporting this is <ref xml:id="lca8s8-d1e157-Rd1e859">c. diaconi 93 dist ibi</ref>:
+          every person is commanded to possess something in this visible world
+          in such a way that he is content with his own possession alone
+          and does not seize the goods of others —
+          he shall not take away the poor man's field,
+          nor his vineyard,
+          nor any means of transport,
+          nor his servants,
+          nor his produce,
+          and so forth.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e876">
+          Now so true is it that a judge cannot pronounce law outside his territory
+          that:
+          even if someone commits an offense within my territory —
+          in which case I would be able to punish him
+          even if he is a foreigner
+          and a subject of another prince,
+          as in <ref xml:id="lca8s8-d1e157-Rd1e889" target="http://scta.info/resource/bgy6gt-d1e249-d1e128">l. 3 ff. de officio presidis</ref> —
+          yet if he flees beyond the borders of that judge's territory,
+          the judge can no longer punish him.
+          For the jurisdiction that arises by reason of a crime
+          is not natural but accidental,
+          just as is that which arises from domicile;
+          and so as soon as the offender leaves that territory,
+          the jurisdiction of that judge or prince comes to an end —
+          as is proved in <ref xml:id="lca8s8-d1e157-Rd1e906">clementina Pastorali § denique: de re judicata</ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e913">
+          <del rend="crosshatch" hand="B">¶ Since therefore infidels —
+            however much idolaters and sinners
+            who have not received the faith,
+            especially those who have never even heard anything of it,
+            possessing their own lands
+            and kingdoms and territories separate from Christian borders —
+            sin and offend
+            outside the bounds and territory of the universal Church,
+            so that her jurisdiction does not encompass them:
+            it manifestly follows
+            that it does not pertain to the Church,
+            nor to any member of it,
+            to punish them for idolatry
+            or for any crime or offense whatsoever
+            committed precisely within the limits
+            of their own rule or infidelity —
+            such as our Indians and their like.</del>
+        </p>
+
+        <p xml:id="lca8s8-d1e157-d1e949">
+          Consonant with these things is what <ref xml:id="lca8s8-d1e157-Rd1e951">Cajetan writes
+            in his commentary on those words of the Apostle</ref>:
+          <quote xml:id="lca8s8-d1e157-Qd1e956">What is it to me to judge those who are outside?
+            Christians (he says) he punishes as subjects of his judgment;
+            but non-Christians,
+            as those who are outside,
+            as those who are beyond his jurisdiction,
+            he does not punish,
+            because it does not fall to him to judge them.
+            Is it not those who are inside that you judge?
+            He makes clear the distinction
+            from the common practice of judges.
+            For the pronoun "you" points to persons
+            when they are exercising the office of judge:
+            for it is common to persons
+            to judge those who are comprehended within the limits
+            of their jurisdiction,
+            and so forth</quote>.
+          So says Cajetan.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

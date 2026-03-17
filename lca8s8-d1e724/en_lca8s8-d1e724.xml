@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 52 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 52 [Bnf 12926 Translation]</title>
+          <date when="2024-07-12">July 12, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="223-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e724">
+        <head xml:id="lca8s8-d1e724-Hd1e97">Chapter 52 [Bnf 12926 Translation]</head>
+
+        <p xml:id="lca8s8-d1e724-d1e99">
+          CHAPTER 52
+        </p>
+
+        <p xml:id="lca8s8-d1e724-d1e104">
+          <pc type="pilcrow"/> Moreover Sepulveda brings forward Augustine and Thomas,
+          teaching that the Romans had a just cause for subjugating the world,
+          because since they were superior to other peoples in prudence and justice,
+          God willed that the world be governed by them.
+          Sepulveda falsely attributes these things to Augustine and Thomas.
+          For first,
+          the Roman empire was not justly acquired but obtained through tyranny and violence,
+          as we have proven elsewhere from historians,
+          jurists,
+          and theologians.
+          What Augustine and Thomas taught I will set forth in good faith.
+          Those first Romans,
+          the original inhabitants of the city of Rome,
+          were endowed with certain moral virtues,
+          namely love for their country and zeal for public utility,
+          which they preferred to their own advantages.
+          They also established just laws and treated peoples subjected to their rule by war or otherwise gently and kindly:
+          although in truth these were not real virtues,
+          according to the same 
+          <ref xml:id="lca8s8-d1e724-Rd1e154" target="http://scta.info/resource/adcd-l5-Dd1e236">
+          Augustine, On the City of God, book 5, chapter 12.</ref>
+          And in 
+          <ref xml:id="lca8s8-d1e724-Rd1e161" target="http://scta.info/resource/gd-p2c24q1-d1e553@1-9">
+          chapter "Where there is sound faith," question 24.1,</ref>
+          he says:
+          <quote xml:id="lca8s8-d1e724-Qd1e165">
+          Where there is not sound faith,
+          there cannot be justice</quote>,
+          etc.
+        </p>
+
+        <p xml:id="lca8s8-d1e724-d1e170">
+          Augustine therefore teaches that God,
+          in his ineffable prudence and goodness,
+          granted to these men the empire of the world because he was not going to grant them eternal life.
+          So says 
+          <ref xml:id="lca8s8-d1e724-Rd1e187">Augustine in the place cited above</ref>
+          and 
+          <ref xml:id="lca8s8-d1e724-Rd1e190">Jerome</ref>
+          <ref xml:id="lca8s8-d1e724-Rd1e192" target="http://scta.info/resource/gd-p2c28q1-d1e338">
+          in question 28.1, § "From these things therefore," chapter "All."</ref>
+          Saint Thomas, On the Government of Princes, book 3, chapters 4, 5, 6.
+          And 
+          <ref xml:id="lca8s8-d1e724-Rd1e201" corresp="#lca8s8-d1e724-Qd1e206">
+          Augustine, book 4, chapter 33,</ref>
+          says,
+          <quote xml:id="lca8s8-d1e724-Qd1e206" source="http://scta.info/resource/adcd-l4-d1e649@1-20">
+          Therefore that God,
+          the author and giver of happiness,
+          because he alone is the true God,
+          he himself gives earthly kingdoms both to the good and to the wicked</quote>;
+          and 
+          <ref xml:id="lca8s8-d1e724-Rd1e215" corresp="#lca8s8-d1e724-Qd1e217 #lca8s8-d1e724-Qd1e233">
+          in book 5, chapter 28,</ref>
+          <quote xml:id="lca8s8-d1e724-Qd1e217" source="http://scta.info/resource/adcd-l5-d1e825@1-36">
+          Since these things are so,
+          let us not attribute the power of giving kingdoms and empires to anyone except the true God,
+          who gives happiness in the kingdom of heaven to the pious alone:
+          but earthly kingdoms both to the pious and the impious,
+          as it pleases him to whom nothing pleases unjustly</quote>.
+          And a little below:
+          <quote xml:id="lca8s8-d1e724-Qd1e233" source="http://scta.info/resource/adcd-l5-d1e825@65-91">
+          Therefore that one true God,
+          who neither abandons the human race in judgment nor in assistance,
+          when he willed and as much as he willed,
+          gave the kingdom to the Romans:
+          who also gave it to the Assyrians or even the Persians</quote>,
+          etc.
+          And in 
+          <ref xml:id="lca8s8-d1e724-Rd1e248" corresp="#lca8s8-d1e724-Qd1e247 #lca8s8-d1e724-Qd1e259">
+          chapter 15:</ref>
+          <quote xml:id="lca8s8-d1e724-Qd1e247" source="http://scta.info/resource/adcd-l5-d1e778@1-53">
+          Therefore to those to whom he was not going to give eternal life with the holy angels,
+          if he did not grant them even this earthly glory of the most excellent empire,
+          the reward would not be rendered for their good practices,
+          that is,
+          for their virtues</quote>.
+          And at the end he concludes:
+          <quote xml:id="lca8s8-d1e724-Qd1e259" source="http://scta.info/resource/adcd-l5-d1e778@149-161">
+          There is no reason to complain about the justice of the supreme and true God;
+          they received their reward</quote>.
+          These are his words.
+        </p>
+
+        <p xml:id="lca8s8-d1e724-d1e267">
+          The reason for this according to Augustine in various places is that it befits the admirable goodness of God that even the smallest virtue be rewarded:
+          which is proven from 
+          <ref xml:id="lca8s8-d1e724-Rd1e282" corresp="#lca8s8-d1e724-Qd1e299 #lca8s8-d1e724-Qd1e327">
+          Ezekiel chapter 29,</ref>
+          where God,
+          speaking of 
+          <name xml:id="lca8s8-d1e724-Nd1e282">Nebuchadnezzar</name>,
+          who by waging war against the inhabitants of Tyre had rendered him a pleasing service,
+          says:
+          <quote xml:id="lca8s8-d1e724-Qd1e299" source="http://scta.info/resource/ez29_18">
+          Son of man,
+          <name xml:id="lca8s8-d1e724-Nd1e288">Nebuchadnezzar</name>,
+          king of Babylon,
+          caused his army to serve with great servitude against Tyre:
+          every head was made bald and every shoulder was stripped of hair,
+          yet neither he nor his army received wages from Tyre for the servitude with which he served me against it</quote>.
+          And since such tyrants do not merit an eternal reward for their merits or services rendered to God,
+          the Lord adds:
+          <quote xml:id="lca8s8-d1e724-Qd1e327" source="http://scta.info/resource/ez29_19@6-31 http://scta.info/resource/ez29_20">
+          Behold,
+          I will give 
+          <name xml:id="lca8s8-d1e724-Nd1e313">Nebuchadnezzar</name>,
+          king of Babylon,
+          the land of Egypt:
+          and he shall take away her multitude and plunder her spoils and seize her prey,
+          and it shall be wages for his army and for the work by which he served against her:
+          I have given him the land of Egypt in return for the labor he performed for me,
+          says the Lord God</quote>.
+          Likewise the Lord,
+          in 
+          <ref xml:id="lca8s8-d1e724-Rd1e363" corresp="#lca8s8-d1e724-Qd1e367">
+          Isaiah chapter 45,</ref>
+          addresses Cyrus,
+          king of the Persians,
+          with these words:
+          <quote xml:id="lca8s8-d1e724-Qd1e367" source="http://scta.info/resource/is45_1@1-19 http://scta.info/resource/is45_2@1-8 http://scta.info/resource/is45_3@1-5">
+          Thus says the Lord to my anointed,
+          to Cyrus:
+          whose right hand I have grasped to subdue nations before him,
+          and I will turn the backs of kings.
+          I will go before you and humble the glorious ones of the earth,
+          and I will give you hidden treasures</quote>,
+          etc.
+        </p>
+
+        <p xml:id="lca8s8-d1e724-d1e361">
+          For his empire,
+          although unjustly held,
+          produced many things pleasing to God.
+          First,
+          he granted freedom to the Jews oppressed by captivity:
+          giving them the faculty to rebuild the city and temple of Jerusalem so that God might be worshiped there,
+          as is evident from the book of Ezra,
+          chapter 1.
+          Then Cyrus showed himself to be an executor of divine justice by killing Belshazzar,
+          who,
+          wishing to worship his idols,
+          had the vessels of the Jerusalem temple that had been brought by Nebuchadnezzar brought out:
+          and both he and his wives and harlots drank from them,
+          as appears in Daniel chapter 5.
+        </p>
+
+        <p xml:id="lca8s8-d1e724-d1e391">
+          Therefore divine providence grants a reward to tyrants whom it uses as instruments for the execution of its justice.
+          And so the Romans received their reward.
+          With this agrees what 
+          <ref xml:id="lca8s8-d1e724-Rd1e404" corresp="#lca8s8-d1e724-Qd1e410 #lca8s8-d1e724-Qd1e423">
+          <name xml:id="lca8s8-d1e724-Nd1e405">Gratian</name>
+          brings forward in question 23.5,
+          § "Hence it should be noted," chapter "They are remitted":</ref>
+          <quote xml:id="lca8s8-d1e724-Qd1e410" source="http://scta.info/resource/gd-p2c23q5-d1e937@3-38">
+          Such men,
+          he says,
+          in that they punish,
+          are said to serve God.
+          But in that,
+          ignorant that they are ministers of the wrath of God,
+          they grow proud with impious vanity:
+          nor do they find the reward of their virtue from God except a temporal one,
+          but they do not escape the punishment of their pride</quote>.
+          And below:
+          <quote xml:id="lca8s8-d1e724-Qd1e423" source="http://scta.info/resource/gd-p2c23q5-d1e941@3-36">
+          Similarly,
+          when God decreed to punish through the Romans the sin of Christ's death:
+          they presumed to ascribe the destruction of the city and the miserable captivity of the Jewish people to their own powers:
+          Wherefore against them the prophet rebukes,
+          saying:
+          Lift up your hands against their pride,
+          those who hate you and who have done many evil things,
+          the monuments of their victory</quote>,
+          that is,
+          the standards and weapons they placed in the midst of your courtyard,
+          that is,
+          in the temple as a sign of victory,
+          according to 
+          <ref xml:id="lca8s8-d1e724-Rd1e447">
+          the gloss on Psalm 73</ref>.
+          <ref xml:id="lca8s8-d1e724-Rd1e450">
+          Afterward 
+          <name xml:id="lca8s8-d1e724-Nd1e452" corresp="#lca8s8-d1e724-Qd1e454">Gratian</name>
+          </ref>
+          adds:
+          <quote xml:id="lca8s8-d1e724-Qd1e454" source="http://scta.info/resource/gd-p2c23q5-d1e948@3-51">
+          When indeed by a hidden instigation some are moved to persecute the wicked,
+          just as Sennacherib and the others who persecuted the sinful people:
+          although by a hidden instigation,
+          working through their merits,
+          they are incited to persecute,
+          nevertheless because with perverse intention they do not seek to punish the sins of the delinquents but to seize their goods or subject them to their dominion:
+          they are not immune from crime</quote>,
+          etc.
+          These are Gratian's words.
+        </p>
+
+        <p xml:id="lca8s8-d1e724-d1e478">
+          Therefore,
+          although such men serve God in a certain way:
+          nevertheless they sin mortally because they wage war with the intent of plundering and ruling more widely,
+          not truly with the intent of serving God.
+          Which,
+          beyond the above,
+          is also proven from 
+          <ref xml:id="lca8s8-d1e724-Rd1e493">
+          Isaiah chapter 10</ref>
+          concerning Sennacherib:
+          "Woe to Assyria,
+          the rod of my fury,
+          and he is the staff:
+          in his hand is my indignation.
+          I will send him against a deceitful nation:
+          and I will command him concerning the people of my wrath,
+          that he may take away spoils and divide the prey."
+          And it follows:
+          "But he shall not think so,
+          and his heart shall not so esteem,
+          but his heart shall be to destroy,"
+          etc.
+          From which it is clearly gathered,
+          first,
+          that God sometimes in a hidden act moves the impious and thus uses their ministry to punish sinners:
+          which Ambrose writes in 
+          <ref xml:id="lca8s8-d1e724-Rd1e527" corresp="#lca8s8-d1e724-Qd1e530">
+          the said chapter "They are remitted."</ref>
+          <quote xml:id="lca8s8-d1e724-Qd1e530" source="http://scta.info/resource/gd-p2c23q5-d1e927@10-23">
+          Often,
+          he says,
+          even by foreigners raised up by God's command,
+          on account of the offense of the divine majesty,
+          the people of the Jews have been carried away</quote>.
+          These are his words.
+          Similarly,
+          so that he may elicit good that he has disposed to gather from their evil acts,
+          according to Augustine.
+          <pc type="pilcrow"/> 
+          Second:
+          that the tyrants themselves neither intend that toward which he moves them nor wish what God wishes,
+          but only direct their perverse heart toward despoiling peoples and subjecting them to their dominion.
+        </p>
+
+        <p xml:id="lca8s8-d1e724-d1e557">
+          <pc type="pilcrow"/> 
+          Third:
+          that because they do these things from lust for domination and not from love of virtue,
+          they sin most gravely mortally and at the end of life are to be assigned to infernal fires:
+          this is clear through that "woe" placed against Sennacherib:
+          which Scripture never uses (according to the testimony of Jerome and Chrysostom) except from the process of mortal sin:
+          which is finally to be punished by eternal damnation.
+          God therefore used the Romans both to prepare the world,
+          insofar as that part of it,
+          for his gracious and sweet advent,
+          and also to signify the unity of the church or of his holy kingdom through the union of peoples:
+          who were to occupy the entire world.
+        </p>
+
+        <p xml:id="lca8s8-d1e724-d1e594">
+          Moreover he chose the Romans as executioners or executors of his justice to punish those peoples against whose crimes he was angry.
+          Wherefore just as Nebuchadnezzar,
+          for that which he served God in the plundering of Tyre:
+          God permitted him to disturb,
+          usurp,
+          and dominate over Egypt:
+          similarly Cyrus,
+          to capture Babylon and kill Belshazzar:
+          because nevertheless they did not do this to render obedience to the Lord:
+          but all peoples they subjected to war out of ambition and lust for ruling more widely:
+          therefore he finally cast them down into hell on account of their violences and injustices:
+          and so he permitted and assisted the Romans to dominate the world as a reward for the effects already mentioned that he intended to elicit from their tyranny.
+          Therefore Sepulveda should not thrust at us the tyranny of the Romans:
+          to justify our tyranny against the Indians,
+          which they called the conquest.
+          For the Romans,
+          the Persians,
+          and the Assyrians perished forever because their wars were displeasing in the eyes of the Lord,
+          as we have proven above from the holy fathers,
+          and will appear more fully below with the Lord's help.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

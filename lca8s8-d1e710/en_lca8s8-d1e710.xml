@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 51 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 51 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-16">July 16, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+      url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="216-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e710">
+        <head xml:id="lca8s8-d1e710-Hd1e97">
+        Chapter 51 [Bnf 12926 Transcription]</head>
+
+        <p xml:id="lca8s8-d1e710-d1e99">
+          Chapter 51
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e104">
+          In a very similar manner <name xml:id="lca8s8-d1e710-Nd1e110">Doctor Sepulveda</name> 
+          perverts the correct and true understanding of the original texts of the most blessed Gregory the Great 
+          and other saints. 
+          Sepulveda asserts first of all that Gregory approved of wars 
+          which Christians wage against infidels for this sole reason:
+          that the faith might be announced more securely 
+          to those subjected to Christian rule. 
+          Therefore, because Gregory praises and gives thanks 
+          to a certain exarch Genadius who waged a certain war against some infidels. 
+          As in <ref xml:id="lca8s8-d1e710-Rd1e145">epistle 73</ref>,
+          which is referred to by 
+          <ref xml:id="lca8s8-d1e710-Rd1e150">Gratian in c. si non ex fidei. 23. q. 4</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e156">
+          Indeed Gregory, a most holy man, dreamed of no such thing. 
+          For when he wished to lead the Angles to the faith, 
+          out of the singular piety with which he was endowed, 
+          he did not send armed forces against them as we reported above in chapter 45, 
+          but <name xml:id="lca8s8-d1e710-Nd1e169">Augustine</name> 
+          with forty monks who, by miracles and the word of God, 
+          led that nation to Christ. 
+          From the words of his epistle which Sepulveda cites, 
+          it is gathered that Gregory praises Genadius not because he made war on the pagans 
+          so that they might become Christians 
+          (which Sepulveda falsely imputes to him), 
+          but because he vindicated provinces 
+          which had once been Christian from the power of pagans or heretics. 
+          His words are these: "For," he says, 
+          "we have learned that your excellency has provided very many advantages 
+          for feeding the sheep of blessed Peter, 
+          the prince of the apostles, 
+          so that you restored with inhabitants 
+          not a few places of his patrimony that had been stripped of their proper cultivators," 
+          that is, the placement or restoration of the Dacians or Daci, 
+          that is, of certain peoples according to the archdeacon. These are his words.
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e213">
+          You see, reader, that Gregory is not speaking of a war 
+          that is waged against pagans to subdue them 
+          so that they might become Christians, 
+          which Sepulveda wants done, 
+          but of recovering provinces which had once been under Christian rule. 
+          For it is manifest from many things deduced and fully proved above 
+          that in the lands of infidels living peacefully 
+          and not offending the Church, 
+          blessed Peter has neither sheep actually nor patrimony that should be restored, 
+          since they have not received the faith (as we suppose). 
+          It is also clear from the word "restored" 
+          that it presupposes a spoliation previously made. 
+          For it is established that in the age of blessed Augustine, 
+          the Vandals, first pagans, then Arians, 
+          occupied Africa and possessed it 
+          for more than ninety years until the time of Emperor Justinian, 
+          as in l. 1. c. de officio prefecti pretorio africae. 
+          And in the proem of the Institutes, and in the Authentics de haeredibus et falaci. 
+          Vincent writes this in the Speculum Historiale book 21. c. 28 and 31. 
+          But Gregory flourished fifty years after Justinian, 
+          in whose time the Vandals were devastating Africa, 
+          as is clear from the histories, 
+          especially <ref xml:id="lca8s8-d1e710-Rd1e275">Eutropius book 16 and book 17</ref>.
+          Therefore in Gregory's age pagans possessed Africa.
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e285">
+          Nor does it present an obstacle that Sepulveda alleges 
+          the Vandals had already been conquered by <name xml:id="lca8s8-d1e710-Nd1e290">Belisarius</name>. 
+          For as appears from the history of Eutropius book 16, 
+          in the seventh year of Justinian's empire, 
+          he proceeds to Africa to fight three times with the Vandals, 
+          about which something is found through Volaterranus 
+          and Rupertus in his Dictionary. 
+          And so it could be that they were not entirely cast down by Belisarius 
+          (although some say that they were), 
+          and consequently lasted until the time of Gregory the Great 
+          and rose up again against the Roman or Christian people. 
+          But whatever the case with the Vandals, 
+          there were other pagans in Africa 
+          and diverse peoples as Eutropius says in the same place, 
+          besides the Marusii who descended from the peoples 
+          whom Joshua and the sons of Israel drove out from the promised land, 
+          or rather who fled from their sword, 
+          and these were Canaanites or from those seven nations. 
+          These, arriving in Egypt and not being received by them, 
+          came to Libya which they named Hoen, 
+          erecting two monuments above a great spring 
+          from white concave stones having Phoenician letters saying: 
+          "We are those who fled from the face of Jesus the robber, son of Nun." 
+          So reports Eutropius in the same place. 
+          These Marusii stirred up battle against the Africans 
+          in the time of Justinian, 
+          against whom went <name xml:id="lca8s8-d1e710-Nd1e360">Solomon</name>, 
+          who was appointed governor of Africa in place of Belisarius, 
+          and he killed fifty thousand of them. 
+          From which it is clear that in Gregory's age 
+          there could have been infidels in Africa 
+          who might trouble the faithful 
+          and usurp places belonging to the universal Church. 
+          Therefore Saint Gregory gives thanks to Genadius himself, 
+          the exarch of Africa, 
+          because he recovered that region for the Church, 
+          which is sufficiently clear from the inscription of the epistle, 
+          which is such: 
+          "Gregory gives thanks to Genadius, patrician and exarch throughout Africa, 
+          for the benefits conferred on Saint Peter." 
+          These words are there. 
+          And since subduing those pagans was to expand the Church, 
+          Gregory says: 
+          "Your fame is that you frequently undertake wars 
+          not from a desire to shed blood, 
+          but only for the sake of expanding the republic 
+          in which we see God worshipped, 
+          so that the name of Christ might run about everywhere 
+          through subject peoples by the preaching of the faith." 
+          Gregory closes the epistle with these words: 
+          "We ask the Lord and our Savior that He might mercifully protect your eminence, 
+          whom He sent for the consolation of the holy republic, 
+          and might strengthen you more and more by the might of His arm 
+          for expanding His name through neighboring peoples." 
+          These are his words. 
+          The same thing we also ask with highest vows daily from the Lord, 
+          that it be granted to us against the Turks 
+          and Moors who harass the Christian Church. 
+          Not indeed solely so that they might become Christians, 
+          but because they bring injuries upon the Church 
+          and tyrannically possess its provinces. 
+          Therefore Gregory does not praise Genadius 
+          because he made war on pagans so that they might become Christians, 
+          but because he recovered from them provinces or places 
+          which had once belonged to the Christian Church, 
+          and because, with those savage enemies subjugated, 
+          the evangelical light could be propagated through neighboring regions occupied by them. 
+          These were Gregory's pious vows.
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e452">
+          Again, at that time the Donatists, 
+          most savage heretics, had occupied the African churches, 
+          who boasted that the Church was with them alone, 
+          adding many other heretical dogmas 
+          which <name xml:id="lca8s8-d1e710-Nd1e465">Augustine</name> 
+          relates in his book on heresies and in a book labored against them particularly. 
+          And Isidore in his Etymologies book 8, c. 5. 
+          But that in Gregory's time there were still Donatists 
+          is proved from epistle 72 of that book, 
+          where he exhorts Genadius to see that a council 
+          of Catholic bishops be celebrated against heretics. 
+          And in epistle 75 he commands the orthodox bishops 
+          that they should not ordain any Donatist reconciled to the Catholic Church as bishop. 
+          Therefore Gregory praises Genadius 
+          because he subdued the Donatist heretics 
+          and took away churches from them, 
+          just as he had previously recovered Christian provinces 
+          by expelling the pagans. 
+          This Gregory says in the said epistle 7 with these words: 
+          "Just as the Lord has made your excellency shine with the light of victory 
+          in this life through wars with enemies, 
+          so it is fitting that you oppose the enemies of the Church 
+          with all the vivaciousness of mind and body, 
+          so that from both of your triumphs your reputation might shine forth more and more, 
+          since both in foreign wars (namely) 
+          which are waged against pagans you vehemently resist adversaries of the Catholic Church 
+          for the Christian people, 
+          and in ecclesiastical battles, namely which are brought against heretics, 
+          you fight bravely as warriors of the Lord. 
+          For it is known that men of heretical religion 
+          (if, which God forbid, they have license to do harm) 
+          rise up vehemently against the Catholic faith, 
+          so that they might pour out the poisons of their heresy 
+          to waste (if they should prevail) the members of the Christian body. 
+          For we have learned that they rise up against the Catholic Church, 
+          with the Lord opposing them, 
+          and wish to overthrow the faith of the Christian name. 
+          But let your eminence suppress their attempts 
+          and press their proud necks under the yoke of rectitude." 
+          And below: 
+          "Great indeed is the glory that accrues to your excellency before the Creator 
+          if through you the society of scattered churches can be restored." 
+          These are Gregory's words.
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e550">
+          From these things, reader, see that Genadius subdued by war 
+          the Donatist heretics 
+          and restored to Catholic bishops scattered churches occupied by heretics, 
+          and that he fought against pagans 
+          so that he might assert for the Church provinces 
+          which had once been under Christian rule 
+          and in which perhaps Christians dwelt. 
+          For these things piously done by Genadius, 
+          Gregory gives him thanks in the epistle immediately following, 
+          namely 73, which Sepulveda cites outside the matter. 
+          For Genadius is not there praised 
+          because he subdued with armed forces the Vandals or Moors or other infidels 
+          so that afterward, with the gospel preached, 
+          the pagans might be converted, as has been proved. 
+          But that <name xml:id="lca8s8-d1e710-Nd1e587">Gratian</name> 
+          inserted those epistles in the ecclesiastical decrees 23. q. 4 
+          is nothing to the point. 
+          For he adduces those places only 
+          to prove that it is not against Christ's law to kill the impious, 
+          which the epitome of each chapter indicates.
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e601">
+          For the chapter "Sicut excellentiam" is inscribed with these words of its sense: 
+          "Enemies of ecclesiastical religion are also to be restrained by wars." 
+          And in c. "si non ex fidei" this inscription is read: 
+          "By the merit of faith, victory in wars is prepared." 
+          But who denies that enemies of the Christian religion 
+          are to be restrained by war when the war cannot otherwise be ended?
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e623">
+          Who denies that victory is prepared by faith? 
+          But what do these things have to do with the opinion of Sepulveda, 
+          alien to all reason and Christian doctrine? 
+          Sepulveda proceeds and in confirmation of his error 
+          also cites the same Saint Gregory, book 9, epistle 60, 
+          where he exhorts Aldibert, king of the Angles, 
+          to overthrow the worship of idols 
+          and destroy pagan temples, 
+          following the example of Constantine the Great, 
+          who did the same for the Roman republic. 
+          Indeed, since King Aldibert was already a member of the Church 
+          through the faith which he had received, 
+          by the best right Gregory the pontiff exhorts him 
+          to overthrow the worship of idols, 
+          and that exhortation had the force of a precept. 
+          For the king himself was bound by divine law 
+          to take care by all means that his subjects be led to the faith, 
+          yet in the proper manner, 
+          by the authority of 
+          <ref xml:id="lca8s8-d1e710-Rd1e667">Augustine, City of God book 5, c. 24</ref> 
+          and <ref xml:id="lca8s8-d1e710-Rd1e672">26</ref>, 
+          and <ref xml:id="lca8s8-d1e710-Rd1e674">book 19, c. 16</ref>.
+          It is proved in 
+          <ref xml:id="lca8s8-d1e710-Rd1e679">c. duo ista nomina 23. q. 4</ref>,
+          there: 
+          <quote xml:id="lca8s8-d1e710-Qd1e684" source="http://scta.info/resource/gd-p2c23q4-d1e668@70-73">
+          "To a king ruling his own nation."</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e688">
+          Moreover, it should be noted that the subjects of that king 
+          were already in a certain way subjects of the Church, 
+          even if they were pagans. 
+          For when a king is subjected through baptism, 
+          his entire kingdom is considered to be subjected 
+          to him to whom the king has subjected himself, 
+          as held by the doctors in Authentics ingressi. C. de sacrosanctis ecclesiis; 
+          <name xml:id="lca8s8-d1e710-Nd1e705">Baldus</name> 
+          in l. si paterfamilias in the first reading, ff. de adoptionibus; 
+          Lasso in Authentics ingressi column 8, C. de sacrosanctis ecclesiis; 
+          <ref xml:id="lca8s8-d1e710-Rd1e711">Antonius de Butrio</ref> 
+          in the repetition of the final chapter de causa possessionis et propriis. 
+          But what Saint Gregory urges the king to do, 
+          he was bound to do, 
+          since those pagans were in a certain way his subjects (as has been said). 
+          And the king without arms could, by edict, 
+          overthrow the worship of idols in his own kingdom, 
+          especially since it is probable that the nobles received the Christian religion 
+          together with him. 
+          For subjects always imitate their prince, 
+          which Saint 
+          <ref xml:id="lca8s8-d1e710-Rd1e739">Thomas writes in this matter, 2a2ae q. 10, a. 10 in the body</ref>.
+          This was the mind of Gregory the Great 
+          in proposing to him the example of Constantine with these words: 
+          <quote xml:id="lca8s8-d1e710-Qd1e750">
+          "For thus Constantine, once a most pious emperor, 
+          recalling the Roman republic from the perverse worship of idols, 
+          subjected it along with himself to the almighty Lord our God Jesus Christ, 
+          and converted himself with the subjected peoples to Him with his whole mind."</quote>
+          These are his words.
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e768">
+          For a prince can and ought to prohibit the worship of idols in his kingdom, 
+          just as other public sins, 
+          provided that it be done without great tumult or scandal 
+          and without greater detriments than proceeded from idolatry, 
+          as has been most extensively treated above. 
+          Yet also, for the worship of demons which he wishes to overthrow, 
+          he should offer them what is better, 
+          namely the knowledge of the true God. 
+          But if a king should prohibit the worship of idols by enacted laws 
+          and not instruct his people in another religion, 
+          certainly he could not do this. 
+          For it is impossible for a man not to worship the true God, 
+          or whom he thinks to be the true God. 
+          Therefore princes, upon whom it falls to care for the utility of their kingdoms, 
+          can overthrow impious religion 
+          and introduce the worship of true religion, 
+          since by natural law they have power over their own. 
+          Hence (namely) because they were subjects, 
+          Constantine forbade the worship of idols 
+          under penalty of death and confiscation of goods, 
+          perhaps by the counsel of blessed Sylvester, 
+          moved by this reason, 
+          as in l. 1 with those following, C. de paganis et sacrificiis. 
+          And since Julian the Apostate restored the worship of idols 
+          after Constantine's death, 
+          by the authority of <name xml:id="lca8s8-d1e710-Nd1e828">Hugh of Fleury</name>, 
+          <name xml:id="lca8s8-d1e710-Nd1e833">Theodosius</name>, 
+          the most pious emperor, completely overthrew idolatry in the empire, 
+          with the temples of the pagans destroyed. 
+          Arcadius and Honorius, sons of Theodosius, 
+          who reigned after him, followed his example, 
+          by the authority of 
+          <ref xml:id="lca8s8-d1e710-Rd1e846">Vincent, Speculum Historiale book 19, c. 5</ref>.
+          Likewise in cases in which infidels are subjects of the Church 
+          or of its members, 
+          we see laws prescribed to them by Theodosius 
+          and by Arcadius and Valentinian, 
+          who by enacted law provided that Jews should not celebrate marriages 
+          according to the law of Moses, 
+          but according to Christian custom, 
+          not within the 2nd, 3rd, or 4th degree, 
+          as in l. nemo Iudaeorum, C. de Iudaeis. 
+          But if infidels were not subjects of the Church, 
+          laws could in no way be prescribed to them by the Church, 
+          as has been proved. 
+          <name xml:id="lca8s8-d1e710-Nd1e875">Theodosius</name> 
+          mentions laws enacted on this matter 
+          in the ecclesiastical history book 11, c. 19, 
+          and book 9, and Tripartite book 9, c. 27, 28. 
+          And 
+          <ref xml:id="lca8s8-d1e710-Rd1e883">
+          Augustine, City of God book 5, c. 26</ref>, 
+          and 
+          <ref xml:id="lca8s8-d1e710-Rd1e887">
+          <name xml:id="lca8s8-d1e710-Nd1e888">
+          the Archbishop of Florence</name> 
+          in the second part of his history, title 8, c. 7, § 2</ref>. 
+          And 
+          <ref xml:id="lca8s8-d1e710-Rd1e894">
+          Augustine in Epistle 43 against Vincent the heretic and Donatist</ref>,
+          which are referred to in c. non invenitur 23. q. 4. 
+          For this purpose also 
+          <ref xml:id="lca8s8-d1e710-Rd1e906">
+          Ambrose 
+          exhorted Theodosius, epistles 30 and 31</ref>.
+          No pious person fails to approve such laws, 
+          and if a similar case should occur 
+          where idolatry could be restrained in subjects 
+          by the authority of princes without greater evil, 
+          who would not care to have a similar law enacted, 
+          if indeed he loved Christ from his heart? 
+          But what has this to do with our case, 
+          where pagans have never been subjects of the Church or its members, 
+          and whose prince is pagan, 
+          and who are not killed by their own prince 
+          but by Spanish soldiers 
+          and inhumanely subdued by war brought upon them, 
+          so that the worship of idols might finally be overthrown 
+          with an infinite multitude of men slain?
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e937">
+          But someone may object that if it is pious to kill one going, 
+          after the prohibition of law, to the worship of idols, 
+          it will also be pious to overthrow idolatry by war. 
+          Certainly this argument is no objection. 
+          First, because in non-subjects there is lacking power and jurisdiction, 
+          and thus the authority by which just war is supported; 
+          second, because an idolatrous subject is killed 
+          who can still be converted to Christ by the ministry of preachers, 
+          since he sins through ignorance; 
+          also the guilty one is killed without the ruin of the innocent; 
+          but in war thousands of innocents are killed 
+          with very few guilty ones, as has been proved above. 
+          Therefore to subdue infidels by war so that they might receive the faith is impious. 
+          Therefore the example of Constantine, Theodosius, 
+          and other princes who by enacted laws ordered temples closed 
+          and prohibited the worship of idols in their own kingdoms 
+          has nothing to do with our case, 
+          for the reasons given above, 
+          and principally because, since they were princes, 
+          they could give whatever laws they wished to their subjects. 
+          But the Indians are not subject to us or to the Church, 
+          because they are pagans and legitimate and free princes in their own kingdoms; 
+          therefore we can in no way give them laws. 
+          For that no one can impose law except on subjects 
+          is most certain law, 
+          as in 
+          <ref xml:id="lca8s8-d1e710-Rd1e1005">
+          l. c. 1, de summa trinitate</ref>, 
+          and 
+          <ref xml:id="lca8s8-d1e710-Rd1e1007">
+          l. final, C. de incestuo nuptiis</ref>, 
+          and 
+          <ref xml:id="lca8s8-d1e710-Rd1e1009">
+          l. 3, ff. de officio presidis</ref>, 
+          and 
+          <ref xml:id="lca8s8-d1e710-Rd1e1014">
+          c. a nobis, de sententia excommunicationis</ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e1020">
+          Also on the part of the Church a special reason applied 
+          (namely) that the very princes of the infidels, or kings, 
+          already pertained to its members, 
+          and not the smallest part of their kingdoms, 
+          who had already received the faith. 
+          But the others not yet converted 
+          also in a certain way pertained to the Church, 
+          because (as we have said) they were in nearer potentiality than before. 
+          Hence if in a kingdom already beginning to be converted 
+          they should allow temples to be open 
+          and the worship of idols to be publicly exercised, 
+          not only was there imminent danger of apostasy from the faith 
+          for the plebeians and common men, 
+          but truly also for the prince himself. 
+          Therefore it was most fitting, indeed altogether necessary, 
+          that the Church and its prelates exhort Christian princes 
+          to the destruction of idolatry, 
+          and attempt with their might to overturn the temples. 
+          And this is what Gregory was earnestly doing 
+          in his epistle to Aldibert, king of the Angles.
+        </p>
+
+        <p xml:id="lca8s8-d1e710-d1e1070">
+          But concerning other peoples or infidels, 
+          neither their princes nor anyone ever heard anything about the faith, 
+          nor did they bring any offense to the Church through any of the aforementioned cases; 
+          indeed, it never even came to mind what the Church was 
+          or whether it existed in the nature of things, 
+          by which they are in every way outside the Church. 
+          Since indeed it is clearly apparent 
+          that none of the aforesaid qualities occur in these people, 
+          but rather directly all are contrary, 
+          therefore the reasoning is very different concerning all infidels, 
+          however much they may be devoted to idolatry, 
+          provided they are not culpable in any of the six aforesaid cases — 
+          very different (I say) from the reasoning by which Gregory and Ambrose and Augustine 
+          were moved to exhort Christian princes 
+          to destroy idolatry 
+          and to commend their Christian laws concerning this. 
+          From these things, therefore, it is apparent 
+          how the original texts of the holy doctors of the Church are understood, 
+          and also of human laws, 
+          the reasoning of which the venerable doctor 
+          <name xml:id="lca8s8-d1e710-Nd1e1128">Sepulveda</name> 
+          ineptly adduces for himself, 
+          when nevertheless they manifestly militate against him.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

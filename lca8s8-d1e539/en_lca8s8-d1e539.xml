@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 38 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 38 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-30">April 30, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="167-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e539">
+        <head xml:id="lca8s8-d1e539-Hd1e97">Chapter 38</head>
+        <p xml:id="lca8s8-d1e539-d1e99">
+          Chapter 38
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e104">
+          For the resolution of this fourth argument,
+          bringing together in summary all the things that have been determined in the preceding sections,
+          especially from chapter 30 up to this point,
+          with arguments and authorities not sparingly applied,
+          to prove that unless the evils which innocent people are found to suffer can be prevented by war,
+          one must refrain from waging it,
+          and rather one must overlook such things with those who commit them wrongly:
+          we say thus.
+          Since it is known with evidence or even probability to such infidels that:
+          at least it is not reasonable to sacrifice human victims,
+          this cannot easily happen:
+          and they have the concept that they owe God and all their things to Him:
+          and they believe that the idols they worship are the true God:
+          for which matter there is no lack among them of witnesses of the greatest authority and beyond all exception,
+          namely kings,
+          princes,
+          high priests,
+          and theologians,
+          prophets or diviners who are held among them in the highest reverence,
+          whom they think commonly have conversations with the Gods,
+          from whom they receive the announcement of secrets and future contingent events.
+          Moreover they have an approved custom and positive law,
+          and a precept and common error,
+          and thus they are supported by probability for sacrificing humans.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e190">
+          Moreover,
+          because of their corrupt customs they are able to eat human flesh,
+          provided that they do not kill anyone for this purpose:
+          which although it is a vice of bestiality outside the constraint of necessity:
+          nevertheless it is not punishable by a foreign people,
+          nor can war be waged against them on this account.
+          Especially since they can pretend some color for their excuse,
+          why they eat such things as we have said:
+          nor will those who are eager to free the innocent easily be able to convince them to the contrary.
+          And since they also rejoice to have that sacrilegious opinion that in idols they worship the true God or that they are God:
+          and supposing an erroneous conscience,
+          while the true God is proposed to them with better and more probable and also more efficacious reasons,
+          especially with Christian examples:
+          they are doubtless bound to go out armed in defense of the worship of their Gods and their religion against any who attempt to take these things from them or to inflict injury upon them or to impede their sacrifices,
+          to fight,
+          to kill,
+          to capture,
+          and to exercise all the rights that a just war according to the law of nations obtains.
+          Moreover it is certain among those who have been contaminated by these detestable things that there are kings and great lords whom very many must follow,
+          both subject peoples:
+          and those joined by blood and affinity,
+          and allied friends,
+          and auxiliaries or neighbors:
+          also most zealous for the worship of their Gods and religion.
+          For the cause is common to all,
+          who all together with the appearance of a just cause which they think favors them will sharpen their spirits to fight bravely and rather to undergo death:
+          than not to avenge the injuries to themselves and their Gods and to repel such aggressors from their own country.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e299">
+          It is also manifest what and how many evils will follow from this.
+          How many slaughters,
+          how many fires,
+          how many massacres,
+          how many homicides,
+          slaughters of infants,
+          boys,
+          women,
+          old men,
+          the decrepit,
+          the weak and infirm and other innocent people.
+          How many moreover devastations of provinces,
+          overthrows of cities,
+          villages and peoples.
+          How many spoliations,
+          and ejections from their dignities and lordships and honors of kings and lords:
+          losses of liberties and possessions.
+          How many foul and dishonorable things will be committed by military license.
+          How many rapes,
+          abductions,
+          incests,
+          adulteries.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e361">
+          With what hatred surely will those suffering such things pursue the Christian people,
+          and the true God to be worshiped by Christians themselves?
+          How many finally thousands of thousands of souls will meanwhile descend into the deep pit and perish in eternity.
+          And all these things indeed that we may free some few innocent people.
+          Do these sacrifices of ours please the eyes of divine mercy?
+          In truth they please as much as that of one who sacrifices a son in the sight of his father Ecclesiasticus 34.
+          Who unless he is clearly either impious or foolish would admit a remedy more serious than the disease?
+          Who that a few may not be sacrificed to idols:
+          would wish innumerable souls deserving no such thing to perish in eternity?
+          These things are foreign to the doctrine of Christ and the examples of the apostles:
+          nor do they please anyone except savage and inhuman robbers:
+          or certain foolish enemies of the glory of Christ justifying Sodom in their own way.
+          And thus concerning the fourth argument begun to be disputed above in chapter 30.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e426">
+          Let us add a fifth argument to prove that if the nefarious things which the Indians commit in sacrificing humans and eating human flesh:
+          cannot be prevented except by war:
+          they are to be overlooked and not cured by war:
+          or rather exacerbated:
+          and this is for the reason namely of the common good and public utility.
+          For public utility is preferred to private and the utility of many is preferred to the utility of a few as in 
+          <ref xml:id="lca8s8-d1e539-Rd1e453" corresp="#lca8s8-d1e539-Qd1e458">c. bonae memoriae cl. 1 de postulatione prelatorum</ref>
+          there: 
+          <quote xml:id="lca8s8-d1e539-Qd1e458" source="http://scta.info/resource/cice-l1t5-d1e149@250-258">not undeservedly preferring the common utility to the special,
+            and the greater to the lesser</quote>.
+          And in 
+          <ref xml:id="lca8s8-d1e539-Rd1e465" corresp="#lca8s8-d1e539-Qd1e470">c. licet. de regularibus</ref>
+          <quote xml:id="lca8s8-d1e539-Qd1e470" source="http://scta.info/resource/cice-l3t31-d1e377@293-305">Since just as the greater good is preferred to the lesser good,
+            so the common utility is preferred to the special utility</quote>.
+          these things there.
+          And 
+          <ref xml:id="lca8s8-d1e539-Rd1e477" corresp="#lca8s8-d1e539-Qd1e488">7, q. 1, c. scientias</ref>
+          Where 
+          <name xml:id="lca8s8-d1e539-Nd1e483">Pope Pelagius</name>
+          says: 
+          <quote xml:id="lca8s8-d1e539-Qd1e488" source="http://scta.info/resource/gd-p2c7q1-d1e652@47-55">for the utility of many:
+            the utility or will of one is to be preferred</quote>.
+          Also makes 
+          <ref xml:id="lca8s8-d1e539-Rd1e495" target="http://scta.info/resource/gd-p2c8q1-d1e203">8, q. 1, c. in scripturis</ref>
+          and 
+          <ref xml:id="lca8s8-d1e539-Rd1e498" target="http://scta.info/resource/bgy6gt-d1e1491-d1e926">ff pro socio, § labeo</ref>,
+          and 
+          <ref xml:id="lca8s8-d1e539-Rd1e503" target="http://scta.info/resource/azsw2e-d1e3985-d1e211">C. de Caducis tollendis, L. unica, § penultimo</ref>,
+          and in other laws.
+          Although however the glosses in those places teach:
+          the public good is to be preferred to the private when in the public good the advantage of the private is contained:
+          for otherwise well-ordered charity begins from oneself 
+          <ref xml:id="lca8s8-d1e539-Rd1e520" target="http://scta.info/resource/gd-p2c23q5-Dd1e242">23 q. 5, c. si non licet</ref>
+          and 
+          <ref xml:id="lca8s8-d1e539-Rd1e527" target="http://scta.info/resource/gd-p2c33q3d3-d1e247">de penitentia, distinctione 3, c. Qui vult</ref>
+          and 
+          <ref xml:id="lca8s8-d1e539-Rd1e532" target="http://scta.info/resource/gd-p2c19q2-d1e138">19 q. 2. c. duae</ref>
+          etc.
+          Nevertheless however the judge or governor ought to prefer public utility to private,
+          even if the public utility is not useful to each individual private person as in the said laws.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e545">
+          It is also proved by reason,
+          since namely the public good is something divine according to 
+          <ref xml:id="lca8s8-d1e539-Rd1e551" corresp="#lca8s8-d1e539-Qd1e553">the Philosopher 1 Ethics</ref>:
+          <quote xml:id="lca8s8-d1e539-Qd1e553" source="http://scta.info/resource/ArNeTH-d1e101-d1e184@171-216">Therefore that will be indeed the highest human good:
+            and even if the same is being for one and for the city:
+            greater however and more perfect of the city both in taking and in preserving,
+            lovable indeed even for one alone:
+            more beautiful however and more divine for a nation and for cities</quote>.
+          these things the Philosopher.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e573">
+          Since however the office of a governor is instituted principally,
+          that he may care for the utility of the republic with all diligence so that the republic may enjoy true happiness according to 
+          <ref xml:id="lca8s8-d1e539-Rd1e581">the Philosopher 1 Politics</ref>
+          and 
+          <ref xml:id="lca8s8-d1e539-Rd1e586">8 Ethics</ref>
+          and 
+          <ref xml:id="lca8s8-d1e539-Rd1e589">Saint Thomas book 1 de regimine principum</ref>:
+          Plainly it follows that the governor of the republic ought to prefer public utility to private and also the utility of each individual private person.
+          Indeed even if what is useful to the republic:
+          is harmful to the judge or governor.
+          For indeed whoever undertakes the duty of governing by that very fact is bound to prefer public utility to his own advantages,
+          not otherwise:
+          than a soldier hired for the defense of the city is bound to expose himself to all even the most certain dangers of life,
+          so that if danger comes to others while he seeking safety deserts the command of the ship:
+          he will be bound for all damages as per the doctors in 
+          <ref xml:id="lca8s8-d1e539-Rd1e626" target="http://scta.info/resource/bgy6gt-d1e1604-d1e721">l. qui mercedem</ref>.
+          And in 
+          <ref xml:id="lca8s8-d1e539-Rd1e629">l. Item quaeritur. § experi</ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e539-Rd1e636" target="http://scta.info/resource/bgy6gt-d1e1604-d1e590">l. in lege. ff locati.</ref>
+          and in 
+          <ref xml:id="lca8s8-d1e539-Rd1e641" target="http://scta.info/resource/cice-l1t9-d1e255">c. nisi cum pridem ee renuntiatione</ref>
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e648">
+          It is also proved by the example and word of our Savior John 10:
+          the good shepherd,
+          he says,
+          lays down his life for his sheep.
+          Bartholus treats this matter.
+          And the doctors in l. 1, ff Soluto matrimonio.
+          Felinus in c. nonnulli, column 21 de rescriptis.
+          However to every public utility of whatever kind must be preferred the utility of the Christian religion and the universal church.
+          For 
+          <ref xml:id="lca8s8-d1e539-Rd1e668">Hostiensis in c. magnae de voto</ref>
+          says that the utility of the republic especially of the church of God and of the salvation of souls:
+          is to be preferred to private utility in all things,
+          alleging the said c. licet,
+          § illa: de Regularibus,
+          and the said c. bonae:
+          de postulatione prelatorum column 1 § hinc fit.
+          so that if the temporal republic and the Christian religion were both endangered:
+          nor would it be possible to provide for both:
+          certainly the utility of religion is to be preferred:
+          because there is no greater reason than that which is made for religion.
+          as in l. sunt personae.
+          <ref xml:id="lca8s8-d1e539-Rd1e697">in fine, ff. de religionis et sumptibus funerum</ref>.
+          For this makes the doctrine of Bartho.
+          in authenticis:
+          quas actiones, C. de sacro sanctis ecclesiis where it is said that the privileged uses the privilege against the privileged:
+          since his privilege is more powerful per l. verum.
+          §. finali, ff. de minoribus viginti quinque annis.
+          It is known however to be more special between two specials:
+          since one favors more the republic according to 
+          <ref xml:id="lca8s8-d1e539-Rd1e728" target="http://scta.info/resource/nqqq3t-d1e1390-d1e6197@1-46">Philippus Probus in c. ut officium de hereticis libro 6</ref>
+          For nothing is more expedient to the republic than what is conducive to the exaltation and preservation of the faith for the salvation of souls.
+          Moreover the cause of the lord is more worthy than the servant and the soul is to be preferred to all corporeal things according to that of Matthew 16.
+          For what does it profit a man if he gains the whole world but suffers the loss of his own soul.
+          And in 
+          <ref xml:id="lca8s8-d1e539-Rd1e758">c. cum infirmitas. de penitentiis et remissionibus.</ref>
+          <ref xml:id="lca8s8-d1e539-Rd1e763">12. q. 1. c. prescimus.</ref>
+          <ref xml:id="lca8s8-d1e539-Rd1e769">24, q. 3. c. si habes</ref>.
+          <ref xml:id="lca8s8-d1e539-Rd1e771">C. de sacro sanctis ecclesiis, l. sancimus, in finem</ref>
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e777">
+          With this principle supposed:
+          that every best king or governor is bound to prefer the common good to the particular:
+          the utility of many,
+          to the utility of the few:
+          and to prefer the greater good to the lesser:
+          and above all these things the expansion of the Catholic faith,
+          the prosperity of the church:
+          and the salvation of souls:
+          and therefore all things contrary to these and which could impede them should be avoided,
+          it is most manifest that for no reason ought one to allow for the public and greater indeed the greatest utility that an innumerable multitude of peoples be killed:
+          so that a few men not be sacrificed to idols,
+          since this pertains to the propagation of the Christian religion.
+          For the Indians will never receive Christian truth if they are exasperated by war.
+          Moreover it is of public utility that so many souls not perish:
+          and that the goods of our brothers ignorant of God not be plundered According to that of Deuteronomy 22:
+          you shall not see the ox or sheep of your brother wandering and pass by:
+          but you shall restore it to your brother:
+          even if your brother is not near nor do you know him.
+          Similarly you shall do with the donkey,
+          with the garment,
+          with every thing of your brother,
+          which has been lost:
+          nor shall you neglect it as if it were foreign.
+          And Exodus 23.
+          If you meet the ox of your enemy or his donkey wandering,
+          lead it back to him etc.
+          Concerning this Saint Thomas in quaestionibus de virtutibus q. 3. article 1 in the body.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e848">
+          For if we are bound to excuse the loss of one ox of our brother and the harm or death of one,
+          much more the plundering,
+          death,
+          destruction and captivity of so many of our brothers.
+          For if we cannot save all and free them from death:
+          certainly the utility of many is to be preferred to the utility of the few,
+          who cannot be freed except by the destruction of many.
+          Therefore let us overlook a few being killed:
+          lest myriads of so many men die.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e879">
+          For Seneca does not admit remedies more serious than the disease.
+          For if this evil is to be cured by war:
+          innumerable souls and bodies of mortals will perish in eternity:
+          not only by reason of those crimes to which fewer are liable:
+          but also on account of other sins which cannot be remitted without faith.
+          Concerning which Saint Thomas 2a 2ae q. 10 article 1 in the body
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e899">
+          Whence the time or space of conversion and penance is taken from them,
+          which is the greatest of the evils that can be inflicted upon neighbors,
+          as has often been touched upon above.
+          Also those who remain alive:
+          perpetually pursue the Christian religion with hatred when they see those professing the same:
+          committing so many enormous crimes and atrocious fires:
+          plundering so many towns under the pretext of impeding the sacrifice of idols.
+        </p>
+        <p xml:id="lca8s8-d1e539-d1e935">
+          In sum,
+          princes and governors to whom it pertains to protect the public utility:
+          can in no way allow without being guilty of all evils:
+          that war be waged against the Indians:
+          even if such crimes cannot be excused in another way.
+          For public utility must be preferred to private:
+          and finally nothing must not be endured lest war,
+          the ocean of all evils:
+          be waged against a miserable people,
+          naked,
+          unarmed,
+          and erring through ignorance.
+          For this does not expedite the propagation of evangelical truth nor is it in any way fitting to Christian doctrine.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

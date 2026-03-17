@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 18 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 18 [Bnf 12926 Translation]</title>
+          <date when="2024-12-24">Dec 24, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+          
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+        
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+          
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="85-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e276">
+        <head xml:id="lca8s8-d1e276-Hd1e97">Chapter 18 [Bnf 12926 Translation]</head>
+        
+        <p xml:id="lca8s8-d1e276-d1e99">
+          Chapter 18.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e104">
+          ¶ Nevertheless,
+          against what was predetermined is the authority of 
+          <ref xml:id="lca8s8-d1e276-Rd1e108"><name xml:id="lca8s8-d1e276-Nd1e109">Damascene</name> and also of certain saints and indeed of philosophers,
+            who say that knowledge of God is naturally implanted in the minds of men</ref>.
+          But the first knowledge about God must be that God exists,
+          therefore that God exists is self-evident.
+          Likewise the 
+          <ref xml:id="lca8s8-d1e276-Rd1e122" corresp="#lca8s8-d1e276-Qd1e125">Apostle to the Romans 1</ref> 
+          <quote xml:id="lca8s8-d1e276-Qd1e125" source="http://scta.info/resource/rom1_21@1-8">because when they had known God,
+            they did not glorify him as God</quote>,
+          et cetera.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e133">
+          ¶ To which it must be said:
+          It is true that a common knowledge of God is naturally implanted in the minds of men.
+          But that knowledge is very confused and universal and only shows that there is some orderer of the things which we see running according to a certain order.
+          But who or what kind,
+          or whether there is one or many,
+          is not immediately obtained by this common consideration.
+          But this is not to know simply that God exists.
+          Just as when we see a man moving and performing other works,
+          we perceive there to be in him a certain cause of these operations which is not present in other things,
+          and we call this cause soul,
+          not yet knowing what the soul is,
+          whether it is a body,
+          or how it effects the aforesaid operations.
+          Or just as to know someone coming is not to know 
+          <name xml:id="lca8s8-d1e276-Nd1e174">Peter</name>,
+          although it is 
+          <name xml:id="lca8s8-d1e276-Nd1e178">Peter</name> who is coming.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e181">
+          And therefore that proposition,
+          that God exists,
+          is not self-evident to us,
+          but needs to be demonstrated through things which are better known to us,
+          namely through effects.
+          But the authority of 
+          <name xml:id="lca8s8-d1e276-Nd1e191">Damascene</name> is understood that knowledge of God is naturally implanted in us according to his likeness and not according to what he is in his nature,
+          just as it is also said that all things desire God,
+          not indeed himself as he is considered in his nature,
+          but in his likeness,
+          because nothing is desired except insofar as it has a likeness to him.
+          And also nothing is known.
+          See 
+          <ref xml:id="lca8s8-d1e276-Rd1e211" target="http://scta.info/resource/TAca84-d1e56-d1e300">Saint Thomas 1 part,
+            q. 2, a. 1, c</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e276-Rd1e216" target="http://scta.info/resource/ta-l1d3q2-Dd1e101">1 Sentences distinction 3,
+            q. 1, a 2</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e276-Rd1e221" target="http://scta.info/resource/v8naTA-d1e2018">book 3, c. 38,
+            against the gentiles</ref>.
+          
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e228">
+          ¶ To the authority of 
+          <name xml:id="lca8s8-d1e276-Nd1e230">blessed Paul</name> it is said that he speaks of the philosophers who,
+          having knowledge of God,
+          did not use it for good but became foolish.
+          For they knew that God is supereminent over all things.
+          And thus they should have given glory and honor which is owed to the superexcellent,
+          and thus when they had known God,
+          they did not glorify him as God,
+          either because they did not render due worship to him or because they imposed a limit on his power and knowledge.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e257">
+          ¶ They also knew God as the cause of all good things.
+          Whence thanksgiving was owed to him in all things,
+          which however they did not give to God,
+          but rather ascribed their good things to their own ingenuity and power.
+          Whence the 
+          <ref xml:id="lca8s8-d1e276-Rd1e284"><name xml:id="lca8s8-d1e276-Nd1e285" corresp="#lca8s8-d1e276-Qd1e287">Apostle</name></ref> adds:
+          
+          <quote xml:id="lca8s8-d1e276-Qd1e287" source="http://scta.info/resource/rom1_21@9-22 http://scta.info/resource/rom1_22@1-8">but gave thanks.
+            Professing themselves to be wise,
+            they became fools</quote>,
+          et cetera.
+          These things do not apply to all in common.
+          And therefore the Apostle does not speak about them,
+          et cetera.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e300">
+          ¶ Secondly,
+          the minor of the principal argument is proved principally,
+          namely that such negative unbelievers are invincibly ignorant,
+          et cetera,
+          by the opinion of 
+          <name xml:id="lca8s8-d1e276-Nd1e308">Saint Augustine</name> and 
+          <name xml:id="lca8s8-d1e276-Nd1e313">Saint Thomas</name> who say that those are excused from the sin of unbelief who have never heard anything about the faith,
+          according to that of 
+          <ref xml:id="lca8s8-d1e276-Rd1e320" corresp="#lca8s8-d1e276-Qd1e323">John 15</ref>.
+          
+          <quote xml:id="lca8s8-d1e276-Qd1e323" source="http://scta.info/resource/io15_22@1-10">If I had not come and spoken to them,
+            they would not have sin</quote>,
+          namely of unbelief.
+          Thus 
+          <ref xml:id="lca8s8-d1e276-Rd1e337" target="http://scta.info/resource/iuy75t-d1e769-d1e128@161-168">Augustine explains</ref> there,
+          and 
+          <ref xml:id="lca8s8-d1e276-Rd1e341" target="http://scta.info/resource/TAca84-d1e1324-d1e297">Saint Thomas 2a 2ae:
+            q. 10, a. 1</ref>.
+          and that of 
+          <ref xml:id="lca8s8-d1e276-Rd1e346" corresp="#lca8s8-d1e276-Qd1e351">Romans 10</ref>.
+          
+          <quote xml:id="lca8s8-d1e276-Qd1e351" source="http://scta.info/resource/rom10_14@9-19">How shall they believe in him of whom they have not heard?
+            How shall they hear without a preacher?</quote>
+          Whence such unbelievers are not damned for lack of faith which was never preached to them,
+          but for other sins which cannot be remitted to them without faith.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e366">
+          ¶ From these things it follows that since this proposition,
+          God is one,
+          is undoubtedly of the faith,
+          and those worshiping idols cannot be informed about their error and the truth of the faith either by themselves or by their ancestors,
+          they have invincible ignorance about the existence and especially the unity of God,
+          just as they suffer it not knowing Christ to be the son of God and redeemer of the world,
+          and thus about other supernatural things,
+          until the faith has been fully and effectively preached to them.
+          This is proved because since it is not implanted in the nature of things that there is one true God,
+          and even if they contend that there is a god,
+          nevertheless they could believe that the true God is the one whom their ancestors worshiped,
+          and thus any province could claim that the true God exists among them.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e408">
+          Nor would they be bound to believe that the true God is among the Christians rather than among other nations.
+          Whence just as they could legitimately suppose that the god or gods whom other nations worship are not true gods or God,
+          so also concerning the God of the Christians,
+          since nothing in the nature of things would cause otherwise,
+          unless it were made known by the workings of miracles.
+          Therefore negative unbelievers worshiping idols labor under invincible ignorance.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e432">
+          ¶ And if it be objected that to worship stones as god is against natural reason and thus indicated in the nature of things,
+          and therefore they cannot be invincibly ignorant or excused,
+          it is answered that the common and final intention of those who worship idols is not to worship stones,
+          but in them,
+          as in certain divine powers,
+          to venerate through religion that orderer of the world,
+          whoever he may be,
+          naturally knowing that because of the defects which they sense in themselves they need to be helped and directed by him,
+          and therefore through religious worship or rather superstitious worship,
+          which consists principally in sacrifices,
+          they strove to conciliate him to themselves.
+          On this see 
+          <ref xml:id="lca8s8-d1e276-Rd1e471" target="http://scta.info/resource/TAca84-d1e1711-d1e255@4-132">Saint Thomas 2a, 2ae,
+            q. 85 ar. 1</ref>.
+          
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e478">
+          ¶ Thus says 
+          <ref xml:id="lca8s8-d1e276-Rd1e480" corresp="#lca8s8-d1e276-Qd1e485">Jerome on Psalm 95</ref>:
+          
+          <quote xml:id="lca8s8-d1e276-Qd1e485">So therefore both we and all the human race naturally understand God.
+            For there are no nations which do not naturally understand their creator.
+            For although they venerate stones and wood,
+            nevertheless they understand that there is something greater than themselves,
+            and in their error they show that they have wisdom,
+            that is,
+            there is no nation which does not naturally understand God.
+            Finally the pagans worship idols,
+            that is,
+            they venerate stones and wood.
+            And if perhaps they have made a quarrel and if some oath has come among them,
+            they do not say these stones see,
+            the wood sees,
+            but God sees and God hears.</quote>
+          Thus Jerome.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e519">
+          A certain idolater,
+          
+          <ref xml:id="lca8s8-d1e276-Rd1e521" corresp="#lca8s8-d1e276-Qd1e530">a Roman named Maximus,
+            writing in a certain letter to Augustine</ref>,
+          seems to show that he contended this very thing.
+          
+          <quote xml:id="lca8s8-d1e276-Qd1e530">Indeed," he says,
+            "that there is one God without beginning,
+            without offspring of nature,
+            or a great and magnificent father,
+            who so insane,
+            so mentally captive would deny is most certain?
+            His powers diffused through the work of the world we invoke by many names,
+            since we all clearly are ignorant of his proper name.
+            For God is a name common to all religions.
+            Thus it happens that while we pursue his,
+            as it were,
+            certain members piecemeal with various supplications,
+            we indeed seem to worship the whole</quote>,
+          et cetera.
+          Thus he.
+          In 
+          <ref xml:id="lca8s8-d1e276-Rd1e560">the letter which is numbered 43 among Augustine's letters</ref>.
+          From which it appears that the intention of those worshiping idols tends principally toward the true God,
+          whoever he may be,
+          to be worshiped and adored.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e573">
+          ¶ We said above 
+          <quote xml:id="lca8s8-d1e276-Qd1e577">until the faith has been sufficiently and fully preached to them</quote>,
+          et cetera,
+          because unless the faith has been of such a kind,
+          fully proposed and explained to negative unbelievers,
+          and through suitable ministers to whom anyone prudent ought rightly and reasonably to give faith because of the splendor of their life,
+          they are not bound to believe.
+          For they can say not absurdly what the Jews from the beginning of the preaching of Christ and the Gentiles afterward everywhere used to allege:
+          What is this teaching?
+          What is this new religion which overthrows totally what was approved by the whole world before and for so many centuries?
+          That God is three and one,
+          and God himself crucified.
+          How can these things be?
+          And because of this novelty they can reasonably doubt about the teaching,
+          hold it suspect,
+          and refuse to hear the faith and not admit the preachers,
+          as they rather consider deceivers than messengers of true religion.
+          Otherwise they would be most fickle of heart 
+          <ref xml:id="lca8s8-d1e276-Rd1e628" corresp="#lca8s8-d1e276-Qd1e633">according to that of Ecclesiasticus</ref>
+          
+          <quote xml:id="lca8s8-d1e276-Qd1e633" source="http://scta.info/resource/sir19_4@1-5">he who believes quickly is light of heart.</quote>
+          
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e637">
+          And the reason for these things is because such truths surpass every faculty of nature.
+          Therefore no one is bound to believe them unless by this manner in which it becomes possible for him,
+          which is that he has sufficient testimonies for believing,
+          namely either that he sees some miracle specially done for the confirmation of such teaching,
+          or is moved to believe by efficacious reasons,
+          or some other thing which supplies the place of a miracle.
+          One of which is sufficiently efficacious,
+          namely the blameless and Christian life of the preachers,
+          by which the mysteries of faith are rendered credible to the hearers,
+          that is,
+          they see that they are to be believed.
+          For no one would believe unless he saw that they were to be believed,
+          either because of the evidence of signs or because of something else of this kind,
+          according to 
+          <ref xml:id="lca8s8-d1e276-Rd1e673" target="http://scta.info/resource/TAca84-d1e1277-d1e934@5-60">Saint Thomas 2a 2ae,
+            q. 1, a. 4, ad 2</ref>;
+          and 
+          <ref xml:id="lca8s8-d1e276-Rd1e679">quodlib. 2, ar. 6</ref>.
+          
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e682">
+          ¶ But truly because today miracles are not done,
+          therefore to make the things of faith credible to unbelievers,
+          the life of Christians shining with works of virtue needs to be an example to them.
+          Whence Chrysostom:
+          
+          <quote xml:id="lca8s8-d1e276-Qd1e695">There would be no need for words if our life shone with the light of holiness.
+            There would be no need for teachers if we displayed upright acts of virtue.
+            Surely no Gentile would exist if we Christians took care to be as we ought.
+            If we obeyed God's commands and decrees,
+            if when cursed we blessed,
+            if for evils we returned good things,
+            no one would be so savage a beast that he would not immediately hasten to the worship of true religion if he saw these things done by all.</quote>
+          And below:
+          
+          <quote xml:id="lca8s8-d1e276-Qd1e720">But if indeed they see us also seeking the same things with them,
+            desiring the same things,
+            seeking the ambition of honor and private advantage,
+            how will they be able to admire the Christian religion?
+            Whence therefore will they be able to believe?
+            Perhaps from signs?
+            But these are not done now?
+            Or indeed from holiness of life?
+            But that has clearly perished.
+            Now truly because of charity?
+            But never is any trace of it perceived.
+            Wherefore we shall indeed give account not only for our sins but also for others' harm of which we ourselves are the cause.</quote>
+          Thus Chrysostom.
+        </p>
+        
+        <p xml:id="lca8s8-d1e276-d1e750">
+          And elsewhere the same Chrysostom:
+          
+          <quote xml:id="lca8s8-d1e276-Qd1e753">For many of them (namely of the unbelievers),
+            when they see some of ours called Christians in word and name indeed,
+            but nevertheless like themselves plundering,
+            being desirous of money,
+            envying,
+            plotting,
+            deceiving deceitfully and doing all other things,
+            will no longer hear us,
+            nor if our admonitions are reasonable,
+            but they think all our things are deceptions and all are subject to the same crimes.
+            Consider,
+            I beseech,
+            how great punishments they are worthy of,
+            since indeed they heap up inextinguishable fire not only for themselves but are also authors to others that they remain in error,
+            and they block ears lest they learn virtue,
+            and they are the cause that even students of virtues are accused and reproved (and what is more serious than all)
+            through them the Lord is blasphemed.
+            Do you see how great the destruction of malice?
+            Do you see how they make themselves liable to no ordinary punishments who pursue evil?
+            But they will also pay most grave penalties for all things:
+            not only for their own perdition,
+            but also for the scandal of those in error and for the abuse of the just and for blasphemy against God</quote>,
+          et cetera.
+          All these things from Chrysostom.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

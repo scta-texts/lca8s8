@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 45 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 45 [Bnf 12926 Translation]</title>
+          <date when="2025-04-05">April 5, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="197-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e631">
+        <head xml:id="lca8s8-d1e631-Hd1e97">Chapter 45</head>
+        <p xml:id="lca8s8-d1e631-d1e99">
+          Chapter 45
+        </p>
+        <p xml:id="lca8s8-d1e631-d1e104">
+          To these things it is fitting what 
+          <ref xml:id="lca8s8-d1e631-Rd1e109">Augustine writes in the Book On the Christian Life</ref>:
+          <quote xml:id="lca8s8-d1e631-Qd1e114">God wished His people to be holy and alien from every contagion of 
+            injustice and iniquity,
+            He wished them to be such,
+            so just,
+            so pure,
+            so immaculate,
+            so simple:
+            that the nations would find nothing in them to reproach,
+            but what they would admire and say,
+            Blessed is the nation whose Lord is God,
+            the people whom He has chosen for His inheritance.
+            It is fitting that the worshippers and servants of God be such,
+            meek,
+            serious,
+            prudent,
+            pious,
+            irreproachable,
+            immaculate:
+            so that whoever sees them may be astonished and marvel and say,
+            These are men of God whose conduct is such.
+            Thus a man of God ought to conduct himself and act so that there is no one who does not desire 
+            to hear him,
+            and who does not wish to see him,
+            no one who having seen him does not believe him to be a son of God,
+            <pb ed="#P" n="198-r"/>
+            so that truly in him that prophetic saying is fulfilled,
+            His mouth is full of sweetness and he is altogether desirable.
+            For if the Christian conducts himself in such a way,
+            if the servant of God conducts himself in such a way,
+            or if by associating with those who serve demons and idols he becomes their equal,
+            God will begin to be blasphemed through him and it will be said:
+            O Christian,
+            O servant of God whose conduct is so wicked,
+            whose acts are so evil,
+            whose works are so shameful,
+            whose life is so impious,
+            so criminal,
+            so luxurious,
+            so sordid,
+            and he will be guilty of that prophecy:
+            for the name of God is blasphemed among the nations because of you.
+            But woe to those through whom it has been blasphemed.
+            God also desires and requires nothing more from us than that through our acts His name be 
+            magnified by all,
+            as it is written,
+            The sacrifice of praise will glorify me.
+            This is the sacrifice which God above all sacrifices seeks and loves:
+            that through the works of our justice His name be praised everywhere,
+            and that God be proved to be the true God by the act and work of His servants.
+            But those truly love God who exercise nothing else than that from which the name of God is 
+            glorified</quote>.
+          All these things are from 
+          <name xml:id="lca8s8-d1e631-Nd1e241">Augustine</name>.
+        </p>
+        <p xml:id="lca8s8-d1e631-d1e244">
+          From these words of 
+          <name xml:id="lca8s8-d1e631-Nd1e246">Chrysostom</name>
+          and 
+          <name xml:id="lca8s8-d1e631-Nd1e250">Augustine</name>
+          it is sufficiently clear how great an opportunity is provided to pagans for blaspheming Christ 
+          if war is brought upon them,
+          and how much hatred of the Christian religion war inserts into the hearts of pagans,
+          who believing that they have a severe opinion about the Gods will think that war is impiously 
+          brought upon them by the professors of Christian truth.
+          And they will be indignant far more reasonably against the Christian religion and its professors 
+          when they come to know that they suffer these things on account of the worship of their Gods.
+          For when by such a war,
+          which they think they suffer innocently,
+          they see fathers deprived of sons and husbands of wives,
+          <pb ed="#P" n="198-v"/>
+          masters of servants or subjects and vice versa,
+          led into servitude,
+          most cruelly slaughtered by the Christian people who have not deserved ill from them:
+          from such works of Christians,
+          what I ask will they judge about these men and their teaching?
+          For according to 
+          <ref xml:id="lca8s8-d1e631-Rd1e295">
+            <name xml:id="lca8s8-d1e631-Nd1e296">Chrysostom</name>
+            in homily 4 on the epistle to Titus chapter 2</ref>,
+          <quote xml:id="lca8s8-d1e631-Qd1e301">For not from words but from actual deeds and from life are the gentiles 
+            accustomed to judge doctrines,
+            and a little above,
+            His speech and teaching is not irreproachable who plots many losses even for the infidels</quote>,
+          these are his words.
+          But if the religion of anyone is judged from works and life,
+          what will the pagans think the religion of Christians to be?
+          What opinion will they conceive about Christ the Son of God,
+          the true God of Christians?
+          Surely what the Indians have conceived up to now,
+          especially in provinces where religious do not dwell:
+          that Christ (namely) is the most impious of all the Gods.
+        </p>
+        <p xml:id="lca8s8-d1e631-d1e332">
+          What is the cause that the name of Christ which should be adored is torn apart by these 
+          blasphemies?
+          The life of Christians and atrocious wars surpassing all barbaric ferocity are the cause.
+          Therefore since by such wars and hellish expeditions the name of Christ which should be adored 
+          is blasphemed,
+          all Christians are bound to flee them,
+          since according to Paul 
+          <ref xml:id="lca8s8-d1e631-Rd1e352">in I Corinthians 10</ref>,
+          Whether you eat or drink or do anything else,
+          do all things for the glory of God.
+          Be without offense to Jews and gentiles and to the church of God,
+          as I also please all in all things,
+          not seeking what is useful to me but to many,
+          that they may be saved.
+          Be imitators of me as I also am of Christ.
+          And in chapter 11 at the beginning.
+          This most holy teaching of blessed Paul is to be observed at all times and in every age,
+          as appears from those words,
+          <pb ed="#P" n="199-r"/>
+          Be imitators of me as I also am of Christ.
+          And from II Thessalonians 3:
+          For you yourselves know how you ought to imitate us,
+          for we were not disorderly among you,
+          nor did we eat anyone's bread without paying,
+          but in labor and toil we worked night and day so as not to burden any of you.
+          Not because we do not have the authority,
+          but so that we might give ourselves as a model for you to imitate us, etc.
+          Here Paul speaks about the preaching of the gospel,
+          and his words refer not only to the apostles at that time but to all preachers and to all times,
+          and ought to be observed at all times.
+          But as is clear from his words,
+          the Apostle by no means said that this model should not be observed with idolaters or other 
+          pagans subject to horrible sins.
+        </p>
+        <p xml:id="lca8s8-d1e631-d1e414">
+          For the Apostle made no exception.
+          For if in preaching the faith we ought not to imitate him,
+          <pb ed="#P" n="199-v"/>
+          now that the church has grown,
+          what reason will adversaries assign why we should rather be bound to imitate him in humility 
+          and other virtues?
+          Since although the church now flourishes with the greatest power,
+          nevertheless it is bound to show modesty and gentleness toward all,
+          according to that saying of John 13:
+          For I have given you an example,
+          that as I have done,
+          so you also should do.
+          And that of Matthew 11:
+          Learn from me,
+          for I am meek and humble of heart.
+          And John 15:
+          This is my commandment,
+          that you love one another as I have loved you, etc.
+          Then Paul in Romans 13:
+          Love does no evil.
+          And to the Galatians 6:
+          While we have time let us work good toward all,
+          especially toward the household of the faith,
+          that is,
+          the faithful.
+          Therefore pagans are to be treated most gently and with all charity,
+          and in our actions nothing evil should be seen,
+          according to 
+          <ref>that in Philippians 2</ref>:
+          Be without reproach in the midst of a perverse and depraved nation, etc.
+          And in chapter 4 of the same epistle,
+          Let your modesty be known to all men.
+          And 
+          <ref>in Titus 2</ref>,
+          In all things show yourself an example of good works,
+          in teaching and integrity.
+          And Peter the pontiff of all,
+          <ref>in I Peter 2</ref>:
+          Having your conduct good among the gentiles,
+          that in what they speak against you as evildoers,
+          from your good works considering you,
+          they may glorify God in the day of visitation.
+        </p>
+        <p xml:id="lca8s8-d1e631-d1e490">
+          But if Christians mix everything with wars,
+          fires,
+          fury,
+          rashness,
+          <pb ed="#P" n="200-r"/>
+          savagery,
+          sedition,
+          plunder,
+          tumults,
+          where is meekness?
+          Where is modesty?
+          Where are the holy works which excite the hearts of pagans to glorify God?
+          Where is irreproachable life and without offense?
+          Where is humanity?
+          Finally where is the meek and gentle spirit of Christ?
+          Where is the imitation of Christ and Paul?
+          Indeed the thought of this miserable calamity of our brothers so torments me that I cannot 
+          sufficiently wonder that a learned man,
+          a priest,
+          an old man and a theologian,
+          with shameless brow offers such deadly poisons to the world.
+          And I judge that there is no one truly Christian and free from the crime of avarice who does not 
+          recognize that these things are clearer than the noonday light.
+        </p>
+        <p xml:id="lca8s8-d1e631-d1e556">
+          Then when Christ sent His own to preach the gospel,
+          with what weapons,
+          with what cannons did He equip them?
+          Let us hear 
+          <add place="above-line">Christ</add>
+          in Luke chapters 9 and 10 and likewise in Matthew chapter 10 commanding them and saying,
+          Going preach saying:
+          <seg type="correction">The kingdom of heaven has drawn near</seg>:
+          cure the sick,
+          raise the dead,
+          cleanse lepers,
+          cast out demons.
+          Freely you have received,
+          freely give.
+          But our preachers,
+          surrounded by a band of soldiers or rather of robbers,
+          with what mouth will they say to the Indians:
+          The kingdom of heaven has drawn near?
+          Let them rather say 
+          <seg type="correction">the kingdom of hell has drawn near</seg>,
+          both to us who will kill you and plunder your houses,
+          <pb ed="#P" n="200-v"/>
+          and also to you who will breathe out your soul without faith and the grace of the sacraments.
+          Will they cure the sick who with most bloody battles slaughter and savagely destroy a multitude 
+          of unarmed people?
+          Will they raise the dead who,
+          having made terrible slaughters,
+          corrupt and infect the pure air with corpses?
+          Will they cast out demons or rather do they themselves give souls to demons?
+          Or by this way do we fulfill the precept of Christ:
+          Freely you have received,
+          freely give?
+          Is to lay waste provinces and having deleted or put to flight the inhabitants to destruction,
+          to communicate the faith freely?
+          O blind minds of men!
+          O calamity truly to be deplored!
+          When Christ sent His own to preach the gospel He commanded gentleness to them.
+          Behold (He says),
+          I send you as sheep among wolves or in the midst of wolves,
+          which words Chrysostom explaining in homily 34 in the perfect work on chapter 10 of Matthew says:
+          He commands them to have all gentleness,
+          and not only that but also the simplicity of a dove, etc.
+          And below:
+          It is certainly more and more wonderful to change the mind and soul of adversaries than to 
+          overcome them by the sword,
+          especially since they were twelve in number there against all other men who surpassed wolves 
+          in ferocity.
+          Therefore let those be ashamed who acting to the contrary pursue their adversaries like wolves,
+          <pb ed="#P" n="201-r"/>
+          when they see innumerable wolves conquered by very few sheep.
+          And certainly as long as we are sheep we easily conquer enemies,
+          but when we pass into the nature of wolves,
+          then we are overcome.
+          For no protection from the shepherd is present to us who feeds not wolves but sheep.
+          These are the words of Chrysostom.
+        </p>
+        <p xml:id="lca8s8-d1e631-d1e698">
+          Let them be ashamed,
+          let them be ashamed who against the law of Christ,
+          like most rapacious and savage wolves and robbers under the pretext of preaching the gospel,
+          most greedily plunder the Indian kingdoms filled with most innocent men.
+          But the Lord lives whose hand they will not escape.
+          Therefore it is not very likely nor probable that the most blessed prelate Sylvester suggested 
+          to Constantine to bring war,
+          nor that the Caesar himself brought war upon the infidels who did not receive the faith or 
+          attack him,
+          for that reason alone that they worshipped idols,
+          or for the sake of spreading the religion of Christ and removing impediments to such spreading.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

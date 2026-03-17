@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Argumentum [English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Argumentum [English Translation]</title>
+          <date when="2025-02-06">February 6, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-06" status="draft" n="0.0.0">
+          <p>English translation created.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="1-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e05">
+        <head xml:id="lca8s8-d1e05-Hd1e97">Argumentum</head>
+        
+        <p xml:id="lca8s8-d1e05-d1e99">
+          <pb ed="#P" n="1-r"/>
+          Argumentum of the Apology of the Most Reverend Lord Brother Bartholomew de Las Casas,
+          former Bishop of Chiapas,
+          against Genesius Sepulveda,
+          theologian of Cordoba
+        </p>
+        
+        <p xml:id="lca8s8-d1e05-d1e121">
+          In the year from the Virgin's birth one thousand five hundred and forty-two,
+          Charles Caesar,
+          King of Spain,
+          worthy of eternal human memory,
+          having been informed that the Spanish were raging far and wide with violence and tyranny,
+          oppressing with servitude and afflicting with the greatest burdens the Indians,
+          inhabitants of the ocean sea,
+          who by decree of the Roman Pontiff pertain to the supreme empire of Castile and Leon,
+          convened a solemn council at Pintia or Valladolid,
+          summoning certain men selected from the entire senate,
+          most distinguished and most learned;
+          he ordered them to determine whether those atrocious things which had been reported to him were true,
+          and to devise an appropriate remedy by which such great evils might be opposed,
+          so that the Indians might be restored to their former liberty,
+          and at the same time that new world might be organized with salutary laws and prudent institutions,
+          to be governed in the future.
+        </p>
+        
+        <p xml:id="lca8s8-d1e05-d1e183">
+          Concerning this matter there was debate for many days with great disputations,
+          and finally certain laws were enacted
+          <pb ed="#P" n="1-v"/>
+          by which the military expeditions of the Spanish against the Indians,
+          which they commonly called conquests,
+          were prohibited;
+          and at the same time it was provided that all the Indians oppressed by servitude,
+          who by division,
+          that is repartimiento or encomienda (indeed a satanic invention never heard of before),
+          had been wrongly assigned to those to whom they had been adjudicated,
+          should be restored to liberty,
+          and all the Indians should be reduced to the universal dominion of the kings of Spain,
+          with their natural kings and lords remaining in their power and jurisdiction.
+          This matter greatly stung the spirits of the Spanish,
+          for whom the Indians were rich plunder and whose fortunes grew by violence,
+          rapine,
+          and the despoiling of the Indians;
+          and being indignant and raging with angry spirit,
+          they lamented that they were being despoiled of their own property by the Caesar,
+          as if he were not removing sacrilegious plunder from robbers,
+          but dethroning legitimate owners of things from just possession of property.
+          So that some,
+          leaving no stone unturned to protect their interests,
+          shamelessly defected from the Caesar and rebelled against the Caesar.
+          Others fled to men renowned for their opinion of learning,
+          so that they might attack the imperial constitutions with solid legal arguments,
+          so that finally the Caesar,
+          moved by the iniquity of the laws,
+          might either abolish them or at least suspend their observance,
+          as was done with some of them—not because they were not most equitable and most just,
+          but because,
+          knowing the rebellion of those traitors,
+          some greater evil
+          <pb ed="#P" n="2-r"/>
+          or more atrocious sedition was feared.
+        </p>
+        
+        <p xml:id="lca8s8-d1e05-d1e279">
+          They found a learned defender of their opinion,
+          who here indeed shows himself little erudite.
+          This was a certain Genesius Sepulveda,
+          royal historiographer,
+          who composed a little work adorned with flowers of eloquence,
+          to which he gave the title "On the Just Causes of War,"
+          in which with all his might he attacks these new laws,
+          making no express mention of them at all,
+          but defending the past and future wars and expeditions of the Spanish against the Indians,
+          and approving the servitude,
+          that is,
+          the division or encomienda by which the Indians,
+          oppressed by the Spanish,
+          either die or live a life harder than death,
+          divided into parts as if they were herds or cattle—namely,
+          divided among the Spanish and assigned to each up to a certain number,
+          so that they might serve them.
+          For these first conquests or invasions,
+          second,
+          divisions and assignments,
+          which are made region by region from a certain number of Indians throughout that whole world,
+          the Spanish have always seen to it that they be done from that day when that new world was first opened to us.
+        </p>
+        
+        <p xml:id="lca8s8-d1e05-d1e332">
+          Sepulveda brings forward certain fabricated arguments by which he favors the most avaricious greed of tyrants,
+          distorting the authorities of the sacred volumes,
+          the decrees of most holy fathers,
+          and the wise and philosophers,
+          recounting the crimes
+          <pb ed="#P" n="2-v"/>
+          and natural vices of the Indians,
+          instructed (of course) by those Spanish,
+          most hostile enemies of the Indians,
+          and relying on those false denunciations;
+          he falsely traduces the greater part of the human race,
+          which divine providence has dispersed into those vast expanses of the Indies.
+        </p>
+        
+        <p xml:id="lca8s8-d1e05-d1e364">
+          The Bishop of Chiapas,
+          when he learned that that little work had been written by Genesius and a summary of his work,
+          written in Spanish,
+          had come into his hands (for at that time he could not have a copy of the Latin codex),
+          understanding what was the opinion of Genesius,
+          composed the following apology against those invaders and oppressors of the Indians,
+          who were living peacefully without injury to another nation,
+          and who hold the Indians oppressed and drive them to death,
+          wishing to protect and defend them from all injury.
+          Moreover,
+          he dedicated the Apology to our Most Serene Prince Philip,
+          at that time placed in charge of the government of this realm with imperial authority by the most invincible Caesar Charles,
+          his father.
+          The apology contained a response to the four causes by which Sepulveda defended those expeditions and assignments of the Spanish,
+          under whose title they oppressed the Indians with servitude.
+          When,
+          however,
+          the Bishop had refuted Sepulveda at Complutum,
+          and that whole celebrated academy had condemned Sepulveda's
+          <pb ed="#P" n="3-r"/>
+          opinion as not very sound,
+          forbidding for this very express reason that the work be printed,
+          this disputation of the Bishop and Sepulveda reached the ears of the Caesar,
+          then acting in Germany,
+          who in the year of human salvation one thousand five hundred and fifty-one ordered that distinguished theologians and jurists should meet together along with the senators of the Indian tribunal,
+          and that they should hear both the Bishop and Sepulveda and determine what would be most advantageous for the republic.
+        </p>
+        
+        <p xml:id="lca8s8-d1e05-d1e445">
+          First,
+          the opportunity of speaking was given to Sepulveda for one day.
+          But they listened to the Bishop speaking for five days,
+          who recited this entire Apology in order,
+          and finally,
+          after many disputations held on both sides,
+          they judged that the expeditions which we commonly call conquests are iniquitous,
+          illicit,
+          and unjust,
+          and therefore to be altogether prohibited in the future.
+          Concerning the assignments,
+          however,
+          which we commonly call repartimientos,
+          they decreed nothing,
+          for the rebellion of certain tyrants in the Peruvian kingdoms endured,
+          and other provinces were in turmoil.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

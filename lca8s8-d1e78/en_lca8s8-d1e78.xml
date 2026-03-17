@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 3 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 3 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-27">July 27, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="19-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e78">
+        <head xml:id="lca8s8-d1e78-Hd1e97">Chapter 3 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e78-d1e99">
+          Chapter 3
+        </p>
+        <p>
+          ¶ It is no objection that we see men for the most part to be of corrupt morals and that according to 
+          <name xml:id="lca8s8-d1e78-Nd1e109">Solomon's</name> 
+          sentence, 
+          <quote xml:id="lca8s8-d1e78-Qd1e112">
+            The number of fools is infinite
+          </quote> 
+          <ref xml:id="lca8s8-d1e78-Rd1e117">Ecclesiastes 2</ref>.
+          For this comes about because men, 
+          educated from a young age among bodily and sensible goods from which corruption of morals proceeds, 
+          and always handling these things, 
+          know them more fully. 
+          But spiritual things and goods of reason and intellectual things, 
+          they do not know so fully, 
+          since these are removed from the senses. 
+          And since they understand bodily things and always handle them, 
+          but spiritual things not so easily, 
+          it happens that they are immersed for the most part in depraved morals. 
+          This, however, has no place in angels, 
+          since they are all totally intellectual, 
+          to whom sensible goods can bring no impediment or disturbance. 
+          Since, therefore, 
+          rational nature after the angelic is nobler and more perfect than all created things, 
+          and thus is the most powerful and noblest part of the whole universe, 
+          the more it approaches divine likeness, 
+          if monstrosity were found in men for the most part, 
+          such as having eyes in the forehead or being mute and deaf, 
+          it would follow that the perfection of the universe which God especially intended in creation (as was said) 
+          would be deficient in its nobler part, 
+          suffering natural evil or sin or monstrosity in most cases, 
+          which does not happen in other things. 
+          Whence the plan of God willing the universe to be as beautiful and perfect as possible would be greatly frustrated. 
+          But this is a great inconvenience and very false. 
+          Therefore, dullness of intellect and of the higher powers, 
+          and also of the interior sensitive powers which serve the higher powers for understanding well, 
+          is impossible to be found in men for the most part; 
+          <pb ed="#P" n="20-r"/>
+          but rather it is necessary that for the most part men are found to be clever, 
+          sagacious, 
+          industrious, 
+          and endowed with talent; 
+          so that an entire region or province should be stupid and foolish or suffering similar natural defects or monstrosities is impossible. 
+          We have discussed this matter at greater length in 
+          <ref xml:id="lca8s8-d1e78-Rd1e245">
+            book 1, chapter 5 of our work, 
+            <title>On the Only Way of Calling All Peoples to the True Religion</title>
+          </ref>.
+          where we made this conclusion plain with reasons and authorities, 
+          namely that it would be impossible for an entire people, 
+          nation, 
+          or region or province to be found in all parts of the world that is foolish or stupid, 
+          so that it does not have for the most part sufficient natural knowledge and industry to rule and govern itself. 
+          To these barbarians, 
+          barbarians simply, 
+          strictly, 
+          and properly speaking, 
+          must be applied what 
+          <ref xml:id="lca8s8-d1e78-Rd1e285">
+            <name xml:id="lca8s8-d1e78-Nd1e286">the Philosopher</name> 
+            says in Politics 1
+          </ref>,
+          namely that they ought to be governed by the Greeks, 
+          that is, by the wiser, 
+          because nature, 
+          on account of dullness of intellect and savagery, 
+          makes them slaves. 
+          And since they are far removed from the excellence of human nature, 
+          it is necessary that they be governed by others, 
+          that they may be taught to live politically and humanely, 
+          and that they in turn, 
+          who are generally robust, 
+          may render service to their master, 
+          and thus the same benefits both master and slave. 
+          <name xml:id="lca8s8-d1e78-Nd1e306">The Philosopher</name> 
+          adds that it is lawful to hunt or chase such barbarians like wild beasts, 
+          so that they may be brought to a right manner of life. 
+          Here two things are to be noted: 
+          <pb ed="#P" n="20-v"/>
+          first, that to compel barbarians to live politically and humanely is not permitted to just anyone, 
+          but only to princes and governors of the republic. 
+          Then it must be observed that barbarians are not to be compelled as 
+          <name xml:id="lca8s8-d1e78-Nd1e326">the Philosopher</name> 
+          strictly says, 
+          but are to be gently led and allured by charity to undertake the best morals. 
+          For we are commanded by divine institution to love our neighbor as ourselves, 
+          and since we wish our own vices to be gently cured and uprooted, 
+          we ought to render the same to our brothers, 
+          even if they are barbarians; 
+          which we are taught by 
+          <ref xml:id="lca8s8-d1e78-Rd1e343">
+            <name xml:id="lca8s8-d1e78-Nd1e344">Paul</name> 
+            in Romans 15
+          </ref>:
+          <quote xml:id="lca8s8-d1e78-Qd1e347">
+            We who are strong ought to bear the weaknesses of the weak and not please ourselves; 
+            let each of us please his neighbor for good, 
+            to edification
+          </quote>.
+          And below: 
+          Therefore receive one another as Christ also received you to the honor of God. 
+          Again, if we wish to be children of Christ and followers of Evangelical truth, 
+          we ought to consider that even if they are exceedingly barbarous, 
+          nevertheless they are created in the image of God, 
+          nor are they so entirely destitute of divine providence that they are not capable of the kingdom of Christ: 
+          brothers and redeemed by the most precious blood of Christ, 
+          no less than the most prudent and wisest of the whole world. 
+          Finally, it must be considered that some among them are predestined, 
+          perhaps to become noble and illustrious in the kingdom of Christ. 
+          For which reason, to any men, 
+          however savage and extremely barbarous and stupid, 
+          we are bound to render fraternal duty and Christian charity, 
+          by the authority of 
+          <ref xml:id="lca8s8-d1e78-Rd1e396">
+            <name xml:id="lca8s8-d1e78-Nd1e397">Paul</name> 
+            in Romans 1
+          </ref>:
+          <quote xml:id="lca8s8-d1e78-Qd1e402">
+            To Greeks and barbarians, to the wise and foolish, I am a debtor; 
+            so that as far as is in me, I am ready to preach the gospel to you also
+          </quote>.
+          <pb ed="#P" n="21-r"/>
+          Christ wished charity to be called His unique precept; 
+          we owe this to all, 
+          no one is excepted. 
+          <quote xml:id="lca8s8-d1e78-Qd1e416">
+            There is neither male nor female, Gentile nor Jew, circumcision nor uncircumcision, Barbarian nor Scythian, 
+            slave nor free; 
+            but Christ is all and in all
+          </quote>.
+          Therefore, although 
+          <name xml:id="lca8s8-d1e78-Nd1e425">the Philosopher</name>, 
+          ignorant of Christian truth and charity, 
+          writes that the wise can hunt barbarians no less than wild beasts, 
+          let no one understand that barbarians are either to be killed or oppressed with unjust works, 
+          cruel, harsh, and severe, 
+          like beasts of burden, 
+          and can be sought and seized for this use by the wiser. 
+          Farewell, Aristotle. 
+          For from Christ, who is eternal truth, 
+          we have: 
+          <quote xml:id="lca8s8-d1e78-Qd1e445">
+            You shall love your neighbor as yourself
+          </quote> 
+          <ref xml:id="lca8s8-d1e78-Rd1e450">Matthew 22</ref>.
+          And again 
+          <ref xml:id="lca8s8-d1e78-Rd1e452">
+            <name xml:id="lca8s8-d1e78-Nd1e453">Paul</name> 
+            in Corinthians 13
+          </ref>:
+          <quote xml:id="lca8s8-d1e78-Qd1e459">
+            Charity (he says) does not seek its own
+          </quote>,
+          but those things which are of Jesus Christ. 
+          Christ does not seek possessions but souls; 
+          He who alone is king of kings immortal does not covet riches; 
+          not leisure and pleasures but the salvation of the human race for which He offered His life, 
+          fixed upon the tree of the cross. 
+          Whoever wishes many to exist so that (following 
+          <name xml:id="lca8s8-d1e78-Nd1e477">Aristotle's</name> 
+          teachings) he may act the savage butcher toward them, 
+          that he may oppress them with servitude and grow rich from them, 
+          is a tyrant, not a Christian; 
+          a son of Satan, not of God; 
+          he is a robber, not a shepherd; 
+          he is led by a diabolical spirit, not a heavenly one. 
+          If you seek the Indians so that you may gently, 
+          modestly, 
+          mildly, 
+          humanely, 
+          and finally in a Christian manner instruct them, 
+          lead them by the word of God and by works
+          <pb ed="#P" n="21-v"/>
+          to the fold of Christ, 
+          impressing upon their minds that most gentle Christ, 
+          you perform an apostolic work and will have from our Supreme Lamb 
+          <quote xml:id="lca8s8-d1e78-Qd1e506">
+            an unfading crown of glory
+          </quote>.
+          But if you consume and plunder the most innocent peoples with iron, 
+          flames, 
+          slaughter, 
+          impostures, 
+          violence, 
+          tyranny, 
+          cruelty, 
+          and more than barbarous inhumanity, 
+          peoples prepared to abstain from evil and to receive the word of God, 
+          you are sons of the devil and the most inhuman of all robbers. 
+          <quote xml:id="lca8s8-d1e78-Qd1e536">
+            My yoke (says Christ) is sweet and my burden light
+          </quote>.
+          You impose unbearable burdens, 
+          and you who ought to be light in life to the blind and ignorant, 
+          consume the creatures of God. 
+          Hear 
+          <ref xml:id="lca8s8-d1e78-Rd1e550">
+            <name xml:id="lca8s8-d1e78-Nd1e551">Dionysius</name> 
+            in the 
+            <title>Letter to Demophilus the Monk</title>
+          </ref>:
+          <quote xml:id="lca8s8-d1e78-Qd1e555">
+            For it is fitting that the ignorant be taught, not tortured; 
+            just as we do not torment the blind but lead them by the hand
+          </quote>.
+          And 
+          <ref xml:id="lca8s8-d1e78-Rd1e564">
+            <name xml:id="lca8s8-d1e78-Nd1e565">a little</name> 
+            below
+          </ref>:
+          <quote xml:id="lca8s8-d1e78-Qd1e568">
+            It is therefore of great horror that he whom Christ the supremely good seeks wandering in the mountains, 
+            calls back fleeing, 
+            and scarcely found, bears back upon sacred shoulders, 
+            is afflicted by you, 
+            repudiated, 
+            cast out
+          </quote>.
+          Thus far he. 
+          In this way the apostles spread the Gospel and subjected the whole world to Christ, 
+          as is evident from the Acts of the Apostles. 
+          And concerning blessed 
+          <name xml:id="lca8s8-d1e78-Nd1e597">Jude Thaddeus</name>, 
+          these words are read in the 
+          <title>Roman Lectionary</title>:
+          <quote xml:id="lca8s8-d1e78-Qd1e609">
+            The blessed apostle, sent by divine impulse to the city of Edessa as evangelist and preacher of the word of God, 
+            coming to Mesopotamia and to the lower parts of Pontus and evangelizing, 
+            <pb ed="#P" n="22-r"/>
+            was softening savage and untamed peoples, 
+            almost beast-like natures, 
+            with holy doctrine, 
+            and subjugating them to the faith of the Lord
+          </quote>.
+          Different was this hunting from that which Aristotle taught, 
+          who, although endowed with great philosophy, 
+          was nevertheless not worthy to be captured by it, 
+          so as to come to God through knowledge of the true faith.
+        </p>
+        <p xml:id="lca8s8-d1e78-d1e634">
+          ¶ These three kinds of barbarians about which we have discussed are gathered from Saint 
+          <ref xml:id="lca8s8-d1e78-Rd1e640">
+            <name xml:id="lca8s8-d1e78-Nd1e641">Thomas</name> 
+            on books 1 and 3 of the 
+            <title>Politics</title>
+          </ref> 
+          and from the 
+          <ref xml:id="lca8s8-d1e78-Rd1e645">
+            first reading on Paul's Epistle to the Romans
+          </ref> 
+          and 
+          <ref xml:id="lca8s8-d1e78-Rd1e650">
+            1 Corinthians 14, reading 2
+          </ref> 
+          and 
+          <ref xml:id="lca8s8-d1e78-Rd1e655">
+            Colossians 3, reading 2
+          </ref>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

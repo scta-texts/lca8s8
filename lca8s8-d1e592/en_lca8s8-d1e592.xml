@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 42 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 42 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-19">April 19, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="184-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e592">
+        <head xml:id="lca8s8-d1e592-Hd1e97">Chapter 42</head>
+        
+        <p xml:id="lca8s8-d1e592-d1e99">
+          Chapter 42
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e104">
+          Here we shall refute the fourth argument or cause of Sepulveda.
+          For he says that war can be waged against the Indians so that the Christian religion may be spread 
+          and the whole path opened to the preachers of the gospel.
+          Indeed I cannot sufficiently marvel at Sepulveda.
+          For by what spirit is this man,
+          a theologian,
+          old,
+          and polished in humanistic literature,
+          inspired to offer these poisons to the world:
+          so that the Indian empires,
+          extending very widely,
+          might be prey to the most savage robbers contrary to the law of Christ.
+          Just as they have been until now,
+          to the great envy of the Spanish people,
+          who have perpetrated such crimes among those peoples as no nation however wild 
+          (as literature records)
+          has ever perpetrated.
+          Sepulveda indeed strives with all his might to expand these crimes:
+          so that the remaining nations of that entire world might finally be destroyed:
+          and the just and upright God,
+          perhaps more quickly than he had decreed,
+          being stirred up by these things,
+          might pour out the fury of his wrath and seize all of Spain.
+          Therefore Sepulveda first brings forth what Augustine writes in his letter to Donatus the heretic.
+          For Sepulveda asserts that Augustine teaches that the nations in the beginnings of the nascent church 
+          were to be led gently and mildly to the faith of Christ:
+          But afterward,
+          with the strength of the church increased,
+          they could be compelled to enter into the fold of Christ in the parable of the wedding feast.
+          Certainly Sepulveda speaks impiously and errs in many things to the prejudice of his own soul:
+          especially in three matters.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e180">
+          First,
+          saying that the decrees of the church,
+          of the pontiff,
+          and of the Caesars issued against heretics should be observed even against unbelievers,
+          not distinguishing the species of unbelievers,
+          which are four:
+          Some unbelievers are Moors and Jews living under the yoke of Christians.
+          Others are apostates and heretics.
+          Others are Turks and Moors persecuting us by war.
+          Others are unbelieving idolaters inhabiting very remote provinces.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e204">
+          Second,
+          Sepulveda impiously interprets that parable of the wedding feast in Luke 14 and Matthew 22.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e216">
+          Third,
+          he errs in not distinguishing unbelievers subject to the church or to princes who are its members 
+          from other unbelievers not subject:
+          attributing to the church jurisdiction where it has none.
+          This last point I proved false in chapter 6 and following by the most clear reasons above.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e234">
+          But as to what pertains to the principal question,
+          certainly that evangelical parable in no way proves what Sepulveda brings it forward to prove.
+          For he strives to prove that Christ wanted the church,
+          strengthened by forces and princes,
+          to compel men to receive evangelical truth,
+          not indeed by baptizing them with violence inflicted,
+          but by overturning the worship of idols and crushing their strength:
+          so that they cannot impede the preaching of the gospel.
+          Before all else I would gladly be instructed by Sepulveda why God would have preferred violence 
+          to be inflicted on unbelievers by the church and Christian princes rather than by angels,
+          by whose ministry God often leads unbelievers to knowledge of himself,
+          according to what has been handed down by the great Dionysius in the Celestial Hierarchy chapter 9?
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e278">
+          Again I ask whether that compulsion of which the parable makes mention:
+          should be corporeal or material,
+          inflicted by angels or by God himself?
+          Indeed if Sepulveda with his associates has nothing to bring forth except his own inventions:
+          I will oppose that saying of blessed Jerome to Paulinus in these words:
+          who if they should happen to come to the holy scriptures after secular letters,
+          and should charm the ears of the people with polished speech,
+          they think that whatever they say is the law of God.
+          Nor do they deign to know what the prophets,
+          what the apostles thought,
+          but they adapt incongruous testimonies to their own meaning:
+          as if it were a great and not most vicious manner of teaching to corrupt sentences 
+          and to drag scripture to their own will though it resists.
+          These are his words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e315">
+          Indeed,
+          venerable doctor Sepulveda,
+          it would have been fitting for you to consider:
+          that a parable is a certain obscure sentence or similitude:
+          according to the opinion of Saint Thomas 
+          <ref xml:id="lca8s8-d1e592-Rd1e333" target="http://scta.info/resource/TAca84-d1e842-d1e269@6-18">1st part: question 1 article 10 ad 3</ref>
+          and on Isaiah.
+          Since moreover parables can be expounded in many ways and receive multiple interpretations,
+          and the same thing can be attributed to different things according to different similitudes,
+          by the authority of 
+          <ref xml:id="lca8s8-d1e592-Rd1e337" target="http://scta.info/resource/ta-l1d3q2-d1e134@4-26 http://scta.info/resource/ta-l1d3q3-d1e202@11-39">Saint Thomas 1a 2ae question 33, article 1 ad 1 and 1st Sentences distinction 17 question 1 article 1 question 3 in the body</ref>.
+          Nor is the literal sense,
+          on which other senses are founded and under which there cannot be falsehood:
+          that which anyone wishes:
+          but that which the author of Sacred Scripture intends,
+          namely the Holy Spirit.
+          But to assign who or what this is:
+          is not for just anyone:
+          but for sacred doctors who have excelled other mortals in morals and doctrine.
+          But of all these,
+          none has existed up to now:
+          who has expounded that evangelical parable in the way Sepulveda expounds it:
+          namely that unbelievers,
+          especially gentiles who have never heard the faith,
+          are to be compelled by military force by princes to abandon the worship of idols 
+          and enter the fold of Christ,
+          namely the church.
+          And thus concerning exterior and corporeal compulsion.
+          Therefore it is great temerity:
+          to presume to prove by the said parable:
+          that Christ commanded his church,
+          when it had been strengthened,
+          that it ought to use corporeal compulsion concerning unbelievers before the preaching of the faith.
+          Moreover,
+          all theologians teach that nothing pertaining to faith or to the salvation of men 
+          is found in the sacred letters proposed under a parable or spiritual sense:
+          which scripture does not somewhere manifestly hand down through the literal sense.
+          So teaches 
+          <ref xml:id="lca8s8-d1e592-Rd1e402">Augustine in the book On Christian Doctrine</ref>
+          and 
+          <ref xml:id="lca8s8-d1e592-Rd1e407">Saint Thomas in the first part question 1 article 9 ad 2</ref>
+          and 
+          <ref xml:id="lca8s8-d1e592-Rd1e412">article 10 ad 1</ref>
+          and 
+          <ref xml:id="lca8s8-d1e592-Rd1e417">Quodlibet 7 article 14 ad 3</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e420">
+          Here I would wish Sepulveda with his associates to bring forth from the sacred letters some place 
+          where that evangelical parable is expounded:
+          as he himself expounds it,
+          that the gospel (that is,
+          the good and joyful announcement)
+          and the remission of sins:
+          ought to be announced by arms and bombardments:
+          by subduing with armed soldiers and pursuing a people by the force of war.
+          What has joyful announcement to do with wounds,
+          captivities,
+          slaughters,
+          fires,
+          and the destruction of cities and the common evils of war?
+          Surely they will descend to hell before they feel the benefit of the gospel.
+          What will those tell who flee to foreign provinces seeking refuge from the Spaniards,
+          with split heads,
+          amputated hands,
+          ruptured intestines?
+          What will they think about the God of the Christians?
+          Surely they will think them to be sons of the devil,
+          not sons of God and angels of peace.
+          Would those who interpret that parable thus want,
+          if perhaps they were pagans,
+          to have the truth announced to them with their house first destroyed:
+          and their children led into captivity,
+          their wife ravished:
+          their cities laid waste,
+          women deflowered,
+          and provinces desolated?
+          Would they want,
+          with so many evils:
+          so many tears,
+          so many horrible disasters:
+          such savage fear and pitiable calamity,
+          to come to the fold of Christ?
+          Does not Paul say:
+          receive one another as Christ also received you?
+          And a little above:
+          Whatever things were written were written for our instruction.
+          Romans 15.
+          Therefore,
+          just as they themselves would not want to be led thus to the fold of Christ:
+          so also let them abstain from all violence toward their brothers.
+          Just as blessed James and his disciples used this evangelical moderation with their fathers:
+          who perhaps were contaminated by worse crimes:
+          and were more devoted to the dregs of idolatry and abounded more in barbaric customs 
+          than other nations,
+          as can be seen in the great difficulty with which Spain was converted to Christ.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e529">
+          Let them abstain (I say)
+          from exercising such immoderation on other nations,
+          the Spaniards:
+          and let them use that sweetness by which they themselves were called:
+          whether they be barbarians or idolaters:
+          or infected with whatever other vices.
+          The evident reason for this is:
+          because there is not male and female,
+          gentile and Jew:
+          circumcision and foreskin,
+          barbarian and Scythian:
+          slave and free:
+          but all things and in all things is Christ.
+          To the Colossians 3.
+          There is no distinction between Jew and Greek,
+          for the same Lord of all is rich toward all who call upon him.
+          Romans 10.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e556">
+          The same says Chrysostom in the Imperfect Work on Matthew chapter 22,
+          homily 41,
+          in these words:
+          Just as there is no distance in the nature of the creation of men,
+          no difference is made in the calling to salvation of all of them,
+          whether barbarians or wise men,
+          since the grace of God is powerful to correct the minds of barbarians to reasonable understanding:
+          who changed the heart of Nebuchadnezzar to a bestial sense and again reduced his bestial sense 
+          to human understanding.
+          It is powerful,
+          I say,
+          to change all,
+          whether good or evil,
+          the good lest they perish,
+          the evil that they may be made inexcusable.
+          These are the words of Chrysostom.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e591">
+          Since therefore the nature of men is the same and all are called by Christ in the same way,
+          nor would they themselves have wanted to be called in a different manner,
+          they ought not to persuade that the Indians should be led to the church in another way 
+          than other men.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e604">
+          Again it is argued against the distinguished doctor and his obstinacy thus:
+          the literal sense of any passage of scripture,
+          from which alone an argument can be drawn according to Augustine and Saint Thomas,
+          is that which the author of it,
+          the Holy Spirit,
+          intends and wishes us to understand.
+          But Christ by those words of the parable "compel them to enter":
+          signifies that he himself,
+          immediately through himself or through angels or through men,
+          is accustomed to move intellectually and draw and as it were compel to himself by a visible 
+          or invisible miracle:
+          those who do not know his truth:
+          yet with no coercion of the will applied.
+          Therefore that is the literal sense.
+          Therefore Christ did not wish to signify exterior violence:
+          but persuasive force through the said parable,
+          which is sufficiently clear from the words of Chrysostom related above and from Saint Thomas 
+          in the question On Truth question 22 article 9 ad 7,
+          where speaking of this parable he says:
+          that compulsion of which Saint Luke 14 makes mention there:
+          is not of coercion:
+          but of efficacious persuasion,
+          through harsh and gentle means.
+          These are his words.
+          This is to move the hearts of men by infusing into the powers of the soul either fear 
+          or sorrow or by afflicting the body exteriorly with diseases or pains:
+          or by illuminating the soul itself with the light of the Holy Spirit.
+          But God does these things either through himself or through angels or through men:
+          representing before their eyes the torments of hell:
+          the eternal damnation of the soul:
+          and other inconveniences of present and future life.
+          In these ways that saying is fulfilled:
+          "compel them to enter":
+          that is,
+          urgently persuade and instigate them to convert through comminations of this kind,
+          according to that saying of the Apostle 2 Timothy 4:
+          preach the word,
+          be urgent in season and out of season,
+          reprove,
+          entreat,
+          rebuke,
+          and to Titus 2:
+          rebuke with all authority,
+          and chapter 1:
+          for which cause rebuke them sharply:
+          that they may be sound in the faith.
+          Thus Hugh of St. Cher interprets that parable.
+          And 
+          <name xml:id="lca8s8-d1e592-Nd1e701">Dionysius the Carthusian</name>.
+          For God,
+          to impart light and salvation to men,
+          uses the ministry of angels and commands them to compel men in these ways:
+          by the authority of Dionysius in the Celestial Hierarchy chapter 9,
+          who relates that God has drawn very many pagans to knowledge of himself through the ministry 
+          of angels in these words:
+          but they led back the one principle of all things and to him,
+          following according to each nation the angels who function as priests,
+          etc.
+        </p>
+        
+        <p xml:id="lca8s8-d1e592-d1e727">
+          The Lord instructs men through prelates and preachers with the same words:
+          whom he selects for a similar ministry,
+          just as he instructed Peter whom he was sending to Cornelius in Acts 10,
+          and Paul when he sent him to Macedonia in Acts 16,
+          and Philip whom he sent to meet the eunuch of Queen Candace,
+          upon whom then already lies the duty from the office enjoined to make such exhortations:
+          and not to omit rebukes and urgent and opportune insistences.
+          And in this way it can be said that very many unbelievers come to knowledge of the true God 
+          as if compelled.
+          Therefore unbelievers are compelled to know the truth by poverty,
+          hunger,
+          diseases,
+          pains,
+          terrors.
+          They are also compelled by the Word of God,
+          which is most efficacious,
+          according to what we read in Jeremiah chapter 24:
+          Are not my words like fire and like a hammer shattering rocks?
+          Or because,
+          convinced by miracles or reasons,
+          they are moved to believe.
+          Just as we also say demons have faith as if coerced.
+          For their intellect,
+          even unwilling,
+          is convinced by the most efficacious arguments of things which they see and understand.
+          For they see many manifest indications from which they perceive that the doctrine of the church 
+          is from God:
+          who can neither be deceived nor deceive,
+          although they themselves do not see the very things which the church teaches.
+          For instance,
+          that God is three and one,
+          or something of this kind,
+          and thus they are forced to believe from the perspicacity of their intellect,
+          by the authority of 
+          <ref xml:id="lca8s8-d1e592-Rd1e814">Thomas 2a 2ae question 5 article 2 in the body</ref>
+          and 
+          <ref xml:id="lca8s8-d1e592-Rd1e819">ad 2</ref>.
+          Thus 
+          <ref xml:id="lca8s8-d1e592-Rd1e821">Aristotle in the book of the Posterior Analytics</ref>
+          and 
+          <ref xml:id="lca8s8-d1e592-Rd1e826">Metaphysics 4</ref>
+          writes about the ancient philosophers that although they denied the first principles with their mouth,
+          they were nevertheless forced to confess them,
+          convinced by evident and necessary reasons which he himself hands down in Metaphysics 11,
+          chapter 4.
+          Concerning such interior and persuasive compulsion Augustine says:
+          happy is the necessity which compels to better things.
+          And Seneca:
+          I give thanks to my weakness:
+          which compels me not to be able to do what I ought not to will.
+          These are his words.
+          And this is the compulsion which Christ intends to teach through that parable in the literal sense.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

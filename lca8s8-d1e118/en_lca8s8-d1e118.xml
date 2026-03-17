@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 6 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 6 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2024-08-08">August 8, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="31-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e118">
+        <head xml:id="lca8s8-d1e118-Hd1e107">Chapter 6 [Bnf 12926 Transcription - English Translation]</head>
+        
+        <p xml:id="lca8s8-d1e118-d1e109">
+          Chapter 6
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e114">
+          <add place="margin-left" hand="F">A reply to the second argument or cause of Doctor Sepulveda</add>
+          The second argument by which Sepulveda proves war against the Indians is:
+          that the crime of idolatry may be punished,
+          and the sacrificing of living men to the gods,
+          by which that people offends God.
+          Here,
+          as in other matters,
+          Sepulveda certainly errs,
+          supposing certain erroneous things,
+          and expressing certain things.
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e133">
+          That this may be clearer,
+          it must be presupposed that we can then punish the sins of infidels or them:
+          when either we are subject to them,
+          or they to us:
+          or they are made of our jurisdiction.
+          But this happens for four reasons:
+          first,
+          by reason of domicile or by reason of habitation,
+          for instance if they dwell among Christians.
+          Or,
+          by reason of origin,
+          either of him concerning whose case is treated or of his fathers.
+          And whoever from such causes is subjected to our jurisdiction is properly called a subject.
+          Third,
+          anyone is considered subject to us from the fact that he is a vassal and has sworn fidelity to us with words duly conceived:
+          by reason of some fief from which he owes services to us.
+          Fourth,
+          by reason of a crime committed in someone's jurisdiction or against the lord himself or against the things or persons of his subjects.
+          Likewise,
+          anyone receives a jurisdiction by reason of a contract or by reason of a thing,
+          as for instance if a foreigner possesses land within the jurisdiction of some prince:
+          for by reason of that thing he is considered to be of that jurisdiction.
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e181">
+          These are not all properly subjects but accidentally:
+          by reason (namely) of a thing or contract:
+          they can be summoned by a judge from whose power they are legitimately free.
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e191">
+          To the first species of subjects belong Jews and Moors dwelling in the kingdoms of Christian princes.
+          For they are bound to use and be subject to the temporal laws by which the other inhabitants of the kingdom:
+          and transgressors of the laws are punished by them,
+          as by the doctors in 
+          <ref xml:id="lca8s8-d1e118-Rd1e210">c. 1 de constitutionibus</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e215">C. de legibus et constitutionibus principum</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e217">de foro competenti c. finali</ref>.
+          But what pertains to religion and spiritual matters,
+          whether they are Jews or Mohammedans,
+          or worshipers of idols:
+          they are by no means subject to the Church,
+          nor to its members (namely) Christian princes:
+          and therefore celebrating and observing their rites:
+          they can by no means be punished by Christian princes.
+          For they lack jurisdiction in this part because those crimes,
+          although most grave in themselves and abominable,
+          nevertheless are not punishable by men,
+          as is noted by the canonist doctors,
+          and will be proved below.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e249">
+          Now let us discuss infidels dwelling in kingdoms subject to infidel princes,
+          as are the African Moors,
+          Turks,
+          Scythians,
+          Persians,
+          and these concerning whom there is controversy,
+          the Indians:
+          and certainly however horrible crimes they commit among themselves and within their territories against God or even concerning religion:
+          neither the Church nor Christian princes can know of them,
+          nor can they punish them on account of those things.
+          For they lack jurisdiction,
+          which is the necessary foundation of all judicial acts,
+          especially for punishing anyone.
+          Therefore where the emperor,
+          prince or king does not have jurisdiction:
+          but is considered a private man,
+          and all things done by him are of no moment,
+          as in 
+          <ref xml:id="lca8s8-d1e118-Rd1e283">l. preses l. 2a ff de officio presidis</ref>
+          <ref xml:id="lca8s8-d1e118-Rd1e285" target="http://scta.info/resource/azsw2e-d1e1488-d1e133">l. privatorum C: de jurisdictione omnium judicum</ref>.
+          <ref xml:id="lca8s8-d1e118-Rd1e291">c. significantibus: de officio delegati</ref>
+          <ref xml:id="lca8s8-d1e118-Rd1e296">Innocentius in c. super litteris: de rescriptis</ref>.
+          More extensively 
+          <ref xml:id="lca8s8-d1e118-Rd1e301">Ancharranus in regula ea quae, de regulis iuris in 6o super verbo Judice</ref>.
+          The case of heretics is different.
+          For these are subject to Christian princes not only by reason of domicile,
+          origin,
+          contract and crime,
+          but also by reason of the vow and promised obedience which they vowed and promised in baptism to God and the Catholic Church;
+          which when they do not render,
+          they are most rightly chastised by princes and by laws both pontifical and also imperial,
+          as is most manifest from many places of both laws. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e350">
+          ¶ But if (which may the Lord forbid) it should happen that a Christian people live under the yoke of infidels or dwell in their jurisdiction:
+          certainly by natural and divine law they would be bound to observe their political laws pertaining to the republic;
+          provided they do not render a man impious or unjust toward God:
+          as is proved from 
+          <ref xml:id="lca8s8-d1e118-Rd1e365">Paul to the Romans 13</ref>
+          from 
+          <ref xml:id="lca8s8-d1e118-Rd1e370">1 to Timothy 6</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e372">to Titus 3</ref>
+          and from other places.
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e378">
+          ¶ In this chapter and in those following,
+          we will prove that infidels who have never put on the faith of Christ nor are subject to Christians:
+          cannot be punished by Christians or even by the Church on account of any crimes however atrocious.
+          This is proved first because infidels who have never received the faith of Christ are not actually subject to Christ.
+          Therefore neither to the Church nor of its jurisdiction.
+          The antecedent is proved.
+          For although to Christ from eternity as teacher over all peoples,
+          whether faithful or infidels,
+          power has been given in heaven and on earth according to that in 
+          <ref xml:id="lca8s8-d1e118-Rd1e408" corresp="#lca8s8-d1e118-Qd1e411">Matthew at the end</ref>:
+          <quote xml:id="lca8s8-d1e118-Qd1e411" source="http://scta.info/resource/mt28_18@8-17">All power is given to me in heaven and on earth</quote>,
+          and thus all the peoples of the world are subject to him by the authority and power which he received from the eternal Father not only insofar as God:
+          but also insofar as man over every creature:
+          nevertheless not all are subject to him in act or effect.
+          Nor as to the execution of his power.
+          As to act and effect indeed on their part,
+          because infidels and sinners on account of infidelity and rebellion of their own will:
+          do not subject themselves to him by rendering Christian piety according to that to 
+          <ref xml:id="lca8s8-d1e118-Rd1e440" corresp="#lca8s8-d1e118-Qd1e442">Romans 10</ref>:
+          <quote xml:id="lca8s8-d1e118-Qd1e442" source="http://scta.info/resource/rom10_16@1-5">But not all obey the gospel</quote>.
+          And 
+          <ref xml:id="lca8s8-d1e118-Rd1e448" corresp="#lca8s8-d1e118-Qd1e450">Exodus 10</ref>
+          <quote xml:id="lca8s8-d1e118-Qd1e450" source="http://scta.info/resource/ex10_3@17-21">How long do you not wish to submit to me</quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e456">
+          Therefore such persons,
+          since they do not acknowledge Christ or obey his commands,
+          are not subject to him in act or as to works,
+          but in potency:
+          but they will be in act and effect when regenerated through baptism,
+          they shall have betaken themselves to the fold of Christ,
+          or shall have returned to charity through grace.
+          But as to the execution of this power granted to Christ and on the part of Christ himself:
+          the merciful Lord himself suspends it until the day of death of each one or until the day of judgment:
+          in which he will render to each according to his works.
+          And he will do with effect his will concerning all.
+          In this life however he does not use this right of his,
+          both because since he moves and directs all created things,
+          especially rational creatures,
+          gently in their acts because he is mild and gentle:
+          he does not wish anyone to be compelled to render the obedience due to him:
+          but to be left to his own free will,
+          that willing and voluntarily he may knock,
+          that it may be opened to him.
+          Also because since man by his own will brought destruction upon himself:
+          it is fitting also that he should attain salvation by his own will with the inspiration of divine grace,
+          as in 
+          <ref xml:id="lca8s8-d1e118-Rd1e509" target="http://scta.info/resource/gd-p1d45-d1e179">c. de iudaeis, distinctione 45</ref>;
+          and in 
+          <ref xml:id="lca8s8-d1e118-Rd1e514" corresp="#lca8s8-d1e118-Qd1e518">c. non est is q. 1</ref>)
+          there 
+          <quote xml:id="lca8s8-d1e118-Qd1e518" source="http://scta.info/resource/gd-p2c15q1-d1e259@39-43">Christ chose a voluntary soldier for himself</quote>.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e522">
+          Therefore when the infidel willingly receives baptism,
+          then in act and effect he subjects himself to the jurisdiction of Christ;
+          and now by a certain special reason he is a subject:
+          namely from the vow and solemn promise which and that he vowed and promised in baptism to keep the law of Christ,
+          having rejected his former lord (namely) the demon,
+          whose servant and subject he was,
+          as in 
+          <ref xml:id="lca8s8-d1e118-Rd1e541" target="http://scta.info/resource/gd-p2c15q1-d1e259/critical/transcription@39-43">c. baptizatus</ref>
+          and in 
+          <ref xml:id="lca8s8-d1e118-Rd1e544" target="http://scta.info/resource/gd-p3d4-d1e912">c. ante baptismum at the end</ref>.
+          And in 
+          <ref xml:id="lca8s8-d1e118-Rd1e551" target="http://scta.info/resource/gd-p3d4-d1e766">c. ab antiqua</ref>.
+          And in 
+          <ref xml:id="lca8s8-d1e118-Rd1e555" target="http://scta.info/resource/gd-p3d4-d1e1400">c. Postquam ascendit</ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e118-Rd1e560" target="http://scta.info/resource/gd-p3d4-d1e1236">c. nulli est</ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e118-Rd1e563" target="http://scta.info/resource/gd-p3d4-d1e2193">c. ad hoc baptizatus: de consecratione distinctione 4a</ref>.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e570">
+          Therefore whoever is baptized obtains two privileges:
+          first he is made of the flock of Christ and his servant,
+          obligated in the service of faith to observe firmly the law of Christ,
+          and even to suffer death for it,
+          <ref xml:id="lca8s8-d1e118-Rd1e583" target="http://scta.info/resource/cice-l1t1-d1e119">c. firmiter de suma trinitate</ref>,
+          And in 
+          <ref xml:id="lca8s8-d1e118-Rd1e586" target="http://scta.info/resource/acnkop-c1c1c1">the symbol of Athanasius</ref>.
+          Then he is numbered and enrolled among the orthodox,
+          that is the Catholic Church,
+          made a member of the Christian commonwealth and a citizen of the city of God,
+          as is proved 
+          <ref xml:id="lca8s8-d1e118-Rd1e598" corresp="#lca8s8-d1e118-Qd1e602">to Ephesians 2</ref>:
+          <quote xml:id="lca8s8-d1e118-Qd1e602" source="http://scta.info/resource/eph2_19@2-11">Now you are no longer strangers and foreigners, but you are citizens of the saints</quote>.
+          And thus henceforth he can approach the most sacred table of Christ and be strengthened by ecclesiastical sacraments,
+          as is proved 
+          <ref xml:id="lca8s8-d1e118-Rd1e611">to Ephesians 4</ref>.
+          Teaches 
+          <ref xml:id="lca8s8-d1e118-Rd1e616">St. Thomas 3a parte, q. 67, a. 23</ref>. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e622">
+          ¶ Therefore the baptized,
+          having received these privileges as if in fief,
+          is considered a subject and vassal of Christ on account of the vow and promise which and that he promises in baptism.
+          Whence baptism is called the sacrament of faith,
+          as in 
+          <ref xml:id="lca8s8-d1e118-Rd1e635" target="http://scta.info/resource/eph2_19/critical/transcription@2-11">c. nihil est aliud. de consecrtione, distinctione 4a</ref>.
+          And this sacrament makes a man Christian by a special reason and in a new way subject to Christ,
+          who acquires a new right of lordship over him:
+          beyond and besides the universal right which belongs to him insofar as God and Lord of every creature:
+          and besides the power and authority which the Father conferred upon him over every power and principality of heaven and earth insofar as man:
+          Let an example be:
+          all men are bound to adore Christ with the adoration of latria:
+          as the true God 
+          <ref xml:id="lca8s8-d1e118-Rd1e669" target="http://scta.info/resource/phil2_10 http://scta.info/resource/phil2_11">to Philippians 2</ref>.
+          If however someone should make a special vow promising to adore Christ a hundred times a day:
+          certainly this one is subject to Christ by a certain special and new reason.
+          From which it is inferred that if a Christian and a pagan commit the same crime:
+          the Christian sins more gravely:
+          namely being actually subject to Christ:
+          And beyond this from a special promise.
+          Thus it is proved 
+          <ref xml:id="lca8s8-d1e118-Rd1e691" target="http://scta.info/resource/hebr10_26             http://scta.info/resource/hebr10_27             http://scta.info/resource/hebr10_28             http://scta.info/resource/hebr10_29             http://scta.info/resource/hebr10_30             http://scta.info/resource/hebr10_31">to Hebrews 10</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e695" target="http://scta.info/resource/Itim5_8">1 to Timothy 5</ref>
+          and in 
+          <ref xml:id="lca8s8-d1e118-Rd1e700" target="http://scta.info/resource/gd-p1d40-d1e187">c. homo christianus distinctione 40</ref>.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e704">
+          Therefore pagans who have never received the faith are not voluntary and actual subjects of Christ:
+          but potential,
+          not in act,
+          that is in deed,
+          nor by special reason:
+          that is by a new promise like Christians.
+          From which it appears that a twofold power has been given to Christ insofar as he is man:
+          one indeed in act with respect to those who hold his faith:
+          and keep his commands through charity.
+          The other truly in habit or potency.
+          And this pertains to those who do not acknowledge him as the true God or do not keep his precepts.
+          This twofold power is proved 
+          <ref xml:id="lca8s8-d1e118-Rd1e732" corresp="#lca8s8-d1e118-Qd1e737">to Hebrews 2</ref>
+          there:
+          <quote xml:id="lca8s8-d1e118-Qd1e737" source="http://scta.info/resource/hebr2_8@6-17">In that he subjected all things to him, he left nothing not subject to him</quote>.
+          Behold the habitual power conferred on Christ.
+          The apostle adds:
+          <quote xml:id="lca8s8-d1e118-Qd1e745" source="http://scta.info/resource/hebr2_8@18-24">But now we do not yet see all things subject to him</quote>. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e753">
+          Here he speaks of actual subjection,
+          which by the authority of 
+          <ref xml:id="lca8s8-d1e118-Rd1e757"><name xml:id="lca8s8-d1e118-Nd1e758">the divine Thomas</name></ref>
+          will be fulfilled in the future age,
+          as was said,
+          and thus actual power will be future in those who are now infidels and sinners.
+          Again 
+          <ref xml:id="lca8s8-d1e118-Rd1e767" corresp="#lca8s8-d1e118-Qd1e770">1 Corinthians 15</ref>:
+          <quote xml:id="lca8s8-d1e118-Qd1e770" source="http://scta.info/resource/Icor15_27@1-11">All things (he says) are subject to him without doubt except him who subjected all things to him</quote>.
+          Behold habitual power.
+          The apostle adds:
+          <quote xml:id="lca8s8-d1e118-Qd1e777" source="http://scta.info/resource/Icor15_28@1-12">But when all things shall have been subjected to him: then also the Son himself will be subject to him</quote>.
+          Behold actual future.
+          Similarly 
+          <ref xml:id="lca8s8-d1e118-Rd1e787" corresp="#lca8s8-d1e118-Qd1e789">to Philippians 3</ref>:
+          <quote xml:id="lca8s8-d1e118-Qd1e789" source="http://scta.info/resource/phil3_21@10-17">According (he says) to the operation of his power: by which also he is able to subject all things to himself</quote>.
+          But if he is able,
+          therefore he does not do it.
+          Therefore some things are not actually subject to him.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e799">
+          For potency insofar as it is divided against act is a principle of act or operation,
+          by the authority of 
+          <ref xml:id="lca8s8-d1e118-Rd1e806">the Philosopher, Metaphysics 5</ref>
+          therefore when he said he is able to subject all things,
+          he suggests only potency and not act.
+          But what is in potency is not said to be in act with respect to the same.
+          From which it is inferred that there is some habitual potency in Christ not reduced to act.
+          Therefore some things are not actually subject to him.
+          But this cannot be said of habitual potency because any power would be denied in Christ:
+          against that:
+          <quote xml:id="lca8s8-d1e118-Qd1e831">All power is given to me</quote>
+          et cetera.
+          Therefore it is understood of actual future power.
+          <add place="lm" hand="F">Infidels are subject to Christ only in potency and not in act</add>
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e842">
+          Therefore a twofold power is posited in Christ (namely) habitual or in potency and actual.
+          And by this mode we say that infidels are subject to Christ only in potency,
+          but not in act:
+          and therefore not of his jurisdiction or court insofar as such:
+          until either they are converted or die or up to the end of the world:
+          when Christ will exercise fully his power over all:
+          damning the evil and rewarding the good:
+          and then all things will be subject to him actually.
+          Concerning this twofold power of Christ writes
+          <add place="rm" hand="F">Saint Thomas</add>
+          <ref xml:id="lca8s8-d1e118-Rd1e871">Saint Thomas 3 parte, q. 59, a. 4 ad 2</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e876">q. 8, a. 3</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e878">to Hebrews lectio 3 at the end</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e883">lectio 6</ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e887">
+          ¶ Therefore since infidels are not actually subject to Christ:
+          therefore neither to the Church.
+          The consequence is proved:
+          first because it pertains to the Church to have subjects insofar as they are subjects of Christ:
+          since Christ is the prince of the Christian commonwealth,
+          which is the Church.
+          But infidels are subject to Christ in habit or in potency.
+          Therefore similarly also to the Church.
+          Second because the Church does not have greater power or jurisdiction in the world or in any part of it than Christ had or has today.
+          According to that 
+          <ref xml:id="lca8s8-d1e118-Rd1e921">Matthew 7</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e923" target="http://scta.info/resource/lc6_10">Luke 10</ref>.
+          <quote xml:id="lca8s8-d1e118-Qd1e926" source="http://scta.info/resource/mt10_24@1-10 http://scta.info/resource/mt10_25@1-12">The disciple is not above the master: nor the servant above his lord. It is enough for the disciple to be like his master, and the servant like his lord.</quote>
+          <quote xml:id="lca8s8-d1e118-Qd1e937" source="http://scta.info/resource/io13_16@11-17">Nor is the apostle greater than he who sent him</quote>
+          <ref xml:id="lca8s8-d1e118-Rd1e941" corresp="#lca8s8-d1e118-Qd1e937">John 13</ref>.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e944">
+          Again,
+          Christ did not grant absolutely and without limitation to his Church or to his vicar all the power which he himself has in heaven and on earth.
+          For the supreme pontiff cannot institute new sacraments:
+          nor abrogate instituted ones:
+          nor remit sins without the virtue of the sacraments:
+          nor again are given to him certain other things:
+          which the doctors of the sacred Church attribute to the power of excellence of Christ according to his most holy humanity.
+          Concerning which matter fully discusses 
+          <ref xml:id="lca8s8-d1e118-Rd1e967"><name xml:id="lca8s8-d1e118-Nd1e968">the divine Thomas</name> 3a parte q. 64, a. 3</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e975">4 in corpore</ref>.
+          And that such authority or power has not been communicated to any creature,
+          he writes in the same place 
+          <ref xml:id="lca8s8-d1e118-Rd1e981" target="http://scta.info/resource/ta-l4d2q1-Dd1e485">ad 1</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e986" target="http://scta.info/resource/ta-l4d2q1-Dd1e518">3 in 4 sententiarum distinctione 2, q. 1, a. 4</ref>
+          <ref xml:id="lca8s8-d1e118-Rd1e991" target="http://scta.info/resource/ta-l4d2q1-d1e541@70-125">q. 4 in corpore</ref>
+          and 
+          <ref xml:id="lca8s8-d1e118-Rd1e995" target="http://scta.info/resource/ta-l4d5q1-Dd1e253 http://scta.info/resource/ta-l4d5q1-Dd1e281">distinctione 5, q. 1, a. 3, q. 1, 2 throughout and in other places</ref>.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e1001">
+          Therefore the Church or the pope does not have the same power in all things as Christ:
+          although some attribute this to him through flattery.
+          I acknowledge the power of the supreme pontiff and of the Church to be most full:
+          but as to those creatures which are capable of grace and glory.
+          Since for the end and to the end of celestial beatitude,
+          and for the edification of the Church,
+          such power has been instituted.
+          Nor does that power extend to all creatures capable of grace and glory,
+          for not over angels but over men:
+          Nor moreover over all men:
+          but over wayfarers.
+          For the pontiff is called the head of wayfarers,
+          by the authority of 
+          <ref xml:id="lca8s8-d1e118-Rd1e1037">Thomas 3a parte q. 8, a. 6</ref>
+          but Christ is the head both of angels and also of men wayfarers.
+          According to that 
+          <ref xml:id="lca8s8-d1e118-Rd1e1044" corresp="#lca8s8-d1e118-Qd1e1050">to Colossians 2</ref>.
+          <quote xml:id="lca8s8-d1e118-Qd1e1050" source="http://scta.info/resource/col2_10@6-12">Who is the head of all principality and power</quote>
+          et cetera.
+          But those are called wayfarers who strive for the celestial kingdoms through faith.
+          But infidels are by no means wayfarers:
+          but rather deviant ones,
+          namely blind and alien from the way of truth and felicity for which they were created.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e1067">
+          Whence it is clear:
+          that the power of the Church and of Christ's vicar extends only to those men who have voluntarily received holy baptism,
+          that is all the faithful:
+          tending to eternal felicity.
+          However it can be said that the Church has power over infidels in habit or potency:
+          that is:
+          that they can be faithful if they have received the Christian religion:
+          and entering the sheepfold of Christ,
+          if they have wished to be made subjects of his vicar and members of his Church.
+          For just as the infidel is faithful in potency:
+          so the Church has power over him only in potency (namely) with and when he shall have embraced the faith of Christ.
+          Whence it is clear that just as infidels of whom we speak are subject to Christ and pertain to his jurisdiction,
+          existing in this life in habit and in potency in the mode which was said:
+          so they are subject to the Church and to his vicar and pertain to his jurisdiction and care,
+          namely in habit and potency.
+        </p>
+        
+        <p xml:id="lca8s8-d1e118-d1e1116">
+          But that infidels are subject to the Church only in habit,
+          not in act:
+          teaches 
+          <ref xml:id="lca8s8-d1e118-Rd1e1120">Saint Thomas in 3a parte, q. 8, a. 3 ad 1</ref>
+          in these words:
+          <quote xml:id="lca8s8-d1e118-Qd1e1125">Those who are infidels, although they are not actually of the Church, nevertheless are of the Church's potency. Which potency indeed is founded on two things. First indeed and principally in the power of Christ: which is sufficient for the salvation of the whole human race. Secondarily in the freedom of the will</quote>.
+          From which words it appears that 
+          <name xml:id="lca8s8-d1e118-Nd1e1144">Saint Thomas</name>
+          held that the Church has no jurisdiction over infidels in act:
+          but in potency.
+          For he says that potency rests on the power of Christ,
+          who compels no one:
+          and on the freedom of the will,
+          which also cannot be compelled.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e1158">
+          ¶ Therefore contentious jurisdiction,
+          which is exercised against the unwilling,
+          as the jurists speak,
+          about which we will also discuss 
+          <ref xml:id="lca8s8-d1e118-Rd1e1164">below, chapter 37</ref>,
+          the Church does not have over infidels,
+          nor can it exercise it over them,
+          except in six cases which I will subjoin below.
+          The reason is because according to 
+          <ref xml:id="lca8s8-d1e118-Rd1e1176">the Philosopher, Metaphysics 9</ref>
+          every potency or power is determined to something that it can and when it can and how it can.
+          And again 
+          <ref xml:id="lca8s8-d1e118-Rd1e1183">De Anima 2</ref>
+          he says:
+          the act of active things is proportioned only in a patient well disposed.
+          Therefore the power of the supreme pontiff can be exercised insofar as and how he has power,
+          not beyond,
+          for that a thing may be best,
+          it is necessary that it be done in that mode and insofar as it can be done,
+          the circumstances being observed,
+          by the authority of 
+          <ref xml:id="lca8s8-d1e118-Rd1e1199" corresp="#lca8s8-d1e118-Qd1e1204">Paul to Romans 13</ref>
+          <quote xml:id="lca8s8-d1e118-Qd1e1204" source="http://scta.info/resource/rom13_1@14-20">All things that are from God are ordered</quote>.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e1211">
+          But in the meantime,
+          while infidels do not receive the Christian faith:
+          nor are nourished by the water of baptism,
+          especially those who have never heard anything about the Church or the Catholic people:
+          they are by no means disposed or proportioned patients,
+          over whom the power or contentious jurisdiction of the pope can be exercised.
+          For there is lacking there,
+          even if not what he can,
+          which is the power granted to the vicar of Christ by him for the edification of the Church:
+          nevertheless there is lacking how and when:
+          which are the circumstances necessary for the exercise of apostolic power:
+          namely:
+          because infidels are not yet capable subjects,
+          so that they may rightly and properly receive jurisdictional acts,
+          and consequently there are lacking some circumstances necessary for exercising the aforesaid acts rightly and properly,
+          that is the subject people and the matter in which they are exercised.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e1259">
+          And this is to have jurisdiction in habit:
+          with respect (namely) to some who are not yet subjects:
+          who when they shall have been:
+          the subject and matter are disposed,
+          over whom the acts of jurisdiction may be rightly exercised.
+          Take an example,
+          reader,
+          if someone is rector of some college not yet instituted:
+          he has jurisdiction in habit:
+          but when the college has been instituted and perfected:
+          then he can exercise jurisdiction in act.
+          Thus teach the jurists speaking of jurisdiction which is as it were possessed in habit and in act.
+          So also the pastor of some church who has no parishioners:
+          is indeed pastor and rector in habit:
+          but when the parish shall have parishioners,
+          then in act he can use and exercise his jurisdiction.
+          For now the matter and subject and people proportioned to the exercise of jurisdiction is present:
+          and he can from that potency or habit lead forth jurisdiction into act.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e1306">
+          Therefore this subject,
+          matter,
+          or people or parishioners:
+          among infidels who are totally outside the doors of the Church,
+          the pope does not have,
+          because it is nothing to him to judge those who are outside,
+          <ref xml:id="lca8s8-d1e118-Rd1e1316" target="http://scta.info/resource/Icor5_12">1 Corinthians 5</ref>,
+          which will be disputed more fully below.
+          Whence there is no jurisdiction over them in act for him.
+          But when first they shall have entered the sheepfold of Christ:
+          now they pertain to the jurisdiction of the Christian Church:
+          and they are part and members of the Christian people,
+          as appears from what has been said:
+          and now he can judge them by his power and in the cases contained in law,
+          coerce them by his jurisdiction,
+          <ref xml:id="lca8s8-d1e118-Rd1e1337" target="http://scta.info/resource/cice-l2t1-d1e301">c. Nouit de judicijs cum similibus</ref>.
+        </p>	
+        
+        <p xml:id="lca8s8-d1e118-d1e1343">
+          Therefore infidels who in all ways exist outside the Church are not subject to the Church,
+          nor of its territory or jurisdiction.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 59 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 59 [Bnf 12926 Transcription]</title>
+          <date when="2026-01-07">January 07, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-07" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="244-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e816">
+        <p xml:id="lca8s8-d1e816-d1e97">
+          Chapter 59
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e102">
+          <pc type="pilcrow"/> Sepulveda finally contends that Pope Alexander VI advised the kings of Castile 
+          that they should subdue the Indians by war and approved the war by which those peoples were brought 
+          under our dominion.
+          This is utterly false.
+          The pontiff granted to the kings of Castile that they should be superior to those Indian princes 
+          whom they had converted to the faith of Christ:
+          and that they should hold them under their protection and authority as subjects.
+          But the pontiff never ordered or permitted that they should subdue them by war.
+          For why would he permit what conflicts with the precept and institution of Christ 
+          and what generates hatred of the Christian name in the hearts of infidels?
+          And what is altogether impious?
+          For the will of a prince is always presumed to be in conformity with the law 
+          as in 
+          <ref xml:id="lca8s8-d1e816-Rd1e142" 
+            target="http://scta.info/resource/gd-p2c25q1-d1e190">25. q. 1, c. Sunt quidam</ref>
+          and 
+          <ref xml:id="lca8s8-d1e816-Rd1e147" 
+            target="http://scta.info/resource/gd-p2c25q1-d1e205">c. contra statuta</ref>
+          and 
+          <ref xml:id="lca8s8-d1e816-Rd1e150" 
+            target="http://scta.info/resource/gd-p2c25q1-d1e205">c. si est qui preest. 11. q. 3.</ref>
+          and 
+          <ref xml:id="lca8s8-d1e816-Rd1e155" 
+            target="http://scta.info/resource/gd-p2c1q7-d1e462">1. q. 7. c. Etsi illa.</ref>
+          and 
+          <ref xml:id="lca8s8-d1e816-Rd1e160" 
+            target="http://scta.info/resource/cice-l2t13-d1e301">
+            c. litteras. de restitutione spoliatorum
+          </ref>
+          and in 
+          <ref xml:id="lca8s8-d1e816-Rd1e163" 
+            target="http://scta.info/resource/cice-l1t2-d1e210">c. quae in ecclesiarum. de constitutionibus.</ref>
+          and there the doctors.
+          And 
+          <ref xml:id="lca8s8-d1e816-Rd1e170">Innocentius in c. Inquisitioni. de sententia excommunicationis.</ref>
+          And in 
+          <ref xml:id="lca8s8-d1e816-Rd1e175">c. quanto de rescriptis.</ref>
+          And by the legists in 
+          <ref xml:id="lca8s8-d1e816-Rd1e183">L. quod principi placet ff. de constitutionibus principum</ref>
+          and 
+          <ref xml:id="lca8s8-d1e816-Rd1e188">C. de legibus L. digna vox.</ref>
+          and 
+          <ref xml:id="lca8s8-d1e816-Rd1e193">c. si contra Iu. Et vtilitatem publicam. L. finali</ref>
+          etc.
+          But it is contrary to law to compel the Indians by war to accept the faith:
+          or by the misfortunes of war to cause them to hold in hatred the Christian religion,
+          on account of whose preaching they see so many lamentable evils inflicted upon themselves.
+          Therefore it is not to be believed that the vicar of Christ permitted war to be waged against them,
+          since this would be contrary to all divine and human laws:
+          especially since the care of spreading the faith pertains principally to him 
+          as in 
+          <ref xml:id="lca8s8-d1e816-Rd1e220" 
+            target="http://scta.info/resource/gd-p2c24q1-d1e309">c. officii nostri: 24, q. 1</ref>.
+          Therefore it is to be believed that he wishes what is just and what is in accordance 
+          with the precepts and example of Christ.
+          For it is fitting that he should act thus as in 
+          <ref xml:id="lca8s8-d1e816-Rd1e231" 
+            target="http://scta.info/resource/cice-l1t29-d1e271">c. sane de officio delegati</ref>
+          and 
+          <ref xml:id="lca8s8-d1e816-Rd1e234" 
+            target="http://scta.info/resource/cice-l1t3-d1e407">c. super litteris. de rescriptis.</ref>
+          and in 
+          <ref xml:id="lca8s8-d1e816-Rd1e239" 
+            target="http://scta.info/resource/cice-l3t12-d1e119">c. vt nostrum extra vt ecclesiastici beneficii.</ref>
+          And 
+          <ref xml:id="lca8s8-d1e816-Rd1e244" 
+            target="http://scta.info/resource/cice-l5t39-d1e422">
+            de sententia excommunicationis c. a nobis col. 2o
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e816-Rd1e249" 
+            target="http://scta.info/resource/gd-p2c11q3-d1e1047">11. q. 3. c. tunc vera est.</ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e205">
+          But Christ wished His gospel to be preached gently,
+          sweetly and with all meekness and that pagans should be led to the truth 
+          not by armed forces but by holy examples,
+          Christian morals,
+          and the word of God.
+          So that in no way should occasion be provided whereby His adorable name might be blasphemed 
+          and the true religion be held in hatred on account of the morals of the preachers.
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e228">
+          For this is nothing other than to render useless the coming and passion of Christ,
+          when evangelical truth is held in hatred before it is either understood or heard:
+          or when innumerable mortals are killed in war waged under the title of preaching the gospel 
+          and spreading religion.
+          Therefore it must be judged that the pontiff,
+          with Christian meekness,
+          wished the gospel to be preached.
+          But that this was the mind of the pontiff is proven because in the bull granted by him 
+          the petition of the Catholic kings is recounted,
+          containing that the Indians are a gentle people having some knowledge of God:
+          and finally such that if they were instructed in the faith there would be hope 
+          that the religion of Christ could be propagated far and wide.
+          Therefore it is not to be believed that the pope thought that a people 
+          whom the petitioners narrate to be gentle should be subdued by war.
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e272">
+          And thus it is false what 
+          <name xml:id="lca8s8-d1e816-Nd1e275">Sepulveda</name>
+          asserts that Pope Alexander exhorted the kings to subdue those peoples by war.
+          Now truly,
+          so that the matter may be clearer,
+          I will add the very words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e285">
+          <pc type="pilcrow"/> Indeed we have learned that you who some time ago had proposed in your mind 
+          to seek and find certain remote and unknown islands and mainlands not yet discovered by others,
+          in order that you might lead the inhabitants and residents of those islands 
+          to worship our Redeemer and to profess the Catholic faith etc.
+          And below:
+          who finally with divine aid,
+          having made extreme diligence in navigating the Ocean sea,
+          found certain remote and unknown islands (and also mainlands):
+          in which very many peoples living peacefully and not eating flesh dwell:
+          and as your aforesaid messengers can judge,
+          these same peoples dwelling in the aforesaid islands and lands believe 
+          that there is one God the creator in heaven:
+          and they seem sufficiently apt to embrace the Catholic faith and to be imbued with good morals,
+          and there is hope that if they were instructed the name of our savior the Lord Jesus Christ 
+          could easily be introduced in the aforesaid lands and islands.
+          Wherefore considering all things diligently and especially the exaltation and spreading 
+          of the Catholic faith (as befits Catholic kings and princes),
+          in the manner of your ancestors of illustrious memory the kings:
+          you have proposed to subject to yourselves the aforesaid mainlands and islands 
+          and their inhabitants and residents with divine clemency favoring,
+          and to lead them to the Catholic faith.
+          We therefore greatly commending in the Lord this your holy and praiseworthy intention 
+          and desiring that it be brought to a proper end,
+          and that the very name of our Savior be introduced in those parts,
+          exhort you most earnestly in the Lord and through the reception of holy baptism 
+          by which you are bound to apostolic commands,
+          and by the bowels of our Lord Jesus Christ attentively require:
+          that when you intend to pursue and undertake such an expedition altogether 
+          with ready mind for the zeal of orthodox faith,
+          you should wish and ought to induce the peoples dwelling in such islands and lands 
+          to receive the Christian religion:
+          nor should dangers or labors ever at any time deter you,
+          with firm hope and trust conceived that almighty God will favorably prosper your endeavors.
+          Thus there.
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e396">
+          In the words of this apostolic decree five parts can be noted.
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e405">
+          First:
+          That the Catholic kings had proposed in their mind to seek through their messengers 
+          and to find certain remote and unknown islands and lands not yet discovered by others:
+          so that they might by their industry,
+          aid and royal diligence induce the inhabitants of those places to worship God 
+          and to profess the Catholic faith.
+          Behold the end of this whole matter.
+          Which the supreme pontiff himself declares he intends,
+          as he ought,
+          at the beginning of the aforesaid decree saying:
+          Among other works pleasing to the divine majesty and desirable to our heart,
+          that indeed especially exists:
+          that the Catholic faith and Christian religion especially in our times be exalted 
+          and everywhere be amplified and spread and the salvation of souls be procured etc.
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e440">
+          <pc type="pilcrow"/> The second part contains that with divine aid having made extreme diligence 
+          in the ocean sea they found certain islands and mainlands:
+          in which very many peaceful peoples living dwell:
+          and as their seafarers could judge they believed that there is one God the creator in heaven:
+          and they seemed sufficiently apt to embrace the Catholic faith and to be imbued with good morals,
+          and that if they were instructed there was hope that the name of the savior 
+          could easily be introduced in the aforesaid lands.
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e469">
+          <pc type="pilcrow"/> The third is added that the Catholic kings,
+          imitating the examples of their ancestors,
+          wish to subject that people—naked,
+          simple,
+          sincere and gentle—to their rule with the favor of Christ,
+          the best and greatest.
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e491">
+          <pc type="pilcrow"/> Fourth,
+          the pontiff praises in the Lord this pious plan of our princes:
+          adding that he greatly desires that the name of Christ be implanted in their hearts 
+          and that He be worshiped by them as true God in the Christian manner.
+        </p>
+        
+        <p xml:id="lca8s8-d1e816-d1e508">
+          <pc type="pilcrow"/> Fifth,
+          the pontiff exhorts the Catholic princes through the bowels of Christ 
+          and through the vow made in baptism by which they were bound to observe apostolic precepts,
+          that they should undertake the matter with every danger despised 
+          and therefore with every particular temporal good of theirs,
+          not doubting success with the favor of almighty Christ who will prosper their plans.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -171,7 +171,7 @@
             Sexti</name> ex relatione regum Castellae 
           <lb ed="#P" n="18"/>narrat <name xml:id="lca8s8-d1e776-Nd1e395">Christophorum Colon</name> gentes quas<lb ed="#P" break="no" n="19"/>dam
           denuo reperisse mansuetas tran<lb ed="#P" break="no" n="20"/>quille
-          absque ullius injuria,viuentes neque
+          absque ullius injuria, viuentes neque
           <lb ed="#P" n="21"/>omnino diuini numinis ignorantes. 
         </p>
         <p xml:id="lca8s8-d1e776-d1e405">
@@ -244,7 +244,7 @@
           <lb ed="#P" n="22"/>nequaquam hic quadrare quod <name xml:id="lca8s8-d1e776-Nd1e581">Joanes Maio<lb ed="#P" break="no" n="23"/>ris</name>
           profert ex Philosopho Graecum barbaro debere
           <lb ed="#P" n="24"/>imperare. Indi enim nequaquam barbari sunt
-          <lb ed="#P" n="25"/>quos putabat ut supra c. 2o docuimus. 
+          <lb ed="#P" n="25"/>quos putabat ut <ref>supra c. 2o</ref> docuimus. 
           <lb ed="#P" n="26"/>Hunc absurdum <name xml:id="lca8s8-d1e776-Nd1e593">Joanis Maioris</name> errorem
           <lb ed="#P" n="27"/>fortassis secutus est quidam eius dis<lb ed="#P" break="no" n="28"/>cipulus
           nomine Carolus. Hic missus
@@ -312,8 +312,8 @@
           <lb ed="#P" n="13"/>et quidem verissima. Quod ipse satis signi<lb ed="#P" break="no" n="14"/>ficat
           dum conditionaliter loquitur: metu<lb ed="#P" break="no" n="15"/>ens
           ne pro veris falsa supponeret aut di<lb ed="#P" break="no" n="16"/>ceret.
-          Cum autem circunstantiae quas doctiss
-          <lb ed="#P" n="17"/>imus ille pater supponit falsae sint: et
+          Cum autem circunstantiae quas 
+          doctiss<lb ed="#P" n="17" break="no"/>imus ille pater supponit falsae sint: et
           <lb ed="#P" n="18"/>aliqua timide dicat: certe <name xml:id="lca8s8-d1e776-Nd1e732">Sepulueda</name> eius
           <lb ed="#P" n="19"/>opinonem falsis delationibus innixam 
           <lb ed="#P" n="20"/>nobis obijcere non debuit.

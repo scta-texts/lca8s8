@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 23 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 23 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-13">Apr 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="105-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e342">
+        <head xml:id="lca8s8-d1e342-Hd1e97">Chapter 23 [Bnf 12926 Transcription - English Translation]</head>
+        <p xml:id="lca8s8-d1e342-d1e99">
+          Chapter 23.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e104">
+          Just as there are many cases in which people are guilty before God,
+          but not before men,
+          such that not even the pope himself can punish those crimes in Christian men subject to him,
+          even if they are crimes against natural and divine law,
+          of which he is the observer and defender,
+          since the persons committing those crimes cease in some way to be his subjects with respect to such matters,
+          as appears from what has been said.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e130">
+          Whence the punishment of such offenses is considered reserved to divine judgment,
+          nor on this account is the pope not the observer and defender of natural and divine law.
+          So also much less can pagans dwelling separately in their own kingdoms,
+          who are not subject to the pope,
+          as has been proven above by authorities and many reasons,
+          be punished by him,
+          even if they commit horrible crimes against the law of nature.
+          For they have their judge,
+          God,
+          who by the same natural law will judge and punish them.
+          Because they are subject and servants to God alone.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e161">
+          For here apply those 
+          <name xml:id="lca8s8-d1e342-Nd1e165">words of Paul</name>:
+          <quote xml:id="lca8s8-d1e342-Qd1e167">he stands or falls to his own master</quote>,
+          <ref xml:id="lca8s8-d1e342-Rd1e174">Romans 14</ref>.
+          Therefore the pope does not cease to be the observer of natural law from the fact that he does not punish such sins,
+          since it does not pertain to him,
+          but to God,
+          to punish such sins.
+          And so 
+          <name xml:id="lca8s8-d1e342-Nd1e185">Augustine of Ancona</name>
+          errs and draws an invalid inference,
+          arguing thus:
+          <add place="margin-left" hand="F">Against Augustine of Ancona</add>
+          infidels sinning against the natural law which they profess can be judged according to natural law;
+          but the pope is its observer;
+          therefore he can punish them.
+          This inference is not good,
+          as is evidently clear from what has been said above.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e208">
+          Second,
+          we respond to 
+          <name xml:id="lca8s8-d1e342-Nd1e210">Augustine of Ancona</name>
+          that God has not constituted only the pope as observer of natural law,
+          but also kings,
+          princes,
+          and judges,
+          even pagan ones,
+          according to that passage in 
+          <ref xml:id="lca8s8-d1e342-Rd1e221">Ecclesiasticus 17</ref>:
+          <ref xml:id="lca8s8-d1e342-Rd1e228">He placed a ruler over each nation</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e342-Rd1e233">Proverbs 8</ref>:
+          <ref xml:id="lca8s8-d1e342-Rd1e241">By me kings reign,
+            and lawmakers decree just things;
+            by me princes rule,
+            and the powerful decree justice</ref>.
+          And Romans <choice><sic>17</sic><corr>13</corr></choice>:
+          <quote xml:id="lca8s8-d1e342-Qd1e254">There is no power except from God</quote>.
+          <quote xml:id="lca8s8-d1e342-Qd1e258">For they are ministers of God,
+            serving in this very thing</quote>.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e264">
+          <name xml:id="lca8s8-d1e342-Nd1e266">Paul</name>
+          speaks there of pagan princes,
+          for in that age there was no Christian prince.
+          I confess nevertheless that it pertains more to the supreme pontiff to ensure that natural law is observed than to any other prince,
+          even a Christian one,
+          which is proven in 
+          <ref xml:id="lca8s8-d1e342-Rd1e283">c. officii nostri. 24. q. 1</ref>,
+          where it says:
+          <quote xml:id="lca8s8-d1e342-Qd1e285">on us,
+            that is,
+            greater than on all others,
+            rests the zeal for Christian religion</quote>.
+          Nevertheless to each king or judge,
+          even if they are infidel princes or kings,
+          belongs the care of making laws and decrees by which the natural law,
+          which all men receive,
+          may be observed in all things.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e308">
+          For indeed they have been constituted by God in that high position for this use,
+          as is proven in 
+          <ref xml:id="lca8s8-d1e342-Rd1e314">Wisdom 6</ref>,
+          where they are called ministers of God to accomplish this work.
+          And so an infidel not observing natural law should be punished by his own prince,
+          not by a foreign prince,
+          in order that natural law be observed.
+          For indeed 
+          <quote xml:id="lca8s8-d1e342-Qd1e331" source="http://scta.info/resource/rom13_1@14-20">the things that are from God are ordained</quote>,
+          <ref xml:id="lca8s8-d1e342-Rd1e334" corresp="#lca8s8-d1e342-Qd1e331">Romans 13</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e340">
+          But if a prince does not care diligently for the observance of natural law,
+          if he is Christian,
+          he can and should be corrected by the pope,
+          as in 
+          <ref xml:id="lca8s8-d1e342-Rd1e348">c. Nouit de iudiciis</ref>
+          and in 
+          <ref xml:id="lca8s8-d1e342-Rd1e350">c. solitae</ref>,
+          <ref xml:id="lca8s8-d1e342-Rd1e356">de maioritate et obedientia</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e342-Rd1e358">15. q. 6. c. alius</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e342-Rd1e363">96 distinctio, c. duo</ref>
+          and 
+          <ref xml:id="lca8s8-d1e342-Rd1e365">c. si imperator</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e368">
+          And this for two reasons.
+          First,
+          because no one transgresses natural law,
+          especially in serious matters which nature dictates,
+          without sinning mortally.
+          Therefore it pertains to the pope to correct a Christian man transgressing natural law,
+          as in 
+          <ref xml:id="lca8s8-d1e342-Rd1e383">the said c. Nouit</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e386">
+          Second,
+          because Christian religion cannot be observed or subsist unless natural law is observed.
+          Since therefore the care of protecting and confirming Christian religion especially belongs to the pope,
+          it follows also that it pertains to him to ensure that natural law is observed among Christians.
+          But if the one sinning against natural law is an infidel prince,
+          he has God as avenger,
+          according to 
+          <ref xml:id="lca8s8-d1e342-Rd1e407">the gloss on those words</ref>,
+          <quote xml:id="lca8s8-d1e342-Qd1e412">against you alone have I sinned</quote>,
+          <ref xml:id="lca8s8-d1e342-Rd1e416">Psalm 50</ref>,
+          which is proven by three reasons.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e420">
+          First because it pertains neither to the pope nor to the church to judge those who are outside,
+          namely pagans,
+          <ref xml:id="lca8s8-d1e342-Rd1e428">1 Corinthians 5</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e431">
+          Second because we suppose that pagans sin in their own kingdoms outside Christian provinces,
+          and so their crimes in no way overturn or are harmful to Christian religion,
+          for the protection of which it pertains to the pope above all kings and princes to ensure that natural law is observed.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e449">
+          Third because such a prince has God as avenger,
+          and is another's servant,
+          subject,
+          that is,
+          to God alone,
+          whose most severe judge they will experience,
+          according to that passage in 
+          <ref xml:id="lca8s8-d1e342-Rd1e462">Wisdom 6</ref>:
+          <quote xml:id="lca8s8-d1e342-Qd1e464">A most harsh judgment will be made on those who rule;
+            the powerful will suffer torments powerfully.
+            To you therefore,
+            kings,
+            are these my words,
+            that you may learn wisdom and not fall away</quote>,
+          as if he said more plainly:
+          <quote xml:id="lca8s8-d1e342-Qd1e481">To me,
+            the Lord,
+            who am your Lord,
+            you either stand or fall</quote>.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e487">
+          Therefore natural law has its own protectors and observers everywhere,
+          even among pagans,
+          who,
+          transgressing it by committed crimes,
+          are reserved to divine judgment and pay penalties to their own princes.
+          Whence it is clear that 
+          <name xml:id="lca8s8-d1e342-Nd1e500">Augustine of Ancona</name>
+          infers hardly fittingly in general,
+          since he adduces no reason of specialness or express authority by which it would pertain more to the church to punish infidels acting against natural law than for other sins.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e517">
+          Third,
+          we respond to 
+          <name xml:id="lca8s8-d1e342-Nd1e521">Augustine</name>
+          that the church does not punish the crimes of infidels subject to it or to its members,
+          which they commit precisely against God,
+          except insofar as their crimes harm the utility of Christian religion,
+          as teaches 
+          <ref xml:id="lca8s8-d1e342-Rd1e534">the gloss in c. post miserabilem,
+            on the word denegari,
+            de vsuris</ref>.
+          Where those words of 
+          <name xml:id="lca8s8-d1e342-Nd1e541">Paul</name>,
+          <quote xml:id="lca8s8-d1e342-Qd1e543">What have I to do with judging those who are outside</quote>,
+          the gloss interprets:
+          <quote xml:id="lca8s8-d1e342-Qd1e551">insofar as they offend God</quote>;
+          but if they should offend men or be a scandal or prejudice to Christian religion,
+          then they could be punished.
+          Which also teaches 
+          <ref xml:id="lca8s8-d1e342-Rd1e562">the doctors in clemen. 1. de testibus</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e568">
+          But the crimes of pagans,
+          however abominable and against nature,
+          if they are committed in provinces which the pagans themselves possess,
+          and which were never Christian,
+          neither harm Christian men nor the utility of the Christian commonwealth.
+          Therefore it does not pertain to the church to punish,
+          however grave,
+          the crimes of such infidels or sinners.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e593">
+          Moreover second,
+          the church does not judge secular men except by reason of things pertaining to the soul,
+          as we have proven above;
+          but the church cares for the souls of infidels only with respect to preaching to them gently and very mildly the Gospel of Christ,
+          as also appears from what has been concluded.
+          Therefore the church can in no way punish infidels for crimes against nature or others.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e617">
+          Third,
+          it is argued by the reason adduced in the first place against this 
+          <ref xml:id="lca8s8-d1e342-Rd1e621">second argument of 
+            <name xml:id="lca8s8-d1e342-Nd1e625">Augustine</name>
+          </ref>,
+          namely,
+          the sin of Jews and Saracens insofar as they are Jews or Saracens,
+          and so their infidelity is the greatest sin,
+          nevertheless they are not punished by men on this account,
+          which is for no other reason than that the good of our Christian commonwealth is not thereby harmed or impeded,
+          for the preservation of which,
+          and generally for any good of any commonwealth,
+          it is necessary that offenses not remain unpunished,
+          <ref xml:id="lca8s8-d1e342-Rd1e649">as in the said c. ut famae</ref>
+          and 
+          <ref xml:id="lca8s8-d1e342-Rd1e651">ff ad l. aquil.</ref>
+          <ref xml:id="lca8s8-d1e342-Rd1e656">l. vulneratus in fine</ref>,
+          and 
+          <ref xml:id="lca8s8-d1e342-Rd1e658">ff de solutionibus l. stichum. § 1</ref>,
+          and 
+          <ref xml:id="lca8s8-d1e342-Rd1e663">ff de iudiciis l. si longius, § 1</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e669">
+          Indeed not to punish them is useful to Christian religion,
+          as we see in the Jews,
+          whose books bear witness to evangelical truth,
+          and both they and the Saracens praise the gentleness,
+          charity,
+          and mildness of the Christian commonwealth when they are older.
+          Indeed perhaps the church would overlook whatever crimes against nature committed by pagans,
+          even if such pagans were subject to it,
+          unless the Christian commonwealth were enormously harmed.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e695">
+          Which arises from two things.
+          First,
+          because by blaspheming the adorable name of Christ or his saints before his worshippers,
+          they would offend not only God but also be injurious to Christians themselves.
+          Whence unless they avenged such injuries,
+          the faith itself and Christian religion would gradually come into derision or reproach even among Catholics.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e717">
+          The same must be said about the unspeakable sin.
+          For if pagans cohabiting with Christians within the same city exercise the abominable vice of sodomy and were not punished,
+          boys,
+          youths,
+          or men badly inclined by nature would undoubtedly be corrupted sooner or later.
+          And therefore they would indeed have to be punished by the Christian princes to whom they belong,
+          according to that saying of 
+          <ref xml:id="lca8s8-d1e342-Rd1e741">
+            <name xml:id="lca8s8-d1e342-Nd1e742">Jerome</name>
+          </ref>:
+          <quote xml:id="lca8s8-d1e342-Qd1e745">Rotten flesh must be cut away and mangy sheep must be driven from the folds,
+            lest the whole house,
+            mass,
+            body,
+            and flocks burn,
+            be corrupted,
+            rot,
+            and perish</quote>,
+          etc.,
+          <ref xml:id="lca8s8-d1e342-Rd1e756">24. q. 3. c. resecandae</ref>.
+          But from other sins of infidels dwelling even with the faithful,
+          such danger does not seem to threaten.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e769">
+          I said that the church would perhaps overlook,
+          but it pleases me more that such atrocious sins should always be punished by Christian princes,
+          even if they are committed by pagan subjects,
+          since any good prince,
+          especially a Catholic one,
+          should diligently prohibit by laws and penalties whatever nature abhors from his kingdom,
+          unless such prohibition would either impede a greater good or cause a worse evil.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e795">
+          Second,
+          the commonwealth would be harmed from the fact that on account of such crimes of blasphemy and sodomy,
+          pestilences,
+          famines,
+          and earthquakes are accustomed to arise,
+          as in 
+          <ref xml:id="lca8s8-d1e342-Rd1e805">the Authentic</ref>:
+          <quote xml:id="lca8s8-d1e342-Qd1e808">That men not luxuriate against nature nor swear by their hair nor be blasphemers of God,
+            under penalty of capital punishment,
+            lest,
+            it says,
+            from contempt of such,
+            that is,
+            of punishing such things,
+            both the city and the commonwealth be found to be harmed by these impious acts</quote>.
+          So much there.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e825">
+          Likewise it is fitting for Christian princes to punish in their subjects what so greatly opposes natural law.
+          Therefore if the sins of infidels are not harmful to the Christian commonwealth,
+          the reason ceases for the church to involve itself in punishing their sins,
+          even,
+          as it seems,
+          if the offending infidels are subject to it or to its members.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e845">
+          Since therefore the infidels whom we strive here to accuse in no way harm the church or its members by whatever their crimes,
+          since we suppose them to live in very separate lands and their own kingdoms under their own kings and natural lords,
+          and thus are not subject to the church—moreover,
+          if on account of their sins God sometimes punishes them with pestilence,
+          famine,
+          earthquakes,
+          and any other scourges,
+          these evils and misfortunes indeed are damages to their own kingdoms and they suffer them among themselves and do not leave their regions—therefore they are not harmful to the Christian commonwealth,
+          nor is the church harmed by them or on account of their sins.
+        </p>
+        <p xml:id="lca8s8-d1e342-d1e880">
+          From all of which it fittingly follows that it does not pertain to the church to judge or punish,
+          however grave,
+          the sins of such infidels,
+          unless,
+          as will be said below,
+          to labor that they be invited to the faith of Christ gently and with all meekness,
+          not with arms or violence,
+          and that Christian religion be spread and propagated through those kingdoms.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

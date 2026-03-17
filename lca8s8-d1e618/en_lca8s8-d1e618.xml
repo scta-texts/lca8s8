@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 44 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 44 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-17">April 17, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+      url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="193-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e618">
+        <head xml:id="lca8s8-d1e618-Hd1e97">Chapter 44</head>
+        <p xml:id="lca8s8-d1e618-d1e99">
+          Chapter 44
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e104">
+          They bring forward that Constantine the Great waged wars against unbelievers so that, 
+          once they were subjugated to his empire, 
+          he might remove idolatry and the faith might be introduced more freely. 
+          But where is it established that war was waged against them for this reason alone, 
+          that they were pagans? 
+          Or from what is read in the ecclesiastical history book 10 chapter 9, 
+          namely: "Meanwhile Constantine, 
+          inspired by piety, 
+          subdued by arms in their own territory the Sarmatians, 
+          Goths and other barbarian nations, 
+          unless those which had offered peace either through friendship or through surrender. 
+          <pb ed="#P" n="194-r"/>
+          And the more religiously he subjected himself to God, 
+          the more God subjected all things to him." 
+          These words are there.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e139">
+          From these words it is by no means clear that Constantine waged war against them 
+          merely because they were pagans, 
+          so that (namely) 
+          he might overturn the worship of idols. 
+          For indeed if he had turned arms against them for this reason alone, 
+          certainly the aforementioned ecclesiastical history would not have kept silent about it, 
+          since it would tend directly to the glory of God and to the exaltation of the Catholic faith. 
+          Rather we will be able to persuade the contrary by probable arguments. 
+          First, 
+          because when the Goths, 
+          against whom Constantine moved arms, 
+          had very violently exercised the Roman people with arms and provoked them with daily incursions, 
+          it is probable that Constantine, 
+          gravely stirred by old and new injuries, 
+          turned arms against them, 
+          not however precisely for the purpose of removing idolatry. 
+          For the Gothic people were fierce and terrible with savage cruelty and most hostile to the Roman name, 
+          and troublesome to all peoples. 
+          Wherefore Constantine most justly waged war against them, 
+          since they had afflicted with many injuries inflicted the peoples of the Roman dominion, 
+          whose injuries Constantine was bound to repel. 
+          Whence it is said in the Tripartite History Book 1 chapter 9: 
+          "since that people was prone in wars and always exercised in arms by their multitude 
+          and greatness of bodies, 
+          they prevailed indeed over other barbarians, 
+          but they had only the Romans resisting them." 
+          And a little before the said history says that those who were called Goths then most recently 
+          <pb ed="#P" n="194-v"/>
+          celebrated treaties with Constantine for the sake of favor. 
+          Therefore from these things it cannot be gathered that Constantine declared wars against them 
+          in order to remove idolatry and draw that people to the faith.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e216">
+          Secondly, 
+          the Goths, 
+          Sarmatians, 
+          and Gelones were Scythian peoples of Europe, 
+          according to the authority of Pomponius Mela book 2, 
+          Pliny book 4 chapter 12, 
+          Strabo book 11. 
+          But they differed only in that some inhabited the rough mountains and others the plains of the region; 
+          nevertheless all were Scythians, 
+          just as the Cantabrians, 
+          the Gallograeci inhabiting the mountains and ridges of Spain, 
+          are Spaniards, 
+          as are also the Baeticans. 
+          But the Archbishop of Florence in the second part of his history writes that the Scythians, 
+          a fierce and savage people, 
+          making devastation, 
+          burst into the borders of the Roman dominion in the time of Constantine or a little before. 
+          Therefore Constantine was repelling injury or inflicting similar disasters in vengeance for his people, 
+          not indeed did he wish to lead them by war to knowledge of Christ.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e261">
+          Thirdly, 
+          the Goths very greatly and most frequently weakened the Roman empire by waging war, 
+          and even triumphed over the very city of Rome, 
+          conqueror of all peoples, 
+          according to the authority of Orosius Book 7 chapters 37, 
+          38, 
+          39, 
+          and Paul the Deacon book 12 of Roman history, 
+          and Jerome in his letter to Heliodorus laments this sufficiently. 
+          Augustine also in book 5 of the City of God chapter 23. 
+          <pb ed="#P" n="195-r"/>
+          Therefore Constantine had quite diverse causes for waging war against the Goths, 
+          who were destructive to the Roman people both in his own age and in subsequent ones, 
+          whose provinces they both harassed and claimed for their own empire. 
+          Therefore it is not certain that Constantine made war against foreigners in order to draw them to the faith.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e305">
+          Fourthly, 
+          beyond the fact that they were idolaters, 
+          the Goths were infected with the Arian heresy, 
+          as is proved from the Tripartite History book 8 chapter 13, 
+          and were favoring a most pestilential error. 
+          Perhaps they were waging war against Catholics for the defense of that sect, 
+          for which reason Constantine, 
+          defending the Catholic people, 
+          most justly turned his forces against them. 
+          Therefore possibly, 
+          with the verisimilitude and probability of these causes being presupposed, 
+          those on the contrary side will by no means boast that they make evidence. 
+          But what is said, 
+          that Constantine penetrated into their provinces and subdued them by waging war, 
+          was the mark of a prudent emperor. 
+          For since he knew those peoples to be hostile and inimical to him, 
+          and that they sought nothing other always than an occasion by which they might most harm him 
+          and his people, 
+          he prudently penetrated with armed force into their provinces, 
+          which war was just by law. 
+          For in this case, 
+          it is lawful to wage war against enemies (namely) 
+          preparing arms and watching for an occasion, 
+          <pb ed="#P" n="195-v"/>
+          for I ought not to wait for an enemy to wound me first before I defend myself and repel his force, 
+          which both natural reason dictates and civil laws dispose.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e367">
+          Fifth, 
+          it is proved that the people of Hibernia, 
+          wild, 
+          barbarous and most devoted to the worship of idols, 
+          according to the authority of Caesar book 5 and Strabo book 4, 
+          received the faith of Christ in the time of Constantine the Great, 
+          not indeed compelled by warlike terror from Constantine, 
+          but by the faith and diligence of a certain Christian slave woman and finally by a divine miracle displayed. 
+          The conversion of this people, 
+          as is written in the ecclesiastical history book 10 chapter 11, 
+          delighted Constantine more than if the Roman empire had received a great increase by new kingdoms and empires.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e398">
+          Again, 
+          in chapter 10 of that history it is narrated that farther India in the time of Constantine 
+          received the word of God by the persuasion of two servants of a certain merchant or curious philosopher 
+          who was eagerly traversing new provinces and kingdoms with a desire of seeing and learning.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e416">
+          Sixthly, 
+          because it is not likely and thus not probable that Saint Sylvester would induce Constantine to do 
+          that in favor of the faith by which the faith would be rendered most hateful to unbelievers. 
+          But if Constantine by war attacked nations of unbelieving idolaters who had never received the faith, 
+          so that he might subject them to his dominion, 
+          <pb ed="#P" n="196-r"/>
+          in order to destroy idolatry among them unconquered, 
+          and afterwards the preaching of faith would follow, 
+          the faith itself would be rendered most hateful to them, 
+          as we have made sufficiently lengthy evidence of this matter above.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e456">
+          Therefore it is not likely and thus not probable that either the holy bishop would advise Constantine 
+          to undertake such a war, 
+          or that Constantine himself would assume a war of this kind. 
+          Therefore neither Saint Sylvester the pontiff nor Constantine Caesar waged war against pagans 
+          so that by warlike terror they might abstain from the worship of idols. 
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e475">
+          From which it is clear that that passage from the ecclesiastical history confirms nothing 
+          of the anti-Christian cause which Sepulveda undertook to defend. 
+          For neither should Pope Sylvester, 
+          who has been numbered among the saints, 
+          have persuaded Constantine to something not only useless but even most harmful 
+          for extending the Christian religion. 
+          For pagans affected by warlike troubles, 
+          which surpass every plague and calamity, 
+          by Christians from whom they ought not to be compelled but taught, 
+          will hold the Christian religion hateful, 
+          seeing that there is such savage inhumanity in the worshippers of Christ, 
+          raging against them with slaughters, 
+          violence, 
+          fires, 
+          and plunders, 
+          and they will never believe that the gospel (that is) 
+          the joyful message is announced to them, 
+          but that a hellish calamity is sent by demons. 
+          Especially since for their own defense and that of their gods they would have a just war, 
+          supposing a probable error against anyone, 
+          indeed for avenging themselves for evils received 
+          <pb ed="#P" n="196-v"/>
+          it would be most just on their part. 
+          Will they hear the names of shepherds and fathers who wish to lead them to the fold of Christ 
+          by Christian charity? 
+          Or will they see robbers and thieves gaping for plunder, 
+          not for the salvation of souls? 
+          Wherefore not undeservedly the peoples will abominate the faith, 
+          thinking it is not what it is, 
+          namely truth, 
+          but falsehood.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e548">
+          What has been decided above is confirmed, 
+          because blessed Sylvester led idolaters to the faith by gifts and blandishments, 
+          as is read in his history, 
+          and the canonists write in 
+          <ref xml:id="lca8s8-d1e618-Rd1e561" target="http://scta.info/resource/gd-p2c1q2-d1e142">
+          c. quam pio, 1, q. 2</ref>, 
+          and in 
+          <ref xml:id="lca8s8-d1e618-Rd1e566" target="http://scta.info/resource/cice-l5t3-d1e240">
+          6. cum in ecclesiis de Simonia</ref>. 
+          So also Gregory offered Jews, 
+          that they might be converted, 
+          remission of the tribute which they owed from possessions of the church leased to them, 
+          which is evident from his letter 6 of book 4. 
+          How far these things are from war! 
+          Very much indeed. 
+          For to entice pagans by blandishments and charity befits the precept of Christ 
+          <ref xml:id="lca8s8-d1e618-Rd1e584">Matthew 5</ref>: 
+          <quote xml:id="lca8s8-d1e618-Qd1e589" source="http://scta.info/resource/mt5_16@1-19">
+          "So let your light shine before men that they may see your good works and glorify your Father 
+          who is in heaven."</quote> 
+          But to wage war is an occasion that the adorable name of Christ be blasphemed, 
+          according to the authority of Chrysostom in homily 10 on the imperfect work, 
+          who expounding those words of Christ says: 
+          "through those who teach and do, 
+          God is magnified; 
+          but through those who teach and do not do, 
+          he is blasphemed. 
+          For example, 
+          if they teach well and live better, 
+          the gentiles seeing say: 
+          blessed be the God who has such servants. 
+          Truly their God is the true God. 
+          For unless he himself were just, 
+          he would never hold his people thus in justice; 
+          for the discipline of the master is demonstrated by the customs of the household. 
+          Not like our philosophers who speak great things and do not even moderate things. 
+          But if they teach well and live badly, 
+          seeing them they say: 
+          <pb ed="#P" n="197-r"/>
+          What sort is the God of those who do such things? 
+          Would he tolerate them doing such things unless he consented to their works? 
+          Our fathers, 
+          as they think, 
+          worshipping idols, 
+          preserved all justice; 
+          but these speak glorious words and do ignominious works. 
+          You see how God is blasphemed through bad Christians, 
+          and the Lord cannot have a good reputation who has a bad household. 
+          Whence it was said to the people of God: 
+          for the name of God is blasphemed among the gentiles because of you," 
+          Ezekiel 36 and Isaiah 5 and Romans 2. 
+          These words of Chrysostom. 
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e661">
+          Then in the perfect work 
+          <ref xml:id="lca8s8-d1e618-Rd1e665">homily 15</ref>, 
+          expounding the same words he says: 
+          <quote xml:id="lca8s8-d1e618-Qd1e668">
+          "nothing else scandalizes the gentiles except that there is no love; 
+          nothing so converts as virtue of soul, 
+          nothing scandalizes as malice. 
+          For when they see someone using avarice, 
+          stealing while he commands the contrary, 
+          and to those who are of the same tribes, 
+          as it were using outside, 
+          when he commands to love enemies, 
+          he will call madness those things which are said. 
+          When he sees someone loving principality and serving other passions, 
+          he will remain firm in his own doctrines, 
+          imagining nothing great. 
+          For we are the cause of their remaining in error. 
+          For indeed the doctrines which are among them 
+          <pb ed="#P" n="197-v"/>
+          they would have long ago despised, 
+          and they would likewise have admired ours; 
+          but they are prohibited by our life. 
+          But when we rather more fiercely tear apart the substance of our neighbors, 
+          they call us the ruin of the world,"</quote> 
+          etc. These words of Chrysostom.
+        </p>
+        <p xml:id="lca8s8-d1e618-d1e712">
+          Again in the same 
+          <ref xml:id="lca8s8-d1e618-Rd1e716">homily 15 on Matthew</ref> 
+          he says: 
+          <quote xml:id="lca8s8-d1e618-Qd1e721">
+          "Christians win for themselves the benevolence of the gentiles if they are prepared not to do evil 
+          but to suffer evil."</quote> 
+          These words of that author.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

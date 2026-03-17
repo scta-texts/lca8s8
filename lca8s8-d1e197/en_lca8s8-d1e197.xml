@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 12 [Bnf 12926 Transcription] [English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 12 [Bnf 12926 Transcription] [English Translation]</title>
+          <date when="2024-09-18">September 18, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike
+              4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-09-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="62-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e197">
+        <head xml:id="lca8s8-d1e197-Hd1e97">Chapter 12 [Bnf 12926 Transcription]</head>
+
+        <p xml:id="lca8s8-d1e197-d1e99">
+          Chapter 12.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e104">
+          ¶ All that has been said above,
+          and the ten arguments previously set forth,
+          are effectively confirmed by the praiseworthy constitution
+          and holy custom of the Church.
+          For the custom of the Church is to be imitated and emulated in all things,
+          according to
+          <ref xml:id="lca8s8-d1e197-Rd1e117" target="http://scta.info/resource/TAca84-d1e1324-d1e2787@4-39">Thomas,
+            Secunda Secundae, q. 10, a. 12. c</ref>.
+          And
+          <ref xml:id="lca8s8-d1e197-Rd1e122" corresp="#lca8s8-d1e197-Qd1e125">Quodlibet 2, a. 7,
+            in the body</ref>.
+          <quote xml:id="lca8s8-d1e197-Qd1e125">For whatever sacred men have written
+            holds authority only from the Church;
+            therefore the customs of the Church are to be praised and followed
+            and set before the teaching of Jerome and Augustine,
+            and of any other sacred doctor.</quote>
+          So teaches Saint Thomas.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e139">
+          This being granted,
+          never from the ascension of Christ to the heavenly realm
+          did the Church begin with the punishment of the sins
+          by which pagans offend God,
+          in order to plant evangelical truth;
+          rather, by gentleness, acts of service, meekness,
+          and charity she drew them to the faith,
+          offering them in the name of Christ the remission of all sins
+          (<ref xml:id="lca8s8-d1e197-Rd1e156">as will be shown below, ch. 39 and the following chapters,</ref>
+          more clearly than light itself).
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e161">
+          For the Church, illuminated by the Holy Spirit,
+          understands that Christ reserved to himself the judgment of those crimes,
+          and did not commit it to her,
+          and that he willed his Church to lead unbelievers to the truth of the faith
+          by gentleness and charity,
+          not by force or arms.
+          And therefore among the
+          <ref xml:id="lca8s8-d1e197-Rd1e179" corresp="#lca8s8-d1e197-Qd1e184">decrees of the pontiffs
+            we read: 45 dist. c.</ref>
+          <quote xml:id="lca8s8-d1e197-Qd1e184" source="http://scta.info/resource/gd-p1d45-d1e142@4-61">Those
+            who with sincere intention desire to lead
+            those outside the Christian religion to the right faith
+            ought to strive by means of persuasion,
+            not harshness,
+            lest those whose minds sound reasoning might have called back from error
+            be driven further away by hostility.
+            For whoever acts otherwise
+            and under this pretext wishes to remove them from the accustomed practice of their rite,
+            is shown to be pursuing his own interests there rather than God's.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e206">
+          And further on:
+          <quote xml:id="lca8s8-d1e197-Qd1e208">For what profit is there
+            when, even if they have been forbidden against long-standing custom,
+            it avails nothing for their conversion to the faith?
+            Or how do we lay down rules for them
+            if by this we cannot win them over?
+            For the effort must be made
+            that, rather, provoked by reason and gentleness,
+            they should wish to follow us,
+            not flee from us,</quote>
+          and so forth.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e225">
+          The same view is held by
+          <ref xml:id="lca8s8-d1e197-Rd1e227">Gregory in Book 11 of the Letters</ref>,
+          <ref xml:id="lca8s8-d1e197-Rd1e232">Letter 15</ref>
+          and
+          <ref xml:id="lca8s8-d1e197-Rd1e234">Letter 34</ref>,
+          where he speaks in these words:
+          <quote xml:id="lca8s8-d1e197-Qd1e239">Those who are at variance with the Christian religion
+            must be gathered into the unity of the faith
+            by gentleness, kindness, admonishment, and persuasion,
+            lest those whom the sweetness of preaching
+            and the fear of the coming judgment's dread
+            might have invited to belief
+            should be driven away by threats and terrors.
+            It is therefore fitting that they come together willingly
+            to hear the word of God from you,
+            rather than shrinking from a harshness
+            that is extended beyond all measure.</quote>
+          Thus Gregory.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e262">
+          By these words Gregory sufficiently signifies
+          what we have at length urged above,
+          and what will be seen more fully below.
+          <del rend="crosshatch" hand="B">What inconveniences, evils, and harms would follow
+            if the Church were to begin the preaching of the Gospel
+            from the punishment of sins.
+            For war and force, injuries, slaughters, and plundering
+            turn pagans away from religion —
+            those who, admonished by gentleness and reason,
+            might perhaps be healed by that which is the charity of God toward humankind.</del>
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e286">
+          The same song is sung by
+          <ref xml:id="lca8s8-d1e197-Rd1e290">Saint Cyril in Book 6, Against Julian</ref>,
+          who speaks thus:
+          <quote xml:id="lca8s8-d1e197-Qd1e295">Since the Maker of all things willed man to be his own master
+            and to be governed in his deeds by his own will,
+            for this reason it seemed very rightly good
+            to Christ, the Savior of all,
+            that men should be freed from shameful deeds
+            by persuasion rather than by the compulsion of necessity,
+            so that they might choose what is better
+            and be made better by those means
+            by which it is most plausible they would be so.
+            For if, adorned with royal glory and holding invincible power,
+            he had commanded men to believe in him,
+            faith would no longer have been the fruit of knowledge,
+            but rather of necessary and unavoidable commands,
+            and he might perhaps have been like one
+            who is honored with the glory of divinity unworthily,
+            according to human opinions.
+            But because he comported himself as one of us,
+            with modest and humble bearing,
+            and abstained from human glory,
+            partly by his most wise teachings,
+            partly by his ineffable divine miracles,
+            he leads the willing — and those who truly know —
+            to better things,</quote>
+          and so forth.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e343">
+          See how far removed from the decrees of the Fathers
+          and from the teaching of Christ
+          is the desire to bring pagans to the faith
+          by the terror of arms,
+          military force,
+          and empty arrogance.
+          But whoever acts otherwise,
+          or teaches that this should be done,
+          shows that both parties are intent upon plunder,
+          as
+          <ref xml:id="lca8s8-d1e197-Rd1e356">Gregory in the place cited above</ref>
+          shows:
+          <quote xml:id="lca8s8-d1e197-Qd1e361">they are shown to be pursuing their own interests there
+            rather than God's.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e367">
+          Finally, that
+          <name xml:id="lca8s8-d1e197-Nd1e369">Sepúlveda</name>
+          has gone wholly astray here,
+          and that those who abuse the authority of that otherwise most learned man
+          for the confirmation of an impious cause
+          are instruments of the devil,
+          the enemy of human salvation,
+          of the glory of Christ,
+          and of the propagation of the Gospel —
+          this was declared by
+          <ref xml:id="lca8s8-d1e197-Rd1e382">the Roman Pontiff Paul III,
+            Vicar of Christ,
+            in the year 1537,
+            by means of a bull he issued,</ref>
+          which confirms and renews the ancient custom of the Church
+          in the preaching of the Gospel
+          and the subjugation of pagans to the true religion.
+          It has pleased us to append here the text of the bull.
+          ¶
+          <quote xml:id="lca8s8-d1e197-Qd1e399">The sublime God so loved the human race
+            that he created man of such a nature
+            that he might not only share in the good,
+            as other creatures do,
+            but might also attain the highest good —
+            the inaccessible good —
+            and see it face to face.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e414">
+          And further on:
+          <quote xml:id="lca8s8-d1e197-Qd1e416">Thereupon, the Truth itself,
+            which can neither deceive nor be deceived,
+            is known to have said,
+            when it appointed preachers of the faith
+            to the office of preaching:
+            "Going, teach all nations" —
+            it said "all," without any distinction,
+            since all are capable of receiving the discipline of the faith.
+            Seeing and envying this,
+            that rival of the human race
+            who always opposes all good things lest they be saved,
+            devised a hitherto unheard-of means
+            of hindering the word of God
+            from being preached to the nations so that they might be saved,
+            and stirred up certain of his satellites
+            who, desiring to satisfy their own greed,
+            presume everywhere to assert
+            that the western and southern Indians,
+            and other peoples who have in these times come to our notice,
+            should be reduced to our service like brute animals,
+            on the pretext that they are without the Catholic faith;
+            and they reduce them to slavery,
+            pressing them with such afflictions
+            as those by which scarcely brute animals serving them would be pressed.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e463">
+          <quote xml:id="lca8s8-d1e197-Qd1e465">We, therefore,
+            who, though unworthy,
+            exercise on earth the functions of the same our Lord,
+            and seek with all our effort
+            to bring to his sheepfold those sheep of his flock
+            that are outside it,
+            and that have been entrusted to us —
+            taking note that the Indians themselves,
+            as true human beings,
+            are not only capable of the Christian faith
+            but, as has come to our attention,
+            eagerly hasten toward that faith —
+            and wishing to provide suitable remedies for these matters,
+            we determine and declare by apostolic authority,
+            by these presents,
+            that the aforesaid Indians
+            and all other peoples
+            that shall hereafter come to the knowledge of Christians,
+            even though they be outside the faith of Christ,
+            are nonetheless not to be deprived or to be deprived
+            of their liberty or dominion over their things;
+            rather, they may freely and lawfully use,
+            possess, and enjoy such liberty and dominion;
+            nor ought they to be reduced to slavery;
+            and whatever has been done contrary to this
+            is void and of no force or effect.
+            And we decree and declare by the said apostolic authority
+            that the said Indians
+            and all other peoples
+            are to be invited to the said faith of Christ
+            by the preaching of the word of God
+            and the example of a good life,
+            notwithstanding the foregoing
+            and whatever else may be to the contrary.
+            Given at Rome,</quote>
+          and so forth. These are its formal words.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e518">
+          The designated executor and commissioner of this bull
+          by apostolic authority
+          was the Archbishop of Toledo,
+          with the fullest power,
+          speaking as follows.
+          ¶
+          <quote xml:id="lca8s8-d1e197-Qd1e524">Our beloved son,
+            greeting and apostolic blessing.
+            Exercising with diligent care the pastoral office
+            toward the sheep entrusted to us from on high,
+            as we are afflicted by their perdition,
+            so we rejoice in their advancement.
+            And we not only praise their good works,
+            but we extend more widely
+            the concerns of our apostolic consideration
+            so that they may enjoy the outcomes they have prayed for.
+            Indeed it has come to our hearing
+            that our most dear son in Christ,
+            Charles,
+            ever august Emperor of the Romans,
+            who is also King of Castile and León,
+            has by public edict
+            forbidden all his subjects,
+            in order to restrain those who,
+            burning with greed,
+            bear an inhuman disposition toward humankind,
+            from presuming to reduce the western or southern Indians to slavery
+            or to deprive them of their goods.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e564">
+          <quote xml:id="lca8s8-d1e197-Qd1e566">We therefore,
+            taking note that the Indians themselves,
+            even though they exist outside the bosom of the Church,
+            are nonetheless not deprived nor to be deprived
+            of their liberty or dominion over their things —
+            and since they are human beings
+            and therefore capable of faith and salvation,
+            they are not to be destroyed by servitude
+            but are to be invited to life by preachings and examples —
+            and therefore also desiring to restrain for our part
+            the wicked audacity of such impious men,
+            and to provide lest,
+            embittered by injuries and harms,
+            they become more hardened against embracing the faith of Christ,
+            we have special confidence in the Lord
+            in your circumspection,
+            rectitude, prudence, piety,
+            and experience in these and other matters.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e598">
+          <quote xml:id="lca8s8-d1e197-Qd1e600">By these presents we commit and command
+            that by yourself or through one or more others
+            you stand as a shield of effective defense
+            for all the aforesaid Indians in the matters set forth above,
+            and that you strictly forbid,
+            under pain of excommunication
+            already incurred by the act itself
+            if they do otherwise —
+            from which they cannot be absolved
+            except by us
+            or by the Roman Pontiff who is in office at the time,
+            except for those in the moment of death,
+            and with prior satisfaction —
+            forbid all and singular,
+            of whatever dignity, estate, condition, rank,
+            and excellence they may be,
+            from in any way presuming to reduce the aforesaid Indians to slavery
+            or to despoil them of their goods in any manner;
+            and that you proceed against those who do not comply
+            to the declaration of the incurrence of this excommunication
+            and to further measures,
+            and that in the aforesaid matters and those related
+            you establish, order, and dispose
+            what is necessary or in any way fitting,
+            as shall seem expedient to your prudence,
+            probity, and religious sense.
+            In which matters we grant you full power,
+            and let nothing contrary to it stand,
+            whatever it may be.
+            Given at Rome,</quote>
+          and so forth. These are its formal words.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e647">
+          ¶ Do you see, reader,
+          that the Roman Pontiff expressly asserts and teaches
+          that all those things which these enemies
+          of the propagation of the Gospel affirm are false?
+          First, he teaches that the method used by these men
+          was the invention of the devil,
+          to impede the salvation of humankind
+          and the propagation of the true religion.
+          And in truth what these men have done must be called by that name —
+          portraying the Indians as similar to wild and brute animals
+          so as to make use of their labor,
+          as though they were beasts of burden.
+          <del rend="strikethrough" hand="B">And would that they had treated them
+            no less savagely and conveniently than beasts of burden.</del>
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e679">
+          Second,
+          the Roman Pontiff asserts
+          that the Indians,
+          inasmuch as they are human beings,
+          are capable of blessedness
+          and of the means by which one arrives at it,
+          namely Christian teaching;
+          and so he calls them sheep of the flock of Christ
+          committed to his pastoral care,
+          so that he may lead them to the sheepfold of Christ,
+          outside of which they have hitherto been.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e697">
+          ¶ Third, he teaches that even if they have not embraced the faith of Christ,
+          they are not therefore to be deprived of liberty,
+          possession,
+          and dominion over the things
+          which nature has granted them —
+          indeed, that they may lawfully use and enjoy them.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e708">
+          Fourth, he teaches that they are not to be extirpated
+          from the face of the earth
+          by violence, tyranny, and the atrocity of arms,
+          lest, goaded by these hardships,
+          they vomit forth blasphemies against the law of Christ.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e719">
+          ¶ Fifth, he teaches that those
+          who carried out atrocious and savage acts against them
+          in violation of the commands and prohibitions of the Kings of Castile
+          were satellites of Satan
+          and of the most relentless enemy of humankind.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e730">
+          ¶ Sixth, he teaches that the western and southern Indians
+          who have not heard the Gospel of Christ
+          are to be invited and led to the faith
+          by gentleness,
+          meekness,
+          kind inducements,
+          and Christian charity.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e741">
+          You see the Supreme Pontiff,
+          regarding the drawing of unbelievers to the faith,
+          decreeing the same thing
+          that natural reason itself dictates,
+          that Christ taught and commanded by word and example,
+          that his apostles,
+          always following his footsteps in all things,
+          took care to fulfill diligently,
+          that the sacred doctors taught in their writings,
+          and that the Church has used
+          through its traditions and customs
+          from the earliest age,
+          and which it shows preachers of the faith ought to employ.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e766">
+          Therefore they are not to be harassed,
+          despoiled,
+          and persecuted —
+          which is what the satellites of Satan have done
+          and continue to do,
+          raging against a wretched people
+          with incredible savagery —
+          nor are they even to be punished
+          for any sins,
+          however grave,
+          in which they may be entangled,
+          committed within the bounds of their own territories
+          or in their unbelief,
+          as the good doctor
+          <name xml:id="lca8s8-d1e197-Nd1e784">Sepúlveda</name>
+          rashly and presumptuously affirms.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e787">
+          ¶ Seventh, the bull declares and,
+          making a new decree,
+          ordains
+          that acts done contrary to this are void
+          and of no effect.
+        </p>
+
+        <p xml:id="lca8s8-d1e197-d1e794">
+          By these eleven arguments
+          our truthful judgment is proven
+          to be most true and beyond doubt —
+          namely, that it does not belong to the Church,
+          nor to any Christian prince,
+          to punish the crimes of unbelievers
+          of which our discourse treats,
+          by reason of defect of authority and jurisdiction,
+          and so forth.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 16 [Bnf 12926 Transcription] — English Translation</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 16 [Bnf 12926 Transcription] — English Translation</title>
+          <date when="2024-11-30">Nov 30, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="79-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e250">
+        <head xml:id="lca8s8-d1e250-Hd1e97">Chapter 16</head>
+        
+        <p xml:id="lca8s8-d1e250-d1e99">
+          Chapter 16.
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e104">
+          <del rend="strikethrough" hand="B">The opinion of
+            <name xml:id="lca8s8-d1e250-Nd1e109">Innocent</name>, therefore, is to be understood
+            as we have said above. Otherwise it would follow
+            that if an entire kingdom or the entire world —
+            such as the Indies, where there are thousands upon thousands,
+            and hundreds of hundreds of thousands of generations —
+            were found to be infected with unnatural crimes
+            (which we do not believe to be true),
+            or given over to idolatry
+            (and this we believe to be certainly true for the greater part),
+            then all the inhabitants thereof, who surpass the number of the stars,
+            would have to be consumed by fire and sword —
+            which is utterly foreign and utterly absurd
+            to the spirit and teaching of Christ,
+            by whose blood they were redeemed.</del>
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e143">
+          Therefore, when
+          <name xml:id="lca8s8-d1e250-Nd1e147">Innocent</name> said that if any pagan
+          should sin against the law of nature or worship idols,
+          he could be punished by the pope
+          by example of divine judgment,
+          it was not his intention to speak
+          of all gentiles or unbelievers absolutely,
+          but only of those who inhabit lands or kingdoms
+          in which the Christian name once existed,
+          and where it is known with certainty
+          that true divine worship flourished.
+          Otherwise,
+          <name xml:id="lca8s8-d1e250-Nd1e166">Innocent</name>
+          would have written most culpably.
+          Moreover, the argument drawn from avoiding absurdity,
+          or from the reasoning of absurdity,
+          inhumanity, or inconvenience to be avoided,
+          is most powerful in law,
+          since it is derived from natural discernment
+          and holds even when no authority is cited.
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e185">
+          And it is formulated in this way:
+          one must not assert that,
+          nor adopt that interpretation,
+          from which absurdity, inhumanity, or inconvenience could follow.
+          For every provision ought to be understood in such a way
+          that no inhumanity or absurdity follows,
+          because absurdity must always be avoided.
+          Hence it is that in order to avoid absurdity,
+          a general provision must be restricted —
+          <ref xml:id="lca8s8-d1e250-Rd1e204">.l. 2. C. de noxialibus actionibus</ref>,
+          and <ref xml:id="lca8s8-d1e250-Rd1e209" target="http://scta.info/resource/bgy6gt-d1e5013-d1e305">.l. vt gradatim, §.1. ff. de
+            muneribus et honoribus</ref> —
+          even statutory provisions, as
+          <ref xml:id="lca8s8-d1e250-Rd1e216">Bartolus says in l. omnes populi, in the 6th principal question,
+            ff. de iustitia et iure</ref>.
+          On this argument, sufficient is written and noted in
+          <ref xml:id="lca8s8-d1e250-Rd1e223">c. venerabilem</ref>
+          and <ref xml:id="lca8s8-d1e250-Rd1e228">c. genesi: de electione</ref>,
+          and in <ref xml:id="lca8s8-d1e250-Rd1e230">c. solite de maioritate et obedientia</ref>,
+          and in <ref xml:id="lca8s8-d1e250-Rd1e235">c. ex ore, de priuilegiis</ref>,
+          and in both these places by the doctors,
+          and in countless other places of both canon and civil law.
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e247">
+          Since, therefore, in the statements of so great a man,
+          namely <name xml:id="lca8s8-d1e250-Nd1e251">Innocent</name>,
+          so many and such great inhumane, absurd, and inconvenient conclusions
+          must rightly be avoided,
+          whatever he may have said in this article concerning unbelievers
+          must necessarily be restricted
+          to pertain only to the reasoning of those who
+          (as we have already said)
+          defile with the filth of idolatry or of impurities
+          those places that have long belonged to the Church.
+          And that this is indeed the case,
+          beyond the absurdity that follows,
+          is proven as follows.
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e273">
+          First: because when kingdoms that once belonged to Christians
+          are possessed by unbelievers
+          and are defiled by abominable superstitions,
+          an injury is done to Christ,
+          to whom those kingdoms were once dedicated
+          and consecrated to divine worship;
+          and since, according to the rule of law,
+          what has once been dedicated to him
+          may not thereafter be transferred to human uses,
+          much less to impious superstitions
+          and wicked and disgraceful crimes.
+          For what does it matter if
+          <name xml:id="lca8s8-d1e250-Nd1e299">Muhammad</name>
+          is worshipped there,
+          or empty idols instead of the true God?
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e309">
+          Therefore the Church ought not to tolerate or overlook such things,
+          but — if she has the capacity —
+          either compel the unbelievers to restore those places to her,
+          or forbid or even punish
+          such defilements from occurring,
+          on account of their foulness and gravity,
+          for the reasons and authorities cited above.
+          And that this was the intention of
+          <name xml:id="lca8s8-d1e250-Nd1e326">Innocent</name>
+          is proven from his own words;
+          for speaking of the indulgences granted
+          to soldiers going to recover the Holy Land,
+          he subjoins the reason:
+          <quote xml:id="lca8s8-d1e250-Qd1e335">that it was consecrated by the birth,
+            dwelling, and death of Jesus Christ,
+            and that in it Christ is not worshipped
+            but <name xml:id="lca8s8-d1e250-Nd1e343">Muhammad</name>;
+            the pope may justly reclaim it
+            so that it may be inhabited by Christians.</quote>
+          Thus says he.
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e349">
+          ¶ Second: because, granted that those provinces
+          were once dedicated and consecrated to Christ,
+          they now belong by right to the Church;
+          and thus all unbelievers dwelling there
+          are subject to the Church and to its laws,
+          of which they are nevertheless capable
+          by reason of domicile.
+          For one dwelling outwardly in the land of a foreign prince
+          becomes that prince's subject, as in
+          <ref xml:id="lca8s8-d1e250-Rd1e368">c. ex parte et in c. dilecti</ref>
+          and <ref xml:id="lca8s8-d1e250-Rd1e373">c. finali de foro competenti</ref>,
+          from <ref xml:id="lca8s8-d1e250-Rd1e378">C. vbi petatur tutor l. 1</ref>,
+          and as is there noted by the doctors,
+          and <ref xml:id="lca8s8-d1e250-Rd1e383" target="http://scta.info/resource/bgy6gt-d1e662-d1e340">ff. de iudiciis l. heres absens § proinde</ref>.
+          Therefore, in provinces that were once under Christian rule,
+          the Church has a particular and special reason —
+          more than in other places —
+          to both prohibit and punish impious superstitions
+          and wicked crimes.
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e399">
+          ¶ Third: because if in those kingdoms
+          Christians dwell under the yoke of barbarians,
+          there is a greater reproach to the Christian name;
+          and Christians themselves,
+          living alongside unbelievers,
+          are exposed to the danger
+          of being defiled by their impiety.
+          For evil company corrupts good morals,
+          and the association of wicked men often corrupts even the good —
+          <ref xml:id="lca8s8-d1e250-Rd1e418">28. q. 1. c. Sepe</ref> —
+          how much more so those
+          <ref xml:id="lca8s8-d1e250-Rd1e422">who are inclined toward vices</ref> —
+          <ref xml:id="lca8s8-d1e250-Rd1e428">24. q. 3, c. resecandae</ref>
+          and <ref xml:id="lca8s8-d1e250-Rd1e430">c. sed illud. 45. distinctio, for these reasons</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e436">
+          Speaking of such unbelievers,
+          <name xml:id="lca8s8-d1e250-Nd1e440">Innocent</name> rightly teaches
+          that the pope can prescribe laws to them
+          lest they trouble Christians;
+          and that if they afflict Christians with injuries,
+          the pope can deprive such unbelievers
+          of kingdoms that were once under Christian rule.
+          He adds, however, that a great cause must precede
+          before the pontiff takes such action,
+          on account of the great strife and tumult
+          that would necessarily arise from it —
+          provided that Christians are not put in danger.
+          Now, "danger" is to be understood as present
+          when there is risk that Christians
+          might fall away from the Catholic faith,
+          or some similar danger.
+          For in that case,
+          lest such a thing come to pass,
+          <ref xml:id="lca8s8-d1e250-Rd1e472">all other things must be set aside.</ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e476">
+          ¶ Innocent likewise teaches that such unbelievers
+          must permit the Gospel to be preached in their kingdoms;
+          otherwise, since they sin in this matter,
+          they can be punished by the pope.
+          <ref xml:id="lca8s8-d1e250-Rd1e485">But more on this below.</ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e250-d1e488">
+          In sum,
+          the words of Innocent —
+          namely, that if a pagan acts against the law of nature —
+          are to be understood
+          (as we have taught above)
+          either of unbelievers who inhabit lands
+          that were formerly Christian,
+          or of unbelievers who are actually and by right
+          subject to Christian princes —
+          as is expressly stated in
+          <ref xml:id="lca8s8-d1e250-Rd1e505">c. archiepiscopatu, de raptoribus</ref>,
+          where a certain archbishop of Sicily punishes Moors
+          who sin against nature.
+          Or it is to be understood in the manner I taught above,
+          namely that they are subject only by right
+          in that they hold usurped lands of the Church,
+          by reason of the three special grounds stated.
+          And thus are to be understood the teachings given by
+          <ref xml:id="lca8s8-d1e250-Rd1e523">Innocent
+            and the Abbot in the Decretals, c. in archiepiscopatu,
+            de raptoribus</ref>,
+          and <ref xml:id="lca8s8-d1e250-Rd1e530">in c. nouit, de iudiciis</ref>,
+          and all the canonists who follow them.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

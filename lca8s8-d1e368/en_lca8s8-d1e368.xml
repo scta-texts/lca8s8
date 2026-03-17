@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 25 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 25 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-20">Apr 20, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="113-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e368">
+        <head xml:id="lca8s8-d1e368-Hd1e97">Chapter 25 [Bnf 12926 Transcription - English Translation]</head>
+        
+        <p xml:id="lca8s8-d1e368-d1e99">
+          Chapter 25.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e104">
+          <note type="marginal-note" place="margin-left" hand="E">Case 4</note>
+          ¶ The fourth case in which the Church can punish pagans by war or otherwise:
+          is when they impede the propagation of the faith essentially and not accidentally,
+          by word or deed raging against those who wish to embrace it:
+          or who have already embraced it,
+          or certainly try to accomplish this by entreaties or gifts.
+          For such injuries obstructing the expansion of the faith,
+          and inflicted upon members of the Church:
+          the Church can coerce by natural law and suppress by military force through Christian princes.
+          Nor can such evil be remedied in any other way,
+          as is evident from 
+          <ref xml:id="lca8s8-d1e368-Rd1e140">many passages at 23. q. 8</ref>.
+          Nor does it accord with law and equity that the Church should suffer men initiated in Christian mysteries,
+          to withdraw from Christian profession by gifts,
+          blandishments,
+          or threats.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e155">
+          This is also proven because all princes or governors of republics:
+          are bound to protect their subjects from all injury:
+          and to take up arms against their oppressors,
+          as in 
+          <ref xml:id="lca8s8-d1e368-Rd1e165">ff. de dolo. l. cum quis</ref>
+          and 
+          <ref xml:id="lca8s8-d1e368-Rd1e171">de ordi. cognitio. c. 2</ref>
+          and 
+          <ref xml:id="lca8s8-d1e368-Rd1e173">de restitu. spolia. c. 1</ref>
+          and 
+          <ref xml:id="lca8s8-d1e368-Rd1e178">de appella. c. dilectis</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e368-Rd1e184">23. q. 2. c. dominus noster</ref>
+          and 
+          <ref xml:id="lca8s8-d1e368-Rd1e187">q. 8. c. scire vos oportet</ref>.
+          So note 
+          <ref xml:id="lca8s8-d1e368-Rd1e190">Innocent and Hostiensis in d. c. dilectis</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e368-Rd1e195">Hostiensis de tregua et pace, c. 1</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e202">
+          Therefore,
+          the pope,
+          since he is prince and head of the Catholic Church,
+          is bound to protect all Christians living everywhere and to defend them from all injury,
+          under whatever prince they live:
+          so that they not fall away under any oppression.
+          Which 
+          <ref xml:id="lca8s8-d1e368-Rd1e217">Pope Leo signifies in c. scire vos oportet</ref>,
+          that 
+          <quote xml:id="lca8s8-d1e368-Qd1e222">
+            we never permit our men to be oppressed by anyone,
+            but (if any necessity occurs) we personally avenge them.
+            Because we ought to be avengers of our flock in all things,
+            and their chief helpers
+          </quote>.
+          These words are there.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e237">
+          Again:
+          when Christians through the work of unbelievers renounce the worship of Christ:
+          they diminish what was already inserted into the body of Christ and the Christian Church,
+          and by such renunciation the name of Christ to be adored is blasphemed:
+          the pope and any Christian prince is bound to avenge such injury,
+          indeed any particular person is at least bound to impede it.
+          For what is committed against divine religion is inflicted as an injury upon all,
+          as in 
+          <ref xml:id="lca8s8-d1e368-Rd1e263">l. manichaeos, C. de hereticis</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e266">
+          ¶ Moreover,
+          when pagans impede those who wish to receive the Christian faith from receiving it:
+          they inflict great injury upon the Catholic Church,
+          which is evident thus,
+          first.
+          For the will to receive the Christian faith,
+          just as in other works of virtue,
+          is just:
+          generating no prejudice against anyone:
+          for pagan princes if they receive the word of God do not lose their kingdoms or dominion:
+          on the contrary,
+          their possession is rendered more secure and more legitimately confirmed:
+          and cities instructed in the knowledge of truth and good morals:
+          will be rendered most flourishing,
+          by the strength of the holy sacraments which are exercised there.
+          Therefore,
+          those punishing or prohibiting the execution of this will inflict injury upon the Christian Church and upon those who wish it,
+          against natural justice.
+          Therefore the Church can punish them.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e312">
+          Secondly it is proven because the care of the whole world,
+          which both faithful and infidels inhabit,
+          has been divinely committed to the pope:
+          and 
+          <ref xml:id="lca8s8-d1e368-Rd1e318">
+            <name xml:id="lca8s8-d1e368-Nd1e319">Chrysostom</name>
+            teaches this in his homily 87 on John
+          </ref>.
+          <quote xml:id="lca8s8-d1e368-Qd1e325">
+            For when Christ had communicated great things to Peter,
+            he committed to him the care of the terrestrial orb
+          </quote>.
+          These are his words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e333">
+          And 
+          <ref xml:id="lca8s8-d1e368-Rd1e335">
+            <name xml:id="lca8s8-d1e368-Nd1e336">Saint Bernard</name>
+            in book 2 of On Consideration to Pope Eugene
+          </ref>.
+          <quote xml:id="lca8s8-d1e368-Qd1e341">
+            Therefore your privilege stands unshaken for you:
+            both in the keys given and in the sheep entrusted.
+            Accept something which nonetheless confirms your prerogative:
+            the disciples were sailing and the Lord appeared on the shore.
+            Peter knowing that it was the Lord cast himself into the sea and thus came to him,
+            the others coming by boat John last.
+            What is this?
+            Surely a sign of singular power and Peter's pontificate:
+            by which he received for governing not one boat as the others each their own,
+            but the very world itself
+          </quote>.
+          These words of 
+          <name xml:id="lca8s8-d1e368-Nd1e370">Bernard</name>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e373">
+          And Saint 
+          <ref xml:id="lca8s8-d1e368-Rd1e377">
+            Pope Leo in sermon 
+            <choice>
+              <sic>3</sic>
+              <corr>
+                4
+                <note>Modern numbering from PL 54:149–50.</note>
+              </corr>
+            </choice>
+          </ref>
+          of his ordination,
+          exalting the excellences of Peter,
+          says:
+          <quote xml:id="lca8s8-d1e368-Qd1e388">
+            One Peter is chosen who is placed before both the calling of all nations and all the apostles and all parts of the Church
+          </quote>.
+          These are his words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e398">
+          Therefore,
+          since the nations of the whole world have been committed to Peter and his successors,
+          and are subject to the Church:
+          some indeed actually,
+          others habitually and potentially,
+          and the care of drawing nations to the knowledge of truth pertains to the Roman Pontiff:
+          it is manifest that the war is just by which the Church coerces infidels impeding the propagation of the faith and prohibiting anyone from receiving the Christian religion.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e421">
+          Hence it happens that any pagan prince can be compelled by war to have the Gospel preached in his dominion.
+          Not indeed from the sin which they commit by prohibiting the preaching of the Gospel,
+          which canonists assert:
+          for the Church does not punish their sins,
+          as is already plain above:
+          but because they maliciously,
+          without legitimate cause,
+          as we said essentially,
+          impede the expansion of Evangelical truth which Christ commanded to be announced to all nations.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e445">
+          They also impede the benefit of souls who,
+          having heard the word of God,
+          will receive it.
+          Wherefore the Church,
+          to which pertains the care of the nations of the whole world regarding the announcement of truth,
+          justly wages war against those prohibiting the Gospel from being preached in their dominion.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e461">
+          And thus what the doctors write about this matter should be understood,
+          especially 
+          <ref xml:id="lca8s8-d1e368-Rd1e467">
+            <name xml:id="lca8s8-d1e368-Nd1e468">Cajetan</name>
+            2 2. q. 10. ar. 8
+          </ref>,
+          where he asserts the Church can justly wage war against infidels killing preachers:
+          for those forbidding the preaching of the Gospel also oppose the expansion and propagation of the faith.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e483">
+          ¶ But it is necessary to remember that this is true when pagans,
+          knowing what is preached to them,
+          kill 
+          <add place="above-line" hand="B">preachers</add>
+          maliciously and because of the hatred which they always bear toward the faith itself:
+          such pagans are Turks and Moors who are not ignorant of Christian dogmas.
+          If however they did not kill them knowingly and maliciously and essentially as preachers of the Gospel,
+          but from hatred of the Christian people,
+          from whom perhaps they had received great injuries with savage and fierce violence:
+          just as the Indians killed some innocent preachers,
+          not indeed because they were preachers,
+          but because from the Spanish people they and theirs and all Indian nations 
+          <add place="above-line" hand="B">received damages</add>
+          <del rend="strikethrough" hand="B">
+            the most savage of all peoples and judged by the best right to be barbarous and savage with truculent cruelty,
+            since from them so many savage and 
+          </del>
+          <add place="above line" hand="B">and from the ages</add>
+          unheard-of evils,
+          <del rend="strikethrough" hand="B">they received</del>:
+          not only cities having been devastated,
+          but also kingdoms and the greatest regions.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e554">
+          An innumerable and unthinkable multitude of mortals having been slaughtered,
+          kings and princes having been despoiled of great principalities,
+          dominions,
+          and royal honors:
+          peoples having been led into servitude.
+          Therefore such people,
+          by not receiving preachers or even cruelly killing them,
+          do not impede the preaching of the Gospel essentially,
+          but accidentally and beyond their intention,
+          and the cause per accidens is outside the rules.
+          And judgment about things should not be given according to what is per accidens,
+          but per se,
+          from 
+          <ref xml:id="lca8s8-d1e368-Rd1e582">
+            Book 2 of the Physics
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e368-Rd1e587">Book 4 of the Metaphysics 9</ref>.
+          But what is beyond intention does not deserve corporal or severe 
+          <choice>
+            <sic>ponam</sic>
+            <corr>punishment</corr>
+          </choice>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e598">
+          Therefore,
+          when the Indians,
+          afflicted by so many horrendous evils,
+          see that preachers are men of the same nation and language,
+          with white color and 
+          <del rend="strikethrough" hand="B">bearded</del>,
+          mixed with their enemies the Spanish and treating with them most familiarly:
+          they will necessarily be ignorant:
+          who might be servants of God?
+          And again,
+          who might be ministers and instruments of Satan?
+          They will also be ignorant where the preachers are heading,
+          but truly where the other Spanish,
+          with whom they most justly wage war?
+          What do we want to do to the Indians?
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e631">
+          Should they,
+          as soon as they hear preachers admonishing them to acknowledge the true God,
+          testifying that they are not of that crowd which harms them,
+          immediately give credence to those who,
+          having been summoned a thousand times by faithless men to Spanish camps after giving their word,
+          were slaughtered and paid the penalties of their levity?
+          Does an Indian anywhere receive a benefit from a Spanish man?
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e651">
+          Therefore it surpasses all astonishment and savors of miserable ignorance to affirm that the Indians can be attacked by war,
+          even if they kill two hundred thousand preachers,
+          and even if they killed 
+          <name xml:id="lca8s8-d1e368-Nd1e661">the Apostle Paul</name>
+          himself and the other disciples of Christ evangelizing.
+          For such a war would savor of savage barbarism and more than Scythian savagery:
+          and should be called a war of the devil rather than Christian.
+          And the Indians waging war against the Spanish conducting affairs thus would deserve to be adorned with the most exquisite praises by any wise philosophers.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e686">
+          <add place="margin-left" hand="F">note</add>
+          Indeed,
+          I would dare to affirm that war cannot be justly but rather unjustly waged against Indian princes,
+          if,
+          fearing for their possessions,
+          they are unwilling to receive preachers accompanied by fierce and barbarous men,
+          even in lands or provinces where the savage 
+          <seg type="correction" hand="B">
+            tyranny
+            <subst>
+              <del rend="strikethrough">de</del>
+              <add place="above-line">s</add>
+            </subst>
+          </seg>
+          of Christians is not yet known.
+          For he will not fear rashly for the safety of his kingdom if he receives a foreign people,
+          even merely formidable in appearance.
+          For any prince is bound to provide for the safety of his kingdom,
+          as I have taught more fully elsewhere.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e729">
+          Therefore cease,
+          Christians,
+          to flatter yourselves with these pretenses:
+          do not associate your insatiable greed with diabolic spirit by the spilled blood of a most innocent people.
+          Let those be silent who,
+          swollen with foolish erudition,
+          give courage to tyrants to persecute most innocent sheep,
+          objecting that they kill preachers of the faith,
+          because it is not formally true,
+          but rather those who give the cause kill them.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e754">
+          For they do not know what the Gospel is,
+          what a preacher is:
+          they kill those not as preachers,
+          but as Spanish men mixed with the rest of that savage people,
+          their enemies.
+          Most religious men will certainly be crowned by Christ:
+          but the Spanish themselves will be said to have killed them by their crimes,
+          defaming the Gospel and impeding the propagation of the faith.
+          But the Indians,
+          in my judgment,
+          are in no way guilty before the Supreme Judge,
+          because,
+          being ignorant and harassed by so many evils,
+          they descend to that crime.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e788">
+          ¶ It should also be noted that war for this cause is perhaps just against infidels when princes or kings alone maliciously impede the propagation or preaching of the Gospel:
+          but if both princes and the whole people,
+          precisely from love and devotion to their religion,
+          are unwilling to hear or admit Christian preachers,
+          then they cannot in any way be compelled by war to admit them.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e819">
+          For they oppose divine words.
+          For Christ said:
+          <quote xml:id="lca8s8-d1e368-Qd1e823">
+            Going,
+            teach all nations
+          </quote>,
+          namely those willing to hear:
+          do not inflict violence on those unwilling to hear.
+          You will find no saying either in sacred scriptures or uttered by holy doctors,
+          you will adduce no argument by which,
+          being supported,
+          we may without reproach compel infidels unwilling to hear the doctrine of Christ to do so.
+          Whence,
+          acting thus,
+          we would offend Christ,
+          whose precious death would be rendered fruitless.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e848">
+          For when infidels,
+          especially those who have always lacked the teaching of truth,
+          are led by certain probable reasons to the cultivation and love,
+          indeed defense,
+          of their gods and rite of ancient religion,
+          moreover,
+          so that they may consult for the peace,
+          liberty,
+          and safety of the whole state of their present and future republic,
+          they are unwilling to admit foreign and unknown peoples in their kingdoms or lands,
+          and thus neither to receive preachers of the faith nor to hear their doctrine,
+          even from zeal for their religion:
+          if on this occasion alone they should be attacked by war,
+          which indeed is an ocean of all evils,
+          by which,
+          they having been subdued and after so many slaughters,
+          so many irreparable evils,
+          pains,
+          groans,
+          
+          <choice>
+            <sic>weepings</sic>
+            <corr>tears</corr>
+          </choice>,
+          and bitterness having been inflicted.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e895">
+          Granted that,
+          thus compelled,
+          they now hear the Gospel:
+          with what mind,
+          I ask,
+          will they listen to evangelical truth?
+          In what way will they understand it?
+          With what will they love it?
+          How will they give credence to the proofs of Christian mildness and truth?
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e911">
+          <add place="margin-right" hand="F">
+            it should be noted that in no way is it fitting that preachers should go to evangelize together with armed soldiers
+          </add>
+          ¶ Indeed,
+          I speak boldly and am not ashamed to bring forth these things,
+          that if preachers,
+          accompanied by the clash of arms,
+          should announce the Gospel to any people,
+          by that very fact they are unworthy that credence be given to their words.
+          For what has the Gospel to do with cannons?
+          What has the announcer of the Gospel to do with armed robbers?
+          Indeed,
+          those believing such preachers would be most vain and most foolish rather than prudent:
+          and those spurning their words could be somewhat excused before God.
+          For they would not be bound to give credence to the apostles or to Christ our Redeemer himself evangelizing in this manner.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e948">
+          Miracles established credence in the words of Christ:
+          and unless Christ had performed visible or invisible miracles,
+          men would not have been guilty of the crime that they had not believed him.
+          For no one is bound to what is beyond his powers,
+          unless in the manner by which it is made possible for him.
+          But to believe is beyond the natural power of man.
+          Whence it proceeds from the gift of God,
+          according to that of 
+          <ref xml:id="lca8s8-d1e368-Rd1e969">the Apostle to the Ephesians 2</ref>.
+          <quote xml:id="lca8s8-d1e368-Qd1e971">
+            By grace you have been saved through faith,
+            and this not from yourselves.
+            For it is the gift of God
+          </quote>.
+          From 
+          <ref xml:id="lca8s8-d1e368-Rd1e979">Philippians 1</ref>.
+          <quote xml:id="lca8s8-d1e368-Qd1e981">
+            To you it has been given not only to believe in him,
+            but also to suffer for him
+          </quote>.
+          Therefore man is bound to believe according as he is aided by God to believe.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e993">
+          Someone is aided by God to believe in three ways:
+          either by secret inspiration,
+          or by teaching,
+          or by miracles,
+          which three we interpret as miracles of God.
+          If these had been lacking,
+          the whole world would be excused if it had not believed.
+          So the 
+          <ref xml:id="lca8s8-d1e368-Rd1e1006">Savior teaches in John 15</ref>.
+          <quote xml:id="lca8s8-d1e368-Qd1e1011">
+            If I had not come and spoken to them,
+            they would not have sin
+          </quote>,
+          namely of infidelity,
+          according to Augustine.
+          Likewise 
+          <ref xml:id="lca8s8-d1e368-Rd1e1020">in the same place</ref>:
+          <quote xml:id="lca8s8-d1e368-Qd1e1022">
+            If I had not done among them the works which no one else did,
+            they would not have sin
+          </quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e1031">
+          
+          <choice>
+            <sic>If</sic>
+            <corr>Thus</corr>
+          </choice>
+          the Lord God had commanded the Jews not to believe anyone affirming himself sent by God,
+          unless either he performed signs or predicted future things in the name of the Lord.
+          Thus we read in 
+          <ref xml:id="lca8s8-d1e368-Rd1e1043">Deuteronomy 8</ref>.
+          <ref xml:id="lca8s8-d1e368-Rd1e1049">Saint Thomas writes about this in Quodlibet 2, article 6</ref>
+          and 
+          <ref xml:id="lca8s8-d1e368-Rd1e1054">Abulensis on Matthew chapter 10</ref>,
+          question 21.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e1061">
+          ¶ Therefore,
+          since an army of armed men,
+          especially unexpected,
+          is at first sight formidable to all men by its very nature,
+          even if the soldiers do not extend their hands to the acts of war which they are accustomed to perpetrate,
+          namely:
+          slaughtering,
+          despoiling,
+          plundering,
+          and exercising other savage acts,
+          and as much as it abhors natural reason,
+          peace,
+          tranquility,
+          humility,
+          Christian mildness,
+          meekness,
+          the teaching and miracles of Christ:
+          it follows that if the apostles,
+          accompanied by an army of armed men,
+          had gone so that they might compel nations by terror to hear the Gospel,
+          especially if they exercised acts of war,
+          indeed if Christ himself had been thus accompanied for preaching,
+          unless he had aided the hearers by miracles or internal inspiration,
+          without doubt their words would lack credence,
+          nor would infidels be bound to believe their doctrine,
+          but rather they would rightly have waged most just war as against public enemies.
+        </p>
+        
+        <p xml:id="lca8s8-d1e368-d1e1109">
+          All these things are manifest from the teaching of Christ and from natural reason itself:
+          they appear no less from very many truths demonstrated above.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

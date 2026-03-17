@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 29 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 29 [Bnf 12926 Translation]</title>
+          <date when="2025-05-02">May 02, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="132-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e421">
+        <head xml:id="lca8s8-d1e421-Hd1e97">Chapter 29 [Bnf 12926 Translation]</head>
+        <p xml:id="lca8s8-d1e421-d1e99">
+          Chapter 29.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e104">
+          ¶ It does not contradict the above that God killed the fathers and sons,
+          both guilty and innocent,
+          of Sodom and Gomorrah:
+          and similarly on account of the sin of 
+          <name xml:id="lca8s8-d1e421-Nd1e111"><seg>Achan</seg></name>:
+          women and small infants were consumed by fire 
+          <ref xml:id="lca8s8-d1e421-Rd1e121" target="http://scta.info/resource/ios7_24">Joshua 7</ref>.
+          And the Tribe of Benjamin on account of the violence inflicted by a certain one of that Tribe
+          upon the wife of a certain Levite:
+          was utterly destroyed by the other eleven Tribes with no distinction made of age or sex.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e138">
+          Nor does it contradict the above that when we pursue a just war,
+          on account of the sin of a prince or leaders of a city:
+          the innocent and guiltless are accustomed to be killed and plundered,
+          who neither by deed nor by counsel gave cause for war or aided it.
+          Since according to certain doctors:
+          when a city is justly condemned to be destroyed or given over to plunder,
+          we are not bound to investigate whether there are any innocents in it who merited no such thing:
+          since all citizens are presumed to be enemies of the republic or prince waging just war.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e167">
+          And thus soldiers in killing or plundering a city do not sin nor are they bound to make restitution:
+          since killing the innocent happens (as they themselves say) per accidens and not by deliberate counsel,
+          nor is the city directly captured so that they might be killed.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e181">
+          ¶ But returning to the first argument,
+          it truly does not contradict for a fourfold reason.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e188">
+          <note type="marginal-note" place="margin-left" hand="F">
+            Examples of the Old Testament are to be admired but not always to be imitated
+          </note>
+          First 
+          <ref xml:id="lca8s8-d1e421-Rd1e193">
+            because examples of the Old Testament (as was declared above in chapter <add place="margin-right" hand="AB">15.</add>
+          </ref>
+          are to be admired:
+          but are not always to be imitated.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e205">
+          ¶ Second,
+          the judgments of God are inscrutable:
+          therefore not because God commanded that thing to be done:
+          can we also do that thing.
+          For all the people of the world are God's:
+          therefore He can dispose of them at will just as men dispose of their own possessions,
+          and far better indeed as proper to the Creator.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e227">
+          But for a human being toward his own possession,
+          it is not just politically according to 
+          <ref xml:id="lca8s8-d1e421-Rd1e233">
+            <name xml:id="lca8s8-d1e421-Nd1e234">the Philosopher</name> in book 5 of the <title>Ethics</title>
+          </ref>,
+          especially because human beings,
+          however just they may be,
+          are nevertheless going to die and are debtors of death. 
+          <ref xml:id="lca8s8-d1e421-Rd1e243">Hebrews 9</ref>.
+          <quote xml:id="lca8s8-d1e421-Qd1e248">It is appointed for men to die once</quote>.
+          But among human beings political justice must be preserved:
+          that is,
+          equality of justice:
+          therefore judges do not have human beings so subject to them:
+          that they can punish them or kill them beyond law and right.
+          For a human judge cannot judge otherwise than the law commands,
+          especially the natural and divine law.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e267">
+          ¶ Third,
+          I respond that however much a human being may be innocent and most blameless before human beings:
+          he is guilty before God by reason of original sin according to that saying 
+          <ref xml:id="lca8s8-d1e421-Rd1e277">Exodus 34</ref>.
+          No one is innocent before you in himself,
+          that is,
+          there is no one who is not obligated through his own or another's sin to you.
+          Therefore God justly kills or commands to be killed whom He wishes and when He wishes.
+          Just as 
+          <ref xml:id="lca8s8-d1e421-Rd1e290">Genesis 22</ref>.
+          He commanded 
+          <name xml:id="lca8s8-d1e421-Nd1e294">Abraham</name> to sacrifice his son <name xml:id="lca8s8-d1e421-Nd1e296">Isaac</name>.
+          And 
+          <quote xml:id="lca8s8-d1e421-Qd1e300">He visits the sins of the parents upon the children unto the third and fourth generation</quote>:
+          and He punishes the sins of children upon the fathers conversely,
+          as we read 
+          <ref xml:id="lca8s8-d1e421-Rd1e310">Exodus 34</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e313">
+          Therefore it can never truly be said that God kills or punishes an innocent person:
+          either in this life or in the future.
+          But concerning a prince who punishes crimes committed against the republic,
+          it is far different.
+          For one innocent of a crime is guilty neither to the republic nor to the prince:
+          therefore neither can princes inflict punishment on a father for a son nor a son for a father:
+          nor ought a human being to be punished for a crime which he himself did not commit.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e338">
+          ¶ Fourth,
+          I respond that since God knows the most secret things of the heart 
+          <ref xml:id="lca8s8-d1e421-Rd1e342" target="http://scta.info/resource/Isam16_7@28-33">1 Kings 16</ref>,
+          and truly understands what is expedient for each one:
+          sometimes He snatches away a human being because it is expedient for him to die then,
+          lest he fall into sins according to what we read 
+          <ref xml:id="lca8s8-d1e421-Rd1e357">Wisdom 4</ref>:
+          <quote xml:id="lca8s8-d1e421-Qd1e363" source="http://scta.info/resource/sap4_11@1-12">
+            He was snatched away lest wickedness change his understanding:
+            or lest deceit deceive his soul
+          </quote>.
+          <quote xml:id="lca8s8-d1e421-Qd1e370" source="http://scta.info/resource/sap4_14@1-14">
+            For his soul was pleasing to God:
+            therefore He hastened to lead him out from the midst of iniquities
+          </quote>.
+          And of this kind perhaps were the infants of Sodom,
+          
+          <ref xml:id="lca8s8-d1e421-Rd1e387" target="http://scta.info/resource/num16_32">
+            <name xml:id="lca8s8-d1e421-Nd1e389">Dathan</name> and <name xml:id="lca8s8-d1e421-Nd1e391">Abiron</name>
+          </ref>,
+          and the children of the Canaanites whom God commanded to be killed.
+          For perhaps if they had reached mature age they would have imitated their fathers' impiety.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e401">
+          For children are accustomed to reproduce the vices of their parents:
+          as it is said 
+          <ref xml:id="lca8s8-d1e421-Rd1e407">Wisdom 12</ref>:
+          <quote xml:id="lca8s8-d1e421-Qd1e409" source="http://scta.info/resource/sap12_10@10-26">
+            Wicked is that nation and natural their malice:
+            and because the thought of their heart could not be changed forever
+          </quote>.
+          <quote xml:id="lca8s8-d1e421-Qd1e422" source="http://scta.info/resource/sap12_11@1-6">For it was a cursed seed from the beginning</quote>,
+          and there he speaks literally of the Canaanites.
+          Sometimes also the Lord does this so that those killed before mature age may suffer milder punishments:
+          just as the sons of the Sodomites and Canaanites who had already reached the age of reason.
+          For we ought to consider that the Lord uses mercy even toward infidels from whom He takes life in their first years:
+          since by living they could turn out more wicked than their parents:
+          and after death they would suffer more bitter punishments.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e479">
+          Therefore whatever the Lord does concerning the state of human beings,
+          even with untimely death,
+          ought to be judged most righteous:
+          since He ordains and disposes that thing either to something better or at least to something less evil.
+          But because we are ignorant of the causes of these things:
+          it seems to us that with certain ones it should be acted otherwise than it is done.
+          
+          <ref xml:id="lca8s8-d1e421-Rd1e513">
+            <name xml:id="lca8s8-d1e421-Nd1e514">Boethius</name> in <title>De consolatione</title> book 4, prose 5
+          </ref> condemns this ignorance in us.
+          <quote xml:id="lca8s8-d1e421-Qd1e521">
+            But you (he says) although you are ignorant of the cause of so great a disposition:
+            nevertheless since a good ruler governs the world:
+            you should not doubt that all things are done rightly
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e533">
+          And since none of the judges of the world has power insofar as by killing or torturing human beings,
+          he might lead them to a better state:
+          but rather to a worse state,
+          because from being to non-being:
+          indeed if death seizes such people in mortal sin:
+          they are cast down to the most unhappy of all and eternal states:
+          therefore it is not licit for any mere human being to punish anyone corporally (namely) with death or afflictive bodily punishment:
+          for another's sin without most grave mortal offense.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e559">
+          Therefore a human being killing an innocent person or punishing him corporally for another's sin acts impiously and commits a great sin:
+          for we cannot suspect that a judge kills an innocent person so that it might be better for him.
+          For what is better than life:
+          by which we can reconcile the Lord,
+          angered by our crimes,
+          with tears and prayers?
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e579">
+          Hence for human judges a law has been set forth in no way to be transgressed:
+          
+          <quote xml:id="lca8s8-d1e421-Qd1e586">You shall not kill the innocent and just and fathers shall not be killed for sons</quote>,
+          et cetera.
+          Thus 
+          <ref xml:id="lca8s8-d1e421-Rd1e592"><name xml:id="lca8s8-d1e421-Nd1e593">Augustine</name> in question 8 on Joshua</ref> says 
+          <quote xml:id="lca8s8-d1e421-Qd1e598">
+            it is commanded to a human being to observe that a son shall not be killed for a father Deut. 24.
+            But by a far more secret justice God judges,
+            who is able even after death (which a human being cannot do) to liberate or to destroy
+          </quote>.
+          These are <name xml:id="lca8s8-d1e421-Nd1e612">Augustine's</name> words.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e616">
+          And 
+          <ref xml:id="lca8s8-d1e421-Rd1e618">
+            <name xml:id="lca8s8-d1e421-Nd1e619">St. Thomas</name> 2a 2ae. q. 108. article last, throughout, especially ad 3
+          </ref> says:
+          <quote xml:id="lca8s8-d1e421-Qd1e626" source="http://scta.info/resource/TAca84-d1e1830-d1e1150@25-71">
+            But the hidden judgments of God by which He temporally punishes some without fault:
+            human judgment cannot imitate:
+            because a human being cannot comprehend the reasons of these judgments:
+            so as to know what is expedient for each one:
+            and therefore according to human judgment no one should ever be punished without fault with the punishment of the scourge,
+            so as to be killed or mutilated or beaten
+          </quote>,
+          these are <name xml:id="lca8s8-d1e421-Nd1e646">St. Thomas's</name> words.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e649">
+          The same thing 
+          <ref xml:id="lca8s8-d1e421-Rd1e651"><name xml:id="lca8s8-d1e421-Nd1e652">Innocent</name> teaches in c. graue. de senten. excommunicationis</ref>.
+          And thus the passages which 
+          <ref xml:id="lca8s8-d1e421-Rd1e659"><name xml:id="lca8s8-d1e421-Nd1e660">Gratian</name> adduces in c. ecclesia</ref> and in 
+          <ref xml:id="lca8s8-d1e421-Rd1e665">c. Turbatur. 1. q. 4</ref> and 
+          <ref xml:id="lca8s8-d1e421-Rd1e667">24. q. 3. in suma</ref> are to be understood.
+          And 
+          <ref xml:id="lca8s8-d1e421-Rd1e675">the gloss in suma there</ref>:
+          and 
+          <ref xml:id="lca8s8-d1e421-Rd1e677">1. q. 4. in suma</ref>,
+          where it is treated:
+          whether God punishes a human being for the sin of another human being.
+          What 
+          <ref xml:id="lca8s8-d1e421-Rd1e686">
+            <name xml:id="lca8s8-d1e421-Nd1e687">St. Thomas</name> adduces 2a 2ae. q. 64: article 6. ad 1
+          </ref> is consonant with these:
+          
+          <ref xml:id="lca8s8-d1e421-Rd1e692">12. q. 100. article 8, ad 3</ref>.
+          From these things it is clear how much weight the things have which 
+          <ref xml:id="lca8s8-d1e421-Rd1e699">jurists teach in l. aut facta ff. de penis</ref>.
+          And in 
+          <ref xml:id="lca8s8-d1e421-Rd1e704">c. dilectus filius. cl. 2º. de symonia</ref>,
+          arguing against 
+          <ref xml:id="lca8s8-d1e421-Rd1e709"><name xml:id="lca8s8-d1e421-Nd1e710">Innocent</name> in the said c. Graue</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e717">
+          That a whole community can be destroyed along with the guilty:
+          from the fact that God,
+          as we read in the Old Testament,
+          sometimes commanded cities to be utterly destroyed and all children and women to be killed indiscriminately.
+          They also adduce that Troy was destroyed:
+          as if a military example proceeding from pagans ought to move Christian men.
+          For to these things it is responded that the judgments of God are everywhere right and holy:
+          but the judgments of human beings:
+          do not always exist as just or good:
+          unless they are known to accord with natural reason and divine law and equity.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e749">
+          For not because princes or emperors publish or have published certain laws by which the innocent are punished corporally with the punishment of the scourge for the faults of others,
+          is it therefore necessary that they not contain iniquity,
+          since many unjust laws are found.
+          And the will of a Prince is sometimes received as law,
+          as 
+          <ref xml:id="lca8s8-d1e421-Rd1e766">insti. de jure naturali. § sed et quod princi.</ref>
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e772">
+          Which will however is very changeable.
+          And according to 
+          <ref xml:id="lca8s8-d1e421-Rd1e776"><name xml:id="lca8s8-d1e421-Nd1e778">the Philosopher</name> in <title>Politics</title> book 3</ref>,
+          the human will is a very bad standard.
+          Especially because the error of a prince makes law according to human laws,
+          as 
+          <ref xml:id="lca8s8-d1e421-Rd1e790">ff. de suppel. lega. l. 3. in fine</ref>.
+          Therefore what we read in 
+          <ref xml:id="lca8s8-d1e421-Rd1e794">l. si quis. cum militibus. Cod. doctores, l. julia. Maiesta</ref> is not to be imitated,
+          where it says:
+          <quote xml:id="lca8s8-d1e421-Qd1e803">
+            but his sons,
+            namely of one committing the crime of <unclear>lese</unclear> majesty,
+            to whom we grant life by special imperial leniency (for they ought to perish by their father's punishment),
+            in whom examples of this hereditary crime are feared
+          </quote>:
+          this law is truly unjust:
+          as to that part 
+          <quote xml:id="lca8s8-d1e421-Qd1e821">they ought to perish by their father's punishment</quote>.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e827">
+          Therefore the words of the jurists must be attentively weighed,
+          distinguished,
+          and understood:
+          that if the innocent are to be punished for the faults of others:
+          this ought to be done with a punishment of loss,
+          not of sense,
+          so that a son may be rendered infamous on account of his father's crime by reason of lese majesty,
+          divine or human,
+          and be deprived by loss of goods:
+          and by incapacity for dignities.
+        </p>
+        <p xml:id="lca8s8-d1e421-d1e848">
+          But never ought an innocent person to be punished by human judgment otherwise by reason of another's crime:
+          and one acting otherwise is guilty of the gravest crime before God.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

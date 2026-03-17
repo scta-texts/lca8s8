@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 32 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 32 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-05-04">May 04, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="141-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e460">
+        <head xml:id="lca8s8-d1e460-Hd1e97">Chapter 32 [Bnf 12926 Transcription - English Translation]</head>
+        <p xml:id="lca8s8-d1e460-d1e99">
+          Chapter 32.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e104">
+          The third reason why this crime of sacrificing the innocent should be overlooked when it cannot be cured except by war:
+          and when some innocents cannot be freed without harm to other innocents,
+          is this:
+          namely when the guilty cannot be distinguished from the innocent,
+          which manifestly happens in wars:
+          on account of the confusion and disorder with which they are filled.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e138">
+          These things are proven from the words of the 
+          <name xml:id="lca8s8-d1e460-Nd1e142">Lord</name> 
+          <ref xml:id="lca8s8-d1e460-Rd1e144">
+            Matthew 13
+          </ref>,
+          when he forbids the weeds to be pulled up lest perhaps the wheat also be pulled up at the same time.
+          Do you wish (the apostles say) that we go and gather them?
+          And he said:
+          <quote xml:id="lca8s8-d1e460-Qd1e165">
+            No,
+            lest gathering the weeds you uproot the wheat at the same time.
+            Let both grow together until the harvest
+          </quote>
+          and so on.
+          Lest wanting to pull up the weeds you pull up the wheat also.
+          Wheat signifies the innocent and pious,
+          or those who can return to a mindset worthy of God.
+          However,
+          lest harm be done to these innocents:
+          the Lord forbids the wicked to be uprooted,
+          but defers their punishment to the day of judgment and this for no other reason than that the pious or innocent not perish with the impious and guilty.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e232">
+          Wherefore the Lord explains thus.
+          <quote xml:id="lca8s8-d1e460-Qd1e236">
+            He who sows the good seed,
+            these are the children of the kingdom:
+            but the weeds are the children of wickedness.
+            The enemy who sowed them is the devil.
+            The harvest truly is the end of the age.
+            And the harvesters are the angels
+          </quote>.
+          <quote xml:id="lca8s8-d1e460-Qd1e263">
+            Therefore the Son of Man will send his angels,
+            and they will gather from his kingdom all scandals,
+            and those who do iniquity.
+            And they will cast them into the furnace of fire
+          </quote>.
+          Therefore Christ does not want but prohibits the guilty to be judged / punished or pulled up by men:
+          as often as they cannot be distinguished from the innocent and thus without danger to them.
+          And this is another case in which the Lord has reserved to himself the judgment of sinners.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e287">
+          Which the gloss teaches,
+          explaining those words:
+          <quote xml:id="lca8s8-d1e460-Qd1e291">
+            Lord,
+            do you wish us?
+            It consults (he says) the justice of God whether he should do it,
+            and whether God wishes this to be the office of men.
+            But the truth responded:
+            man cannot know in this life what sort of person he who now errs will be:
+            and what his error may confer on the good:
+            and therefore they are not to be removed:
+            lest perhaps those who are going to be good be killed:
+            or lest it stand in the way of the good,
+            whom they benefit
+          </quote>.
+          And below:
+          <quote xml:id="lca8s8-d1e460-Qd1e315">
+            Then truly it will be done opportunely:
+            when there is no longer time for changing life and profiting others:
+            and then he says it will be done not by men but by angels
+          </quote>.
+          This is the gloss.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e325">
+          From which it is manifestly gathered,
+          that those who in the proposed case kill the guilty with loss and harm to the innocents whom the storm of war will necessarily involve in destruction:
+          they act impiously,
+          usurping the office which the Lord reserved to himself and the angels.
+          Thus teaches 
+          <ref xml:id="lca8s8-d1e460-Rd1e353">
+            <name xml:id="lca8s8-d1e460-Nd1e354">Chrysostom</name> 
+            <title>on Matthew</title> chapter 1, homily 1
+          </ref>.
+          not in the imperfect work 
+          <quote xml:id="lca8s8-d1e460-Qd1e361">
+            see (he says) how illicit it is to usurp a work that has not been entrusted by God
+          </quote>
+          and so on.
+          And 
+          <ref xml:id="lca8s8-d1e460-Rd1e369">
+            <name xml:id="lca8s8-d1e460-Nd1e370">Saint Thomas</name> 
+            2a 2ae,
+            q. 108,
+            art. 1,
+            ad 1m
+          </ref>.
+          where it is said:
+          <quote xml:id="lca8s8-d1e460-Qd1e376">
+            that if anyone exercises vengeance outside the order of divine institution,
+            he usurps to himself what belongs to God and sins against God
+          </quote>.
+          This is what he says.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e384">
+          The same asserts 
+          <ref xml:id="lca8s8-d1e460-Rd1e386">
+            <name xml:id="lca8s8-d1e460-Nd1e388">Saint Thomas</name> in various places
+          </ref>
+          discussing the same parable:
+          namely:
+          <quote xml:id="lca8s8-d1e460-Qd1e393">
+            that the Lord commanded to abstain from the uprooting of weeds in order to spare the wheat,
+            that is,
+            the good:
+            which indeed happens because the wicked cannot be killed without the good being killed at the same time:
+            either because they lie hidden among the good:
+            or because they have many followers so that they cannot be killed without danger to the good,
+            as 
+            <ref xml:id="lca8s8-d1e460-Rd1e412">
+              <name xml:id="lca8s8-d1e460-Nd1e413">Augustine</name> says 
+              <title>against Parmenianus</title>
+            </ref>.
+            Whence the Lord teaches that it is better to allow the wicked to live:
+            and vengeance to be reserved:
+            until the final judgment:
+            than that the good be killed at the same time.
+            But when from the killing of the wicked no danger threatens the good,
+            but rather protection and safety:
+            then the wicked can be killed lawfully
+          </quote>.
+          These are his words exactly.
+          <ref xml:id="lca8s8-d1e460-Rd1e437">
+            2a 2ae,
+            q. 10,
+            art. 8,
+            ad 1m
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e442">
+            q. 11,
+            art. 3,
+            ad 3m
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e444">
+            q. 64,
+            art. 2,
+            ad 1m
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e448">
+            q. 108,
+            art. 1,
+            ad 5m
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e450">
+            art. 3,
+            ad 1m
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e455">
+            4th Sentences,
+            dist. 13,
+            q. 2,
+            art. 3,
+            ad 3m
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e460">
+            book 3,
+            c. 146,
+            at the end,
+            against the Gentiles
+          </ref>.
+          And quodlibet 10,
+          art. 5,
+          ad 2m.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e470">
+          <ref xml:id="lca8s8-d1e460-Rd1e472">
+            <name xml:id="lca8s8-d1e460-Nd1e473">The same</name> teaches 
+            <title>on Matthew</title>
+          </ref>
+          expounding that parable of the Lord,
+          where he gives four reasons for this precept,
+          namely that the wicked should not be pulled up lest the pious be endangered.
+          First,
+          for the exercise of the patience of the good.
+          Second,
+          because those who are wicked will perhaps be converted from weeds into wheat:
+          and detesting their impious life they will be converted to the Lord:
+          and from wolves they will become lambs just as we have seen in 
+          <name xml:id="lca8s8-d1e460-Nd1e499">Paul</name>.
+          <ref xml:id="lca8s8-d1e460-Rd1e502">The gloss also gave these two reasons</ref>.
+          Third,
+          because many seem impious and yet their mind lacks impiety.
+          Fourth,
+          because if some impious person is very powerful:
+          he cannot be punished without disturbance of all divine and human affairs.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e520">
+          An example of this most holy teaching was provided by 
+          <name xml:id="lca8s8-d1e460-Nd1e524">Saint Ambrose</name>,
+          who inveighed most bitterly against the Emperor Theodosius,
+          otherwise pious,
+          because in an angry spirit,
+          he ordered the people of Thessalonica to be gathered in the forum under a sought pretext:
+          and because they had killed a judge sent by him,
+          he ordered both guilty and innocent to be indiscriminately slaughtered,
+          which we read 
+          <ref xml:id="lca8s8-d1e460-Rd1e544">
+            in the 
+            <name xml:id="lca8s8-d1e460-Nd1e545">ecclesiastical history</name>,
+            book 11,
+            chapter 13
+          </ref>.
+          <ref xml:id="lca8s8-d1e460-Rd1e556">
+            More extensively in book 9,
+            chapter 30
+          </ref>.
+          in 
+          <quote xml:id="lca8s8-d1e460-Qd1e563">
+            the tripartite history:
+            Thessalonica (it says) is a great and populous city in which when there was sedition,
+            certain judges were stoned and killed.
+            Hence Theodosius,
+            indignant,
+            did not restrain the weakness of his anger:
+            but ordered unjust swords to be drawn against all,
+            and innocents to be killed along with the guilty;
+            seven thousand men are reported to have been killed thus
+          </quote>
+          and so on.
+          This is what it says.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e586">
+          But in our case not seven thousand but seventy thousand:
+          indeed seven hundred myriads of men,
+          it is necessary to kill:
+          among whom perhaps nearly all are most innocent before God,
+          at least of those crimes on account of which we judge the war to be just (namely) the sacrificing of infants and the eating of human flesh.
+          Again,
+          this truth is proven from the decrees of jurists.
+          For we read in 
+          <ref xml:id="lca8s8-d1e460-Rd1e607">
+            the law "absentem",
+            ff de penis where it says
+          </ref>
+          <quote xml:id="lca8s8-d1e460-Qd1e616">
+            It is better (some say holier) for the crime of a guilty person to go unpunished:
+            than for an innocent person to be condemned
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e633">
+          Where 
+          <ref xml:id="lca8s8-d1e460-Rd1e635">Bartolus</ref> says that if it is clear to the judge that someone did not commit the crime,
+          or that he did not commit the crime,
+          or that he is not culpable:
+          the judge cannot condemn him even from his own true confession,
+          as in 
+          <ref xml:id="lca8s8-d1e460-Rd1e650">
+            l. inde Neratius at the end
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e655">
+            the following law ff. ad l. aquil
+          </ref>.
+          And this is what is said,
+          <quote xml:id="lca8s8-d1e460-Qd1e659">
+            that the judge should seek the defense of the accused
+          </quote>,
+          as in 
+          <ref xml:id="lca8s8-d1e460-Rd1e664">
+            ff. de quaestio.,
+            l. 9 at the end
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e674">
+            l. si non defendatur,
+            ff. de poenis
+          </ref>.
+          The same is understood when there is doubt about guilt.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e682">
+          So also says 
+          <ref xml:id="lca8s8-d1e460-Rd1e684">
+            Chrysostom on Matthew,
+            chapter 1,
+            homily 1,
+            in the imperfect work
+          </ref>.
+          <quote xml:id="lca8s8-d1e460-Qd1e693">
+            In an uncertain matter (he says) it is better that a prostitute,
+            once established,
+            escape:
+            than that an innocent die.
+            For it is more just that an unjust person justly escape:
+            than that a just person unjustly perish.
+            Because even if a guilty person once escapes he can perish again:
+            but an innocent,
+            if he once perishes:
+            can no longer be recalled
+          </quote>.
+          This is Chrysostom.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e710">
+          From these words of Chrysostom you see that our opinion is most true,
+          and that it is a sin worthy of eternal death:
+          to afflict and kill innocents so that the guilty may be punished,
+          which is against justice.
+          Likewise,
+          the greatest care must be taken lest under the pretext of punishing the guilty,
+          the innocent be punished,
+          as in 
+          <ref xml:id="lca8s8-d1e460-Rd1e727">
+            l. 2 at the end,
+            c. de his qui latro occul
+          </ref>.
+          Where 
+          <ref xml:id="lca8s8-d1e460-Rd1e733">Baldus</ref> says:
+          that innocents should neither be seized nor burdened with expenses nor in any other thing.
+          He cites 
+          <ref xml:id="lca8s8-d1e460-Rd1e740">
+            l. 1,
+            § tribuni in that title
+          </ref>.
+          The same one says that whoever causes someone to be seized who afterward appears innocent,
+          should then be punished with a similar punishment:
+          and thus he says:
+          <quote xml:id="lca8s8-d1e460-Qd1e751">
+            on account of this a certain man in Perugia was beheaded,
+            which note
+          </quote>.
+          This is Baldus.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e757">
+          It also applies because an unjust condition should not be imposed on one person by another.
+          <ref xml:id="lca8s8-d1e460-Rd1e761">
+            ff. de regul. jur.,
+            l. nemo debet
+          </ref>.
+          And punishment should hold only its authors.
+          <ref xml:id="lca8s8-d1e460-Rd1e768">
+            l. sancimus,
+            C. de penis,
+            l. si pena,
+            ff. eo titulo,
+            l. ab maritorum,
+            C. ne vxor pro marito
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e778">
+            c. illud,
+            11,
+            q. 3
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e784">
+            c. Romana,
+            de sen. excommunicationis,
+            lib. 6
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e789">c. Placuit</ref>,
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e791">c. crimen</ref>,
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e793">c. nullius</ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e798">
+            c. judaei,
+            1,
+            q. 4
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e800">
+            c. peruenit,
+            de his quae fi. Maiore par. cap
+          </ref>.
+        </p>
+        <p xml:id="lca8s8-d1e460-d1e810">
+          The same is proven from 
+          <ref xml:id="lca8s8-d1e460-Rd1e814">
+            the canonical decrees in c. denique,
+            14,
+            q. 5
+          </ref>.
+          where 
+          <name xml:id="lca8s8-d1e460-Nd1e819">Ambrose</name> says:
+          <quote xml:id="lca8s8-d1e460-Qd1e821">
+            finally,
+            if one person cannot be helped unless another is harmed:
+            it is more fitting that neither be helped than that one be burdened
+          </quote>,
+          and so on.
+          Where 
+          <ref xml:id="lca8s8-d1e460-Rd1e830">
+            <name xml:id="lca8s8-d1e460-Nd1e831">the Archdeacon</name>
+          </ref> says.
+          and in 
+          <ref xml:id="lca8s8-d1e460-Rd1e838">
+            c. ipsa pietas,
+            23,
+            q. 4
+          </ref>.
+          that no one should grant aid to another from which directly and necessarily follows harm to another:
+          and rightly,
+          because no one should be provided for with another's loss or injury,
+          as in 
+          <ref xml:id="lca8s8-d1e460-Rd1e851">c. primum</ref> there 
+          <quote xml:id="lca8s8-d1e460-Qd1e854">
+            one must not lie in the third manner
+          </quote>
+          and so on 
+          <ref xml:id="lca8s8-d1e460-Rd1e859">22, q. 2</ref>.
+          and 
+          <ref xml:id="lca8s8-d1e460-Rd1e862">11, q. 3, si quis vero</ref>.
+          And in the rule 
+          <ref xml:id="lca8s8-d1e460-Rd1e864">
+            no one should be enriched with another's
+          </ref>
+          and so on.
+          And 
+          <ref xml:id="lca8s8-d1e460-Rd1e872">l. jure nature, ff. de regu. jur</ref>.
+          where the text says 
+          <quote xml:id="lca8s8-d1e460-Qd1e876">
+            by natural law it is equitable that no one be made richer with another's detriment and injury
+          </quote>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

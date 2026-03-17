@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 26 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 26 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-24">Apr 24, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="118-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e381">
+        <head xml:id="lca8s8-d1e381-Hd1e97">Chapter 26 [Bnf 12926 Transcription - English Translation]</head>
+        <p xml:id="lca8s8-d1e381-d1e99">
+          Chapter 26.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e104">
+          ¶ The above is in no way contradicted by the fact that the Church is bound to preach the gospel to all nations: 
+          and that therefore we can compel them to hear the evangelical truth. 
+          Indeed,
+          <pb ed="#P" n="118-v"/>
+          I grant that the Church is bound to evangelize,
+          according to that in 
+          <ref xml:id="lca8s8-d1e381-Rd1e119">Mark at the end</ref> 
+          and 
+          <ref xml:id="lca8s8-d1e381-Rd1e121">Matthew at the end</ref>: 
+          <quote xml:id="lca8s8-d1e381-Qd1e123">
+            Going into all the world preach the gospel to every creature,
+            and going teach all nations
+          </quote> 
+          and so forth. 
+          And 
+          <ref xml:id="lca8s8-d1e381-Rd1e132">1 Corinthians 9</ref>. 
+          <quote xml:id="lca8s8-d1e381-Qd1e134">
+            For necessity is laid upon me;
+            woe to me if I do not evangelize
+          </quote>. 
+          These words are of precept and induce necessity,
+          as in 
+          <ref xml:id="lca8s8-d1e381-Rd1e144">c. quisquis. 14. q. 1</ref>. 
+          however it does not therefore follow
+          <add place="margin-left" hand="F">The faithful cannot be forced to hear the Gospel</add>
+          that we can compel unbelievers to hear the gospel,
+          which is proven by a fourfold argument.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e159">
+          First because
+          <note type="marginal-note" place="margin-left" hand="F">above reason</note> 
+          unbelievers cannot be forced to receive the faith:
+          much less will they be able to be forced to hear the evangelical words,
+          through which one comes to faith. 
+          For indeed:
+          if I cannot be forced to religion:
+          I will not even be able to be forced to hear the dogmas and traditions of religion. 
+          Nor does it stand in the way if someone 
+          <add place="margin-left" hand="B">signifies that</add> 
+          <quote xml:id="lca8s8-d1e381-Qd1e183">
+            faith comes from hearing:
+            but hearing through the word of Christ
+          </quote> 
+          <ref xml:id="lca8s8-d1e381-Rd1e188">Romans 10</ref>. 
+          For just as unbelievers are not forced to religion:
+          because they cannot be forced to it except by inflicting war which dragging with it whatever evils there are:
+          will rather generate hatred of our religion than an argument for the Catholic faith:
+          so also we cannot force unbelievers dwelling in their kingdoms to hear the gospel:
+          except through innumerable slaughters,
+          fires and devastations of cities:
+          and therefore it would be sacrilegious and foolish,
+          to wage war on unbelievers so that they hear the gospel:
+          when rather from this would arise hatred of religion than 
+          <pb ed="#P" n="119-r"/>
+          <seg>progress</seg> 
+          of faith
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e232">
+          ¶ Second since the Church always watches and is solicitous about the advantages of the Christian flock:
+          nor anywhere does it force unbelievers subject to it by law and in fact,
+          namely subjects of Christian princes such as Jews and Saracens,
+          to hear the word of God,
+          it necessarily follows:
+          that unbelievers neither subject by law nor in fact are not to be forced to hear the word of God.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e253">
+          ¶ Third,
+          Christ only commanded to preach the gospel throughout the whole world:
+          But where the gospel is preached the precept of Christ is considered fulfilled and those not willing to hear the preachers let them blame themselves:
+          and they will render account to God:
+          and then it will be permissible to use the counsel of the wise man 
+          <ref xml:id="lca8s8-d1e381-Rd1e268">Ecclesiasticus 32</ref>: 
+          <quote xml:id="lca8s8-d1e381-Qd1e270">
+            Where there is no hearing do not pour out speech
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e276">
+          ¶ Fourth. 
+          From the institution by which Christ first sent his disciples to evangelize it is clear expressly what ought to be done when unbelievers do not wish to hear the gospel. 
+          For we read 
+          <ref xml:id="lca8s8-d1e381-Rd1e287">Matthew chapter 10</ref>. 
+          and 
+          <ref xml:id="lca8s8-d1e381-Rd1e290">Mark chapter 6</ref>. 
+          <ref xml:id="lca8s8-d1e381-Rd1e292">
+            Luke indeed 10
+          </ref>. 
+          <quote xml:id="lca8s8-d1e381-Qd1e297">
+            But entering into a house greet it saying:
+            peace to this house. 
+            And if indeed that house is worthy your peace will come upon it,
+            but if it is not worthy your peace will return to you,
+            and whoever does not receive you nor hear your words:
+            going out from the house or city shake off the dust from your feet. 
+            Amen I say to you it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment:
+            <pb ed="#P" n="119-v"/>
+            than for that city
+          </quote>. 
+          These things there.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e324">
+          Behold Christ did not teach that those not willing to hear the gospel are to be forced or punished,
+          but he will reserve punishment for them for the day of judgment:
+          just as he will also reserve punishment for those not willing to believe according to that 
+          <ref xml:id="lca8s8-d1e381-Rd1e337">Matthew <choice><sic>10</sic><corr>11</corr></choice></ref>. 
+          And 
+          <ref xml:id="lca8s8-d1e381-Rd1e343">Luke 10</ref>: 
+          <quote xml:id="lca8s8-d1e381-Qd1e345">
+            Then he began to upbraid the cities in which many of his mighty works had been done because they had not done penance. 
+            Woe to you Chorazin:
+            woe to you Bethsaida:
+            because if in Tyre and Sidon the mighty works had been done which were done in you:
+            long ago in sackcloth and ashes they would have done penance. 
+            But truly I say to you.
+            it will be more tolerable for Tyre and Sidon in the day of judgment than for you. 
+            And you,
+            Capernaum
+          </quote> 
+          and so forth, 
+          <quote xml:id="lca8s8-d1e381-Qd1e367">
+            because if in Sodom
+          </quote>, 
+          and so forth. 
+          <quote xml:id="lca8s8-d1e381-Qd1e372">
+            But truly I say to you that it will be more tolerable for the land of Sodom in the day of judgment than for you
+          </quote>. 
+          And according to 
+          <ref xml:id="lca8s8-d1e381-Rd1e379">
+            Mark the last chapter
+          </ref>. 
+          <quote xml:id="lca8s8-d1e381-Qd1e385">
+            but whoever does not believe,
+            will be condemned
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e391">
+          Therefore just as the Church punishing unbelievers not willing to receive the gospel would usurp the right which the Lord reserves to himself:
+          so also it would be said to usurp if it forced unbelievers to hear the gospel. 
+          For the reasoning is equal in both cases:
+          because namely the Lord Christ reserved for himself to inflict the punishment of both offenses for the day of judgment. 
+          Which 
+          <ref xml:id="lca8s8-d1e381-Rd1e410">
+            St. Thomas expressly teaches in the treatise against those attacking religion. 
+            chapter 15,
+            to the 4th argument
+          </ref>: 
+          upon that
+          <pb ed="#P" n="120-r"/>
+          passage:
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e422">
+          <add place="margin-right" hand="F">St. Thomas</add>
+          <quote xml:id="lca8s8-d1e381-Qd1e427">
+            shake off the dust. 
+            where he thus says to the 4th.
+            it must be said that the Lord commanded that the apostles shake their feet from the dust in testimony of them,
+            that they do not receive. 
+            Whence 
+            <ref xml:id="lca8s8-d1e381-Rd1e435">
+              Mark
+            </ref> 
+            6. 
+            it is said:
+            shake off the dust from your feet in testimony to them. 
+            <add place="margin-right" hand="F">
+              from St. Thomas it is proven that unbelievers are not to be forced to hear preachers
+            </add>
+            Whence upon that 
+            <ref xml:id="lca8s8-d1e381-Rd1e449">
+              Luke 10. shake off the dust
+            </ref> 
+            the gloss says:
+            for attestation of the earthly labor which they undertook for them in vain. 
+            And this testimony is ordained to the divine judgment. 
+            Whence follows 
+            <ref xml:id="lca8s8-d1e381-Rd1e460">Matthew 10</ref>. 
+            amen I say to you it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment:
+            than for that city. 
+            Therefore the Lord commands his disciples that not received they should withdraw:
+            who are reserved for their crimes for the final judgment:
+            as are the unbelievers of whom it is said 
+            <ref xml:id="lca8s8-d1e381-Rd1e477">1 Corinthians 5</ref>. 
+            those who are outside God will judge. 
+            But concerning those who are inside namely the faithful:
+            judgment is committed to the Church. 
+            Whence if anyone wishes to be received in the society of the faithful:
+            and they unjustly contradict:
+            a person ought not reserve this to the divine judgment:
+            but it should be brought to the judgment of the Church to be corrected
+          </quote>. 
+          these things St. Thomas in form.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e496">
+          Indeed since the words and actions of Christ ought to be examples for us:
+          I do not know what could be found more express or more certain:
+          than that by this institution of his own he taught that men are not to be forced to hear the gospel. 
+          But if this does not suffice attend to what in this case for the confirmation
+          <pb ed="#P" n="120-v"/>
+          of the truth of this:
+          Christ did and said:
+          <ref xml:id="lca8s8-d1e381-Rd1e518">
+            Luke 9. 
+            Where John and James seeing the people of the Samaritans not willing to receive Christ wishing to enter said to him
+          </ref>: 
+          <quote xml:id="lca8s8-d1e381-Qd1e525">
+            Lord do you want us to command fire to descend from heaven which may consume them
+          </quote>? 
+          But Christ 
+          <quote xml:id="lca8s8-d1e381-Qd1e534">
+            turning rebuked them saying. 
+            You know not of what spirit you are the son of man came not to destroy souls:
+            but to save
+          </quote>: 
+          as if he said 
+          <quote xml:id="lca8s8-d1e381-Qd1e544">
+            it is not a good spirit which dictates this to you,
+            and it follows:
+            and they went into another village
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e553">
+          But that people who then did not wish to receive Christ:
+          first embraced the evangelical truth through the Samaritan woman according to 
+          <ref xml:id="lca8s8-d1e381-Rd1e567">the gloss there</ref>. 
+          And 
+          <ref xml:id="lca8s8-d1e381-Rd1e569">
+            John chapter 4
+          </ref> 
+          teaches beautifully. 
+          Which also 
+          <ref xml:id="lca8s8-d1e381-Rd1e574">
+            <name xml:id="lca8s8-d1e381-Nd1e575">Bede</name>
+          </ref> 
+          and 
+          <ref xml:id="lca8s8-d1e381-Rd1e577">
+            <name xml:id="lca8s8-d1e381-Nd1e578">Ambrose</name>
+          </ref> 
+          note upon that place:
+          and is read in 
+          <ref xml:id="lca8s8-d1e381-Rd1e582">
+            the ordinary gloss
+          </ref>: 
+          Finally the Samaritans believed more quickly from whom fire is kept back in this place. 
+          This gloss. 
+          And 
+          <ref xml:id="lca8s8-d1e381-Rd1e592">
+            Gratian recounts 23. q. 4. c. that Christ rebuked his disciples and so forth
+          </ref>.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e600">
+          Behold Christ taught by word and deed that unbelievers are not to be forced to hear the Gospel. 
+          But if they do not wish to hear we must go into another place until we find well-disposed listeners. 
+          But we are bound to hear that is to imitate Christ by the command of the eternal teacher according to that 
+          <ref xml:id="lca8s8-d1e381-Rd1e616">Matthew 17</ref>. 
+          <quote xml:id="lca8s8-d1e381-Qd1e618">
+            this is my beloved son in whom I am well pleased:
+            hear him
+          </quote>. 
+          For he has been given as leader and teacher of the
+          <pb ed="#P" n="121-r"/>
+          nations according to that 
+          <ref xml:id="lca8s8-d1e381-Rd1e629">Isaiah 55</ref>:
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e632">
+          Nor does it oppose if someone replies that unbelievers:
+          will never become Christians:
+          if they cannot be forced to hear the gospel to which we say it is not necessary for us to care for the salvation of men more diligently than Christ himself,
+          who poured out his precious blood for them,
+          according to that 
+          <ref xml:id="lca8s8-d1e381-Rd1e649">Matthew 10</ref>. 
+          <quote xml:id="lca8s8-d1e381-Qd1e651">
+            It is enough for the disciple that he be like his master
+          </quote>, 
+          and 
+          <ref xml:id="lca8s8-d1e381-Rd1e656">Luke 6</ref>, 
+          and 
+          <ref xml:id="lca8s8-d1e381-Rd1e661">John 13</ref>. 
+          <quote xml:id="lca8s8-d1e381-Qd1e664">
+            Everyone will be perfect if he is like his master
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e670">
+          Let us imitate the examples of Christ and the doctrine of Christ:
+          and of his apostles and let his image shine forth in our morals. 
+          Let us express:
+          in deeds our master and savior:
+          and then those who from paganism have been preordained to eternal life most willingly:
+          will run to the sheepfold of Christ:
+          to the city of God:
+          to the place outside which there is no salvation. 
+          But unbelievers who living as Christians and teaching them in the aforesaid manner have neglected to hear or convert it will be imputed to them not to us.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e696">
+          For I do not think there is any other reason why Saracens.
+          Turks and other unbelievers are unwilling to embrace our faith,
+          than because what we offer in words we deny in deed. 
+          Therefore it is not impossible for unbelievers to embrace the faith from the fact:
+          that it is not permissible to attack them with arms so that they hear the gospel. 
+          For the most efficacious remedy is that they see shining forth in our morals the Christian life. 
+          But to thrust forward the gospel
+          <pb ed="#P" n="121-v"/>
+          with armed forces:
+          is not a Christian example:
+          but a pretext for seizing the property of others:
+          and subjugating the provinces of others.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e727">
+          The best remedy,
+          so that these seditious and diabolical crimes might cease would be:
+          that from regions already pacified,
+          and in which some have embraced our faith:
+          legates should be sent from those newly converted in the name of certain pious and religious men to whom they are now devoted:
+          who would announce to the other peoples of that province:
+          with what counsel those pious men,
+          and far distant from the morals of other assassins have come into those provinces,
+          namely that they might announce to them the way of truth and the worship of the true God:
+          thus it has happened to us to bring very broad provinces to the faith. 
+          Then it would be useful to erect some fortress in a suitable place:
+          where the preachers with a garrison placed of good and proven men might have a seat. 
+          But for these garrison soldiers not longing for slaughters not for the riches of the Indians:
+          it would be necessary for the prince to grant an abundant stipend.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e774">
+          In this gentle and Christian manner without sedition and clash of arms,
+          by the word of Christ alone and by the convenience of arms / gentleness and services,
+          by which even wild beasts are tamed:
+          we have brought to the faith some Tecultanan provinces pertaining to the kingdom of Guatemala. 
+          For we sent to them some of the newly converted,
+          who both loved
+          <pb ed="#P" n="122-r"/>
+          and revered us. 
+          These explained to the others that we came to them by zeal for the house of God:
+          and so that they might awaken from the ignorance in which they had been held for so many centuries:
+          not so that we might despoil them of their own property and liberty as the other Spaniards were doing:
+          All natural things want to be directed sweetly to their end and thus the Lord moves them,
+          who 
+          <quote xml:id="lca8s8-d1e381-Qd1e812">disposes all things sweetly</quote>: 
+          <ref xml:id="lca8s8-d1e381-Rd1e814">Wisdom 8</ref>. 
+          This great gift was granted to me and my companions by Christ.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e821">
+          For we have claimed so many thousands of souls for their creator and savior without any tumult with all gentleness and benevolence:
+          and so our way of life pleased them:
+          that a region a little before indignant,
+          and which pursued ours with capital hatred because of the immense evils which they had often inflicted on them:
+          having laid aside 
+          <seg>ferocity</seg>: 
+          was rendered most peaceful:
+          so that by the command of our most invincible prince 
+          <name xml:id="lca8s8-d1e381-Nd1e850">Philip son of Charles</name> 
+          that 
+          <name xml:id="lca8s8-d1e381-Nd1e854">great Caesar</name> 
+          those provinces were called the provinces of true peace.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e859">
+          Nor do I doubt that Christ by this work which through us the weakest of all he deigned to accomplish:
+          wished to show how preposterously the Gospel had previously been preached to those peoples:
+          how much the slaughters and fires committed by the most impious men on those miserable peoples differed from his teaching:
+          and in what manner the gospel ought henceforth to be preached to them.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e879">
+          But whoever evangelizing in this manner to impose the sweet
+          <pb ed="#P" n="122-v"/>
+          yoke of Christ sweetly on the peoples has not succeeded:
+          has sufficiently fulfilled the precept of Christ,
+          who has followed his institution and example. 
+          But preaching the gospel otherwise namely with arms,
+          has already departed from the teaching of Christ nor will he be able to be excused before him in any way.
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e898">
+          For evil things are not to be done that good things may come 
+          <ref xml:id="lca8s8-d1e381-Rd1e902">
+            Romans 3
+          </ref>. 
+          nor under pretext of piety is impiety to be committed as in 
+          <ref xml:id="lca8s8-d1e381-Rd1e909">c. non est putanda, 1. q. 1</ref>. 
+          and in 
+          <ref xml:id="lca8s8-d1e381-Rd1e914">c. ad apostolicam. de simonia</ref>. 
+          So most aptly 
+          <ref xml:id="lca8s8-d1e381-Rd1e918">
+            <name xml:id="lca8s8-d1e381-Nd1e919">Saint Augustine</name> 
+            in the book on lying
+          </ref>, 
+          and is read. 
+          <ref xml:id="lca8s8-d1e381-Rd1e924" target="http://scta.info/resource/gd-p2c22q2-d1e360">
+            22: q. 2, in c. faciat homo
+          </ref> 
+          (he says) 
+          <quote xml:id="lca8s8-d1e381-Qd1e930">
+            let a man do even for the temporal salvation of men what he can. 
+            But when it has come to this that he cannot consult for such salvation except by sinning:
+            now let him consider himself not to have what he may do since that remains which he has foreseen that he may do rightly
+          </quote>. 
+          These things
+          <name xml:id="lca8s8-d1e381-Nd1e943">
+            Augustine
+          </name>,
+        </p>
+        <p xml:id="lca8s8-d1e381-d1e946">
+          From these things it is established that war is not to be waged on the Indians under pretext that they hear the preaching of Christ even if they kill the preachers:
+          because they do not kill the preachers,
+          as preachers:
+          nor Christians as Christians but as public enemies most truculent to them:
+          lest they be oppressed or slaughtered by them,
+          they kill. 
+          Therefore let them fear God the avenger of perverse undertakings:
+          who under pretext of propagating the faith:
+          invade seize and hold the possessions of others with armed forces.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

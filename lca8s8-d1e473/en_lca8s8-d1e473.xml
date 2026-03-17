@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 33 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+            <resp>Transcription Editor</resp>
+            <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 33 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-05-15">May 15, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a 
+          diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="144-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e473">
+        <head xml:id="lca8s8-d1e473-Hd1e97">Chapter 33</head>
+        
+        <p xml:id="lca8s8-d1e473-d1e99">
+          Chapter 33
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e104">
+          <pc type="pilcrow"/> Since therefore through the tumult of wars the innocent cannot be 
+          distinguished from their oppressors,
+          when nevertheless it is well known that there are innumerable innocent persons,
+          both on account of the immense multitude of mortals and on account of the fury of war and 
+          seditious tumult,
+          in which a son does not respect his father,
+          nor does a father show mercy to his son,
+          to say nothing meanwhile of the greed for plunder or the shameless and cruel license of the 
+          invaders for perpetrating evil.
+          <pb ed="#P" n="145-r"/>
+          Then finally there is the confusion and terror of those invaded,
+          and the fact that many who seem evil are not evil;
+          and in a doubtful matter,
+          as Chrysostom said,
+          it is more just for the unjust to escape justly than for the just or innocent insofar as they are 
+          such to perish unjustly;
+          whence according to him the first is according to justice,
+          but the second is unjust.
+          Similarly it is more holy to leave the crime of a guilty person unpunished than to condemn an 
+          innocent person.
+          Moreover,
+          we ought not to help one person with injury or harm to another,
+          etc.
+          For which reasons indeed the human laws,
+          both canonical and civil,
+          seem to conform to Christ's prohibition;
+          it follows that by natural and divine law and also by human laws it is forbidden that in a case 
+          where there is no other remedy except through war we cannot meet the disadvantages of such 
+          innocent persons,
+          we are bound by natural,
+          human,
+          and divine precept to tolerate and overlook those things,
+          lest infinitely many perish cruelly forever,
+          who if drawn by gentle and moderate arguments to the yoke of Christ might perhaps obtain 
+          salvation from the corruption of the weeds into healthful wheat.
+          All of which Chrysostom comprehends in his homily 47 on Matthew,
+          where he also asserts that heretics are not to be killed in these words:
+          "But the Lord forbids lest perhaps together with the weeds they also pull up the grain of wheat,"
+          which he said in order to prohibit wars and the shedding of blood.
+          For if the wicked were slaughtered without a treaty of peace and truce,
+          <pb ed="#P" n="145-v"/>
+          war would be brought upon the world.
+          Therefore he prohibited it for two reasons:
+          one,
+          because they would harm the grain little;
+          the other,
+          because unless they were healed,
+          they would not escape extreme punishments.
+          Wherefore,
+          even if you wish to punish them and not at all harm the grain,
+          you must wait for the opportune time.
+          But what if you will uproot the grain along with them?
+          Certainly either because if you take up arms (he says),
+          it is necessary that when you slaughter heretics,
+          you simultaneously kill many of the saints,
+          or because many changed from those very weeds would convert themselves into the condition of 
+          wheat.
+          If therefore you pluck them up prematurely,
+          those grains will perish that would come from the changed weeds.
+          All these things Chrysostom says explicitly.
+          You see therefore that divine and human decrees and natural reason itself support this sentence 
+          full of equity and Christian moderation.
+          Therefore let us recognize that it is iniquitous and impious to attack the Indians with war for 
+          such causes.
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e258">
+          <pc type="pilcrow"/> A fourth reason can be added to prove this through the analogy of the 
+          punishment of crimes.
+          For to punish crimes is not an act of justice except insofar as the offender is brought to a 
+          better mind by the punishment or the peace and quiet of the republic is restored.
+          For indeed if the punishment of a crime or the remedy that is assumed to prevent crimes produces 
+          greater crimes either in quality or in number,
+          or the whole republic is destroyed,
+          it is a vice to punish crimes,
+          not a virtue nor an act of justice.
+          This is proved from Augustine in the second letter to Macedonius and is read in c. Prodest,
+          23,
+          q. 5,
+          where he says:
+          "Whether by punishing or by pardoning,
+          this alone is done well,
+          that the life of men may be corrected."
+          These are his words.
+          For in this life punishment is not inflicted so that it may be punishment,
+          for this is not the place of full retribution;
+          therefore punishment in this life is imposed as medicine,
+          not as punishment.
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e305">
+          Again it is proved because punishment or the prevention of crimes is also assumed like a certain 
+          medicine or remedy for disease.
+          But a medicine,
+          if it increases the disease of the body,
+          is poison rather than medicine.
+          For what if,
+          in order to heal the foot,
+          you harm the eyes?
+          Would he be the best physician who,
+          in order to treat a finger,
+          cuts off the hand?
+          Medicine sometimes harms lesser parts in order to bring health to the principal ones,
+          but not the reverse.
+          So if the punishment of a crime or the prevention of crimes increases crimes either directly or by 
+          occasion,
+          it would be a crime to punish crimes or to wish to prevent them,
+          and it would be contrary to all virtue.
+          Which Augustine asserts in book 2 against the letter of Parmenian,
+          which is read in c. non potest,
+          23,
+          q. 4:
+          "Indeed (he says),
+          <pb ed="#P" n="146-v"/>
+          when the contagion of sinning has invaded the multitude,
+          the severe mercy of divine discipline is necessary.
+          For counsels of separation,
+          namely through death or excommunication,
+          are vain and pernicious and sacrilegious because they are impious and proud,
+          and they disturb the weak good more than they correct the bold wicked."
+          These are his words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e365">
+          Where Augustine sufficiently criticizes untimely punishment or the remedy that is assumed for 
+          healing evils,
+          calling it sacrilegious,
+          pernicious,
+          impious,
+          and proud,
+          from which greater evils are born than those it is intended to avoid.
+          Again the same Augustine in the letter to Macedonius cited above and read in the same causa and 
+          quaestio in the decrees:
+          "But truly (he says),
+          in such cases where through grave schisms of dissension not the danger of this or that man but the 
+          slaughter of peoples lies at stake,
+          something must be taken away from severity so that sincere charity may come to the aid of healing 
+          greater evils,"
+          etc.
+          These are Augustine's words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e400">
+          His words must be noted because he speaks about subjects of the Church who can be punished by it.
+          Therefore punishment is not to be done or a remedy to be attempted when,
+          for the punishment or remedy of that very crime,
+          many would have to be killed.
+          Now by law many are said to be more than forty,
+          as in c. latores de clerico excommunicato vel deposito ministrante and de testibus,
+          c. cum causam and c. significauerunt,
+          and there the gloss and doctors note that the matter about which it is being discussed must be 
+          examined so that we may judge who are many or few.
+          But what if not forty or fifty men but innumerable thousands of men are endangered,
+          among whom almost all are innocent and free from the crimes mentioned above?
+          Would not then such a warlike prohibition be impious?
+          <pb ed="#P" n="147-r"/>
+          Third,
+          the same is proved because the punishment of crimes or forcible prohibition is also remitted by 
+          civil law by reason of multitude,
+          as in the said c. latores and in c. 2 de temporibus ordinationum and 1,
+          q. 7,
+          c. quotiens,
+          column 2,
+          where it is said:
+          "As often as a sin is committed by the people or by a crowd (because vengeance cannot be taken 
+          against all on account of their multitude),
+          it usually goes unpunished."
+          And 9,
+          q. 1,
+          c. ordinationes and 10 distinctio,
+          c. ut constituerentur and 44 distinctio,
+          c. comensationes and 4 distinctio,
+          c. denique and there extensively the glosses and doctors.
+          Hence arose that little verse:
+          "On account of a great people,
+          the crime passes unpunished."
+          But if a sinning multitude is spared,
+          much more will they be spared in our case,
+          where many thousands of men never offended or merited punishment,
+          who will necessarily perish and be involved in destruction together with a few guilty persons.
+          To these applies what Chrysostom writes on Matthew,
+          chapter 1,
+          homily 1:
+          "Whatever is sinned by many usually remains unpunished."
+          These are his words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e493">
+          So also for the same reason the crime of one who is powerful and has very many defenders ought not 
+          to be punished or prevented,
+          so that his crime cannot be punished or prevented without the death of very many who,
+          gathered together as one,
+          will defend him,
+          for instance if he is a prince.
+          So teaches Saint Augustine in book 2 against the letter of Parmenian:
+          "Correction by many cannot be salutary except when the one who is corrected does not have the 
+          multitude as his ally.
+          <pb ed="#P" n="147-v"/>
+          But when the same disease has seized very many,
+          nothing else remains for the good but sorrow and groaning,"
+          etc.
+          23,
+          q. 4,
+          c. non potest.
+          Likewise in the same book:
+          "When anyone's crime is known and appears execrable to all,
+          so that he has either no defenders at all or not such ones through whom a schism can occur,
+          the severity of discipline should not sleep."
+          Therefore where such defenders are present,
+          the severity of discipline ought to sleep.
+          And a little above Augustine says:
+          "Let this be done where there is no danger of schism,"
+          etc.
+          In that causa and quaestio,
+          c. cum quis.
+          Hence it happens that the sin of a prince is punished by chastising the people or his kingdom,
+          who never sinned,
+          chastising (I say) with the punishment of loss,
+          as we touched upon above.
+          And this is clear in c. non est nobis de sponsalibus.
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e555">
+          In sum,
+          this is the common opinion both of theologians and of jurists,
+          that punishment is not to be imposed or correction made,
+          or some good work done in itself,
+          when it is feared that sedition or some great scandal will arise.
+          But scandal,
+          omitting the magisterial definition,
+          is said to occur when suddenly a tumult,
+          sedition,
+          or war arises among some,
+          <pb ed="#P" n="148-r"/>
+          according to Dominicus in c. licet,
+          45 distinctio,
+          and in c. 1 de officio legati,
+          book 6,
+          and the Cardinal after Paul in the Clementines 1,
+          column 2,
+          de officio ordinari.
+          Scandal is also said to be whatever impedes a pious work,
+          according to that passage in Matthew 16 where Christ said to Peter,
+          who was trying to call him back from death:
+          "You are a scandal to me."
+          Therefore all pious works,
+          except those that are necessary for salvation,
+          such as baptism and similar things,
+          it is not a sin to omit if scandal is expected therefrom.
+          Indeed,
+          not to omit them for the place and time would be a sin.
+          And this is so true that all punishments imposed by the pope,
+          even excommunication or any other greater spiritual punishment,
+          can be overlooked,
+          and we would be bound by divine law if from the observance of the papal precept,
+          to whose transgressors excommunication is imposed,
+          sedition or tumult or war or other atrocious evils can arise.
+          So teaches Innocent in c. inquisitione de sententia excommunicationis,
+          doctors in c. si quando de rescriptis,
+          all more extensively Felinus there.
+          And generally,
+          to avoid scandal it is licit to transgress all laws,
+          <ref xml:id="lca8s8-d1e473-Rd1e649" target="http://scta.info/resource/nqqq3t-d1e874-d1e1167@54-69">
+            <name xml:id="lca8s8-d1e473-Nd1e650">according to Philip Probus</name>
+              in the additions to the gloss of John the Monk in c. licet,
+              column 3,
+              book 6
+          </ref>.
+          And lest scandal arise,
+          a generally imposed punishment must be omitted according to the doctors in c. nisi cum pridem,
+          § pro graui scandalo de renuntiatione,
+          and 
+          <pb ed="#P" n="148-v"/>
+          in the rule qui scandalizauerit de regulis Iuris;
+          <ref xml:id="lca8s8-d1e473-Rd1e669" corresp="#lca8s8-d1e473-Qd1e678">
+            <name xml:id="lca8s8-d1e473-Nd1e647">Hostiensis</name>
+              in the summa,
+              title de renuntiatione § cum si renunciatur,
+              briefly however
+          </ref>,
+          where he says:
+          <quote xml:id="lca8s8-d1e473-Qd1e678" source="http://scta.info/resource/nbht7y-d1e149-d1e1284@125-157">
+            "But if one who avoids does not sin mortally,
+            scandal must always be avoided in avoiding,
+            as is proved below,
+            Nisi cum pridem and de noui operis nunciatione,
+            Cum ex iniuncto,
+            § super eo
+          </quote>.
+          These are Hostiensis's words.
+          Therefore let us admit both the little verse which 
+          <ref xml:id="lca8s8-d1e473-Rd1e691">the gloss</ref>
+          cites in 
+          <ref xml:id="lca8s8-d1e473-Rd1e697" target="http://scta.info/resource/cice-l5t41-d1e149">
+            the said c. qui scandalizauerit
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e473-Rd1e700" target="http://scta.info/resource/nbht7y-d1e149-d1e1070@615-626">
+            Hostiensis where cited above
+          </ref>:
+          <quote xml:id="lca8s8-d1e473-Qd1e705">
+            "It is true of the teaching of life and justice:
+            I always hold the first,
+            I leave two on account of scandal.
+            And then it is rightly said:
+            It is more useful that discipline be omitted than that scandal be allowed to arise
+          </quote>.
+          To this opinion 
+          <ref xml:id="lca8s8-d1e473-Rd1e720" corresp="#lca8s8-d1e473-Qd1e736">
+            Saint Thomas agrees in 2a 2ae q. 43,
+            article 7,
+            ad 1
+          </ref>;
+          and 
+          <ref xml:id="lca8s8-d1e473-Rd1e725" target="http://scta.info/resource/TAca84-d1e1613-d1e1287">
+            q. 66,
+            article 6,
+            ad 2
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e473-Rd1e731" target="http://scta.info/resource/TAca84-d1e1623-d1e236">
+            q. 68,
+            article 1 in the body
+          </ref>
+          and in other parts where he says that 
+          <quote xml:id="lca8s8-d1e473-Qd1e736" source="http://scta.info/resource/TAca84-d1e1494-d1e1692@6-51">
+            "the infliction of punishments is not to be desired for its own sake,
+            but punishments are inflicted as medicines to restrain sins,
+            and therefore they have the character of justice insofar as sins are restrained through them.
+            But if through the infliction of punishments it is manifest that many and greater sins follow,
+            then the infliction of punishments will not be contained under justice
+          </quote>.
+          These are Saint Thomas's words formally.
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e706">
+          And this is so true that even if to kill a tyrant who is the plague of the republic is a pious 
+          work and worthy of reward,
+          nevertheless this does not hold when from his death sedition or tumult producing great evils for 
+          the republic will arise.
+          <pb ed="#P" n="149-r"/>
+          For then it is unjust to kill the tyrant,
+          but groaning will console the patient.
+          So also teaches the same Saint Thomas in 2a 2ae,
+          q. 42,
+          article 2,
+          ad 3,
+          and more fully in book 1 of On the Government of Princes.
+          So also,
+          although an unjust law does not have the force of law (according to Augustine in book 1 of On Free 
+          Choice) nor does it bind in conscience,
+          nevertheless lest scandal or sedition arise,
+          subjects are bound to observe it at least as to external acts,
+          according to Saint Thomas in 1a 2ae,
+          q. 96,
+          article 4,
+          in the body.
+          <pc type="pilcrow"/> But that greater,
+          indeed the greatest evils will arise if war is waged to prevent the innocent from being 
+          sacrificed and eaten has already been sufficiently proved above,
+          and truly the war would be most impious;
+          which we do not hesitate to show more clearly.
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e759">
+          <pc type="pilcrow"/> Let us suppose that it comes to the notice of the Spaniards that the Indians 
+          or other pagans eat human flesh or sacrifice human victims.
+          Let us suppose moreover that the Spaniards are so well-behaved and upright that nothing else moves 
+          them except the liberation of the innocent and the amendment of the guilty.
+          Would it be just to invade and punish them without any warning?
+          You will say no,
+          but they will send ambassadors to them who will warn them to abstain from these crimes.
+          I ask you,
+          reader,
+          in what language will the ambassadors speak,
+          Latin or Greek,
+          or rather Spanish or Arabic,
+          so that they may be understood by the Indians,
+          <pb ed="#P" n="149-v"/>
+          who understand none of these?
+          Unless perhaps we believe that the soldiers will be so holy from God that Christ will grant them 
+          the gift of tongues so that they may be understood by the Indians.
+          Then what period will be assigned to them so that they may repent and abstain from those crimes?
+          For a long time is required so that they may understand what is being said to them,
+          and by what authority,
+          for what reasons,
+          and why it is commanded to them that they abstain from the sacrifice of men,
+          so that it becomes evident that such evils are contrary to the law of nature.
+          Moreover,
+          within that period to be assigned to them,
+          which must be long,
+          certainly the warning does not bind them nor do they incur contempt.
+          For a warning does not bind except when the period has passed.
+          Similarly,
+          a law,
+          constitution,
+          or precept does not bind anyone unless the words of the language in which it is proposed are 
+          distinctly understood,
+          as the jurist doctors treat.
+          And it suffices to cite Felinus,
+          who accumulates many things in the rubric de constitutionibus,
+          column 4,
+          and more extensively Gometius on the rules of the chancery in the rule de idiomate,
+          page 231 with following pages.
+          Immediately I ask,
+          while all that time assigned to the Indians to repent has passed,
+          what will the soldiers do?
+          Will they be at leisure,
+          perhaps in fasting and prayers,
+          just as the forty monks did who were sent by blessed Gregory to convert the English,
+          so that the Lord 
+          <pb ed="#P" n="150-r"/>
+          might deign to open the eyes of the Indians so that,
+          receiving the truth,
+          they might abstain from such crimes?
+          Or rather will they desire with their whole heart and whole mind that they be so blinded that they 
+          neither see nor hear,
+          so that they may obtain the much-desired opportunity for plundering and capturing them?
+          He is utterly ignorant of military dispositions who foolishly or most vainly suspects these 
+          things.
+          Indeed,
+          they will desire with all their vows that the Indians either not understand the warning or utterly 
+          reject it,
+          so that,
+          having their wish,
+          they may rage against them with sword,
+          flames,
+          and all the disadvantages of extreme war,
+          so that with the blood of innumerable men shed they may acquire wealth for themselves and lead the 
+          survivors into servitude,
+          contrary to the Lord's precept and the rule of charity by which they were bound to pour out their 
+          property and life for the salvation of their neighbors.
+          Indeed,
+          even if Caesar himself were present,
+          they would not abstain from plundering and slaughter for even two days,
+          especially if the matter seemed to tend toward famine.
+          Furthermore,
+          I have ascertained that several of our soldiers wounded with drawn swords Indians coming to the 
+          Spanish camps loaded with chickens,
+          apples,
+          and all kinds of food,
+          so that they might render and display every service to the Spaniards,
+          and returning to the camps they told that they had encountered those Indians armed,
+          and to give credence to this they themselves feigned that some arrows had been shot from bows,
+          and then under this pretext,
+          having made an assault on the most innocent peoples who were thinking nothing of the sort,
+          <pb ed="#P" n="150-v"/>
+          they either slaughtered them or led them into servitude.
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e950">
+          <pc type="pilcrow"/> Moreover,
+          let us suppose that the Indians suffer nothing of this sort and after a long time,
+          or briefly,
+          understand the warnings of the Spaniards.
+          What if they respond that they do not kill innocents either for eating their flesh or for 
+          sacrificing,
+          but only those whom they condemned to death for crimes,
+          or captured in just war,
+          or who died naturally?
+          And therefore that they do no injury to any innocent person,
+          but rather to themselves when they eat human flesh according to their custom?
+          Will not in this case the reason for freeing innocents from unjust death cease?
+          And therefore there is nothing that Christians can object to them.
+          For a case can be given in which it is licit to eat human flesh,
+          namely on account of necessity and extreme famine.
+          For then it is licit without sin to eat one who died of hunger or was condemned to death.
+          For to eat human flesh,
+          which is a certain savage and bestial thing according to Aristotle in book 7 of the Ethics,
+          is contrary to the law of nature for two reasons.
+          First,
+          if innocents are killed for eating their flesh.
+          Then because to eat human flesh is savage;
+          indeed,
+          rare are the beasts that eat the corpses of their own kind.
+          When however human flesh is eaten out of necessity and innocents are not killed,
+          but the corpses of the dead or of criminals,
+          then certainly nothing is done contrary to the law of nature nor is any sin committed.
+          <pb ed="#P" n="151-r"/>
+          <ref>
+            Augustine narrates a case of this kind in the City of God,
+            book 22,
+            chapter 20
+          </ref>:
+          <quote source="http://scta.info/resource/adcd-l22-d1e3751@29-52">
+            "For if someone worn out and compelled by hunger eats human corpses,
+            which evil has sometimes happened,
+            as ancient history testifies and the unfortunate experiences of our times have taught
+          </quote>.
+          These are his words.
+          Where he relates the history narrated in the fourth book of Kings,
+          chapter 6,
+          namely that two women ate the son of one of them in the city of Samaria when the city was pressed 
+          by siege by the army of the Assyrians.
+          For they sinned because they killed an innocent;
+          but if their sons had died naturally and they were suffering extreme famine,
+          they would not sin at all by eating the flesh of the dead son.
+          So the Spaniards ate the liver of a dead companion.
+          For certain Spaniards returning to the island of Cuba from the newly discovered Yucatan descended 
+          from ships into certain mountains with no provisions,
+          and when a certain Biuerus by name,
+          very well known to me,
+          was dying of hunger,
+          his companions,
+          lest they suffer the same fortune,
+          ate his liver.
+          The same thing happened at Numantia,
+          a very famous city of the Spanish lands.
+          For the Numantines,
+          besieged by Scipio,
+          when they were pressed by extreme famine,
+          ate human corpses,
+          which the Bishop of Gerona relates in the Paralipomena of Spain,
+          book 7,
+          in these words:
+          "And so the Numantines,
+          thus besieged and driven by hunger to the point of eating human flesh at last,
+          finally offered surrender to Scipio if he should command tolerable and humane things."
+          These are his words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e1096">
+          If therefore the infidels responded that they eat such men,
+          <pb ed="#P" n="151-v"/>
+          namely the dead or those who should be killed by right,
+          but do not slaughter innocents,
+          when the matter could be fully known,
+          especially if the prince himself,
+          whose word is by law presumed to be true,
+          says so.
+          But if war were waged against them before full and certain knowledge of the matter,
+          would not the war be unjust?
+        </p>
+        
+        <p xml:id="lca8s8-d1e473-d1e1116">
+          Then let us suppose that it is true and known that of their own accord and solely from a savage 
+          vice they feed on the corpses of men,
+          either those who died a natural death or were killed for their crimes or even captured in war 
+          (which without doubt is the vice of bestiality and thus a sin).
+          I ask whether solely for this cause war can be justly waged against them?
+          Certainly not even then can we attack them with war for whatever crime they commit,
+          even idolatry,
+          as we proved above with ten reasons.
+          For there is no judge or prince in the world who could punish such crimes except their own 
+          princes,
+          judges,
+          and kings.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

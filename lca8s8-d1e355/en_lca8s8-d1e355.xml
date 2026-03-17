@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 24 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 24 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-17">Apr 17, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="109-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e355">
+        <head xml:id="lca8s8-d1e355-Hd1e97">Chapter 24 [Bnf 12926 Transcription - English Translation]</head>
+        
+        <p xml:id="lca8s8-d1e355-d1e99">
+          Chapter 24.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e104">
+          Third, 
+          <name xml:id="lca8s8-d1e355-Nd1e108">Augustine of Ancona</name> 
+          argues that infidels are judged and condemned by the Church. 
+          Indeed if he understands that the crimes of infidels are punished by the Church with 
+          contentious jurisdiction: 
+          he is manifestly in error as is clear from what has been said above. 
+          But if he understands that the Church judges and condemns pagans with Catholic judgment 
+          insofar as it judges by the certainty of faith which it has that they are to be consigned 
+          to eternal fire: 
+          we do not deny this. 
+          For outside the Church there is no salvation. 
+          As <ref xml:id="lca8s8-d1e355-Rd1e132">24. q. 1, c. alienus</ref>.
+          For it does not judge or condemn them with the judgment of contentious jurisdiction, 
+          so that it punishes them for crimes outside the six cases, 
+          which we have already begun to enumerate. 
+          We confess that if they should awaken, 
+          they can be absolved from sins by the Church through the power of the keys.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e148">
+          That Augustine adds that the Church has judicial power over infidels: 
+          understood absolutely and generally this is false, 
+          as has been proven very often above. 
+          For it is necessary to distinguish whether infidels are subject to Christian princes, 
+          and what crimes they commit: 
+          and whether they are Jews: 
+          or Saracens or heretics or schismatics or infidels, 
+          who possess provinces which formerly belonged to the Christian Church. 
+          Whether they harm the Christian people with incursions. 
+          For these cases must be distinguished as is sufficiently clear from 
+          <ref xml:id="lca8s8-d1e355-Rd1e184"><name xml:id="lca8s8-d1e355-Nd1e185">Augustine</name> 
+            in his book <title>On the True Religion</title></ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-Qd1e192">
+          <quote xml:id="lca8s8-d1e355-Qd1e192">This Catholic Church, 
+            he says, 
+            widely and broadly spread throughout the whole world uses all who err for her advancement 
+            and for their correction when they have been willing to awaken. 
+            For she uses the Gentiles as matter for her work: 
+            heretics for the proof of her doctrine: 
+            schismatics for the evidence of her stability: 
+            Jews for comparison of her beauty. 
+            Therefore she invites some: 
+            she excludes some: 
+            she shuts out others: 
+            yet to all she gives the power of participating in the grace of God whether they are still 
+            to be formed: 
+            or to be reformed or to be gathered again, 
+            or to be admitted, etc.</quote>
+          Thus Augustine.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e227">
+          By relating these words individually: 
+          they comprehend all the cases touched upon above: 
+          For those words <quote xml:id="lca8s8-d1e355-Qd1e235">for the matter of her work</quote>: 
+          refer to the Gentiles: 
+          to whom the word of God is to be preached by the Church. 
+          For this is the proper office of the Church. 
+          Again that word "invites" more clearly signifies that the Church does not compel: 
+          but rather allures and leads men to faith with holy examples and persuasive reasons. 
+          Similarly those words <quote xml:id="lca8s8-d1e355-Qd1e258">"to be formed"</quote> 
+          still signify that they have not yet been formed nor instructed in the word of God and 
+          Catholic doctrine: 
+          which does not pertain to heretics, 
+          but to those who have not yet received the faith.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e271">
+          For concerning those (namely) heretics (he says) 
+          <quote xml:id="lca8s8-d1e355-Qd1e273">"she excludes"</quote> 
+          and <quote xml:id="lca8s8-d1e355-Qd1e278">"to be reformed"</quote>. 
+          By which words he signifies that heretics and also schismatics who do not repent, 
+          are to be ejected from the Church by excommunication (namely) by spiritual penalty. 
+          But if they persist contumaciously in error, 
+          they are to be consumed by flames. 
+          That word <quote xml:id="lca8s8-d1e355-Qd1e299">"to be reformed"</quote> 
+          signifies that Augustine is speaking of those, 
+          who having been correctly formed were afterwards deformed by errors: 
+          and the judgment by which they are to be reformed.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e312">
+          Those words <quote xml:id="lca8s8-d1e355-Qd1e314">"she excludes others"</quote> 
+          can be understood of infidels, 
+          who do not pertain to the jurisdiction of the pope, 
+          nor does the pontiff punish their crimes as I taught above: 
+          since they do not at all harm the Christian commonwealth. 
+          But if they perpetrate even horrible sins: 
+          they harm no one except themselves, 
+          and therefore they have God alone as their avenger.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e337">
+          But those words: 
+          "she goes before others": 
+          and "to be admitted": 
+          demonstrate the benignity of the Church prepared namely to receive the Jews even if 
+          they committed the horrible crime of killing Christ the Lord. 
+          For if the Church receives in her bosom those guilty of so great a crime: 
+          much more will she receive pagans whose sin is less.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e355">
+          But also those words "to all she gives the power of participating in the grace of God." 
+          The words are addressed to the pagan namely if he should receive the Christian faith: 
+          to the heretic by compelling him to be reconciled to the Church: 
+          to the schismatic if he should conform himself to the orthodox: 
+          to the Jews if with opened eyes they have understood the truth of Christ and their own 
+          ignorance. 
+          And thus the Church presents to all a certain hope of their salvation.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e384">
+          <add place="margin-left" hand="F">In what manner all the faithful look to the judgment of the Church</add>
+          Therefore all infidels of whatever kind or species they may be look to the judgment 
+          of the Church: 
+          but very differently. 
+          For infidels who have never heard the faith pertain to the Church with respect to 
+          preaching and conversion procured by her ministers: 
+          and because they can if they wish become her members.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e408">
+          This is what 
+          <ref xml:id="lca8s8-d1e355-Rd1e410">Saint Thomas in the 3rd part, q. 8, art. 3, ad 1</ref> 
+          writes, that <quote xml:id="lca8s8-d1e355-Qd1e415">although infidels are not actually of the Church: 
+            they are nevertheless within ecclesiastical power. 
+            Which indeed is founded on two things: 
+            first and principally on the power of Christ which is sufficient for the salvation of the 
+            whole human race. 
+            Secondarily on the freedom of will: 
+            by which any man with the help of divine grace can, 
+            having heard the doctrine of Christ, 
+            become his member</quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e438">
+          And thus it is clear that not all infidels are under the judicial power of the Church; 
+          as <name xml:id="lca8s8-d1e355-Nd1e444">Augustine of Ancona</name> 
+          has opined.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e450">
+          Nevertheless we concede that all infidels may be occasionally of fruitful utility to the Church, 
+          for the reasons mentioned above from the words of 
+          <ref xml:id="lca8s8-d1e355-Rd1e458"><name xml:id="lca8s8-d1e355-Nd1e459">Augustine</name> 
+            in <title>On the True Religion</title></ref>: 
+          as also 
+          <ref xml:id="lca8s8-d1e355-Rd1e466">Ancona says in his fourth argument</ref>. 
+          But in truth his teaching is quite confused in this part just as is the teaching of Innocent 
+          from whom he received it almost formally, 
+          and therefore his arguments are not to be much heeded. 
+          And thus having satisfied as we believe the arguments of 
+          <name xml:id="lca8s8-d1e355-Nd1e491">Augustine of Ancona</name> 
+          together with those of Innocent, 
+          we must pass on to the other cases in which the Church brings into act the contentious 
+          jurisdiction which it has in habit against infidels.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e503">
+          <add place="margin-left" hand="E">Third case</add>
+          Therefore the third case is of this kind if they are blasphemers against Christ or against 
+          the saints or against the Christian religion maliciously and knowingly and contemptuously: 
+          speaking out of hatred and contempt of Christian truth. 
+          For the Church ought neither to ignore nor to bear this as 
+          <ref xml:id="lca8s8-d1e355-Rd1e521">we taught above in chapters 15 and 16</ref>: 
+          indeed rather it ought to take up arms against them.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e529">
+          But if pagans should speak blasphemous things about the Christian religion not out of 
+          contempt and hatred of the religion: 
+          but in anger at Christians by whom they had been badly treated and affected with injuries 
+          without legitimate cause as happened among the Indians in the province of Xalisci, 
+          where in mockery of the priests and Christians the Indians raised up a small cake of dough 
+          with both hands imitating the custom of Christian priests who when celebrating Mass 
+          display the body of our Lord Jesus Christ to the people. 
+          Such people are not blasphemers: 
+          for they are ignorant of what they do nor do they know that what the Christian priests 
+          display is to be adored as the body of Christ.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e582">
+          Nor do they do this out of contempt, 
+          but from desire for vengeance: 
+          when they imitate with derision the action of those whom they had experienced as most 
+          savage enemies. 
+          For they believe that the religion accords with the life of most impious men: 
+          from whom it is scarcely believable how much pitiable calamity they have received: 
+          how much savage tyranny they have endured.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e605">
+          Indeed even if the word of God had been announced and preached to them they would not be 
+          called blasphemers, 
+          if they spoke impiously about the Christian religion: 
+          since two or three pious men preached the word of God to them: 
+          but a thousand of the same profession, 
+          with whom the preachers associated familiarly: 
+          defamed the Christian religion by their impious life, 
+          inhumanity, 
+          savagery, 
+          and pride. 
+          These by the best right are to be called blasphemers according to that of 
+          <ref xml:id="lca8s8-d1e355-Rd1e631"><name xml:id="lca8s8-d1e355-Nd1e632">Paul</name> 
+            to the Romans chapter 2</ref>. 
+          <quote xml:id="lca8s8-d1e355-Qd1e638">Through you the name of the Lord is blasphemed 
+            among the Gentiles</quote>. 
+          Again <ref xml:id="lca8s8-d1e355-Rd1e644">Peter 2, chapter 2</ref>: 
+          <quote xml:id="lca8s8-d1e355-Qd1e646">through you the way of truth is blasphemed</quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e652">
+          Adversaries object that the worship of idols is blasphemy against God according to what is 
+          noted by <ref xml:id="lca8s8-d1e355-Rd1e658"><name xml:id="lca8s8-d1e355-Nd1e659">Saint Thomas</name> 
+            in 2a 2ae, q. 94, art. 3</ref>: 
+          And that therefore idolaters can be attacked with war according to what is written by 
+          <ref xml:id="lca8s8-d1e355-Rd1e666"><name xml:id="lca8s8-d1e355-Nd1e667">Saint Thomas</name> 
+            in 2a 2ae, q. 10, art. 8</ref>. 
+          But <name xml:id="lca8s8-d1e355-Nd1e675">in truth Saint</name> 
+          Thomas does not mean to signify absolutely that blasphemy is a just cause of war against 
+          idolaters. 
+          For it has already been proven above, 
+          that if idolatry is blasphemy: 
+          nevertheless it does not pertain to the Church to punish idolaters. 
+          He speaks only of those, 
+          who knowingly and maliciously with deliberate counsel are blasphemers against Christ, 
+          and impede the preaching of the Gospel: 
+          and lest anyone should receive the faith. 
+          <ref xml:id="lca8s8-d1e355-Rd1e706">The words of Saint Thomas in the said article 8</ref> 
+          I shall subjoin <quote xml:id="lca8s8-d1e355-Qd1e713">They are to be compelled by the faithful, 
+            he says, 
+            if the faculty is present, 
+            that they not impede the faith either by blasphemies or by evil persuasions or even by 
+            open persecutions</quote>. 
+          Thus he.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e725">
+          But what sort of blasphemy this is he explains there 
+          <ref xml:id="lca8s8-d1e355-Rd1e729">Cajetan in his commentaries</ref>. 
+          <quote xml:id="lca8s8-d1e355-Qd1e734">Consider carefully, 
+            he says, 
+            the just cause of war against infidels and of compelling them lest (namely) they impede 
+            the faith in any of three ways, 
+            namely either by blasphemies speaking evil of Christ Jesus: 
+            or of his saints or of his Church. 
+            Or by persuasions leading our people to infidelity or by persecutions</quote>. 
+          Thus he.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e763">
+          Whence it sufficiently appears concerning what blasphemy the 
+          <name xml:id="lca8s8-d1e355-Nd1e767">holy doctor</name> 
+          speaks there which deserves to be avenged by war: 
+          it is not idolatry: 
+          but contumelious words against Christ our Lord maliciously uttered: 
+          with such intention that the Catholic faith should not be received. 
+          But truly for blasphemy, 
+          which results against God from sacrilegious rites and ceremonies for the observance of the 
+          law or sect of any infidels whatsoever even if they are idolaters (which is truly blasphemy) 
+          as <ref xml:id="lca8s8-d1e355-Rd1e792"><name xml:id="lca8s8-d1e355-Nd1e793">Saint Thomas</name> 
+            rightly says in the above q. 94, article 3</ref>. 
+          they cannot be warred against.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e801">
+          This is most clearly proven. 
+          The Jews observing and exercising today the ceremonies of the law of Moses without doubt 
+          commit blasphemy against God: 
+          similarly the Saracens observing the law of the most filthy Mohammed and both hate the law 
+          of Christ and the whole Catholic religion as execrable and evil and this is known to the 
+          Catholic Church: 
+          and yet the Church does not wage war on them nor punishes them even when they are subjects, 
+          therefore not every blasphemy of infidels against God does the Church punish.
+        </p>
+        
+        <p xml:id="lca8s8-d1e355-d1e832">
+          But certainly it would be otherwise if the Jews or Saracens in contempt of our religion 
+          should crucify a man or perpetrate some similar deed: 
+          it would be blasphemy which would impede the propagation of the faith and those similar 
+          to these are to be pursued with war. 
+          Which the most learned theologian 
+          <ref xml:id="lca8s8-d1e355-Rd1e849"><name xml:id="lca8s8-d1e355-Nd1e850">Francis of Vitoria</name> 
+            teaches most learnedly in his lucubrations on 2a 2ae, q. 10, article 8</ref>. 
+          From which the error of the adversaries is sufficiently refuted.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

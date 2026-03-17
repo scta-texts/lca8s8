@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 5 [English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+            <resp>Transcription Editor</resp>
+            <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+            <resp>Transcription Editor</resp>
+            <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 5 [English Translation]</title>
+          <date when="2024-08-05">August 6, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="28-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e105">
+        <head xml:id="lca8s8-d1e105-Hd1e97">Chapter 5 [English Translation]</head>
+        
+        <p xml:id="lca8s8-d1e105-d1e99">
+          Chapter 5
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e104">
+          ¶ There is a fourth species of barbarians,
+          comprehending all who do not acknowledge Christ.
+          For every nation,
+          however civilized,
+          every man,
+          however philosophical,
+          is subject to the greatest barbarisms of vice,
+          if he has not been imbued with the mysteries of Christian philosophy.
+          Moreover,
+          he cannot be purged of these vices except by the sacraments and virtue of the Christian law,
+          which alone is
+          <quote xml:id="lca8s8-d1e105-Qd1e125" source="http://scta.info/resource/ps18_8">
+            the law without blemish,
+          </quote>
+          converting souls,
+          freeing and cleansing the hearts of men from every vice and superstition of idolatry,
+          from which arises the fountain of all evils that render life miserable and unhappy both privately and publicly,
+          according to that saying from
+          <ref xml:id="lca8s8-d1e105-Rd1e139">Wisdom 14</ref>:
+          <quote xml:id="lca8s8-d1e105-Qd1e141" source="http://scta.info/resource/sap14_12@1-12">
+            For the beginning of fornication is the seeking out of idols,
+            and the invention of them is the corruption of life.
+          </quote>
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e149">
+          The Christian faith procures the grace of the Holy Spirit,
+          which wipes away all that is depraved,
+          unclean,
+          and foolish from human hearts.
+          This manifestly appeared in the Roman people,
+          praised at that time by the name of political prudence and wisdom,
+          which desired to give laws at its pleasure to the other nations of the world.
+          For how many wicked vices and abominations this people was subject to,
+          especially in those most shameful games and abominable sacrifices,
+          such as in the circus and theatrical games,
+          and in the most obscene sacrifices of Priapus and Bacchus,
+          where all things were so indecent,
+          deformed,
+          and alien to right reason that they left all nations far behind in mental stupor and barbarity.
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e185">
+          This was clearly and extensively taught by
+          <ref xml:id="lca8s8-d1e105-Rd1e189">
+            Saint Augustine from book 2 up to book 7 of the City of God,
+          </ref>
+          and
+          <ref xml:id="lca8s8-d1e105-Rd1e195">
+            Saint Cyprian in treatise 4 against Demetrianus,
+            the idolater and persecutor of Christians,
+          </ref>
+          and
+          <ref xml:id="lca8s8-d1e105-Rd1e200">
+            Lactantius in book 1,
+            chapter 2 of the Divine Institutes,
+          </ref>
+          discoursing on the religion of the Romans and Greeks who wished to seem to excel the other nations of the world in wisdom.
+          He writes that they were accustomed to prostitute their children in gymnasiums so that anyone might use them wickedly at pleasure.
+          To worship and render service to their gods.
+          Moreover,
+          he adds these words:
+          <quote xml:id="lca8s8-d1e105-Qd1e225">
+            What wonder if from this people all shameful deeds flowed,
+            among whom the very vices are religious,
+            those which are not only not avoided but even worshiped?
+          </quote>
+          Thus he writes.
+          These are they who called all nations except themselves barbarians,
+          although no wild barbarians could do anything more absurd or stupid.
+          They excelled perhaps in keenness of judgment and cleverness of wit,
+          so that,
+          presenting themselves as tyrants to the human race,
+          they might subjugate foreign provinces with great slaughters.
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e249">
+          But that the Greeks and Romans abstained from these horrendous crimes and most foul vices,
+          to whom should this be attributed if not to the splendor of the Gospel,
+          which,
+          spread throughout all the nations of the world,
+          dazzled even the eyes of that ambitious people?
+          Since,
+          therefore,
+          through the foul and corrupt morals and other abominations of unbelievers,
+          which arise especially from superstitious opinions about divine matters,
+          and those things which follow from them,
+          they are made like brute beasts,
+          according to blessed
+          <ref xml:id="lca8s8-d1e105-Rd1e271">
+            Paul in Romans 1,
+          </ref>
+          <ref xml:id="lca8s8-d1e105-Rd1e276">
+            Thomas there in lecture 7 and in 2a 2ae q. 94 a. 3 ad 3um,
+          </ref>
+          certainly whoever has not been initiated into Christian mysteries is judged barbarous and wretched,
+          and thus behold the fourth species of barbarians is demonstrated.
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e289">
+          The peoples of the Turks and Arabs are said to be politically organized,
+          but how they should be decorated with this honorable name,
+          since the nation is unbridled toward every license of the flesh,
+          effeminate with luxury,
+          among whom especially the Turks,
+          impure and horrendous vices are not deemed worthy of punishment.
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e305">
+          ¶ Finally,
+          neither the Greeks nor the Romans nor the Turks nor the Moors should be said to employ justice,
+          for neither prudence nor justice can be found in a republic that does not acknowledge Christ,
+          as
+          <ref xml:id="lca8s8-d1e105-Rd1e315" target="http://scta.info/resource/adcd-l2-d1e271@954-1016">
+            Augustine proves in the City of God book 2 chapter 21,
+          </ref>
+          and it is read among the
+          <ref xml:id="lca8s8-d1e105-Rd1e321" target="http://scta.info/resource/gd-p2c24q1-d1e553">
+            papal decrees at dist. 24 q. 1 c. ubi sana,
+          </ref>
+          and
+          <ref xml:id="lca8s8-d1e105-Rd1e326" target="http://scta.info/resource/gd-p2c33q3d2-d1e323">
+            c. non est de penitentia dist. 2.
+          </ref>
+          And thus he asserts,
+          speaking of the Roman republic in that work
+          <ref xml:id="lca8s8-d1e105-Rd1e333" target="http://scta.info/resource/adcd-l19-d1e3156@97-241">
+            the City of God book 19 chapter 21,
+          </ref>
+          and
+          <ref xml:id="lca8s8-d1e105-Rd1e340">
+            Lactantius happily proves the same in book 1 chapter 20 of the Institutes.
+          </ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e346">
+          Since,
+          therefore,
+          those who are devoid of Christian truth,
+          however much they are skilled in political prudence,
+          are overwhelmed by vices and crimes and in many things depart from reason,
+          certainly all who do not worship Christ,
+          either because they have not heard His words even by report,
+          or because,
+          having heard them,
+          they do not receive them,
+          are truly barbarians,
+          which appears in the
+          <ref xml:id="lca8s8-d1e105-Rd1e363" target="http://scta.info/resource/act28_4">
+            Acts of the Apostles chapter 28,
+          </ref>
+          where,
+          after it is narrated that
+          <name xml:id="lca8s8-d1e105-Nd1e368">Paul the Apostle,</name>
+            having been cast ashore by shipwreck at Mitylene,
+            it adds:
+            <quote xml:id="lca8s8-d1e105-Qd1e373">
+              the barbarians showed us no little kindness.
+            </quote>
+            Thus
+            <name xml:id="lca8s8-d1e105-Nd1e380">Saint Luke.</name>
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e383">
+          Mitylene is a port of the island of Lesbos,
+          which gave us the lyric poets Alcaeus and Sappho,
+          and Pittacus surnamed the Mytilenean,
+          who was one of the seven sages of Greece,
+          <ref xml:id="lca8s8-d1e105-Rd1e393">
+            and Theophrastus,
+            disciple of Aristotle,
+            according to Aulus Gellius.
+          </ref>
+          By which name it is celebrated by
+          <ref xml:id="lca8s8-d1e105-Rd1e406">
+            <name xml:id="lca8s8-d1e105-Nd1e407">Horace:</name>
+          </ref>
+          <quote xml:id="lca8s8-d1e105-Qd1e409">
+            Others will praise (he says) famous Rhodes or Mitylene.
+          </quote>
+          Nevertheless,
+          it is called by the Apostle a barbarous people,
+          not indeed because they were stupid or wild,
+          but because they did not acknowledge Christ,
+          although
+          <ref xml:id="lca8s8-d1e105-Rd1e431">Lyranus therefore</ref>
+          writes that they were called barbarians because they knew neither Hebrew nor Greek nor Latin.
+          Thus
+          <ref xml:id="lca8s8-d1e105-Rd1e437">
+            Saint Jerome in his Epistle to Evander or Eugenius the Bishop
+          </ref>
+          says,
+          and it is also contained in
+          <ref xml:id="lca8s8-d1e105-Rd1e447" target="http://scta.info/resource/gd-p1d93-d1e470">
+            the decrees dist. 93 c. legimus,
+          </ref>
+          and
+          <ref xml:id="lca8s8-d1e105-Rd1e450" target="http://scta.info/resource/gd-p2c32q7-d1e283">
+            32 q. c. offerebat,
+          </ref>
+          there among barbarous peoples:
+          <quote xml:id="lca8s8-d1e105-Qd1e455">
+            For also Africa,
+            and the Persians,
+            and the East,
+            and India,
+            and all barbarous nations adore one Christ,
+            observe one rule of truth.
+          </quote>
+          The same
+          <ref xml:id="lca8s8-d1e105-Rd1e469">
+            Jerome to Heliodorus and in the epistle to Leta in the same volume page 68.
+          </ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e475">
+          The laws and decrees speak generally,
+          as
+          <ref xml:id="lca8s8-d1e105-Rd1e481" corresp="#lca8s8-d1e105-Qd1e486">
+            7 q. 1 c. temporis qualitas,
+          </ref>
+          there:
+          <quote xml:id="lca8s8-d1e105-Qd1e486" source="http://scta.info/resource/gd-p2c7q1-d1e786@27-31">
+            they can more easily avoid barbarous danger,
+            for he speaks there of the Turks or Saracens,
+          </quote>
+          and
+          <ref xml:id="lca8s8-d1e105-Rd1e493" corresp="#lca8s8-d1e105-Qd1e499">
+            23 q. 2 c. sex differentiae,
+          </ref>
+          there:
+          <quote xml:id="lca8s8-d1e105-Qd1e499" source="http://scta.info/resource/gd-p2c23q3-d1e123@19-20">
+            some of the barbarians,
+          </quote>
+          and
+          <ref xml:id="lca8s8-d1e105-Rd1e502" target="http://scta.info/resource/gd-p2c23q3-d1e181">
+            c. fortitudo which protects in war from barbarians.
+          </ref>
+          Also in the laws
+          <ref xml:id="lca8s8-d1e105-Rd1e509">
+            cod. de officio prefecti cretorio africae l. 1,
+          </ref>
+          there
+          <quote xml:id="lca8s8-d1e105-Qd1e511">
+            they were subjugated most harshly under the barbarous yoke,
+          </quote>
+          and he was speaking of the Vandals who by their tyranny had usurped the entire province of Africa.
+          And
+          <ref xml:id="lca8s8-d1e105-Rd1e523">
+            ff. de re militari l. non omnes § a barbaris remissus miles,
+          </ref>
+          and in the
+          <ref xml:id="lca8s8-d1e105-Rd1e528">proem of the Institutes,</ref>
+          there
+          <quote xml:id="lca8s8-d1e105-Qd1e531">
+            and indeed the other labors of the barbarous people brought under our yoke are known.
+          </quote>
+          Where the
+          <ref xml:id="lca8s8-d1e105-Rd1e537">gloss</ref>
+          says
+          <quote xml:id="lca8s8-d1e105-Qd1e540">
+            barbarians are those who are outside the universal boundaries of the Roman empire,
+            that is,
+            the Church,
+          </quote>
+          as if outside it there is no empire,
+          as will be evident below in the
+          <ref xml:id="lca8s8-d1e105-Rd1e547">chapter.</ref>
+          And the
+          <ref xml:id="lca8s8-d1e105-Rd1e552">gloss</ref>
+          adds
+          <quote xml:id="lca8s8-d1e105-Qd1e555">especially enemies.</quote>
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e559">
+          ¶ Against these barbarians,
+          however,
+          who are enemies of the Church,
+          the Church prays on Good Friday with these words:
+          <quote xml:id="lca8s8-d1e105-Qd1e565">
+            Let us pray for the most Christian emperor that God our Lord may make all barbarous nations subject to him for our perpetual peace.
+            And below:
+            May the barbarous peoples who trust in their own ferocity be subdued by the power of your right hand.
+          </quote>
+          But concerning barbarians who do not molest the Christian people,
+          the Church does not pray that they be subdued,
+          but that He may remove iniquity from their hearts so that,
+          having left their idols,
+          they may be converted to the living and true God.
+          And
+          <ref xml:id="lca8s8-d1e105-Rd1e589">a little later:</ref>
+          <quote xml:id="lca8s8-d1e105-Qd1e591">
+            Almighty eternal God,
+            who desire not the death of sinners but always seek their life,
+            graciously receive our prayer and free them from the worship of idols,
+            and gather them into your holy Church for the praise and glory of your name.
+          </quote>
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e619">
+          Where it is manifestly shown that there is some difference of barbarians from barbarians,
+          according to what the Church indicates in sufficiently express words.
+          And through all those things which have been adduced,
+          it appears that there are four kinds of barbarians,
+          namely the 1st and 2nd and 4th,
+          in a qualified sense,
+          that is,
+          from some wild customs and principally from defect of faith.
+          The first kind,
+          however,
+          can also comprehend Christian men if they show themselves savage,
+          wild,
+          cruel,
+          and inhuman in some matter,
+          by which name the Spanish,
+          who afflicted the Indians with so many horrendous slaughters,
+          so many massacres,
+          and more than Tartar evils—peoples indeed most gentle and innocent to all—are barbarians and worse than barbarians.
+          They also showed themselves barbarians when they fiercely rebelled against Caesar,
+          taking up arms.
+          The fourth species of barbarians,
+          however,
+          pertains to those alien from the faith of Christ,
+          and thus comprehends all unbelievers.
+          But properly barbarians are those of whom we discoursed in the third species,
+          namely those overwhelmed by mental stupor,
+          foolish,
+          alien from reason,
+          incapable,
+          savage,
+          wild,
+          corrupt in morals,
+          seditious,
+          either by nature or by wicked habit of sinning,
+          and of these specifically speaks
+          <ref xml:id="lca8s8-d1e105-Rd1e675">the Philosopher in Politics book 1.</ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e105-d1e678">
+          Let impious men therefore cease to throw the Philosopher at us,
+          and those who dragged Sepulveda with lies to the defense of an impious cause,
+          not understanding or not willing to understand the difference between the Philosopher and the holy doctors which has been demonstrated concerning barbarians.
+          And therefore let them have mercy on their souls and ask from Christ that vanity may die in them and truth may live.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

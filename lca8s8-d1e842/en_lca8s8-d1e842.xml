@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 61 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 61 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2024-07-02">July 02, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="249-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e842">
+        <p xml:id="lca8s8-d1e842-d1e97">
+          Chapter 61
+        </p>
+        
+        <p xml:id="lca8s8-d1e842-d1e102">
+          That the Catholic kings understood this to have been the mind of the pontiff,
+          indeed even of Christ (namely that those peoples should be converted to the faith gently 
+          and with Christian humanity,
+          not truly by the terror of war being brought upon them):
+          is proved from the words of the testament of the most serene 
+          <name xml:id="lca8s8-d1e842-Nd1e120">Isabella</name> of Spain,
+          ornament of the matrons of her age,
+          to whom as Queen of Castile the concession was made especially by the pontiff,
+          who speaks thus.
+        </p>
+        
+        <p xml:id="lca8s8-d1e842-d1e127">
+          Item 
+          <quote xml:id="lca8s8-d1e842-Qd1e132" xml:lang="es">
+            "Since at the time when the islands and mainland of the ocean sea,
+            discovered and to be discovered,
+            were granted to us by the Holy Apostolic See,
+            our principal intention was,
+            at the time when we supplicated 
+            <name xml:id="lca8s8-d1e842-Nd1e145">Pope Alexander the Sixth</name> of good memory,
+            who made to us the said concession:
+            to endeavor to induce and bring the peoples of them and convert them to our holy Catholic faith,
+            and to send to the said islands and mainland prelates and religious and clerics 
+            and other learned persons and God-fearing to instruct the inhabitants and residents of them 
+            in the Catholic faith and teach them and endow them with good customs and to put in this 
+            the diligence owed,
+            as more fully is contained in the letters of the said concession.
+            Therefore I beseech the King my lord most affectionately and I charge and command 
+            the said princess my daughter and the said prince her husband that they thus do 
+            and fulfill and that this be their principal end and that in it they put much diligence 
+            and that they not consent nor give place that the Indians inhabitants and residents 
+            of the said Indies and mainland gained and to be gained receive any injury in their persons 
+            or goods:
+            but command that they be well and justly treated:
+            and if any injury they have received,
+            remedy it and provide in such manner that they exceed in nothing 
+            from that <add place="above-line">which</add> by the letters of the said concession 
+            is enjoined and commanded to us."</quote>
+          These are her formal words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e842-d1e212">
+          You hear,
+          reader,
+          that the queen understood that war was not to be waged against the Indians 
+          from the bull of the pontiff:
+          but that they were to be instructed in Christian doctrine,
+          this was commanded to her.
+          You see also that she expressly orders:
+          that from all injury both the Indians and also their neighbors be immune:
+          for plunder had not been offered but a province.
+          Therefore she commands her heirs that they make amends for every injury inflicted 
+          on the Indians:
+          and that they perform in all things what was enjoined upon her by the pontiff.
+          And thus by many instructions,
+          decrees,
+          and mandates of our kings:
+          it was expressly decreed and declared.
+        </p>
+        
+        <p xml:id="lca8s8-d1e842-d1e242">
+          To these things agrees that the pontiff does not grant to the kings of Castile 
+          that they subject those kingdoms to themselves,
+          that they might amplify the boundaries of their empire by the addition of so many new kingdoms:
+          but that those peoples might recognize Christ the true God and be drawn forth from darkness 
+          into light,
+          from death into life.
+          And so it cannot be denied that that concession of the pontiff was made rather in favor 
+          of the Indians than in favor of the kings.
+          But if by war we utterly destroy that people and savagely afflict them,
+          we act most unjustly:
+          as is evident 
+          <ref xml:id="lca8s8-d1e842-Rd1e270">de regulis Iuris libro 6o</ref> 
+          <quote xml:id="lca8s8-d1e842-Qd1e272" source="http://scta.info/resource/wef6td-d1e1612-d1e526">
+            "what is granted on account of someone,
+            ought not to be turned back to his disadvantage."</quote>
+          And 
+          <ref xml:id="lca8s8-d1e842-Rd1e279" target="http://scta.info/resource/azsw2e-d1e204-d1e171">
+            C. de legibus L. quod fauore</ref> 
+          and ff 
+          <ref xml:id="lca8s8-d1e842-Rd1e285">eo titulo L. nulla juris</ref> 
+          <quote xml:id="lca8s8-d1e842-Qd1e294" source="http://scta.info/resource/bgy6gt-d1e81">
+            "no reason or kindness of equity allows that things which are introduced wholesomely 
+            for the utility of men:
+            these we should by a harsher interpretation bring forth against their advantage to severity,"</quote> 
+          thus there.
+        </p>
+        
+        <p xml:id="lca8s8-d1e842-d1e308">
+          Therefore the kings of Castile can neither directly nor indirectly do anything adverse 
+          to the spiritual or even temporal advancement of those peoples:
+          indeed not even to their temporal good.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

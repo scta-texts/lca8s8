@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 20 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 20 [Bnf 12926 Translation]</title>
+          <date when="2025-02-16">Feb 16, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="92-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e302">
+        <head xml:id="lca8s8-d1e302-Hd1e97">Chapter 20 [Bnf 12926 Translation]</head>
+        
+        <p xml:id="lca8s8-d1e302-d1e99">
+          Chapter 20
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e104">
+          It remains now to report what 
+          <ref xml:id="lca8s8-d1e302-Rd1e108"><name xml:id="lca8s8-d1e302-Nd1e109">Augustine of Ancona</name> from among the theologians held in his book 
+            on the power of the pope q. 23. art. 1</ref> and 
+          <ref xml:id="lca8s8-d1e302-Rd1e117">4</ref>,
+          which he nevertheless derived from 
+          <ref xml:id="lca8s8-d1e302-Rd1e121">Innocent in c. quod super his</ref>, 
+          <ref xml:id="lca8s8-d1e302-Rd1e127">de voto</ref>, and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e129">c. in archiepiscopatu: de raptoribus</ref>, and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e134">c. canonum de constitutionibus</ref> where Innocent writes that 
+          <quote xml:id="lca8s8-d1e302-Qd1e139">"to the maker of the canons and vicar of the creator is subject every creature"</quote>,
+          which must be understood as baptized Christians as appears from what has been said above and as reported by this 
+          <name xml:id="lca8s8-d1e302-Nd1e151">Augustine of Ancona</name> 
+          <ref xml:id="lca8s8-d1e302-Rd1e157">in the words of the holy archbishop of Florence 3rd part, title 22, c. 5, § 8</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e165">
+          And 
+          <ref xml:id="lca8s8-d1e302-Rd1e173">Sylvester in his summa, reporting both in the word pope. § 7</ref>: 
+          suggests that Augustine himself speaks 
+          <quote xml:id="lca8s8-d1e302-Qd1e180">"of infidels holding the lands of Christian people: and these he says, 
+            and we confess, are subject to the church"</quote> or its members by right though not in fact. But if he understood generally about all infidels, 
+          even those who do not hold provinces which were once of Christian dominion, 
+          he is greatly mistaken without doubt. Therefore one must respond to his motives and arguments because they do not stand.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e201">
+          First, it does not stand that Christ by his passion merited judicial power over all creatures, 
+          about which matter 
+          <ref xml:id="lca8s8-d1e302-Rd1e209">Saint Thomas treats in 3rd part, q. 59, a. 1, c</ref>. And thus by reason of this power was given to him in heaven and on earth 
+          <ref xml:id="lca8s8-d1e302-Rd1e217">Matthew, last chapter</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e224">
+          From this Augustine infers that, since the pope is the universal vicar of Christ in the whole world: 
+          no one is exempt from his obedience any more than from the obedience of God. A portion of this argument presses. 
+          For we acknowledge that judicial power and dominion in heaven and on earth was given to Christ as man on account of the humility and ignominy of his passion and cross. 
+          Likewise we freely confess that the pontiff is the vicar of Christ, 
+          yet we deny that from these it follows that no infidel is exempt from the jurisdiction of the pope: 
+          for three reasons first: that the pope is content not to have greater power over infidels than Christ himself.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e262">
+          But Christ has jurisdiction over them in habit not in act: until they receive baptism (as we have taught at length above) 
+          and they are subjects as to the authority and power conferred on him by the teacher: 
+          not however as to the effect and execution of the aforesaid power. For he has it suspended, as 
+          <ref xml:id="lca8s8-d1e302-Rd1e279">was shown in chapter six</ref>. And this is to be subjects of Christ habitually and in potentiality. 
+          Whence they are exempt from the voluntary obedience of Christ until they receive baptism or until the day of judgment as 
+          <ref xml:id="lca8s8-d1e302-Rd1e292">we proved in said chapter six</ref>. Therefore such infidels can well enough be exempt from the obedience of the vicar of Christ. 
+          Therefore the supreme pontiff cannot actually exercise jurisdiction over them.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e304">
+          Secondly because obedience can nowhere be found where obedience has not first been promised and subjection thus contracted, 
+          according to that 
+          <ref xml:id="lca8s8-d1e302-Rd1e312">of the Apostle 2 Corinthians 10</ref>: 
+          <quote xml:id="lca8s8-d1e302-Qd1e314">"Being ready to punish all disobedience: when your obedience shall be fulfilled"</quote>. But infidels have not promised obedience to the church; 
+          whence subjection has not been contracted. Therefore they can never be called disobedient or rebels against him. 
+          For he cannot be called disobedient who never promised obedience as in 
+          <ref xml:id="lca8s8-d1e302-Rd1e334">l. amissione § qui deficiunt</ref> ff 
+          <ref xml:id="lca8s8-d1e302-Rd1e340">de capite diminutis</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e347">
+          <ref xml:id="lca8s8-d1e302-Rd1e349">Bartolus teaches in the extravagant qui sint rebelles, in the beginning</ref> and 
+          <ref xml:id="lca8s8-d1e302-Rd1e354">in § tenore at the end</ref>. Which must be noted against certain stupid or rather impious jurists: 
+          who called the Indians fleeing into the forests and groves from fear of the Spaniards rebels: 
+          when those wretches fled lest they be led away into servitude, 
+          despoiled of their goods, or slaughtered by the ferocity of a savage people. Since therefore infidels have never been subject to the pope: 
+          the pope cannot judge or punish them 
+          <ref xml:id="lca8s8-d1e302-Rd1e392">according to the words of Paul reported above</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e395">
+          Third, one responds: that not from the fact that all power in heaven and on earth was entrusted by the Father to Christ: 
+          therefore Christ granted all that power to his vicar. For neither can he command the angels: 
+          nor over all men: because not over the comprehensors, that is, the blessed citizens of the heavenly city: 
+          nor to produce miracles or over those things which pertain to the power of excellence: 
+          but only has he power and is he the head of wayfarers (that is) of those who tend through faith to the heavenly kingdoms. 
+          But infidels are not wayfarers but rather wanderers: and so the pope does not have actual power over them (as we taught above).
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e436">
+          Augustine of Ancona in confirmation of his first argument adduces 
+          <ref xml:id="lca8s8-d1e302-Rd1e451">the words of Cyril, in the book on treasures</ref>: where he says 
+          <quote xml:id="lca8s8-d1e302-Qd1e455">"that just as Christ received from the Father the leadership and scepter of the church of the gentiles going forth from Israel: 
+            over every principality and power and over everything whatsoever: that to him every knee should bow: 
+            so to Peter himself and his successors he entrusted the fullest power"</quote>. These words press little: 
+          since those adverbs "just as" and "so" do not signify equality but similitude: 
+          <quote xml:id="lca8s8-d1e302-Qd1e479">"according to that 'you shall love your neighbor as yourself'"</quote>, 
+          That is, in the manner that man naturally loves himself: so also let him love his neighbor. 
+          Yet it does not signify that he is bound to love man as much as himself.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e494">
+          So also those words of Cyril signify that in the manner Christ received from the teacher the leadership and scepter of the church 
+          which was to be gathered from the gentiles: so also (that is) similarly he granted to Peter and his successors: 
+          the fullest power: as great (I say) as is necessary for the direction, governance and conservation of the church: 
+          yet it is not inferred from those words that Peter and his successors have power equal in all things to the power of Christ 
+          as we showed above in the previous exception.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e523">
+          Again, this similarity of the power of the pope to the power of Christ is a similarity of proportion: 
+          namely that just as in Christ is that power in a more excellent manner insofar as he is simultaneously God and man: 
+          and in such manner he operates through it more excellently than any other man: 
+          So it is in the pope his vicar: although the power is divine conferred on him by God and man: 
+          yet he receives it as a pure man and uses it in his manner imitating Christ as is necessary and fitting for the direction, 
+          governance and conservation of the universal church committed to him and its salvation. And thus it is clear that those adverbs "just as" 
+          and "so" do not signify complete equality but similarity of proportion.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e561">
+          Third, Cyril there does not write that Christ received especially the scepter over infidels actually: 
+          although by authority and power he has eminence and dominion and rule over all creatures. 
+          But he says he received the scepter and rule of the church and in the church, which was to be gathered and united from all nations 
+          which he had sought as an inheritance and received from the Father according to 
+          <ref xml:id="lca8s8-d1e302-Rd1e585">the prophet in psalm 2</ref>. 
+          <quote xml:id="lca8s8-d1e302-Qd1e594">"Ask of me and I will give you the nations for your inheritance: and your possession the ends of the earth"</quote>. 
+          Over and within this church Christ received the scepter and power and royal dignity: as pertains to the proposition: 
+          as to effect: according to 
+          <ref xml:id="lca8s8-d1e302-Rd1e609">the same psalm 2</ref>. 
+          <quote xml:id="lca8s8-d1e302-Qd1e612">"But I am appointed king by him over Zion his holy mountain: preaching his precept"</quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e620">
+          This mountain 
+          <name xml:id="lca8s8-d1e302-Nd1e622">Saint Augustine</name> interprets as 
+          <quote xml:id="lca8s8-d1e302-Qd1e626">"the church; over the church (he says) he calls it a holy mountain because of its eminence and firmness"</quote>. 
+          Therefore just as Christ in his manner was constituted by the Father insofar as man as prince over all the princes of the earth 
+          <ref xml:id="lca8s8-d1e302-Rd1e642">Apocalypse 1</ref>. and actually is king within the church and in habit outside the church 
+          as has often been shown: so also his vicar in his manner actually has power within the church: 
+          in which he holds the principality and royal dignity, spiritual rule: and by a certain consequence temporal power over every kingdom 
+          and principality which happens to be within the church: but in habit outside the church, that is, over infidels.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e667">
+          Fourth, 
+          <ref xml:id="lca8s8-d1e302-Rd1e669">although Cyril</ref> says "over every principality and power and over everything whatsoever," 
+          these words must be understood about all those things which are contained within the church: 
+          that is, over all Christian princes and their kingdoms: and spiritual and temporal dignities and powers: 
+          in those things namely which are necessary for salvation and the right governance of the Christian flock. 
+          For universal words not only in law and in the teaching of sacred doctors but also of sacred scripture: 
+          sometimes receive restriction and limitation, sometimes suitable distribution.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e703">
+          Which 
+          <ref xml:id="lca8s8-d1e302-Rd1e705">theologians note in 1st book of Sentences distinction 46</ref>; as 
+          <ref xml:id="lca8s8-d1e302-Rd1e710">that of Matthew 3</ref>. 
+          <quote xml:id="lca8s8-d1e302-Qd1e712">"Then went out to John Jerusalem and all Judea and all the region around Jordan"</quote>. 
+          For indeed those words "all Judea" and "all the region" are not to be understood entirely universally (namely) 
+          that all without exception went out: but that the greater or great part of the people went out: 
+          thus is understood that 
+          <ref xml:id="lca8s8-d1e302-Rd1e730">of Isaiah 40</ref>. 
+          <quote xml:id="lca8s8-d1e302-Qd1e732">"And all flesh shall see the salvation of God"</quote>. For not all the men of the world saw Christ in the flesh. 
+          Of the same reasoning 
+          <quote xml:id="lca8s8-d1e302-Qd1e748">"is good and acceptable before our Savior who wills all men to be saved"</quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e757">
+          Yet God does not will those dying in mortal sin to be saved: but those keeping his precepts unto death. 
+          Nor yet do they obtain salvation: without the grace of God, as there 
+          <ref xml:id="lca8s8-d1e302-Rd1e767">Saint Thomas notes</ref> 
+          <quote xml:id="lca8s8-d1e302-Qd1e770">"wills all men"</quote> etc. And here is suitable distribution: 
+          which comprehends those capable for it: namely, true Christians, to whom it befits to be saved. 
+          And for the destruction of the consequent it suffices to give an instance.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e784">
+          Whence although divine scripture often according to voice uses universal terms: 
+          yet they are not distributed universally except only for those to whom the predicate befits. 
+          As that 
+          <ref xml:id="lca8s8-d1e302-Rd1e800">of John 11</ref>. 
+          <quote xml:id="lca8s8-d1e302-Qd1e802">"the whole world goes after him"</quote> and it is hyperbole, a trope. And it is a grammatical figure, 
+          that is, a locution according to the manner of speaking. Which also 
+          <ref xml:id="lca8s8-d1e302-Rd1e811">Jerome teaches in his letter to Pope Damasus</ref> where interpreting about the Jewish people those words 
+          which are said to the prodigal son 
+          <ref xml:id="lca8s8-d1e302-Rd1e821">Luke 15</ref>. 
+          <quote xml:id="lca8s8-d1e302-Qd1e823">"son, you are with me and all that is mine is yours"</quote>
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e829">
+          (he says) 
+          <quote xml:id="lca8s8-d1e302-Qd1e831">"how however are all things of God those of the Jews: are angels, thrones, dominations, 
+            and other powers not also? Therefore we understand all things to be the law, prophets, and divine words according to that manner 
+            which we have often expounded that in the scriptures not all things are to be referred to the whole but to the greatest part: 
+            as there 'all have turned aside, together they have become worthless': and elsewhere 'all who came before me were thieves'"</quote> etc. 
+          This is 
+          <name xml:id="lca8s8-d1e302-Nd1e856">Jerome</name>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e859">
+          From which it appears that authorities of sacred scripture, although they sound universally in voice: 
+          yet they receive limitation and restriction. This limitation is received by that authority 
+          <ref xml:id="lca8s8-d1e302-Rd1e868">of Matthew 16</ref>. 
+          <quote xml:id="lca8s8-d1e302-Qd1e870">"Whatever you shall bind on earth shall be bound in heaven"</quote>: it is limited: 
+          <quote xml:id="lca8s8-d1e302-Qd1e877">"when the key does not err"</quote> according to 
+          <ref xml:id="lca8s8-d1e302-Rd1e879">the gloss and doctors in c. literas. de restitutione spoliatorum</ref>. And that 
+          <ref xml:id="lca8s8-d1e302-Rd1e884">of John 6</ref>. 
+          <quote xml:id="lca8s8-d1e302-Qd1e889">"when the spirit of truth comes he will teach you all truth"</quote>. All truth namely pertaining to the preaching 
+          and propagation of the gospel and the salvation of men: not truths pertaining to philosophy, cosmography, geometry and similar arts.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e904">
+          Therefore 
+          <ref xml:id="lca8s8-d1e302-Rd1e906">the gloss there interprets</ref> 
+          <quote xml:id="lca8s8-d1e302-Qd1e908">"truth necessary for salvation"</quote>. Thus also the text must be understood in 
+          <ref xml:id="lca8s8-d1e302-Rd1e915">c. solitae. de maioritate et obedientia</ref> 
+          <quote xml:id="lca8s8-d1e302-Qd1e917">"excepting nothing, he who said 'whatsoever'"</quote>, and 
+          <ref xml:id="lca8s8-d1e302-Rd1e923">c. si Romanorum. 19 distinction</ref> for it is understood about everything necessary and useful for the direction 
+          of the church to the end of beatitude. So also in civil law general words are restricted and understood about the capable and qualified. 
+          An example is in 
+          <ref xml:id="lca8s8-d1e302-Rd1e939">l. 1, C. de sacrosancti ecclesiis</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e945">
+          From there the doctors note: where it is said, let each one have permission in a will to leave to pious places. 
+          Which is understood 
+          <ref xml:id="lca8s8-d1e302-Rd1e952">according to the gloss</ref>: 
+          <quote xml:id="lca8s8-d1e302-Qd1e954">"each one capable of making a will"</quote>. Also the universal word is restricted to the nature of the subject matter. Thus 
+          <ref xml:id="lca8s8-d1e302-Rd1e963">Baldus expounding that c. canonum 'statutes are observed by all': de constitutionibus</ref>. And 
+          <ref xml:id="lca8s8-d1e302-Rd1e970">reporting the words of Innocent</ref>. Namely 
+          <quote xml:id="lca8s8-d1e302-Qd1e975">"that to the maker of canons and vicar of Christ is subject every creature"</quote>: he says 
+          <quote xml:id="lca8s8-d1e302-Qd1e982">"that if the constitutions of the pope can be applied to all, they bind all: 
+            if however they cannot be applied to all, for instance to infidels, then they comprehend only the subjects of the pope"</quote>. 
+          We see the like in 
+          <ref xml:id="lca8s8-d1e302-Rd1e993">l. 1.</ref> and there note 
+          <ref xml:id="lca8s8-d1e302-Rd1e998">the doctors cod. de suma trinitate</ref> and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1002">c. licet</ref> and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1004">c. graue: de officio ordinarii</ref> and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1009">d. c. canonum</ref>, and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1011">c. ultimo de constitutionibus</ref>, and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1017">l. lutius, ff. de testamento militis</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1024">
+          For always general words must be restricted: so that no absurdity or iniquity or scandal follows as has been sufficiently proven. 
+          Which 
+          <ref xml:id="lca8s8-d1e302-Rd1e1033">Antonius teaches at length in said c. canonum, column 5</ref>. And 
+          <ref xml:id="lca8s8-d1e302-Rd1e1038">the other doctors there</ref>. Therefore those general words of Cyril must be restricted to all things which are contained 
+          in the church as has been proven. Since if we understand his words otherwise they conflict with 
+          <ref xml:id="lca8s8-d1e302-Rd1e1048">the words of Paul</ref> and generally understood would generate absurdities: for instance that the pope could punish 
+          non-subjects nor are they of his forum for crimes which they commit within the limits of another's territory which is false, 
+          most false: as we proved above with ten arguments and the authorities of the holy fathers.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1064">
+          For who would judge that idolatrous Indians should be punished who never even by report had heard of Christ or Christians 
+          up to our age: and thus are free of all guilt and malice: and Christian gentleness cherishes such men, does not persecute, 
+          and afflicts: teaches, does not compel or punish.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1081">
+          For such infidels are incapable of spiritual penalties directly or indirectly, for instance excommunication and similar things: 
+          much more of temporal penalties which the pope wishes to give them for crimes. The antecedent is clear: 
+          that they cannot be directly excommunicated is clear: because one who exists outside the church cannot be exiled from it 
+          <ref xml:id="lca8s8-d1e302-Rd1e1100">11, q. 3, c. omnis christianus</ref>. That neither indirectly either: which occurs when the church excommunicates 
+          the faithful lest they communicate with infidels as punishment of the infidels for certain cases is also clear because we suppose 
+          that such infidels as the Indians are and similar: commit no special guilt for which they should deservedly undergo such penalty, 
+          since they live in their own lands far separated from ours. Therefore much more are such infidels incapable of temporal or corporal penalties 
+          to be inflicted by the Church.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1129">
+          The consequence is proven, since the church does not judge concerning secular persons except by reason of the soul as 
+          <ref xml:id="lca8s8-d1e302-Rd1e1135">through the doctors in c. gaudemus. de divortiis</ref> and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1140">c. ultimo qui filii sint legitimi</ref>. And in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1145">c. de infidelibus de consanguinitate et affinitate</ref>. But concerning the souls of infidels unless they receive baptism 
+          it does not pertain to the church to judge. As is clear from what has been said above therefore in no way can the church inflict 
+          temporal penalty on them for crimes, since the jurisdiction which the church has in temporal things is in order to spiritual things 
+          and by a certain consequence (outside lands temporally subject to it) according to the true and catholic opinion of both canonists 
+          and theologians, and also of the saints.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1178">
+          Therefore where it will be granted not to have jurisdiction or spiritual power or in spiritual things, 
+          it will be denied consequently to have it in temporal things. The consequence is clear: by the place from the destruction 
+          of the antecedent to the destruction of the consequent: which argumentation has place whenever the terms are convertible: 
+          as are rational and man. So it is here, because temporal jurisdiction or over temporal things is converted with spiritual jurisdiction: 
+          or comes in consequence to spiritual in ecclesiastical or spiritual judges in certain cases in order to spiritual things, 
+          that is, insofar as it is necessary for the free administration of spiritual things, as is clear in c. 
+          <ref xml:id="lca8s8-d1e302-Rd1e1218">per venerabilem § rationibus</ref>, extra 
+          <ref xml:id="lca8s8-d1e302-Rd1e1223">qui filii sint legitimi</ref> and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1229">c. Nouit, de iudiciis</ref>. And it is noted at length in both places by the doctors and in many other places.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1236">
+          Since therefore in this case: that is, concerning the infidels about whom we treat here: 
+          the church does not have spiritual jurisdiction nor can it inflict penalties for spiritual things: 
+          it follows that neither can it inflict temporal or corporal penalties ordinarily etc. And thus the reason why ecclesiastical judges 
+          exercise temporal jurisdiction is spiritual jurisdiction in the whole universal church. For such infidels are subjects entirely 
+          incapable of penalties: directly namely of excommunication, interdict, and such which pertain to spiritual jurisdiction: 
+          on account of which they are said not to be bound by canonical precepts and penalties, as in said 
+          <ref xml:id="lca8s8-d1e302-Rd1e1266">c. Gaudemus de divortiis</ref> and 
+          <ref xml:id="lca8s8-d1e302-Rd1e1271">2, q. 1, c. Multi</ref>, and 
+          <ref xml:id="lca8s8-d1e302-Rd1e1273">11, q. 3, c. omnis christianus</ref>. And also indirectly: because we suppose them to live quietly and peacefully 
+          as to us in their kingdoms nor to commit any special molestations or guilts against us.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1287">
+          Therefore also they are incapable of temporal penalties to be inflicted by any Ecclesiastical or spiritual judge as has been proven.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1296">
+          This consequence is proven by 
+          <ref xml:id="lca8s8-d1e302-Rd1e1300">the common opinion of canonists against Innocent in c. quod super his: de voto</ref>. And in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1307">c. Gaudemus</ref>. And 
+          <ref xml:id="lca8s8-d1e302-Rd1e1309">in said c. canonum statuta</ref>. And there 
+          <ref xml:id="lca8s8-d1e302-Rd1e1314">Antonius de Butrio and Abbas and Felinus column 9 there: 'it fails therefore'</ref>. And 
+          <ref xml:id="lca8s8-d1e302-Rd1e1322">doctors in c. de infidelibus: de consanguinitate et affinitate</ref> and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1327">c. finali: qui filii sint legitimi</ref>. And 
+          <ref xml:id="lca8s8-d1e302-Rd1e1330">Peter Ancharanus in rule: ea quae in column 15</ref> and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1335">rule peccatum. column 15</ref> and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1340">counsel 15 beginning: 'Spiritual Judge'</ref>. And 
+          <ref xml:id="lca8s8-d1e302-Rd1e1343">Cardinal Zabarella in clementine Pastoralis in 2nd notable</ref>. where he says that 
+          <quote xml:id="lca8s8-d1e302-Qd1e1350">"the power of the pope concerns only the Christian people: and thus does not concern the sects of others: 
+            since it is nothing to us to judge those who are outside"</quote> etc. And in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1362">clementines 1, column 4 de usuris</ref>. and 
+          <ref xml:id="lca8s8-d1e302-Rd1e1367">John of Anania in the rubric</ref> and in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1369">c. ex speciali: de iudaeis</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1375">
+          And in other places they write that infidels as to temporal penalties are subject to the secular princes under whose empire 
+          they live: but not to the church except in cases in which the church can exercise jurisdiction over secular men, which 
+          <ref xml:id="lca8s8-d1e302-Rd1e1390">are noted in c. Multi, 2, q. 1</ref>, by Dominicus and others and thus is understood. 
+          <ref xml:id="lca8s8-d1e302-Rd1e1397">c. constituit. 17. q. 4</ref>. 
+          <ref xml:id="lca8s8-d1e302-Rd1e1402">gloss in c. sepe: 28. q. 1</ref>. and 
+          <ref xml:id="lca8s8-d1e302-Rd1e1404">it is sufficiently proven in c. in archiepiscopatu. de raptoribus</ref>. And in 
+          <ref xml:id="lca8s8-d1e302-Rd1e1412">c. post miserabilem: de usuris</ref> with what is noted there by the doctors.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1415">
+          But concerning pagans who live in separate and proper kingdoms, outside the cases noted above and which will also be mentioned below: 
+          neither does it pertain to the church nor to Christian princes to punish sins which they commit precisely within the limits 
+          of infidelity and their territories as is evidently clear from what has been proven above.
+        </p>
+        
+        <p xml:id="lca8s8-d1e302-d1e1435">
+          But if to the church to whom God has entrusted the care of the whole world, as has been touched upon above and will also be seen below: 
+          the punishment of such sins does not pertain: much less is it permitted to Christian princes to intrude themselves in using coercive 
+          jurisdiction: whose power and jurisdiction outside the limits of any kingdom, province or territory (as was proven above) 
+          is of no weight or authority.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

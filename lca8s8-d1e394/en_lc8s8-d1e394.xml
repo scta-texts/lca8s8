@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 27 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 27 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-27">Apr 27, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-27" status="draft" n="0.0.0">
+          <p>
+            Created file for the first time.
+          </p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="123-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e394">
+        <head xml:id="lca8s8-d1e394-Hd1e97">
+          Chapter 27 [Bnf 12926 Transcription]
+        </head>
+        <p xml:id="lca8s8-d1e394-d1e99">
+          <pb ed="#P" n="123-r"/>
+          Chapter 27.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e104">
+          ¶ With these things agrees what we proved above,
+          that no one can be compelled to provide a good which he never promised. 
+          To this is similar that also by human law a benefit is not conferred upon an unwilling person 
+          <ref xml:id="lca8s8-d1e394-Rd1e114">l. inuito. ff. de regulis juris</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e394-Rd1e119">l. hoc jure. §. non potest, ff. de donatio</ref>.
+          and 
+          <ref xml:id="lca8s8-d1e394-Rd1e124">l. si quis in inconcedendo, C. de pactis</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e130">
+          ¶ Returning to the princes of the infidels,
+          who would maliciously impede the propagation of the gospel:
+          that the Church can move war against them is proven by this manifest reasoning. 
+          Since Christ the Lord is king and lord of every creature inhabiting whatever part of the world:
+          to impede that men recognize and worship him,
+          the fountain of all good,
+          through the reception of the Catholic faith:
+          an injury is done to him which the Church cannot in the least tolerate.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e154">
+          For this sin is not similar to that which they commit among themselves and against God:
+          rather it directly removes the honor owed to God,
+          and directly does injury to him,
+          and is true and formal blasphemy against the Christian religion maliciously committed:
+          wherefore it is carried into the injury of all,
+          what is committed against the divine majesty,
+          as we taught above.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e175">
+          Whence it is clear from the reasons introduced above,
+          that against those infidels only who would maliciously impede the propagation of the faith:
+          or in those who had already received it,
+          trying that they might abandon it:
+          or placing obstacles to those who would probably believe:
+          the Church can justly move war. 
+          Of these speaks 
+          <ref xml:id="lca8s8-d1e394-Rd1e194">
+            <name xml:id="lca8s8-d1e394-Nd1e195">
+              Albertus Pius,
+              Count of Carpi,
+            </name>
+            who 
+            <title>
+              writing against Erasmus
+            </title>
+          </ref>
+          asserts and wishes to prove it is lawful to wage war against the Turks,
+          either that we might recover kingdoms taken away from Christian dominion:
+          or because they impede or would impede the propagation of the faith.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e215">
+          Whence 
+          <name xml:id="lca8s8-d1e394-Nd1e217">
+            Pius
+          </name>
+          thus speaks. 
+          <quote xml:id="lca8s8-d1e394-Qd1e218">
+            Therefore,
+            whoever opposes Christ the Lord and resists his glory:
+            impeding the propagation of the gospel:
+            certainly they are to be cast down from all power,
+            since they abuse it against the dignity and greatness of the supreme Prince. 
+            For with them ruling things,
+            it is not permitted to the peoples subject to their tyranny:
+            to receive the evangelical law,
+            nor is it allowed that it be preached:
+            for which reason,
+            to promulgate it and to amplify the glory of Christ:
+            it is lawful and expedient according to place and time to invade them,
+            and to subject them to the sweet yoke of Christ:
+            even if they do not provoke us in the least,
+            nor hold our lands,
+            which were ever possessed by us. 
+            For they are of the right of Christ:
+            which it is lawful for the servants of Christ to vindicate:
+            therefore,
+            in this manner with this purpose,
+            namely,
+            of propagating the gospel and amplifying the glory of Christ:
+            if war is undertaken,
+            it will be pious and just,
+          </quote>
+          these things 
+          <name xml:id="lca8s8-d1e394-Nd1e266">
+            the Count of Carpi
+          </name>.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e272">
+          Whoever reads those words:
+          even if they do not provoke us in the least:
+          and those,
+          for they are of the right of Christ. 
+          Perhaps they will think that 
+          <name xml:id="lca8s8-d1e394-Nd1e280">
+            Pius
+          </name>
+          teaches:
+          it is lawful to wage war against infidels even peaceful ones:
+          even if no other cause is present,
+          than the propagation of the gospel and amplification of the glory of Christ,
+          but truly it is not so. 
+          For 
+          <name xml:id="lca8s8-d1e394-Nd1e291">
+            Albertus
+          </name>
+          speaks when they maliciously resist the preaching and propagation of the gospel,
+          as is clear 
+          <ref xml:id="lca8s8-d1e394-Rd1e300">
+            there
+          </ref>:
+          <quote xml:id="lca8s8-d1e394-Qd1e302">
+            therefore whoever opposes Christ the Lord,
+            and resists his glory,
+            impeding the propagation of the gospel
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e310">
+          Likewise he speaks of the Turks and Moors,
+          who are not ignorant of our teachings,
+          and most effectively oppose the propagation of our religion. 
+          Thus also it is proven from those words of his,
+          where treating that war is lawful even if no other cause is present than the amplification of the glory of Christ,
+          according to place and time it is lawful and expedient,
+          namely,
+          to invade such infidels opposing the expansion of the faith,
+          and to subject them to the sweet yoke of Christ. 
+          Whence whatever he treats there:
+          this is presupposing malicious resistance and impediments of the infidels lest the faith be propagated,
+          and not indeed of infidels 
+          <del rend="strikethrough" hand="B">
+            the faith is not propagated and not indeed of infidels
+          </del>
+          absolutely:
+          but only of Saracens and Turks,
+          concerning whom is established the most inveterate hatred which they bear against the name of Christ.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e356">
+          Therefore it is not always lawful to move war,
+          even only for the sake of the expansion of the faith,
+          since he says:
+          according to place and time it is lawful and expedient:
+          but when they maliciously impede the propagation of the gospel:
+          and when without scandal and hatred of our religion and blasphemies against Christ,
+          they could be subjected to his sweet yoke,
+          as we proved above. 
+          Otherwise I do not know how it would redound to the glory of Christ,
+          and the increase of religion:
+          nor how the souls of such infidels,
+          if the matter is dealt with by the sword,
+          would obtain salvation. 
+          To me it rather seems that by such means the blood of Christ is rendered useless to them:
+          therefore not only is it not expedient,
+          but indeed it is not lawful.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e391">
+          <add place="margin-left" hand="E">
+            Fifth case
+          </add>
+          ¶ The fifth case in which the Church can bring into act the jurisdiction which it has over infidels only in habit:
+          is when infidels with warlike apparatus burst into our provinces,
+          or infest our shores. 
+          Either in general,
+          as the Turks daily with terrible armies molest,
+          attack,
+          and afflict Christianity:
+          or in particular,
+          as we more frequently suffer from the Saracens.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e423">
+          And the reason which makes for the Church is clear. 
+          For by the law of nature,
+          the arms of all peoples of the world are stirred up against public enemies. 
+          Thus we also,
+          that we may crush the insolence of such:
+          recover captives:
+          and by inflicting equal disasters,
+          teach men to fear ours and abstain from injuries:
+          so that they may make amends for the disasters inflicted upon us.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e444">
+          And an act of this kind is called natural defense,
+          and is contained under that maxim of natural law 
+          <quote xml:id="lca8s8-d1e394-Qd1e451">
+            it is lawful to repel force with force
+          </quote>.
+          <ref xml:id="lca8s8-d1e394-Rd1e453">
+            l. ut vim ff. de justi et jur
+          </ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e394-Rd1e458">
+            c. olim. t. de restitu. spoliatorum
+          </ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e394-Rd1e464">
+            c. dilecto: de senten. excomuni. lib. 6
+          </ref>.
+          And in other places of both laws.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e472">
+          These three last cases,
+          the 3rd,
+          4th,
+          and 5th,
+          are comprehended by 
+          <ref xml:id="lca8s8-d1e394-Rd1e476">
+            <name xml:id="lca8s8-d1e394-Nd1e477">
+              St. Thomas
+            </name>
+            2a 2ae,
+            q. 10,
+            art. 8
+          </ref>
+          in these words:
+          <quote xml:id="lca8s8-d1e394-Qd1e482">
+            they are to be compelled by the faithful,
+            namely,
+            the infidels,
+            if the faculty is present:
+            that they not impede the faith:
+            either by blasphemies,
+            or by evil persuasions,
+            or by open persecutions:
+            and on account of this,
+            the faithful of Christ frequently move war against the infidels,
+            that they may compel them not to impede the faith
+          </quote>.
+          This he says.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e501">
+          These causes set forth are interpreted by 
+          <ref xml:id="lca8s8-d1e394-Rd1e510">
+            <name xml:id="lca8s8-d1e394-Nd1e511">
+              Cajetan
+            </name>
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e394-Rd1e515">
+            <name xml:id="lca8s8-d1e394-Nd1e516">
+              Carpensis
+            </name>
+            in the place cited above
+          </ref>,
+          although 
+          <name xml:id="lca8s8-d1e394-Nd1e521">
+            Erasmus
+          </name>
+          never dreamed that which 
+          <name xml:id="lca8s8-d1e394-Nd1e524">
+            Carpensis
+          </name>
+          objects to him;
+          rather he most openly teaches the Catholic position 
+          <ref xml:id="lca8s8-d1e394-Rd1e528">
+            expounding the psalm Bring to the Lord,
+            O sons of God
+          </ref>,
+          and in many other places:
+          But Carpensis perhaps was seeking glory from the denunciation of 
+          <name xml:id="lca8s8-d1e394-Nd1e537">
+            Erasmus
+          </name>:
+          to whom our 
+          <name xml:id="lca8s8-d1e394-Nd1e541">
+            Sepúlveda
+          </name>
+          by forging that little book performed strenuous service,
+          as fame reports.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e555">
+          ¶ The reason of the doctrine of 
+          <name xml:id="lca8s8-d1e394-Nd1e558">
+            St. Thomas
+          </name>
+          is:
+          since in those three cases,
+          the pagans by reason of offense:
+          are made of our jurisdiction,
+          and we can punish them,
+          even if otherwise they are not subject to us,
+          as in 
+          <ref xml:id="lca8s8-d1e394-Rd1e566">
+            c. fi. de foro compe.
+          </ref>
+          and in 
+          <ref xml:id="lca8s8-d1e394-Rd1e572">
+            c. 1º. de raptori.
+          </ref>
+          And 
+          <ref xml:id="lca8s8-d1e394-Rd1e576">
+            c. vbi de criminibus agi oportet.
+          </ref>
+          in 
+          <ref xml:id="lca8s8-d1e394-Rd1e579">
+            auten. qua in prouincia
+          </ref>,
+          and in very many other laws:
+          where it is held that by reason of offense,
+          someone is made of the jurisdiction of another:
+          of whom the judge otherwise was not his.
+        </p>
+        <p xml:id="lca8s8-d1e394-d1e589">
+          Because no other remedy is found,
+          and therefore natural reason itself supplies and dictates:
+          when,
+          namely,
+          there is no superior to whom recourse can be had,
+          et cetera. 
+          And concerning such infidels,
+          who offend us,
+          says 
+          <ref xml:id="lca8s8-d1e394-Rd1e604">
+            <name xml:id="lca8s8-d1e394-Nd1e605">
+              Baldus
+            </name>
+            in 
+            <title>
+              the proem on the Decretals of Gregory
+            </title>,
+            3rd col.
+          </ref>,
+          that by temporal judges they can well be punished,
+          all infidels near the territory of the one judging:
+          nor are they distinguished whence they may be,
+          as 
+          <ref xml:id="lca8s8-d1e394-Rd1e619">
+            l. 3. ff. de offi. presi.
+          </ref>,
+          where it is said:
+          that the governor of the province sometimes has authority also against foreigners,
+          if they have committed any evil,
+          et cetera.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

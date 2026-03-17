@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 57 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 57 [Bnf 12926 Translation]</title>
+          <date when="2026-01-06">January 06, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="238-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e789">
+        <p xml:id="lca8s8-d1e789-d1e97">
+          Chapter 57
+        </p>
+        
+        <p xml:id="lca8s8-d1e789-d1e102">
+          It does not seem that what contributes somewhat to the truth of this question should be omitted,
+          namely that Sepulveda,
+          with an incredible desire to publish the impious work which he wrote on this matter,
+          presented it to the Supreme Council of the Indies.
+          There,
+          when the impiety of the work and its most present poison were observed,
+          the most prudent senators rejected the work,
+          not wishing it to be printed.
+          But again Sepulveda,
+          lest this work should perish for him,
+          attempted by wondrous intrigues to approach the judges of the Supreme Royal Council,
+          thinking it would come to pass that men ignorant of Indian affairs would not perceive the poison.
+          They however,
+          according to their gravity,
+          <pb ed="#P" n="239-r"/>
+          referred the judgment of the work to the academies of Salamanca and Complutense,
+          which finally,
+          with mature deliberation having been sent ahead,
+          and many disputations having preceded on both sides,
+          responded that the work was unworthy of the press because it contained doctrine that was 
+          hardly sound,
+          and as it seemed to some Complutensian theologians,
+          most pernicious.
+        </p>
+        
+        <p xml:id="lca8s8-d1e789-d1e155">
+          Sepulveda had sent the work before to the Council of Trent.
+          But certain fathers,
+          when they had read through the work and understood that the matter was hardly Christian,
+          did not wish to treat of it,
+          surely intending to prohibit the work from being printed and to impose silence on the author,
+          if they had known that Sepulveda desired so greatly to publish it.
+          Thus a man worthy of faith who attended the most sacred council narrated to me as certain.
+          Sepulveda did not rest,
+          but indeed,
+          having scorned the judgment of the academies and of each royal council,
+          sent the work secretly to Rome so that it might be printed there,
+          understanding the liberty of that city,
+          and that there was no one there who would turn back his poisonous arrows by opposing his breast.
+          But what ruin that impious work will bring,
+          perhaps the outcome of the matter will teach.
+        </p>
+        
+        <p xml:id="lca8s8-d1e789-d1e202">
+          But I do not know why an old man,
+          a priest,
+          and a theologian,
+          wished to have printed a work condemned by so many and such great men of two academies and 
+          finally of the fathers who attended the council.
+          Perhaps he does not wish so many vigils to perish for him,
+          but it would be better that so many souls should not perish,
+          to whose destruction Sepulveda seems to have devoted himself.
+          <pb ed="#P" n="239-v"/>
+          I pray for a better mind for him.
+        </p>
+        
+        <p xml:id="lca8s8-d1e789-d1e230">
+          He brings forward in confirmation of his most pestilential opinion a certain Oviedo who wrote a 
+          history,
+          as he himself calls it general,
+          about Indian affairs,
+          who in book 3 chapter 6 of that work writes that the people of the island of Hispaniola are 
+          vagrant,
+          idle,
+          mendacious,
+          prone to evil and subject to many vices;
+          furthermore of failing memory,
+          inconstant,
+          cowardly,
+          ungrateful and hardly capable.
+          Then that if there is any virtue in them,
+          it flourishes in adolescence.
+          But those who have entered manly age are overwhelmed by abominable vices.
+          Again in book 6 chapter 9 of that work,
+          speaking of the inhabitants of the continent,
+          he calls them wild,
+          savage,
+          incorrigible,
+          who can neither be corrected by severity nor led to virtue by blandishments or friendly 
+          admonitions;
+          shameless,
+          prone to evil,
+          cruel and who do not know how to be moved to mercy.
+          He also writes that their little ones,
+          when baptized,
+          can attain eternal happiness;
+          but those who have entered adolescence care little for the Christian religion even if they 
+          receive baptism then or have already received it before.
+          Both because the Christian religion seems to them burdensome and troublesome,
+          and then because,
+          since they are of failing memory,
+          they immediately commit to oblivion whatever is handed down to them.
+          <pb ed="#P" n="240-r"/>
+          These lies scattered in various places of his history,
+          <name xml:id="lca8s8-d1e789-Nd1e328">Oviedo</name>
+          did not blush to write in that history from which he foolishly promises himself immortality.
+        </p>
+        
+        <p xml:id="lca8s8-d1e789-d1e337"> 
+          Since criminal lies falsely written against a most sincere and most modest people have rendered 
+          them infamous,
+          when that people,
+          praised for docility and talent and a very well constituted republic (as we shall say in its 
+          place),
+          was worthy of commendation above all.
+          Oviedo has his judge.
+          Christ lives and has a scourge in his hand.
+          This most vain trifler will render account to him,
+          by his most virulent slanders he gives courage to most impious plunderers,
+          so that they may utterly destroy a people deserving no such thing,
+          and he diminishes the zeal of pious men who will think they are announcing the gospel not to men 
+          but to beasts.
+          If to falsely defame one single man is a sin worthy of eternal death,
+          and the more serious the greater the loss of property or honor proceeds from it;
+          if a sin of this kind is scarcely remitted by recanting a palinode,
+          what should be thought or who could worthily exaggerate the sin of this most wretched man,
+          making an insult to almost the entire human race,
+          from which so many slaughters,
+          so many fires,
+          so many bereavements,
+          finally so great an ocean of evils is derived?
+          Outside this cause,
+          how many lies has that miserable man heaped up?
+          He professes that he will write the truth,
+          and he thrusts pure fables upon the reader.
+          I know one should spare a man who is uneducated and occupied with depicting the genealogies 
+          of any people.
+          <pb ed="#P" n="240-v"/>
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

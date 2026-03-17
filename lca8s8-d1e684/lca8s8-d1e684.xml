@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 49 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 49 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-30">July 30, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="210-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e684">
+        <head xml:id="lca8s8-d1e684-Hd1e97">Chapter 49 [Bnf 12926 Transcription]</head>
+
+        <p xml:id="lca8s8-d1e684-d1e99">
+          Chapter 49
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e104">
+          It does not stand against the previously stated arguments that the blessed Augustine expounds that evangelical parable in his letters 
+          and other works concerning bodily and violent compulsion.
+          For his exposition is true but only regarding heretics.
+          Their condition and case differs vastly from that of the gentiles who have never received the faith,
+          as was shown extensively above in chapter 6 and in what follows.
+          For the abundance of divine scripture is so great that each word has many literal senses that are pious 
+          (according to Thomas),
+          who gives the reason for this 
+          <ref xml:id="lca8s8-d1e684-Rd1e137" target="http://scta.info/resource/TAca84-d1e51-d1e2072">in part 1, question 1, article 10 in the body at the end.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e144">
+          But that heretics are compelled by the application of force to return to the fold of Christ is proven.
+          Since he who has promised nothing,
+          like a pagan,
+          is forced to render nothing.
+          But a heretic,
+          since in baptism he has devoted himself to Christ,
+          can be compelled to return to his fold.
+          For the law of nature dictates that each person must fulfill what he has promised according to that statement of 
+          <ref xml:id="lca8s8-d1e684-Rd1e163">the Apostle to the Romans 13</ref> 
+          <quote xml:id="lca8s8-d1e684-Qd1e165" source="http://scta.info/resource/rom13_7@1-3">render to all their dues</quote> 
+          and 
+          <quote xml:id="lca8s8-d1e684-Qd1e170" source="http://scta.info/resource/rom13_8@1-3">owe nothing to anyone</quote>.
+          And by natural law a simple promise obliges,
+          which he who does not fulfill sins mortally as in 
+          <ref xml:id="lca8s8-d1e684-Rd1e180" target="http://scta.info/resource/gd-p2c22q5-d1e315">c. Iuramenti 22. q. 5</ref>.
+          And in 
+          <ref xml:id="lca8s8-d1e684-Rd1e185" target="http://scta.info/resource/cice-l1t35-d1e119">c. 1. de pactis</ref> 
+          and there the glosses and doctors;
+          and 
+          <ref xml:id="lca8s8-d1e684-Rd1e191" target="http://scta.info/resource/TAca84-d1e1840-d1e1141@5-40">Saint Thomas 2a 2ae, q. 10, article 3 ad 5</ref> 
+          And in 
+          <ref xml:id="lca8s8-d1e684-Rd1e199" target="http://scta.info/resource/ta-l4d27q2-d1e142">4 Sentences distinction 27 q. 2, article 1 ad 2</ref>.
+          But a heretic is obliged not only to Christ but also to the Church.
+          Therefore he must be compelled to fulfill his promise just as one who has made a vow is compelled to fulfill the vow as in 
+          <ref xml:id="lca8s8-d1e684-Rd1e214">Psalm 75</ref> 
+          <quote xml:id="lca8s8-d1e684-Qd1e216" source="http://scta.info/resource/ps75_12@1-6">make vows and render them to the Lord your God</quote>,
+          for although making a vow is voluntary,
+          nevertheless after the vow has been made,
+          it must be fulfilled necessarily as in 
+          <ref xml:id="lca8s8-d1e684-Rd1e227" target="http://scta.info/resource/cice-l3t34-d1e210">c. magnae</ref> 
+          and in 
+          <ref xml:id="lca8s8-d1e684-Rd1e231" target="http://scta.info/resource/cice-l3t34-d1e195">c. liceat: devoto</ref>.
+          So a free man and free cities can subject themselves to a king or prince,
+          and after they have once subjected themselves they can in no way repent.
+          For a free man can subject himself to another as is noted in 
+          <ref xml:id="lca8s8-d1e684-Rd1e246" target="http://scta.info/resource/wef6td-d1e218-d1e159">c. grandi de supplenda negligentia praelatorum in 6</ref> 
+          and in 
+          <ref xml:id="lca8s8-d1e684-Rd1e251">l. cum scimus de agricolis et censitis</ref> 
+          And in 
+          <ref xml:id="lca8s8-d1e684-Rd1e256">l. 1: § 1</ref>,
+          And 
+          <ref xml:id="lca8s8-d1e684-Rd1e258">L. iuris gentium, § pretor, ff. de pactis</ref>.
+          Therefore heretics who do not fulfill the vow made in baptism can by right be compelled to fulfill it.
+          For he who is a heretic offends Christ and commits the crime of treason,
+          whose offense is avenged by the Church,
+          of which the heretic is a subject and to its head the Roman Pontiff.
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e277">
+          The root and foundation of this subjection is threefold
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e285">
+          The first is the vow solemnly given and the spontaneous confession and promise of faith made in the reception of baptism.
+          as in 
+          <ref xml:id="lca8s8-d1e684-Rd1e295" target="http://scta.info/resource/gd-p3d4-d1e1193">c. prima</ref>,
+          and 
+          <ref xml:id="lca8s8-d1e684-Rd1e299" target="http://scta.info/resource/gd-p3d4-d1e1018">c. postquam</ref>.
+          And the following de consecratione distinctio 4
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e305">
+          The second foundation is that the baptized person is obliged through stipulation by those words "do you believe in God" etc.
+          <ref xml:id="lca8s8-d1e684-Rd1e313">gloss in the said c. prima</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e316">
+          The third is the obedience which the baptized person tacitly and implicitly promises to Christ and the Church in baptism.
+          Moreover,
+          through baptism each person hands himself over to the Lord and the dominion of Christ and becomes his subject and debtor,
+          fleeing and alienating himself through renunciation from the service and possession of his former lord and possessor the devil.
+          And therefore he professes that henceforth he will live according to the divine evangelical law.
+          He is also counted among the assembly of the faithful and the Christian republic.
+          As in 
+          <ref xml:id="lca8s8-d1e684-Rd1e344" target="http://scta.info/resource/gd-p3d4-d1e1018">c. postquam</ref>,
+          and in 
+          <ref xml:id="lca8s8-d1e684-Rd1e349" target="http://scta.info/resource/gd-p3d4-d1e912">c. ante baptismum at the end</ref> 
+          and in 
+          <ref xml:id="lca8s8-d1e684-Rd1e352" target="http://scta.info/resource/gd-p3d4-d1e766">c. ab antiqua de consecratione distinctio 4</ref> 
+          therefore rightly the heretic is compelled by the Church to hold the faith and render obedience 
+          and to live according to the law of Christ which he vowed to hold and spontaneously promised.
+          For any subject of any prince or member of a republic is bound to obey its laws and to live according to them 
+          and to conform himself to the other good citizens 
+          <ref xml:id="lca8s8-d1e684-Rd1e373" target="http://scta.info/resource/gd-p1d8-d1e149">8 dist. c. quae contra</ref>,
+          <ref xml:id="lca8s8-d1e684-Rd1e378" target="http://scta.info/resource/cice-l1t2-d1e119">c. 1, de constitutionibus</ref>,
+          <ref xml:id="lca8s8-d1e684-Rd1e381">C. de summa trinitate l. cunctos populos</ref>.
+          And this is what 
+          <ref xml:id="lca8s8-d1e684-Rd1e388">Augustine means when expounding that parable "compel them to enter"</ref> 
+          And 
+          <ref xml:id="lca8s8-d1e684-Rd1e393" target="http://scta.info/resource/TAca84-d1e1324-d1e1741">Saint Thomas 2a 2ae q. 10 article 3 in the body</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e684-Rd1e399" target="http://scta.info/resource/TAca84-d1e1324-d1e1856@5-32">ad 3</ref>.
+          And the Council of Toledo expresses this difference between heretics and pagans in canon 56,
+          determining that those who have never received the faith are not to be compelled to receive it,
+          but otherwise with those who have received it and who depart by heresy from the unity of the Church,
+          that is,
+          from the body of Christ.
+          For these must be compelled to return to the faith,
+          which is also read in 
+          <ref xml:id="lca8s8-d1e684-Rd1e422" target="http://scta.info/resource/gd-p1d45-d1e179">c. de iudaeis 45 distinctio</ref> 
+          since however ecclesiastical compulsion which is done by holy admonitions and the word of God 
+          was not sufficient to compel heretics because the Church in its early days lacked the faculty and power 
+          since it did not have any Christian princes who would help and defend it,
+          Augustine writing to Donatus the heretic who complained that the Church,
+          contrary to the example of Christ and the apostles,
+          uses arms and the bodily forces of secular princes to compel to the faith.
+          Augustine,
+          explaining more fully the aforesaid difference,
+          responds that in the Church two times are to be considered:
+          the first when it was sprouting with new growth,
+          for then it only invited to the faith.
+          <quote xml:id="lca8s8-d1e684-Qd1e460">
+            That prophecy had not yet been fulfilled:
+            and all the kings of the earth shall worship him,
+            all nations shall serve him from Psalm 71.
+            The second time is when the prophecy has been fulfilled.
+            Which indeed,
+            the more it is fulfilled,
+            the more power the Church uses,
+            so that it not only invites,
+            but also acts for the good.
+            The Lord wanted to signify this because someone would have great power,
+            but he first chose to commend humility.
+            This is also shown quite evidently in that similitude of the feast</quote> 
+          etc 
+          <ref xml:id="lca8s8-d1e684-Rd1e489">thus Augustine</ref> 
+          and it is found in 
+          <ref xml:id="lca8s8-d1e684-Rd1e495" target="http://scta.info/resource/gd-p2c23q4-d1e711">23. q. 4,. c. displicet</ref> 
+          and 
+          <ref xml:id="lca8s8-d1e684-Rd1e498" target="http://scta.info/resource/gd-p2c23q4-d1e711">c. non invenitur.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e502">
+          Therefore in the second time the prophecy was fulfilled.
+          Therefore in the time when the Church had kings and princes whose arms it could use,
+          it compresses those unwilling to persevere in the faith already received.
+          But the reasoning is different for pagans,
+          especially Indians,
+          who not only have not received the faith of Christ but have not even heard of it,
+          and thus since they have promised nothing nor are subjects of the Church,
+          there is no reason that they should be compelled like heretics about whom alone the blessed Augustine speaks.
+          For it is manifest that all such infidels who have not received the faith belong to the first time of the Church,
+          when (namely) for converting infidels it used reasons and persuasions,
+          and the Church has always used this,
+          not arms or violence,
+          even if it had faithful princes,
+          because the reason for using such means ceases.
+          But heretics,
+          on the contrary,
+          must be compelled to hold what they promised and to pay to God the due obedience and to the Church their allegiance,
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e553">
+          but because in the beginning,
+          although there were heretics,
+          nevertheless it lacked the garrisons of faithful princes,
+          therefore it patiently endured the impious attacks of heretics.
+          But after,
+          by divine gift,
+          the kings of the age were converted to Christ,
+          and thus it began to have sons and subject faithful princes,
+          then using their ministry and laws and arms it punishes and compels heretics.
+          And this is the second state or time of the Church to which heretics,
+          apostates,
+          and schismatics are said to belong.
+          And thus it is clear what is the mind of Augustine expounding the oft-mentioned parable "compel them to enter" 
+          concerning exterior and bodily violence.
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e584">
+          And he still expounding nominally those words "compel them to enter" 
+          in epistle 50 to Boniface the Count teaches that one should judge differently about heretics,
+          but another thing about pagans,
+          who are to be gently and sweetly attracted and invited to the faith,
+          but not compelled.
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e601">
+          Whence Augustine says thus:
+          <quote xml:id="lca8s8-d1e684-Qd1e605">
+            does it not pertain to the diligence of the shepherd also to recall those sheep which not violently 
+            but gently and softly seduced have wandered from the flock and have begun to be possessed by strangers,
+            when found to the Lord's fold,
+            if they wish to resist,
+            with the terrors of scourges or even pains?
+            Especially if among the fugitives and robber slaves they multiply by fecundity,
+            does not that have more right in which the Lord's character is recognized?
+            For thus the error of the sheep is to be corrected so that in it the seal of the redeemer is not corrupted.
+            And below:
+            therefore let the Church imitate in compelling these her Lord,
+            who first waited that she would compel no one so that from the faith of kings and nations the prophetic preaching might be fulfilled.
+            From this also not absurdly is understood that apostolic sentence where blessed Paul says:
+            Ready to avenge all disobedience when your obedience shall be fulfilled.
+            Whence also the Lord himself concerning his great supper first ordered the guests to be led,
+            then to be compelled.
+            For when his servants responded:
+            Lord,
+            it is done as you commanded,
+            and still there is room,
+            he said:
+            Go out into the ways and hedges and whomever you find compel to enter.
+            In those therefore who were gently led at first the obedience was fulfilled;
+            but in those who are compelled the disobedience is coerced.
+            For what is "compel to enter" when first it was said "lead" 
+            and it was responded "it is done as you commanded and still there is room"?
+            If he had wanted to be understood that they were to be compelled by the terrors of miracles,
+            rather to those who were first called many divine miracles were done,
+            especially to those about whom it is said:
+            the Jews seek signs,
+            to those same gentiles such miracles in the times of the apostles commended the gospel,
+            so that if they were ordered to be compelled by such,
+            the former guests,
+            as I said,
+            would more rightly be believed to have been compelled.
+            Wherefore if by the power which through religion and faith of kings,
+            in the time when it was due,
+            the Church received by divine gift,
+            those who are found in the ways and in the hedges,
+            that is,
+            in heresies and schisms,
+            are compelled to enter,
+            let them not attend because they are compelled.</quote>
+          And a little below:
+          <quote xml:id="lca8s8-d1e684-Qd1e714">
+            but truly before those laws by which they are compelled to enter the holy feast were sent to Africa,
+            it seemed to some of the brothers,
+            among whom I also was,
+            although the rage of the Donatists raged everywhere,
+            that it should not be sought from the emperors that they order that heresy itself not be at all,
+            by establishing a punishment for those who wished to be in it,
+            but rather that they establish this:
+            that they not permit their furious violences against those who would either preach or read the Catholic truth by speaking.
+            We thought this could be done in some measure if the law of pious memory Theodosius,
+            which he promulgated generally against all heretics</quote> 
+          etc. 
+          <ref xml:id="lca8s8-d1e684-Rd1e751" corresp="#lca8s8-d1e684-Qd1e605 #lca8s8-d1e684-Qd1e714">all these things Augustine</ref> 
+          in form
+        </p>
+
+        <p xml:id="lca8s8-d1e684-d1e759">
+          You see,
+          reader,
+          the blessed Augustine thinking differently about heretics,
+          differently about those who have not yet received the faith,
+          namely that the former should be compelled by the arms of kings,
+          the latter should be attracted by reasons,
+          there so that by the faith of kings and nations the evangelical preaching might be fulfilled etc.
+          And there the sheep seduced from the flock (that is) the Church or assembly of the faithful have wandered,
+          and have begun to be possessed by strangers,
+          that is,
+          heretics,
+          lest in them the seal (that is) the character of the redeemer which the soul receives indelibly in baptism be corrupted.
+          When found,
+          to recall to the Lord's fold with the terrors of scourges.
+          Likewise for the Church to imitate her Lord,
+          what else is it than first to wait that each infidel receive the faith voluntarily,
+          which if afterward he abandons,
+          he must be compelled to return to it?
+          All of which the blessed Augustine confirms by the authority of the apostle:
+          <quote xml:id="lca8s8-d1e684-Qd1e802" source="http://scta.info/resource/IIcor10_6@5-12">
+            ready to avenge all disobedience when your first obedience shall be fulfilled</quote> 
+          <ref xml:id="lca8s8-d1e684-Rd1e809" corresp="#lca8s8-d1e684-Qd1e802">2 Corinthians 10</ref>
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

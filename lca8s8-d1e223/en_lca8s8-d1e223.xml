@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 14 [Bnf 12926 Transcription] [English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 14 [Bnf 12926 Transcription] [English Translation]</title>
+          <date when="2024-10-23">Oct 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines
+          for a diplomatic edition. This file is an English translation of the original Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-10-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="72-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e223">
+        <head xml:id="lca8s8-d1e223-Hd1e97">Chapter 14 [Bnf 12926 Transcription]</head>
+
+        <p xml:id="lca8s8-d1e223-d1e99">
+          Chapter 14.
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e104">
+          ¶ Furthermore, <name xml:id="lca8s8-d1e223-Nd1e106">Sepúlveda</name>,
+          in support of his opinion,
+          twists the words of the blessed <ref xml:id="lca8s8-d1e223-Rd1e110">Cyprian,
+          written in the book To Fortunatus, on Exhortation to Martyrdom.</ref>
+          There <name xml:id="lca8s8-d1e223-Nd1e117">Cyprian</name>, citing <ref xml:id="lca8s8-d1e223-Rd1e119">Deuteronomy 13,</ref>
+          reports that the Lord commanded that a city
+          universally worshipping idols be destroyed.
+          Cyprian argues thus:
+          <quote xml:id="lca8s8-d1e223-Qd1e128">if in the time of the old law,
+          before the coming of Christ,
+          a city worshipping false gods was punished in this way,
+          how much more will the same be done today,
+          and the same commandment of the Lord be observed?
+          Since the Lord himself,
+          having become man in word and deed,
+          has taught us the truth and the worship of the true God?</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e142">
+          By this authority,
+          <name xml:id="lca8s8-d1e223-Nd1e148">Sepúlveda</name> — with open display, as they say —
+          incites the Spanish people to the destruction of the Indians,
+          teaching that those who shed the blood of that people
+          consecrate their hands to God:
+          on the analogy of that earlier time,
+          in which a city that had apostatized through idolatry
+          from the true faith in God which it had previously received
+          was to be destroyed by divine command,
+          as is found in <ref xml:id="lca8s8-d1e223-Rd1e172">Deut. 13.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e175">
+          And indeed a sentence worthy of eternal fire.
+          For if,
+          in order to ward off so many slaughters and losses of human life —
+          indeed so many destructions and devastations of peoples and multitudes,
+          and innumerable evils henceforth irreparable,
+          perpetrated by tyrants in that world up to now —
+          the very many laws, rules, precepts, prohibitions,
+          threats, and penalties issued by the kings of Spain profited nothing;
+          the gentle entreaties of preachers of the Word of God,
+          offered both in season and out of season,
+          together with the most vehement reproaches
+          and solemn warnings of the terrible day of final judgment
+          and of infernal punishments, profited nothing;
+          the denial of the sacraments by confessors profited nothing;
+          the censures and excommunications of prelates profited nothing —
+          none of these things, I say, profited to make
+          so many evils cease,
+          but rather they grew worse and far more harmful day by day —
+          what will befall the wretched,
+          peaceful, gentle, <gap reason="blank" extent="6" unit="characters"/> and unarmed people
+          at the hands of such enemies,
+          who thirst for their blood in order to increase their own gold,
+          once the plunderers should perceive that there are those who say
+          that in committing those crimes
+          they consecrate their sacrilegious and blood-stained hands to the true God —
+          just as was said in <ref xml:id="lca8s8-d1e223-Rd1e237">Exodus 32,</ref>
+          concerning those who by the command of Moses
+          carried out vengeance upon those who worshipped the golden calf?
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e245">
+          O the profound darkness of a man
+          who seeks to catch popular favor,
+          or strives most dangerously to flatter royal ears!
+          ¶ And although this error has been answered
+          by what we adduced in the <ref xml:id="lca8s8-d1e223-Rd1e258">preceding chapter</ref>
+          regarding the statement of <ref xml:id="lca8s8-d1e223-Rd1e264">Nicholas of Lyra,</ref>
+          nevertheless it has seemed good to answer it more fully
+          by explaining the <ref xml:id="lca8s8-d1e223-Rd1e270">opinion of blessed Cyprian</ref>
+          in what follows.
+          For the clarification of this,
+          it must be observed that the entire intention
+          of <ref xml:id="lca8s8-d1e223-Rd1e280"><name xml:id="lca8s8-d1e223-Nd1e281">blessed Cyprian</name> in that work</ref>
+          concerns the exhortation of Catholics
+          to persevere in the faith of Christ once received,
+          and to prefer to endure every torment and thus martyrdom
+          rather than to depart from the faith.
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e293">
+          Hence, first in <ref xml:id="lca8s8-d1e223-Rd1e295">chapter 6,</ref>
+          he teaches Christians that,
+          with death and every torment despised,
+          they ought to profess Christ the true God.
+          Adducing that passage of <ref xml:id="lca8s8-d1e223-Rd1e303">Matthew 10:</ref>
+          <quote xml:id="lca8s8-d1e223-Qd1e306">he who loves father or mother more than me
+          is not worthy of me.
+          For having been redeemed and brought to life by the blood of Christ,
+          we ought to place nothing before Christ.
+          For in the Gospel the Lord says:
+          he who loves father or mother more than me is not worthy of me</quote>
+          and so forth.
+          And in <ref xml:id="lca8s8-d1e223-Rd1e321">chapter 7</ref>
+          <quote xml:id="lca8s8-d1e223-Qd1e323">he says: those snatched from the jaws of the devil
+          and freed from the snares of the world
+          ought not to return to the world again.</quote>
+          And he adduces that passage of <ref xml:id="lca8s8-d1e223-Rd1e330">Exodus 14</ref>
+          concerning the children of Israel wishing to return to Egypt.
+          And in <ref xml:id="lca8s8-d1e223-Rd1e337">chapter 8 of that same work, Cyprian</ref> says
+          that one must persist and persevere in faith and virtue
+          and the completion of heavenly and spiritual grace.
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e346">
+          And because in his time many Christians
+          who had embraced Christian truth
+          were returning to the worship of idols,
+          he begins in <ref xml:id="lca8s8-d1e223-Rd1e356">chapter 10</ref>
+          to teach that an idol is not God,
+          and that neither man nor idol ought to be worshipped
+          besides God.
+          In the <ref xml:id="lca8s8-d1e223-Rd1e363">second chapter</ref>
+          he proves that the worship of latria is owed to God alone,
+          and that every sacrifice is worthy of him alone.
+          In the third chapter he teaches what threats
+          the Lord announced against those
+          from the Jewish people who would worship idols
+          — for which he adduces several authorities —
+          and moreover in the fourth chapter
+          he strives to prove that the Lord very rarely grants pardon
+          for sins committed through idolatry
+          once a man has recognized him through faith.
+          <quote xml:id="lca8s8-d1e223-Qd1e390">Moses (says Cyprian) intercedes in Exodus for the people
+          and does not obtain it:
+          I pray, he says, O Lord,
+          this people has sinned,
+          they have committed a great sin,
+          they have made for themselves gods of gold</quote>
+          and so forth.
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e402">
+          ¶ Likewise, <ref xml:id="lca8s8-d1e223-Rd1e404">in the fifth chapter,</ref>
+          he reports that the Lord was so angered against
+          those who had apostatized from the faith through idolatry
+          that he commanded that all of them be killed outright,
+          even if a son or brother were the one urging others
+          to return to idolatry — <ref xml:id="lca8s8-d1e223-Rd1e421">Deuteronomy 13.</ref>
+          For so Scripture says:
+          that if your brother should entreat you,
+          or your son, or your daughter,
+          or your wife who lies in your bosom,
+          or your friend who is equal to your own soul,
+          secretly saying: let us go and serve other gods,
+          the gods of the nations —
+          do not consent to him, and do not listen to him,
+          and let your eye not spare him,
+          and your hand shall be upon him,
+          and so forth.
+          Then, he says, the Lord commands there
+          that if all the Jews of some Hebrew city
+          were to worship idols,
+          they should be utterly destroyed.
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e445">
+          For he is not speaking of cities
+          that were outside the promised land,
+          but of those inhabited by the Jews,
+          as appears there.
+          For the Lord says:
+          <quote xml:id="lca8s8-d1e223-Qd1e467">if you hear in one of your cities,
+          which the Lord your God will give you to dwell in,
+          that certain sons of Belial have gone out from among you
+          and have turned away the inhabitants of their city,
+          and said: let us go and serve other gods —
+          inquire diligently, and when the truth of the matter is established,
+          if you find it to be certain,
+          you shall immediately strike the inhabitants of that city
+          with the edge of the sword,
+          and destroy it</quote>
+          and so forth. Deuteronomy 13.
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e492">
+          And he speaks of the Hebrews themselves
+          dwelling in the same city.
+          As is clear from the phrase there:
+          "in one of your cities,"
+          and there: "and they have turned away" —
+          that is, from the faith to the worship of idols —
+          "the inhabitants of your city."
+          Likewise it is clear that he is not speaking
+          of Canaanite idolaters,
+          since at the entry of the Israelites into the promised land
+          all the native and natural inhabitants were to be killed
+          by divine command.
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e515">
+          Therefore <ref xml:id="lca8s8-d1e223-Rd1e517">Cyprian, citing</ref>
+          <ref xml:id="lca8s8-d1e223-Rd1e520">chapter 13 of Deuteronomy,</ref>
+          has in mind those who,
+          having heard and received the evangelical truth,
+          were returning to the worship of idols.
+          For he teaches that these are to be punished,
+          and that to punish them is greatly pious and holy;
+          and thus the prince is bound to punish them,
+          even if they bring his rule into danger.
+          Hence Cyprian argues holily and with great learning,
+          from the lesser to the greater, saying:
+          <quote xml:id="lca8s8-d1e223-Qd1e539">if before the coming of Christ
+          these precepts concerning the worship of God
+          and the spurning of idols were observed,
+          how much more must they be observed
+          after the coming of Christ,
+          since he, in coming,
+          not only urged us by words alone,
+          but also by deeds</quote>
+          and so forth — this is what Cyprian teaches,
+          and we gladly affirm and profess it.
+          But what, I ask, does this have to do with the people of the Indians,
+          who have not even heard the evangelical truth by report,
+          much less received it,
+          and who moreover are innocent in warfare
+          and most inclined to receive the truth —
+          a people to be nurtured with Christian charity
+          rather than to be persecuted with arms
+          in a diabolical and more than pagan fashion?
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e578">
+          ¶ <ref xml:id="lca8s8-d1e223-Rd1e580">Gratian, moreover, began that chapter
+          from the words "if you hear":
+          Si audieris, 23. q. 5.</ref>
+          from which the adversaries draw their fragile argument against the Indians.
+          Gratian adduces that chapter together with the preceding ones
+          in order to prove that even after the coming of Christ
+          evildoers are to be punished with death
+          by those holding legitimate power in the commonwealth,
+          without violation of <ref xml:id="lca8s8-d1e223-Rd1e608">that precept,
+          "you shall not kill."</ref>
+          And this is <name xml:id="lca8s8-d1e223-Nd1e613">Gratian's</name> final intention.
+        </p>
+
+        <p xml:id="lca8s8-d1e223-d1e619">
+          ¶ It appears therefore manifestly
+          how <name xml:id="lca8s8-d1e223-Nd1e623">the Reverend Doctor Sepúlveda</name>
+          has corrupted <ref xml:id="lca8s8-d1e223-Rd1e628">the opinion of blessed Cyprian,</ref>
+          as well as the testimonies of other saints,
+          dragging it to a meaning contrary to it.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

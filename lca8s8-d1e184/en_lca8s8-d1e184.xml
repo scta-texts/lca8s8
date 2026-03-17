@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"
+  type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"
+  type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 11 [Bnf 12926 Transcription] — English Translation</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 11 [Bnf 12926 Transcription] — English Translation</title>
+          <date when="2024-09-14">September 14, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="58-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e184">
+        <head xml:id="lca8s8-d1e184-Hd1e97">Chapter 11 [Bnf 12926 Transcription]</head>
+
+        <p xml:id="lca8s8-d1e184-d1e99">
+          Chapter 11
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e104">
+          ¶ The foregoing is confirmed by
+          <ref xml:id="lca8s8-d1e184-Rd1e112" corresp="#lca8s8-d1e184-Qd1e117">Paul, Romans 10</ref>.
+          <quote xml:id="lca8s8-d1e184-Qd1e117" source="http://scta.info/resource/rom10_12@1-7">There is no distinction between Jew and Greek.</quote>
+          And in
+          <ref xml:id="lca8s8-d1e184-Rd1e123" corresp="#lca8s8-d1e184-Qd1e125">Galatians 3</ref>:
+          <quote xml:id="lca8s8-d1e184-Qd1e125" source="http://scta.info/resource/gal3_28@1-22">There is neither Jew nor Greek,
+          neither slave nor free,
+          neither male nor female:
+          for all are one in Christ.</quote>
+          And in
+          <ref xml:id="lca8s8-d1e184-Rd1e132" corresp="#lca8s8-d1e184-Qd1e139">Romans 1</ref>
+          he acknowledges himself bound to preach the Gospel to all:
+          <quote xml:id="lca8s8-d1e184-Qd1e139" source="http://scta.info/resource/rom1_14@1-8">To Greeks and barbarians,
+          to the wise and the unwise,
+          I am a debtor:
+          and, as much as is in me,
+          I am ready to preach the gospel also to you who are in Rome.</quote>
+          Again,
+          <name xml:id="lca8s8-d1e184-Nd1e149">blessed Peter</name> in
+          <ref xml:id="lca8s8-d1e184-Rd1e152">Acts 10</ref>:
+          <quote xml:id="lca8s8-d1e184-Qd1e154">Peter opened his mouth and said:
+          In truth I perceive
+          that God is no respecter of persons,
+          but in every nation
+          he who fears God and works righteousness
+          is acceptable to him.</quote>
+          Where
+          <ref xml:id="lca8s8-d1e184-Rd1e171">the gloss of Bede says</ref>
+          that God is
+          <quote xml:id="lca8s8-d1e184-Qd1e173">no respecter of persons,
+          because he sent his only-begotten Son —
+          who is the creator and lord of all —
+          to make peace with the human race,
+          in whose name,
+          as the prophets testify,
+          not only Jews
+          but all believers would receive the remission of sins.</quote>
+          Thus far he.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e190">
+          To all peoples, therefore,
+          without distinction,
+          the gospel must be proclaimed
+          in a brotherly and friendly manner,
+          offering them the remission of sins.
+          So
+          <ref xml:id="lca8s8-d1e184-Rd1e198"><name xml:id="lca8s8-d1e184-Nd1e199">the blessed Ambrose</name>,
+          Book 2, Chapter 1,
+          On the Calling of All Nations</ref>
+          says:
+          <quote xml:id="lca8s8-d1e184-Qd1e207">Has any distinction of nations or of persons
+          been made by this commandment?
+          It excluded no one by merit,
+          it separated no one by race,
+          it made no distinction by condition.</quote>
+          And to sum it up,
+          the blessed Ambrose there teaches
+          that the grace of God has shone upon all people of every nation,
+          and that the messenger of the gospel has been and must be sent to all —
+          to some sooner,
+          to others later —
+          since, as he firmly declares:
+          <quote xml:id="lca8s8-d1e184-Qd1e228">it must be professed that God wills all people to be saved
+          and to come to the knowledge of the truth.</quote>
+          Thus far he.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e236">
+          Therefore peace,
+          Christian friendship,
+          and mutual love must be offered to the pagans
+          to whom the Gospel is first proclaimed,
+          together with the offer of the remission of sins.
+          I call "the first proclamation"
+          that which is made to peoples who have nowhere yet heard the Gospel.
+          The second will be called that
+          which is made to heretics and schismatics —
+          just as the "first Eucharist" is said to be that which Christ instituted,
+          as is clear in
+          <ref xml:id="lca8s8-d1e184-Rd1e256" target="http://scta.info/resource/gd-p2c1q1-d1e1464@11-22" corresp="#lca8s8-d1e184-Qd1e261">decretis 1. q. 1, c. christus quid fecit</ref>
+          where it is written:
+          <quote xml:id="lca8s8-d1e184-Qd1e261">that he would hand over to him the first Eucharist,
+          consecrated by his own hands
+          and commended by his own mouth,
+          as he had given it to the other apostles.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e271">
+          ¶ Third,
+          from those words of Christ, namely
+          <quote xml:id="lca8s8-d1e184-Qd1e275">for so it is written</quote>,
+          we must note
+          that just as the Gospel must be proclaimed
+          in the same manner and form
+          to Greeks as to Latins,
+          to Scythians, barbarians,
+          slave and free,
+          men and women —
+          so too no distinction is to be made
+          on the grounds that some people
+          are subject to the most atrocious crimes
+          or to however dreadful vices of idolatry
+          or other abominable kinds.
+          For the greater the crimes of the pagans,
+          the more brightly will shine the immense mercy of God,
+          when pagans see the proclaimers of the Gospel
+          offering the remission of all crimes,
+          whatever they may be
+          and of whatever kind.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e312">
+          This will greatly move them to take up
+          the light and gentle yoke of Christ,
+          as the gloss there teaches.
+          For if the Gospel was proclaimed to those who crucified Christ —
+          than which crime none more atrocious can be imagined —
+          offering them the remission of sins,
+          who will be so foolish as to imagine even in a dream
+          that there are any pagans,
+          however impious and abominable,
+          to whom the Gospel should not be proclaimed
+          in the same form,
+          with the offered indulgence
+          and remission of sins
+          and fraternal charity?
+          So
+          <ref xml:id="lca8s8-d1e184-Rd1e342">the gloss notes there</ref>
+          that
+          <quote xml:id="lca8s8-d1e184-Qd1e344">it was necessary that the law of Christ
+          first be preached to the Jews gently and kindly,
+          so that the gentiles —
+          entangled in various errors and misdeeds —
+          might by this very proof of divine mercy
+          be summoned to hope for pardon,
+          seeing that pardon is granted even to those
+          who crucified the Son.</quote>
+          Thus far it.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e358">
+          This is more clearly evident
+          from the first sermon that
+          <name xml:id="lca8s8-d1e184-Nd1e362">Peter</name>
+          delivered to the Jews
+          after receiving the Holy Spirit.
+          For he addressed them thus:
+          <quote xml:id="lca8s8-d1e184-Qd1e369" source="http://scta.info/resource/act2_36 http://scta.info/resource/act2_37 http://scta.info/resource/act2_38">Let all the house of Israel therefore know most assuredly
+          that God has made this Jesus,
+          whom you crucified,
+          both Lord and Christ.
+          On hearing this
+          they were pierced to the heart
+          and said to Peter and the rest of the apostles:
+          What shall we do, brethren?
+          But Peter said to them:
+          Repent,
+          and let each one of you be baptized
+          in the name of Jesus Christ
+          for the remission of your sins,
+          and you will receive the gift of the Holy Spirit,
+          and so forth.</quote>
+          <ref xml:id="lca8s8-d1e184-Rd1e393">Acts 2</ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e396">
+          Where it is written
+          that three thousand of those people received the faith that day
+          and persevered in the teaching of the apostles.
+          Likewise, when Peter was doubting
+          whether all nations were capable of the kingdom of God,
+          and whether they should be admitted to the grace of the Gospel indifferently,
+          or whether some should be excluded on account of the enormity of their crimes,
+          a sheet was shown to him by divine revelation
+          containing all kinds of unclean and terrifying creatures —
+          serpents and birds —
+          and when he was told:
+          <quote xml:id="lca8s8-d1e184-Qd1e419">Peter, kill and eat</quote>,
+          and
+          <quote xml:id="lca8s8-d1e184-Qd1e426">Lord, I have never eaten anything unclean</quote>
+          was his reply,
+          it was said to him:
+          <quote xml:id="lca8s8-d1e184-Qd1e431">Do not call unclean
+          what God has made clean.</quote>
+          Wherefore, understanding
+          that no sinner, however great,
+          ought to be rejected from divine grace,
+          he said:
+          <quote xml:id="lca8s8-d1e184-Qd1e441">Now in truth I perceive
+          that God is no respecter of persons,
+          but in every nation
+          he who fears him and works righteousness
+          is acceptable to him.
+          God sent the word to the children of Israel,
+          proclaiming peace through Jesus Christ.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e453">
+          And
+          <ref xml:id="lca8s8-d1e184-Rd1e455">Jerome, in the Epistle to Augustine, which is number 170</ref>,
+          speaking of this vision of Peter, says:
+          <quote xml:id="lca8s8-d1e184-Qd1e465">A voice was made to Peter:
+          Arise, Peter, kill and eat, and so forth.
+          By which word it is shown
+          that no human being is by nature polluted,
+          but that all are equally called to the Gospel of Christ.
+          Because the voice to Peter was:
+          what God has cleansed,
+          do not you call common, that is, unclean.</quote>
+          Thus far Jerome.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e482">
+          There were moreover at Corinth
+          men infamous for impiety, sodomy, and robbery;
+          yet
+          <name xml:id="lca8s8-d1e184-Nd1e487">Paul</name>
+          wrote them so many letters with paternal charity,
+          and proclaimed the Gospel to them in no different form than to other peoples —
+          indeed he brought them to Christ
+          with greater gentleness and greater kindness and meekness,
+          going so far as to labor with his hands
+          lest he be a burden to those greedy people.
+          And so in
+          <ref xml:id="lca8s8-d1e184-Rd1e501" corresp="#lca8s8-d1e184-Qd1e503">2 Corinthians 11</ref>
+          he says:
+          <quote xml:id="lca8s8-d1e184-Qd1e503" source="http://scta.info/resource/IIcor11_7@11-16 http://scta.info/resource/IIcor11_8@1-8 http://scta.info/resource/IIcor11_9@1-10">that I preached the gospel of God to you free of charge,
+          robbing other churches by accepting support
+          for the purpose of serving you,
+          and when I was with you and was in need,
+          I was not a burden to any of you</quote>
+          and so forth.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e516">
+          That this people was subject to abominable crimes
+          is proved by the words of the apostle,
+          who rebukes and admonishes them in
+          <ref xml:id="lca8s8-d1e184-Rd1e526" corresp="#lca8s8-d1e184-Qd1e529">1 Corinthians 6</ref>
+          saying:
+          <quote xml:id="lca8s8-d1e184-Qd1e529" source="http://scta.info/resource/Icor6_9@9-17 http://scta.info/resource/Icor6_10@1-18 http://scta.info/resource/Icor6_11@1-24">Do not be deceived:
+          neither fornicators,
+          nor idolaters,
+          nor adulterers,
+          nor the sexually immoral,
+          nor sodomites,
+          nor thieves,
+          nor the covetous,
+          nor drunkards,
+          nor the abusive,
+          nor robbers
+          will possess the kingdom of God.
+          And such were some of you:
+          but you were washed,
+          you were sanctified,
+          you were justified
+          in the name of the Lord Jesus Christ
+          and in the Spirit of our God</quote>
+          — thus far he.
+          Can there be vices that surpass these,
+          either in number or in gravity?
+          By no means.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e566">
+          Therefore there is no crime so dreadful —
+          whether of idolatry,
+          sodomy,
+          or any other kind —
+          that
+          <ref xml:id="lca8s8-d1e184-Rd1e572">causes the Gospel to have to be preached differently
+          in the first proclamation thereof</ref>:
+          <quote xml:id="lca8s8-d1e184-Qd1e579">which has been instituted by Christ,
+          namely by fraternal charity,
+          offering the remission of sins,
+          and exhorting men to repentance.
+          For it would be to overturn the form
+          established by Christ.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e596">
+          Therefore it does not belong to the Church,
+          on account of idolatry or any other however grave crimes,
+          to begin the first preaching of the faith with punishment —
+          but rather with exhortation to repentance
+          and the offer of remission of all sins,
+          by virtue of
+          <ref xml:id="lca8s8-d1e184-Rd1e612">divine clemency</ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e621">
+          ¶ In agreement with these things is what
+          <ref xml:id="lca8s8-d1e184-Rd1e624">Almain writes in his book On Ecclesiastical Power, chapter 21</ref>:
+          that the Pope cannot punish a pagan who commits some crime —
+          even if the pagan knows it to be a sin —
+          such as the sin of idolatry,
+          or sin against nature,
+          or stealing the property of others.
+          <ref xml:id="lca8s8-d1e184-Rd1e640">Almain cites Paul</ref>,
+          who, after listing idolaters,
+          drunkards, the abusive, and thieves,
+          added:
+          <quote xml:id="lca8s8-d1e184-Qd1e647">what have I to do with judging those who are outside?</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e653">
+          On this basis
+          <ref xml:id="lca8s8-d1e184-Rd1e655">Almain censures Panormitanus in c. Novit. de iudiciis</ref>,
+          who teaches that the Pope can punish a pagan who sins against the law of nature —
+          though the common opinion of the doctors is to the contrary.
+          From this Almain infers
+          that no pagan is bound to avoid a Christian who has been excommunicated,
+          since the Pope has no jurisdiction over a pagan.
+          But in truth Panormitanus does not teach
+          that the Pope can castigate him,
+          but rather denounce, urge,
+          and fraternally correct him,
+          according to the precept of Christ.
+          But even on this point
+          <ref xml:id="lca8s8-d1e184-Rd1e679">Panormitanus is censured by Barbatius in Decretalibus c. Novit. n. 32</ref>,
+          who teaches that fraternal correction enjoined upon us by Christ
+          does not oblige us to use it with pagans —
+          and he brings good arguments for this.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e692">
+          Whatever the case may be,
+          Panormitanus is speaking about Jews
+          who sin against their own law —
+          on account of what he adds,
+          namely,
+          <quote xml:id="lca8s8-d1e184-Qd1e700">if they sin against their own law.</quote>
+          As for other pagans — Saracens or idolaters —
+          who sin against their own laws,
+          which are foolish and irrational,
+          a Christian is not bound to correct them
+          in order that they might not transgress those laws.
+          First, because to do so would be to approve their unjust and impious laws.
+          Second, because no Christian —
+          given that there are so many pious and holy people in the Church —
+          does or cares to do any such thing,
+          which is a strong argument
+          that we are not obligated to do so in such matters.
+          In the case of Jews,
+          however,
+          of whom the Abbot speaks,
+          there is a reason for a difference.
+          For a Jew who sins against his own law in moral matters
+          sins against the divine law,
+          which we ourselves profess and acknowledge;
+          and consequently he commits an injury against the Christian Church,
+          which can coerce and punish Jews as its own subjects
+          at will.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e741">
+          But if the Abbot also meant his opinion to apply to other infidels,
+          it must be admitted in the case of pagans
+          who are by right and in fact subject to Christian rulers.
+          And in this sense must be understood what
+          <ref xml:id="lca8s8-d1e184-Rd1e751">Innocent teaches in c. quod super his. de voto</ref>:
+          that the Pope can punish infidels who sin against the law of nature,
+          or Jews who commit something contrary to the Gospel in moral matters —
+          that is, insofar as they act against the divine law of the Old Testament
+          which they themselves profess,
+          by mingling certain heresies —
+          provided they are not already punished by their own leaders.
+          And for this reason
+          <ref xml:id="lca8s8-d1e184-Rd1e772">Innocent reports that Pope Gregory
+          and Pope Innocent had the books of the Talmud burned,
+          in which many heresies were contained,
+          and they commanded that those who taught
+          and followed those foolish fables should be punished</ref>.
+          Thus far from Innocent,
+          whose teaching rests on the ground
+          that Jews are subjects of the Church and of Christian rulers.
+          Concerning which matter
+          we shall speak at greater length below.
+        </p>
+
+        <p xml:id="lca8s8-d1e184-d1e802">
+          In sum,
+          no pagan,
+          on account of any crime or superstition however abominable,
+          or any sin however grave,
+          committed strictly within the limits of their own lords' territory
+          and within their own unbelief,
+          can be punished by the Church —
+          and far less by Christian rulers.
+          For there is no ruler or judge
+          to whom the care of all the peoples of the entire world belongs,
+          except to the Church alone
+          and to the vicar of Jesus Christ,
+          who is the Roman Pontiff —
+          to invite and attract pagans to the faith,
+          and to protect Catholics
+          and confirm them in the truth of the faith.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

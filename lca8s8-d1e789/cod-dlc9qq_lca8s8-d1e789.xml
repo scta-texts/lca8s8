@@ -89,7 +89,7 @@
           Sepuluedam tantopere cupere illud 
           <lb ed="#P" n="15"/>euulgari. Ita mihi pro comperto narrauit 
           <lb ed="#P" n="16"/>vir fide dignus qui sacro sancto concilio 
-          <lb ed="#P" n="17"/>interfuit. Non quieuit Sepulueda immo 
+          <lb ed="#P" n="17"/>interfuit. Non quieuit <name xml:id="lca8s8-d1e789-Nd1e182">Sepulueda</name> immo 
           <lb ed="#P" n="18"/>vero contempto academiarum et utriusque re<lb ed="#P" break="no" n="19"/>gii 
           senatus Iudicio: misit <sic>clanclilum</sic> opus 
           <lb ed="#P" n="20"/>Romam ut ibi excuderetur: intelligens ur<lb ed="#P" break="no" n="21"/>bis 
@@ -113,10 +113,10 @@
         </p>
         <p xml:id="lca8s8-d1e789-d1e230">
           Profert <seg type="correction">i<subst><add place="in-line">n</add><del rend="strikethrough">m</del></subst></seg> pestilentissimae 
-          <lb ed="#P" n="3"/>opinionis suae confirmationem. Ouiedum 
+          <lb ed="#P" n="3"/>opinionis suae confirmationem. <name xml:id="lca8s8-d1e789-Nd1e244">Ouiedum</name> 
           <lb ed="#P" n="4"/>quendam qui de rebus indicis hystoriam 
-          <lb ed="#P" n="5"/>ut ipse vocat generalem scripsit qui eius
-          <lb ed="#P" n="6"/>operis libro 3 c. 6 scribit gentem in<lb ed="#P" break="no" n="7"/>sulae 
+          <lb ed="#P" n="5"/>ut ipse vocat generalem scripsit qui <ref xml:id="lca8s8-d1e789-Rd1e251">eius
+          <lb ed="#P" n="6"/>operis libro 3 c. 6</ref> scribit gentem in<lb ed="#P" break="no" n="7"/>sulae 
           Hyspaniolae vagam <pc type="virgula">/</pc> otiosam <pc type="virgula">/</pc> men<lb ed="#P" break="no" n="8"/>dacem
           <pc type="virgula">/</pc> ad malum procliuem ac multis 
           <lb ed="#P" n="9"/>vitijs obnoxiam esse: ad haec memoriae la<lb ed="#P" break="no" n="10"/>bilis 
@@ -125,7 +125,7 @@
           <lb ed="#P" n="12"/>sit in eis virtus eam vigere in adolescen<lb ed="#P" break="no" n="13"/>tia. 
           Virilem autem etatem ingressos abomi<lb ed="#P" break="no" n="14"/>nandis 
           vitiis esse obrutos. Rursus eius 
-          <lb ed="#P" n="15"/>libri 6 c. 9 loquens de incolis conti<lb ed="#P" break="no" n="16"/>nentis 
+          <lb ed="#P" n="15"/><ref xml:id="lca8s8-d1e789-Rd1e287">libri 6 c. 9</ref> loquens de incolis conti<lb ed="#P" break="no" n="16"/>nentis 
           appellat eos Siluestres <pc type="virgula">/</pc> saeuos in<lb ed="#P" break="no" n="17"/>corrigibiles 
           qui neque seueritate corrigi: 
           <lb ed="#P" n="18"/>nec blandiciis vel amicis monitis ad 

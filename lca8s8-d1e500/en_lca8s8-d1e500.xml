@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 35 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 35 [Bnf 12926 Translation]</title>
+          <date when="2025-05-13">May 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="154-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e500">
+        <head xml:id="lca8s8-d1e500-Hd1e97">Chapter 35</head>
+        <p xml:id="lca8s8-d1e500-d1e99">
+          Chapter 35
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e104">
+          <pc type="pilcrow"/>
+          Secondly, it is proved as a principal point that the Indians ought not immediately believe 
+          it is wrong to sacrifice human beings to their gods:
+          because it cannot be made evident to them in few words nor in many that it is prohibited 
+          by natural reason to sacrifice human beings to the true God or to a putative god,
+          if it is worshiped as the true one.
+          Rather,
+          by the same natural reason they themselves can demonstrate:
+          not only that human beings ought to be offered to God in sacrifice,
+          but also that even the angels themselves would be insufficient if they were able 
+          to be sacrificed.
+          We persuade this as follows,
+          supposing first four principles.
+          First,
+          that there is no nation so barbarous that it does not have some,
+          even if confused,
+          knowledge of God.
+          But all understand God to be one than whom nothing is or can be greater or better.
+          Thus teaches Damascene 
+          <ref xml:id="lca8s8-d1e500-Rd1e153">
+            at the beginning of his book On the Orthodox Faith and chapter 3
+          </ref>:
+          <quote xml:id="lca8s8-d1e500-Qd1e158">
+            By no means (he says) does God wholly desert us who are surrounded by ignorance of him;
+            rather,
+            the knowledge that God exists has been naturally implanted and innate in all from him himself
+          </quote>.
+          These are his words.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e170">
+          Likewise 
+          <ref xml:id="lca8s8-d1e500-Rd1e172">
+            Gregory of Nazianzus in his book On Theology,
+            column 11
+          </ref>.
+          Likewise 
+          <ref xml:id="lca8s8-d1e500-Rd1e179">
+            Lactantius book 3,
+            chapter 11 of the Divine Institutes
+          </ref>.
+          Again 
+          <ref xml:id="lca8s8-d1e500-Rd1e184">
+            Cicero in the book of Tusculan Questions
+          </ref>
+          says:
+          <quote xml:id="lca8s8-d1e500-Qd1e189" source="http://scta.info/resource/ctd99a-asdvss-d1e219@16-26">
+            There is no one among human beings so savage whose mind has not been imbued 
+            with the opinion of divinity
+          </quote>.
+          And 
+          <ref xml:id="lca8s8-d1e500-Rd1e197">
+            in the book On the Laws
+          </ref>:
+          <quote xml:id="lca8s8-d1e500-Qd1e200">
+            There is no nation so savage,
+            so wild,
+            which,
+            even if it does not know what kind of God it ought to have,
+            nevertheless does not know that it ought to have one
+          </quote>.
+          <ref xml:id="lca8s8-d1e500-Rd1e209">
+            Aristotle in the first and second books On the Heavens and the World
+          </ref>.
+          And 
+          <ref xml:id="lca8s8-d1e500-Rd1e214">
+            in the third book of the Physics
+          </ref>
+          says that all people have agreed on this:
+          that this glorious body,
+          the first (namely) heaven,
+          is the place of the supreme God,
+          namely the Greeks and others of the first nations who knew God and things divine.
+          Both points are taught by 
+          <ref xml:id="lca8s8-d1e500-Rd1e231">
+            Boethius in book 3 of the Consolation of Philosophy,
+            prose 10
+          </ref>
+          in these words:
+          <quote xml:id="lca8s8-d1e500-Qd1e236" source="http://scta.info/resource/hy7y6y-d1e67-d1e561@156-182">
+            That the true God is the principle or beginning of all things and is good is proved 
+            by the common conception of human minds.
+            For since nothing better than God can be conceived,
+            who would doubt that that than which nothing is better is good
+          </quote>.
+          These are his words.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e250">
+          <pc type="pilcrow"/>
+          Secondly,
+          it must be supposed that humans are led by natural instinct to worship God with their powers 
+          and according to their manner,
+          the reason for which is that they naturally estimate and believe their life and whatever 
+          they have to flow from him.
+          Thus writes 
+          <ref xml:id="lca8s8-d1e500-Rd1e271">
+            Saint Thomas in book 3,
+            chapter 119 of the Summa Contra Gentiles
+          </ref>:
+          <quote xml:id="lca8s8-d1e500-Qd1e276" source="http://scta.info/resource/v8naTA-d1e2680-d1e294@1-27" type="paraphrase">
+            since they believe all things to be given by and proceed from him,
+            our intellect judges that all things are owed to God
+          </quote>.
+          And 
+          <ref xml:id="lca8s8-d1e500-Rd1e283">
+            the Philosopher in book 7 of the Politics,
+            chapter 9
+          </ref>
+          writes:
+          <quote xml:id="lca8s8-d1e500-Qd1e289">
+            to God,
+            on account of his excellence,
+            all the highest and best things ought to be offered,
+            which natural reason itself also dictates
+          </quote>.
+          And again 
+          <ref xml:id="lca8s8-d1e500-Rd1e298">
+            in book 8 of the Ethics,
+            chapter 10
+          </ref>
+          he says:
+          <quote xml:id="lca8s8-d1e500-Qd1e303">
+            but there is for humans a friendship toward the gods as toward a super-excellent good,
+            and to friends according to excellence more ought to be given
+          </quote>.
+          And again he says:
+          <quote xml:id="lca8s8-d1e500-Qd1e314">
+            To the gods no one can ever give back worthily,
+            but whoever does this according to his ability seems to be good
+          </quote>.
+          The same is taught by 
+          <ref xml:id="lca8s8-d1e500-Rd1e325">
+            Saint Thomas in book 4 of the Sentences,
+            distinction 19,
+            question 1,
+            article 2 in the body
+          </ref>
+          where he says that 
+          <quote xml:id="lca8s8-d1e500-Qd1e330" source="http://scta.info/resource/ta-l4d15q1-d1e335@8-88" type="paraphrase">
+            man owes God in two ways:
+            first on account of benefits received from him,
+            second on account of sins committed against him.
+            By these two obligations man can never make equal satisfaction to God,
+            because (he says) in those honors which are owed to parents and to the gods,
+            even according to the Philosopher,
+            it is impossible to render an equivalent according to quantity,
+            but it suffices that man render what he can according to proportionality
+          </quote>
+          etc.
+          These are the words of Saint Thomas.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e356">
+          From these things it is clear that humans are bound by natural law to honor God 
+          through the most excellent and best things and to offer sacrifice from better things.
+          Hence it follows that neither a particular person nor an entire community together,
+          or a whole kingdom,
+          is able to make recompense to God for benefits received,
+          even if it renders to him wealth,
+          labors,
+          vigilance,
+          and finally life and death itself for the glory of God and endures these,
+          however much God may not wish to reward such things in the other life,
+          because God owes nothing,
+          who has heaped upon us so many and such admirable benefits with ineffable generosity,
+          on account of which that verse 
+          <ref xml:id="lca8s8-d1e500-Rd1e390">
+            of Psalm 114
+          </ref>:
+          <quote xml:id="lca8s8-d1e500-Qd1e392" source="http://scta.info/resource/ps115_3@1-7">
+            What shall I render to the Lord for all that he has rendered to me
+          </quote>?
+          As if to say:
+          there is nothing in me or that I can do by which I can render back to God 
+          for those things by which I perceive myself to be his debtor.
+          But the reason is that,
+          just as a man does not commit injustice against his own possession even if he uses it 
+          and renders it no payment,
+          because there is no just political or civil right of a man toward his own possession 
+          according to the Philosopher in book 5 of the Ethics,
+          but all creatures are possessions of God,
+          therefore in no way is it possible for God to do us injustice if he does not repay 
+          the services which we have rendered for his honor,
+          because between God and us there cannot be given a political justice which is 
+          justice simply speaking.
+          For although God gives eternal happiness to those having charity,
+          he is not bound to do this from justice insofar as it is justice simply speaking,
+          which signifies quantitative equality from one part to another.
+          For according to 
+          <ref xml:id="lca8s8-d1e500-Rd1e445">
+            the Apostle to the Romans,
+            chapter 8
+          </ref>:
+          <quote xml:id="lca8s8-d1e500-Qd1e450" source="http://scta.info/resource/rom8_18@4-16">
+            The sufferings of this present time are not worthy to be compared with the glory 
+            to come which shall be revealed in us
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e458">
+          Yet it is said that between man and God there is a certain condescending justice (namely),
+          that the Lord,
+          using the magnitude of his mercy,
+          deigns that there be a certain proportional equality between himself and humans,
+          willing (namely) to obligate himself to humans and humans to himself,
+          so that for those persisting unto death in faith and charity,
+          he is bound to give eternal life,
+          not from our equal merits but from a disposition established by himself,
+          which he willed to be between himself and us a certain condescending justice and 
+          a kind of pact,
+          so that in works of charity God is bound to give us eternal life.
+          And this is called justice not simply but in a qualified sense.
+          And according to this sense God would be said to do injustice if he did not provide 
+          eternal life to those dying in charity,
+          and thus is understood the Apostle in 2 Timothy,
+          chapter 4:
+          henceforth there is laid up for me a crown of justice,
+          that is,
+          by the justice of an agreement or supposed pact already mentioned.
+          Therefore God owes us nothing except from condescending justice;
+          we owe him all things whatsoever we have and are:
+          wealth,
+          strength,
+          life,
+          and the soul itself we ought to offer in his service,
+          to which by a greater bond we are bound after he gave his soul for us.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e528">
+          <pc type="pilcrow"/>
+          Thirdly,
+          it must be supposed that God is worshiped by nothing more than by sacrifice,
+          which is the principal act of latria owed to God alone,
+          nor do humans show themselves more grateful and subject to God by external acts.
+          For sacrifice is a sign that he to whom it is offered is God,
+          and it is most certain that there has been no nation so barbarous,
+          brutish,
+          and stupid that it would offer sacrifice to anyone other than him whom it thought 
+          to be God,
+          according to 
+          <ref xml:id="lca8s8-d1e500-Rd1e554">
+            Saint Augustine in book 10,
+            chapter 4 of the City of God
+          </ref>:
+          <quote xml:id="lca8s8-d1e500-Qd1e559" source="http://scta.info/resource/adcd-l10-d1e1382@62-98">
+            For who ever thought sacrifice should be made except to him whom he knew or thought 
+            or feigned to be God?
+            Moreover,
+            how ancient is the worship of God in sacrificing,
+            those two brothers Cain and Abel sufficiently indicate,
+            whose sacrifice God rejected in the elder but looked upon in the younger
+          </quote>.
+          These are the words of Augustine.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e586">
+          The same is taught by 
+          <ref xml:id="lca8s8-d1e500-Rd1e590">
+            Saint Thomas in book 3,
+            chapter 120 of the Summa Contra Gentiles
+          </ref>:
+          <quote xml:id="lca8s8-d1e500-Qd1e595" source="http://scta.info/resource/v8naTA-d1e2688-d1e365@29-43">
+            But no one ever thought sacrifice should be offered to anyone unless because he estimated 
+            him to be God,
+            or pretended to estimate him so
+          </quote>.
+          These are his words.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e605">
+          <pc type="pilcrow"/>
+          Fourth,
+          it must be supposed that to offer sacrifice to the true God or to him who is estimated 
+          to be God is from natural law.
+          But what things ought to be offered to God is human law and positive constitution.
+          Hence either this is left to the whole community or to one acting in its stead,
+          such as a prince,
+          or if this is lacking,
+          it is committed to any particular person from which or from what things he may construct 
+          his sacrifice.
+          The first is evident from the three preceding principles,
+          because since all nations know by nature itself that God exceeds all things which 
+          they can conceive,
+          and that from him they have life and whatever they possess,
+          and since they understand by nature that they owe to God the highest reverence and worship 
+          on account of his incomparable excellence and majesty,
+          and it is received among all that the principal act of latria owed to God alone is sacrifice,
+          it follows that they are bound by natural law to offer sacrifice by which humans above 
+          all other external things show themselves more grateful and subject to God.
+          Hence there has been no nation so barbarous which,
+          impelled by nature,
+          did not judge that sacrifice was owed to the true God or to him whom erring 
+          they considered to be true.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e671">
+          <pc type="pilcrow"/>
+          Secondly,
+          it is proved from 
+          <ref xml:id="lca8s8-d1e500-Rd1e677">
+            Saint Thomas in the Secunda Secundae,
+            question 85,
+            article 1
+          </ref>,
+          where he says that 
+          <quote xml:id="lca8s8-d1e500-Qd1e681" source="http://scta.info/resource/TAca84-d1e1711-d1e242@5-17">
+            in every age and among any nations of humans there has always been some offering of sacrifices
+          </quote>,
+          and the reason is because 
+          <quote xml:id="lca8s8-d1e500-Qd1e691" source="http://scta.info/resource/TAca84-d1e1711-d1e255@4-37">
+            natural reason dictates to man that he is subject to some superior on account of the defects 
+            which he feels in himself,
+            in which he needs to be helped and directed by some superior,
+            and whatever that may be,
+            this is what is called God among all
+          </quote>.
+          And therefore the offering of sacrifices pertains to natural law according to Saint Thomas.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e710">
+          <pc type="pilcrow"/>
+          Thirdly,
+          it is proved from the jurists who teach that religion is from the law of nations in 
+          <ref xml:id="lca8s8-d1e500-Rd1e718" target="http://scta.info/resource/bgy6gt-d1e59-d1e131">
+            the law Veluti,
+            Digest,
+            On Justice and Law
+          </ref>.
+          But they call natural law the law of nations because only humans use it,
+          as in 
+          <ref xml:id="lca8s8-d1e500-Rd1e728" target="http://scta.info/resource/bgy6gt-d1e59-d1e123">
+            law 1,
+            Digest,
+            same title
+          </ref>,
+          and in 
+          <ref xml:id="lca8s8-d1e500-Rd1e732">
+            paragraph Singulorum,
+            Institutes,
+            On the Division of Things
+          </ref>.
+          But humans,
+          as soon as they multiplied,
+          immediately exercised the law of nations.
+          For the nations which lived in the first ages taught very many things by the instinct 
+          of nature.
+          Therefore from that beginning the custom of sacrificing was initiated,
+          produced by the instinct of nature.
+          Therefore to offer sacrifices is a most ancient thing introduced by natural law.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e750">
+          <pc type="pilcrow"/>
+          But the second point (namely),
+          that to offer this or that in sacrifice is from human law,
+          but the law of nature does not prescribe a certain thing,
+          is also proved first because even if something is generally from natural law,
+          nevertheless the disposition and ordering when and how that ought to be done is positive,
+          which is nothing other than a certain determination of natural law which either 
+          the prince or the republic establishes.
+          For example:
+          humans are bound to devote themselves sometimes to divine things and to worship God 
+          by certain external acts which theologians call acts of latria,
+          which natural reason dictates,
+          but that the seventh day ought to be given to divine worship is a human constitution 
+          promulgated by the Church,
+          to whom Christ gave the right of making laws concerning divine worship.
+          Although I know that the seventh day (namely) Sunday succeeded in place of the Sabbath,
+          which God commanded in the positive law to be given to divine things.
+          So also the law of nature teaches that offenders ought to be punished,
+          but what the punishment ought to be is taught by human law.
+          In the same way,
+          although nature itself teaches and leads man to sacrifice to God,
+          nevertheless what thing ought to be offered in sacrifice,
+          whether oxen,
+          or sheep,
+          or similar things,
+          the law of nature does not teach,
+          but humans have established this,
+          as is evident from the sacrifices of diverse nations related above.
+          Likewise,
+          because others sacrificed pigs to Ceres,
+          horses to Phoebus,
+          geese to Diana,
+          asses to Priapus,
+          and again others offered other things,
+          as 
+          <ref xml:id="lca8s8-d1e500-Rd1e830">
+            Ovid relates in Fasti,
+            book 1
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e500-Rd1e835">
+            Lucan in On the Civil War,
+            book 6
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e500-Rd1e840">
+            Juvenal in the penultimate satire
+          </ref>.
+          I have taken the above-written reason from 
+          <ref xml:id="lca8s8-d1e500-Rd1e844" target="http://scta.info/resource/TAca84-d1e1711-d1e303@10-58">
+            Saint Thomas in the Secunda Secundae,
+            question 85,
+            article 1,
+            reply to objection 1
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e500-Rd1e849" target="http://scta.info/resource/ta-l4d26q2-d1e201@5-45">
+            book 4 of the Sentences,
+            distinction 26,
+            question 2,
+            article 2,
+            reply to objection 1
+          </ref>
+          and Quodlibet 2,
+          article 8 in the body.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e858">
+          <pc type="pilcrow"/>
+          Secondly,
+          this is proved from 
+          <ref xml:id="lca8s8-d1e500-Rd1e864">
+            the Philosopher in book 5 of the Ethics
+          </ref>,
+          where speaking of natural law and of positive law he writes that all humans feel 
+          the same way about those things which are natural but differ in laws and institutions.
+          For speaking about sacrifices he says:
+          <quote xml:id="lca8s8-d1e500-Qd1e876">
+            One law is natural,
+            another is legitimate,
+            that is legal or positive.
+            Natural indeed is that which has the same force everywhere,
+            as fire burns both here and in Persia,
+            not because it seems so or does not seem so.
+            But legitimate,
+            that is legal,
+            is that which makes no difference in principle whether done this way or that,
+            but when it is established it makes a difference,
+            for instance,
+            that the redemption of captives be made at a certain price,
+            or to sacrifice a goat but not two sheep,
+            and those things which are stipulated by laws concerning individual things,
+            such as to perform sacred rites for Brasidas
+          </quote>
+          etc.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e909">
+          Behold,
+          he teaches that the law of nature does not change because one person wills and another 
+          does not will to fulfill it.
+          For neither can what is good be made impious by the will of humans,
+          such as redeeming a captive suffering injustice,
+          which the law of nature teaches,
+          and likewise to offer sacrifice to God;
+          all humans are bound to do this,
+          whether they will it or not.
+          But how much the price of captives ought to be and what thing ought to be sacrificed,
+          human constitution teaches,
+          which,
+          after it has been established,
+          it is proper to observe and not permitted to transgress.
+          Let the example be what we read:
+          that the Athenians and Spartans,
+          waging war among themselves,
+          established by common consent that captives of either side should redeem their freedom 
+          for a certain fixed price.
+          Likewise,
+          if it were established that not one but two sheep should be offered in sacrifice,
+          or that sacrifices should be made and festivals celebrated for someone who has merited 
+          well of the republic,
+          just as the Amphipolitans established that sacrifices should be offered by Brasidas,
+          whom some think was a king of the Spartans,
+          others a queen woman,
+          on account of benefits conferred upon their nation—these sacrifices and the form sanctioned 
+          by law it is not at all permitted to transgress.
+          But if the law had sanctioned nothing,
+          each private person could sacrifice what he wished and sell a captive for whatever price 
+          he wished,
+          for the natural law does not teach these things.
+          And each person in those things which are indifferent can use his own judgment and can prescribe 
+          to his own (namely) children and wife what he wishes,
+          according to the Philosopher in book 1 of the Politics,
+          where speaking of households and the city he says:
+          but every house is ruled by the eldest,
+          and thus also families propagated from it on account of blood relationship.
+          And this is what Homer says:
+          let individuals give laws to their children and wives.
+          For they also dwelt separately in this manner in ancient times.
+          These are his words.
+          <ref xml:id="lca8s8-d1e500-Rd1e1003" target="http://scta.info/resource/TAca84-d1e1566-d1e599@5-80">
+            Saint Thomas speaks of these things in the Secunda Secundae,
+            question 57,
+            article 2,
+            reply to objection 2
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e500-Rd1e1008" target="http://scta.info/resource/TAca84-d1e1582-d1e1226@6-67">
+            question 60,
+            article 5,
+            reply to objection 1
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e500-Rd1e1017" target="http://scta.info/resource/TAca84-d1e1582-d1e1255@4-54">
+            2
+          </ref>,
+          <ref xml:id="lca8s8-d1e500-Rd1e1020" target="http://scta.info/resource/TAca84-d1e1613-d1e1444@4-16">
+            question 66,
+            article 7 in the body
+          </ref>.
+        </p>
+        <p xml:id="lca8s8-d1e500-d1e1024">
+          But that,
+          unless a certain manner or thing to be sacrificed had been prescribed by law,
+          it would be permitted to each one to sacrifice what he wished,
+          is proved in Genesis,
+          chapter 4,
+          where Cain offered ears of grain and fruits of the earth,
+          but Abel,
+          who was a shepherd,
+          sacrificed the firstborn of his flock to the Lord.
+          But after the Lord made a pact with Abraham and his posterity,
+          he prescribed through Moses the sacrifices to be offered to him,
+          namely from quadrupeds:
+          oxen and sheep,
+          and from birds:
+          turtledoves and doves,
+          as is evident in Genesis 8:14,
+          chapter 19,
+          and Leviticus,
+          chapter 1.
+          Abulensis treats these matters learnedly in question 11 and 12 on Leviticus,
+          and question 9,
+          column 7,
+          chapter 25 on Exodus,
+          and something in Genesis,
+          chapter 15.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

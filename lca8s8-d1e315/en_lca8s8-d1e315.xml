@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 21 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 21 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-10">Apr 10, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="99-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e315">
+        <head xml:id="lca8s8-d1e315-Hd1e97">Chapter 21 [Bnf 12926 Transcription]</head>
+        
+        <p xml:id="lca8s8-d1e315-d1e99">
+          <pb ed="#P" n="99-v"/>
+          Chapter 21
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e106">
+          In agreement with these things is what 
+          <ref xml:id="lca8s8-d1e315-Rd1e110">Saint Thomas writes in 2a 2ae, q. 10, ar. 9</ref>
+          , where he says that 
+          <quote xml:id="lca8s8-d1e315-Qd1e115">
+            the Church has no judgment concerning infidels who have in no way received the Christian faith, 
+            namely, pagans and Jews, by spiritual judgment: 
+            but by temporal judgment in the case when living among Christians they commit some fault: 
+            and they are punished temporally by the faithful. 
+            And in the response to the second argument he says: 
+            that the Church does not have judgment against infidels as to inflicting spiritual punishment on them: 
+            yet it has judgment over some infidels as to inflicting temporal punishment: 
+            to which pertains that the Church sometimes for certain special faults withdraws from some infidels the communion of the faithful</quote>
+          . These are the words of Saint Thomas.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e151">
+          Note those words 
+          <quote xml:id="lca8s8-d1e315-Qd1e155">
+            temporal in the case: when living among Christians: they commit some fault</quote>
+          . Likewise note those words 
+          <quote xml:id="lca8s8-d1e315-Qd1e162">
+            it has judgment over some</quote>
+          . Again note those words 
+          "for certain special faults". 
+          From these things it is most manifestly proven that the Church cannot punish infidels temporally except only when they live among Christians: 
+          nor can it do this except in certain cases, 
+          as for instance if they do not remit usury to Christians: 
+          if they have Christian slaves: 
+          if they are blasphemers against Christ the Lord or against the saints and in similar 
+          <add place="margin-right" hand="F">1 case</add>
+          cases, concerning which 
+          <ref xml:id="lca8s8-d1e315-Rd1e192">in d. c. sepe with the following</ref>
+          and 
+          <ref xml:id="lca8s8-d1e315-Rd1e198">glossa. 28. q. 1</ref>
+          . and in 
+          <ref xml:id="lca8s8-d1e315-Rd1e200">c. multorum</ref>
+          . and in 
+          <ref xml:id="lca8s8-d1e315-Rd1e205">c. etsi iudaeos</ref>
+          . And in 
+          <ref xml:id="lca8s8-d1e315-Rd1e207">c. cum sit nimis de iudaeis</ref>
+          . And in many other places of both laws.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e215">
+          And those words of Saint Thomas 
+          <ref xml:id="lca8s8-d1e315-Rd1e218">they are punished temporally by the faithful</ref>: 
+          signify that infidels in those cases in which it is permitted to punish them: 
+          ought to be punished by secular princes, 
+          and by their ministers to whom they are subject: 
+          unless in cases in which the Church punishes secular persons.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e233">
+          Again through those words of Saint Thomas "it has judgment over some infidels": 
+          he teaches that the Church does not have jurisdiction generally over all infidels: 
+          but only over some (I understand contentious jurisdiction) 
+          namely in those cases in which 
+          <ref xml:id="lca8s8-d1e315-Rd1e249">above in chapter six</ref>
+          we have taught that the Church is able to reduce into act the jurisdiction which it has over infidels in habitu. 
+          Therefore it is manifestly evident that the Church does not indifferently interpose itself to judge concerning the faults of all infidels: 
+          nor on account of all faults: 
+          nor in all cases, which can be reduced to three as can be gathered from the sayings of Saint Thomas, 
+          Innocent and the canonists.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e271">
+          First when those dwelling among Christians commit some atrocious crimes: 
+          for then they can be punished as subjects of the Church or at least of its members.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e280">
+          <add place="margin-left" hand="F">case 2</add>
+          ¶ The second case is when they possess kingdoms from which they have despoiled the Christian people and they commit shameful crimes: 
+          such as the crime of idolatry or against nature: 
+          by which they defile and pollute places dedicated to Christ.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e300">
+          ¶ Third when not content with their native kingdoms and lands: 
+          they would invade the provinces of Christians and molest the Church with warlike tumult or be blasphemers against Christ or the saints: 
+          all these things are sufficiently evident through what has been deduced above.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e313">
+          ¶ But it is necessary to remember 
+          <ref xml:id="lca8s8-d1e315-Rd1e317">
+            the gloss in c. ius quiritum 1 distinctio</ref>
+          and some other 
+          <add place="above-line" hand="B">canonists</add>
+          who speaking generally without distinction entangle matters and obscure the minds of men. 
+          For these not distinguishing Gentiles from gentiles, 
+          and infidels from infidels say with that gloss: 
+          that gentiles are under the Roman empire. 
+          This, taken absolutely, I say is foolish. 
+          But because it must not be believed that the gloss and the others, 
+          who say similar things, have fallen into this error: 
+          it must be said that the gloss should be understood concerning gentiles or infidels, 
+          Jews, Saracens or of another religion who live within the provinces of the Church: 
+          either because they inhabit the kingdoms of Christian princes: 
+          or because they possess kingdoms taken away from Christians. 
+          Since those kingdoms are included within the boundaries of the Roman empire: 
+          which do not exceed the boundaries of the Christian people.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e365">
+          For the Roman Empire is distinguished by certain limits and always has been according to 
+          <ref xml:id="lca8s8-d1e315-Rd1e371" corresp="#lca8s8-d1e315-Qd1e376">
+            Boethius in the Consolation of Philosophy, book 2, prose 7</ref>
+          where he says 
+          <quote xml:id="lca8s8-d1e315-Qd1e376" source="http://scta.info/resource/hy7y6y-d1e59-d1e272@198-225">
+            in the age of Marcus Tullius, as he himself signifies in a certain place: 
+            the fame of the Roman Republic had not yet crossed Mount Caucasus and it was then mature that is known from ancient times: 
+            to the Parthians and also to the other peoples of those places it was formidable</quote>
+          and so on. These are the words of Boethius.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e394">
+          Therefore the Roman Caesars were not lords of the whole world, 
+          even when Roman power was most extended through the world. 
+          And today the Roman empire does not exceed the limits of the Catholic Church: 
+          <note place="margin-right" hand="F">
+            the Roman empire now does not exceed the limits of the Catholic Church</note>
+          as in 
+          <ref xml:id="lca8s8-d1e315-Rd1e410">
+            the Authentic on not alienating or exchanging things of the Church, § sicut</ref>
+          there: 
+          <quote xml:id="lca8s8-d1e315-Qd1e415">
+            Not indeed caring for one thing but leaving another uncared for but in every land which the law of the Romans contains and the sanction of the Catholic Church 
+            namely this law extends and determines what are its own</quote>
+          and so on.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e429">
+          And thus explicitly teaches 
+          <ref xml:id="lca8s8-d1e315-Rd1e433">
+            Hostiensis in the Summa in the title who are legitimate sons § qualiter. from whom sons word</ref>
+          then by the authorities of the saints Hostiensis says. 
+          <quote xml:id="lca8s8-d1e315-Qd1e442" source="http://scta.info/resource/nbht7y-d1e1630-d1e1204@504-524">
+            For the law of the emperor cannot bind except those whom the law of the Romans holds and the sanction of the Catholic Church: 
+            because outside, namely, the Church, there is no empire</quote>
+          this is expressly proven in 
+          <ref xml:id="lca8s8-d1e315-Rd1e456">
+            l. 2, C. de Officio prefecti pretorio africae</ref>
+          there: 
+          <quote xml:id="lca8s8-d1e315-Qd1e461">
+            before the invasion of the Vandals and Moors, the Roman republic had boundaries: 
+            and 
+            <quote xml:id="lca8s8-d1e315-Qd1e467">
+              where the ancient guardians</quote>
+            kept watch</quote>
+          and so on. And there 
+          <quote xml:id="lca8s8-d1e315-Qd1e473">
+            we hope soon in our times to advance: 
+            so that both in security and peace: 
+            the provinces with their ancient boundaries may be preserved intact</quote>
+          and so on. And in many paragraphs that law touched upon.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e487">
+          And 
+          <ref xml:id="lca8s8-d1e315-Rd1e489">
+            Bartholus in l. hostes glossa in l. non dubito, ff de captiuis et postliminio</ref>
+          and 
+          <ref xml:id="lca8s8-d1e315-Rd1e496">
+            Angelus de Perusio in the Authentics vt liceat matri et auiae § quia vero column 8: notable 2</ref>
+          . where he says that 
+          <quote xml:id="lca8s8-d1e315-Qd1e505">
+            princes make laws against barbarians because those barbarians were subject to them</quote>
+          .
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e517">
+          Therefore where they are not subject and the reason for subjection ceases, 
+          the prince cannot make law: 
+          because the reason for jurisdiction ceases. 
+          It is also proven in 
+          <ref xml:id="lca8s8-d1e315-Rd1e525">
+            l. 1. 2. and 3. C. de fundis limitrophis lib. 11</ref>
+          . and in 
+          <ref xml:id="lca8s8-d1e315-Rd1e530">
+            l. 2. C. de Eunuchis there</ref>
+          : 
+          <quote xml:id="lca8s8-d1e315-Qd1e536">
+            outside the places subject to our empire</quote>
+          and in 
+          <ref xml:id="lca8s8-d1e315-Rd1e541">
+            l. mercatores. C. de commerciis et mercatoribus</ref>
+          there 
+          <quote xml:id="lca8s8-d1e315-Qd1e546">
+            lest of a foreign kingdom</quote>
+          , and so on. Therefore the kingdoms of gentiles were foreign to the dominion of the Roman empire. 
+          And the emperors themselves confessed this very thing and consequently neither by right nor in fact did they obtain rule over the whole world.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e561">
+          ¶ There are those who assert that the Roman Caesar is lord of the world by right although not in fact, 
+          but these most foolishly boast these things: 
+          they cannot prove them with solid arguments. 
+          Indeed it is manifestly false. 
+          For neither up to now in any age has anyone been lord of the world: 
+          nor did the tyrannical arms of the Romans subdue the world. 
+          Thus therefore should be understood 
+          <ref xml:id="lca8s8-d1e315-Rd1e580">
+            l. deprecatio ff. ad legem Rhodiam de lactu</ref>
+          . and 
+          <ref xml:id="lca8s8-d1e315-Rd1e585">
+            authe. vt omnes obediant iudicibus prouincialibus § haec considerantes</ref>
+          where it is said 
+          <quote xml:id="lca8s8-d1e315-Qd1e593">
+            we command all who obey our scepters in the entire dominion, 
+            which sees the rising sun, and which sees the setting sun and which is on either side</quote>
+          these words there.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e607">
+          Any prince can say the same thing. 
+          For there is no kingdom which does not look toward the east, 
+          west, south and north. 
+          Nevertheless it is true that the Roman Caesar is the universal lord of Christians. 
+          Which 
+          <ref xml:id="lca8s8-d1e315-Rd1e628">
+            Baldus teaches in the proem ff. column 2</ref>
+          . 
+          <ref xml:id="lca8s8-d1e315-Rd1e633">
+            the doctors in l. 1, C. de summa trinitate</ref>
+          and there 
+          <ref xml:id="lca8s8-d1e315-Rd1e638">
+            Jason, column 2</ref>
+          , and there 
+          <ref xml:id="lca8s8-d1e315-Rd1e640">
+            Baldus in the said l. 1. column 2</ref>
+          .
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e647">
+          But to assert that the Roman emperor is the legitimate 
+          <note type="marginal-note" place="margin-right" hand="F">
+            The emperor is not lord of the world</note>
+          lord of the whole world, is the emptiest nonsense and to deceive emperors by flattery: 
+          and a handle for mixing the world in dissensions. 
+          And more ridiculous is what besides others 
+          <ref xml:id="lca8s8-d1e315-Rd1e665">
+            Michael Vlcurrunus writes in the treatise on the government of the world</ref>
+          (namely) that 
+          <quote xml:id="lca8s8-d1e315-Qd1e672">
+            the Roman Caesar whom seven princes of Germany elect in place of the whole world: 
+            all nations of the world are bound to obey</quote>
+          .
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e680">
+          He cites 
+          <ref xml:id="lca8s8-d1e315-Rd1e684">
+            John Andreas in the additions to the Speculator in the title on rescripts presentia § last at the word "likewise what was obtained"</ref>
+          : but John Andreas writes no such thing but that 
+          <quote xml:id="lca8s8-d1e315-Qd1e695">
+            these to whom these princes succeeded elected as a college and university consisting (namely) of princes, 
+            and the entire people subject to the Roman empire: 
+            or the army elected representing that university</quote>
+          and so on. these are his words. 
+          Therefore he does not say that 
+          <quote xml:id="lca8s8-d1e315-Qd1e713">
+            in place of the entire university of the world</quote>
+          and so on, although even if 
+          <name xml:id="lca8s8-d1e315-Nd1e717">John Andreas</name>
+          had said it he would not be less reprehensible than 
+          <name xml:id="lca8s8-d1e315-Nd1e723">Michael</name>
+          who attributes these things to him. 
+          Although rather because neither does 
+          <name xml:id="lca8s8-d1e315-Nd1e727">John Andreas</name>
+          assert those things but reports a certain doctor 
+          <ref xml:id="lca8s8-d1e315-Rd1e731">
+            named Vpoldum saying</ref>
+          . But because we hope with the grace of God's favor elsewhere to show individually how full of errors is 
+          <ref xml:id="lca8s8-d1e315-Rd1e741">
+            the aforementioned treatise on the government of the world</ref>, 
+          for the present we will refrain from speaking more about this.
+        </p>
+        
+        <p xml:id="lca8s8-d1e315-d1e749">
+          ¶ Therefore the words of blessed Cyril do not oppose our Catholic and most proven doctrine which all doctors both sacred and secular follow.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

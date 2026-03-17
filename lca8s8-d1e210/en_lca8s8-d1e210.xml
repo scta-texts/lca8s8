@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 13 [Bnf 12926 Transcription] — English Translation</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 13 [Bnf 12926 Transcription] — English Translation</title>
+          <date when="2024-10-09">Oct 09, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-10-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="66-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e210">
+        <head xml:id="lca8s8-d1e210-Hd1e97">Chapter 13 [Bnf 12926 Transcription]</head>
+
+        <p xml:id="lca8s8-d1e210-d1e99">
+          Chapter 13.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e104">
+          ¶ It remains to respond to the example that Sepúlveda brings forward
+          from the sacred books — namely,
+          from <ref xml:id="lca8s8-d1e210-Rd1e110" target="http://scta.info/resource/deut7_1">Deuteronomy ch. 7</ref>
+          and from <ref xml:id="lca8s8-d1e210-Rd1e112" target="http://scta.info/resource/io8_24 http://scta.info/resource/io8_25 http://scta.info/resource/io8_26 http://scta.info/resource/io8_27 http://scta.info/resource/io8_28 http://scta.info/resource/io8_29">the book of Joshua</ref>:
+          where we read that God, on account of certain crimes,
+          destroyed the seven nations who were inhabitants of the promised land.
+          He contends moreover that this should be carried out against the Indians,
+          citing also <ref xml:id="lca8s8-d1e210-Rd1e123">Saint Cyprian,</ref>
+          whose meaning he inverts and adulterates,
+          as he is accustomed to do with many other things.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e130">
+          First, therefore, most distinguished doctor
+          <name xml:id="lca8s8-d1e210-Nd1e132">Sepúlveda,</name>
+          I would like to know from you why God did not command the destruction
+          of very many other idolaters who were living at that time.
+          For with the exception of the Jewish people
+          and the lineage that extended from
+          <name xml:id="lca8s8-d1e210-Nd1e144">Adam</name>
+          all the way to Christ,
+          the whole world was given over to the worship of idols.
+          Except for a few men noble in piety —
+          <name xml:id="lca8s8-d1e210-Nd1e150">Job,</name>
+          namely,
+          and <name xml:id="lca8s8-d1e210-Nd1e154">Melchizedek,</name>
+          and others whom God deigned to grant knowledge of the truth
+          while living among the nations —
+          as is evident from <ref xml:id="lca8s8-d1e210-Rd1e161">Genesis,</ref>
+          <ref xml:id="lca8s8-d1e210-Rd1e163">Deuteronomy,</ref>
+          and nearly all the books of the Old Testament.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e168">
+          And <name xml:id="lca8s8-d1e210-Nd1e172">Paul</name>
+          and <name xml:id="lca8s8-d1e210-Nd1e174">Barnabas</name>
+          bear witness in <ref xml:id="lca8s8-d1e210-Rd1e18x" corresp="#lca8s8-d1e210-Qd1e178">Acts ch. 14,</ref>
+          saying:
+          <quote xml:id="lca8s8-d1e210-Qd1e178" source="http://scta.info/resource/act14_15@1-11">that God, namely, in past generations
+            allowed all the nations to walk in their own ways</quote> —
+          that is, their various rites and ceremonies of idols.
+          This <ref xml:id="lca8s8-d1e210-Rd1e188">Ambrose treats at length
+          in his two books on the calling of all nations,</ref>
+          and all the histories of the pagans sufficiently attest to it.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e199">
+          Although, therefore, the whole world worshipped idols,
+          God did not command that the Edomites or the Egyptians
+          be destroyed by war —
+          peoples who surpassed the other nations of the world
+          in their foul worship of idols and in other crimes.
+          On the contrary, God said:
+          <quote xml:id="lca8s8-d1e210-Qd1e209" source="http://scta.info/resource/deut23_7@1-15">You shall not abhor the Edomite,
+            for he is your brother.
+            Nor Egypt, for you were a stranger in his land.</quote>
+          <ref xml:id="lca8s8-d1e210-Rd1e217" corresp="#lca8s8-d1e210-Qd1e209">Deuteronomy 27.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e220">
+          And so God by no means commanded the killing of any idolaters
+          except those who inhabited the promised land,
+          unless there happened to be some new cause apart from idolatry.
+          This is proven from <ref xml:id="lca8s8-d1e210-Rd1e230">chapter 20 of that book,</ref>
+          where God, instructing his people how they ought to conduct war
+          against the pagans who dwelt outside the promised land —
+          if perchance they should receive harm or injury from them,
+          as <ref xml:id="lca8s8-d1e210-Rd1e246"><name xml:id="lca8s8-d1e210-Nd1e247">Lyranus</name> notes there</ref>
+          and <ref xml:id="lca8s8-d1e210-Rd1e250"><name xml:id="lca8s8-d1e210-Nd1e251">Abulensis</name> in question 1
+          and 2 Chronicles ch. 8, q. 5</ref> —
+          admonished them with these words, saying:
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e259">
+          <quote xml:id="lca8s8-d1e210-Qd1e261" source="http://scta.info/resource/deut20_10@1-10">If at any time you approach a city to besiege it,
+          you shall first offer it peace.</quote>
+          And further on:
+          <quote xml:id="lca8s8-d1e210-Qd1e268" source="http://scta.info/resource/deut20_15@1-21 http://scta.info/resource/deut20_16@1-11 http://scta.info/resource/deut20_17@1-5">Thus you shall do to all the cities that are very far from you,
+            and that are not among those cities which you are about to receive
+            as your possession.
+            But of those cities that shall be given to you,
+            you shall permit no one at all to live,
+            but shall put them to death by the edge of the sword</quote>
+          and so forth.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e286">
+          And so against the Canaanites inhabiting the promised land,
+          sufficient cause for war was simply that they were inhabitants of that land;
+          therefore the Jews were bound by divine command to kill them,
+          sparing neither great nor small,
+          nor even the animals themselves at times.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e299">
+          Yet against other nations,
+          even if they were impious and idolatrous,
+          the Jews could not take up arms without some other legitimate cause;
+          and in such cases they were bound first to offer them peace.
+          If the others did not refuse it and therefore opened their gates,
+          the Jews could afflict them with no other hardship
+          than the imposition of tribute as a penalty
+          for harm or injury inflicted upon themselves;
+          and once tribute had been imposed,
+          the others were left unharmed and free to inhabit their own cities.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e321">
+          But if they obstinately refused peace,
+          persisting in that resolve,
+          the Jews could, after taking the city,
+          kill those who were fit for battle;
+          yet they were bound to spare the women, children, and animals.
+          Indeed they could even spare the men,
+          for they were not bound by divine command to kill them,
+          as <ref xml:id="lca8s8-d1e210-Rd1e336">Cajetan notes there.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e343">
+          <add place="inline" hand="B">And</add> although this was indeed a general rule —
+          namely, that no nation, however idolatrous,
+          among those dwelling outside the promised land
+          could be subjected to war or any other hardship
+          unless some legitimate cause intervened —
+          the Lord had, however, made two exceptions from all the others:
+          namely the Midianites and the Amalekites,
+          whom the Jews were bound by divine command to attack and destroy —
+          not indeed because they were idolaters.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e382">
+          For, as has been said,
+          they could not wage war against idolaters without a just cause,
+          even if they were most impious;
+          rather, it was because those peoples had inflicted certain particular wrongs
+          upon the children of Israel.
+          The Midianites were indeed the cause
+          by which the children of Israel committed fornication
+          with the women of that region and worshipped idols,
+          and thereby the wrath of God came upon them;
+          for which reason the Lord commanded them:
+          let the Midianites feel that you are their enemies,
+          and strike them,
+          for they acted in a hostile manner against you.
+          <ref xml:id="lca8s8-d1e210-Rd1e410">Numbers ch. 16.</ref>
+          <note place="rm" hand="F">
+            <quote xml:id="lca8s8-d1e210-Qd1e403">The children of Israel could make war
+              upon the Midianites and Amalekites.</quote>
+          </note>
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e413">
+          The Amalekites, moreover, twice fought against the Jews
+          in an unjust and impious manner in the desert:
+          <ref xml:id="lca8s8-d1e210-Rd1e419">Exodus 17</ref>
+          and <ref xml:id="lca8s8-d1e210-Rd1e421">Numbers 14.</ref>
+          Therefore God commanded them not to forget that injury,
+          but to blot out the name of Amalek from the face of the earth
+          as soon as they had first settled in their own land.
+          <ref xml:id="lca8s8-d1e210-Rd1e433">Deuteronomy 26.</ref>
+          And because Saul spared their king, he sinned gravely;
+          for which reason the Lord did not permit his sons to succeed him in the kingdom.
+          <ref xml:id="lca8s8-d1e210-Rd1e439">1 Kings 15.</ref>
+          The Lord, therefore, did not will that all idolaters be killed
+          or subjected indiscriminately by war,
+          unless some particular and just cause were present.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e452">
+          For a case that is admitted for a special reason
+          does not make a general rule;
+          on the contrary, it teaches that the common law is to the contrary,
+          by the argument from the special provision —
+          concerning which argument see <ref xml:id="lca8s8-d1e210-Rd1e462" target="http://scta.info/resource/bgy6gt-d1e81-d1e254">l. quod vero contra</ref>
+          and <ref xml:id="lca8s8-d1e210-Rd1e468" target="http://scta.info/resource/bgy6gt-d1e81-d1e275">l. ius singulare. ff de legibus</ref>,
+          and <ref xml:id="lca8s8-d1e210-Rd1e470" target="http://scta.info/resource/bgy6gt-d1e4980-d1e108">l. 1. ff ad municipia</ref>,
+          and in the <ref xml:id="lca8s8-d1e210-Rd1e475" target="http://scta.info/resource/wef6td-d1e1612-d1e301">rule which is iure de regulis iuris,
+          Book 69, with similar passages.</ref>
+          These men therefore err,
+          knowing neither the scriptures nor the power of God.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e483">
+          Nor does what they adduce from <ref xml:id="lca8s8-d1e210-Rd1e491">Lyranus
+          on Numbers ch. 31</ref> carry any more weight —
+          where, teaching that certain just causes
+          for which war was undertaken are found in the sacred books,
+          he adds that a just cause for war is if the nation of some province
+          blasphemes God by worshipping idols,
+          <ref xml:id="lca8s8-d1e210-Rd1e511">Deuteronomy ch. 13.</ref>
+          This indeed we do not deny,
+          as it is read there.
+          But that is understood to be true when they worship idols
+          after having received the faith.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e520">
+          For if, having been warned and required to abstain
+          from those impure sacrifices and sacrilegious worship,
+          they refuse to do penance and to acknowledge the truth,
+          war can justly be waged against them.
+          This the Lord commanded through
+          <name xml:id="lca8s8-d1e210-Nd1e530">Moses,</name>
+          <ref xml:id="lca8s8-d1e210-Rd1e533">Deuteronomy 13.</ref>
+          Although even those who had not been heard were bound to be destroyed at that time —
+          concerning which see what is said in <ref xml:id="lca8s8-d1e210-Rd1e539">the following chapter.</ref>
+          In this age of grace, however,
+          something altogether different is to be thought and done
+          (as I will demonstrate shortly).
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e547">
+          The passages that Sepúlveda hammers in by constant repetition,
+          so as to induce a lethargic sleep in those who pay no attention —
+          <ref xml:id="lca8s8-d1e210-Rd1e554">Deuteronomy 12,</ref>
+          <ref xml:id="lca8s8-d1e210-Rd1e556">9,</ref>
+          <ref xml:id="lca8s8-d1e210-Rd1e558">18,</ref>
+          and <ref xml:id="lca8s8-d1e210-Rd1e561">Leviticus 13,</ref>
+          <ref xml:id="lca8s8-d1e210-Rd1e563">18,</ref>
+          <ref xml:id="lca8s8-d1e210-Rd1e565">20</ref> —
+          speak of idolaters inhabiting the promised land,
+          whose idols the Jews were bound to utterly demolish to their foundations.
+          But to argue from idolaters inhabiting the promised land
+          to other idolaters,
+          especially after the coming of Christ,
+          is absurd (as I have shown above);
+          otherwise, if they press us with the authority of those passages,
+          they will also teach that the Spaniards must necessarily kill
+          the great and the small,
+          the guilty and the innocent,
+          even down to the beasts of burden,
+          dogs, and cats —
+          just as is commanded in some of those passages —
+          which is most absurd.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e596">
+          But if they deny this —
+          claiming that children, women, dogs, and beasts of burden
+          ought to be spared —
+          I will ask by what right they admit those passages
+          with respect to men,
+          yet reject them with respect to children,
+          beasts of burden, and the other things commanded to be killed there?
+          Is it for the sole reason that so it seems to
+          <name xml:id="lca8s8-d1e210-Nd1e609">Sepúlveda?</name>
+          He brings forward a sufficiently weak argument
+          to deserve belief on this point.
+          In sum, those passages speak of pagans inhabiting the promised land;
+          against all others the Jews could not wage war
+          without some other legitimate cause
+          (as has been proven above many times).
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e625">
+          I marvel, however, that this Christian man
+          does not rather admit those passages
+          which speak of pagans outside the promised land,
+          so that we might use their analogy against all the nations of the world
+          found to be given over to idolatry —
+          since those passages are more closely in accord
+          with the mildness of the evangelical teaching
+          and the meekness and charity of Christ
+          than those which rested upon that special and rigorous command.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e645">
+          ¶ But so that the pernicious error
+          and the ignorance — or certainly the malice —
+          of certain adversaries, now exposed,
+          may henceforth be more clearly manifest to all,
+          as a further confirmation of what has been said,
+          we wish to prove more fully
+          that that rigorous command against the Canaanite nations
+          was most special in character,
+          and hence that those passages commanding idolaters to be killed
+          are to be admitted only against the inhabitants of the promised land.
+          This we prove by assigning certain reasons for this special character,
+          drawn from the sacred scriptures.
+          <pb ed="#P" n="69-v"/>
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e671">
+          Two of these reasons
+          <ref xml:id="lca8s8-d1e210-Rd1e675">Saint Thomas assigns in book 4 of the Sentences,
+          distinction 29, art. 1, ad 1m.</ref>
+          First, because the wickedness of those nations was already complete,
+          and therefore the Lord was unwilling to tolerate them any longer,
+          given that they persisted in their sins with stubborn minds.
+          For we read in <ref xml:id="lca8s8-d1e210-Rd1e689">Genesis 15</ref>
+          that God said to Abraham:
+          <quote xml:id="lca8s8-d1e210-Qd1e698">to your seed I will give this land.</quote>
+          And again, as if Abraham were asking the Lord
+          why he would not give it to him at once,
+          it is added:
+          <quote xml:id="lca8s8-d1e210-Qd1e705">for the iniquities of the Amorites
+            are not yet complete up to the present time.</quote>
+          The iniquity of that nation, therefore,
+          is believed to have been complete at the time
+          when the children of Israel went out from the servitude of the Egyptians,
+          at which point that command was imposed upon them to exterminate those peoples.
+          This <ref xml:id="lca8s8-d1e210-Rd1e721">Gratian notes in c. remittuntur, 23 q. 5, § praescientes.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e727">
+          This obstinacy of the nation is expressly reported in
+          <ref xml:id="lca8s8-d1e210-Rd1e731">the book of Joshua ch. 11:</ref>
+          <quote xml:id="lca8s8-d1e210-Qd1e733">For it was the sentence of the Lord
+            that their hearts should be hardened,
+            and that they should not deserve any clemency.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e742">
+          And so the Lord, on account of the crimes of that nation,
+          had condemned it to death
+          and had made the Hebrews the executors of his will;
+          therefore he expressly commanded them to kill and exterminate those peoples;
+          and if the Hebrews had not done so they would have sinned mortally.
+          But other idolaters they could not kill.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e758">
+          ¶ The second reason for which the Lord commanded the Hebrews
+          in particular to kill those nations
+          was on account of the danger that threatened the Hebrews themselves.
+          For the Hebrews, as is clear from many passages of sacred scripture,
+          were especially prone to idolatry.
+          Lest therefore the proximity of the Canaanites,
+          Amorites, and the other nations of that region
+          draw them into the worship of idols,
+          the Lord commanded those nations to be utterly exterminated:
+          <quote xml:id="lca8s8-d1e210-Qd1e778">lest perhaps (he says) they teach you to do
+            all the abominations which they have practiced for their gods,
+            and you sin against the Lord your God.</quote>
+          <ref xml:id="lca8s8-d1e210-Rd1e787">Deuteronomy 20</ref>
+          and <ref xml:id="lca8s8-d1e210-Rd1e792">7.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e795">
+          For the same reason also the Lord commanded
+          that they should not contract friendship or marriage
+          with any of those nations.
+          <ref xml:id="lca8s8-d1e210-Rd1e801">Deuteronomy 7.</ref>
+          This <ref xml:id="lca8s8-d1e210-Rd1e803">Saint Thomas notes in the same place
+          and in Ia IIae q. 105, art. 4, ad 6m.</ref>
+          With the other idolatrous nations, however,
+          the Jews were not prohibited from contracting friendship —
+          especially if there was no danger present
+          of their being drawn into their worship.
+          Thus we see that it was permissible for the Hebrews
+          to form marriage alliances with those peoples.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e820">
+          For Joseph took as wife the daughter of Potiphera,
+          who was a priest of the idols of Egypt.
+          Moses had an Ethiopian wife.
+          Esther married King Ahasuerus.
+          Solomon celebrated nuptials with the daughter of the king of Egypt.
+          Indeed, even with idolaters very close to the promised land
+          it was permissible to contract marriage.
+          For we read in <ref xml:id="lca8s8-d1e210-Rd1e837">Ruth ch. 4</ref>
+          that Ruth the Moabite,
+          born in the land of Moab which is very close to the land of Canaan,
+          married Boaz.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e852">
+          Likewise in <ref xml:id="lca8s8-d1e210-Rd1e854">Deuteronomy ch. 21,</ref>
+          the Lord permitted the Hebrews that if they should ever wage war
+          against other enemies —
+          that is, those not inhabiting the promised land —
+          and conquer them,
+          and among the captives should see a beautiful woman
+          who appealed to them,
+          they could, after performing certain rites,
+          take her as a wife.
+          Indeed they could even take as wives
+          the daughters of pagans inhabiting the promised land,
+          by dispensation.
+          For Salmon, prince of the tribe of Judah,
+          son of Nahshon, took as wife
+          Rahab the harlot, who was born in the city of Jericho,
+          which is in the inland region of Canaan —
+          as we read in <ref xml:id="lca8s8-d1e210-Rd1e885">Numbers 12</ref>
+          and <ref xml:id="lca8s8-d1e210-Rd1e887">71</ref>
+          and <ref xml:id="lca8s8-d1e210-Rd1e889">Matthew 1.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e895">
+          <add place="lm" hand="F">Third reason.</add>
+          ¶ In the Conferences of the Fathers,
+          the conference of <ref xml:id="lca8s8-d1e210-Rd1e901">the holy Abbot Serapion, ch. 24,</ref>
+          and <ref xml:id="lca8s8-d1e210-Rd1e903">Saint Epiphanius in the book entitled the Ancoratus,</ref>
+          and <ref xml:id="lca8s8-d1e210-Rd1e909">Saint Augustine in sermon 105 de tempore</ref>
+          offer another reason for this special command.
+          Namely, because that region which the Canaanites possessed
+          had fallen by lot to Shem,
+          the eldest son of Noah,
+          when Noah divided the world among his three sons.
+          And an oath was exacted from them by their father
+          that none of them should invade the lot of a brother,
+          and that whoever transgressed this sworn precept
+          should be exterminated by oath —
+          he and his entire seed.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e933">
+          But after the sons of Shem had long possessed that region,
+          the sons of Ham — whom Noah their father cursed
+          (who are called Canaanites) —
+          descending into that region,
+          violently expelled the sons of Shem
+          and took possession of their territory.
+          Therefore the Lord, who is long-suffering,
+          gave them time for repentance
+          so that those born of Ham might repent
+          and restore to the sons of Shem their proper inheritance;
+          but they did not repent.
+          Then God, being just after many generations,
+          avenged those who had been wronged by the sons of Ham,
+          exterminating the offspring of Ham in accordance with their oath,
+          and the seed of Shem — that is, the children of Israel —
+          received their own region.
+          For thus it was necessary that the measure of the Amorites be fulfilled —
+          that is, the wickedness of the Canaanites —
+          both so that the kingdom might be restored to its lawful owners,
+          and also so that the crimes of that nation might be punished.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e978">
+          ¶ From this it clearly appears
+          that the command of the Lord
+          to exterminate the seven nations inhabiting the promised land
+          had a particular cause,
+          and that from it one cannot infer in general
+          that pagan idolaters are to be killed —
+          which we have proven from the passages of the Old Testament.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e991">
+          And since this was the case even in the time of the old law,
+          which was harsh and severe,
+          all the more is this to be understood today,
+          when through the coming of Christ the Lord has poured out
+          the treasures of his mercy over all the earth and over every nation.
+          For this reason this time is called the time of grace,
+          the time of love,
+          the year of favor,
+          the day of salvation and joy,
+          the good news sent freely —
+          as the prophets and both the Old and New Testaments
+          are full of testimonies of this kind.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e1015">
+          The venerable
+          <name xml:id="lca8s8-d1e210-Nd1e1017">Doctor Sepúlveda</name>
+          therefore errs,
+          who in this matter by no means carefully examined
+          — or certainly did not understand well enough —
+          the scriptures,
+          wishing in this age of grace and mercy to put into practice
+          the rigorous commands of the old law that were issued for a special reason,
+          and thereby to open the way for tyrants and plunderers,
+          under the pretext of religion,
+          to cruelly invade, oppress, plunder,
+          and reduce to bitter slavery innocent nations
+          that have neither heard the faith
+          nor could have suspected that the faith of Christ
+          or the Christian religion existed in the nature of things.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e1044">
+          What then? The examples of things that God at that time
+          commanded to be done we admire,
+          yet we ought not to imitate them —
+          as is stated in <ref xml:id="lca8s8-d1e210-Rd1e1050">c. nos si incompetenter,
+          § his ita respondetur, 2 q. 7.</ref>
+          For <name xml:id="lca8s8-d1e210-Nd1e1056">Samuel</name>
+          in one of those wars cut to pieces
+          <name xml:id="lca8s8-d1e210-Nd1e1061">Agag, king of the Amalekites,</name>
+          <ref xml:id="lca8s8-d1e210-Rd1e1063">1 Kings 15;</ref>
+          but now consecrated men abstain from all shedding of blood.
+          Likewise <name xml:id="lca8s8-d1e210-Nd1e1069">Phinehas the priest</name>
+          killed a Jew who was lying with a Midianite woman;
+          but now it would be judged impious
+          for a priest to defile his hands with blood.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e1079">
+          Furthermore the Hebrews then despoiled
+          the <ref xml:id="lca8s8-d1e210-Rd1e1083">Egyptians</ref> by a kind of stratagem,
+          and the prophet <ref xml:id="lca8s8-d1e210-Rd1e1085">Hosea</ref>
+          took up with a harlot wishing to have children of fornication.
+          But today, according to the evangelical law,
+          if anyone did something similar
+          he would be guilty of theft and licentiousness
+          and would commit mortal sin.
+          It was then permitted to have many wives;
+          today one who did the same would be an adulterer.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e1103">
+          Therefore <ref xml:id="lca8s8-d1e210-Rd1e1105">Gregory in the Moralia,
+          book 18, ch. 3,</ref>
+          cited also in <ref xml:id="lca8s8-d1e210-Rd1e1110">the Decretals, 22 q. 2,
+          c. si quis,</ref> says:
+          <quote xml:id="lca8s8-d1e210-Qd1e1115">If anyone through the Old Testament wishes to defend his falsehood,
+            because it perhaps harmed some people less there,
+            let him say that the seizure of another's property
+            and the requiting of injury —
+            conceded to the weak there —
+            cannot harm him.
+            All of which, it is evident with what great correction
+            truth pursues them,
+            truth which now, having cast aside the shadow of its signification,
+            is declared to us in true flesh.</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e1136">
+          And again <ref xml:id="lca8s8-d1e210-Rd1e1138">at the end of ch. 2, Gregory says:</ref>
+          <quote xml:id="lca8s8-d1e210-Qd1e1143">For in the New Testament,
+            with higher precepts,
+            truth having been made manifest through the flesh,
+            we make progress;
+            and it is just that we abandon certain deeds
+            which in that people served as a shadow of the truth.</quote>
+          Thus Gregory.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e1161">
+          Again, <ref xml:id="lca8s8-d1e210-Rd1e1164">Augustine in his Questions on Exodus,
+          read in 14 q. 5, c. dixit dominus,</ref>
+          <quote xml:id="lca8s8-d1e210-Qd1e1169">The Lord said (he writes) to Moses:
+            let every man ask of his neighbor
+            and every woman of her neighbor,
+            vessels of silver and of gold and clothing —
+            no one from this ought to think an example is being given
+            for despoiling one's neighbor in this manner.
+            For the Lord commanded this,
+            who knew what each person ought to suffer,
+            and the Israelites did not commit theft,
+            but performed a service at God's command.</quote>
+          Thus Augustine.
+        </p>
+
+        <p xml:id="lca8s8-d1e210-d1e1190">
+          Those, therefore, who from those passages strive to prove
+          that all unbelievers or idolaters in general
+          are to be consumed by the sword of war —
+          where of necessity so many homicides,
+          so many plunderings, rapines, scandals,
+          and infinitely many other irreparable evils and hardships intervene —
+          on the grounds that God commanded the children of Israel
+          to do such things to the Egyptians and Canaanites:
+          must necessarily also confess
+          that it is permissible to steal others' property,
+          to avenge one's own injuries;
+          they must also acknowledge what I have said above —
+          that this would be nothing other than the practice of Judaism.
+          But by the words of the Savior we are taught
+          that we cannot attain salvation
+          unless we surpass the justice of the Jews.
+          <ref xml:id="lca8s8-d1e210-Rd1e1218">Matthew 6.</ref>
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

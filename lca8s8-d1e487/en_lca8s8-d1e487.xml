@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematyps="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 34 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 34 [Bnf 12926 Translation]</title>
+          <date when="2025-05-14">May 14, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="151-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e487">
+        <head xml:id="lca8s8-d1e487-Hd1e97">Chapter 34</head>
+        
+        <p xml:id="lca8s8-d1e487-d1e99">
+          Chapter 34
+        </p>
+        
+        <p xml:id="lca8s8-d1e487-d1e104">
+          The same ought to be concluded about the crime of sacrificing human beings,
+          which is said to be in use among them.
+          For war is not just on these grounds,
+          both from what was said above (namely) 
+          that the truth can hardly be signified to them briefly through envoys announced,
+          and also because the Indians are not bound to put faith in the Spaniards,
+          even if they repeat the truth to them a thousand times.
+          Why should they believe a people proud,
+          greedy,
+          fierce,
+          rapacious?
+          Or why should they depart from the religion of their ancestors,
+          confirmed by the consensus of so many centuries,
+          strengthened by the authority of so many wise men,
+          at the warning of a people whose miracles do not confirm their faith,
+          nor do their vices commend it?
+        </p>
+        
+        <p xml:id="lca8s8-d1e487-d1e153">
+          For the Indians worshiping idols,
+          although they cannot be excused before God,
+          are nevertheless entirely excused before men for a double reason.
+          First,
+          because they follow a probable error,
+          for according to the Philosopher in Topics 1,
+          that is called probable which all men approve,
+          or the greater part of the wise,
+          or those whose wisdom is more approved.
+          Again in Rhetoric 1 chapter 20 he says:
+          That ought necessarily to be considered good or better which all or the greater part of the prudent judge to be good,
+          or those who are considered more prudent,
+          even if there is one who judges it good.
+          And such decrees approved by these opinions are said to be morally certain according to the same Philosopher 
+          in Ethics 1 chapter 2,
+          whom all philosophers as well as theologians follow.
+          But when the opinion about the gods and the sacrifices to be offered to them,
+          and from which things sacrifice ought to be made,
+          is approved by the consensus of all nations known to the Indians,
+          and these are worshiped by those whom they believe to be sacred and divine men (namely) by the priests,
+          and the cult of idols is confirmed by the decrees of laws and the sanctions of princes,
+          with threats and penalties added against transgressors,
+          finally when idols are worshiped not secretly but publicly and religiously 
+          in temples from most ancient centuries,
+          certainly it is most manifest that they err probably.
+          Nor is it to be wondered at if they do not immediately awaken at the first voice of our people.
+        </p>
+        
+        <p xml:id="lca8s8-d1e487-d1e229">
+          And especially they err probably concerning the custom of sacrificing human victims,
+          since ancient histories both of pagans and also of Catholics testify 
+          that almost all peoples were accustomed to do the same.
+          For thus Eusebius says in On the Preparation for the Gospel book 4 chapter 7:
+          <quote xml:id="lca8s8-d1e487-Qd1e246">
+            All men commonly,
+            when the appointed day comes on which they were accustomed to sacrifice a man,
+            sprinkle the altar with human blood;
+            it was the custom of the ancients in great calamities and dangers 
+            that the prince of the city or nation would hand over the most beloved of his children 
+            to the avenging demon as if a price of redemption,
+            and thus the one handed over was mystically slaughtered
+          </quote>.
+          And below: 
+          <quote xml:id="lca8s8-d1e487-Qd1e266">
+            the sacrifices of men are demanded,
+            namely by demons,
+            who falling upon many cities and peoples not infrequently 
+            like common plagues and lightning bolts,
+            did not cease to harass men atrociously until they were placated with their blood
+          </quote>.
+          These are his words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e487-d1e283">
+          Again Clement in book 9 of the Recognitions to James the brother of the Lord 
+          reports that certain peoples in the western Indies,
+          which perhaps are these of ours,
+          are accustomed to sacrifice arriving guests to their gods and afterwards to eat them,
+          which Eusebius also writes in the place cited above.
+          Moreover Lactantius in book 1 chapter 21 of the Divine Institutes says:
+          There was (he says) a law among the Tauri,
+          an inhuman and savage people,
+          that a guest should be sacrificed to Diana,
+          and this sacrifice was celebrated for many times.
+          The Gauls placated Esus and Teutates with human blood.
+          Nor indeed were the Latins free from this savagery.
+          For the Latian Jupiter is worshiped with human blood even now.
+          But it is not to be wondered at concerning barbarians whose religion agrees with their customs;
+          but our people who always claimed for themselves the glory of gentleness and humanity,
+          are they not found more savage in these sacrilegious rites?
+          And a little below:
+          Nevertheless it appears that this rite of sacrificing men is ancient.
+          They threw these in honor of Saturn from the Milvian bridge into the Tiber.
+          But concerning innocent children he says:
+          For what shall I say about the infants who were sacrificed to that same Saturn 
+          because of hatred of Jupiter,
+          I do not find.
+          That men were so barbarous,
+          so savage,
+          that they should call parricide,
+          that is,
+          a crime foul and execrable to the human race,
+          a sacrifice,
+          when they extinguished tender and innocent souls,
+          which is especially the age most sweet to parents,
+          without any respect for piety,
+          etc.
+          And below:
+          The Carthaginians were accustomed to sacrifice human victims to Saturn,
+          and when they had been conquered by Agathocles king of Sicily,
+          they sought to appease the god angry with them,
+          and so that they might more diligently pay the expiation,
+          they sacrificed two hundred sons of nobles,
+          etc.
+        </p>
+        
+        <p xml:id="lca8s8-d1e487-d1e396">
+          Again 
+          <ref xml:id="lca8s8-d1e487-Rd1e398">
+            Plutarch in the Problems page 465
+          </ref>
+          writes that the Romans did not punish certain barbarians who sacrificed men to the gods,
+          because they learned they had done it by custom and law.
+          Nevertheless Plutarch reports that the Romans did the same at some time.
+          I will subjoin his words here:
+          What is it that when the Romans had heard that certain barbarians had sacrificed a man to the immortal gods,
+          their magistrates thought they should be summoned and punished,
+          whom afterwards when they had learned that they had done this by a certain custom and law,
+          they dismissed them and forbade them to do it otherwise,
+          when they themselves not many years before had buried alive 
+          two men and two women in the cattle market?
+          For it does not seem fitting that they themselves should do these things 
+          and reprove barbarians who had committed such things.
+          Was sacrificing a man to the immortal gods considered impious,
+          but to demons necessary?
+          Or did they think those who did it by custom and law were sinning,
+          but they themselves,
+          commanded by the Sibylline books,
+          did not think they were held by the same crime,
+          etc.
+          These are Plutarch's words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e487-d1e450">
+          Then Herodotus the Greek historiographer in book 4 page 299 
+          narrates that the Scythians were accustomed to sacrifice to their gods 
+          one out of every hundred captives in war.
+          And then he writes that the Scytho-Taurian peoples who are in Germany 
+          offer to Iphigenia daughter of Agamemnon 
+          all who have suffered shipwreck and have been cast on shore,
+          and likewise guests.
+          The same Solinus writes in the Polyhistory chapter 20 and Pomponius Mela in book 2 chapter 1.
+          Then Diodorus Siculus in book 6 folio 190 writes that the Galatians sacrifice to the gods 
+          captives or those condemned for crimes.
+          Our Spaniards who reproach the miserable Indian people for the sacrifices of men 
+          were sacrificing captives and horses to Mars,
+          which Strabo records in book 3 On the Geography of the World.
+          He says some neighbors of the Durius river live according to the Spartan rite.
+          And a little below:
+          Devoted to sacrifices,
+          they also seek divination especially from the intestines of these captives.
+          They offer to the gods the severed right hands of captives.
+          They use especially the he-goat which they also sacrifice to Mars,
+          just as captives and horses,
+          etc.
+          These are Strabo's words.
+          And concerning many other peoples he narrates similar things in the following books.
+          And Polydore Vergil recorded very many things in book 5 chapter 8 
+          On the Inventors of Things.
+        </p>
+        
+        <p xml:id="lca8s8-d1e487-d1e512">
+          Therefore since among so many peoples it was customary to sacrifice men to the gods,
+          certainly the Indians sacrificing men for so many centuries err probably.
+          We know indeed that in many regions of the world very famous philosophers lived.
+          These nevertheless,
+          although they knew that the stories about the gods were mere fables 
+          and judged that divine honors should not be attributed to them 
+          (of whose number were Seneca and Cicero),
+          nevertheless did not wish to call the people away from the ancient custom 
+          received for so many centuries,
+          <ref xml:id="lca8s8-d1e487-Rd1e545" target="http://scta.info/resource/adcd-l6-Dd1e243">
+            according to Augustine in the City of God book 6 chapter 10
+          </ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e487-d1e547">
+          Why therefore should it be thought that the Indians ought to depart 
+          from a religion received for so many centuries,
+          sanctioned by the laws of so many princes,
+          confirmed by the example of so many wise men,
+          at the exhortation of Christian soldiers,
+          when they are barbarous peoples surpassing every impiety?
+          Indeed they would be most fickle and worthy of reproof and punishment 
+          in so arduous a matter and of such great moment 
+          and most difficult desertion,
+          as Chrysostom says in Homily 7 on 1 Corinthians,
+          if they should put faith in them concerning this,
+          with so many and such great testimonies of such authority among them set aside,
+          until they are taught by more probable reasons,
+          which cannot be done in a short time,
+          that the Christian religion is more probable.
+          Let those therefore be ashamed who are pleased that the gospel be preached with armed hand;
+          they want men to be taught,
+          they do not want them to be compelled.
+          But they can in no way be taught briefly,
+          obviously ignorant of our language and we of theirs,
+          and prudently tenacious of their religion until they are convinced by reason.
+          For no business is greater for man or more arduous 
+          than to depart from a religion which he once put on,
+          as we have said.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

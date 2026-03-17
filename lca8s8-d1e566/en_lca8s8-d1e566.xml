@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 40 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 40 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-22">April 22, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+Published under a 
+<ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="176-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e566">
+        <head xml:id="lca8s8-d1e566-Hd1e97">Chapter 40</head>
+        <p xml:id="lca8s8-d1e566-d1e99">
+          <pb ed="#P" n="176-r"/>
+          Chapter 40
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e106">
+          And indeed since the word of God uproots idolatry and every vice,
+          and softens the hearts of any nation,
+          however savage,
+          by its wondrous power:
+          the word of God will be of much greater effect among the Indians than among any other peoples,
+          since they are of teachable intellect and distinguished by excellent disposition for receiving the faith 
+          above very many nations of the known world,
+          gentle,
+          meek,
+          unarmed.
+          Experience itself has taught this,
+          and I,
+          for the glory of Christ,
+          what I have seen with my own eyes for fifty years,
+          I hand down to posterity with sincere spirit.
+          The Spanish penetrated with truly immense daring into this new world of lands unheard of in previous centuries.
+          Where,
+          contrary to the intention of the prince,
+          they perpetrated enormous and unprecedented crimes:
+          they killed innumerable myriads of people;
+          they burned villages;
+          they drove away herds;
+          they plundered cities;
+          and without any even seemingly probable cause,
+          they committed abominable outrages with savage cruelty against the wretched people,
+          cruel,
+          rapacious,
+          seditious.
+          Could they have knowledge of the true God to whose worship the religious exhorted the Indians?
+          Nevertheless,
+          behold the power of the word of God and the teachableness of the Indian people;
+          hear the mercy of Christ whose adorable name the most impious men defamed by their crimes.
+          The Indians received Christian truth most willingly,
+          which the truly religious receive as a great miracle.
+          They followed,
+          however,
+          the sacred men and religious monks announcing to them evangelical truth.
+          Woe is me,
+          what if those most gentle sheep had that great teacher Paul,
+          or someone who wished to imitate Paul's divine virtue:
+          how great and what sort of obedience would they render to their Lord?
+          How abundant would be the spiritual harvest and the fruit of divine rejoicing?
+          If they do not spurn the gospel which the preachers themselves,
+          which is lamentable,
+          sometimes defame by their morals:
+          what if men,
+          emulators of apostolic virtue,
+          penetrated alone into those provinces whose inhabitants received the faith of Christ despite the worst examples 
+          and the crimes of savage cruelty which the Spanish perpetrated against them?
+          Whatever I shall say about the faith of the Indians,
+          I have seen with my own eyes,
+          not in one place only or in only one nation,
+          but indeed in many.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e273">
+          They venerate the holy sacraments of the Catholic Church and receive them with great signification of piety;
+          if,
+          because of a shortage of priests,
+          they cannot be aided by the sacraments,
+          these most sincere people grow pale,
+          weep,
+          grieve,
+          lament.
+          Again,
+          at the time of death,
+          you see in them wondrous care for their salvation and soul,
+          and a manifest sign in them of eternal predestination,
+          which is characteristic of Christians.
+          And would that there were more among us who were troubled by such cares.
+          Finally,
+          they seek the sacraments with great solicitude of spirit both for themselves and for their children.
+          Concerning which matter I shall discuss more broadly in the second part of this apology.
+          From which we can gather that if probable hope can be had concerning all idolaters 
+          who labor only from ignorance of divine things,
+          that having heard the proclamation of Christ,
+          they will awake from those and similar vices,
+          we ought doubtless to conceive more probable hope concerning the conversion of those nations of the world,
+          since experience has taught us so many and such great things about the goodness and teachableness of their intellect.
+          Therefore,
+          in recalling our brothers from this error,
+          let us follow the examples of the apostles and apostolic men;
+          let us uproot idolatry and the worship of demons 
+          and other sins by the word of God and evangelical doctrine in that manner in which Christ commanded it to be manifested,
+          with the example of life,
+          not however by war,
+          for malice does not remove but propagates malice.
+          Therefore the sixth case is clear,
+          concerning whose matter we began to treat above in chapter 24,
+          in which we said the Church can reduce the habit of coercive jurisdiction 
+          which it has in potency to act with respect to any infidels—namely,
+          that it might free the innocent from unjust oppression.
+          The truth and definition of this matter stands in these terms—namely,
+          that although it pertains to the Church,
+          on account of the fullest power conferred upon it by God,
+          to impede the aforesaid injuries committed against the innocent jurisdictionally,
+          and in the case where those committing them pertinaciously resist,
+          to punish them also:
+          nevertheless,
+          if,
+          having first tried any lawful and honest human means,
+          such inconveniences to the innocent cannot be obviated except through war,
+          one must utterly cease from it,
+          and dissimulate with both those doing and suffering such things.
+          First,
+          because of two evils,
+          if both cannot be avoided,
+          the lesser must be chosen according to right reason.
+          Second,
+          because it is manifest that more innocent persons will perish than those who are proposed to be freed,
+          and yet we are forbidden by the strictest negative precept to kill the innocent in any case.
+          Third,
+          because in war the innocent cannot be distinguished from the guilty.
+          Fourth,
+          because such a remedy has already lost the nature of justice or virtue.
+          Fifth,
+          on account of the common utility which is concerned with avoiding the temporal overthrow of the entire republic,
+          and especially the spiritual loss.
+          Sixth,
+          on account of the probable hope and vehement presumption which is had concerning their conversion 
+          through the preaching of the faith,
+          as the longest experience has taught,
+          as is now clear.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e455">
+          To which we add this universal reason—namely,
+          lest God and his holy Church,
+          without which he wishes men to be saved and to come to the knowledge of truth,
+          remain frustrated.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e467">
+          And thus we conclude that six cases are possible in which the Church and its head,
+          the supreme vicar of Christ,
+          by right of his apostolate,
+          can place in practical act the contentious jurisdiction which it has habitually—that is,
+          exercise it with respect to any infidels according to what has been declared above.
+          And this is the second mode of that distinction by which we said in chapter 15 
+          that the Church can exercise temporal jurisdiction concerning infidels.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e492">
+          There is a third mode of the aforesaid distinction of the Church exercising temporal jurisdiction 
+          in or concerning infidels,
+          not however just any kind,
+          but that which among jurists is called voluntary.
+          Jurists call voluntary jurisdiction that which cannot be exercised against an unwilling person,
+          but only against a willing one;
+          therefore it is called voluntary jurisdiction.
+          The text enumerates the acts of voluntary jurisdiction in l. actus ff de feriis,
+          namely:
+          to emancipate,
+          to adopt,
+          etc.
+          And it extends even to foreigners who are not subjects,
+          and concerning it is treated in l. omnes ff. de officio proconsulis 
+          and in capitulo ultimo de feriis.
+          The pope has jurisdiction of this kind concerning all infidels of the entire world 
+          as the universal vicar of Jesus Christ,
+          to whom it pertains to send the gospel to all nations of the entire world through his ministers and apostolic legates.
+          This jurisdiction is called voluntary or similar to voluntary because infidels 
+          who have never professed the faith are not to be compelled by the Roman Pontiff,
+          but are to be exhorted and peacefully and graciously invited;
+          if they are unwilling to receive,
+          they have God alone as judge,
+          for those who have not believed are reserved for divine judgment,
+          according to that passage in Mark at the end:
+          "but whoever does not believe will be condemned."
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e569">
+          If,
+          however,
+          through baptism and faith they enter the sheepfold of Christ,
+          then the Roman Pontiff has contentious jurisdiction over them in habit only,
+          according to what is read in capitulo nouit de iudiciis,
+          and we have treated above at length.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e582">
+          Therefore I call this jurisdiction voluntary or similar to voluntary.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e589">
+          First,
+          because although the duty of preaching the gospel pertains to the pope,
+          the infidels to whom it is preached are not compelled to receive it,
+          but it is left to their free will,
+          since to believe is an act of the will,
+          as was said above.
+          Since,
+          therefore,
+          that power of preaching the gospel which the Church has must be adapted and suited to the voluntary reception of the faith 
+          as means to end—for the same right and disposition is in one of connected things as in the other,
+          as 1 quaestione 3 c. si quis obiecerit and 3 q. 6 c. hoc quippe,
+          and "the accessory follows the nature of its principal,"
+          by the rule accessorium de regulis iuris libro 6—it follows that such power can be called voluntary power or jurisdiction,
+          or similar to voluntary,
+          according to the manner of jurists,
+          who,
+          with respect to those over whom they have it to exercise,
+          because they must be not unwilling but voluntary,
+          call it voluntary.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e641">
+          Second,
+          and this is a juridical reason quite adaptable to the proposition:
+          since one of the acts of voluntary jurisdiction is assigned to be adopting someone as a son who is not a son,
+          as if art imitates nature,
+          as in institutis de adoptionibus § foeminae in the gloss,
+          and 
+<ref xml:id="lca8s8-d1e566-Rd1e661">Saint Thomas 4 sententiarum distinctio 42 quaestione 2 articulo 1</ref> 
+and 
+<ref xml:id="lca8s8-d1e566-Rd1e667">3 sententiarum distinctio 10 quaestione 2 articulo 1 quaestiuncula 1a</ref> 
+and 
+<ref xml:id="lca8s8-d1e566-Rd1e670">3 pars quaestione 3 articulo 5 ad 2m</ref>,
+          and this indeed is a certain voluntary acceptance of some foreign person who is not in the power of the adopter as a son,
+          by which the adopted one is admitted to share in the inheritance of the adopting father,
+          which indeed must be voluntary on the part of the adopted one,
+          l. Neque. ff de adoptionibus.
+          Infidels are also foreign and outside persons,
+          since they exist entirely outside the doors of the Church,
+          and thus are not of its forum as to coercive jurisdiction,
+          as has been proved at length above;
+          it follows that if the Church wishes to adopt them as sons of God,
+          this must be with their voluntary consent,
+          according to that passage in John 1:
+          "He gave them power to become sons of God,"
+          that is,
+          he left it in their power of free will that,
+          if they wish,
+          they may become sons of God.
+          Whence Ambrose says:
+          "Christ chose a voluntary soldier,"
+          15, q. 1, c. Non est.
+          Whence,
+          by voluntarily receiving the sacrament of baptism,
+          they are made adoptive sons of God,
+          according to that passage in Romans 8:
+          "You have received the spirit of adoption of sons of God,
+          in which we cry Abba Father."
+          Since,
+          however,
+          this power which is in the Church of preaching the gospel throughout the world,
+          which is nothing other than by the teaching of faith to persuade and invite foreign nations—namely,
+          infidels—that it may please them to be adopted as sons of God,
+          is known to be founded,
+          after the virtue and grace of Christ,
+          only upon the voluntary acceptance of the infidels themselves,
+          according to Saint Thomas 3 pars q. 8 articulo 3 ad 1m,
+          and besides this and the six cases related above,
+          nothing pertains to the Church concerning judging those who are outside,
+          as was most fully proved in the preceding matters,
+          it follows that such power or jurisdiction or right of preaching can be called voluntary 
+          in likeness to that which jurists call voluntary,
+          although on the part of the Church and the supreme vicar of Christ it is preceptive and necessary,
+          as appeared above in a certain place.
+          And with respect to this necessity imposed on the supreme pontiff by Christ,
+          because he has a precept to take care that the gospel be preached throughout the entire world,
+          the whole world is assigned to him as a parish,
+          with Chrysostom as authority,
+          super ioanem homilia 87:
+          "For when Christ had communicated great things to Peter,
+          he entrusted to him the care of the world."
+          These are his words.
+          And thus the supreme pontiff is curator of the entire world.
+          Whence Bernard in libro 2o de consideratione ad Eugenium says there:
+          "A sign indeed of singular power and of the pontificate of Peter,
+          through which he received to be governed not one ship as each of the others his own,
+          but the very world itself,"
+          etc. These are Bernard's words.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e828">
+          And concerning this voluntary jurisdiction,
+          which is founded in the preaching of the faith and the voluntary conversion of nations,
+          Pope Leo speaks more expressly in sermon 3 of his ordination,
+          among other excellences of Peter,
+          thus:
+          "From the whole world one Peter is chosen,
+          who is placed before both the calling of all nations and all the apostles and all the fathers of the Church,"
+          etc. These are his words.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e848">
+          And thus the Roman Pontiff is the first of all heralds of evangelical truth and the prince of the calling of all infidel nations,
+          and also the prince of the entire universal Christian Church and of all who are counted as members of the Church.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e865">
+          To these accords what Bernard says in the aforesaid book 2 de consideratione ad eugenium:
+          "Go forth into the field of your Lord,
+          go forth into the world,
+          for the field is the world,
+          and that has been entrusted to you.
+          Go forth into it not as lord but as steward to see and approve whence you must render an account.
+          Go forth,
+          I say,
+          with certain steps of your intent solicitude and solicitous intention,"
+          etc. These are his words.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e894">
+          And thus the supreme pontiff is not lord of the world but steward of the supreme prince and universal lord of the entire world,
+          insofar as in his field,
+          that is,
+          in the entire world,
+          that is,
+          in all nations,
+          he may plant and build with the cultivation of his apostolic doctrine virtues and uproot vices,
+          according to the prophecy of Jeremiah 1.
+          To which also pertains what Bernard in book 4 of the same work calls the Roman Pontiff teacher of the nations,
+          thus saying:
+          "Henceforth it is fitting that you be the form of justice,
+          the mirror of sanctity,
+          the example of piety,
+          the assertor of truth,
+          the defender of the faith,
+          the teacher of nations,
+          the leader of Christians,"
+          etc.
+          Therefore the vicar of Christ is the primary and par excellence teacher of all men,
+          to whose definition,
+          pertaining both to morals and to faith,
+          one must stand,
+          according to the words of Jerome to Pope Damasus,
+          which are read in c. haec est fides 24 q. 1.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e942">
+          From this obligation,
+          therefore,
+          by which the supreme pontiff must go forth into the field of his Lord,
+          that is,
+          into the world,
+          to teach through his suitable ministers,
+          fit preachers of the faith,
+          all nations,
+          he is known to be head,
+          curate,
+          and pastor of all men of the world,
+          whether faithful or infidels,
+          and as to this,
+          all men are his subjects:
+          the faithful indeed absolutely as to spiritual matters;
+          the infidels,
+          however,
+          concerning whom there is now discussion,
+          according to the nature or hope of voluntary jurisdiction in the manner in which we have spoken,
+          and no more,
+          because he is the form of justice and established in truth,
+          as is now clear from what has been said,
+          and we have shown more copiously elsewhere.
+          And these things are gathered from the mind of blessed Chrysostom,
+          expounding that passage,
+          "I will give you the keys,"
+          etc.,
+          Matthew 16,
+          homilia 51 in opere inperfecto:
+          "But this Peter,
+          Christ placed over the entire world so that he might sow everywhere on earth the revelation both of his teacher and of his son."
+          These are his words.
+          To these also accord those words which the Church sings in the feast of blessed Peter:
+          "You are the shepherd of the sheep,
+          prince of the apostles;
+          to you God has handed over all the kingdoms of the world."
+          From which it appears that the supreme pontiff is prelate,
+          king,
+          and pastor not only of those sheep which have already entered the sheepfold of Christ through holy baptism,
+          that is,
+          of Christians,
+          and over their kingdoms as to spiritual matters,
+          but also of all those which are outside and have not yet touched the doors of the Church,
+          that is,
+          of infidels,
+          who nevertheless are to be allured and led by blandishments through the proclamation of Christ 
+          that they may enter the sheepfold of the Church,
+          according to that passage in John 10:
+          "I have other sheep which are not of this fold,
+          and I must bring them also."
+          Which indeed are all infidels,
+          especially those who have never heard anything of the faith of Christ 
+          and who have not maliciously imposed impediments to preaching on account of hatred of the faith,
+          as was said above in chapters 5 and 3.
+          Moreover,
+          over these sheep the supreme pontiff only and precisely is accustomed to use,
+          and ought to use,
+          jurisdiction or authority entirely voluntary,
+          not however contentious or coercive,
+          as has been said;
+          but over those others,
+          both—namely,
+          voluntary and contentious,
+          even to judging concerning temporal matters in the case where it is expedient for the promotion,
+          direction,
+          and conservation of spiritual matters,
+          according as is the common opinion of theologians and jurists,
+          and according to the truth.
+        </p>
+        <p xml:id="lca8s8-d1e566-d1e1072">
+          Thus,
+          therefore,
+          it is clear that to the pastoral office,
+          principate,
+          prelacy,
+          governance,
+          and kingdom of the vicar of Jesus Christ,
+          God and man,
+          good shepherd,
+          king of kings,
+          and lord of lords,
+          pertain all the kingdoms of the world and all men of the entire world,
+          with the aforesaid distinction,
+          just as in our probative treatise concerning the right of principate of our kings of Spain 
+          over that Indian world we have proved at length,
+          and still more broadly in our other works.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

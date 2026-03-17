@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 60 [Bnf 12926 English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 60 [Bnf 12926 English Translation]</title>
+          <date when="2026-01-07">January 07, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-07" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="246-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e829">
+        <p xml:id="lca8s8-d1e829-d1e97">
+          CHAPTER 60
+        </p>
+        
+        <p xml:id="lca8s8-d1e829-d1e102">
+          From the first and fifth parts of the bull appears the mind of the pontiff and the spirit 
+          which the kings of Castile displayed,
+          and the precept imposed upon them that they should accomplish the matter.
+          And this is what the pontiff praises in the fourth part of the kings,
+          namely the spirit of expanding the Christian religion and seeking new regions unknown to 
+          prior ages.
+          From the second part of the bull where the pontiff reports the gentleness,
+          sincerity,
+          and simplicity of the Indians,
+          and likewise their aptitude and docility for receiving the word of God,
+          he manifestly indicates the judgment by which the third part should be endowed,
+          namely that they should subject,
+          that is,
+          dispose them to the faith in that manner by which it is fitting to subject a most humane 
+          people,
+          most sincere,
+          naked,
+          docile,
+          modest,
+          peaceful,
+          and most ready to obey—gently,
+          namely,
+          humanely,
+          and finally in a Christian manner,
+          so that,
+          having first known the true God through evangelical faith,
+          they might finally subject themselves voluntarily to the king of Castile from whom they 
+          had received such a great benefit,
+          as to their prince and supreme emperor,
+          saving nevertheless the rights of natural lords.
+        </p>
+        
+        <p xml:id="lca8s8-d1e829-d1e163">
+          That the word "subject" ought to be interpreted as "dispose" is proved in this way:
+          because to subject those peoples is assumed as a certain means by which they might 
+          willingly hear the preaching and voluntarily receive the faith.
+          But the preaching of the faith according to the institution of Christ ought to be peaceful 
+          and loving;
+          but means proportionate to the end,
+          according to the authority of the 
+          <ref xml:id="lca8s8-d1e829-Rd1e182" target="http://scta.info/resource/aristdp-d1e56">Philosopher in the second book of the Physics</ref>.
+          Therefore to subject those peoples is nothing other than to dispose peacefully and humanely 
+          those peoples to hearing the gospel and voluntarily receiving the faith.
+          And thus it ought to be done according to the traditions of the Christian faith,
+          because bringing them to the faith is the end and united purpose both of the pontiff and 
+          also of the king,
+          as has been said.
+          And these things are confirmed from the rule of law:
+          <quote xml:id="lca8s8-d1e829-Qd1e206" source="http://scta.info/resource/cice-l5t40-d1e195">The understanding of sayings is to be taken from the causes of speaking,
+            because the matter is not subject to the speech but the speech to the matter</quote>.
+          <ref xml:id="lca8s8-d1e829-Rd1e217">de regulis Iuris c. intelligentia</ref>
+          That is,
+          speech ought to serve intention or understanding,
+          because the gospel consists not in leaves but in the root of reason and in sense,
+          <ref xml:id="lca8s8-d1e829-Rd1e225" target="http://scta.info/resource/gd-p2c1q1-d1e1098">1 q. 1 c. Marchion</ref>.
+          And words are to be drawn to an external sense where the matter cannot otherwise be 
+          preserved—the argument 
+          <ref xml:id="lca8s8-d1e829-Rd1e237">C. de verborum significatione, L. cum quidam</ref>
+          and 
+          <ref xml:id="lca8s8-d1e829-Rd1e241">C. de legibus, L. cum quaestio</ref>.
+          See 
+          <ref xml:id="lca8s8-d1e829-Rd1e244">the gloss on the second rule</ref>.
+          Therefore those peoples are to be subdued by evangelical gentleness as Christ taught and as 
+          their nakedness and simplicity require.
+        </p>
+        
+        <p xml:id="lca8s8-d1e829-d1e256">
+          Thus,
+          therefore,
+          those words of the bull are to be understood:
+          "you have proposed to subject them."
+          For to subject that people to the dominion of our prince through the preaching of the word 
+          of God was most easy without warlike tumult,
+          which is most alien to evangelical business.
+          For it would be to act perversely,
+          making the means the end and the end the means,
+          which the 
+          <ref xml:id="lca8s8-d1e829-Rd1e275" target="http://scta.info/resource/ArNeTH-d1e145-Dd1e109">Philosopher calls the worst error in the sixth book of the Ethics</ref>.
+          And thus the war would be most impious.
+          For it would impede the end,
+          namely the expansion of the Christian name and the conversion of those peoples,
+          as we have proved above.
+          Wherefore it is most manifest that the vicar of Christ never dreamed,
+          by that word "subject," that the Indians should be subdued by war.
+          For war would manifestly overthrow the plan of God and of his vicar the pontiff,
+          namely the expansion of the faith and the conversion of those peoples,
+          contrary to the precept of 
+          <ref xml:id="lca8s8-d1e829-Rd1e303">the apostle in 1 Corinthians 10</ref>:
+          <quote xml:id="lca8s8-d1e829-Qd1e305" source="http://scta.info/resource/Icor10_31">Whatsoever you do in word or work,
+            do all to the glory of God</quote>,
+          and to 
+          <ref xml:id="lca8s8-d1e829-Rd1e313">Colossians 3</ref>:
+          <quote xml:id="lca8s8-d1e829-Qd1e316" source="http://scta.info/resource/col3_17@1-13">Whatsoever you do in word or work,
+            do all in the name of the Lord Jesus Christ</quote>.
+          Therefore 
+          <name xml:id="lca8s8-d1e829-Nd1e323">Sepúlveda</name>
+          falsely asserts that the pontiff approves war against the Indians and exhorts the Catholic 
+          kings to subject them by war.
+        </p>
+        
+        <p xml:id="lca8s8-d1e829-d1e335">
+          The words of the bull are these:
+          <quote xml:id="lca8s8-d1e829-Qd1e340">We exhort you most strongly in the Lord that you wish and ought to induce the peoples 
+            dwelling in such islands and lands to receive the Christian religion through receiving the 
+            sacred bath,
+            etc.
+            Note those words:
+            induce to the faith</quote>.
+          Is it inducing to the faith to attack the most gentle peoples,
+          meek,
+          peaceful,
+          and deserving nothing of the sort?
+          Is this inducing,
+          or rather compelling that they receive the faith falsely and not truly from the heart,
+          seeing the impiety of Christians?
+          Indeed it is more certain to drive them further away.
+          The kings are commanded as an end to induce the Indians to the faith.
+          But it is granted that they be subject to their empire as a fitting means helping to obtain 
+          the end;
+          therefore that subjection ought to be proportioned and fitting to the end,
+          which is namely the expansion of the divine name and glory,
+          and the conversion of those peoples.
+          But war is not an apt means for expanding the glory of Christ and evangelical truth,
+          but rather that the Christian name be hateful and abominable to those suffering warlike 
+          troubles.
+          Therefore the war against the Indians which we commonly call conquests is impious and 
+          antichristian in itself.
+          For neither is that the reason by which we persecute them with war,
+          nor have they ever in prior ages committed any fault worthy of war against us,
+          since they were utterly unknown to our regions.
+          Since,
+          therefore,
+          war ought not to be waged unless injury from him against whom arms are prepared precedes 
+          for him who makes war,
+          according to the authority of 
+          <ref xml:id="lca8s8-d1e829-Rd1e416" target="http://scta.info/resource/TAca84-d1e1479-d1e302">Saint Thomas 2a2ae q. 40, article 1</ref>,
+          and it is reported from 
+          <ref xml:id="lca8s8-d1e829-Rd1e422" target="http://scta.info/resource/bnh77h-d1e77-d1e224"><name xml:id="lca8s8-d1e829-Nd1e423">Augustine</name></ref>
+          in 
+          <ref xml:id="lca8s8-d1e829-Rd1e425" target="http://scta.info/resource/gd-p2c23q2-d1e132">c. dominus noster, 23, q. 2</ref>,
+          and the canonists teach this there,
+          it follows that war against the Indians is illicit,
+          which is also proved from many arguments related in the preceding.
+          Nevertheless war against them could be just if they should commit anything from those 
+          things which we have written above in six cases.
+          Again,
+          that war against the Indians is unjust is proved from the words of the bull which I shall 
+          subjoin here:
+          <quote xml:id="lca8s8-d1e829-Qd1e451">And moreover we command you in virtue of holy obedience,
+            as you also promise,
+            and we do not doubt that you will do it for your greatest devotion and royal magnanimity,
+            that you ought to send to the aforementioned mainland and islands good men fearing God,
+            learned,
+            skilled,
+            and experienced to instruct the aforementioned inhabitants and dwellers in the Catholic 
+            faith and to imbue them with good morals,
+            employing all due diligence in the aforesaid</quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e829-d1e477">
+          Note,
+          reader,
+          what was the mind of the pontiff,
+          namely that those peoples should be led to the truth by holy and Catholic instruction.
+          Then note what soldiers he orders to be sent into those provinces:
+          good men fearing God,
+          learned,
+          skilled to instruct the inhabitants in the Catholic faith and good morals.
+        </p>
+        
+        <p xml:id="lca8s8-d1e829-d1e493">
+          What do armed robbers and predators of immense savagery have to do with these soldiers,
+          mixing all things with fire and sword?
+          Therefore it is false that the pontiff advised the kings of Castile to make war on the 
+          Indians.
+          For it could not have fallen into the mind of the most holy pontiff that a means would be 
+          assumed that necessarily impeded,
+          or rather completely destroyed,
+          the end which God intends and he himself as his vicar.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

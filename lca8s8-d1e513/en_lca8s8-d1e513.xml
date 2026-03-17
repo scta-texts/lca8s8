@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 36 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 36 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-05-12">May 12, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="160-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e513">
+        <head xml:id="lca8s8-d1e526-Hd1e97">Chapter 36</head>
+        <p xml:id="lca8s8-d1e513-d1e100">
+          Chapter 36
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e105">
+          <pc type="pilcrow"/> From these suppositions it is inferred that what we taught above 
+          (namely) that remaining within the limits of natural light,
+          that is,
+          when human or divine positive law ceases,
+          and if you add to these where grace and doctrine are lacking,
+          men ought to immolate human victims to the true God or to a supposed one:
+          if it is held to be the true God.
+          That we deduce in this way,
+          since men naturally know that God exists and judge that nothing is better or greater than Him
+          <pb ed="#P" n="160-v"/>
+          and that all things whatsoever we possess,
+          are capable of,
+          and are,
+          are given to us by His immense goodness:
+          so that even if we should offer all our things together with life:
+          we would by no means render equal thanks to Him:
+          Also,
+          the principal manner of worshipping God is to offer sacrifice to Him:
+          which is the one act by which we show that He to whom we offer sacrifice is God and that we are subject to Him and acknowledge ourselves grateful.
+          Moreover,
+          nature teaches that it is most just to offer to God,
+          to whom we recognize ourselves debtors for so many reasons,
+          those things which are more precious and excellent:
+          on account of the admirable excellence of His majesty:
+          but according to human judgment and truth,
+          nothing in things is more precious or greater than the life of men and men themselves.
+          Therefore,
+          nature itself dictates and teaches those who lack faith,
+          grace,
+          or doctrine,
+          with every positive law to the contrary ceasing,
+          who exist within the limits of natural light:
+          that they ought to immolate even human victims to the true or false god,
+          if it is esteemed to be true:
+          so that by offering the most precious thing for so many received benefits they may be found more grateful.
+          For the law of nature teaches gratitude,
+          and that we should not only benefit the one benefitting us:
+          but truly also that we should repay most abundantly the benefit received:
+          considering the benefit,
+          and him who confers the benefit,
+          and the disposition with which he confers the benefit upon us:
+          according to the authority of Seneca and Saint Thomas 
+          2a 2ae q. 107 articulo 5o et 6
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e240">
+          But the beneficence by which the Lord created us,
+          <pb ed="#P" n="161-r"/>
+          equipped us with so many gifts:
+          enriched us with so many goods:
+          proceeds from immense charity and infinite goodness:
+          and produces for us innumerable goods and life itself:
+          in short,
+          whatever we are.
+          Since,
+          however,
+          we cannot repay equal thanks for so many benefits:
+          certainly we are bound to provide what seems to us greatest and most precious,
+          namely the life of men,
+          especially when the removal is done for the salvation of the republic.
+          For pagans will think that through such immolations they avert evils from the republic and secure favor and prosperity for kingdoms.
+          Therefore,
+          whoever immolates men to God can be led to this by natural reason,
+          most especially when faith and Christian instruction are lacking.
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e284">
+          The aforesaid is corroborated by the fact that Dionysius of Halicarnassus,
+          in book 1,
+          writes that when the peoples of Italy,
+          afflicted with many evils,
+          had striven to propitiate the gods by offering the first fruits of things:
+          a certain old man said that they were mistaken if they thought they were being accused unjustly by the gods.
+          For indeed,
+          he says,
+          of other things they had rightly and justly paid the first fruits:
+          but they still owed the first fruits of offspring,
+          the thing most precious to the Gods.
+          If therefore the Gods should receive the owed part of these,
+          there would be an end,
+          he responded.
+          When they heard these things,
+          some thought these things were rightly said:
+          but to others the speech seemed composed from fraud.
+          Finally,
+          when someone proposed that the judgment of the god should be sought:
+          whether it was pleasing to him to receive tithes of men:
+          they send augurs a second time:
+          and God responded that they should do so.
+          <pb ed="#P" n="161-v"/>
+          Thus he says.
+          Hence perhaps the opinion of immolating men spread through all peoples.
+          But someone will object that this ought not to be admitted:
+          since men are immolated unwillingly and innocent.
+          But to this I will respond,
+          as I said above,
+          that no man,
+          however innocent,
+          ought not to owe God more than life:
+          and thus,
+          although by elicited act they are not voluntary:
+          nevertheless they are voluntary by owed act.
+          For all men ought to pour out blood and life:
+          wherever the honor of God requires this.
+          Which we Christians are bound to do by divine law:
+          and all who knew God in ancient times.
+          But a case seemed to occur in which divine honor was involved:
+          when,
+          according to the law received in some kingdom,
+          those to whom the lot fell were immolated.
+          Therefore,
+          although they were otherwise innocent,
+          no injury,
+          at least according to the estimation of those who lacked grace and doctrine,
+          was inflicted upon them,
+          and it is confirmed.
+          For indeed every best citizen:
+          is bound to pour out his life for the salvation of the republic 
+          (which according to the erroneous opinion of the gentiles was thought to consist in the worship of the Gods):
+          according to the Philosopher and is proven 
+          23, q. 3, c. fortitudo. et q. 8, c. omni timore.
+          And Saint Thomas,
+          I, q. 60, articulo 5 et 1a 2ae, q. 109, articulo 3, in corpore.
+          Et 3 sententiarum, distinctio 29 articulo 3.
+          Those,
+          therefore,
+          who lack faith have a probable error in immolating men to God.
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e390">
+          <pc type="pilcrow"/> Nor does it oppose if someone objects that thing is judged to be possible for a man which he can do conveniently without his own destruction,
+          <pb ed="#P" n="162-r"/>
+          according to the authority of 
+          <ref xml:id="lca8s8-d1e513-Rd1e403">Saint Thomas in 4o Sententiarum distinctio 15a q. 2, articulo 2o ad 3um</ref>
+          where he teaches that although man ought to owe his whole power to God:
+          nevertheless it is not required of him of necessity that he do all that he can,
+          because this is impossible according to the state of present life:
+          that he expend all his power on any one thing:
+          since it is necessary that he be solicitous about many things:
+          but there is a certain measure applied to man which is required of him,
+          that is,
+          the fulfillment of God's commandments:
+          and beyond this he can bestow something to make satisfaction.
+          Thus he says.
+          Again,
+          q. 3, articulo 2o q. 4 in corpore,
+          he says:
+          the legislator by his precept does not require from man all that he can:
+          since he does not intend to order the state of man with respect to one day or a short time:
+          but to the whole life from which he would fail,
+          if once man should do all that he could,
+          etc.,
+          thus Saint Thomas.
+          To the first,
+          therefore,
+          I respond:
+          that although it is true that God,
+          out of His immense mercy,
+          does not require from men as much as they can:
+          nevertheless,
+          not all men understand this.
+          For nature does not teach this:
+          so that it is perceived by the light of intellect alone,
+          such that no man could deny it.
+          Just as those things which are known through themselves,
+          which,
+          once the terms are known,
+          all concede without any discourse through the light of the agent intellect,
+          like that principle about any thing,
+          affirmation and negation,
+          and of nothing both of these.
+          Nor is it perceived by imperceptible discourse,
+          <pb ed="#P" n="162-v"/>
+          like this:
+          if from equals you take away equals,
+          what remains is equal,
+          and other principles which are not proven but supposed.
+          Concerning which sufficiently through the Philosopher in the books of the Posterior Analytics.
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e482">
+          Therefore,
+          what Saint Thomas teaches,
+          since men do not perceive it by natural light alone:
+          they require grace and doctrine,
+          but infidels lack this.
+          But that all things whatsoever we owe in this life are owed to God,
+          even barbarians perceive by natural light alone,
+          and it is for them a common conception of the mind even without God's special grace or doctrine:
+          supposing,
+          however,
+          always the universal influence of divine providence.
+          Wherefore it is not to be wondered at if infidels who lack grace and instruction,
+          considering how much men owe to God:
+          devise a most difficult retribution 
+          (namely) to immolate certain men to Him in honor of God.
+          Which indeed,
+          speaking absolutely,
+          is possible for them.
+          It can also be responded to what Saint Thomas teaches:
+          that when the honor of God comes into danger,
+          then man is bound by divine precept to expend all his power absolutely,
+          and thus to expose his life lest the glory and honor of God be diminished.
+          For God wills every man then to die for the defense of His glory.
+          Which also the law of nature itself teaches,
+          even if we did not have God's positive precept.
+          For naturally all animals,
+          both rational
+          <pb ed="#P" n="163-r"/>
+          and also irrational,
+          love God more than themselves.
+          Since all creatures naturally love more Him from whom they proceed and through whom they exist:
+          than themselves.
+          This is clear by example.
+          For indeed if the body is endangered,
+          and the hand is a part of the body,
+          it opposes itself lest the body be wounded.
+          Since the hand is a part and member of the body.
+          But this natural appetite has this reason,
+          that the happiness of the part depends on the happiness of the whole,
+          and the happiness of the whole is more useful to the part or member than the happiness of itself.
+          For the part would not be well:
+          if the whole,
+          from which the part has whatever it is,
+          were badly off.
+          For what would the hand be if the body were corrupted?
+          Therefore,
+          since all creatures are from God:
+          for God is the good of the whole universe:
+          it follows that every creature,
+          by love naturally implanted,
+          loves God more than itself,
+          and consequently ought to expose its life to death for the defense of the glory of God,
+          from whom it has whatever happiness it has.
+          On this matter Saint Thomas discusses 
+          1 parte, q. 60, articulo 5o et 1a 2ae q. 109 articulo 3 in corpore.
+          Hence it happens that all Christians are bound to expose our life to death:
+          wherever the honor of God is endangered:
+          or it is very likely that a neighbor will fall into some mortal offense.
+          According to the authority of Saint Thomas 
+          2a 2ae q. 3 articulo 2o per totum
+          <pb ed="#P" n="163-v"/>
+          et 3o Sententiarum distinctio 29 articulo 8 q. 2 ad 3m.
+          We have an example of this in the exterior confession of faith,
+          to which we are bound of necessity for salvation,
+          even exposing our life to the dangers of death.
+          Then 
+          (namely) when through the omission of this confession of faith the honor due to God would be withdrawn:
+          and also the utility to be expended on neighbors.
+          And for this reason the saying of Saint Thomas in our case does not proceed.
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e636">
+          <pc type="pilcrow"/> To the other thing,
+          however,
+          which Saint Thomas said:
+          that the legislator does not oblige man to do all that he can,
+          etc.,
+          we say that the reason is different concerning God,
+          who is Lord of all absolutely:
+          and concerning the laws promulgated by Him:
+          and concerning men and the laws established by them.
+          For any legislator,
+          since he has authority to establish law not from himself but from the people or community:
+          cannot oblige his subjects through his law to do or suffer:
+          except what is expedient for the salvation and happiness of the whole republic or community:
+          according to the requirement of the necessity of the republic.
+          Having regard that the state of each citizen be ordered and preserved through a long time insofar as can be done.
+          But if the necessity of the republic requires that man do or suffer all that he can 
+          (that is) that he expose his life to the dangers of death for the salvation of the republic.
+          Without doubt the legislator can justly,
+          <pb ed="#P" n="164-r"/>
+          by his precept,
+          oblige any suitable citizen to this:
+          and the citizen himself is bound by natural law to obey the command.
+          This is proven:
+          from what was proven a little above concerning the whole and the part.
+          For since a citizen is part of the whole republic,
+          and his happiness or good depends on the good and happiness of the republic,
+          therefore he is bound to love the common good and happiness more than his own particular good,
+          and consequently,
+          for preserving it,
+          he is bound to do or suffer all that he can,
+          even ending his life quickly,
+          by natural law.
+          <pc type="pilcrow"/> Since,
+          therefore,
+          the gentiles believe that the universal good and happiness of the whole republic consists in such sacrifices and immolations or human victims,
+          as we have proven elsewhere from Augustine,
+          Chrysostom,
+          and Valerius:
+          it is not surprising if,
+          afflicted by necessities,
+          they immolated to God the thing most precious and most pleasing by their judgment 
+          (namely) men,
+          as is clear from the examples related above:
+          and from what Titus Livy writes in book 2 of the 3rd decade:
+          that the Romans,
+          when the city was in the greatest danger,
+          placated Mars by immolating a rooster and a hen:
+          a Greek man and a Greek woman.
+          And then,
+          given the probability of the error of the gentiles,
+          the legislator can and ought to constrain certain ones of the people by his precept,
+          in the great necessity of the whole republic:
+          that a sacrifice be offered from them slain,
+          <pb ed="#P" n="164-v"/>
+          and that they themselves,
+          by elicited act,
+          are bound to will this,
+          as appears extensively from what has already been deduced.
+        </p>
+        <p xml:id="lca8s8-d1e513-d1e765">
+          Therefore,
+          you see,
+          reader,
+          that there is some probable natural reason by which men can be induced to immolate men to God:
+          and consequently not easily:
+          nor suddenly,
+          nor by a few words can the Indians be persuaded:
+          that they abstain from the received custom of immolating men.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

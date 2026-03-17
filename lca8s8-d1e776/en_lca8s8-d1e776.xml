@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 56 [English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 56 [English Translation]</title>
+          <date when="2026-01-06">January 06, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="234-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e776">
+        <head xml:id="lca8s8-d1e776-Hd1e107">Chapter 56 [English Translation]</head>
+        
+        <p xml:id="lca8s8-d1e776-d1e109">
+          Chapter 56
+        </p>
+        
+        <p xml:id="lca8s8-d1e776-d1e114">
+          ¶ Third,
+          <name xml:id="lca8s8-d1e776-Nd1e118">John Major</name> 
+          teaches that a people who have received the faith of Christ ought,
+          if they have received it sincerely,
+          to want their prince,
+          who perseveres in paganism,
+          to be deposed.
+          Indeed a people by nature or quasi-nature loves its ancient prince according to the 
+          <ref xml:id="lca8s8-d1e776-Rd1e133" target="http://scta.info/resource/ArNeTH-d1e250-d1e674@1-29">
+            Philosopher in Ethics book 8, chapter 7
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e776-Rd1e135">Politics book 3 chapter 10</ref>.
+          <ref xml:id="lca8s8-d1e776-Rd1e140" target="http://scta.info/resource/adcd-l19-d1e3137@40-81">
+            Augustine in the City of God book 19, chapter 16
+          </ref>.
+          Therefore a people would no less difficulty admit this than a new religion.
+          Especially if for the deposed old lord an outsider is substituted,
+          which tends to be unwelcome and hateful to the people.
+          Therefore God almighty in 
+          <ref xml:id="lca8s8-d1e776-Rd1e154" target="http://scta.info/resource/deut17_14 http://scta.info/resource/deut17_15">
+            Deuteronomy 17
+          </ref>
+          commanded the Jews that if they were to elect a king,
+          they should elect one from among themselves.
+          The reason for which 
+          <ref xml:id="lca8s8-d1e776-Rd1e166" target="http://scta.info/resource/TAca84-d1e1214-d1e486@1-47">
+            Saint Thomas assigns in 1a 2ae, question 105 article 1 ad 2
+          </ref>.
+          Therefore one should not suspect sinisterly of a newly converted people because they do not want their old prince deposed,
+          even if he is pagan.
+          For they can hope that he may sometime receive the faith.
+          Moreover a recently converted people is not to be wondered at if they do not have so much evangelical vigor that,
+          immediately having cast off all affections,
+          they would hold hateful their old prince known through many years of custom.
+          Therefore something must be permitted and given to their affections,
+          even if they are not purely Christian,
+          on the authority of 
+          <ref xml:id="lca8s8-d1e776-Rd1e201">Gregory book 12 epistle 31</ref>,
+          and 
+          <ref xml:id="lca8s8-d1e776-Rd1e207">To the Questions of Augustine chapter 7</ref>,
+          fragments of which are read in 
+          <ref xml:id="lca8s8-d1e776-Rd1e214">35 question 2 and 3, chapter 'quaedam lex'</ref>.
+          <quote xml:id="lca8s8-d1e776-Qd1e219">
+            Lest (he says) the good which has been planted with still weak root be uprooted,
+            but let what has been begun be strengthened and guarded unto perfection.
+          </quote>
+          Thus he.
+          Consequently 
+          <name xml:id="lca8s8-d1e776-Nd1e230">John Major</name> 
+          exceeded in 
+          <ref xml:id="lca8s8-d1e776-Rd1e233">
+            saying fourth that,
+            in that case,
+            such a King ought to be deposed.
+          </ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e776-d1e239">
+          ¶ Next 
+          <name>John Major</name> 
+          adds that if the Indian nations of that island 
+          (where it appears how poorly informed about Indian affairs 
+          <name>John Major</name> 
+          was speaking) 
+          were not governed by kings,
+          but jurisdiction and authority are with the republic,
+          the republic ought to be despoiled of authority for the planting of the faith.
+          Here John seems ridiculous to me.
+          For he was proceeding very hastily through this matter.
+          For if he leaves a kingdom to a king if he repairs expenses,
+          why would he not also want it left to a republic under the same condition?
+          For a king has whatever right he has from the consent of the people,
+          whence if a king dies without offspring,
+          the right of electing a king pertains to the people.
+          Why therefore did he wish to despoil the republic of election more than the king,
+          when the jurisdiction and power of the republic is more natural than the authority of a king,
+          which takes its origin from the consent of the republic?
+          For it is clear that a greater injustice is committed in despoiling a community or people of the right of electing without legitimate cause than in despoiling the prince himself of a kingdom,
+          since it is contrary to greater justice.
+          Hence 
+          <name xml:id="lca8s8-d1e776-Nd1e301">Peter of Palude</name> 
+          writes in the treatise 
+          <ref xml:id="lca8s8-d1e776-Rd1e306">On the Power of the Pope article 4</ref>,
+          <ref xml:id="lca8s8-d1e776-Rd1e308">
+            concerning the immediate cause of papal power in the first question
+          </ref>,
+          in the solution of a certain argument,
+          that if the pope deposes a king from just cause,
+          he cannot substitute another in his place,
+          nor can he take away from the people the right belonging to them by natural law to elect a king.
+        </p>
+        
+        <p xml:id="lca8s8-d1e776-d1e330">
+          ¶ 
+          <name xml:id="lca8s8-d1e776-Nd1e332">John Major</name> 
+          proceeds to speak untruthfully about the Indians in these words:
+          <quote xml:id="lca8s8-d1e776-Qd1e340" source="http://scta.info/resource/jb2v19-d111866-d1e326@307-334">
+            Also there is another thing;
+            that people lives bestially on both sides of the equator and beneath the poles live wild men as 
+            <name xml:id="lca8s8-d1e776-Nd1e346">Ptolemy</name> 
+            says in the Quadripartite.
+            And now this has been confirmed by experience
+          </quote>,
+          et cetera.
+          He also adduces that from the 
+          <ref xml:id="lca8s8-d1e776-Rd1e355">
+            <name xml:id="lca8s8-d1e776-Nd1e356">Philosopher</name> 
+            in the first book of the <title>Politics</title>
+          </ref>:
+          that Greeks ought to rule over barbarians.
+          From this (unless I am mistaken) 
+          <name xml:id="lca8s8-d1e776-Nd1e365">Sepúlveda</name> 
+          gathers his poisons,
+          but I am amazed that 
+          <name xml:id="lca8s8-d1e776-Nd1e367">John Major</name> 
+          so easily gave credence to those who slander the Indians,
+          a docile,
+          sincere and ingenious people,
+          with the most shameless lies as if they were stupid and wild,
+          so that the most savage plunderers might act against them more freely.
+          It did not befit a Theologian to rush to judgment in a matter of such importance,
+          especially since the bull of 
+          <name xml:id="lca8s8-d1e776-Nd1e387">Alexander VI</name>,
+          from the report of the kings of Castile,
+          narrates that 
+          <name xml:id="lca8s8-d1e776-Nd1e395">Christopher Columbus</name> 
+          discovered certain gentle peoples living peacefully without any injury,
+          not entirely ignorant of the divine power.
+        </p>
+        
+        <p xml:id="lca8s8-d1e776-d1e405">
+          Who ever,
+          being a serious man,
+          took up the pen without exact knowledge of fact and law?
+          But here he demonstrates himself most ignorant of the law,
+          and when he directs his speech to the fact,
+          he errs completely.
+          What he cites from 
+          <name xml:id="lca8s8-d1e776-Nd1e418">Ptolemy</name> 
+          in the 
+          <ref xml:id="lca8s8-d1e776-Rd1e421">Quadripartite</ref> 
+          is false,
+          for 
+          <name xml:id="lca8s8-d1e776-Nd1e424">Ptolemy</name> 
+          wrote no such thing.
+          He describes the world known in his age in the 
+          <ref xml:id="lca8s8-d1e776-Rd1e428">
+            second treatise of the Tripartite, chapter 3
+          </ref>.
+          But concerning this to which 
+          <name xml:id="lca8s8-d1e776-Nd1e436">John Major</name> 
+          cites him,
+          he made no word.
+          For he did not describe the provinces of the Equator which he himself thought uncultivated and uninhabitable.
+          Those whom 
+          <name xml:id="lca8s8-d1e776-Nd1e449">Ptolemy</name> 
+          calls wild inhabit Mauretania in Africa at the promontory which we now commonly call Cabo de Aguer,
+          where Arabs commonly called Alarabes dwell.
+          And since 
+          <name xml:id="lca8s8-d1e776-Nd1e460">Ptolemy</name> 
+          never knew our Indians,
+          how could he have mentioned them?
+          What he writes,
+          <quote xml:id="lca8s8-d1e776-Qd1e466">
+            that wild and forest men live on both sides of the equinoctial,
+            is false,
+            unless they recede very far from the equator so that by the harshness of cold and intemperance of the region men would quasi lack reason.
+          </quote>
+          Thus writes the 
+          <ref xml:id="lca8s8-d1e776-Rd1e481">
+            <name xml:id="lca8s8-d1e776-Nd1e482">Philosopher</name> 
+            in the 7th book of the <title>Politics</title>
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e776-Rd1e487">
+            <name xml:id="lca8s8-d1e776-Nd1e488">Vegetius</name> 
+            on military matters, book 1, chapter 2
+          </ref>.
+          For the closer a region is to the zones and the arctic and antarctic circle,
+          and the nearer it is to the poles,
+          the colder it is,
+          because of the distance of the sun.
+          Whence the inhabitants are less able by reason.
+          But since such men are judged monsters of nature,
+          they will necessarily be very rare,
+          as we proved above.
+          Therefore those zones rigid with excessive cold are considered uninhabitable,
+          not because they are inhabited by no one,
+          but because the inhabitants are rare.
+          Moreover the Indians of the new world inhabit provinces nearest to the equinoctial line,
+          for all their provinces are distant twenty or twenty-five or thirty degrees from the arctic and a little more from the antarctic North and South.
+          But the equinoctial line,
+          since it provides days equal to nights,
+          is most temperate.
+          Whence it is inferred that the Indians inhabit the most fortunate regions of the whole world,
+          which we know not only theoretically but practically and have experienced.
+          And consequently that they are ingenious and greatly able by reason according to the opinion of Aristotle,
+          Vegetius and Ptolemy.
+          Of which matter we ourselves are witnesses,
+          who for very many years have traversed those regions and most thoroughly examined those peoples,
+          and have known their customs and characters,
+          and know them to be far different from what 
+          <name xml:id="lca8s8-d1e776-Nd1e557">John Major</name> 
+          most vainly writes,
+          being ignorant of the people and the happy nature of the equinoctial line,
+          which if he had known alone,
+          it would have been enough to reject the calumnies and lies of those who,
+          penetrating into those provinces,
+          most savagely devastated a most gentle,
+          sincere and modest people,
+          which can scarcely be related without tears,
+          et cetera.
+        </p>
+        
+        <p xml:id="lca8s8-d1e776-d1e577">
+          ¶ From these things it is elicited that by no means does what 
+          <name xml:id="lca8s8-d1e776-Nd1e581">John Major</name> 
+          brings forth from the Philosopher fit here,
+          that a Greek ought to rule over a barbarian.
+          For the Indians are by no means barbarians,
+          as he thought,
+          as we taught above in chapter 2.
+          Perhaps a certain disciple of his named Charles followed this absurd error of 
+          <name xml:id="lca8s8-d1e776-Nd1e593">John Major</name>.
+          He was sent as vicar of the Bishopric of Concepción which is on the island of Hispaniola in the year 1513,
+          and he pronounced a sentence by which he dissolved the marriage between an Indian woman and a Spanish man,
+          namely for that reason that he judged her stupid and devoid of reason because she was an Indian.
+          He,
+          a little later,
+          having returned to Spain by the just judgment of God,
+          was permitted to fall into many errors,
+          concerning which he was accused before the office of the holy inquisition by friars of the Order of Preachers.
+          Finally condemned at 
+          <name xml:id="lca8s8-d1e776-Nd1e628">Burgos</name>,
+          he publicly abjured those errors with great ignominy and confusion,
+          and deprived of the duty of preaching and thrust perpetually into either prison or a monastery assigned as a prison.
+          He finally never appeared again.
+          See what these absurd,
+          not to say impious,
+          trifles of 
+          <name xml:id="lca8s8-d1e776-Nd1e646">John Major</name> 
+          have accomplished.
+        </p>
+        
+        <p xml:id="lca8s8-d1e776-d1e651">
+          ¶ Moreover 
+          <name xml:id="lca8s8-d1e776-Nd1e653">Sepúlveda</name>,
+          in confirmation of his impious opinion,
+          cites the most learned father 
+          <name xml:id="lca8s8-d1e776-Nd1e660">Francisco de Vitoria</name>,
+          that he approved 
+          <ref xml:id="lca8s8-d1e776-Rd1e665">war on the Indians</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e776-d1e670">
+          ¶ Sepúlveda adds,
+          lest he be despoiled of his glory,
+          that that most learned father by no means brought forth the principal arguments which he himself adduces.
+          But whoever reads the two parts of that most learned man's First Relectio will easily perceive that that man,
+          in the first part,
+          proposed seven chapters and refuted them in a Catholic manner,
+          by which war against the Indians could seem just.
+          In the second part,
+          however,
+          that man adduced eight titles by which,
+          or by some of them,
+          the Indians could come under the dominion of the Spaniards.
+          In which he supposes for the greater part certain things,
+          most false,
+          so that this war could be judged just,
+          and these were reported to him by those plunderers who most lavishly lay waste that whole world.
+          In some of those titles,
+          however,
+          he behaved somewhat more loosely,
+          wishing to temper what seemed to have been said more harshly to the imperial supporters,
+          although among lovers of truth in the first part all that he discussed was not harsh,
+          that is not only true but Catholic and indeed most true.
+          Which he himself sufficiently signifies when he speaks conditionally,
+          fearing lest he suppose or say false things as true.
+          But since the circumstances which that most learned father supposes are false,
+          and he says some things timidly,
+          certainly 
+          <name xml:id="lca8s8-d1e776-Nd1e732">Sepúlveda</name> 
+          should not have thrust upon us his opinion based on false reports.
+        </p>
+        
+        <p xml:id="lca8s8-d1e776-d1e740">
+          ¶ Similarly,
+          <name xml:id="lca8s8-d1e776-Nd1e744">Sepúlveda</name>,
+          it would have been more decent of you not to cite the Reverend fathers 
+          <name xml:id="lca8s8-d1e776-Nd1e748">Michael de Arcos</name> 
+          and 
+          <name xml:id="lca8s8-d1e776-Nd1e753">Master Herrera</name> 
+          and 
+          <name xml:id="lca8s8-d1e776-Nd1e756">Master Esbarroya</name> 
+          and the presented friar 
+          <name xml:id="lca8s8-d1e776-Nd1e762">Diego Victoriano</name>,
+          learned monks from the institute of the blessed father Saint Dominic,
+          whose names you boast as if they agree with you and approve your impious opinion.
+          But since you,
+          <name xml:id="lca8s8-d1e776-Nd1e773">Sepúlveda</name>,
+          are not ignorant of better things,
+          how strongly some of them,
+          present in this matter,
+          resisted you boasting these things,
+          complaining that you impute to them what they never said.
+          Others,
+          instructed by false reports and impious lies,
+          responded not absolutely that this war could be just,
+          supposing all those criminal lies by which they were led when they were consulted.
+          Nevertheless they added that your work containing these impious things ought by no means to be published,
+          lest this little book of yours,
+          so greatly boasted,
+          add courage to the impious,
+          who lack nothing except opportunity,
+          for plunder and murder.
+          Which they themselves wrote to me voluntarily,
+          provoked by no letters of mine.
+        </p>
+        
+        <p xml:id="lca8s8-d1e776-d1e810">
+          Therefore cease to attach the names of so many men to your error,
+          but rather assist the cause of Christ seriously,
+          as befits a most learned man.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

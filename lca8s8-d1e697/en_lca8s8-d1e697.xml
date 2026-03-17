@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 50 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 51 [Bnf 12926 Transcription]</title>
+          <date when="2024-07-23">July 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="214-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e697">
+        <head xml:id="lca8s8-d1e697-Hd1e97">Chapter 50 [Bnf 12926 Transcription]</head>
+
+        <p xml:id="lca8s8-d1e697-d1e99">
+          Chapter 50
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e104">
+          <pc type="pilcrow"/> It is manifest from the words of Saint Augustine cited above that 
+          the Church does not compel pagans according to that saying:
+          what have I to do with those who are outside?
+          It only compels to enter the banquet those who have already once been made guests through baptism.
+          This signifies there:
+          whence God himself orders that guests be brought first to his great supper,
+          afterwards compelled;
+          in those therefore who were brought gently at first,
+          the prior obedience is enforced when completed.
+          And below he teaches that the hedges are heresies and schisms.
+          Which he also teaches in book 2 against the letter of Gaudentius,
+          saying that diverse errors and heresies are the ways:
+          but the hedges signify depraved opinions and schisms.
+          These two times and the difference between pagans and heretics who have already received the faith,
+          namely that the former are to be allured and the latter compelled:
+          the same most blessed father Augustine teaches in Letter 48 to Vincent the heretic Donatist:
+          where he expounds those words of the parable "compel them to enter" concerning heretics.
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e156">
+          <pc type="pilcrow"/> Which also Innocent does,
+          as we have already adduced above in 
+          <ref xml:id="lca8s8-d1e697-Rd1e164">
+            c. maiores de baptismo
+          </ref>
+          with these words.
+          Say that first he commanded the servant,
+          that is the order of preachers who are great in the Church of God concerning heretics 
+          <pb ed="#P" n="215-r"/>
+          c. cum ex iniuncto.
+          That he should go out into the streets and lanes of the city and bring in the poor and weak,
+          the blind and lame,
+          and not compel them to enter.
+          Afterwards he also said that he should go out into the highways and hedges and compel those whom he 
+          found there to enter,
+          as in the aforementioned chapter displicet 23. q. 4:
+          suggesting through this that Jews and similar people who do not have the faith are not to be forced to 
+          the faith by the material sword:
+          but to be brought in through the efficacy of reason and the law so that they may be convinced from 
+          their own books:
+          as in the aforementioned 
+          <ref xml:id="lca8s8-d1e697-Rd1e1gg">c. de Iudaeis</ref>.
+          But those who turn away from the bosom of the Church,
+          like heretics and schismatics,
+          are to be compelled to return to it since they are from the forum of the Church,
+          even through secular power.
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e206">
+          Speaking below concerning the former he says:
+          whom indeed he wishes to call to the wedding without compulsion,
+          however,
+          because we have nothing to do with those who are outside,
+          Infra de diuortiis Gaudemus.
+          But through this that he says that he should go out into the highways and hedges:
+          he indicates heretics and schismatics:
+          who with thorns tear the seamless tunic of the Lord,
+          that is the unity of the Church.
+          And these,
+          as being from the forum of the Church,
+          are to be compelled to enter and to hold the faith which they received in baptism,
+          et cetera.
+          These are Innocent's words.
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e233">
+          <pc type="pilcrow"/> Therefore Augustine's exposition is to be referred to heretics,
+          which beyond the above is also proved in 
+          <ref xml:id="lca8s8-d1e697-Rd1e241" target="http://scta.info/resource/gd-p2c23q4-d1e711">
+            c. displicet
+          </ref>,
+          and in 
+          <ref xml:id="lca8s8-d1e697-Rd1e247" target="http://scta.info/resource/gd-p2c23q4-d1e480">
+            c. ipsa pietas
+          </ref>
+          and in 
+          <ref xml:id="lca8s8-d1e697-Rd1e250" target="http://scta.info/resource/gd-p2c23q4-d1e492">
+            c. quid faciet
+          </ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e697-Rd1e254" target="http://scta.info/resource/gd-p2c23q4-d1e729">
+            c. quando
+          </ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e697-Rd1e257" target="http://scta.info/resource/gd-p2c23q4-d1e74X">
+            c. qui peccat
+          </ref>
+          and in 
+          <ref xml:id="lca8s8-d1e697-Rd1e260" target="http://scta.info/resource/gd-p2c23q4-d1e1205@32-48">
+            c. Nimirum 
+            <pb ed="#P" n="215-v"/>
+            § Utilius: 23. q. 4.
+          </ref>
+          and thus the glosses and doctors expound and teach there.
+          <pc type="pilcrow"/> And note that it is generally true that men are to be compelled to provide the good 
+          which they promised;
+          if it was not promised,
+          no one is compelled to do good.
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e278">
+          Thus the gloss and doctors note in 
+          <ref xml:id="lca8s8-d1e697-Rd1e280">
+            c. 1o
+          </ref>
+          and in 
+          <ref xml:id="lca8s8-d1e697-Rd1e285" target="http://scta.info/resource/gd-p2c23q5-d1e609">
+            c. Et qui. 45 distinctio
+          </ref>
+          and in the said 
+          <ref xml:id="lca8s8-d1e697-Rd1e288" target="http://scta.info/resource/gd-p2c23q4-d1e696">
+            c. Nimirum
+          </ref>.
+          where it is proved that from the beginning no one is to be compelled to good,
+          but someone is compelled to persevere in that which he began,
+          as in 
+          <ref xml:id="lca8s8-d1e697-Rd1e295" target="http://scta.info/resource/gd-p2c23q5-d1e609">
+            c. ad fidem. 23. q. 5.
+          </ref>
+          these things from the glosses where above.
+          And thus that common saying of 
+          <ref xml:id="lca8s8-d1e697-Rd1e303">
+            Augustine in the enchiridion, c. 71
+          </ref>
+          is understood,
+          that 
+          <quote xml:id="lca8s8-d1e697-Qd1e308" source="http://scta.info/resource/augen-d1e195-d1e113@125-129">
+            many good things are provided to the unwilling
+          </quote>:
+          because their benefit is consulted,
+          not their will:
+          and he speaks there specifically of subjects doing evil works.
+          Whence Augustine says thus:
+          <quote xml:id="lca8s8-d1e697-Qd1e321" source="http://scta.info/resource/augen-d1e195-d1e113@71-81">
+            he who amends with a lash one over whom power is given or restrains with some discipline
+          </quote>.
+          And below:
+          <quote xml:id="lca8s8-d1e697-Qd1e326" source="http://scta.info/resource/augen-d1e195-d1e113@101-124">
+            Not only in that which he pardons and prays:
+            but truly also in that which he corrects and punishes with some amendatory penalty he gives alms:
+            because he shows mercy.
+            For many good things are provided to the unwilling
+          </quote>
+          etc.
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e340">
+          Note that Augustine speaks of those who are subject to us.
+          But pagans are not subject to the Church,
+          as has often been touched upon and determined above.
+          Concerning this matter it is treated in the said 
+          <ref xml:id="lca8s8-d1e697-Rd1e350" target="http://scta.info/resource/gd-p1d45-d1e274">
+            c. et qui
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e697-Rd1e355" target="http://scta.info/resource/gd-p2c23q1-d1e157">
+            c. et qui paratus, § agenda. 23. q. 2.
+          </ref>
+          and in the said 
+          <ref xml:id="lca8s8-d1e697-Rd1e360" target="http://scta.info/resource/gd-p2c23q4-d1e711">
+            c. displicet
+          </ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e697-Rd1e363" target="http://scta.info/resource/gd-p2c23q5-d1e736">
+            c. non vos hominum
+          </ref>
+          And 
+          <ref xml:id="lca8s8-d1e697-Rd1e368" target="http://scta.info/resource/gd-p2c23q6-d1e151">
+            q. 6. c. vides
+          </ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e372">
+          Therefore no one is compelled 
+          <pb ed="#P" n="216-r"/>
+          to receive the faith,
+          as in 
+          <ref xml:id="lca8s8-d1e697-Rd1e377" target="http://scta.info/resource/gd-p1d45-d1e179">
+            c. de iudaeis 45 distinctio
+          </ref>
+          unless he has already received it.
+          But the Church of Christians,
+          using the ministry of princes,
+          not only compels heretics to return to her bosom but also rightly avenges them with terrible 
+          punishments.
+          Both because the crime of heresy is most grave,
+          inasmuch as it is committed directly against divine honor and results in derogation of the dignity of 
+          Christ 
+          <ref xml:id="lca8s8-d1e697-Rd1e398" target="http://scta.info/resource/wef6td-d1e1390-d1e1342">
+            c. cum secundum leges. de hereticis. libro 6
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e697-Rd1e402" target="http://scta.info/resource/ta-l4d13q2-d1e238@4-43">
+            Saint Thomas 4 Sentences distinction 13, q. 2, a. 2 throughout
+          </ref>
+          And it is far more grave to offend the eternal than the temporal majesty l. Gazaros C. de hereticis.
+          Both because it is most dangerous and highly infectious.
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e416">
+          Whence heretics are the worst of men and most harmful to the whole universal Church.
+          because they do not preserve concord:
+          they preserve strife:
+          they disturb peace 
+          <ref xml:id="lca8s8-d1e697-Rd1e434" target="http://scta.info/resource/TAca84-d1e1473-d1e341@5-90 http://scta.info/resource/TAca84-d1e1473-d1e377@1-37">
+            Saint Thomas 2a 2ae q. 39, article 1 ad 3
+          </ref>
+          And 
+          <ref xml:id="lca8s8-d1e697-Rd1e439" target="http://scta.info/resource/ta-l4d13q2-d1e238@4-43">
+            4 Sentences where above
+          </ref>
+          they strive to corrupt simple faithful.
+          Therefore 
+          <ref xml:id="lca8s8-d1e697-Rd1e446">
+            the Apostle says in 2 Timothy 2
+          </ref>
+          concerning heretics,
+          that 
+          <quote xml:id="lca8s8-d1e697-Qd1e451" source="http://scta.info/resource/IItim2_16@5-9 http://scta.info/resource/IItim2_17@1-6">
+            they advance much toward impiety and their word spreads like cancer
+          </quote>.
+          And because of this they are to be separated from the fellowship of the faithful with harsh penalties.
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e461">
+          Whence:
+          <ref xml:id="lca8s8-d1e697-Rd1e463">
+            Jerome
+          </ref>
+          <quote xml:id="lca8s8-d1e697-Qd1e465">
+            Putrid flesh must be cut away and the scabby sheep must be driven from the folds:
+            lest the whole house,
+            dough,
+            and cattle burn,
+            be corrupted,
+            rot,
+            and perish.
+            Arius was one spark in Alexandria:
+            but because he was not immediately suppressed 
+            <pb ed="#P" n="216-v"/>
+            his flame ravaged the whole world
+          </quote>.
+          These are his words.
+          And it is found in 
+          <ref xml:id="lca8s8-d1e697-Rd1e486" target="http://scta.info/resource/gd-p2c24q3-d1e372">
+            24. q. 3, c. resecandae
+          </ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e491">
+          Third,
+          because heretics are unfaithful to Christ and the Church or the Christian republic with that 
+          unfaithfulness which leads to treason,
+          they are traitors,
+          rebels and disobedient,
+          enemies and public enemies,
+          etc.
+          Concerning whom we have spoken most extensively in book 1 On the Only Way of Calling to True Religion.
+          Since therefore heretics have been made from the forum of the Church (as has been proved),
+          rightly it can punish them through the hands of faithful princes for the reasons often already stated.
+          But other infidels,
+          since neither have they been members of the Church:
+          nor do they corrupt the Christian people with their superstitions because,
+          as we suppose,
+          they inhabit their own kingdoms far removed from our provinces,
+          and consequently they are not from the forum of the Church,
+          certainly their case ought to be very different from that of heretics.
+          Wherefore Saint Augustine expounds the parable concerning heretics,
+          but he does not truly speak of infidels.
+        </p>
+
+        <p xml:id="lca8s8-d1e697-d1e541">
+          And thus the confusion of the distinguished doctor appears manifestly:
+          who,
+          by his usual inept perversion,
+          has attempted with all his strength to twist against simple infidels ignorant of God's law and 
+          Catholic doctrine those things which the holy doctors either said or established against heretics:
+          and likewise what faithful emperors established.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

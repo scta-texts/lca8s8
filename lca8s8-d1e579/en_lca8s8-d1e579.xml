@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 41 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 41 [Bnf 12926 Translation]</title>
+          <date when="2025-04-21">April 21, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="181-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e579">
+        <head xml:id="lca8s8-d1e579-Hd1e97">Chapter 41</head>
+        
+        <p xml:id="lca8s8-d1e579-d1e99">
+          Chapter 41
+        </p>
+        
+        <p xml:id="lca8s8-d1e579-d1e104">
+          <pc type="pilcrow"/> From the foregoing it appears the difference of heretics 
+          from other infidels, 
+          especially those who have neither received nor heard the faith.
+          <pb ed="#P" n="182-r"/>
+          It appears furthermore that the Church has jurisdiction or authority over infidels,
+          and over which ones, 
+          either in habit and act simultaneously or in habit only. 
+          And in what manner and when she can reduce the habitual to the actual, 
+          both coercively and voluntarily. 
+          Ignorance of this truth has brought forth the greatest evils to the Indian world 
+          and has given occasion to turbulent men to afflict their brothers 
+          with unaccustomed cruelty with great detriment to divine honor 
+          among those who did not know God, 
+          with loss and impediment to the faith 
+          and horror of the Christian religion. 
+          They have treated this matter (namely) 
+          when war can be waged against infidels: 
+          Oldradus in consilio 72, 
+          Albericus in rubrica de paganis et sacrificiis, 
+          Corsetus in tractatu de potestate et excellentia regia q. 82 columna 5 ibi primo poenam.
+        </p>
+        
+        <p xml:id="lca8s8-d1e579-d1e161">
+          Others have attempted to bring Hostiensis and Innocent into agreement. 
+          Of this class was Peter Ancharanus 
+          in regula peccatum quaestione 3 columna 13 et 14 de regulis iuris, 
+          Peter Bertrandus in tractatu de origine iuris quaestione 4, 
+          Corsetus in the place cited above and others in c. quod super his de voto. 
+          Yet all conclude, 
+          besides Bartolus in l. Christianis C. de paganis et sacrificiis 
+          and in l. hostes in finem, ff de captiuis et postliminio reuersis, 
+          they give understanding of the truth of this matter through a certain distinction 
+          which he makes concerning the nations that are subject to the Roman people 
+          (that is) the Christian people.
+          <pb ed="#P" n="182-v"/>
+          Yet all have spoken very confusedly, 
+          perhaps because they did not think there would be infidels in the world 
+          such as there were formerly and we now see. 
+          The lord <name xml:id="lca8s8-d1e579-Nd1e200">Cardinal Cajetan</name> 
+          alone left all theologians as well as jurists behind by a long interval. 
+          Indeed, 
+          he who brought light to this matter 
+          <ref xml:id="lca8s8-d1e579-Rd1e209" target="http://scta.info/resource/TAcCaj-d1e1613-Dd1e1633">
+            in Summa Theologiae 2a 2ae question 66 article 8 ad 2um</ref>.
+          For the distinctions of this most learned man the slanderers of the Indians 
+          did not understand; 
+          who moreover do not fear to dissent from the most erudite man's doctrine 
+          with brazen face, 
+          with no legitimate reason given by which they might be led to feel differently. 
+          For they say that the words of <name xml:id="lca8s8-d1e579-Nd1e230">Cajetan</name> 
+          teaching that it is not lawful to wage war against infidels 
+          for infidelity alone are to be understood 
+          when they are only infidels but not when they are idolaters.
+          For in this case they arrogantly reject 
+          <name xml:id="lca8s8-d1e579-Nd1e241">Cajetan's</name> doctrine. 
+          Moreover these men presuppose a falsehood when they say that one of the foundations 
+          which <name xml:id="lca8s8-d1e579-Nd1e248">Cajetan</name> adduces is that 
+          the inhabitants of the promised land were not destroyed 
+          on account of infidelity joined with idolatry. 
+          But the swollen men add that this is false 
+          from Deuteronomy chapter 9 and 12 and 18 and Leviticus 13 and 20. 
+          Indeed those who assert these things have by no means understood Cajetan 
+          or were unwilling to understand him. 
+          For <name xml:id="lca8s8-d1e579-Nd1e265">Cajetan</name> does not say that 
+          the inhabitants of the promised land were not destroyed on account of idolatry 
+          and other sins, 
+          which Scripture asserts in many places of Deuteronomy and the book of Joshua; 
+          but that he does not read in the Old Testament of war against infidels in those regions,
+          <pb ed="#P" n="183-r"/>
+          taking infidels for all who did not inhabit the promised land. 
+          For the command of waging war handed down by God to the Jews 
+          only comprehended those who inhabited the promised land, 
+          not truly others dwelling outside that region. 
+          And yet all were idolaters and sacrificed their sons to demons 
+          just as all other nations did. 
+          This was the mind of Cajetan, 
+          whom being most practiced in the sacred scriptures, 
+          it is not to be believed that he was ignorant that 
+          the infidel inhabitants of the promised land were warred against 
+          on account of idolatry and other sins. 
+          The words of Cajetan are these: 
+          "Nor in the Old Testament where by armed hand possession of the land of infidels 
+          was to be taken do I read that war was declared on anyone 
+          because of this, 
+          that they were not faithful: 
+          but either because they were unwilling to give passage: 
+          or because they had offended them as the Midianites: 
+          or to recover their own things granted by divine bounty etc." 
+          Thus he. 
+          Which opinion also <ref xml:id="lca8s8-d1e579-Rd1e331" 
+            target="http://scta.info/resource/victoria-relectio-de-indis">
+            the most learned brother Francisco de Vitoria proves in his Relectio de Indis title 5</ref>.
+          Therefore falsely do the slanderers of the Indians object to Cajetan 
+          what he neither dreamed of nor thought. 
+          He only says that no sins of infidels, 
+          no idolatry, 
+          no sins against nature have caused war to be waged against infidels 
+          outside these three causes. 
+          Again, 
+          against the foundation of Cajetan,
+          <pb ed="#P" n="183-v"/>
+          adducing in proof of his opinion the example of Christ and the apostles, 
+          they object that this is the foundation of heretics 
+          against whom Saint Augustine wrote. 
+          But we have already most extensively refuted their pernicious opinion above 
+          from the sacred scriptures and the traditions of the holy doctors. 
+          Further, 
+          other theologians unworthy of this name, 
+          whose name meanwhile we shall keep silent lest we harm them with public shame, 
+          against the doctrine of Cajetan which sheds light on this matter, 
+          devise certain ridiculous and absurd dreams. 
+          It must not be passed over that a certain jurisconsult, 
+          a shyster perhaps seeking (as human affairs are) 
+          some greater fortune against Cajetan's doctrine, 
+          so that through flattery he might gratify the king, 
+          brought forth this argument: 
+          The Indians of the new world descend from Hagar, 
+          Abraham's handmaid. 
+          Therefore it follows that they should be despoiled of all their possessions and kingdoms. 
+          First, 
+          Hagar was Abraham's wife though not the principal one, 
+          yet she was not a cursed handmaid as he himself says. 
+          Then how stupid, 
+          how dull, 
+          how shameless is the argument of this most vain man - 
+          who can worthily declare? 
+          Immortal God, 
+          how it is to be lamented that our Spain, 
+          otherwise most happy and mother of talents, 
+          should look up to such dull heads as great men. 
+          Then that men who ought to be the light and rule of virtue 
+          should bring forth a most vain,
+          <pb ed="#P" n="184-r"/>
+          most dangerous, 
+          impious thing worthy of the fire for the destruction of their soul, 
+          so that innumerable mortals redeemed by Christ's blood 
+          might perish eternally contrary to the example and teaching of Christ and the apostles 
+          and be most cruelly slaughtered by the most rapacious Spanish people. 
+          But to paint his vanity to the quick most briefly, 
+          so that both he himself and others who under the pretext of these arguments 
+          oppose evangelical truth and send so many myriads of mortals to hell, 
+          may come to their senses both here and there and do penance, 
+          and recognizing the truth, 
+          may apply an antidote to the poisons which they have administered to the world.
+        </p>
+        
+        <p xml:id="lca8s8-d1e579-d1e496">
+          Again this insipid jurisconsult brings forth against Cajetan Bartolus 
+          in L. Hostes, ff de captiuis et postliminio reuersis. 
+          And he makes a certain new distinction (namely) 
+          that some infidels are those recognizing the dominion of the Church, 
+          others truly who do not recognize it. 
+          But Bartolus, 
+          if he is read, 
+          will set before our eyes this man's stupidity and ignorance.
+        </p>
+        
+        <p xml:id="lca8s8-d1e579-d1e517">
+          For he treated this matter prudently in the said l. hostes 
+          and in l. Christianis. C. de paganis et sacrificiis, 
+          which we have taught more extensively in our other little works. 
+          The shyster proceeds rather than the jurisconsult, 
+          and so that he might completely bring forth his extreme stupidity to the world, 
+          he asserts something intolerable to Christian ears, 
+          namely that the Spanish can draw the sword against the Indians 
+          without any preceding warning and plunder their goods,
+          <pb ed="#P" n="184-v"/>
+          since (he says) the warning of the apostles suffices for them: 
+          "for their sound has gone out into all the earth" etc. 
+          And moreover the Spanish warned them to receive the faith of Christ; 
+          since they did not obey this warning but rather prepared arms, 
+          by the best right they can be despoiled of their kingdoms 
+          without any preceding warning. 
+          The shameless sycophant adds laws and paragraphs; 
+          he cites innumerable names of doctors. 
+          But beside the point no less unlearnedly than foolishly. 
+          I pray for a saner mind for him, 
+          although he seems most learned to himself.
+        </p>
+        
+        <p xml:id="lca8s8-d1e579-d1e570">
+          <pc type="pilcrow"/> And through all these things which have been disputed and concluded 
+          from chapter 24 up to this point, 
+          we believe sufficiently to have satisfied the third cause 
+          by which Sepulveda wishes those satanic expeditions or conquests 
+          (as they call them) carried out by our people against the western and southern nations 
+          to be justified. 
+          But if you add to the predetermined things our twelve replies 
+          related in the assembly, 
+          and indeed most solemn, 
+          of great men, 
+          theologians and jurists, 
+          by order of the emperor convened at the Council of the Indies at Valladolid 
+          in the year of our Lord 1551, 
+          you will see more clearly than light itself with what density of darkness 
+          the eminent doctor and those adhering to his error are held, 
+          and how most dangerously.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

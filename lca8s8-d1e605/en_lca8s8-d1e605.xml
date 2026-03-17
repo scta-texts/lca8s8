@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 43 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</n>
+            <resp>Transcription Editor</resp>
+            <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 43 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-17">April 17, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="189-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e605">
+        <head xml:id="lca8s8-d1e605-Hd1e97">Chapter 43</head>
+        <p xml:id="lca8s8-d1e605-d1e99">
+          Chapter 43
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e104">
+          Concerning this kind of persuasive compulsion,
+          see I pray what Saint Thomas set forth in the third part,
+          question 44,
+          article 3,
+          ad 1,
+          where he says:
+          Now to justify men was not fitting except for those willing.
+          This would not be against the reasoning of justice,
+          which implies the rectitude of the will,
+          and also against the reasoning of human nature,
+          which must be led to the good by free choice and not by coercion.
+          Therefore Christ by divine power inwardly justified men,
+          yet not against their will.
+          And after many things (Saint Thomas says):
+          concerning the souls of men,
+          especially as to changing the lower powers,
+          Christ worked certain miracles.
+          Hence Jerome on Matthew 9,
+          <quote xml:id="lca8s8-d1e605-Qd1e166">"Rising up he followed him"</quote>
+          (namely Matthew) says:
+          that very splendor and majesty of the hidden deity,
+          which even shone forth in the human face,
+          could draw those seeing it to himself at first sight.
+          <pb ed="#P" n="190-r"/>
+          And this was to invite and draw the Gentiles themselves sweetly through inspirations,
+          illuminations,
+          and by infusing in them wisdom and divine love.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e162">
+          Saint Thomas adds in the same place:
+          And on Matthew 21,
+          <quote xml:id="lca8s8-d1e605-Qd1e166">"he cast out all who were buying and selling,"</quote>
+          etc.
+          The same Jerome says:
+          to me among all the signs which the Lord made,
+          this seems to be the most wonderful,
+          that one man and at that time contemptible could cast out so great a multitude at the stroke of a single whip.
+          Something fiery and starlike radiated from his eyes,
+          and the majesty of the deity shone in his face.
+          And on John 18,
+          <quote xml:id="lca8s8-d1e605-Qd1e188">"they went backward and fell to the ground,"</quote>
+          Augustine says:
+          <quote xml:id="lca8s8-d1e605-Qd1e195">"One word struck down a crowd fierce with hatred and terrible with arms,
+            without any weapon,
+            repelled them,
+            laid them low.
+            For God was hidden in the flesh."</quote>
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e204">
+          And Saint Thomas below:
+          from all of which it is clear that when Christ willed,
+          by divine power he changed the souls of men,
+          not only by justifying and infusing wisdom,
+          which pertains to the end of miracles,
+          but also by outwardly alluring or terrifying or stupefying,
+          which pertains to the miracles themselves.
+          These things Saint Thomas said.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e225">
+          Whence it appears that even the very manner by which Christ drew believers to knowledge of himself was miraculous.
+          And there is no doubt that daily through the medium either of men or of angels,
+          in illuminating men he uses such a manner.
+          <pb ed="#P" n="190-v"/>
+          This is clear in the conversion of blessed Paul.
+          Acts 19,
+          where we learn that Paul was made from a wolf into a lamb by a certain divine miracle,
+          whereby surrounded by a heavenly light he was thrown down from his horse.
+          Although we do not read of a similar calling elsewhere,
+          therefore the Church celebrates it as unique and wonderful,
+          as Thomas writes in 1a 2ae,
+          question 113,
+          last article in the body toward the end.
+          Therefore such a calling should not be brought forward as an example.
+          For it was particular,
+          and particular privileges do not make a common law,
+          etc.
+          But the common manner by which the Lord draws men to himself without any compulsion,
+          Saint Thomas explains in the Questions on Truth,
+          question 22,
+          article 8,
+          and in the first part,
+          question 105,
+          article 3 and 4 throughout,
+          and in other places of the Summa contra Gentiles.
+          Saint Thomas says:
+          God can change the will of necessity,
+          yet he cannot coerce it.
+          For however much the will is changed toward something,
+          it is not said to be coerced toward it.
+          The reason for this is that the very act of willing something is to be inclined toward it.
+          But coercion or violence is contrary to the inclination of that thing which is coerced.
+          Therefore when God changes the will,
+          he makes it so that one inclination succeeds the preceding inclination.
+          Thus the first is taken away and the second remains.
+          Hence that toward which he leads the will is not contrary to the inclination now existing,
+          but to the inclination which was there before.
+          Hence there is no coercion or violence,
+          <pb ed="#P" n="191-r"/>
+          just as in a stone by reason of its gravity there is an inclination toward a place downward.
+          But with this inclination remaining,
+          if it is thrown upward,
+          it will be violence.
+          But if God takes away from the stone the inclination of gravity and gives it an inclination of lightness,
+          then to be carried upward will not be violent to it.
+          And thus an opposite motion can be without violence.
+          And in this manner it must be understood that God changes the will without coercing the will,
+          etc.
+          These things Saint Thomas says in his own words.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e344">
+          Thus the Lord sweetly moves each thing to its end,
+          according to that in 
+          <ref xml:id="lca8s8-d1e605-Rd1e350">Wisdom 8</ref>,
+          <quote xml:id="lca8s8-d1e605-Qd1e352" source="http://scta.info/resource/sap8_1@1-12">"She reaches from end to end mightily and orders all things sweetly."</quote>
+          Certainly most contrary is that motion by which divine wisdom draws created things to itself,
+          especially rational creatures,
+          to that which they imagine with unsheathed swords,
+          fire-bearing devices,
+          and cannons.
+          For the human mind is such that it wishes to be taught,
+          led,
+          and kindly allured,
+          not coerced by force and arms.
+          For according to the Philosopher in the second book of the Physics,
+          each thing is acted upon or drawn as it is by nature apt to be acted upon or drawn.
+          For men naturally desire to be allured by sweetness and blandishments,
+          as experience shows.
+          And in 
+          <ref xml:id="lca8s8-d1e605-Rd1e383" target="http://scta.info/resource/sir6_5@1-7">Proverbs 6</ref>
+          it is said:
+          <quote xml:id="lca8s8-d1e605-Qd1e391">"A sweet word multiplies friends and softens enemies,"</quote>
+          and 
+          <quote xml:id="lca8s8-d1e605-Qd1e396" source="http://scta.info/resource/prov15_1@1-8">"A soft answer breaks wrath;
+            a harsh word stirs up fury."</quote>
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e404">
+          And according to that of Valerius Maximus in book 5,
+          the sweetness of humanity penetrates barbarian minds.
+          <pb ed="#P" n="191-v"/>
+          The cause of this is the generosity of spirit which,
+          according to Seneca,
+          is led rather than dragged.
+          For the mind has something sublime and lofty and impatient of a superior,
+          but it subjects itself through a certain delight of reverence or gentleness,
+          by which it suspects it can ascend to equal things and not leap back from its own level.
+          Thus 
+          <ref xml:id="lca8s8-d1e605-Rd1e428">the Philosopher in Ethics 8</ref>
+          says that benevolence is the beginning of friendship.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e434">
+          Therefore God uses his ineffable wisdom when he draws men to himself in these ways.
+          And since no one can work those things upon the human will except God alone,
+          namely that today it wills and loves what yesterday it shuddered at and avoided,
+          sweetly disposing inwardly and inclining the minds of men to the contrary,
+          which is all a miracle:
+          for in vain would the tongue of the preacher labor outwardly unless the grace of the Savior were present inwardly,
+          according to Augustine.
+          But this appears clearly because many heard Christ's preaching,
+          yet not all were converted,
+          because Christ did not work the aforesaid effects inwardly in the minds of all the hearers.
+          Therefore whoever comes to faith and changes his mind receives this from God.
+          For all human terrors cannot change the human will unless Christ works inwardly.
+          Again,
+          among all the miracles of God,
+          the conversion of a sinner is considered to be great,
+          <pb ed="#P" n="192-r"/>
+          both because of the magnitude of the work itself on account of the impediments which arise from sin—for 
+          they separate man from God by an infinite distance—and 
+          because it is directed to an eternal good.
+          And according to this,
+          Augustine,
+          commenting on John chapter 14,
+          explaining that passage "greater things than these he will do," says:
+          it is greater to render a sinner just than to create heaven.
+          Concerning this matter Saint Thomas treats in the first part,
+          question 105,
+          articles 7 and 8 throughout.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e504">
+          Therefore,
+          that Christ might show us the magnitude of his truth and the most powerful force of the divine word,
+          by which he heals and cures those whom it is impossible according to nature—that is,
+          without his help—to heal on account of their crimes,
+          especially of idolatry and unbelief,
+          making them sons of God and heirs of the heavenly kingdom,
+          he used this word "compel to enter,"
+          so that he might signify a change surpassing human powers.
+          As if we should say,
+          idolaters unwilling to cast off the worship of idols and other sins,
+          by the word of Christ and of truth,
+          with divine grace working inwardly,
+          cast off the idols.
+          To which also the example of good Christians preaching the Gospel helps.
+          But that this literal exposition may be known to be the true one,
+          let Theophylact be seen on the same parable,
+          who says thus:
+          by those who are in the road and at the hedges,
+          the Gentiles are to be understood.
+          For the Israelites were within the city as those who had received the law and obtained a more civilized life.
+          <pb ed="#P" n="192-v"/>
+          But the Gentiles were strangers from the covenants and from the law of God,
+          and were not made citizens of the saints,
+          nor in one but in many iniquities and great rusticity they lived,
+          and at hedges—that is,
+          sins.
+          For sin is a great hedge and barrier dividing us from God.
+          Therefore by roads he means the peculiar life of the Gentiles,
+          divided into many opinions.
+          By hedges he understands their life in sins.
+          He does not simply command them to be called,
+          but "compel," he says,
+          although it is voluntary for all to believe.
+          But that we may know it to be of great power of God that the Gentiles living in such great ignorance—
+          therefore he said "compel."
+          For unless great power were preached and there were great truth of the word,
+          how would men raving in the worship of idols and doing foul works be persuaded so that suddenly they would recognize the true God and love the spiritual life?
+          Therefore,
+          wishing to signify the admirable transformation,
+          he named it necessity,
+          as if he were to say:
+          even the Gentiles,
+          unwilling to leave the idols and pleasures,
+          were compelled by the preaching of truth to leave them.
+          Or otherwise,
+          the power of signs also brought great necessity so that they were transferred to the faith of Christ.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e621">
+          And below:
+          Therefore to those sinners wandering in the broad and spacious ways of sins,
+          the father sends his son inviting to the feast,
+          who according to the flesh was a servant,
+          who came not to call the righteous but sinners.
+          <pb ed="#P" n="193-r"/>
+          And he invites them liberally,
+          having taught those rich ones and those indulging the flesh.
+          But by sending many illnesses and dangers,
+          he makes them,
+          even unwillingly,
+          renounce this life,
+          by which judgments he is accustomed to lead them to his feast,
+          making necessity for them through danger.
+          And of this there are many examples.
+          But this parable teaches us that we should give rather to the simple,
+          poor,
+          and weak than to the rich,
+          which he also had admonished a little before.
+          We also learn another thing:
+          we ought to be eager and generous in receiving the poor,
+          and even so we should compel them unwilling,
+          so that they may be partakers of our goods.
+          Teachers are also admonished by this,
+          that it is worthwhile to teach disciples even unwilling.
+          All these things Theophylact said in his own words.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e675">
+          At the end he said to teach,
+          not to wage war or inflict bodily or external violence.
+          For weapons of war,
+          as has often been touched upon,
+          are not by their own nature ordered to the subjection of souls but of bodies,
+          things,
+          and places.
+          Certainly far different is this exposition of Theophylact of the aforementioned parable "compel to enter" from that which the adversaries fabricate.
+          To whom,
+          I pray,
+          shall we rather give credence in the exposition of Scripture—to 
+          holy men whom it is most true that they had the Spirit of God in interpreting the sacred Scriptures,
+          or truly to Sepulveda and his accomplices trying to destroy that immense world by deadly war against the law of Christ?
+          Who dare to assert,
+          as rashly as impiously,
+          <pb ed="#P" n="193-v"/>
+          that through the said parable Christ commanded us to disturb peaceful unbelievers living quietly through the enormities and turbulences of wars,
+          to irritate the gentlest peoples,
+          to despoil the poorest,
+          to teach pride,
+          cunning,
+          malice to the most humble and most simple,
+          to condemn free peoples into bitter servitude by tyrannical ferocity against the law of nations and nature,
+          and lastly to make it impossible that nations most apt for faith should ever enter Christ's sheepfold.
+        </p>
+        <p xml:id="lca8s8-d1e605-d1e753">
+          Let the most vain dreams of these heads depart,
+          not bringing forth solid doctrine to us.
+          But what do they bring forth against evangelical truth and apostolic examples except calumnies,
+          lies,
+          and adulterated passages of Scripture?
+          Therefore these wretches err,
+          not knowing the Scriptures nor the power of God.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

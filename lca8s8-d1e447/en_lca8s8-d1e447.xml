@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 31 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 31 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-05-03">May 03, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines 
+          for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="139-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e447">
+        <head xml:id="lca8s8-d1e447-Hd1e97">Chapter 31 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e447-d1e99">
+          CHAPTER 31.
+        </p>
+        <p xml:id="lca8s8-d1e447-d1e104">
+          ¶ So that princes and governors of the republic may weigh such cases more carefully: 
+          I will also prove by other arguments that it is not lawful to kill or inflict harm on many,
+          indeed not even on a few innocent persons: 
+          so that a few innocent persons may be freed from death: 
+          and that a prince or governor doing or permitting otherwise, 
+          sins mortally and is bound to restitution. 
+          Which is proved first concerning sin,
+          since in such a case it is per se to kill an innocent person. 
+          Therefore it is a mortal sin: 
+          but here many are killed or afflicted with harm who deserve no such thing,
+          as appears from what has been said. 
+          Therefore such a prince sins mortally.
+        </p>
+        <p xml:id="lca8s8-d1e447-d1e141">
+          Secondly,
+          because this work is impious and ungrateful in the eyes of God: 
+          no differently than the sacrifice of 
+          <name xml:id="lca8s8-d1e447-Nd1e147">Cain</name> 
+          or the vow of 
+          <name xml:id="lca8s8-d1e447-Nd1e149">Jephthah</name> 
+          who sacrificed his own daughter 
+          <ref xml:id="lca8s8-d1e447-Rd1e154">Judges 11</ref>.
+          whom 
+          <ref xml:id="lca8s8-d1e447-Rd1e159">
+            <name xml:id="lca8s8-d1e447-Nd1e161">Augustine</name>
+          </ref> 
+          affirms to have acted savagely and cruelly. 
+          <name xml:id="lca8s8-d1e447-Nd1e165">Agamemnon</name> 
+          did similarly,
+          who sacrificed his daughter 
+          <name xml:id="lca8s8-d1e447-Nd1e169">Iphigenia</name> 
+          to 
+          <name xml:id="lca8s8-d1e447-Nd1e172">Diana</name> 
+          by vow,
+          whose deed 
+          <ref xml:id="lca8s8-d1e447-Rd1e178" target="http://scta.info/resource/gpza5l-s6jdwt-d1e437@1-87 http://scta.info/resource/gpza5l-s6jdwt-d1e443@1-46">
+            <name xml:id="lca8s8-d1e447-Nd1e180">Tully</name> 
+            <title>On Duties</title> 
+            book 3
+          </ref> 
+          relates and reproves.
+        </p>
+        <p xml:id="lca8s8-d1e447-d1e186">
+          Thirdly,
+          such a work is iniquitous and indiscreet which is offered to God lacking the proper circumstances 
+          of place,
+          time and things which are not pleasing to God. 
+          For God does not rejoice in the sorrow of the innocent and harmless: 
+          whom to kill is a greater sin than what the pagans commit by sacrificing the innocent. 
+          For they,
+          by probable ignorance (as I will say below),
+          sacrifice thirty or a hundred or a thousand each year: 
+          but those,
+          namely the soldiers: 
+          waging war for this cause,
+          on one day slaughter ten thousand innocent persons with great loss of their own souls. 
+          For since they have been instructed in the doctrine of Christ: 
+          they ought not to be ignorant that the innocent should be spared: 
+          whence they do not divide rightly,
+          as 
+          <ref xml:id="lca8s8-d1e447-Rd1e247">
+            <name xml:id="lca8s8-d1e447-Nd1e249">Augustine</name> 
+            said above concerning 
+            <name xml:id="lca8s8-d1e447-Nd1e254">Cain</name>
+          </ref>. 
+          Therefore they are guilty of the most serious crime before God,
+          worthy of eternal damnation.
+        </p>
+        <p xml:id="lca8s8-d1e447-d1e262">
+          ¶ As for what pertains to restitution,
+          the common opinion of the doctors is: 
+          that plunder seized from the innocent who have no guilt of war: 
+          must necessarily be restored. 
+          <ref xml:id="lca8s8-d1e447-Rd1e284">
+            <name xml:id="lca8s8-d1e447-Nd1e285">St. Thomas</name> 
+            2a 2ae q. 40. art. 1
+          </ref> 
+          gives the reason,
+          namely that war is licit from the fault of those against whom it is waged. 
+          But innocent and guiltless men have deserved no such thing. 
+          Therefore with regard to them the war was not licit. 
+          But what is seized in an unjust war must necessarily be restored.
+        </p>
+        <p xml:id="lca8s8-d1e447-d1e301">
+          Concerning this 
+          <ref xml:id="lca8s8-d1e447-Rd1e305">
+            <name xml:id="lca8s8-d1e447-Nd1e306">St. Thomas</name> 
+            also treats 2a 2ae. q. 66. art. 8 in the body and in response to the first
+          </ref>: 
+          and it is proved in 
+          <ref xml:id="lca8s8-d1e447-Rd1e311">c. sicut in 3. de jure eius</ref>, 
+          and 
+          <ref xml:id="lca8s8-d1e447-Rd1e316">from the doctors there</ref>: 
+          and speaking specifically of the innocent to whom harm is done not per accidens,
+          as in the example given above: 
+          <ref xml:id="lca8s8-d1e447-Rd1e325">
+            Raymond teaches in his summa,
+            title on war §. 17. and §. 19
+          </ref>. 
+          in these words: 
+          <quote xml:id="lca8s8-d1e447-Qd1e332">
+            subjects who do not wish to render counsel and aid or favor to their lord in an illicit war: 
+            I believe should in no way be despoiled: 
+            or punished in any way. 
+            For punishment ought to hold its authors: 
+            nor should it be extended further than the offense is found in the transgressor 
+          </quote>
+          <ref xml:id="lca8s8-d1e447-Rd1e355">
+            extravagantes de his quae fiunt par. cap. c. quaesiuit
+          </ref>. 
+          and. 
+          <ref xml:id="lca8s8-d1e447-Rd1e360">1. q. 4, c. 1</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e447-d1e363">
+          <ref xml:id="lca8s8-d1e447-Rd1e367">
+            <name xml:id="lca8s8-d1e447-Nd1e368">Ulrich</name> 
+            disciple of 
+            <name xml:id="lca8s8-d1e447-Nd1e370">Albert the Great</name> 
+            also teaches in his summa lib. 6. tract. 3. c. 7
+          </ref>.
+          and adds in 
+          <ref xml:id="lca8s8-d1e447-Rd1e378">c. 9</ref>. 
+          <quote xml:id="lca8s8-d1e447-Qd1e380">
+            The third condition,
+            that subjects should not be harmed even if the lord in an unjust war uses their things,
+            violently taken,
+            in support of his war
+          </quote>. 
+          these are his words. 
+          <ref xml:id="lca8s8-d1e447-Rd1e392">
+            <name xml:id="lca8s8-d1e447-Nd1e393">Hostiensis</name> 
+            also teaches in summa title on penance and remission § to whom and how and by whom verse c. 
+            what concerning plunder
+          </ref>.
+          It is also found in 
+          <ref xml:id="lca8s8-d1e447-Rd1e402">summa confessorum lib. 2. title 5. question. 44</ref>. 
+          <ref xml:id="lca8s8-d1e447-Rd1e407">
+            <name xml:id="lca8s8-d1e447-Nd1e408">Astesanus</name> 
+            proves the same in summa 1st part lib. 1. title 32. art. 6
+          </ref>. 
+          and 
+          <ref xml:id="lca8s8-d1e447-Rd1e416">lib. 2. title 64. art. 7</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e447-d1e419">
+          This is also proved by 
+          <ref xml:id="lca8s8-d1e447-Rd1e423">
+            summa 
+            <name xml:id="lca8s8-d1e447-Nd1e425">Silvestrina</name> 
+            war 1. §. 10. 3rd part
+          </ref>, 
+          in these words: 
+          <quote xml:id="lca8s8-d1e447-Qd1e430">
+            one having a just war or finding himself in it,
+            if he has despoiled clerics / religious / or converts or pilgrims,
+            although they were with the enemies: 
+            is bound to restore,
+            and sins mortally. 
+            Such commit robbery if they despoil rustics or travelers or those engaged in agriculture: 
+            and animals with which they plow and carry seeds. 
+            Indeed subjects of a lord unjustly waging war,
+            not giving counsel,
+            aid or favor directly or indirectly,
+            should not be despoiled or punished in anything: 
+            but they are bound to restore lest the penalty exceed the authors. 
+            By stronger reason,
+            however,
+            one is bound to restore who harms innocents not subject to the enemy: 
+            unless he does this beyond his intention: 
+            for instance if,
+            not being able to capture the city,
+            he gives it to sack,
+            or burns it: 
+            not otherwise being able to punish many guilty ones
+          </quote>. 
+          these are his words.
+        </p>
+        <p xml:id="lca8s8-d1e447-d1e490">
+          By these words of 
+          <name xml:id="lca8s8-d1e447-Nd1e492">Silvestri</name> 
+          it is proved: 
+          that the innocent should not be vexed or harmed: 
+          unless when it cannot otherwise be done according to what was said in the 
+          <ref xml:id="lca8s8-d1e447-Rd1e500">preceding chapter</ref>: 
+          and that so that a few guilty may be punished: 
+          the most innocent should not be harmed: 
+          and that one acting otherwise sins mortally,
+          and is bound to restitution,
+          and are considered murderers of those innocents. 
+          The same is taught by 
+          <ref xml:id="lca8s8-d1e447-Rd1e513">
+            Brother John of Tabia in his summa which is called Tabiana in the word war §. 8
+          </ref>. 
+          And 
+          <ref xml:id="lca8s8-d1e447-Rd1e521">
+            the most learned father 
+            <name xml:id="lca8s8-d1e447-Nd1e525">Francisco de Vitoria</name> 
+            in the 2nd relection on the Indies
+          </ref>.
+        </p>
+        <p xml:id="lca8s8-d1e447-d1e531">
+          Therefore,
+          since in those provinces where infidels eat human flesh and sacrifice innocents: 
+          there are few who commit these crimes: 
+          but innumerable are those who are immune from these crimes,
+          indeed they do not even participate in any way in those things,
+          and since we ought not expose to danger many innocents for the sake of freeing a few,
+          even though innocent: 
+          it follows that the church ought not wage such war,
+          nor any other prince or member of the church,
+          since they do this not under the pretext of defending their own kingdoms,
+          which are far removed from the kingdoms of the infidels: 
+          but only under the pretext of freeing the innocent: 
+          when in truth an infinite multitude of innocents would be destroyed under this pretext.
+        </p>
+        <p xml:id="lca8s8-d1e447-d1e572">
+          And so it does not militate against the predetermined according to the second argument,
+          since that whole republic neither is nor should be presumed according to jurisdiction to be an enemy or hostile,
+          but rather innocent and friendly.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 63 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 63 [Bnf 12926 Translation]</title>
+          <date when="2024-06-20">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-06-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="252-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e868">
+        <p xml:id="lca8s8-d1e868-d1e97">
+          Chapter 63
+        </p>
+        
+        <p xml:id="lca8s8-d1e868-d1e102">
+          <pc type="pilcrow"/> Again 
+          <name xml:id="lca8s8-d1e868-Nd1e107">Sepulveda</name> 
+          in confirmation of his error notes another word from 
+          <ref xml:id="lca8s8-d1e868-Rd1e111">
+            the same bull of Alexander VI</ref> 
+          in which the pontiff says that he desires nothing more than the exaltation of the glory 
+          of Christ,
+          and that the barbarians be suppressed.
+          This last he hurls at us as an 
+          <name xml:id="lca8s8-d1e868-Nd1e123">Achillean</name> 
+          argument,
+          <name xml:id="lca8s8-d1e868-Nd1e127">Sepulveda</name>:
+          yet if the whole sequence of the bull be read,
+          it will be manifestly clear that this is their calumny,
+          not to say shamelessness.
+          The matter stands thus:
+          the pontiff praises the zeal of the Catholic kings,
+          and with much verbal honor recounts the victory of the Kingdom of Granada,
+          having defeated the savage and barbarous enemy,
+          most famous throughout the whole world,
+          in these words:
+          Wherefore when we were called to this See of Peter,
+          we recognized you,
+          knowing that you have always been,
+          as true Catholic kings and princes,
+          and your glorious deeds,
+          <pb ed="#P" n="252-v"/>
+          already known to nearly the whole world,
+          demonstrate:
+          not only to exhort this,
+          but with all effort,
+          zeal and diligence,
+          no labors.
+          And below:
+          just as the recovery of the Kingdom of Granada from the tyranny of the Saracens in our 
+          times made by you with such great glory of the divine name testifies.
+        </p>
+        
+        <p xml:id="lca8s8-d1e868-d1e169">
+          From these words it is elicited that the words of the pontiff saying that he desires 
+          nothing more than to see the barbarians suppressed,
+          refer to the Moors of Granada,
+          who are barbarians as I said above,
+          and to other barbarians,
+          most hostile enemies of the Christian name.
+          Therefore those words of the bull do nothing to confirm that impious opinion.
+          For how could the Roman pontiff have approved what is most distant from the doctrine of 
+          Christ,
+          as has been sufficiently argued above?
+        </p>
+        
+        <p xml:id="lca8s8-d1e868-d1e193">
+          <pc type="pilcrow"/> 
+          These things I have had to put forward,
+          according to the measure of grace granted to me,
+          in defense of this most holy cause,
+          joined with Christian piety.
+          As for what remains,
+          I exhort and warn 
+          <name xml:id="lca8s8-d1e868-Nd1e206">brother Sepulveda</name> 
+          and my colleague in Christ and the other enemies of the Indians,
+          through Jesus Christ,
+          that they obey the words of the Lord and listen to and revere the traditions of the holy 
+          fathers,
+          and fear God,
+          the avenger of perverse machinations.
+          The Indians are our brothers,
+          for whom Christ gave his life:
+          why do we persecute them with such immense cruelty,
+          <del>and warlike apparatus</del>
+          <pb ed="#P" n="253-r"/>
+          when they deserve no such thing?
+          <seg type="correction">
+            Since<subst>
+              <del rend="strikethrough">itos</del>
+              <add place="above-line">what is</add>
+            </subst>
+          </seg> 
+          done cannot be undone,
+          let them be attributed to our weakness,
+          <pc type="virgula">/</pc> 
+          so long as there is restitution of what was impiously seized.
+        </p>
+        
+        <p xml:id="lca8s8-d1e868-d1e248">
+          Henceforth,
+          however,
+          let there be no cruelty and warlike apparatus,
+          more suited to Mohammedans than to Christians.
+          Let upright preachers be sent to them,
+          who express Jesus Christ in their conduct and reflect the spirit of Peter and Paul.
+          I know well that they will embrace evangelical doctrine.
+          For they are not stupid or barbarous,
+          but with a certain innate sincerity,
+          simple,
+          modest,
+          <pc type="virgula">/</pc> 
+          gentle,
+          finally such that I do not know whether there is any nation more suited to receiving the 
+          gospel.
+          Once they have received it,
+          it is <add place="above-line">wonderful</add> 
+          with what piety,
+          what ardor,
+          <pc type="virgula">/</pc> 
+          what faith and charity they fulfill the precepts of Christ and venerate the sacraments.
+          For they are teachable and talented,
+          and in industry and natural gifts they surpass many nations of the known world,
+          which the second part of this our apology,
+          written in Spanish,
+          will place before everyone's eyes with the clearest arguments,
+          examples,
+          and a true description of that world,
+          so that henceforth those most impious plunderers may be silent,
+          who with venomous slanders and criminal lies have defamed a people most sincere of all,
+          <pc type="virgula">/</pc> 
+          teachable,
+          modest and talented.
+        </p>
+        
+        <p xml:id="lca8s8-d1e868-d1e317">
+          Thanks be to God
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

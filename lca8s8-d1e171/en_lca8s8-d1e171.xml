@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"
+  type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"
+  type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 10 [Bnf 12926 Transcription] — English Translation</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 10 [Bnf 12926 Transcription] — English Translation</title>
+          <date when="2024-09-03">September 3, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-09-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="54-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e171">
+        <head xml:id="lca8s8-d1e171-Hd1e97">Chapter 10 [Bnf 12926 Transcription]</head>
+
+        <p xml:id="lca8s8-d1e171-d1e99">
+          Chapter 10
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e104">
+          ¶ Eighth: that the Church cannot punish idolaters
+          is proved from Augustine on Psalm 145,
+          where, expounding the verse, "The Lord renders judgment
+          for all who suffer injustice,"
+          he says: concerning those who are not under its own jurisdiction
+          (that is, of the Church),
+          upon whom discipline cannot be exercised —
+          although I find those very words nowhere in that place.
+          But because
+          <ref xml:id="lca8s8-d1e171-Rd1e123">Augustine</ref> is cited by
+          <ref xml:id="lca8s8-d1e171-Rd1e125" target="http://scta.info/resource/gd-p2c23q4-d1e354">Gratian, Causa 23, q. 4, § "To these, therefore, a reply is made,"
+            under the canon <hi rend="italic">Cum in lege</hi></ref>
+          where Gratian subjoins the following:
+          <quote xml:id="lca8s8-d1e171-Qd1e133"
+            source="http://scta.info/resource/gd-p2c23q4-d1e357@5-51 http://scta.info/resource/gd-p2c23q4-d1e547">there are certain things
+          which are to be corrected by wholesome admonition alone,
+          not to be punished by bodily chastisements;
+          and their retribution is to be reserved to divine judgment alone,
+          when we cannot exercise discipline upon offenders —
+          either because they are not subject to our jurisdiction,
+          or because, even if their crimes are known to us,
+          they cannot be proved by clear evidence.
+          Concerning those who are not subject to our jurisdiction,
+          the <ref xml:id="lca8s8-d1e171-Rd1e164" corresp="#lca8s8-d1e171-Qd1e167">Apostle says in the First Letter to the Corinthians</ref>:
+          <quote xml:id="lca8s8-d1e171-Qd1e167"
+            source="http://scta.info/resource/Icor5_12@1-9 http://scta.info/resource/Icor5_13@1-7">For what is it to me
+          to judge those who are outside?
+          The Lord will judge these.</quote></quote> And so forth.
+          <pb ed="#P" n="54-v"/>
+          <ref xml:id="lca8s8-d1e171-Rd1e175">Thus Gratian.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e178">
+          Therefore, if they are not subject to our jurisdiction,
+          we cannot punish them in any way.
+          The same is taught by
+          <ref xml:id="lca8s8-d1e171-Rd1e183">Augustine in Homily 50 on the Worthlessness and Necessity of Penance,
+            col. 6.</ref>
+          And from there
+          <name xml:id="lca8s8-d1e171-Nd1e188">Gratian</name>
+          drew what he reports in
+          <ref xml:id="lca8s8-d1e171-Rd1e193" target="http://scta.info/resource/gd-p2c2q1-d1e407">c. <hi rend="italic">Multi</hi>, C. 2, q. 1.</ref>
+          More explicitly,
+          <ref xml:id="lca8s8-d1e171-Rd1e198">Augustine in the book <hi rend="italic">On Baptism</hi></ref>
+          is read in
+          <ref xml:id="lca8s8-d1e171-Rd1e203" target="http://scta.info/resource/gd-p2c2q1-d1e407">c. <hi rend="italic">Non ne</hi>, C. 1, q. 1,</ref>
+          where he says:
+          <quote xml:id="lca8s8-d1e171-Qd1e207">Were not the Sodomites Gentiles,
+          that is, pagans,
+          and worse therefore than the Jews,
+          to whom the Lord says:
+          "It shall be more tolerable for Sodom on the day of judgment than for you,"
+          and to whom the prophet says:
+          "You have justified Sodom,"
+          that is, by comparison with you
+          Sodom has been made just?</quote>
+          And further:
+          <quote xml:id="lca8s8-d1e171-Qd1e224">For even the Gentiles themselves,
+          if they were able to hold anything divine and right in their teachings,
+          the holy men did not disapprove.
+          Although those Gentiles, on account of their superstitions and idolatry,
+          their pride and their other corrupt morals,
+          were to be abhorred;
+          and unless corrected, were to be punished by divine judgment.</quote>
+          <ref xml:id="lca8s8-d1e171-Rd1e240">Thus Augustine.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e243">
+          Do you see that
+          <name xml:id="lca8s8-d1e171-Nd1e247">Augustine</name>
+          holds that the punishment of crimes committed by pagans or idolaters
+          is reserved to divine judgment?
+          Therefore, such punishment does not belong to the Church.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e257">
+          ¶ Ninth: this truth is proved from the argument
+          upon which all the other arguments rest.
+          <ref xml:id="lca8s8-d1e171-Rd1e263" target="http://scta.info/resource/ta-l4d17q3-d1e321">Saint Thomas sets it forth
+            in Book IV of the <hi rend="italic">Sentences</hi>,
+            distinction 17, q. 3, art. 1, question 5, in the body of the article.</ref>
+          The argument is this.
+          The Pope, the vicar of Christ,
+          and the other ministers of the Church were established in the Church
+          after the Church was divinely instituted.
+          Hence it is certain that the building up, or institution, of the Church
+          preceded and is presupposed by the ministries and acts of the Church's ministers;
+          just as the works of creation preceded and are presupposed
+          by the works of nature.
+          Now this institution of the Church consists of faith and the sacraments.
+          The sacraments necessarily presuppose that there must be
+          certain persons capable and fitted to receive the sacraments —
+          namely, those made capable through faith.
+          But pagans and unbelievers,
+          since they are entirely outside the Church
+          and are not members of the Church
+          because they lack faith,
+          are incapable of the sacraments;
+          and thus the institution of the Church
+          does not in any way pertain to them.
+          From this it follows that the works or acts of the Church's ministers
+          do not extend to them,
+          just as the operation of nature does not extend
+          to things not yet created,
+          or to things that do not yet exist in the natural order.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e320">
+          But jurisdiction and the operations or judicial acts
+          by which offenses are punished
+          belong to the ministers of the Church
+          by reason of faith and the sacraments,
+          which must necessarily be presupposed to the acts of the ministers —
+          just as the work of creation must be presupposed
+          in order for nature to be able to act.
+          Therefore, the ministers of the Church cannot, as a rule,
+          exercise jurisdiction over pagans or unbelievers,
+          since they are not capable subjects of such operations of the Church.
+          From which it is inferred that if, by an impossible supposition,
+          the Apostles had converted no one to the faith,
+          they would have been entirely unable to exercise
+          the jurisdiction granted to them by Christ,
+          since, with no Church existing among them,
+          <pb ed="#P" n="55-v"/>
+          there would have been lacking a subject or matter
+          upon which to exercise the acts of their jurisdiction.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e357">
+          Therefore, the punishment of idolatry,
+          or of any sin whatsoever of pagans or unbelievers,
+          does not belong to the Church.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e364">
+          ¶ Tenth: in the conversion of unbelievers
+          who have never received the faith,
+          to whom the faith has not been preached,
+          and who have not resisted hearing the faith —
+          with respect to whom this will be called the first preaching of the faith —
+          one must not begin with the punishment of sins,
+          but with the offer of clemency and forgiveness
+          and with exhortation to repentance.
+          This is proved because,
+          if we begin by punishing their crimes,
+          we overturn the express commandment and institution of Christ,
+          and the form of preaching prescribed to preachers.
+          For Christ, sending the Apostles to preach the Gospel to every creature,
+          addressed them in the words recorded by
+          <ref xml:id="lca8s8-d1e171-Rd1e405" corresp="#lca8s8-d1e171-Qd1e407">Luke in the final chapter:</ref>
+          <quote xml:id="lca8s8-d1e171-Qd1e407"
+            source="http://scta.info/resource/lc24_46 http://scta.info/resource/lc24_47 http://scta.info/resource/lc24_48">"Thus it was written,
+          and thus it was necessary for Christ to suffer
+          and to rise from the dead on the third day,
+          and that repentance and forgiveness of sins
+          should be preached in his name to all nations,
+          beginning from Jerusalem;
+          and you are witnesses of these things"</quote> — namely,
+          <quote xml:id="lca8s8-d1e171-Qd1e430" source="http://scta.info/resource/go-lc24-d1e115">"those things which are to be preached,"</quote>
+          according to the
+          <ref xml:id="lca8s8-d1e171-Rd1e423" corresp="#lca8s8-d1e171-Qd1e430">interlinear gloss.</ref>
+          And on the word
+          <quote xml:id="lca8s8-d1e171-Qd1e428" source="http://scta.info/resource/lc24_47@11-11">"all,"</quote>
+          the <ref xml:id="lca8s8-d1e171-Rd1e439" corresp="#lca8s8-d1e171-Qd1e432">same interlinear gloss</ref> says:
+          <quote xml:id="lca8s8-d1e171-Qd1e432" source="http://scta.info/resource/go-lc24-d1e91">"Not in one nation only, that of the Jews,
+          nor in any one region of the earth."</quote>
+          Thus the gloss.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e438">
+          And on the phrase
+          <quote xml:id="lca8s8-d1e171-Qd1e443" source="http://scta.info/resource/lc24_47@13-15">"beginning from Jerusalem"</quote>
+          and so forth,
+          the <ref xml:id="lca8s8-d1e171-Rd1e441" corresp="#lca8s8-d1e171-Qd1e449">Glossa Ordinaria</ref> says:
+          <quote xml:id="lca8s8-d1e171-Qd1e449" source="http://scta.info/resource/gom-lc24-d1e89">It was fitting that the ministers
+          who were to preach repentance and forgiveness to all nations
+          should begin from Jerusalem —
+          not only because to them were entrusted the oracles of God,
+          and because theirs is the adoption as children,
+          and the glory,
+          and the covenants,
+          and the giving of the law;
+          but also so that the nations,
+          entangled in various errors and crimes,
+          might be drawn to the hope of pardon
+          by this supreme act of divine mercy:
+          that pardon was granted even to those
+          who had crucified the Son of God.</quote>
+          Thus the gloss.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e476">
+          ¶ From these words it is proved, first,
+          that Christ commanded the Apostles to preach the Gospel
+          by freely offering and promising forgiveness of sins.
+          Likewise, that they should exhort those people to repentance.
+          That this was indeed a command is proved from those words,
+          <quote xml:id="lca8s8-d1e171-Qd1e491" source="http://scta.info/resource/lc24_46@4-6">"thus it was written,"</quote>
+          that is, thus it was prophesied;
+          therefore it was necessary
+          <quote xml:id="lca8s8-d1e171-Qd1e498" source="http://scta.info/resource/lc24_46@11-12">"for Christ to suffer."</quote>
+          Given, therefore,
+          the divine pre-ordination and the necessity of the end —
+          which was to free and redeem the human race,
+          concerning which
+          <ref xml:id="lca8s8-d1e171-Rd1e508">Saint Thomas, Part III, q. 46, a. 1</ref>
+          and in
+          <ref xml:id="lca8s8-d1e171-Rd1e510" target="http://scta.info/resource/ta-l3d20q1-d1e257">Book III of the <hi rend="italic">Sentences</hi>,
+            distinction 20, a. 1, question 3</ref> —
+          by the same manner and by the same necessity
+          it was necessary to preach repentance and forgiveness of sins to all nations.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e521">
+          For just as it was necessary for Christ to suffer
+          and to rise from the dead for the redemption of the human race —
+          both because it was thus prophesied,
+          and because it had been pre-ordained by the Lord
+          on account of the necessity of the end —
+          so too it had been ordained by God
+          and foretold by the prophets many years beforehand,
+          and it was also necessary for the fulfillment of the counsel and will of God,
+          <quote xml:id="lca8s8-d1e171-Qd1e540" source="http://scta.info/resource/Itim2_4@1-6">"who wills all people to be saved,"</quote>
+          especially the predestined,
+          that the evangelical truth should be announced —
+          beginning with the exhortation of people to repentance
+          and promising them, on behalf of God and Jesus Christ,
+          pardon and forgiveness of all their sins.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e563">
+          This was so necessary that,
+          unless the Gospel had been announced in this manner
+          to those who at that time were ignorant of the truth,
+          the predestined would certainly not have attained salvation;
+          and thus the fruit of Christ's passion would have been rendered
+          void and null —
+          in accordance with that verse of
+          <ref xml:id="lca8s8-d1e171-Rd1e577" corresp="#lca8s8-d1e171-Qd1e579">the Psalmist in Psalm 29:</ref>
+          <quote xml:id="lca8s8-d1e171-Qd1e579" source="http://scta.info/resource/ps29_10@2-9">"What profit is there in my blood,
+          if I descend into corruption?"</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e585">
+          But this — namely, that the predestined should fail to attain salvation —
+          was impossible.
+          Therefore, it was entirely and necessarily required
+          that the Apostles should evangelize
+          in accordance with the form,
+          commandment,
+          and institution given to them by Christ.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e598">
+          This consequence is clear.
+          For when God predestined those who would attain salvation,
+          he also predestined the means by which salvation was to come to them.
+          This is taught by
+          <ref xml:id="lca8s8-d1e171-Rd1e608">Saint Thomas, Part I, q. 28, a. 8.</ref>
+          Now the first and foremost means was the passion of the Son of God;
+          and the second and foremost after the first,
+          presupposing divine grace,
+          was the announcement of the Gospel
+          in accordance with the commandment,
+          form,
+          and institution of Christ —
+          in keeping with that verse of the
+          <ref xml:id="lca8s8-d1e171-Rd1e625" corresp="#lca8s8-d1e171-Qd1e633">
+            <name xml:id="lca8s8-d1e171-Nd1e626">Apostle</name>
+            in Romans 10:</ref>
+          <quote xml:id="lca8s8-d1e171-Qd1e633" source="http://scta.info/resource/rom10_14@1-19">"How will they call upon him in whom they have not believed?
+          Or how will they believe in him whom they have not heard?
+          How will they hear without a preacher?"</quote>
+          Therefore, the preaching of the Gospel was a necessary means
+          for the salvation of those whom God predestined;
+          and consequently, the Apostles were entirely and necessarily obliged
+          to proclaim the law of Christ in that manner.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e651">
+          Now the manner of evangelizing,
+          in accordance with the institution and commandment of Christ,
+          is to exhort people to repentance
+          while offering them forgiveness of sins —
+          as is clear from
+          <ref xml:id="lca8s8-d1e171-Rd1e660">the words of Luke cited above,</ref>
+          and from many other passages of the Gospel and the prophets.
+          In confirmation of this,
+          when Christ began to disseminate his heavenly teaching,
+          he addressed people in these words:
+          <quote xml:id="lca8s8-d1e171-Qd1e671" source="http://scta.info/resource/mt4_17@7-12">"Do penance,
+          for the kingdom of heaven is at hand,"</quote>
+          <ref xml:id="lca8s8-d1e171-Rd1e676" corresp="#lca8s8-d1e171-Qd1e671">Matthew 4.</ref>
+          That word of <ref xml:id="lca8s8-d1e171-Rd1e681">Luke,</ref>
+          <mentioned>it is necessary</mentioned> (<hi rend="italic">oportet</hi>),
+          therefore implies a commandment and introduces necessity —
+          as is also proved from those words of
+          <ref xml:id="lca8s8-d1e171-Rd1e689" corresp="#lca8s8-d1e171-Qd1e691">John 3:</ref>
+          <quote xml:id="lca8s8-d1e171-Qd1e691" source="http://scta.info/resource/io3_7@6-9">"You must be born again."</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e697">
+          This word <mentioned>it is necessary</mentioned> (<hi rend="italic">oportet</hi>)
+          entirely introduces necessity.
+          For it is necessary for people to be reborn through the water of baptism
+          in order to be saved —
+          in accordance with that saying:
+          <quote xml:id="lca8s8-d1e171-Qd1e707" source="http://scta.info/resource/io3_5@7-20">"Unless one is born again of water
+          and the Holy Spirit,
+          he cannot enter the kingdom of God,"</quote>
+          <ref xml:id="lca8s8-d1e171-Rd1e714" corresp="#lca8s8-d1e171-Qd1e707">John 3.</ref>
+          So also in
+          <ref xml:id="lca8s8-d1e171-Rd1e737" corresp="#lca8s8-d1e171-Qd1e720">John 10,</ref>
+          the word <mentioned>it is necessary</mentioned> (<hi rend="italic">oportet</hi>)
+          introduces necessity:
+          <quote xml:id="lca8s8-d1e171-Qd1e720" source="http://scta.info/resource/io10_16@2-15">"I have other sheep
+          that are not of this fold;
+          and I must bring them also."</quote>
+          These sheep are pagans,
+          who are to be brought to the sheepfold of Christ
+          by the preaching of evangelical truth.
+          Therefore,
+          <ref xml:id="lca8s8-d1e171-Rd1e734" corresp="#lca8s8-d1e171-Qd1e736">that verse of Luke,</ref>
+          <quote xml:id="lca8s8-d1e171-Qd1e736" source="http://scta.info/resource/lc24_46@4-6">"thus it was written"</quote> and so forth,
+          and the word <mentioned>it is necessary</mentioned> (<hi rend="italic">oportet</hi>),
+          which introduces necessity,
+          signifies that preachers of the Gospel are necessarily obliged
+          to exhort people to repentance,
+          offering them forgiveness of sins.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e752">
+          For just as there the word <mentioned>it is necessary</mentioned> (<hi rend="italic">oportet</hi>),
+          referred to the passion and resurrection of Christ,
+          signifies that these were necessary for the salvation of the predestined,
+          so too it signifies that the Gospel must be preached
+          with exhortation to repentance
+          and with the offer of forgiveness of sins.
+          No announcer of the Gospel,
+          therefore,
+          can begin with the punishment of the crimes of pagans —
+          especially of those to whom the faith has not yet been preached.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e795">
+          For the Apostles,
+          sensing themselves bound by a strict commandment
+          to announce the Gospel in the very manner
+          that Christ taught and commanded,
+          therefore observed most strictly,
+          in both word and deed,
+          the aforesaid form and manner in converting the world.
+          Concerning them,
+          <ref xml:id="lca8s8-d1e171-Rd1e810">Augustine in Letter 3 to Volusianus</ref>
+          says:
+          <quote xml:id="lca8s8-d1e171-Qd1e815">filled with the Holy Spirit,
+          they suddenly speak the languages of all nations;
+          they faithfully refute errors;
+          they preach most wholesome truth;
+          they exhort to repentance;
+          they promise, from divine grace,
+          pardon for past blameworthy life;
+          fitting signs and miracles follow upon the preaching of true and holy religion;
+          fierce unbelief is stirred up against them;
+          they endure what was foretold,
+          they hope for what was promised;
+          they teach what was commanded;
+          few in number they are scattered throughout the world;
+          they convert peoples with wondrous ease;
+          they grow in the midst of enemies;
+          they increase under persecutions;
+          through the narrow straits of afflictions
+          they spread to the very ends of the earth;</quote>
+          and further:
+          <quote xml:id="lca8s8-d1e171-Qd1e849">the temples and images of demons
+          and sacrilegious rites
+          are gradually and in turn overthrown,
+          as the prophets had foretold.</quote>
+          Thus Augustine.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e857">
+          From these words of Augustine
+          our position is abundantly confirmed —
+          namely, that the Gospel must be announced to pagans
+          with exhortation to repentance
+          and with the offer of forgiveness of their sins.
+          Furthermore, that word of Christ,
+          <mentioned>it is necessary</mentioned> (<hi rend="italic">oportet</hi>),
+          introduces necessity —
+          as the canonists teach in
+          <ref xml:id="lca8s8-d1e171-Rd1e908" target="http://scta.info/resource/cice-l1t2-d1e164">c. <hi rend="italic">Nam concupiscentiam</hi>,
+            de constitutionibus</ref>
+          and in
+          <ref xml:id="lca8s8-d1e171-Rd1e913">c. 1 de libelli oblatione</ref>
+          and in
+          <ref xml:id="lca8s8-d1e171-Rd1e917" target="http://scta.info/resource/wef6td-d1e108-d1e122">c. 1 de rescriptis, Book VI,</ref>
+          and in other parts;
+          and it is also held by the civilians in
+          <ref xml:id="lca8s8-d1e171-Rd1e923">l. 1 on the word <hi rend="italic">oportet</hi>,
+            ff. de iustitia et iure</ref>
+          and so forth.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e929">
+          The rationale behind all of this is given by
+          <ref xml:id="lca8s8-d1e171-Rd1e933" corresp="#lca8s8-d1e171-Qd1e945">Augustine in <hi rend="italic">Against Petilianus</hi></ref>
+          and is read in
+          <ref xml:id="lca8s8-d1e171-Rd1e938" target="http://scta.info/resource/gd-p2c23q5-d1e609@41-54" corresp="#lca8s8-d1e171-Qd1e945">C. 23, q. 5, c. <hi rend="italic">Ad fidem</hi>;</ref>
+          he says:
+          <quote xml:id="lca8s8-d1e171-Qd1e945">but the punishing discipline of evil living is preposterous —
+          that is, disordered —
+          unless the hard work of teaching good living precedes it;</quote>
+          that is,
+          <quote xml:id="lca8s8-d1e171-Qd1e955">unless the offender is first instructed in what is good,
+          or unless the one who corrects first offers an example of good life,</quote>
+          as <ref xml:id="lca8s8-d1e171-Rd1e962" corresp="#lca8s8-d1e171-Qd1e955">the gloss explains.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e965">
+          You see that Augustine teaches
+          that holy doctrine and the example of upright living
+          must precede the punishment of a sinner.
+          This holds all the more for sinners who sin in ignorance —
+          such as those pagans who have never heard the words of Christ,
+          concerning whom our present discourse has been established.
+          Otherwise, punishment and discipline is preposterous and disordered,
+          and devised by the spirit of the devil.
+        </p>
+
+        <p xml:id="lca8s8-d1e171-d1e987">
+          ¶ Second, it is to be noted from those words of our Savior —
+          namely,
+          <quote xml:id="lca8s8-d1e171-Qd1e993" source="http://scta.info/resource/lc24_46@4-7">"thus it was written"</quote>
+          and so forth —
+          that the form in which he commanded his Gospel to be announced
+          must be observed for whatever nations of the world are evangelized,
+          indiscriminately,
+          whether they are pagans or weighed down by the most atrocious sins;
+          for the words are general.
+          For Christ says:
+          <quote xml:id="lca8s8-d1e171-Qd1e1007" source="http://scta.info/resource/lc24_47@10-12">"to all nations,"</quote>
+          establishing no difference between one nation and another.
+          Furthermore, we read in
+          <ref xml:id="lca8s8-d1e171-Rd1e1014" corresp="#lca8s8-d1e171-Qd1e1020">Acts 13:</ref>
+          <quote xml:id="lca8s8-d1e171-Qd1e1020" source="http://scta.info/resource/act13_46@23-26">"Behold, we turn to the Gentiles."</quote>
+          But it is a maxim in human law that where the law has made no distinction,
+          neither should we make one.
+          Since, therefore, the words of Christ are general,
+          they must be observed wherever the Gospel is preached —
+          by announcing the truth in accordance with the institution,
+          example,
+          and commandment of Christ and his Apostles.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

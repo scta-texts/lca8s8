@@ -176,7 +176,7 @@
         </p>
         <p xml:id="lca8s8-d1e803-d1e418">
           <lb ed="#P" n="24"/>Cur non is imitatus est diuum Grego<lb ed="#P" break="no" n="25"/>rium 
-          qui videns Anglos quosdam in ser<lb ed="#P" break="no" n="26"/>uitutem
+          qui videns <sic>Anglos</sic> quosdam in ser<lb ed="#P" break="no" n="26"/>uitutem
           pertractos: rogauit quomodo ap<lb ed="#P" break="no" n="27"/>pellaretur 
           prouincia unde fuerunt abdu<lb ed="#P" break="no" n="28"/>cti:
           responsum est appellari Dei. Recte 
@@ -198,8 +198,8 @@
           gentes vitiis, <seg type="correction">eferis<add place="above-line">que</add></seg> moribus longe super<lb ed="#P" break="no" n="12"/>asse 
           indos: quos isti veluti pecora infamant: 
           <lb ed="#P" n="13"/>ut ex strabane <pc type="virgula">/</pc> Mela <pc type="virgula">/</pc> Solino <pc type="virgula">/</pc> Diodoro <pc type="virgula">/</pc> 
-          <lb ed="#P" n="14"/>Herodoto, et Hieronimo libro 2o aduersus 
-          <lb ed="#P" n="15"/>Iouinianum apparet. Quis tamen unquam 
+          <lb ed="#P" n="14"/>Herodoto, et Hieronimo <ref xml:id="lca8s8-d1e803-Rd1e521">libro 2o aduersus 
+          <lb ed="#P" n="15"/>Iouinianum </ref>apparet. Quis tamen unquam 
           <lb ed="#P" n="16"/>legit eos hoc nomine abiectos vel contemp<lb ed="#P" break="no" n="17"/>tos 
           fuisse: ut non pro hominibus sed pro 
           <lb ed="#P" n="18"/>Iumentis haberentur? Anuntiatum est 

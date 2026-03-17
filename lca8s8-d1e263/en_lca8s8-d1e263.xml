@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 17 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 17 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2024-12-05">Dec 05, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="82-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e263">
+        <head xml:id="lca8s8-d1e263-Hd1e97">Chapter 17 [Bnf 12926 Transcription - English Translation]</head>
+        
+        <p xml:id="lca8s8-d1e263-d1e99">
+          Chapter 17.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e104">
+          As to the other matter which 
+          <ref xml:id="lca8s8-d1e263-Rd1e108">
+            Innocent in the said chapter which is on vows
+          </ref>
+          adds,
+          namely that it pertains to the pope alone to punish a gentile who has only the natural law if he worships idols 
+          (because he says 
+          <quote xml:id="lca8s8-d1e263-Qd1e120">
+            it is natural to worship one and only God the creator and not creatures
+          </quote>
+          , 
+          these are his words).
+          We say,
+          with due respect to so great a teacher,
+          that his opinion,
+          if understood without distinctions,
+          suffers many contrary arguments.
+          For the clarification of this matter it must be presupposed:
+          that here we intend to speak of infidels whom sacred scripture calls nations or gentiles,
+          that is those who were or are without law,
+          and have not yet heard anything of the catholic faith nor believed.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e148">
+          They are called gentiles because they are as they were born (that is) 
+          as they descended in the flesh under sin (that is) 
+          serving idols and not yet regenerated:
+          therefore they were first called gentiles.
+          According to 
+          <ref xml:id="lca8s8-d1e263-Rd1e158">
+            Isidore book 8. c. 10. of the Etymologies
+          </ref>
+          .
+          For the world was full of these when Christ came:
+          and the apostles began to preach.
+          And by our doctors they are called infidels privatively or negatively:
+          because they are naturally capable of having faith and do not have it.
+          Of this kind are all whom we call western and southern Indians.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e180">
+          I said if understood without distinctions:
+          because in some infidels (namely) 
+          dwelling in the lands of the church or its members:
+          and in certain cases it would pertain to the pope to punish those worshipping idols,
+          as you can fully gather from what has been said and will be said below.
+          With these things thus presupposed we respond with the following conclusion.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e201">
+          Conclusion.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e206">
+          Infidels (of whom our present discourse concerns) 
+          would be punished illicitly,
+          at least by human judgment,
+          merely because they worship idols.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e219">
+          The conclusion is proved thus.
+          No one can be licitly punished,
+          at least by human judgment,
+          who is invincibly or probably ignorant that the act which he does is prohibited:
+          or that what he omits is commanded,
+          even concerning faith.
+          But the infidels of whom we speak,
+          worshipping idols,
+          are invincibly or probably ignorant.
+          Therefore they would be punished illicitly,
+          at least by human judgment,
+          merely because they worship idols.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e246">
+          The consequence is clear with the major premise,
+          because whoever invincibly or probably performs some act prohibited to him or omits what is commanded to him is excused from fault.
+          The reason for this is 
+          <ref xml:id="lca8s8-d1e263-Rd1e259">
+            according to Saint Thomas:
+            because such ignorance is the cause of the act or omission and therefore causes involuntariness.
+            But fault or sin is not unless it be voluntary.
+            Whence it always excuses unless the ignorance itself be a sin.
+            Ignorance is a sin when someone is ignorant of those things which he is bound to know,
+            and can know.
+            As appears in the constitution or mandate of the pope which all are bound to know in their own way:
+          </ref>
+          
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e285">
+          <ref xml:id="lca8s8-d1e263-Rd1e287">
+            if anyone is ignorant through negligence:
+            he is not excused from fault if he acts against it.
+            But if anyone has a sufficient impediment on account of which he could not know:
+            for instance if he was in prison or in foreign lands,
+            to which the constitution did not reach:
+            or on account of something similar:
+            such ignorance excuses so that he does not sin.
+            For no one sins in that which he could not avoid.
+          </ref>
+          These are 
+          <ref xml:id="lca8s8-d1e263-Rd1e310" target="http://scta.info/resource/TAca84-d1e1137-d1e895@5-27 http://scta.info/resource/TAca84-d1e1137-d1e907@5-31">
+            Saint Thomas's words 1a 2ae. q. 90. ar. 4. ad 2 and 3
+          </ref>
+          .
+          And 
+          <ref xml:id="lca8s8-d1e263-Rd1e315">
+            de veritate q. 17. a. 3. c.
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e263-Rd1e320">
+            Quodlibetal 1. ar. 19
+          </ref>
+          .
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e323">
+          According to the 
+          <ref xml:id="lca8s8-d1e263-Rd1e325" target="http://scta.info/resource/cice-l1t2-d1e134">
+            canonists c. cognoscentes
+          </ref>
+          with its material 
+          <ref xml:id="lca8s8-d1e263-Rd1e334">
+            de constitutionibus
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e263-Rd1e336" target="http://scta.info/resource/bgy6gt-d1e1823">
+            ff. de iuris et facti ignorantia
+          </ref>
+          with what is noted there by the legists.
+          But without fault no one can licitly be punished by human judgment:
+          at least with the punishment of scourging so that he be killed or mutilated,
+          as 
+          <ref xml:id="lca8s8-d1e263-Rd1e347" target="http://scta.info/resource/TAca84-d1e1830-d1e1150@55-71">
+            Saint Thomas teaches 2a 2ae q. 108. final article
+          </ref>
+          .
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e354">
+          And according to 
+          <ref xml:id="lca8s8-d1e263-Rd1e356" target="http://scta.info/resource/gd-p1d56-d1e220">
+            the laws as 56th distinction c. satis peruersum
+          </ref>
+          .
+          And 
+          <ref xml:id="lca8s8-d1e263-Rd1e3s4" target="http://scta.info/resource/gd-p2c16q7-d1e691">
+            16, q. 7. c. inventum
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e263-Rd1e365">
+            de restitutione spoliatorum, c. conquerente
+          </ref>
+          .
+          and 
+          <ref xml:id="lca8s8-d1e263-Rd1e370" target="http://scta.info/resource/bgy6gt-d1e965-d1e718">
+            ff. ad legem aquiliam, l. si putator
+          </ref>
+          .
+          <ref xml:id="lca8s8-d1e263-Rd1e372" target="http://scta.info/resource/azsw2e-d1e6135-Dd1e326">
+            Cod. de poenis. l. sancimus
+          </ref>
+          .
+          and 
+          <ref xml:id="lca8s8-d1e263-Rd1e377" target="http://scta.info/resource/azsw2e-d1e115-Dd1e115">
+            Cod. ne sacrum baptisma reiteretur, l. 2
+          </ref>
+          ,
+          and in 
+          <ref xml:id="lca8s8-d1e263-Rd1e382" target="http://scta.info/resource/wef6td-d1e1612-d1e265">
+            the rule sine culpa. sixth book
+          </ref>
+          .
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e388">
+          The minor premise is proved first thus:
+          he is invincibly ignorant and thus excused from fault:
+          who cannot overcome that ignorance either by himself or by questioning others.
+          But such infidels cannot by themselves divine those things which are of faith since they are above every faculty of nature:
+          nor do they have anyone whom they might question or by whom they might be taught,
+          according to the common course of nature.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e419">
+          Therefore those worshipping idols are invincibly ignorant.
+          The minor premise of this argument is clear:
+          because the first principle or first truth which must be had concerning the true God:
+          is that God is one and alone.
+          But that God exists is not self-evident,
+          and much less that he is unique or alone:
+          because it is not implanted in the nature of things so that,
+          the terms being known,
+          one would immediately without any reasoning assent to that proposition:
+          God exists and is alone:
+          just as when we see a whole and a part we immediately recognize that every whole is greater than its part.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e456">
+          Whence this proposition:
+          God exists and is unique:
+          is not self-evident:
+          although it is true and necessary:
+          but we hold it from faith.
+          Likewise 
+          <ref xml:id="lca8s8-d1e263-Rd1e464">
+            that which is denied by many conceiving the terms:
+            is not self-evident
+          </ref>
+          .
+          But that God exists:
+          is of this kind as in 
+          <ref xml:id="lca8s8-d1e263-Rd1e472">
+            Psalm 13
+          </ref>
+          .
+          <quote xml:id="lca8s8-d1e263-Qd1e474">
+            The fool said in his heart:
+            there is no God
+          </quote>
+          .
+          Therefore that God exists is not self-evident.
+          Furthermore:
+          that which is proved by someone:
+          is not self-evident.
+          But the saints have attempted to prove that God exists.
+          Therefore it is not self-evident.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e488">
+          Moreover 
+          <ref xml:id="lca8s8-d1e263-Rd1e492">
+            blessed Anselm by that definition
+          </ref>
+          God is that than which nothing greater can be thought.
+          And other saints and even philosophers attempt to prove and demonstrate that God exists:
+          but nothing demonstrable is self-evident.
+          Therefore that God exists is not self-evident.
+          If therefore that God exists is not self-evident,
+          but is held only from faith:
+          the aforementioned infidels negatively cannot divine that God exists,
+          and much less that he is one and the other supernatural matters of faith.
+          Therefore by themselves they cannot overcome their ignorance.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e524">
+          Similarly they do not have anyone whom they might question,
+          by whom or by whom they might be taught (as we suppose) 
+          since all are lacking faith and all worship idols.
+          Indeed they have their priests:
+          and their theologians:
+          their prophets or diviners who long before things come announce the future to them:
+          whom they hold in the greatest reverence and devotion.
+          Who nevertheless,
+          laboring under the same ignorance,
+          teach things contrary to the faith.
+          Finally they have their kings,
+          lords and magistrates who by their laws foolishly command that that religion and the worship of idols and ceremonies be observed:
+          thus relying on public authority.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e571">
+          For the error of the people confirmed by the prince's authority makes law,
+          and excuses as in 
+          <ref xml:id="lca8s8-d1e263-Rd1e577">
+            l. Barbarius .ff. de officio presidis
+          </ref>
+          .
+          And they without doubt render their errors probable.
+          For the probable is according to 
+          <ref xml:id="lca8s8-d1e263-Rd1e587">
+            the Philosopher in the first book of the Topics
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e263-Rd1e592">
+            first book of the Rhetoric
+          </ref>
+          
+          <quote xml:id="lca8s8-d1e263-Qd1e594">
+            That which seems so to all or to the majority,
+            or to the wise.
+            And to these either all or most,
+            or the most famous and approved
+          </quote>
+          .
+          These are his words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e604">
+          And what is thus probable is called morally certain.
+          For they are not bound to wander through the world that they might seek the wise men of other nations,
+          by whose counsel or authority the opinion which they happen to follow might be rendered probable.
+          But it suffices to consult their wise men and elders:
+          or to follow their examples or teachings.
+        </p>
+        
+        <p xml:id="lca8s8-d1e263-d1e624">
+          Since therefore infidels negatively worshipping idols can neither teach themselves nor have others from whom those things which are of faith might be taught:
+          but rather all the wise men,
+          kings,
+          satraps,
+          magistrates and all the peoples and all individual commoners:
+          hold,
+          profess and follow that religion of the most ancient custom supported by habit,
+          and thus have sufficient impediments:
+          it is manifest that such error or ignorance is invincible and probable and thus the cause of the act and which causes involuntariness:
+          and consequently lacks fault.
+          For he is not judged to err or be deceived who follows public law.
+          As in 
+          <ref xml:id="lca8s8-d1e263-Rd1e663">
+            l. nihil consensui ff. de regulis iuris
+          </ref>
+          .
+          Therefore infidels negatively would be punished illicitly merely because they worship idols,
+          at least by human judgment.
+          And thus without doubt 
+          <name xml:id="lca8s8-d1e263-Nd1e675">
+            Innocent
+          </name>
+          is mistaken.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

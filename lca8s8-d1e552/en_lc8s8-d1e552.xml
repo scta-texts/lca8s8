@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 39 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 39 [Bnf 12926 Transcription]</title>
+          <date when="2025-04-29">April 29, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="172-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e552">
+        <head xml:id="lca8s8-d1e552-Hd1e97">Chapter 39</head>
+        <p xml:id="lca8s8-d1e552-d1e99">
+          Chapter 39
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e104">
+          <pc type="pilcrow"/> There still remains the sixth and final argument for the confirmation
+          of the truth proven above,
+          namely,
+          because of the great hope and vehement presumption which is held concerning the conversion
+          of such infidels and because of the correction of such people.
+          Both because they do not commit such things with an obstinate mind,
+          but certainly,
+          as already appears from many cases,
+          out of ignorance of divine things.
+          And also because such sins could never be uprooted or cured in any way,
+          especially the dregs of idolatry.
+          So much does it cling to the hearts of idolaters,
+          whether in its root,
+          or in its trunk,
+          or in its branches,
+          or even in the rest,
+          as William of Paris beautifully teaches in his book on the laws.
+          But at every time,
+          in every age,
+          and among every people,
+          it was extinguished solely by evangelical preaching with divine help.
+          As we are taught by apostolic 
+          <pb ed="#P" n="172-v"/>
+          examples and the traditions of the doctors.
+          For evangelical truth,
+          since it has most efficacious power,
+          shatters stony and iron hearts with its splendor,
+          according to that passage of Jeremiah chapter 23:
+          <quote>
+          Are not my words like fire,
+          says the Lord,
+          and like a hammer that breaks the rock in pieces?
+          </quote>
+          Again Paul to the Hebrews 4:
+          <quote>
+          For the word of God is living and effective and sharper than any two-edged sword,
+          and piercing even to the division of soul and spirit,
+          of joints also and marrow,
+          and a discerner of the thoughts and intentions of the heart.
+          </quote>
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e180">
+          Blessed Peter also testifies to this same thing,
+          speaking of the efficacy of preaching through which faith is received,
+          by which the hearts of infidels are cleansed from all error.
+          Thus he speaks in Acts 15:
+          <quote>
+          Men and brethren,
+          you know that in former days God chose among us that the Gentiles should hear from my mouth
+          the word of the gospel and believe,
+          and God who knows hearts bore witness,
+          giving them the Holy Spirit just as he did to us,
+          and he made no distinction between us and them,
+          purifying their hearts by faith.
+          </quote>
+          And by the authority of Saint Thomas 2a 2ae question 7 article 2,
+          this is the proper and peculiar effect of faith as the first principle of purification
+          of the heart,
+          namely,
+          to purify the impurity of errors,
+          which if it is perfected through charity informed,
+          causes perfect purification.
+          In these words of blessed Peter it is shown that through the signification of doctrine
+          the Gentiles believe,
+          and through believing,
+          <pb ed="#P" n="173-r"/>
+          with the Holy Spirit assisting,
+          they receive purification from the errors of infidelity and the dregs of other sins
+          by which infidels were contaminated.
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e238">
+          Eusebius teaches this most learnedly in his book on the preparation for the gospel,
+          repeating often that idolatry and wicked vices were removed not by war,
+          not by fire,
+          but by the preaching of the word.
+          Whence in treating of the efficacy of the word of God,
+          by which the world was converted to Christ,
+          among other things he puts forth these words in book 1 chapter 3:
+          <quote>
+          But as soon as the most pious and most peaceful doctrine of our savior appeared,
+          the worship of many gods was held in check,
+          wars ceased,
+          the entire race of men rested from great evils and dangers.
+          Which I would not hesitate to say is the greatest sign of his divine and ineffable power.
+          But truly how much men have profited from his preaching,
+          and how much usefulness even of this life they have obtained,
+          if you pay attention with your very eyes,
+          you will see that never at any other time in the memory of men has it been done
+          by any illustrious man or people,
+          except now by his words and doctrine alone diffused throughout the entire world,
+          that the laws of all nations should be rightly and humanely established,
+          those very laws which before his coming were foul,
+          hideous,
+          and monstrous.
+          No longer do those who have followed him know their mothers in wicked marriages,
+          nor do the Scythians feed on human flesh,
+          since the preaching of Christ has reached even them,
+          nor do they slay their dearest children,
+          impelled by false religion.
+          These and such things nearly infinite once vexed human life.
+          The Massagetae and Derbices are reported to have thought their neighbors and relatives
+          who were worn out by old age most miserable,
+          and therefore sacrificing them,
+          they feasted on their flesh which they had made most foul.
+          The Tybareni used to throw down their elderly men.
+          The Hyrcanians were accustomed to throw them to the rapacious race of birds,
+          the Caspians to dogs.
+          And indeed all these things they formerly did most religiously,
+          but now by evangelical virtue alone this most savage pestilence has been driven out
+          everywhere.
+          So that they are no longer thought to be gods,
+          nor empty and deaf images,
+          nor evil demons dwelling in them,
+          nor parts of the world which are seen,
+          nor shades of dead men,
+          nor whatever most harmful animals,
+          but instead of all these,
+          by the savior's teaching alone,
+          all Greeks and barbarians who have heard the word of Christ with sincere mind,
+          have arrived at such philosophy 
+          <pb ed="#P" n="174-r"/>
+          that they worship and follow the one true God,
+          king and lord of heaven and earth,
+          of the sun,
+          stars,
+          and the entire world,
+          as creator,
+          </quote>
+          etc. He teaches the same in other places of the same work,
+          and Clement had taught it before in book 9 to James the brother of the Lord.
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e385">
+          Again Saint Jerome in the Epitaph of Nepotian to Heliodorus says:
+          <quote>
+          The Indian,
+          the Persian,
+          the Goth,
+          the Egyptian philosophize.
+          The savagery of the Bessi and the crowd of skin-clad peoples,
+          who once in the feasts of the dead,
+          that is in the parentalia,
+          that is in the obsequies of their parents,
+          used to sacrifice men,
+          have broken their hissing into the sweet melody of the cross,
+          and Christ is the one voice of the whole world.
+          </quote>
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e414">
+          To which Saint Augustine agreed in Epistle 64 to Aurelius the Bishop:
+          <quote>
+          Therefore not harshly,
+          as far as I judge,
+          not severely,
+          not in an imperious manner are these things taken away,
+          more by teaching than by commanding,
+          more by warning than by threatening.
+          For thus must we act with the multitude of sinners.
+          </quote>
+          And below:
+          <quote>
+          Therefore they will first be warned,
+          namely to believe or to cease from such things,
+          the spiritual or those nearest to spiritual things,
+          that is those who with respect to others are more capable of reason and spiritual things,
+          such as are the nobles and principal lords,
+          that they may acquiesce and consent,
+          and thus others may be drawn more easily.
+          </quote>
+          This is the gloss of Cardinal Torquemada on the chapter commensationes, 44 distinctio,
+          which is a fragment of his epistle,
+          after which is added:
+          <quote>
+          By whose authority,
+          namely of the nobles,
+          and by the gentlest but most insistent admonitions,
+          the rest of the multitude may be broken.
+          </quote>
+          Thus Augustine.
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e461">
+          It should be noted however that Augustine 
+          <pb ed="#P" n="174-v"/>
+          there speaks of the crimes of Christians,
+          that if Christian doctrine wishes them to be removed not by severity,
+          how much more shall we use the same moderation toward those who sin through ignorance
+          and have not yet entered the Church of God?
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e480">
+          With this opinion agrees what we related above from Gregory,
+          and what the same Saint Gregory writes in c. qui Syncera 45 distinctio:
+          <quote>
+          What utility is there when,
+          even if they are forbidden against long custom,
+          nothing is profited for the conversion to faith,
+          or why do we set rules for infidels concerning how they ought to observe their ceremonies,
+          or do we entirely remove them,
+          if through this we cannot gain them?
+          Therefore it must be done that rather provoked by reason and gentleness,
+          they may wish to follow us,
+          not to flee,
+          </quote>
+          etc. Thus Gregory with few words interposed.
+          He asserts the same in c. licet immediately following.
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e511">
+          And Pope Leo in c. Licet of the same distinctio in these words:
+          <quote>
+          Let benevolence do more toward those to be corrected than severity,
+          exhortation more than threat,
+          charity more than power.
+          But by those who seek their own things and not those of Jesus Christ,
+          one easily departs from this law,
+          and while it pleases them to dominate rather than to counsel their subjects,
+          honor inflates into pride,
+          and what was provided for concord tends to harm.
+          </quote>
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e536">
+          Gregory speaks there of the crimes of priests,
+          that if he wishes them to be cured with such moderation,
+          certainly the same moderation must be used in healing the vices 
+          <pb ed="#P" n="175-r"/>
+          of infidels who have never heard evangelical truth.
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e558">
+          This sixth argument is assigned by Saint Thomas and Ulrich in his summa book 6,
+          treatise 3,
+          chapter 8,
+          § ad quod respondemus,
+          the summa of confessors book 3,
+          treatise 30,
+          question 8,
+          Cardinal Torquemada in § hinc etiam 23 q. 4 in the third conclusion.
+          These doctors cite Ulrich,
+          who was,
+          as we have already said above,
+          a man of the greatest authority from the institute of Saint Dominic,
+          as the author of the summa of confessors asserts in the first preface.
+          I will append the words of Ulrich asserting that sinners must be spared
+          if they offend through ignorance:
+          <quote>
+          The third cause is when one may probably presume concerning their correction,
+          and they sin from weakness or ignorance and not from obstinate malice.
+          </quote>
+          To these agrees what Saint Gregory responded to Augustine,
+          Archbishop of England,
+          in book 12,
+          response 7:
+          <quote>
+          But because there are many in the nation of the English who,
+          while they were still in infidelity,
+          are said to have been involved in this wicked marriage,
+          when they come to the faith they are to be admonished to abstain,
+          and to know that this is a grave sin,
+          and to fear the dreadful judgment of God,
+          lest for carnal pleasure they incur the torments of eternal torture.
+          Yet for this reason they are not to be deprived of communion of the sacred body and blood
+          of the Lord,
+          lest we seem to avenge in them those things in which they bound themselves through
+          ignorance before the bath of baptism.
+          For in this time the holy Church corrects certain things through fervor,
+          <pb ed="#P" n="175-v"/>
+          tolerates certain things through gentleness,
+          dissimulates certain things through consideration,
+          so that often by bearing and dissimulating,
+          she may restrain the evil which opposes.
+          But all who come to the faith are to be admonished that they may not be able to perpetrate
+          anything of the kind.
+          But if any have perpetrated it,
+          they are to be deprived of communion of the body and blood of the Lord.
+          Because just as in those things which they did through ignorance the fault is to be
+          tolerated in some measure,
+          so it is to be pursued strongly in those who do not fear to sin knowingly.
+          </quote>
+        </p>
+        <p xml:id="lca8s8-d1e552-d1e655">
+          Behold,
+          Gregory wishes vices committed through ignorance to be suppressed by holy admonitions,
+          the word of God,
+          and the terror of hell,
+          not by lances or cannons,
+          which differs no less from the doctrine of Christ than heaven from earth.
+          Where also blessed Gregory hints at three things:
+          first,
+          that to avenge the sins of infidels committed within the limits of their infidelity
+          and territory does not pertain to the Church;
+          second,
+          that those crimes which are committed through ignorance ought to be corrected
+          with gentleness;
+          third truly that those who recently come to the faith are to be frightened to abstain
+          from evils more by the threatening of eternal punishments than by the infliction of
+          present ones.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

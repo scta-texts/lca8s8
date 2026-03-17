@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 48 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 48 [Bnf 12926 Translation]</title>
+          <date when="2024-07-31">July 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="207-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e671">
+        <head xml:id="lca8s8-d1e671-Hd1e97">Chapter 48 [Bnf 12926 Translation]</head>
+
+        <p xml:id="lca8s8-d1e671-d1e99">
+          CHAPTER 48
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e104">
+          This truth is further corroborated: 
+          for the Church not only had temporal power in the time of Sylvester, 
+          but obtained greater strength in the time of Pope Gregory, 
+          in whose age Maurice and Phocas, 
+          pious men for some time and the greatest Caesars, 
+          possessed the Roman empire. 
+          Nevertheless,
+          Gregory never dealt with them so that they might wage war against the pagans 
+          who were not doing injury to the Church, 
+          even if Maurice was the spiritual godfather of Pope Gregory, 
+          and therefore it is probable that there was a not uncommon friendship between them. 
+          This is clear first because if Saint Gregory had incited them to such a war, 
+          the matter would have been worthy of memory and would be recounted by the writers of that time. 
+          <pb ed="#P" n="207-v"/>
+          Secondly, 
+          because Gregory, 
+          in order to lead the English people to the faith, 
+          by no means sent armed forces against them, 
+          but a certain monk Augustine and forty pious monks distinguished by Christian integrity, 
+          who before they entered the city of England, 
+          beseeched the Lord with these words: 
+          "O Lord, 
+          who created and redeemed these souls, 
+          deign to take away Your anger from them, 
+          so that with us together mercy and clemency may enter to them." 
+          Thus it is read in the life of blessed Gregory written by Paul the Deacon and in 
+          <ref xml:id="lca8s8-d1e671-Rd1e171">
+          the history of the Lombards, 
+          book 3, chapter 12</ref>.
+          And concerning this prayer and the preaching of those holy monks,
+          the venerable Bede writes at length in the history which he wrote concerning the peoples of that island. 
+          Those holy monks proceeded, 
+          and having performed many miracles which led Gregory himself into admiration, 
+          as he himself wrote to Eulogius, 
+          Bishop of Alexandria, 
+          in book [gap], 
+          letter [gap], 
+          and to Augustine himself in book 9, 
+          letter 58.
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e201">
+          Do you see that the Church, 
+          even in the time when it flourished with the greatest strength, 
+          used not material but spiritual arms in the preaching of the gospel, 
+          in no way departing from the example and instruction of its teacher? 
+          Again, 
+          in the days of that same blessed Gregory, 
+          before he was assumed to the supreme pontificate, 
+          there were popes and emperors who were most Christian men, 
+          namely Pope John III 
+          <pb ed="#P" n="208-r"/>
+          and Benedict I and Pelagius II, 
+          Roman pontiffs; 
+          nevertheless they did not induce Justin the Greater and Maurice, 
+          who were Roman caesars in their age, 
+          to overthrow idolatry by war. 
+          Then that most holy man Gregory himself, 
+          in homily 28 on the gospels, 
+          expounds those words of Christ "compel them to enter," 
+          written in the parable of the wedding feast, 
+          concerning the compulsion which is made by holy admonitions and examples of morals and Christian life 
+          and by the most efficacious force of the divine word.
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e247">
+          And lest the error of these men be confounded by the doctrine of the sacred doctors alone, 
+          let there be added to the aforementioned exposition of the saints that which the professors of canon law understood, 
+          especially Innocent in c. maiores de baptismo, 
+          who speaks with these words: 
+          "and thus no one is to be compelled to become a Christian." 
+          Nor does it stand in the way that it is said to the servant that he compels those invited to the wedding to enter 
+          Luke 14 
+          and 23 q. 4, c. displicet, 
+          because it is understood concerning compulsion made by the insistence of reason, 
+          not by the severity of the material sword or by temporal violence 45 distinctio, c. de iudaeis, 
+          because the execution of such a sword is forbidden to that servant, 
+          that is to the order of preachers or the apostles in the person of Peter by the Lord 23 q. 1 c. Item cum Petro. 
+          These are the words of Innocent.
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e287">
+          Therefore, 
+          the servant who invites to the wedding, 
+          that is, 
+          the preacher of the gospel, 
+          should not be armed with bombards like a wolf among sheep to kill and plunder, 
+          <pb ed="#P" n="208-v"/>
+          but instructed with holy morals and the word of God, 
+          he ought to announce the gospel, 
+          exposing his life to death for the extension of the gospel and the glory of Christ. 
+          For then the preaching of the gospel will be efficacious when preachers undergo death, 
+          not when they have killed others and affected them with death, 
+          according to Chrysostom on Matthew chapter 22, 
+          homily 41 in the imperfect work.
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e322">
+          The prophets and apostles, 
+          in announcing the gospel, 
+          were despoiled of life; 
+          Christ also died for us all. 
+          Nor did the fruit of preaching appear before the death of Christ and the apostles. 
+          For just as no one eats the entrails of a living animal, 
+          so no one received the words of the living prophets and apostles, 
+          but after their death. 
+          Finally, 
+          just as the entrails of the lamb, 
+          so men did not eat the words of Christ until after he was slain. 
+          For after his death, 
+          the gospels were preached and believed, 
+          and in them men are daily nourished. 
+          So also the entrails of his prophets and apostles. 
+          These are from Chrysostom.
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e355">
+          Which Christ himself, 
+          the eternal truth, 
+          wished to signify to us in 
+          <ref xml:id="lca8s8-d1e671-Rd1e362" corresp="#lca8s8-d1e671-Qd1e364">John 12</ref>: 
+          <quote xml:id="lca8s8-d1e671-Qd1e364" source="http://scta.info/resource/io12_24@5-12 http://scta.info/resource/io12_25@1-10">
+          "Unless a grain of wheat falling into the earth dies, 
+          it remains alone; 
+          but if it dies, 
+          it brings forth much fruit."</quote>
+          But he speaks there of the preaching and conversion of the gentiles, 
+          according to 
+          <ref xml:id="lca8s8-d1e671-Rd1e376">
+          Saint Thomas in the third part, 
+          question 42, 
+          article 1 in the body</ref>. 
+          And 
+          <ref xml:id="lca8s8-d1e671-Rd1e382">Saint Augustine in his tract on John</ref>, 
+          expounding those words of Christ, 
+          says: 
+          he said he was the grain to be mortified in the unbelief of the Jews 
+          <pb ed="#P" n="209-r"/>
+          and to be multiplied in the faith of all peoples. 
+          For that very death illuminated the teaching of the holy apostles 
+          and added faith to their words. 
+          Innocent also infers from these things: 
+          therefore it appears that war is not to be declared against the Saracens so that they become Christians. 
+          These are his words.
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e401">
+          Therefore, 
+          neither is war to be undertaken as a means for preparing the minds of infidels or for removing idolatry. 
+          The gospel, 
+          therefore, 
+          is propagated not by lances but by the word of God and the Christian life, 
+          but by the insistence of reason, 
+          as Innocent has stated. 
+          Which Saint Gregory also teaches in book 11, 
+          letter 15, 
+          to Pascasius, 
+          Bishop of Naples, 
+          with these words: 
+          "Therefore it must be done that rather, 
+          provoked by reason and gentleness, 
+          they may wish to follow us, 
+          not flee." 
+          These are his words. 
+          Gregory speaks there about the Jews. 
+          But if the Jews, 
+          who are servants of the Church and prepared to serve, 
+          as in 
+          <ref xml:id="lca8s8-d1e671-Rd1e440" target="http://scta.info/resource/gd-p2c23q8-d1e273">
+          c. dispar 23 q. 8</ref> 
+          and in 
+          <ref xml:id="lca8s8-d1e671-Rd1e445" target="http://scta.info/resource/cice-l5t6-d1e301">
+          c. etsi iudaeos: de iudaeis</ref>, 
+          are to be led to the faith by gentleness and doctrine, 
+          how much more must the same be taught concerning the pagans, 
+          who have been instructed by no words of God, 
+          and are not bound to depart from their own religion or princes 
+          before they see what is better.
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e443">
+          Therefore, 
+          to announce the gospel with armed forces is utterly alien to the doctrine of Christ, 
+          whose whole life and doctrine breathes gentleness and charity. 
+          The Lord sent his own to preach the gospel instructed with most pious words: 
+          <pb ed="#P" n="209-v"/>
+          <quote xml:id="lca8s8-d1e671-Qd1e476" source="http://scta.info/resource/mt10_12@1-6">
+          "Entering a house,
+          he says, 
+          "salute it,"</quote> 
+          and say first, 
+          peace to this house. 
+          <quote xml:id="lca8s8-d1e671-Qd1e483" source="http://scta.info/resource/mt10_16@1-6">
+          "Behold, 
+          I send you as sheep"</quote>; 
+          <quote xml:id="lca8s8-d1e671-Qd1e488" source="http://scta.info/resource/io10_10@11-18">
+          "I came that they might have life and have it more abundantly"</quote>; 
+          <quote xml:id="lca8s8-d1e671-Qd1e496" source="http://scta.info/resource/mt11_29@7-15">
+          "Learn from me, 
+          for I am gentle and humble in heart"</quote>. 
+          But armed forces are suitable to Mohammed the false prophet, 
+          who said that he was in the terror of the sword, 
+          as has been stated above. 
+          The Indians, 
+          since they have a probable reason for following the institutions of their ancestors, 
+          approved for so many centuries, 
+          supported by the authority of so many princes, 
+          priests, 
+          and learned men among them, 
+          are not bound to depart from it at the exhortation of robbers, 
+          surpassing all Turks and plunderers in savagery and ferocity. 
+          For who would believe that such tyrants are messengers of the true God? 
+          Who by their depraved morals defame the gospel and undermine the cause of Christ. 
+          Those things please human minds and are inserted into hearts as consonant with reason 
+          which are taught by good and trustworthy men. 
+          Who, 
+          if they have done sensible works conformable to reason—
+          for instance, 
+          if they have shown charity, 
+          if gentleness, 
+          if modesty—
+          will please all, 
+          and faith will be given to their words.
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e525">
+          Which 
+          <ref xml:id="lca8s8-d1e671-Rd1e529">
+          Scotus wisely confirms in the fourth book of the Sentences, 
+          distinction 3, 
+          question 4</ref>, 
+          saying: 
+          <quote xml:id="lca8s8-d1e671-Qd1e562">
+          "that no one is bound to any positive precept, 
+          even divine, 
+          unless it be promulgated to him by someone suitable and authentic, 
+          <pb ed="#P" n="210-r"/>
+          or by a truthful form and testimony of good men to whom anyone ought reasonably to believe,"</quote> 
+          etc. 
+          These are his words. 
+          Concerning which matter 
+          <ref xml:id="lca8s8-d1e671-Rd1e547" target="http://scta.info/resource/TAcCaj-d1e1277-d1e1688">
+          <name xml:id="lca8s8-d1e671-Nd1e548">Cajetan</name> 
+          also learnedly discourses in 2 2ae, 
+          question 1, 
+          article 4, 
+          in the response to the second objection</ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e556">
+          But what faith will be given to the Spaniards, 
+          rapacious, 
+          savage, 
+          and ferocious men, 
+          who slaughter the unarmed and harmless peoples of the Indians and plunder them with unheard-of avarice? 
+          Hence it follows that the Indians, 
+          seeing their impious works, 
+          do not sin nor are they worthy of punishment if they do not receive the gospel; 
+          nor would any people be culpable for not having received the faith of Christ, 
+          if the apostles, 
+          per impossibile, 
+          had been endowed with the morals with which the Spaniards are endowed. 
+          Concerning this we have the word of the Lord in 
+          <ref xml:id="lca8s8-d1e671-Rd1e631">John 15</ref>: 
+          <quote xml:id="lca8s8-d1e671-Qd1e633">
+          "If I had not done among them the works which no one else did, 
+          they would not have sin."</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e671-d1e605">
+          From what has been so extensively deduced, 
+          therefore, 
+          it clearly appears what or what kind is the literal sense which Christ understood in the aforementioned parable 
+          "Compel them to enter": 
+          namely, 
+          that the compulsion which must be understood there concerning unbelievers who have never heard the faith 
+          is that which is done by the insistence and human persuasion of reason, 
+          or by spiritual and interior means through the ministry of angels. 
+          And consequently it is false and impious to assert that Christ bound us by precept through that parable 
+          <pb ed="#P" n="210-v"/>
+          that war against peaceful infidels should precede the preaching of the gospel 
+          when the Church had great strength, 
+          as the distinguished doctor Sepulveda has not blushed to put forth in a new doctrine.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

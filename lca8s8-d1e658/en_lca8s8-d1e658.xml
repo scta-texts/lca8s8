@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 47 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 47 [Bnf 12926 Transcription]</title>
+          <date when="2024-08-09">August 09, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+          </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+      url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="204-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e658">
+        <head xml:id="lca8s8-d1e658-Hd1e97">Chapter 47 [Bnf 12926 Transcription]</head>
+        
+        <p xml:id="lca8s8-d1e658-d1e100">
+          CHAPTER 47
+        </p>
+        
+        <p xml:id="lca8s8-d1e658-d1e99">
+          <pc type="pilcrow"/> Again,
+          that Sylvester,
+          a holy man,
+          did not persuade Constantine to bring pagans to Christ by war.
+          It was proved seventhly because preparing kingdoms by war is for tyrants and robbers,
+          not for Christians:
+          indeed not even for prudent men.
+          For nothing violent is lasting:
+          and to subjugate a kingdom by force is tyrannical,
+          hateful and abominable,
+          according to the Philosopher in the third book of the Politics and the eighth of the Ethics.
+          A kingdom truly acquired by duties,
+          gentleness,
+          virtue and persuasion,
+          not violently,
+          is lovable and most pleasing to all peoples,
+          and enduring for many ages:
+          according to that saying of Cicero in the Philippics:
+          "There is no greater safeguard," he says,
+          "of armed men than the love and goodwill of citizens:
+          with which a ruler ought to be fortified,
+          not with arms" —
+          these are his words.
+          Of the same opinion was Gaius Sallustius.
+        </p>
+        
+        <p xml:id="lca8s8-d1e658-d1e142">
+          And of this kind is the kingdom of Christ according to that saying of the prophet Zechariah,
+          chapter 9,
+          and Matthew 22:
+          "Behold your king comes to you meek."
+          And that of Isaiah chapter 42:
+          "He will not cry out nor show partiality nor will his voice be heard outside:
+          the crushed reed" (which Jerome interprets as the Jews) "he will not break:
+          and the smoking flax" (that is the pagans) "he will not extinguish."
+          These words the evangelists interpret concerning the apprehension and possession of the 
+          kingdom of Christ:
+          as appears in Matthew 12.
+          And from Isaiah chapter 2:
+          "It will be in the last days," he says,
+          "the mountain prepared,
+          that is Christ;
+          (a mountain I say) of the house of the Lord,
+          that is the Catholic Church,
+          and all nations will flow to him:
+          and many peoples will go and will say: 
+          <quote xml:id="lca8s8-d1e658-Qd1e183">'Come,
+          let us ascend to the mountain of the Lord and to the house of the God of Jacob:
+          and he will teach us his ways and we will walk in his paths.'
+          </quote>
+          This is that mountain which grew from a stone cut from a mountain and which destroyed 
+          the statue (that is) all empires,
+          and grew until becoming a great mountain it occupied the world,
+          according to the words of Daniel chapter 2.
+          Note those words of Isaiah:
+          "And all nations will flow to him and many peoples will go:
+          and they will say 
+          <quote xml:id="lca8s8-d1e658-Qd1e207">'Come'
+          </quote>,
+          etc.
+          These words exclude all force,
+          all terror,
+          and signify a spontaneous willingness to come to the sheepfold of Christ:
+          thus our wars which we excuse under the pretext of overthrowing idolatry:
+          Isaiah condemns a little below with these words:
+          "They will beat their swords into plowshares:
+          and their spears into pruning hooks:
+          nation will not lift up sword against nation nor will they train any more for war," etc.
+          These signify:
+          that the Christian people will not bring anyone to the faith by swords or spears or 
+          inflicted war:
+          which the gloss teaches upon these same words.
+          But Christ being born,
+          who is our peace,
+          who made both one,
+          in whose nativity the angels sang "Glory to God in the highest,
+          and peace to men of good will":
+          all wars ceased,
+          etc. —
+          this is the gloss.
+          And in this discourse the gloss interprets that covenant:
+          which Judas Maccabeus made with the Romans:
+          the 
+          <ref xml:id="lca8s8-d1e658-Rd1e258">gloss on 1 Maccabees chapter 8</ref>
+          says thus:
+          <quote xml:id="lca8s8-d1e658-Qd1e262" source="http://scta.info/resource/gom-Imac8-d1e89@4-31">
+          "What is this that Judas,
+          who sends legates to the Romans to establish friendship and alliance with them:
+          signifies our redeemer offering the gospel of peace to the gentiles through his preachers 
+          and calling them to his faith."
+          </quote>
+          And below: 
+          <quote xml:id="lca8s8-d1e658-Qd1e279" source="http://scta.info/resource/gom-Imac8-d1e89@156-185">
+          "And what is it that Judas sent two legates for the sake of making peace to the Romans:
+          except that our redeemer,
+          for calling the gentiles to faith and fellowship of peace,
+          sent two testaments into the world,"
+          </quote>
+          and again the 
+          <ref xml:id="lca8s8-d1e658-Rd1e293">gloss explaining chapter 12</ref>,
+          where it is narrated that Jonathan,
+          brother of Judas Maccabeus,
+          after his brother's death renewed the covenant he had made with the Romans,
+          the gloss says:
+          <quote xml:id="lca8s8-d1e658-Qd1e301" source="http://scta.info/resource/gom-Imac12-d1e89@4-132">
+          "That Jonathan sends legates to the Romans and to the Spartans and to other places:
+          so that he may renew the peace with them which his brother Judas first entered into 
+          willingly with them:
+          demonstrates that great solicitude should be for holy preachers:
+          that the peace which Christ offered in the world,
+          Christians should strive with all zeal to renew and preserve everywhere:
+          because the very Son of God,
+          who came to earth to pacify in his flesh things heavenly and earthly:
+          immediately at the rising of his nativity wished to be sung by angels 
+          'Glory to God in the highest and on earth peace to men of good will.'
+          This peace indeed the mediator of God and men,
+          now made man,
+          commended to his disciples saying: 
+          <quote xml:id="lca8s8-d1e658-Qd1e338" source="http://scta.info/resource/io14_27@1-7">
+          'Have peace among yourselves,
+          peace I command you,
+          my peace I leave you.'
+          </quote>
+          Also by peace and concord the entire body of Christ is united:
+          ruled and established"
+          </quote>
+          etc. —
+          this is the ordinary gloss.
+        </p>
+        
+        <p xml:id="lca8s8-d1e658-d1e352">
+          Note that word "is united" which signifies to join together diverse and most remote peoples,
+          infected with diverse rites and errors:
+          to be inserted into the body of Christ (namely) the Church by peace.
+        </p>
+        
+        <p xml:id="lca8s8-d1e658-d1e365">
+          Which is also proved by reason:
+          since the kingdom of Christ is spiritual.
+          For Christ reigns in the souls of the faithful endowed with charity,
+          faith and hope,
+          according to Jerome on the last chapter of Matthew.
+          But these three virtues are virtues of the soul in which God reigns,
+          according to that saying in Luke chapter 17:
+          "The kingdom of God is within you."
+          But the human soul cannot be coerced,
+          as was shown before.
+          Therefore,
+          so that Christ may truly reign in the souls of pagans,
+          they are not to be forced to the faith by war:
+          but by duties,
+          blandishments and Christian charity they are to be attracted and led to the sheepfold 
+          of Christ.
+          To bring to the faith by slaughters and terrors is Mohammedan.
+          For Mohammed said he was sent in the terror of the sword and the force of arms,
+          according to 
+          <ref xml:id="lca8s8-d1e658-Rd1e404">
+          Vincent in the Mirror of History,
+          book 23,
+          chapter 49
+          </ref>.
+          <ref xml:id="lca8s8-d1e658-Rd1e409">
+          Saint Thomas in book 1 Against the Gentiles chapter 6
+          </ref>.
+          And Vincent in chapter 42 of that work says:
+          "Consider if such expeditions should pertain to the prophet of God:
+          in which nothing else was done except fraud and violence and effusion of human blood,
+          and whatever utterly robbers and ambushers of roads do."
+          And in the following chapter 45:
+          "Whose operation or meditation," he says,
+          "was nothing else than to kill men:
+          to seize others' property,
+          to perpetrate incests and adulteries," etc. —
+          these are Vincent's words.
+          What then,
+          Sepúlveda,
+          do you wish that the law of Christ be propagated not by Christian but by Mohammedan 
+          reasoning?
+          Do you wish the name of Christ adorable to angels to be blasphemed by pagans?
+          Do you wish the ocean of all evils (namely) war to be thrust upon pagans in place of 
+          the gentleness of Christ which we ought to teach?
+          What have the proclaimers of the gospel to do with armed robbers mixing all things 
+          with flames and sword?
+          What does the institution of Christ have in common with these mad ravings of men?
+          Indeed I think Sepúlveda wrote that little book hastily and without sufficiently 
+          weighing the matters and circumstances:
+          and if there are any —
+          I know not whether more impious or foolish —
+          who follow his authority,
+          let them fear God the avenger of perverse machinations:
+          and let them hear Christ and the sacred doctors of the Church,
+          not Sepúlveda:
+          who will readily yield to Christ,
+          Ambrose,
+          Augustine and Chrysostom.
+          Sepúlveda says he does not wish the Indians to be baptized unwillingly nor forced to 
+          the faith.
+          What greater compulsion can there be than that which is done by an armed phalanx 
+          discharging muskets and bombards,
+          which even by horrific thunder,
+          even if nothing else were added,
+          can dismay anyone,
+          however strong,
+          especially one unaccustomed and ignorant of the art.
+          If vessels tremble from bombards,
+          earth quakes,
+          heaven is hidden by blind darkness,
+          old men are killed,
+          youths,
+          women,
+          houses are plundered and all things resound with the fury of war:
+          shall we not truly say these are forced to the faith?
+          Is this not a just fear?
+          What will the Indians refuse when affected in these ways?
+          Or what freedom of mind is left here for receiving the faith of Christ from the heart 
+          so that they may persevere?
+        </p>
+        
+        <p xml:id="lca8s8-d1e658-d1e537">
+          I wish the reader to consider:
+          what will the Indians think of our religion which these most impious tyrants boast to 
+          teach,
+          with the Indians to be subjugated by slaughters and force of war before the gospel is 
+          preached to them?
+          When I speak of force of war,
+          I speak of the sum of all evils.
+          Then what does it profit to break idols if the Indians,
+          treated in these ways,
+          keep them,
+          secretly adore them in their hearts?
+          Hear what Saint Augustine says about those who violently break idols,
+          in the sermon On the Words of the Lord,
+          sermon 6 on the centurion's boy:
+          "Many pagans have these abominations on their estates:
+          do we approach and break them?"
+        </p>
+        
+        <p xml:id="lca8s8-d1e658-d1e572">
+          "For first we act so that we may break the idols from their hearts."
+          And a little later,
+          speaking about those who violently break idols,
+          he says:
+          "It is characteristic of wicked men,
+          furious circumcellions," etc.
+          Which passage of Augustine we left explained more fully above in chapter 7.
+        </p>
+        
+        <p xml:id="lca8s8-d1e658-d1e588">
+          With these agrees what is said about receiving the faith:
+          that all direct or indirect force should be absent,
+          as is prohibited in c. maiores de baptismo,
+          and 
+          <ref xml:id="lca8s8-d1e658-Rd1e596">45 distinctio c. qui sincera</ref>
+          and 
+          <ref xml:id="lca8s8-d1e658-Rd1e599">c. de iudaeis</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e658-Rd1e602">23, q. 5, c. ad fidem</ref>
+          and the doctors teach there and elsewhere.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

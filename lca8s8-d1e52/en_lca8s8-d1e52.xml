@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 1 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 1 [Bnf 12926 Translation]</title>
+          <date when="2024-07-09">July 9, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="11-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e52">
+        <head xml:id="lca8s8-d1e52-Hd1e97">Chapter 1 [Bnf 12926 Translation]</head>
+        <p xml:id="lca8s8-d1e52-d1e99">
+          Apology against the persecutors and slanderers of the peoples of the new world
+          discovered in the ocean:
+          of the most reverend lord Sir Brother Bartholomew de las Casas,
+          former bishop of Chiapas,
+          of the sacred order of preachers.
+        </p>
+        <p xml:id="lca8s8-d1e52-d1e115">
+          Chapter One
+        </p>
+        <p xml:id="lca8s8-d1e52-d1e120">
+          Whoever teaches either by voice or in writings that the inhabitants of the new world,
+          whom we commonly call Indians,
+          ought to be subdued and conquered by war before the gospel is announced and preached to them:
+          so that after they have been thoroughly conquered they may be instructed
+          and hear the word of God:
+          they err grievously concerning two things.
+          <pb ed="#P" n="11-v"/>
+          First concerning divine and human law,
+          misusing divine words:
+          doing violence to the scriptures,
+          and to the decrees of the pontiff:
+          and to the traditions of the holy fathers:
+          and again they err when they adduce histories,
+          which are nothing other than mere fables:
+          and most shameless trifles:
+          by which the most hostile enemies of the miserable Indian people,
+          most falsely slander them.
+          Moreover they err concerning the meaning of the decree or bull of Pope Alexander VI,
+          whose words they corrupt and distort,
+          in support of their opinion,
+          as will be clear through what follows.
+          Again their error and ignorance is proven most clearly:
+          because they make judgments about things pertaining to an infinite multitude of mortals
+          and the vast expanses of the widest provinces:
+          all of which since they do not fully know:
+          it is the height of shamelessness and rashness to pronounce most serious defects about them:
+          both natural:
+          and concerning morals:
+          condemning in general so many myriads of men:
+          when in reality the great majority of them are free from such things.
+          All of which things drag countless souls to destruction
+          and impede the benefit of spreading the Christian religion:
+          blocking the eyes of those who,
+          raging with blind ambition,
+          concentrate all the strength of body and mind on this one thing:
+          that they may obtain wealth:
+          empire:
+          honors and dignities:
+          and for this purpose they kill
+          and tear apart with monstrous savagery
+          <pb ed="#P" n="12-r"/>
+          the most innocent,
+          most gentle,
+          harmless,
+          modest peoples,
+          most prepared and most ready to receive and embrace the word of God.
+        </p>
+        <p xml:id="lca8s8-d1e52-d1e209">
+          Who,
+          I will not now say more learned in theology,
+          but who is of sound mind:
+          who would dare to put forth a 
+          <ref xml:id="lca8s8-d1e52-Rd1e218">judgment and opinion</ref>
+          so poorly Christian:
+          from which so many savage wars:
+          so many slaughters:
+          so many bereavements:
+          so many pitiable evils are produced?
+          Do we not have the word of Christ:
+          <quote xml:id="lca8s8-d1e52-Qd1e227" source="http://scta.info/resource/mt18_10@1-7">
+            See that you do not despise one of these little ones!
+          </quote>
+          And
+          <quote xml:id="lca8s8-d1e52-Qd1e232" source="http://scta.info/resource/mt18_7@12-17">
+            woe to him through whom scandal comes?
+          </quote>
+          And
+          <quote xml:id="lca8s8-d1e52-Qd1e237" source="http://scta.info/resource/mt12_30@1-13">
+            he who is not with me is against me
+          </quote>:
+          and
+          <quote xml:id="lca8s8-d1e52-Qd1e242" source="http://scta.info/resource/lc11_23@9-13">
+            he who does not gather with me scatters.
+          </quote>
+          And elsewhere:
+          <quote xml:id="lca8s8-d1e52-Qd1e248" source="http://scta.info/resource/mt6_34@14-17">
+            Sufficient for the day is its own evil
+          </quote>.
+          Who is so impious as to wish to incite savage,
+          ambitious,
+          proud,
+          greedy,
+          unbridled and always idle men to plunder their brothers:
+          and to destroy their souls together with their goods:
+          when lawful war is never permitted:
+          except when waged by unavoidable necessity?
+          Who therefore of sound mind will approve war against innocent,
+          ignorant,
+          gentle,
+          modest,
+          unarmed men,
+          destitute of all human protection:
+          when from such war arises the most certain destruction of the souls of that people,
+          which
+          <quote xml:id="lca8s8-d1e52-Qd1e274">
+            perishes without knowledge of God,
+            without the strength of the sacraments
+          </quote>,
+          and the Christian religion is rendered hateful and abominable to those who survive:
+          whence the end which God intends and for the attainment of which he suffered so many 
+          and so great things is frustrated:
+          by the impieties and atrocity which our people exercise against them with monstrous savagery?
+          What opinion will that people conceive of Christ,
+          the true God of Christians,
+          <pb ed="#P" n="12-v"/>
+          when they see Christians rage against them without any just cause at least known to them:
+          nor indeed imaginable:
+          and without any fault committed by them against the Christians:
+          with so many slaughters,
+          with so much bloodshed?
+          What good can arise from these military expeditions:
+          which before God who measures all things with ineffable charity
+          is equal to so many evils,
+          so many injuries,
+          so many unprecedented calamities?
+          Again,
+          how will that people love,
+          how will they contract friendship with our people?
+          (Which is necessary,
+          that they may receive our faith).
+          When sons see themselves deprived of parents,
+          wives of husbands,
+          fathers of children and friends?
+          Also when they see those whom they love wounded,
+          captured,
+          despoiled and reduced from an innumerable multitude to a few?
+          When they see princes despoiled of their dominion,
+          oppressed,
+          and afflicted with miserable servitude?
+          All of which things necessarily follow from war.
+          Who is there who would wish the Gospel to be preached to himself in this way?
+          Does not that negative precept apply generally to all men:
+          <quote xml:id="lca8s8-d1e52-Qd1e344">
+            what you do not wish done to you by another
+          </quote>,
+          see that you do not do it to another?
+          And again that affirmative precept
+          <quote xml:id="lca8s8-d1e52-Qd1e354" source="http://scta.info/resource/mt7_12@1-12">
+            all things whatsoever you wish that men should do to you,
+            do you also to them.
+          </quote>
+          This any man knows,
+          perceives,
+          understands by the natural light impressed on our minds.
+          From which it clearly appears that those who teach that those most gentle sheep
+          must first be tamed by savage war by rapacious wolves before being fed by the word of God:
+          err concerning things most manifest and oppose the natural law.
+          <pb ed="#P" n="13-r"/>
+          They also err impiously when they say these wars are just if they are waged as they ought
+          to be waged;
+          they think,
+          I suppose,
+          if they are waged moderately,
+          killing only those whom it is necessary to kill so that the rest may be subdued.
+          As if they held all the peoples of the new world enclosed in cages or prisons
+          and wanted to slaughter them:
+          as many heads of men as are usually sold in markets each day for the food and sustenance 
+          of the people (to make this comparison).
+          But if they would consider war and the slaughter of a frightened people:
+          not for one or a hundred days:
+          but lasting for ten or twenty years:
+          with incredible loss of the inhabitants:
+          while they wander and are hidden through groves and forests,
+          scattered,
+          unarmed,
+          naked,
+          and destitute of all human protection,
+          they are slaughtered by the Spaniards,
+          stripped of their fortunes,
+          miserable,
+          exiles,
+          astonished:
+          and terrified with incredible fear:
+          with which the tyrants have frightened them by committing monstrous crimes.
+          If those who speak such things would consider the breasts of the miserable people struck 
+          with such great fear:
+          that they would wish to throw themselves headlong into the deepest caverns of the earth;
+          to escape the hands of these robbers:
+          I do not doubt that they would speak more soberly and more wisely.
+        </p>
+        <p xml:id="lca8s8-d1e52-d1e430">
+          Coming therefore to the matter,
+          this apology will contain two most principal things.
+          First I will teach that the Reverend Doctor Sepulveda with his followers errs in law 
+          in all things which he brings forth against the Indians:
+          <pb ed="#P" n="13-v"/>
+          and at the same time I will subjoin a response to all his arguments and to the authorities
+          which he violently distorts.
+          Second,
+          I will teach how greatly they err in fact,
+          with loss of their own souls.
+          For the creator of every creature has not so despised these peoples of the new world;
+          that he wished them to lack reason and made them like brute animals:
+          so that they ought to be called barbarians,
+          savage,
+          wild and brutish:
+          as these men think or pretend,
+          but rather they are of such gentleness and modesty:
+          that above all other peoples of the whole world they are most fit and most ready to abandon 
+          the worship of idols and to receive province by province and people by people the word of God
+          and the announcement of truth.
+        </p>
+        <p xml:id="lca8s8-d1e52-d1e478">
+          <add place="lm" hand="E">
+            Response to the first argument or cause of Doctor Sepulveda
+          </add>
+          As to the first point,
+          concerning which elsewhere we have discoursed more extensively and generally against all 
+          who are infected with errors of this kind concerning the matter of unbelievers:
+          but for the present,
+          for some slight refutation of Sepulveda's first justification of his war:
+          it should be known that according to
+          <ref xml:id="lca8s8-d1e52-Rd1e496">
+            <name xml:id="lca8s8-d1e52-Nd1e497">the Philosopher</name>
+            in the 1st and 3rd books of the <title>Politics</title>
+          </ref>
+          and
+          <ref xml:id="lca8s8-d1e52-Rd1e503">the 7th of the <title>Ethics</title>
+          </ref>
+          and
+          <ref xml:id="lca8s8-d1e52-Rd1e507">according to <name xml:id="lca8s8-d1e52-Nd1e509">Saint Thomas</name>
+          </ref>
+          and other doctors in various places:
+          there are four species of barbarians.
+          <add place="lm" hand="F">
+            First species of barbarians when they are inhuman and savage and horrible
+          </add>
+          First,
+          a barbarian,
+          the word being taken improperly and broadly:
+          signifies any savage,
+          inhuman,
+          wild,
+          fierce man,
+          abhorrent to human reason either by anger or by nature:
+          so that,
+          having cast aside human modesty,
+          gentleness and moderation:
+          <pb ed="#P" n="14-r"/>
+          he becomes hard,
+          rough,
+          quarrelsome,
+          intolerable,
+          savage,
+          and gives himself headlong to crimes:
+          which only wild beasts dwelling in the forests would perpetrate.
+          Speaking of this kind of barbarians,
+          <ref xml:id="lca8s8-d1e52-Rd1e542">
+            <name xml:id="lca8s8-d1e52-Nd1e543">the philosopher</name>
+            in book 1, chapter 2 of the <title>Politics</title>
+          </ref>
+          says:
+          that just as man following right reason and the best institutions excels all animals:
+          so if he deviates from right reason of judgment and from laws,
+          he is the most impious,
+          worst and most inhuman of all animals:
+          <ref xml:id="lca8s8-d1e52-Rd1e560">
+            <name xml:id="lca8s8-d1e52-Nd1e561">Boethius</name>
+            also speaks of these in book 1, prose 4 of the <title>Consolation</title> where
+          </ref>
+          he calls the courtiers of the tyrant king Theodoric barbarians because of their savage
+          and insatiable greed.
+          <quote xml:id="lca8s8-d1e52-Qd1e571">
+            How often (he says) I protected with interposed danger of my authority the wretches whom
+            the unpunished greed of the barbarians vexed with infinite false accusations
+          </quote>.
+          Again also in
+          <ref xml:id="lca8s8-d1e52-Rd1e581">the second book of Maccabees, chapter 15</ref>
+          mention is made of barbarians of this kind:
+          for when
+          <name xml:id="lca8s8-d1e52-Nd1e585">Nicanor</name>
+          the savage and fierce tyrant wished to join battle with
+          <name xml:id="lca8s8-d1e52-Nd1e592">Judas Maccabeus</name>
+          at Jamaria on the Sabbath day:
+          certain Jews who were with him said to him:
+          do not do this so fiercely and barbarously,
+          that is savagely and inhumanly,
+          and in this sense both Greeks and Latins and whoever can be called most civilized in their
+          way of life are called barbarians:
+          if they approach the Scythians in savagery of morals:
+          whose province was particularly called barbarous,
+          according to
+          <ref xml:id="lca8s8-d1e52-Rd1e610">
+            <name xml:id="lca8s8-d1e52-Nd1e611">Isidore</name>
+            <title>Etymologies</title> Book 14, chapter 4
+          </ref>.
+          because of the savage and inhuman morals of the people,
+          and from the number of these our Spaniards are truly not foreign:
+          indeed from the most monstrous works which they have exercised against those nations:
+          they have surpassed all barbarians.
+          To this kind of barbarians belongs he who,
+          stirred up by anger or hatred or some other vehement passion,
+          defends something seditiously:
+          <pb ed="#P" n="14-v"/>
+          forgetful of reason and decorum.
+          Of these speaks
+          <ref xml:id="lca8s8-d1e52-Rd1e636">
+            <name xml:id="lca8s8-d1e52-Nd1e637">Gregory</name>
+            <title>Epistles</title> Book 2, chapter 69
+          </ref>.
+          and
+          <ref xml:id="lca8s8-d1e52-Rd1e642">
+            <name xml:id="lca8s8-d1e52-Nd1e643">Gratian</name> c. Quanto apostolice. dist. 63
+          </ref>.
+          where speaking of a sedition that arose among the Milanese concerning the election of a 
+          certain bishop he says:
+          <quote xml:id="lca8s8-d1e52-Qd1e654">
+            many of the Milanese,
+            forced by barbaric ferocity,
+            persist
+          </quote>,
+          etc.
+          <ref xml:id="lca8s8-d1e52-Rd1e661">
+            <name xml:id="lca8s8-d1e52-Nd1e662">The Philosopher</name>
+            in the 7th book of the <title>Ethics</title>, chapter 1
+          </ref>
+          calls barbarians of this kind beasts with these words:
+          <quote xml:id="lca8s8-d1e52-Qd1e669">
+            but bestiality is especially among the barbarians and because of illness and bereavements:
+            thus we defame them above others (that is) saying or asserting that they are bestial 
+            and barbarous
+          </quote>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

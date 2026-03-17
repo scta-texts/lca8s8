@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Summary of Sepulveda [English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Summary of Sepulveda [English Translation]</title>
+          <date when="2025-05-21">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="3-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e10">
+        <head xml:id="lca8s8-d1e10-Hd1e97">Summary of Sepulveda</head>
+
+        <p xml:id="lca8s8-d1e10-d1e99">
+          <pc type="pilcrow"/> Summary of Sepulveda
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e105">
+          <pc type="pilcrow"/> The work which Sepulveda,
+          royal theologian and historiographer,
+          composed against the Indians contained in summary these arguments:
+          by which he defends that military expeditions against the Indians are just:
+          provided that war is waged legitimately and properly,
+          just as the kings of Spain have hitherto ordered to be waged.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e122">
+          First he brings forward that those barbarian peoples are unlearned in letters and government,
+          utterly inexperienced,
+          brutish and completely unteachable except in mechanical arts:
+          <pb ed="#P" n="3-v"/>
+          overwhelmed by vices,
+          cruel,
+          and of such nature that nature teaches them to be governed by the judgment of others.
+          Just as at various times many trustworthy men,
+          having sworn an oath,
+          asserted who lived with them and were intimately acquainted with them.
+          And just as also appears from book 3,
+          chapter 6,
+          of the general history of the Indies,
+          examined and approved by the supreme council of the Indies.
+          Moreover,
+          peoples of this sort are bound by natural law for their own benefit to obey the rule of the more prudent,
+          and those who excel in virtue and better institutions,
+          such as are the Spanish:
+          especially nobles,
+          the learned,
+          ecclesiastics,
+          and religious,
+          and finally all the well-educated and well-instructed:
+          whose persons must be considered when judgment is to be made about the customs and nature of any people.
+          For in these especially shine forth the genius,
+          integrity,
+          institutions and best customs of any people.
+          And to these,
+          both in Spain and among the Indians,
+          is committed the governance of spiritual and temporal matters:
+          not however to soldiers who for the most part are wicked,
+          and exercise military license through many committed injuries.
+          From this it is inferred that they are bound by the law of nature to obey these who excel in virtue and genius.
+          No otherwise than matter yields to form,
+          body to soul,
+          sense to reason:
+          brute animals to humans,
+          women to men,
+          children to those of mature age:
+          and finally the imperfect to the more perfect,
+          the worst to the better,
+          the more base to the more precious and of greater virtue,
+          so that it may be well with both.
+          For this is the order of nature which the eternal and divine law commands to be observed,
+          according to the authority of divine Augustine in book 2 of On Free Will.
+          <pb ed="#P" n="4-r"/>
+          And so if the Indians,
+          having been warned,
+          refuse to obey this legitimate rule,
+          they can be compelled for their own benefit with the terror of war brought against them:
+          moreover this war will be just both by civil law and by the law of nature,
+          on the authority of Aristotle in Politics,
+          chapters 1,
+          3,
+          and 5,
+          <ref>
+            quem tam philosophi quam etiam magni theologi sequuntur tanquam magistrum,
+            tum iustitiae tum etiam caeterarum virtutum moralium sagacissimumque tan naturae quam etiam naturalium legum interpretem.
+          </ref>
+          The opinion of Aristotle is approved by the wise man in the sacred Proverbs,
+          chapter 11,
+          <ref>
+            docens stultum debere obedire sapienti.
+          </ref>
+          Likewise also Saint Thomas teaches in the treatise On the Government of Princes.
+          Thomas however holds the first place among scholastic theologians,
+          and always in the explanation of natural laws follows the doctrines of Aristotle.
+          Finally all philosophers who handed down political precepts,
+          relying on this one argument,
+          teach that both in cities and in kingdoms and the commonwealth,
+          those excelling in prudence and virtue should be placed over governance with authority,
+          so that the government may be just by the law of nature.
+          And thus we see throughout the whole world that the best kings and rightly instituted republics select the more prudent and better men for the administration of the commonwealth.
+          Moreover this universal custom is considered the law of nature:
+          but all laws of nature are divine,
+          flowing from the eternal law.
+          Just as divine Augustine considers it to be the will of God willing that the natural order be preserved and prohibiting it to be overturned.
+          Whence the same Augustine says in many
+          <pb ed="#P" n="4-v"/>
+          places that if anyone is unwilling to do those things which are beneficial to him,
+          and is bound to do them for his own benefit:
+          he can justly be compelled to do it even unwillingly and resisting.
+          With these agrees what the same Augustine teaches in various places of the book On the City of God,
+          which divine Thomas cites approving the same opinion in the book On the Government of Princes (namely) that the Romans justly subjugated the other nations of the world.
+          For God willed to grant the greater portion of the world into their dominion,
+          so that they might be more rightly governed under a prudent people cultivating justice.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e351">
+          But if these barbarians (namely) the Indians lack not capacity,
+          by so much more are they bound to obey and listen to the rule of those who can teach them to live in the manner of humans,
+          and to do those things which are useful both to present and to future life.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e366">
+          <pc type="pilcrow"/> Second,
+          Sepulveda proves that the Indians ought to take up the Spanish yoke even unwillingly,
+          so that they may be corrected from the sins and crimes with which they are contaminated,
+          which are contrary to divine and natural law,
+          and may receive punishment,
+          especially for idolatry and the impious custom of sacrificing humans.
+          For indeed because of these two sins it is proven from various places of sacred scripture that the Amorites and Perizzites and the other inhabitants of the promised land were destroyed by the sons of Israel,
+          and likewise the Hebrews themselves were punished for the same sin,
+          a great multitude of their race having been consumed:
+          and their peoples having been drawn into slavery and exiled from their own land and country.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e400">
+          From which it appears
+          <pb ed="#P" n="5-r"/>
+          that the law by which both these and those were condemned was natural and divine:
+          and consequently to be observed at all times.
+          Which Cyprian,
+          most learned bishop and most holy martyr,
+          teaches,
+          and thus among all doctors this is the more frequent opinion:
+          that pagans not observing the law of nature can be punished by Christians.
+          Moreover those are considered not to observe the law of nature among whom certain mortal sins are not punished or are not judged to be sins which are against the law of nature.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e433">
+          And thus what Cajetan wrote,
+          that no people can be attacked by war on account of infidelity:
+          must be understood when they are only infidels:
+          otherwise if they commit sins about which we spoke above,
+          accompanying infidelity.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e451">
+          <pc type="pilcrow"/> The third argument of Sepulveda is to avoid the injuries and greatest evils which these inflicted and inflict today (who have not yet been subdued) on a great multitude of innocent people:
+          whom they sacrificed yearly to the demon:
+          from which injuries all men who have the power are bound by natural and divine law to defend any and all men,
+          since all men are neighbors and brothers to one another according to the teachings of the theologians.
+          Moreover that they are bound to guard their neighbor from danger if it be permitted:
+          is proven from those words of the wise man:
+          <quote>
+            Erue eos qui ducuntur ad mortem
+          </quote>
+          And again from that place,
+          <quote>
+            mandauit deus unicuique de proximo suo.
+          </quote>
+          But this evil cannot be avoided unless these barbarians are thoroughly conquered and subdued.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e491">
+          <pc type="pilcrow"/> Fourth he brings forward the favor of extending and increasing
+          <pb ed="#P" n="5-v"/>
+          the Christian religion.
+          For this will be accomplished if,
+          their regions having been thoroughly conquered,
+          the gospel of Christ can be preached safely and without any danger by sacred men:
+          so that they cannot be killed by their princes or priests,
+          which they have already done three or four times.
+          This he confirms on the authority of Augustine in the Letter to Donatus:
+          where he writes that Christ wished men to be invited to faith by gentleness and mildness in the beginnings of the nascent church.
+          But after the church received strength and increase:
+          Christ wished men to be compelled even unwillingly to receive the Christian religion.
+          Which he shows in the parable of the banquet where the first were invited:
+          but the rest were compelled and coerced:
+          even violence being employed,
+          so that they might attend the banquet.
+          Since,
+          as Augustine himself says,
+          that prophecy had not yet been fulfilled:
+          <quote>
+            adorabunt eum omnes reges terrae,
+            omnes gentes seruient ei.
+          </quote>
+          Which,
+          the more it is fulfilled:
+          the more the church uses strength:
+          not only inviting but also compelling to faith.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e551">
+          Lest anyone think that the arguments which Augustine brings forward against heretics do not apply to pagans,
+          Sepulveda brings forward in its confirmation the law of pious Caesar Constantine against pagans.
+          For Constantine,
+          under penalty of death and loss of goods,
+          forbade the worship of idols,
+          the temples of the pagans having been closed:
+          and prohibited those foul libations,
+          sacrifices and offerings.
+          Which law was praised by the most holy fathers Ambrose and Augustine and by the other Christian men as fair and just.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e580">
+          However Sepulveda testifies
+          <pb ed="#P" n="6-r"/>
+          that he does not want them to be baptized unwillingly:
+          for this is prohibited by divine law.
+          Nor can law induce anyone to be baptized unwillingly.
+          But he says that violences and all things which can most probably be conducive must be attempted:
+          so that heretics and pagans may recognize their error and repent:
+          so that they may willingly seek baptism:
+          just as very many of these Indians have done,
+          moved by the violence and force of war,
+          which is similar to that which Constantine used,
+          and which also Genandius,
+          Exarch of Africa,
+          exercised:
+          whom divine Gregory greatly praised because he waged war against pagans to extend the boundaries of the Christian religion.
+          Nor does it stand in the way (says Sepulveda) if anyone objects that this must be admitted when war is waged against subjects:
+          since those against whom Genandius exercised the sword were not subject to the Roman people,
+          for if they were subject to the Roman people he would not wage war against them.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e636">
+          Sepulveda concludes his work,
+          asserting that the matter is both most just and also most useful to these barbarians,
+          that they be conquered and subjected to the Spanish worshipers of Christ.
+          For this is the most evident way for them to embrace the Christian religion,
+          which experience has clearly taught.
+          Especially since this can be accomplished with the least loss of human blood,
+          for indeed they used to sacrifice many more people yearly to their gods than will perish when the terror of war is brought against them,
+          for the incomparable benefit both of the living and also of posterity.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e673">
+          <pb ed="#P" n="6-v"/>
+          He brings forward moreover that Alexander VI,
+          Roman pontiff,
+          by decree of the college of cardinals,
+          declared military expeditions against the Indians to be just:
+          granting to the kings of Castile that they might subjugate them and add them to their dominion:
+          expressly prohibiting for just causes that any other prince might move arms against them.
+          Therefore just as no one can deny that wars undertaken by God's command are most just,
+          so also no one will deny that the war is just which the vicar of God,
+          mature deliberation having preceded,
+          by interposed pontifical authority,
+          declares to be just.
+          All these things (says Sepulveda) in that little work are proven most copiously by various testimonies of the sacred volumes of the Old and New Testament and from the law of nature.
+          And again on the authority of theologians teaching that when war is just (namely moved against those to whom it has been declared thus):
+          soldiers are not bound to restore things obtained by the law of war:
+          even if they have taken up arms not so much from love of asserting truth and justice as from desire of despoiling the enemy and obtaining wealth:
+          although with this intention they go to war and sin gravely.
+        </p>
+
+        <p xml:id="lca8s8-d1e10-d1e734">
+          But those inflicting injuries and seizing the property of others contrary to the laws of war and justice,
+          just as many have done,
+          are bound to restitution and commit the gravest crime:
+          and the prince who would permit such things or would not prohibit them when he could,
+          would be held guilty of the same crime and bound to render account to God.
+          Thus far Sepulveda.
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dedication [English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Dedication [English Translation]</title>
+          <date when="2025-05-21">June 20, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+          
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+        
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+          
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="f3-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e01">
+        <head xml:id="lca8s8-d1e01-Hd1e97">Dedication</head>
+        
+        <p xml:id="lca8s8-d1e01-d1e99">
+          <pb ed="#P" n="f3-v"/>
+          Brother Bartholomew de Vega of the Order of Preachers,
+          to the Supreme Royal Council of the Indies,
+          Eternal Happiness
+        </p>
+        
+        <p xml:id="lca8s8-d1e01-d1e108">
+          How much the author of this work has merited well of the kingdoms of Spain,
+          illustrious judges of the royal council,
+          can scarcely be said:
+          indeed he was the first in matters concerning the Indians,
+          both most difficult and supremely necessary for the wellbeing of the Spanish peoples,
+          not to say of all the Indies,
+          to discover the truth.
+        </p>
+        
+        <p xml:id="lca8s8-d1e01-d1e119">
+          For how much it matters in the business of the Indians to know the truth,
+          to understand the causes,
+          and to penetrate all the law,
+          can be clearly established from the unheard-of plunderings and thefts,
+          from the devastation of that new world,
+          from the perdition of so many thousands of souls committed through ignorance of this matter.
+        </p>
+        
+        <p xml:id="lca8s8-d1e01-d1e130">
+          The ancient Romans and the cultivators of other kingdoms,
+          whose republics employed just statutes,
+          when undertaking some distinguished deed and inventors of things for public benefit,
+          used to act in such a way that they would sculpt their images,
+          which placed in temples or other locations they worshipped with the highest devotion,
+          lest the memory of those be extinguished with death,
+          whose life had brought benefit and utility to the republic.
+        </p>
+        
+        <p xml:id="lca8s8-d1e01-d1e147">
+          On this account there is no doubt that if the author of the present book had obtained those earlier times,
+          mortals would worship his statue,
+          and that he should be received by all as the discoverer of truth in the Indian business,
+          and as the father of all who inhabit that new world,
+          to be observed and loved,
+          they would have decreed by public edict.
+        </p>
+        
+        <p xml:id="lca8s8-d1e01-d1e158">
+          Moreover,
+          the doctors of sacred theology must be held in great esteem,
+          and all the jurists,
+          who devoting care to composing books have illuminated the world with their teaching,
+          among whom those indeed must be valued much more highly who,
+          receiving light from no mortals,
+          themselves first shed light and truth upon the whole world.
+          Wherefore the Most Reverend Bishop of Chiapas has merited especially well of the Spanish people,
+          who not only first showed the way in recognizing the justice of the Indians,
+          and by his work and labor in this highest and most difficult business the truth shone forth upon all Spain:
+          but also for many years in the disputation and examination of this matter he waged war with certain doctors,
+          who strove with all care to defend the opposite altogether to the truth,
+          and to this very day are unwilling to desist from their insane opinion,
+          who unless they had been repulsed and likewise convicted with full effort by the aforementioned Bishop,
+          would have infected almost all of Spain with that most false dogma of theirs.
+          Who since they err completely in the justice and causes of the Indians and are blind,
+          are not afraid to teach a deadly sect and errors concerning the matter of the Indies,
+          <pb ed="#P" n="f2-r"/>
+          by which many are still held captive.
+          Asserting that they fight no less securely for the truth,
+          sustaining the just cause of our Spaniards.
+          When they ought rather to defend the cause of God and of the Indian peoples,
+          who have been redeemed by the blood of Christ,
+          of whom so many thousands of souls through this so impious and so unjust disseminated dogma,
+          we do not doubt are burned in eternal fire.
+        </p>
+        
+        <p xml:id="lca8s8-d1e01-d1e209">
+          This ignorance therefore so harmful to so many,
+          this I say so profound darkness of the Spanish peoples,
+          is far removed from the present work.
+          In which by many arguments of nature itself and by very many most clear testimonies both of the sacred scriptures and of the holy doctors,
+          and also by the decrees of councils and pontiffs,
+          a clear demonstration of truth and justice in the Indian matter is made.
+          In which work also many new things are taught but indeed necessary to all,
+          which we acknowledge the aforementioned doctors of no common eloquence otherwise to have been.
+          Here is taught the manner of preaching the Gospel of Jesus Christ.
+          Here likewise is shown by what means unbelievers are to be converted to the faith.
+          Here the tyrannies of the Indies are laid bare.
+          Incredible plunderings are revealed.
+          Impious slaughters are condemned.
+          The way is opened for remedying injuries.
+          All doubts are made clear.
+          And what is far more wonderful to say,
+          the Indian matter which hitherto for seventy passing years remained so obscure and so rough and disordered:
+          now presents order,
+          now is clearer than light itself,
+          now escapes no one,
+          now is known by all.
+        </p>
+        
+        <p xml:id="lca8s8-d1e01-d1e244">
+          Indeed this book is that by which darkness is driven from Spain,
+          the mist is put to flight,
+          men are awakened,
+          the deceived return to better sense,
+          those who were wise in their own eyes are confounded.
+          Finally all Spain is illuminated which until now in so great a business of the Indies 
+          (which without doubt is the greatest of all others that are under heaven)
+          has remained ignorant.
+          For there is no thing (unless I am mistaken)
+          which can surpass this Indian business in magnitude.
+          Inasmuch as in it nothing less is at stake than the salvation and perdition both of bodies and of souls of all the inhabitants of that newly discovered world.
+          Therefore this work must deservedly be held in the highest regard since indeed it is necessary to the whole universe.
+          In which the author expended so much labor,
+          grew old with so many cares and vigils,
+          pored through so many volumes,
+          that in very fact anyone can easily discover.
+          He will repay his zeal and labors perfectly,
+          <pb ed="#P" n="f2-v"/>
+          who promises a reward to those bringing forth into the light the truth and wisdom which is God,
+          saying:
+          <quote xml:id="lca8s8-d1e01-Qd1e281">
+            Those who illuminate me shall have eternal life.</quote>
+          
+        </p>
+        
+        <p xml:id="lca8s8-d1e01-d1e281">
+          And since it is clearly established that so great a work will benefit all Spain,
+          may your highness deign to order it to be printed and with royal favor and spirit,
+          whose proper duty it is as moderator and protector of all the Indies concerning this most difficult and at the same time necessary matter to explore the truth.
+          Lest through ignorance of this truth that new world be utterly extirpated and the residue of souls be consumed by eternal fire.
+          But if by your command this work be committed to the press so that the truth of this matter may become known to all,
+          many things (as I believe)
+          will be restored to their pristine state.
+          And it cannot be said how much increase will be added to the kingdoms of Spain.
+          For which as I myself am especially bound I pray both temporal advancement from day to day and likewise eternal happiness.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

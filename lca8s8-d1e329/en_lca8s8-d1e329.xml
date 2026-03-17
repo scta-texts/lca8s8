@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 22 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 22 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-12">Apr 12, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+          <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+          </ref>
+          </p>
+
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+        guidelines for a diplomatic edition. 
+        </p>
+
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="102-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e329">
+        <head xml:id="lca8s8-d1e329-Hd1e97">Chapter 22 [Bnf 12926 Transcription - English Translation]</head>
+        <p xml:id="lca8s8-d1e329-d1e99">
+          Chapter 22.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e104">
+          Again 
+          <ref xml:id="lca8s8-d1e329-Rd1e108">
+          <name xml:id="lca8s8-d1e329-Nd1e109">Augustine of Ancona</name>
+          </ref>
+           argues that pagans sinning against nature can be punished by the pope:
+           because anyone can justly be punished for transgression of the law which he receives,
+           and which he professes to observe. 
+          But pagans,
+           and all barbarous nations receive the law of nature and can be convicted by it:
+           moreover the pope is the guardian or ought to be the guardian of the law of nature. 
+          Therefore the pope can and ought to punish all pagans and barbarous nations acting 
+          against the law of nature.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e134">
+          To this argument we respond in three ways:
+            <add place="margin-right" hand="F">
+          Solution to the 
+          <ref xml:id="lca8s8-d1e329-Rd1e140">
+          argument of 
+          <name xml:id="lca8s8-d1e329-Nd1e142">Augustine of Ancona</name>
+          </ref>
+          </add>
+           first it is true that anyone ought to be punished by the law which he receives,
+           and professes,
+           thus by natural law:
+           yet with this distinction (namely) either by divine judgment or human judgment 
+          according to the reason of each of these judgments.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e160">
+          Indeed to the reason of human judgment it pertains to punish sins,
+           which are committed against the natural law in sinners who are subject to human 
+          judgment. 
+          But to divine judgment it pertains to punish the sins of those who for some reason 
+          are not subject to human judgment. 
+          Whence such punishment is known to be reserved to divine judgment.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e179">
+          This can be made clear thus. 
+          For many nefarious crimes could be committed against the natural law and divine 
+          positive law,
+           of which the pope is the first defender:
+           and every competent judge:
+           upon whom it falls to punish these in their subjects;
+           nevertheless in many cases:
+           neither the pope
+            <add place="margin-right" hand="F">
+          Cases in which the pope cannot punish his subjects
+          </add>
+           nor any other judge has the power to punish such things in their own subjects:
+           because they pertain precisely to divine judgment.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e206">
+          And this can be exemplified in many cases. 
+          One is if someone committed some crime and indeed a most grave one against natural 
+          law and divine law before the pope or king alone,
+           with no other witnesses present. 
+          So that the pope or king alone had seen it with his own eyes.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e222">
+          Certainly the pope or king could not punish it. 
+          The reason for which is:
+           because judgment must be made according to what is alleged and proved:
+           and not according to what the judge personally saw,
+           and therefore he is reserved to divine judgment,
+           for in that case such a delinquent is not subject to human judgment,
+           that is to the pope or to another judge's judgment,
+           and the pope punishing this person would rightly hear:
+           
+          <quote xml:id="lca8s8-d1e329-Qd1e241">
+          who are you that judges another's servant?
+           To his own master he stands or falls
+          </quote>
+           
+          <ref xml:id="lca8s8-d1e329-Rd1e248">
+          Romans, 14
+          </ref>. 
+          Which in the case set forth above 
+          <ref xml:id="lca8s8-d1e329-Rd1e253">
+          Pope Evaristius adduces in c. nullum cl. 2. 30r. q. 5
+          </ref>
+           there:
+           
+          <quote xml:id="lca8s8-d1e329-Qd1e259">
+          we ought not to judge or condemn anyone before true and just proof:
+           as the apostle testifies who says:
+           who are you,
+           that judges another's servant? 
+          To his own master he stands or falls
+          </quote>
+           etc.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e271">
+          Where the 
+          <ref xml:id="lca8s8-d1e329-Rd1e273">
+          Gloss
+          </ref>
+           says 
+          <quote xml:id="lca8s8-d1e329-Qd1e275">
+          another's servant,
+           that is to be judged by another,
+           namely,
+           by God
+          </quote>. 
+          The same 
+          <ref xml:id="lca8s8-d1e329-Rd1e280">
+          Evaristius in c. deus omnipotens .2. q. 1
+          </ref>. adduces the example of the sin which the Sodomites committed.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e288">
+          ¶ Of this kind is the infidelity of the Saracens and Jews living in the lands of 
+          Christians,
+           which is opposed to the divine law which they received from God,
+           and of which the pope is the principal guardian,
+           as in 
+          <ref xml:id="lca8s8-d1e329-Rd1e298">
+          c. sunt quidam 25. q. 1
+          </ref>. 
+          Also the impiety of the Saracens is opposed to the law of nature. 
+          For they worship a false prophet,
+           impious,
+           stained with the filth of all vices:
+           they also observe certain obscene ceremonies opposed to the law of nature. 
+          Nevertheless they are not punished by the pope or by another prince,
+           because the punishment of those sins is reserved to divine judgment,
+           nor does punishment pertain to the pope:
+           or to another human judge. 
+          because in those sins they are not subject to any men.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e326">
+          And therefore the 
+          <ref xml:id="lca8s8-d1e329-Rd1e330">
+          doctors in c. quod super his de voto.
+          </ref>
+           and in other places say that being a Jew is a sin before God:
+           who will punish the crime:
+           but not before men. 
+          For among men that crime is not punished,
+           but is reserved to divine judgment. 
+          To be a Jew (they say) is in itself an offense,
+           namely,
+           with respect to God and to eternal punishment:
+           but not to the judge and contentious forum,
+           and thus it is not punishable by men.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e356">
+          Thus teaches 
+          <ref xml:id="lca8s8-d1e329-Rd1e359">
+          Bartholus in l. ppud iulianum, § 1
+          </ref>. 
+          And there 
+          <ref xml:id="lca8s8-d1e329-Rd1e363">
+          Iasso § constat, 5th column
+          </ref>. 
+          <ref xml:id="lca8s8-d1e329-Rd1e365">
+          Ludovicus Romanus in l. multum ff. de verborum obligationibus
+          </ref>. 
+          <ref xml:id="lca8s8-d1e329-Rd1e372">
+          Ioanes de Anania in c. presenti: in principio
+          </ref>. 
+          <ref xml:id="lca8s8-d1e329-Rd1e378">
+          extrauagantium de Iudaeis
+          </ref>. 
+          <ref xml:id="lca8s8-d1e329-Rd1e380">
+          Felinus in c. multorum, 2nd column, same title
+          </ref>. 
+          And other doctors also hold the same. 
+          The same of the Saracens,
+           Arabs and other pagans. 
+          For neither is their superstition punished by human Christian judges:
+           but is reserved to God,
+           as is clear from the above.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e396">
+          ¶ Similarly judgment must be made concerning crimes committed by drunkards or the 
+          insane. 
+          For although they kill,
+           blaspheme or commit other atrocities,
+           they are not to be punished while the insanity or drunkenness lasts as in 
+          <ref xml:id="lca8s8-d1e329-Rd1e409">
+          <expan><abbr>clemen</abbr><choice><ex cert="high">tina</ex></choice></expan>
+           si furiosus. de homicidis
+          </ref>. 
+          For an insane person can suffer injury but not cause it .l. illud ff. de iniuriis. 
+          For their offenses are judged no differently than if they had been committed by 
+          fortuitous accident.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e426">
+          If however a man is intoxicated or falls into insanity through his own fault by 
+          engaging in an illicit thing:
+           then they are guilty of crimes:
+           therefore they will render an account to God. 
+          <ref xml:id="lca8s8-d1e329-Rd1e434">
+          Saint Thomas 2a 2ae q. 64, article 2, q
+          </ref>. 
+          And 
+          <ref xml:id="lca8s8-d1e329-Rd1e441">
+          4º. sententiarum distinctio 17, q. 2, article 2. q. 24, 2m
+          </ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e447">
+          Because when someone becomes intoxicated through his own fault:
+           the fault committed by him is in some way voluntary:
+           just as 
+          <ref xml:id="lca8s8-d1e329-Rd1e455">
+          if someone bent a 
+          <subst hand="AB">
+          <del rend="strikethrough">javelin</del>
+          <add place="above-line">bow</add>
+          </subst>
+          </ref>
+          :
+           not looking first whether there was anyone who could be 
+          <subst hand="AB">
+          <del rend="strikethrough">struck</del>
+          <add place="above-line">wounded</add>
+          </subst>
+          ,
+           just as 
+          <ref xml:id="lca8s8-d1e329-Rd1e476">
+          <name xml:id="lca8s8-d1e329-Nd1e477">Lamech</name>
+           did,
+           who by such accident killed 
+          <name xml:id="lca8s8-d1e329-Nd1e479">Cain</name>
+          </ref>. 
+          By the same reasoning one who lusts after another's wife is guilty before God:
+           nevertheless he is not punished by human judgment;
+           a similar example is assigned in 
+          <ref xml:id="lca8s8-d1e329-Rd1e492">
+          c. si quis insaniens. 15. q. 1
+          </ref>. 
+          and in 
+          <ref xml:id="lca8s8-d1e329-Rd1e497">
+          c. inebriauerunt
+          </ref>. 
+          And in 
+          <ref xml:id="lca8s8-d1e329-Rd1e501">
+          c. sane
+          </ref>. 
+          Similar to these are those who wish to become rich from others' property,
+           and those who possess others' property are liable to restitution.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e514">
+          Also those who possess in bad faith. 
+          For although they are not punished by human judges,
+           nevertheless before God,
+           they are guilty of crime.
+          <add place="margin-left" hand="F">
+          Hadrian
+          </add>
+           About these matters 
+          <ref xml:id="lca8s8-d1e329-Rd1e524">
+          Adrian the Florentine Roman pontiff wrote a quodlibet (namely) quodlibet 1. article 2.
+          </ref>
+           where he writes four propositions quite suitable to this treatise. 
+          Of this number are also carnal offenses of children,
+           who are not capable of deceit:
+           they are not punished by law as in 
+          <ref xml:id="lca8s8-d1e329-Rd1e540">
+          c. 1. de delictis Puerorum
+          </ref>. 
+          Whence a minor under twelve years cannot be accused of adultery. 
+          As in 
+          <ref xml:id="lca8s8-d1e329-Rd1e549">
+          l. minor. ff. ad legem luliam de adulteriis
+          </ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e552">
+          Nevertheless they sin mortally before God if they are capable of deceit. 
+          As in 
+          <ref xml:id="lca8s8-d1e329-Rd1e558">
+          c. firmissime 15. q. 1
+          </ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e329-Rd1e563">
+          c. 1. de delictis puerorum
+          </ref>.
+          Where it is also proved that if children steal,
+           lie,
+           or swear falsely,
+           which crimes are against the law of nature:
+           they are guilty of crime before God,
+           if they are capable of deceit. 
+          Which happens in some in the seventh year of age.
+        </p>
+
+        <p xml:id="lca8s8-d1e329-d1e580">
+          But by human judgment they are not punished unless they are close to puberty. 
+          As is noted in 
+          <ref xml:id="lca8s8-d1e329-Rd1e588">
+          said c. 1
+          </ref>. 
+          and 
+          <ref xml:id="lca8s8-d1e329-Rd1e590">
+          in § pupillus. institutionum: de inutilibus stipulationibus
+          </ref>, 
+          <ref xml:id="lca8s8-d1e329-Rd1e596">
+          gloss in §. in suma de obligationibus quae ex delicto nascuntur
+          </ref>.
+        </p>
+
+	    </div>
+    </body>
+  </text>
+</TEI>

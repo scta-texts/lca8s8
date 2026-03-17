@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 30 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 30 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-05-03">May 03, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-03" status="draft" n="0.0.0">
+          <p>
+            Created file for the first time.
+          </p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="135-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e434">
+        <head xml:id="lca8s8-d1e434-Hd1e97">
+          Chapter 30 [Bnf 12926 Transcription - English Translation]
+        </head>
+        
+        <p xml:id="lca8s8-d1e434-d1e99">
+          Chapter 30.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e104">
+          ¶ To the argument (namely) that when a city is condemned by just war,
+          all its inhabitants are presumed to be enemies,
+          this is false. 
+          For a presumption of law ought not to operate in matters that are impossible. 
+          For who would presume that infants,
+          weak in strength and counsel and lacking all malice,
+          are guilty? 
+          Who would suspect that trembling women gave cause for war,
+          unless it is established that they aided the war with resources,
+          which very rarely happens?
+          Therefore it is a natural demonstration that these are innocent. 
+          Therefore the contrary presumption in this case operates nothing. 
+          As in 
+          <ref xml:id="lca8s8-d1e434-Rd1e136">
+            c. Veritate 8. distin.
+          </ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e142">
+          Moreover,
+          that women and children are innocent and thus do not deserve punishment is proven by 
+          <ref xml:id="lca8s8-d1e434-Rd1e148">
+            divine law, Deut. 20
+          </ref>. 
+          Where the Lord commands the Hebrews that when they would attack any city for a just cause,
+          such as an injury inflicted upon them,
+          they should spare the women and infants,
+          but use military force against the men;
+          which God would not have commanded unless it were manifest,
+          at least for the greater part,
+          that such a class of persons are not enemies but innocent. 
+          Therefore these are innocent by divine testimony.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e174">
+          Secondly,
+          it is proven from 
+          <ref xml:id="lca8s8-d1e434-Rd1e178">
+            Innocent in d. c. Dilectus
+          </ref>
+          and in 
+          <ref xml:id="lca8s8-d1e434-Rd1e182">
+            d. c. Graue
+          </ref>
+          and from the doctors in both places,
+          who suppose as manifest that in any people there are very many innocents. 
+          Then if perhaps war is waged among Christians,
+          in any city there are priests,
+          monks and nuns,
+          and many others dedicated to divine worship. 
+          There are farmers,
+          workers,
+          foreign merchants,
+          pilgrims,
+          whom the law judges to be innocent,
+          so much so that they are immune from all military force by decree of the church,
+          as in 
+          <ref xml:id="lca8s8-d1e434-Rd1e208">
+            c. ennouamus. de tregua et pace
+          </ref>,
+          so much so that if they are despoiled by soldiers,
+          the soldiers are bound to restitution and sin mortally.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e220">
+          Since therefore in any city there are very many innocents,
+          it is false that when a city is condemned,
+          all who are within are presumed to be enemies,
+          and consequently soldiers ought to abstain from inflicting violence on persons who present themselves as innocent,
+          which the greater leaders of armies ought to admonish exactly and severely,
+          lest they wish to become participants in the same sin and harm.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e242">
+          Nevertheless,
+          it is necessary to remember that confused opinion of the doctors,
+          that when a city is condemned to be plundered in war,
+          namely just war,
+          soldiers are not bound to examine who are the guilty and who truly are innocent,
+          because as they say,
+          then accidentally (that is) beyond intention,
+          it is to kill innocents,
+          which is true when,
+          if some circumstance or act were omitted,
+          victory in that just war could not be had or the enemies would not be subdued. 
+          And nevertheless it happens in that act or circumstance that innocents are found.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e268">
+          But if such an act or circumstance is not necessary but can be excused,
+          without doubt they are guilty of the death and other harms of such innocents. 
+          Let there be an example of this circumstance:
+          imagine an army making a just war,
+          rushing upon a condemned city by decree of the prince to be plundered;
+          the soldiers run through the forums and regions of the city,
+          killing all who meet them.
+          Certainly then if they kill a merchant or pilgrim,
+          they do not sin.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e323">
+          For they are not bound at that time to examine whether the one who meets them is an inhabitant of the city or a stranger,
+          lest while doing this,
+          victory comes into danger,
+          and the victors,
+          with fortune changed,
+          remain defeated. 
+          And therefore accidentally innocents are killed then,
+          not per se.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e348">
+          This however must be understood unless those who meet them are manifestly among those who,
+          as innocents,
+          must be spared,
+          such as if it be a boy,
+          woman or old man,
+          or an unarmed man,
+          or one venerable in priestly or monastic garb. 
+          For if soldiers kill these,
+          they sin mortally. 
+          For now they inflict violence on them not accidentally but per se and from principal intent.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e371">
+          And that they are bound to presume through such probable signs that such persons are innocent,
+          and thus to abstain from inflicting evils upon them,
+          is evident,
+          because the harms that are inflicted in war are not of such small moment that in doubt or easily and indiscriminately,
+          without fear of offending God and neighbor,
+          they can be inflicted. 
+          Therefore Christian warriors are bound to presume those whom they see appear innocent by such signs rather than harmful,
+          even in battle.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e400">
+          ¶ Let there be another example:
+          women,
+          children,
+          old men,
+          and other innocents have taken refuge in some citadel. 
+          Certainly if it is not highly necessary for the favorable outcome of the whole war that that citadel be attacked,
+          it would be a most grave sin to destroy the citadel either by flames or by tunnels,
+          with great slaughter of the innocent as is necessary. 
+          For this would be to kill innocents per se. 
+          If however it is necessary,
+          they would be killed accidentally and beyond intention.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e424">
+          Which is proven because war is never licit except when it is necessary,
+          so that it can in no way be excused. 
+          For it is a plague and an atrocious calamity of the human race,
+          as in 
+          <ref xml:id="lca8s8-d1e434-Rd1e435">
+            c. s. quos. 23. q. 4
+          </ref>
+          and in 
+          <ref xml:id="lca8s8-d1e434-Rd1e438">
+            c. ad apostolice de re judi. libro 6
+          </ref>
+          and in 
+          <ref xml:id="lca8s8-d1e434-Rd1e443">
+            c. Pisanis. de restitu. spolia.
+          </ref>
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e449">
+          For war is a work impious in itself and of the third kind of acts,
+          <ref xml:id="lca8s8-d1e434-Rd1e453">
+            ch. 28b above
+          </ref>,
+          unless it is rendered just by circumstance,
+          namely necessity,
+          as author 
+          <ref xml:id="lca8s8-d1e434-Rd1e467">
+            <name xml:id="lca8s8-d1e434-Nd1e468">
+              Augustine
+            </name>
+          </ref>
+          says in 
+          <ref xml:id="lca8s8-d1e434-Rd1e473">
+            c. noli. 23. q. 1
+          </ref>: 
+          <quote xml:id="lca8s8-d1e434-Qd1e475">
+            War must be of necessity,
+            so that God may free from necessity and preserve in peace
+          </quote>—
+          these are his words.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e483">
+          Moreover 
+          <name xml:id="lca8s8-d1e434-Nd1e486">
+            Pope Nicholas
+          </name>
+          in c. si nulla 23. q. 8 says: 
+          <ref xml:id="lca8s8-d1e434-Rd1e490">
+            if no necessity prevails,
+            not only in Lenten time but also at all times one must abstain from battles. 
+            But if unavoidable urgency presses,
+            even in Lenten time,
+            for the defense both of oneself and of the fatherland or of paternal laws,
+            preparations for wars must without doubt be undertaken
+          </ref>—
+          and so forth. These are his words. 
+          The divine words agree with these: 
+          <quote xml:id="lca8s8-d1e434-Qd1e511">
+            if it be possible,
+            as much as depends on you,
+            living peaceably with all men
+          </quote>
+          <ref xml:id="lca8s8-d1e434-Rd1e519">
+            ad Roma. 12
+          </ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e522">
+          Likewise 
+          <ref xml:id="lca8s8-d1e434-Rd1e524">
+            <name xml:id="lca8s8-d1e434-Nd1e525">
+              Cicero
+            </name>, 
+            <title>
+              On Duties
+            </title>
+            book 1
+          </ref>
+          never approves war unless unavoidable necessity presses,
+          so that it can in no way be avoided. 
+          Therefore if a citadel filled with innocent people can not be destroyed without great danger to the victory of the whole war,
+          certainly a prince attacking it and destroying it with bloody assault is guilty before the Supreme Judge of killing innocents per se. 
+          For the circumstance is lacking by which war is rendered just,
+          namely necessity. 
+          Therefore he and the soldiers will give account to God for all the evils that happen there and will be bound to restitution.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e559">
+          This truth is confirmed from the words of 
+          <name xml:id="lca8s8-d1e434-Nd1e563">
+            St. Thomas
+          </name>,
+          who,
+          expounding those words of 
+          <name xml:id="lca8s8-d1e434-Nd1e567">
+            the Apostle
+          </name>,
+          <quote xml:id="lca8s8-d1e434-Qd1e569">
+            we can do nothing against the truth
+          </quote>
+          <ref xml:id="lca8s8-d1e434-Rd1e575">
+            2 Cor. 13
+          </ref>,
+          says that if the apostle were to punish the innocent,
+          he would act against truth and justice. 
+          But to act against justice is mortal sin,
+          as author 
+          <ref xml:id="lca8s8-d1e434-Rd1e586">
+            <name xml:id="lca8s8-d1e434-Nd1e587">
+              St. Thomas
+            </name>
+            says, 
+            2a 2ae. q. 59. ar. 4
+          </ref>,
+          and those seizing anything in such acts sin mortally and are bound to restitution.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e599">
+          Therefore the innocent are not to be killed,
+          whether few,
+          and much less many,
+          so that a few guilty may be punished. 
+          For evil things are not to be done that good may come thereof, 
+          <ref xml:id="lca8s8-d1e434-Rd1e609">
+            Romans 3
+          </ref>. 
+          Nor indeed does God wish these evils to be compensated by such gain, 
+          <ref xml:id="lca8s8-d1e434-Rd1e617">
+            according to 
+            <name xml:id="lca8s8-d1e434-Nd1e619">
+              Augustine
+            </name>
+            on 
+            <title>
+              Psalm
+            </title>
+            146
+          </ref>,
+          and it is read in 
+          <ref xml:id="lca8s8-d1e434-Rd1e625">
+            33. q. 5. c. 1
+          </ref>: 
+          <quote xml:id="lca8s8-d1e434-Qd1e630">
+            For (he says) God does not wish such harm to be compensated by such gain;
+            surely this compensation is most dangerously admitted
+          </quote>,
+          and in 
+          <ref xml:id="lca8s8-d1e434-Rd1e637">
+            alia parte 14. dist. c. quod ait
+          </ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e640">
+          And there is a 
+          <ref xml:id="lca8s8-d1e434-Rd1e644">
+            notable gloss
+          </ref>,
+          and it agrees with 
+          <ref xml:id="lca8s8-d1e434-Rd1e646">
+            <name xml:id="lca8s8-d1e434-Nd1e647">
+              St. Thomas
+            </name>
+            2a 2ae. q. 26. ar. 4 in corpore
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e434-Rd1e652">
+            2m.
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e434-Rd1e655">
+            q. 43. ar. 7, ad 5um
+          </ref>,
+          where he says that it is licit to no one to sin venially that another may not sin mortally. 
+          Which also 
+          <ref xml:id="lca8s8-d1e434-Rd1e667">
+            <name xml:id="lca8s8-d1e434-Nd1e668">
+              Augustine
+            </name>
+            asserts in c. faciat homo 22. q. 2
+          </ref>
+          in these words: 
+          <quote xml:id="lca8s8-d1e434-Qd1e674">
+            let a man do even for the temporal safety of men what he can;
+            but when it has come to this,
+            that he cannot provide for such safety except by sinning,
+            now he does not have what to do
+          </quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e686">
+          And 
+          <ref xml:id="lca8s8-d1e434-Rd1e688">
+            c. sequenti
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e434-Rd1e693">
+            c. nequis arbitretur
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e434-Rd1e695">
+            c. Primum
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e434-Rd1e700">
+            extra de vsuris. c. super eo
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e434-Rd1e703">
+            extra ne cleri. vel monachi. c. magnopere
+          </ref>. 
+          Indeed,
+          says 
+          <name xml:id="lca8s8-d1e434-Nd1e708">
+            St. Thomas
+          </name>,
+          a man ought rather to choose death and atrocious torment than to sin even venially,
+          thus 
+          <ref xml:id="lca8s8-d1e434-Rd1e714">
+            2a 2ae: q. 110. ar. 3. ad 3um
+          </ref>
+          and in other places.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e720">
+          Hence arises the rule that when evil and good are so conjoined that from the good which I wish to do,
+          evil must necessarily arise,
+          or almost always evil arises,
+          if the evil is greater than the good which I wish to do,
+          the good must always be omitted lest evil arise from it. 
+          The reason is that if anyone endowed with the greatest virtues is guilty of the least mortal sin,
+          he will be damned eternally.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e749">
+          But 
+          <name xml:id="lca8s8-d1e434-Nd1e753">
+            St. Thomas
+          </name>
+          and 
+          <name xml:id="lca8s8-d1e434-Nd1e755">
+            Augustine
+          </name>
+          understand this rule even when venial sin arises from it. 
+          Likewise this rule must be understood not only in ourselves,
+          but also when we wish to do a benefit to someone,
+          taking care lest evil come to him;
+          for we ought to examine whether from that good which we wish to do for him there arises a greater evil than that which we wish to avoid.
+        </p>
+        
+        <p xml:id="lca8s8-d1e434-d1e775">
+          Thus 
+          <ref xml:id="lca8s8-d1e434-Rd1e777">
+            St. Thomas quodlib. 3. ar. 11. ad. 5m
+          </ref>,
+          where he says thus: 
+          <quote xml:id="lca8s8-d1e434-Qd1e784">
+            then only should some good be omitted on account of consequent evil when the consequent evil would be much greater than the good and would happen more frequently
+          </quote>—
+          these are the words of 
+          <name xml:id="lca8s8-d1e434-Nd1e794">
+            St. Thomas
+          </name>
+          formally. 
+          And see 
+          <ref xml:id="lca8s8-d1e434-Rd1e796">
+            Abulensis on Matthew ch. 23. q. 19
+          </ref>.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

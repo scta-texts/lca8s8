@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 28 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 28 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2025-04-28">Apr 28, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="125-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e408">
+        <head xml:id="lca8s8-d1e408-Hd1e97">Chapter 28 [Bnf 12926 Transcription]</head>
+        <p xml:id="lca8s8-d1e408-d1e99">
+          Chapter 28.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e104">
+          <add place="margin-left" hand="E">Sixth case</add>
+          There is another case and it is the sixth besides the five already related and known to all:
+          and indeed a new one and hitherto unheard of,
+          not to say contrived:
+          by which the Church can actually exercise coercive jurisdiction over unbelievers,
+          as if there were found those who oppressed unjustly certain innocent persons or if they killed them 
+          for the sake of sacrificing them to their gods:
+          or so that they might feed on their corpses.
+          Which rumor indeed reports certain peoples of the Indian world do.
+          And this is the third argument or third cause which 
+          <name xml:id="lca8s8-d1e408-Nd1e136">Sepúlveda</name> 
+          introduces to justify those expeditions of his.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e141">
+          Whose error in this matter must also be eliminated in what follows.
+          Where it must be considered first:
+          that the reason for this matter is not that sacrificing humans is against the law of nature,
+          concerning which I shall submit below:
+          nor that anyone is bound by natural law to free those who are oppressed and led to death 
+          <del rend="strikethrough" hand="B">from which obligation also</del> 
+          unjustly:
+          <ref xml:id="lca8s8-d1e408-Rd1e163">Proverbs 24</ref>. 
+          <quote xml:id="lca8s8-d1e408-Qd1e165">
+            Deliver those who are led to death
+          </quote>,
+          from which obligation also the Church is not exempt:
+          but because those innocent persons potentially belong to the Church;
+          therefore they are under its protection:
+          whence it pertains to the Church and to the Pope who is the head of the Church to take care:
+          that they obtain eternal salvation.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e188">
+          Moreover they would not obtain this,
+          the innocent ones,
+          if they were killed.
+          Therefore it pertains to the Church and to the Pope to whom from Christ the pastoral care of 
+          the whole world has been committed,
+          to prevent such innocent ones from being killed lest the souls of those perish forever:
+          whose salvation must especially be cared for.
+          And so to the Church and to the Vicar of Christ as to the pastor and universal caretaker of 
+          the whole world it pertains authoritatively and autonomously to exercise jurisdiction in this case:
+          not indeed that it punish or subjugate unbelievers by reason of this crime:
+          for nothing 
+          <quote xml:id="lca8s8-d1e408-Qd1e220">
+            to do with judging those who are outside:
+            but the Lord will judge
+          </quote>. 
+          <ref xml:id="lca8s8-d1e408-Rd1e225">1 Corinthians 5</ref>,
+          as has been widely proven:
+          but that it provide what will be necessary to prevent such innocent ones from being killed.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e237">
+          Moreover all princes of the world for excusing this sin and similar ones are considered 
+          private persons:
+          nor can they declare law outside the boundaries of any one kingdom.
+          For although any private person is bound by natural law to free such innocent persons:
+          yet that is true when there is no one else who would free them.
+          Wherefore if the Church committed to some Christian prince or to another 
+          <add place="margin-left" hand="F">to free the innocent pertains to the Church</add>
+          private person the liberty of these,
+          no one else could take up arms or do anything else to free them,
+          which is proven by a threefold reason.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e276">
+          ¶ First because the obligation of freeing the innocent,
+          like other works of piety or charity:
+          does not oblige except in a case,
+          namely when there is no one else suitable to free them.
+          Just as the obligation of giving alms to a poor person:
+          ceases if there is another who supplies it.
+          A gloss uses a similitude of this kind on those words 
+          <ref xml:id="lca8s8-d1e408-Rd1e295">Ecclesiasticus 4</ref>. 
+          <quote xml:id="lca8s8-d1e408-Qd1e297">
+            free him who suffers injury.
+            Just as,
+            it says,
+            generosity to the poor is said to be alms:
+            so it shows that freeing the unjustly oppressed is mercy
+          </quote>.
+          So it says.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e310">
+          ¶ Second because when a superior to whom the care of some republic pertains provides or 
+          designates someone who should do those things:
+          it would be a temerity worthy of punishment for another to meddle in that business:
+          especially if a superior had forbidden it.
+          And things done against the prohibition of a superior are not valid by law.
+          As in 
+          <ref xml:id="lca8s8-d1e408-Rd1e327">
+            c. veritatis in fi. de dolo et contuma. 32 dist. in § verum
+          </ref> 
+          to which it is read and noted in 
+          <ref xml:id="lca8s8-d1e408-Rd1e336">c. nihil de electione super glossa final.</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e339">
+          Thus therefore the Church or its head,
+          who is superior in the whole world to whom it is incumbent to provide the opportune remedy 
+          for those innocently suffering such things:
+          if it has committed or shall have committed such liberation of innocents to some Christian prince:
+          the rest have nothing unless they act presumptuously to which for such matters they extend 
+          their hands.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e359">
+          ¶ Third,
+          because the obligation of freeing innocents which nature teaches all men:
+          and Christian charity the faithful:
+          ceases where first those evils have been met.
+          Whence since all other princes in this case are private persons:
+          nothing else remains for them to do.
+          But it is necessary for the Church to proceed further:
+          because it must not only meet those evils but also care for the salvation of souls incessantly,
+          all obstacles being removed:
+          so that all the peoples of the world obtain salvation.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e390">
+          <choice><sic>And</sic><corr>And</corr></choice> 
+          although <del rend="strikethrough" hand="B">truly</del> 
+          we confess that it pertains to the Church to prevent such things,
+          namely the unjust death of innocents:
+          nevertheless this ought to be done with this moderation lest thence some greater evil arise 
+          over other peoples:
+          which would be an impediment to their salvation:
+          and thus the fruit and end of Christ's passion would be frustrated.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e416">
+          For since the salvation of men is the end which Christ intends:
+          vain would be every remedy by which the attainment of such an end would be prevented,
+          as 
+          <name xml:id="lca8s8-d1e408-Nd1e425">the Philosopher</name> 
+          says.
+          And on account of this he also says that 
+          <quote xml:id="lca8s8-d1e408-Qd1e429">
+            he who destroys the end destroys every good
+          </quote>,
+          as we said widely above.
+          And that makes 
+          <ref xml:id="lca8s8-d1e408-Rd1e434">
+            <name xml:id="lca8s8-d1e408-Nd1e435">Gregory's</name>
+          </ref>
+          point: 
+          <quote xml:id="lca8s8-d1e408-Qd1e437">
+            what use is it when,
+            even if they have been forbidden against long custom,
+            nothing is gained for the conversion to the faith
+          </quote>.
+          So he says.
+          And he speaks of unbelievers 
+          <ref xml:id="lca8s8-d1e408-Rd1e447">45. dist. c. qui sincera</ref>.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e453">
+          ¶ And because to free such oppressed ones who are led to death for the sake of sacrificing them 
+          or feeding on their flesh could not be done if there be pertinence to the oppressors except by 
+          taking up arms:
+          therefore we ought most vigilantly to consider:
+          tumult / sedition / slaughter / fires / disasters / and the fury of Bellona:
+          which must necessarily be present to prevent this evil,
+          and prudence being brought into counsel:
+          sometimes the Church will take up arms,
+          sometimes it will dissimulate.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e481">
+          For circumstances sometimes render unjust what is just in itself,
+          as in 
+          <ref xml:id="lca8s8-d1e408-Rd1e487">c. sicut dignum. de homicidio</ref>.
+          And in 
+          <ref xml:id="lca8s8-d1e408-Rd1e491">c. cum causam de testibus</ref>.
+          And in 
+          <ref xml:id="lca8s8-d1e408-Rd1e494">l. aut facta ff. de penis</ref>.
+          Which is sufficiently proven by that which we read 
+          <ref xml:id="lca8s8-d1e408-Rd1e501">Genesis 4</ref> 
+          according to the translation of the 
+          <title><choice><sic>70</sic><reg>Seventy</reg></choice></title> 
+          interpreters 
+          <quote xml:id="lca8s8-d1e408-Qd1e510">
+            if you offer rightly:
+            but if you do not divide rightly you have sinned:
+            be quiet
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e518">
+          Discoursing on which words 
+          <ref xml:id="lca8s8-d1e408-Rd1e520">
+            <name xml:id="lca8s8-d1e408-Nd1e521">Augustine</name> 
+            in 
+            <title>City of God</title> 
+            book 15. chapter 7
+          </ref>
+          says 
+          <quote xml:id="lca8s8-d1e408-Qd1e530">
+            sacrifice is offered rightly when it is offered to the true God to whom alone it must be 
+            sacrificed in this way only.
+            But it is not rightly divided when there are not rightly discerned either places or times:
+            or the very things which are offered,
+            or who offers or to whom it is offered:
+            or those to whom what has been offered is distributed for eating:
+            so that we understand here by division,
+            discretion:
+            whether when it is offered when it is not fitting:
+            or when that which nowhere and never,
+            or when a man keeps choicer things or things of the same kind than are those which he offers 
+            to God
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e564">
+          <name xml:id="lca8s8-d1e408-Nd1e566">Augustine</name> 
+          closes his speech with the words 
+          <ref xml:id="lca8s8-d1e408-Rd1e571">1 John</ref>. 
+          <ref xml:id="lca8s8-d1e408-Rd1e573">John 3</ref>: 
+          <quote xml:id="lca8s8-d1e408-Qd1e575">
+            Not as Cain who was of the evil one and killed his brother,
+            and for what reason did he kill him:
+            because his works were evil:
+            but his brother's were just.
+            It is given to be understood that for this reason God did not look upon his gifts.
+            Which all those do who following not God's will but their own,
+            that is,
+            living not with a right but with a perverse heart:
+            offer to God only a gift by which they think him redeemed,
+            that he not help in healing their depraved desires,
+            but in fulfilling them
+          </quote>.
+          So says 
+          <name xml:id="lca8s8-d1e408-Nd1e606">Augustine</name>.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e609">
+          To this pertains the saying of a certain wise man namely 
+          <quote xml:id="lca8s8-d1e408-Qd1e613">
+            God is not a rewarder of names:
+            but of adverbs
+          </quote>.
+          That is to say God does not reward the good that is done:
+          but what is done well.
+          Whence God did not reward the Jews who crucified Christ:
+          although the death of Christ was good: 
+          <ref xml:id="lca8s8-d1e408-Rd1e638">15 q. 6. c. 1</ref>.
+          To give alms to one in need is a pious work:
+          if however I gave it so that the recipient might betray someone to me,
+          so that I might kill him:
+          it would be an impious work.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e651">
+          Hence 
+          <ref xml:id="lca8s8-d1e408-Rd1e653">
+            <name xml:id="lca8s8-d1e408-Nd1e654">Dionysius</name> 
+            in 
+            <title>Divine Names</title> 
+            book 4
+          </ref>
+          says: 
+          <quote xml:id="lca8s8-d1e408-Qd1e662">
+            good is from an integral cause:
+            but evil from particular defects
+          </quote>:
+          that is:
+          for a work to be perfect:
+          it is required that no circumstance be lacking:
+          otherwise a pious work will be rendered impious.
+        </p>
+        <p xml:id="lca8s8-d1e408-d1e676">
+          Thus 
+          <ref xml:id="lca8s8-d1e408-Rd1e678">
+            <name xml:id="lca8s8-d1e408-Nd1e679">the Philosopher</name> 
+            in 
+            <title>Ethics</title> 
+            2,
+            after the description of virtue
+          </ref>
+          says:
+          <quote xml:id="lca8s8-d1e408-Qd1e688">
+            To act well happens only in one way:
+            but badly in many ways
+          </quote>,
+          that is,
+          that for a work to be good it must be according to right reason which is only one:
+          but for it to be evil,
+          that it fall short of reason,
+          which can happen in many ways.
+          The cause of this matter 
+          <ref xml:id="lca8s8-d1e408-Rd1e704">
+            <name xml:id="lca8s8-d1e408-Nd1e705">St. Thomas</name> 
+            writes in 1a 2ae. q. 19, throughout
+          </ref> 
+          and 
+          <ref xml:id="lca8s8-d1e408-Rd1e712">q. 20</ref>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 15 [Bnf 12926 Transcription] — English Translation</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 15 [Bnf 12926 Transcription] — English Translation</title>
+          <date when="2024-11-14">Nov 14, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="74-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e236">
+        <head xml:id="lca8s8-d1e236-Hd1e97">Chapter 15 [Bnf 12926 Transcription]</head>
+
+        <p xml:id="lca8s8-d1e236-d1e99">
+          Chapter 15.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e104">
+          ¶ Up to this point we have taught that neither the Church nor Christian princes
+          can punish pagans,
+          even if they are liable for the most serious crimes.
+          Now, for a complete understanding of this treatise,
+          I will set forth six cases in which the Church can punish pagans,
+          and I will also respond in passing to the things that Sepúlveda teaches
+          near the end of his second argument.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e132">
+          Before all else, it must be supposed that the Church can exercise temporal
+          jurisdiction over unbelievers in three ways.
+          The third member may be seen
+          <ref xml:id="lca8s8-d1e236-Rd1e142">below in chapter 37.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e146">
+          First, when unbelievers are subjects of the Church —
+          both in disposition and in act —
+          or of some member of the Church,
+          such as a Christian prince.
+          Unbelievers of this kind are heretics,
+          concerning whom we have argued
+          <ref xml:id="lca8s8-d1e236-Rd1e156">above in chapter 7</ref>
+          and <ref xml:id="lca8s8-d1e236-Rd1e161">will argue below.</ref>
+          For these, having once received the Catholic truth,
+          must be compelled to return to the fold of Christ.
+          Unbelievers of this kind are also Jews and Moors
+          who are subjects of Christian kings.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e173">
+          Over these, since they are subject in both law and fact,
+          the Church can enact laws —
+          which is sufficiently proven from the
+          <ref xml:id="lca8s8-d1e236-Rd1e179">title on Jews and Saracens</ref>
+          and from the
+          <ref xml:id="lca8s8-d1e236-Rd1e184">title on heretics</ref>
+          in the book of the
+          <ref xml:id="lca8s8-d1e236-Rd1e189">Decretals,</ref>
+          <ref xml:id="lca8s8-d1e236-Rd1e191">the Sixth,</ref>
+          and the <ref xml:id="lca8s8-d1e236-Rd1e193">Clementines;</ref>
+          and
+          <ref xml:id="lca8s8-d1e236-Rd1e197">c. de iudaeis, paganis et templis eorum;</ref>
+          and
+          <ref xml:id="lca8s8-d1e236-Rd1e202">c. de hereticis et apostatis.</ref>
+          And in the Spanish language we have very many laws
+          promulgated by the Castilian kings concerning Jews and Moors.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e211">
+          And thus contentious jurisdiction can be exercised over these
+          — that is, even against their will —
+          as explained by the doctors in
+          <ref xml:id="lca8s8-d1e236-Rd1e218" target="http://scta.info/resource/bgy6gt-d1e4101-d1e1235">l. inter stipulantem. §. 1. ff. de verborum
+          obligatione.</ref>
+          For the Church does this legitimately,
+          since they are subject in both act and disposition
+          to Christian princes, that is, to members of the Church.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e233">
+          ¶ Second, the Church holds only in disposition contentious jurisdiction
+          over other unbelievers,
+          so that it may bring this into act when the occasion arises
+          or while the cause subsists —
+          but not otherwise,
+          on account of the ten reasons adduced above,
+          and especially
+          <ref xml:id="lca8s8-d1e236-Rd1e248">according to that word of Paul:</ref>
+          <quote xml:id="lca8s8-d1e236-Qd1e250">"What business is it of mine to judge those
+          who are outside?"</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e256">
+          Now these unbelievers are those who have never professed the faith of Christ
+          through baptism —
+          of whatever religion, worship, rite, or sect they may be —
+          provided they are not Jews,
+          and have their own kingdoms separate from Christian kingdoms,
+          so that they are not subjects of the Church
+          or of any of its members.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e274">
+          We said
+          <quote xml:id="lca8s8-d1e236-Qd1e276">"provided they are not Jews,"</quote>
+          because Jews, on account of the crime committed by them —
+          killing Jesus Christ our Lord —
+          are by right servants of the Church,
+          as stated in
+          <ref xml:id="lca8s8-d1e236-Rd1e287">c. etsi iudaeos: de iudaeis 161.</ref>
+          <quote xml:id="lca8s8-d1e236-Qd1e291">"Those whom their own fault has consigned to perpetual
+          servitude, let Christian piety receive and sustain"</quote>
+          and so forth.
+          But in fact it was
+          <ref xml:id="lca8s8-d1e236-Rd1e300">Constantine who subjected them to servitude,
+          according to the gloss in c. consuluit de iudeis.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e306">
+          Nevertheless, they are not properly slaves,
+          nor can works be imposed on them against their will,
+          nor should they be oppressed contrary to justice and right,
+          as stated in
+          <ref xml:id="lca8s8-d1e236-Rd1e314">c. qui sincera. 45. distinctio</ref>
+          and in
+          <ref xml:id="lca8s8-d1e236-Rd1e319">c. sicut iudaei. de iudicii.</ref>
+          We also said that unbelievers are not subjects of the Church
+          but have separate kingdoms —
+          because in this respect one and the same reasoning applies
+          to all unbelievers of whatever region or rite they may be,
+          on the basis of the reasons set forth above.
+          For no one will be able to assign any rational basis for a distinction.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e344">
+          ¶ Over all unbelievers, therefore,
+          the Church can exercise contentious jurisdiction
+          in six cases.
+          <note place="margint-right" hand="E">
+            Six cases in which the Church can exercise contentious jurisdiction
+            over all unbelievers.
+          </note>
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e356">
+          ¶ First, if they unjustly possess kingdoms
+          from which they have unjustly despoiled the Christian people —
+          especially if Christians live among them.
+          Of this kind are the Byzantine Empire,
+          Rhodes, Hungary, Belgrade, and Africa,
+          all of which once worshipped Christ.
+          For since by holding those kingdoms
+          they inflict upon us a continuous injury,
+          the Church can bring into act
+          the jurisdiction it holds in disposition over them,
+          in order to recover through the compulsion of war
+          what is its own.
+          For no other remedy remains.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e390">
+          And it is about unbelievers of this kind that
+          <ref xml:id="lca8s8-d1e236-Rd1e394">Hostiensis speaks in c. quod super his.
+          de voto,</ref>
+          and the other doctors there.
+          And
+          <ref xml:id="lca8s8-d1e236-Rd1e399">Oldradus in consilium 72.</ref>
+          And
+          <ref xml:id="lca8s8-d1e236-Rd1e404">Albericus on the Rubric of c.
+          de paganis et eorum templis.</ref>
+          Where Hostiensis and his followers say that unbelievers,
+          if they do not acknowledge the lordship of the Church,
+          are unworthy of all lordship and jurisdiction.
+          And
+          <ref xml:id="lca8s8-d1e236-Rd1e418">Hostiensis understands this of the jurisdiction
+          and empire</ref>
+          that infidel princes hold over lands that were once Christian,
+          and over the Christians dwelling among them —
+          or where the whole people or some part of the people
+          has converted to Christ,
+          while the prince persists still in his blindness and unbelief.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e438">
+          So interprets
+          <ref xml:id="lca8s8-d1e236-Rd1e440">Antonius Butrius in his commentary on c. quod super
+          of the Decretals,</ref>
+          reconciling the opinion of
+          <ref xml:id="lca8s8-d1e236-Rd1e447">Hostiensis and Innocent IV</ref>
+          in these words:
+          <quote xml:id="lca8s8-d1e236-Qd1e452">"This conclusion of Innocent is confirmed by Hostiensis,
+          who moderates it: so that unbelievers could have
+          jurisdiction over Christians
+          when the unbelievers acknowledge the jurisdiction
+          of the Church.
+          For such persons can have,
+          and by the Church's tolerance can hold,
+          lordships and rights"</quote>
+          and so forth.
+          From which it is clearly and plainly evident
+          that Hostiensis understood the matter to concern
+          infidel lords who have under their power certain Christians —
+          that they must acknowledge the lordship and jurisdiction of the Church
+          in order to be worthy of such principality or lordship
+          (that is) over the faithful.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e484">
+          And these things accord with the teaching of
+          <ref xml:id="lca8s8-d1e236-Rd1e488">the holy doctor, the divine Thomas,
+          Secunda Secundae q. 10. art. 10,</ref>
+          that the Church,
+          <quote xml:id="lca8s8-d1e236-Qd1e493" source="http://scta.info/resource/TAca84-d1e1324-d1e2304@65-225">"although it could by its own right remove through sentence or decree
+          the right of lordship or rule
+          that infidel princes hold over Christians —
+          because by reason of their unbelief they deserve to lose
+          power over the faithful who are transferred
+          into the children of God —
+          nevertheless tolerates them
+          in order to avoid scandal."</quote>
+          These are the words of Saint Thomas.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e512">
+          And so the opinion of Hostiensis is to be understood
+          not indiscriminately of all unbelievers,
+          but of those who were of his time —
+          namely when an infidel prince holds Christians under his dominion,
+          or has usurped Christian kingdoms.
+          For these seem to be bound to acknowledge
+          the lordship of the Church.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e531">
+          But concerning others —
+          such as our Indians,
+          who have neither usurped Christian kingdoms
+          nor rule over Christians,
+          nor had ever before our age heard the name of this our world —
+          it is absurd that they should be bound
+          to acknowledge the lordship of the Church,
+          or else be deprived of their principality,
+          since they have no way to divine this
+          without the teaching of the faith.
+          For if the opinion of Hostiensis were understood otherwise,
+          it would itself be heretical —
+          as we will prove at length elsewhere —
+          and great dangers in the world
+          and intolerable absurdities would follow.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e560">
+          ¶ Second, the Church actually exercises jurisdiction over pagans
+          when in provinces that were once under Christian rule
+          they practice idolatry,
+          or infect a region with abominable and unspeakable vices against nature.
+          For since in those places the true sacrifice
+          of the body and blood of Christ has been consecrated,
+          and pure worship has been offered to the true God,
+          and the sacred sacraments have been administered —
+          concerning which see
+          <ref xml:id="lca8s8-d1e236-Rd1e583">Saint Thomas, Tertia Pars, q. 63, art. 2, 3, 4,
+          6, in c.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e589">
+          Whose end it is that human beings,
+          rendering glory and honor to the true God,
+          should subject themselves entirely to him in body and soul —
+          according to
+          <ref xml:id="lca8s8-d1e236-Rd1e597">Thomas, Secunda Secundae, q. 93, art. 27, c.,</ref>
+          and
+          <ref xml:id="lca8s8-d1e236-Rd1e599">Book 3, c. 119, Contra Gentiles —</ref>
+          it is by no means reasonable that the Church,
+          if it has the power,
+          should tolerate such things,
+          since they redound to the reproach and dishonor
+          of the Christian name.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e619">
+          And this no Christian ought to dissemble,
+          as stated in
+          <ref xml:id="lca8s8-d1e236-Rd1e623">c. in nonnullis. de iudaeis,</ref>
+          where it says:
+          <quote xml:id="lca8s8-d1e236-Qd1e628">"we ought not to dissemble the reproach
+          of him who has blotted out our reproaches for us,"</quote>
+          and in
+          <ref xml:id="lca8s8-d1e236-Rd1e635" corresp="#lca8s8-d1e236-Qd1e640">l. Manichaeos c. de hereticis,</ref>
+          it is said:
+          <quote xml:id="lca8s8-d1e236-Qd1e640" source="http://scta.info/resource/azsw2e-d1e104-d1e151@6-17">"we desire that a public crime
+          be what is committed against the divine religion:
+          it is an injury inflicted upon all"</quote>
+          and so forth.
+          And
+          <quote xml:id="lca8s8-d1e236-Qggj111" source="http://scta.info/resource/bgy6gt-d1e59-d1e116@30-38">"public law consists in sacred matters and in priests,"</quote>
+          as stated in
+          <ref xml:id="lca8s8-d1e236-Rd1e656" corresp="#lca8s8-d1e236-Qggj111">l. 1. ius publicum, ff. de iustitia et iure.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e659">
+          This case together with the preceding one is specifically stated by
+          <ref xml:id="lca8s8-d1e236-Rd1e663">Innocent in c. maiores. de baptismo,
+          at the end,</ref>
+          where, speaking of the Saracens, he says:
+          <quote xml:id="lca8s8-d1e236-Qd1e669">"that they are not to be attacked by war by the Church,
+          if they neither defile the land of Christians with their filth
+          nor assail the persons of Christians"</quote>
+          and so forth.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e679">
+          Innocent took that word "filth" from sacred scripture,
+          where it chiefly signifies idolatry
+          or another unclean abomination,
+          especially against nature.
+          For so we read in 3 Kings 15
+          of King Asa,
+          <quote xml:id="lca8s8-d1e236-Qd1e692">"that he removed the effeminate men from the land
+          and cleansed all the filth of the idols
+          which his fathers had made."</quote>
+          And in Apocalypse, chapter 22:
+          <quote xml:id="lca8s8-d1e236-Qd1e701">"he who does harm, let him do harm still:
+          and he who is in filth, let him be made filthy still."</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e710">
+          And thus must be understood what the same Innocent holds
+          in c. quod super his de voto, 1st column,
+          <note place="margin-right" hand="F">How Innocent is to be understood.</note>
+          where he believes that
+          <quote xml:id="lca8s8-d1e236-Qd1e721">"if a gentile who has no law except that of nature
+          acts against the law of nature,
+          he can lawfully be punished by the pope."</quote>
+          And a little further on he says:
+          <quote xml:id="lca8s8-d1e236-Qd1e731">"I say the same (he states) if they worship idols.
+          For it is natural to worship one sole God the Creator
+          and not creatures."</quote>
+          So far he.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e741">
+          This must be supplemented and understood as follows:
+          if the provinces where those sins are committed
+          were once inhabited by a Christian people —
+          otherwise more absurdities would follow than from the teaching of Hostiensis —
+          if Innocent were to understand this absolutely
+          of all parts of the world
+          whose inhabitants had not yet received the faith
+          nor had the Church been founded among them.
+          First, because that would be contrary to what we proved above
+          by ten effective arguments.
+          Second, because Innocent does not prove his assertion
+          but merely cites the fact that the Sodomites,
+          who sinned against the law of nature,
+          were punished by God —
+          <ref xml:id="lca8s8-d1e236-Rd1e773">Genesis 14.</ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e776">
+          <quote xml:id="lca8s8-d1e236-Qd1e778">"Since the judgments of God (Innocent says) are examples for us,
+          I do not see why the pope, who is the vicar of Christ,
+          cannot do this —
+          provided the power is available."</quote>
+          So Innocent.
+          Certainly, if all the judgments of God were to be imitated by us,
+          it would follow that on account of the sin of idolatry
+          and the sin against nature,
+          the innocent children of those who committed such sins
+          ought to be killed —
+          on the grounds that God had done so.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e805">
+          ¶ Similarly, on account of rebellion
+          or schism against the Church,
+          not only the rebels and schismatics would have to be killed,
+          but also their children and wives,
+          and all their possessions would have to be destroyed —
+          on the grounds that in
+          <ref xml:id="lca8s8-d1e236-Rd1e819">Numbers, chapter 16,</ref>
+          we read that Korah, Dathan, and Abiron,
+          <add place="margin-left" hand="?">together with their tents and all their substance,</add>
+          were swallowed up by the earth
+          on account of their disobedience toward Moses and Aaron.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e830">
+          ¶ Similarly, that on account of serious theft,
+          not only would the thief have to be stoned,
+          but also his children, wife, oxen, sheep, beasts of burden,
+          and all his possessions would have to be consumed by fire —
+          on the grounds that the Lord commanded this to be done
+          to <name xml:id="lca8s8-d1e236-Nd1e840">Achan</name>
+          in <ref xml:id="lca8s8-d1e236-Rd1e844">Joshua, chapter 7,</ref>
+          because he had hidden a scarlet mantle
+          and two hundred shekels taken from the plunder of the enemies
+          which God had commanded to be burned.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e853">
+          ¶ Similarly it would follow
+          that if children insulted a prelate —
+          even the supreme one —
+          they should be thrown to the lions,
+          since we read in
+          <ref xml:id="lca8s8-d1e236-Rd1e861">4 Kings, chapter 2,</ref>
+          that forty-two children were torn apart by bears
+          because they mocked
+          <name xml:id="lca8s8-d1e236-Nd1e868">the prophet Elisha</name>
+          as he was coming into the city of Bethel,
+          taunting him with these words:
+          <quote xml:id="lca8s8-d1e236-Qd1e875">"Go up, bald-head! Go up, bald-head!"</quote> —
+          for which cause they were cursed by
+          <name xml:id="lca8s8-d1e236-Nd1e880">Elisha</name>
+          and torn apart by bears that came out of the forest.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e886">
+          And other terrible judgments of God
+          which we omit for the sake of brevity —
+          which, if they were to be imitated by us,
+          would undoubtedly cause us to commit
+          a great many and very serious unjust acts and gravest sins,
+          and a thousand thousand absurdities would follow.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e907">
+          ¶ Therefore not all the judgments of God
+          are examples for us to imitate.
+          Nor will anyone be able to assign any reason —
+          except a frivolous one —
+          why we should not imitate the judgments of God
+          in these cases just as in that one.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e920">
+          To which we respond as follows.
+          First, because examples and deeds of this kind from the Old Testament
+          are to be marveled at rather than imitated,
+          as was said above and will be said again.
+          Second, because when God saw that certain sins had begun to be committed,
+          he was accustomed to punish them very severely at the outset,
+          so that people, frightened by that most severe example,
+          might be deterred from similar sins.
+          Of this kind was the destruction or submersion of Sodom.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e948">
+          At the beginning of the bans
+          at the entry into the Promised Land
+          was the punishment of <name xml:id="lca8s8-d1e236-Nd1e954">Achan</name>
+          and the transgression of the first ban.
+          Similarly, the punishment for the first exercise of simony
+          was harshly inflicted upon
+          <name xml:id="lca8s8-d1e236-Nd1e961">Simony's</name> first practitioner:
+          it was severely punished in the case of
+          <name xml:id="lca8s8-d1e236-Nd1e965">Gehazi,</name>
+          who received silver and garments from
+          <name xml:id="lca8s8-d1e236-Nd1e970">Naaman</name>
+          in return for communicating spiritual grace to him.
+          For <name xml:id="lca8s8-d1e236-Nd1e977">Gehazi</name>
+          and all his offspring were struck with leprosy by God.
+          Thus also, when the evangelical light first arose in the East,
+          <name xml:id="lca8s8-d1e236-Nd1e983">Ananias</name>
+          and <name xml:id="lca8s8-d1e236-Nd1e988">Sapphira,</name>
+          for one lie alone —
+          in that they concealed a certain part of their possessions —
+          were suddenly deprived of this light,
+          as recorded in Acts, chapter 5.
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e1000">
+          This reason is given by the
+          <ref xml:id="lca8s8-d1e236-Rd1e1004">ordinary gloss</ref>
+          in these words:
+          <quote xml:id="lca8s8-d1e236-Qd1e1006">"the beginnings of laws are always commended by punishments:
+          the two sons of Aaron, offering strange fire, are consumed.
+          Oza, supporting the ark, fell dead.
+          He fell so that other transgressors might be terrified by his example.
+          It was not the cause of gain that gave so severe a sentence of transgression:
+          but one who foresaw the future tares
+          that would corrupt the simplicity of the Church with depraved morals —
+          seeing that no penitence could cure the guilty —
+          cut out the harmful root
+          in order to instill fear in posterity"</quote>
+          and so forth.
+          And the <ref xml:id="lca8s8-d1e236-Rd1e1037">interlinear gloss:</ref>
+          <quote xml:id="lca8s8-d1e236-Qd1e1039">"at the beginning,
+          this swift punishment instilled great fear."</quote>
+        </p>
+
+        <p xml:id="lca8s8-d1e236-d1e1047">
+          Certainly, greater abuses of simony
+          and greater sins and unspeakable crimes
+          were afterwards committed by human beings
+          of the kinds mentioned above —
+          yet God never punished them so severely.
+          This matter is treated by
+          <ref xml:id="lca8s8-d1e236-Rd1e1058">the Master of Histories on Acts, chapter 22
+          of his History,</ref>
+          and by
+          <ref xml:id="lca8s8-d1e236-Rd1e1064">Tostado on Joshua,
+          chapter 7, question 59.</ref>
+        </p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 4 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 4 [Bnf 12926 Translation]</title>
+          <date when="2024-07-27">July 27, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="22-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e92">
+        <head xml:id="lca8s8-d1e92-Hd1e97">Chapter 4 [Bnf 12926 Translation]</head>
+        
+        <p xml:id="lca8s8-d1e92-d1e99">
+          Chapter 4
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e104">
+          Therefore from those things which have been shown and explained,
+          the difference which 
+          <name xml:id="lca8s8-d1e92-Nd1e111">the Philosopher</name> 
+          sets forth between the aforementioned two types of barbarians manifestly appears.
+          For those about whom he speaks in 
+          <ref xml:id="lca8s8-d1e92-Rd1e115">
+            the first book of the 
+            <title>Politics</title>
+          </ref> 
+          and whom we have now treated:
+          these are barbarians absolutely,
+          properly and strictly speaking—that is,
+          foolish and without sufficient reason to govern themselves:
+          without law,
+          without king,
+          and so forth.
+          And therefore they are naturally unworthy of governance.
+          But the barbarians whom he explains in 
+          <ref xml:id="lca8s8-d1e92-Rd1e136">the third book</ref> 
+          of the same work,
+          he grants and affirms to have legitimate and just and natural governance,
+          these indeed,
+          although they lack the exercise of letters or writing:
+          nevertheless they do not lack the ability and prudence of ruling and governing themselves,
+          both publicly and privately.
+          Therefore they have kingdoms,
+          communities and cities which they prudently regulate with laws and customs.
+          And thus their governance is legitimate and natural,
+          although it has some similarity with tyranny.
+          From which it must necessarily be inferred that the kings of such peoples are ruled by reason;
+          justice and peace are not lacking to the people and their provincial subjects;
+          otherwise neither could they be constituted nor remain in their political being,
+          or be preserved in it for long,
+          as is evident from 
+          <ref xml:id="lca8s8-d1e92-Rd1e174">
+            the same 
+            <name xml:id="lca8s8-d1e92-Nd1e175">philosopher</name> 
+            in the third book of the 
+            <title>Politics</title>, 
+            chapter 8
+          </ref> 
+          and 
+          <ref xml:id="lca8s8-d1e92-Rd1e180">in book 5, chapter 7</ref> 
+          and 
+          <ref xml:id="lca8s8-d1e92-Rd1e185" target="http://scta.info/resource/adcd-l2-d1e271@166-194">
+            <name xml:id="lca8s8-d1e92-Nd1e186">Augustine</name>, 
+            book 2, 
+            chapter 21 of 
+            <title>The City of God</title>
+          </ref>.
+          Therefore not all barbarians lack reason,
+          nor are they slaves by nature or unworthy of governance.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e196">
+          Therefore some barbarians justly and according to nature have kingdoms and royal dignities,
+          jurisdictions and good laws,
+          and among them there is legitimate governance.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e207">
+          But if we shall have shown that among our Indians inhabiting the western and southern regions,
+          even though we call them barbarians and they are barbarians,
+          there exist illustrious kingdoms,
+          great multitudes of people living politically and socially,
+          large cities,
+          kings,
+          judges,
+          laws,
+          using commerce,
+          purchases,
+          sales,
+          leases and other contracts of the law of nations—will it not be proven manifest that 
+          <name xml:id="lca8s8-d1e92-Nd1e226">the Reverend Doctor Sepúlveda</name> 
+          has committed a fallacy viciously and very culpably against such peoples,
+          either from ignorance or malice concerning 
+          <name xml:id="lca8s8-d1e92-Nd1e233">Aristotelian</name> 
+          doctrine,
+          and consequently has falsely and perhaps inexpiably defamed them before the whole world?
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e244">
+          Therefore it does not follow from the fact that the Indians are barbarians that they are incapable of kingdoms,
+          and necessarily must be governed by others,
+          except to be taught about the Catholic faith and initiated in the holy sacraments.
+          For they are not stupid,
+          savage,
+          or wild,
+          but had well-instituted republics even long before they had heard the Spanish name,
+          namely composed soberly with the best laws,
+          religion,
+          and institutions;
+          they cultivated friendship and,
+          joined in the society of life,
+          inhabited very large cities,
+          where they prudently administered the affairs of both peace and war from what is good and equitable—indeed governed by laws which in very many matters surpass ours,
+          and could be an admiration to the wise men of Athens,
+          as I will show in its place (namely) in the second part of this apology.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e280">
+          But if because they are unskilled in elegant letters they are to be conquered by war,
+          let 
+          <name xml:id="lca8s8-d1e92-Nd1e286">Sepúlveda</name> 
+          hear 
+          <ref xml:id="lca8s8-d1e92-Rd1e288">
+            <title>Trogus Pompeius</title>, 
+            book 44,
+            near the end:
+          </ref> 
+          <quote xml:id="lca8s8-d1e92-Qd1e292">
+            "Nor before," 
+            he says, 
+            "could the conquered provinces receive the Spanish yoke,
+            until Caesar Augustus,
+            having subdued the world,
+            transferred his victorious arms to them and reduced the barbarous and fierce people,
+            led by laws to a more civilized way of life,
+            to the form of a province."
+          </quote>
+          Behold,
+          he calls the Spanish people barbarous and fierce.
+          And I would like to hear 
+          <name xml:id="lca8s8-d1e92-Nd1e329">Sepúlveda</name> 
+          responding in his prudence whether he considers the war of the Romans against the Spanish just,
+          in order to free them from barbarism?
+          And again,
+          whether the Spanish waged an unjust war when they fiercely defended themselves against them?
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e343">
+          Next I call the Spanish bandits torturers of a wretched people.
+          Do you judge that,
+          having subjugated the fierce and barbarous people of Spain,
+          the Romans could by the best right divide all of you among themselves,
+          with so many heads assigned to each,
+          both men and women?
+          And then do you judge that the Roman princes could have stripped you of your domain,
+          and that all of you,
+          despoiled of liberty,
+          could be worn out with miserable labors—namely occupied in seeking mines of gold and silver and extracting and refining metals?
+          Since finally the Romans did this,
+          as is evident from 
+          <ref xml:id="lca8s8-d1e92-Rd1e374">
+            <name xml:id="lca8s8-d1e92-Nd1e375">Diodorus</name>, 
+            book 6, 
+            chapter 9,
+          </ref>
+          would you not have the right to defend your liberty and indeed your life by war?
+          Do you permit,
+          Sepúlveda,
+          <name xml:id="lca8s8-d1e92-Nd1e382">Saint James</name> 
+          to evangelize to your Cordobans in this manner?
+          By God and by the faith of men!
+          Is this to impose the yoke of Christ on Christian men?
+          Is this to remove fierce barbarism from the souls of barbarians,
+          or rather to act as bandits,
+          assassins,
+          and savage robbers,
+          and to drive the most gentle peoples headlong into desperation?
+          The Indian people are not barbarous with such barbarism,
+          nor foolish,
+          nor stupid,
+          but teachable and most talented in all the liberal arts,
+          and most inclined to receive,
+          cultivate,
+          and observe the Christian religion and to correct their sins,
+          as experience has taught after they were initiated in the sacred mysteries by priests and instructed,
+          taught by the word of God.
+          They are endowed with the best morals.
+          And before the arrival of the Spanish,
+          as we have said,
+          they had political republics properly constituted with salutary laws.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e425">
+          Moreover,
+          they are so skilled in every mechanical art that by the best right they ought to be preferred in this regard to all the peoples of the known world,
+          so beautiful in art and elegance are the things which that people excels in with the elegance of buildings,
+          featherwork,
+          and needlework.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e441">
+          But 
+          <name xml:id="lca8s8-d1e92-Nd1e445">Sepúlveda</name> 
+          scorns these mechanical arts,
+          as if in these things the skill of talent did not shine forth,
+          nor acumen,
+          nor industry,
+          nor right reason.
+          For the mechanical art is a habit of the operative intellect,
+          which is usually defined as right reason directive of things to be made,
+          of acts of reason,
+          through which the artisan in the very act of reason proceeds in an orderly,
+          easy,
+          and error-free manner,
+          according to 
+          <ref xml:id="lca8s8-d1e92-Rd1e462">
+            the 
+            <name xml:id="lca8s8-d1e92-Nd1e463">philosopher</name>, 
+            in the first book of the 
+            <title>Posterior Analytics</title>
+          </ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e470">
+          Therefore they are not stupid,
+          Reverend Doctor,
+          whose works of more refined elegance,
+          learnedly fabricated,
+          provide admiration to all peoples.
+          For works show the talent of a man,
+          for (as the poet says) the work commends the craftsman.
+          And again 
+          <ref xml:id="lca8s8-d1e92-Rd1e502">
+            <name xml:id="lca8s8-d1e92-Nd1e503">Prosper</name> 
+            in his 
+            <title>Epigrams</title>
+          </ref> 
+          says:
+          "Behold by the marvelous signs of works the author is shown,
+          and created things also sing of their author."
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e516">
+          Of the liberal arts in which they have been educated up to now,
+          such as grammar and logic,
+          they are remarkably skilled.
+          They delight the ears of listeners with every kind of music with admirable sweetness.
+          They write skillfully and most elegantly,
+          so that it is often doubted whether the characters are written by hand or printed by type.
+          Which I will teach more fully in the second part of this apology,
+          not recounting the most vain lies of the worst men scattered in histories printed up to now,
+          but the truth itself,
+          and those things which I saw with my eyes,
+          handled with my hands,
+          absorbed with my own ears for very many years living among those peoples.
+          <add place="margin-left" hand="F" type="marginal-note">
+            I,
+            dwelling among them for thirty years,
+            experienced wonderful things in every ingenious craft.
+          </add>
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e562">
+          But if 
+          <name xml:id="lca8s8-d1e92-Nd1e564">Sepúlveda</name>, 
+          as befits a serious man,
+          had wished to know the truth fully before descending to writing,
+          corrupted by the lies of tyrants,
+          he should have consulted religious and upright men who lived with those peoples for many years and had knowledge of the gifts of the people,
+          both of talent and industry,
+          as well as the progress they had made both in religion and in good morals.
+          Indeed,
+          Rome is far from Spain,
+          yet there the talent of these peoples and their inclination and skill for perceiving the liberal disciplines was known.
+          For behold 
+          <ref xml:id="lca8s8-d1e92-Rd1e592">
+            <name xml:id="lca8s8-d1e92-Nd1e593">
+              Paul Jovius,
+              Bishop of Nocera
+            </name>, 
+            left this eulogy for posterity to read in praise of these peoples whom you call foolish and stupid,
+            in the 
+            <title>History of His Times</title>, 
+            book 34:
+          </ref> 
+          <quote xml:id="lca8s8-d1e92-Qd1e606">
+            "Ferdinand Cortés,
+            hastening by land route to the Mexican kingdoms,
+            having subdued the Indians,
+            took possession of the city of Tenochtitlan,
+            when with fabricated ships he had conquered that city,
+            situated in a salt lake and admirable with buildings and the multitude of inhabitants in the manner of the Venetian city,
+            with many battles."
+          </quote>
+          Behold,
+          he teaches that the city of the Indians is admirable with buildings in the manner of the Venetian city.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e627">
+          But as for the horrible crime which you exaggerate,
+          namely that they sacrificed living men,
+          see what 
+          <name xml:id="lca8s8-d1e92-Nd1e635">Jovius</name> 
+          adds there:
+          <quote xml:id="lca8s8-d1e92-Qd1e637">
+            "For the Mexican people it is lawful to sacrifice living men to the gods,
+            but those condemned for crimes."
+          </quote>
+          What does he assert about the talent of the people?
+          <quote xml:id="lca8s8-d1e92-Qd1e645">
+            "It was not entirely difficult for Cortés to lead a people talented in itself and teachable to the worship of Christ,
+            having rejected the superstitions of idols.
+            For they now gladly and admiringly learn our letters,
+            having cast off hieroglyphic images by which they used to write annals,
+            transmitting to posterity the memory of their kings with various pictures."
+          </quote>
+          <add place="rm" hand="F">
+            They write most elegantly and paint books on parchment for the choir of religious with artifice skillfully.
+          </add>
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e672">
+          This is what it befitted you,
+          a man of such erudition,
+          to imitate in asserting the truth,
+          not at the whispers of the most frivolous men with the drawn point of the pen to write a defamatory booklet against the Indians inhabiting an immense world.
+          You cite to us 
+          <ref xml:id="lca8s8-d1e92-Rd1e687">
+            <name xml:id="lca8s8-d1e92-Nd1e688">Oviedo's</name> 
+            <title>History</title>, 
+            approved by the royal senate,
+          </ref>
+          as if 
+          <name xml:id="lca8s8-d1e92-Nd1e694">Oviedo</name>, 
+          as he himself testifies in book 6,
+          chapter 8,
+          were not some savage tyrant who possessed the miserable Indians,
+          oppressed in servitude like cattle,
+          and following other bandits destroyed a great part of the continent,
+          or as if the Senate,
+          when it approves the book,
+          seems to approve also all the lies contained in it,
+          or knew whether what was contained there was true?
+          You give credence to an enemy and to one whose cause was being tried.
+          For that man possessed a certain number of Indians just like the other tyrants.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e725">
+          From these things it appears that the foundation of Sepúlveda,
+          who teaches that these peoples are crude and stupid,
+          is false,
+          more false than false.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e732">
+          But let us grant that this people does not excel in acumen of talent and skillful industry.
+          Certainly they are not therefore bound to submit themselves to the wiser and embrace their talent,
+          so that if they refuse they can be conquered by war being brought,
+          and be subjugated like slaves,
+          as happens today.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e751">
+          For men are bound to do many things by natural law which,
+          if they are unwilling to fulfill,
+          they cannot be compelled to do.
+          By natural law we are bound to embrace virtue and to imitate the integrity of pious men;
+          yet no one is punished for being most wicked unless he is seditious.
+          The Catholic faith,
+          where it has been preached in a Christian manner and as befits,
+          all men are bound by natural law to receive;
+          yet no one is compelled to receive the faith of Christ.
+          No one is punished for being overwhelmed by vices unless he is seditious or injurious to the property or persons of men;
+          no one is compelled to embrace virtue and to show himself a good man.
+          He who receives a benefit is bound by natural law to return the benefit by an obligation which is called "toward antidotes";
+          yet no one is compelled to this,
+          nor,
+          if he omits it,
+          is he punished according to the received tradition of jurists in 
+          <ref xml:id="lca8s8-d1e92-Rd1e795">l. ex hoc jure</ref>, 
+          ff. 
+          <ref xml:id="lca8s8-d1e92-Rd1e797">de justitia et jure</ref> 
+          and in 
+          <ref xml:id="lca8s8-d1e92-Rd1e802">l. sed et si lege § consuluit</ref>, 
+          ff. 
+          <ref xml:id="lca8s8-d1e92-Rd1e807">de petitione haereditatis</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e810">
+          To relieve the need of a brother is a pious work to which nature has made men inclined and obligates them;
+          yet no one is compelled to provide alms.
+          But concerning these things see what is said more fully below in chapter [blank].
+          Therefore no one,
+          even truly wise,
+          can compel a stupid barbarian to submit himself to him without injury,
+          especially committing liberty,
+          which the miserable Indians suffer with the greatest injury against all divine and human laws and against the very law of nature.
+          Nor should evil be done that good may come from it.
+          Just as if someone castrated another unwillingly—for although castrated men are withdrawn from venereal things which drive human minds with fury,
+          nevertheless he who castrates a man is most severely punished,
+          as in 
+          <ref xml:id="lca8s8-d1e92-Rd1e854">
+            l. si servum § et si puerum,
+            ff. ad legem Corneliam
+          </ref> 
+          and in 
+          <ref xml:id="lca8s8-d1e92-Rd1e859">l. 3 § qui hominem</ref> 
+          and in 
+          <ref xml:id="lca8s8-d1e92-Rd1e864">l. 4</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e867">
+          But if by this most absurd argument war against the Indians were lawful,
+          <add place="rm" hand="F">note</add> 
+          people would rise against people and man against man,
+          and in the opinion of superior wisdom,
+          one would contend to subjugate the other.
+          By this motto also,
+          the Turks and Moors,
+          truly the barbarous refuse of peoples,
+          could 
+          <add place="above-line" hand="B">wage war against the Indians</add> 
+          by the best right and according to the law of nature,
+          because (as it seems to some) they excel us in right constitution of the republic.
+          If we admit this,
+          will not all things,
+          divine and human,
+          be mixed up topsy-turvy?
+          What can be brought forward more contrary to the eternal law than what 
+          <name xml:id="lca8s8-d1e92-Nd1e906">Sepúlveda</name> 
+          frequently displays?
+          Or what plague is more to be execrated?
+          I suppose 
+          <name xml:id="lca8s8-d1e92-Nd1e913">Sepúlveda</name>, 
+          in his modesty,
+          considers that Spain has others more prudent than itself.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e921">
+          Therefore he is to be compelled to submit himself to them by the eternal law.
+          And indeed the eternal law has disposed and distinguished all things with admirable reason and order.
+          It has divided kingdoms from kingdoms and peoples from peoples according to that passage in 
+          <ref xml:id="lca8s8-d1e92-Rd1e936">Deuteronomy</ref>:
+          <quote xml:id="lca8s8-d1e92-Qd1e938" source="http://scta.info/resource/deut32_8@1-8">
+            "When the Most High divided the nations and separated the sons of Adam."
+          </quote>
+          He also set over each people for itself a ruler and governors by divine inspiration according to that passage in 
+          <ref xml:id="lca8s8-d1e92-Rd1e949">Ecclesiasticus 17</ref>:
+          <quote xml:id="lca8s8-d1e92-Qd1e952" source="http://scta.info/resource/sir17_15@1-5">
+            "Over each nation he set a ruler."
+          </quote>
+          For whatever kings or governors there are,
+          even among barbarians,
+          they are ministers of God,
+          which 
+          <ref xml:id="lca8s8-d1e92-Rd1e961">divine wisdom teaches in Proverbs 8</ref>:
+          <quote xml:id="lca8s8-d1e92-Qd1e966" source="http://scta.info/resource/prov22_28@1-8 http://scta.info/resource/prov8_16@1-8">
+            "Through me kings reign,
+            and lawmakers decree what is just;
+            through me princes rule,
+            and the powerful decree justice."
+          </quote>
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e982">
+          And whatever kings or governors not governing their subjects in right order,
+          barbarians or Greeks,
+          believers or unbelievers,
+          are transgressors of the eternal law.
+          And for that transgression they have God as avenger and judge.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e995">
+          Since therefore each people has a ruler or prince by the eternal law,
+          there is no reason why a people under the pretext of wisdom should attack another,
+          nor overthrow foreign kingdoms.
+          For it acts against the eternal law,
+          which we read in 
+          <ref xml:id="lca8s8-d1e92-Rd1e1008">Proverbs 22</ref>:
+          <quote xml:id="lca8s8-d1e92-Qd1e1010" source="http://scta.info/resource/prov22_28@1-8">
+            "Do not transgress the ancient boundaries which your fathers have set."
+          </quote>
+          This is not an act of wisdom but of iniquity and a false pretext for plundering what belongs to others.
+          Therefore any people,
+          however barbarous,
+          can defend itself from a wiser one who wishes to subjugate it and deprive it of liberty;
+          indeed it can lawfully punish the wiser one by killing him as savage and violent,
+          bringing injury against the law of nature.
+          And this war is certainly more just than that which is brought against them under the name of wisdom.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e1045">
+          <name xml:id="lca8s8-d1e92-Nd1e1047">Sepúlveda</name> 
+          brings forward another argument,
+          namely that more imperfect things yield by nature to more perfect ones,
+          just as matter to form,
+          body to soul,
+          sense to reason—which indeed I do not deny;
+          however that is true when two things are joined by nature in first act.
+          Just as when matter and form,
+          which gives being to a thing,
+          concur into one.
+          Likewise when body and soul are glued together and make an animal,
+          and sense and reason exist in the same subject.
+          If however the perfect and imperfect are separated and exist around different subjects,
+          then the imperfect do not yield to the more perfect.
+          For they are not yet joined in first act.
+          And according to this distinction,
+          if in one and the same body of a republic or under the same prince or governor the wise and foolish lived,
+          then the foolish ought to submit themselves to the judgment of the wiser who govern the republic—for example,
+          to the king or his laws or governors.
+          If they refused,
+          force could lawfully be applied against them and they could be punished.
+          For this the law of nature dictates.
+          Otherwise no free person,
+          and much less a free people,
+          is bound to submit itself to any king or people,
+          however much it may excel in prudence,
+          even if advantage is believed to accrue to them from that.
+          This conclusion is handed down in this very case,
+          namely when the imperfect yield to the more perfect,
+          by 
+          <ref xml:id="lca8s8-d1e92-Rd1e1127">
+            <name xml:id="lca8s8-d1e92-Nd1e1128">Augustine of Ancona</name>, 
+            in the book 
+            <title>On Papal Power</title>, 
+            question 22,
+            article 7
+          </ref>, 
+          and 
+          <ref xml:id="lca8s8-d1e92-Rd1e1138">
+            <name xml:id="lca8s8-d1e92-Nd1e1139">Giles of Rome</name>, 
+            on the second book of the Sentences,
+            distinction 44,
+            article 2
+          </ref>.
+          Therefore no free people can be compelled to submit itself to a wiser people,
+          even if such submission could result in great advantage to them.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e1152">
+          <ref xml:id="lca8s8-d1e92-Rd1e1154">
+            <name xml:id="lca8s8-d1e92-Nd1e1155">The Philosopher</name>, 
+            in the first book of the 
+            <title>Politics</title>,
+          </ref>
+          when he brings forward the argument about matter which yields to form,
+          wishes to signify nothing other than that nature has produced men apt through innate prudence so that they can govern others who are not endowed with such great faculty of talent.
+          But he teaches that such more prudent ones should be applied to the helm of the republic for the preservation and advantage of the republic,
+          to whom the rest ought to be subject,
+          just as matter is subject to form and body to soul.
+        </p>
+        
+        <p xml:id="lca8s8-d1e92-d1e1182">
+          The last argument of 
+          <name xml:id="lca8s8-d1e92-Nd1e1186">Sepúlveda</name>:
+          that namely anyone can be compelled and unwillingly made to do those things which are useful to him—if this proposition is taken absolutely,
+          it is most false.
+          For 
+          <ref xml:id="lca8s8-d1e92-Rd1e1195">
+            <name xml:id="lca8s8-d1e92-Nd1e1196">Augustine</name>, 
+            whom he cites,
+            speaks
+          </ref> 
+          of those who had promised something useful to themselves and did not provide it,
+          with harm or injury to others.
+          Indeed he speaks of heretics,
+          whom the Church compels to fulfill the vows which they vowed in baptism,
+          not only because they are useful to them,
+          but especially 
+          <quote xml:id="lca8s8-d1e92-Qd1e1213">
+            because they promised and vowed them to God,
+            and from the promise they are bound by a certain peculiar obligation.
+          </quote>
+          For it would not be sufficient that they be useful to them.
+          For we see that no unbeliever is compelled to receive baptism.
+          But from the teaching of the said 
+          <name xml:id="lca8s8-d1e92-Nd1e1226">Augustine</name>, 
+          the doctors conclude that one can and should be compelled to a good that has been promised,
+          but not to a good that has not been promised.
+          But concerning this,
+          very many things are to be discussed below.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

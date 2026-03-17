@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 58 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 58 [Bnf 12926 Translation]</title>
+          <date when="2026-01-06">January 06, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-01-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="240-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e803">
+        <p xml:id="lca8s8-d1e803-d1e97">
+          Chapter 58
+        </p>
+        
+        <p xml:id="lca8s8-d1e803-d1e102">
+          It is not surprising if 
+          <name xml:id="lca8s8-d1e803-Nd1e107">Oviedo</name> 
+          slanders the race of the Indians with so many criminal lies,
+          which happens to him for two reasons. 
+          For first,
+          he was one of those bandits who in the time 
+          <add place="margin-left">otherwise of Pedro Arias</add> 
+          of Pedrarias penetrated into the continent in the year 1513. 
+          For they,
+          beginning before all others from the province of Darien which pertains to the Gulf of Uraba,
+          devastated the entire continent with most savage cruelty,
+          not only not sparing infants,
+          women or the elderly,
+          but indeed even burning men alive so that they might plunder their gold 
+          and divide them among themselves,
+          that is,
+          drag them into slavery. 
+          At that time 
+          <name xml:id="lca8s8-d1e803-Nd1e143">Oviedo</name> 
+          was the inspector of the king's accounts. 
+          For this is the office of him who is commonly called veedor. 
+          And to him pertained a part of the plunder collected from these abominable raids. 
+          The wretched Indians were sleeping,
+          thinking nothing of the sort,
+          and behold at dawn these most savage thieves,
+          rather than soldiers,
+          having made an assault attacked their houses constructed from straw,
+          and having applied fire,
+          they burned both houses and living men;
+          and when the flames were extinguished,
+          they sought the gold melted by fire. 
+          Nor content with these things,
+          they tore apart with most savage torments the Indians whom they captured alive,
+          so that they might indicate where a greater quantity of gold lay hidden.
+          <pb ed="#P" n="241-r"/>
+          But all these things were done from the counsel and with the consent of 
+          <name xml:id="lca8s8-d1e803-Nd1e182">Oviedo</name> 
+          himself and the other officials of the king,
+          so that they might have as many parts of the plunder as they had sent servants and ministers 
+          to perpetrate the impious deed with the others. 
+          It would be better for 
+          <name xml:id="lca8s8-d1e803-Nd1e195">Oviedo</name> 
+          to repair these abominable crimes with restitution than to defame with criminal slanders 
+          and shameless lies a most gentle race,
+          most modest and redeemed by the blood of Christ. 
+          <name xml:id="lca8s8-d1e803-Nd1e196">Oviedo</name> 
+          himself knows how many Indians marked unjustly on the forehead with iron they dragged 
+          into slavery,
+          of whom a part fell to him. 
+          How many chiefs and principal men they savagely tore apart? 
+          And how tyrannically they divided peoples or Indians among themselves,
+          so that the Indians might serve not one but several tyrants. 
+          He remembers how hard and unjust labors they imposed upon them even unto the expiration 
+          of the soul,
+          not sparing tender children,
+          not women,
+          not the elderly broken by age,
+          that they might extract gold from the bowels of the earth. 
+          He is not ignorant of the most unfortunate end of this impiety. 
+          For what might he be ignorant of that is most well known to the whole world? 
+          Those regions most cultivated with an almost immense multitude of inhabitants,
+          through twelve hundred miles all the way to Nicaragua laid waste,
+          devastated,
+          and utterly deserted of inhabitants,
+          have offered a pitiable testimony to the most savage cruelty of these thieves;
+          here 
+          <name xml:id="lca8s8-d1e803-Nd1e197">Oviedo</name> 
+          played his part. 
+          Indeed he was one of those
+          <pb ed="#P" n="241-v"/>
+          impious bandits,
+          which he himself does not wish to be kept secret. 
+          For thus he says in the preface of the first part of his most trifling history: 
+          "Thus I occupied myself for your majesty's service in inspecting accounts when and how it 
+          was necessary,
+          so that I did not fail in war and in the pacification of those regions with arms." 
+          These are his words. 
+          The sycophant calls it "pacification" to have killed God's rational creatures with Turkish 
+          savagery without any or the slightest cause,
+          and to have sent to hell countless souls who perhaps would have known Christ,
+          with marvelous infamy to the Christian name. 
+          Someone will perhaps marvel at the enormity of the crimes,
+          but so may Christ be merciful to me and impart to these men a spirit of repentance to His glory,
+          that if these things are reported truly,
+          they can seem light and human,
+          so to speak,
+          in respect of those things which the multitude and immensity and gravity of cruelties 
+          perpetrated by them compels me to keep silent about.
+        </p>
+        
+        <p xml:id="lca8s8-d1e803-d1e317">
+          Furthermore 
+          <name xml:id="lca8s8-d1e803-Nd1e319">Oviedo</name> 
+          writes in book 6 chapter 8 these words,
+          narrating the manner in which gold is extracted in those regions: 
+          "I," he says,
+          "had gold extracted by my Indian slaves." 
+          You see that he was one of those who used Indians as slaves,
+          was a leader,
+          and he himself glories in that diabolical war. 
+          Moreover,
+          in the desolation and plundering of those provinces which were called del Darien. 
+          Therefore whoever reads 
+          <name>Oviedo's</name> 
+          history,
+          let him know this for certain:
+          <pb ed="#P" n="242-r"/>
+          that so many and such enormous crimes were committed in that expedition that if the Indians 
+          were cattle,
+          they could have moved not only good mortals but even iron-hearted men to mercy. 
+          But if 
+          <name xml:id="lca8s8-d1e803-Nd1e357">Oviedo</name> 
+          was a companion of this impious expedition,
+          what will he not say about the Indians? 
+          With what vices will he not write that they are contaminated? 
+          But what faith is to be given to an enemy and to one who wove that entire history from the 
+          most shameless lies? 
+          Whose eyes God blinded because of these savage crimes,
+          together with the other bandits who were infamous for pride,
+          greed,
+          cruelty,
+          lust for domination and ambition,
+          lest he be worthy that God should grant to him to recognize that that naked,
+          modest,
+          simple and gentle race was prey they had,
+          not understanding with what talent and with what teachableness they were endowed,
+          how fit and ready they were to receive the Christian religion. 
+          And this was the second reason why 
+          <name xml:id="lca8s8-d1e803-Nd1e413">Oviedo</name> 
+          wrote so many pernicious lies against innocent peoples.
+        </p>
+        
+        <p xml:id="lca8s8-d1e803-d1e418">
+          Why did he not imitate blessed Gregory,
+          who seeing certain Angles dragged into slavery,
+          asked what the province from which they were taken was called;
+          it was answered that it was called Dei. 
+          Most rightly did the most holy man say it is called Dei,
+          for they are led from wrath to the mercy of Christ. 
+          He asked what their king was called;
+          it was answered
+          <pb ed="#P" n="242-v"/>
+          that he was called Adelle;
+          rightly indeed did 
+          <name xml:id="lca8s8-d1e803-Nd1e444">Gregory</name> 
+          say,
+          "For he will sing alleluia to the Lord." 
+          Thus should 
+          <name xml:id="lca8s8-d1e803-Nd1e448">Oviedo</name> 
+          have done,
+          namely to think that although the Indians were naked,
+          they could be clothed with the garment of faith,
+          hope and charity. 
+          And it would be fitting for a man who seems to wish to have read ancient histories,
+          written however in Spanish,
+          to remember that the Persians and Scythians,
+          Massagetae,
+          Derbices,
+          Tybareni,
+          Hyrcanians,
+          and even the Romans themselves,
+          Angles and Cantabrians and other peoples of Spain far surpassed the Indians in vices and 
+          savage customs,
+          whom these men defame as cattle,
+          as appears from Strabo,
+          Mela,
+          Solinus,
+          Diodorus,
+          Herodotus,
+          and Jerome in book 2 against Jovinian. 
+          Yet who ever read that they were rejected or despised on this account,
+          so that they were held not as men but as beasts? 
+          The gospel was announced to those peoples,
+          but in a Christian manner,
+          with evangelical modesty. 
+          Egypt surpassed all regions in monstrous and abominable cults of demons,
+          but nevertheless when the light of the gospel shone forth,
+          the grace of God abounded there,
+          so that the solitudes and monstrous deserts were inhabited by crowds of holy monks. 
+          What does 
+          <name xml:id="lca8s8-d1e803-Nd1e531">Oviedo</name> 
+          know whether the regions of the Indies would have had the same,
+          unless they had been savagely devastated? 
+          For what can the word of God and the grace of baptism not accomplish? 
+          Nevertheless,
+          if 
+          <name xml:id="lca8s8-d1e803-Nd1e542">Oviedo</name> 
+          had applied as much diligence in questioning learned men so that he might know the effects 
+          of marvelous
+          <pb ed="#P" n="243-r"/>
+          efficacy which the word of God produces and the habit of faith and the other supernatural 
+          gifts which are most certainly infused into the soul in the sacrament of baptism;
+          similarly if he had occupied himself in consideration of how sweet is the yoke of Christ and 
+          the burden light,
+          and the pious manner and modesty of the universal Church which it has always used in drawing 
+          to its bosom those who have not yet entered its doors,
+          just as he gave himself entirely in his life to profane matters that he might appear learned,
+          who never learned Latin letters,
+          surely he would have tempered the curses which he falsely heaped for the most part upon the 
+          wretched innocent ones.
+        </p>
+        
+        <p xml:id="lca8s8-d1e803-d1e579">
+          Moreover 
+          <name>Oviedo</name> 
+          wrote in book 5 chapter 3 that the inhabitants of the island of Hispaniola were sodomites 
+          and subject to other abominable crimes,
+          but truly he wrote this falsely. 
+          For I am one of that number who sailed first or at least second to that island around the 
+          year 1500,
+          at the time when the Comendador Bobadilla,
+          who sent Columbus to Spain in chains,
+          was present there,
+          where I remained for several years. 
+          And having made a most diligent inquiry about this matter,
+          I found the abominable vice of sodomy among them to be either none or most rare. 
+          I understood only that if anyone was known to be defamed for that abominable crime,
+          he scarcely escaped the hands of the angry women
+          who rose up against them.
+          <pb ed="#P" n="243-v"/>
+          But at the time when 
+          <name xml:id="lca8s8-d1e803-Nd1e622">Oviedo</name> 
+          entered that island,
+          already the entire race of Indians had utterly perished from an immense multitude of mortals;
+          and of the Spaniards who killed the Indians,
+          except for two or three,
+          no one remained,
+          but all had died.
+        </p>
+        
+        <p xml:id="lca8s8-d1e803-d1e637">
+          But 
+          <name xml:id="lca8s8-d1e803-Nd1e639">Oviedo</name> 
+          wove his history or rather trifles from little fables which a certain sailor narrated to him,
+          whose name was 
+          <name xml:id="lca8s8-d1e803-Nd1e647">Fernando Perez</name>,
+          who guarding the ship never or rarely descended to land,
+          and used to defame the Indians in sailor fashion so that by their labor and resources the 
+          bandits rather than soldiers might be more lavishly fattened. 
+          We believe this to be most certain,
+          which God willing I will teach more fully in the history written by me about Indian affairs,
+          that all the inhabitants of the island of Hispaniola and of the island of Saint John,
+          of Cuba and Jamaica and of the others which are called the Lucayas,
+          which once most cultivated,
+          now by the savagery of these men are deserted,
+          were entirely free from three vices. 
+          For they neither sacrificed humans nor ate human flesh nor were sodomites. 
+          They learned very many sins indeed from the Spaniards,
+          believing that all things which were done by them were holy. 
+          But what 
+          <name xml:id="lca8s8-d1e803-Nd1e689">Oviedo</name> 
+          asserts that the Indians are unteachable and incorrigible is false,
+          more false,
+          as will appear
+          <pb ed="#P" n="244-r"/>
+          manifestly from the second part of this Apologia.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

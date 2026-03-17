@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 8 [Bnf 12926 Transcription - English Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 8 [Bnf 12926 Transcription - English Translation]</title>
+          <date when="2024-08-23">August 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="43-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e144">
+        <head xml:id="lca8s8-d1e144-Hd1e97">Chapter 8 [Bnf 12926 Transcription - English Translation]</head>
+
+        <p xml:id="lca8s8-d1e144-d1e99">
+          Chapter 8
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e104">
+          ¶ Above in the preceding chapter we taught that unbelievers are not of the forum of the Church,
+          now we shall prove that neither the Christian Church nor Christian princes can punish pagans because they worship idols,
+          which was the second part of a certain preceding section.
+          This is proved by ten reasons.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e128">
+          First indeed from the words of Christ 
+          <ref xml:id="lca8s8-d1e144-Rd1e132">Luke 12</ref>
+          where he addressed a certain person who was neither his disciple nor followed his words thus:
+          <quote xml:id="lca8s8-d1e144-Qd1e138" source="http://scta.info/resource/lc12_14@5-13">
+            Man, who made me a judge over you?
+          </quote>
+          as if to say "it is not for me to judge those who do not believe my words."
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e162">
+          Thus 
+          <ref xml:id="lca8s8-d1e144-Rd1e166">
+            <name xml:id="lca8s8-d1e144-Nd1e167">Nicholas Gorran</name>
+          </ref>
+          says:
+          <quote xml:id="lca8s8-d1e144-Qd1e169">
+            it does not pertain to Christ here to judge unbelievers:
+            therefore neither to his Church:
+            therefore nor to punish them ordinarily
+          </quote>.
+          For the Church does not have greater power than Christ once had acting on earth.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e187">
+          ¶ Second it is proved from 
+          <ref xml:id="lca8s8-d1e144-Rd1e191">
+            <name xml:id="lca8s8-d1e144-Nd1e192">Paul</name>
+          </ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e194" source="http://scta.info/resource/Icor5_12@1-9">
+            what is it to me to judge those who are outside
+          </quote>,
+          that is, to pass sentence.
+          But the Church today does not have greater power than it had in the time of Paul.
+          Since therefore at that time it could not punish pagans,
+          therefore neither can it today.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e207">
+          ¶ Third it is proved from 
+          <ref xml:id="lca8s8-d1e144-Rd1e211">
+            <name xml:id="lca8s8-d1e144-Nd1e212">Jerome</name>
+          </ref>
+          who writes that only the faithful can be chastised by the Church on that passage
+          <ref xml:id="lca8s8-d1e144-Rd1e216">
+            1 Corinthians 5
+          </ref>
+          <quote xml:id="lca8s8-d1e144-Qd1e221" source="http://scta.info/resource/Icor5_12@1-5">
+            For what is it to me about these
+          </quote>
+          et cetera
+          <quote xml:id="lca8s8-d1e144-Qd1e226">
+            Certainly (Jerome glosses) Do you not judge only those who are within the Church?
+          </quote>
+          Thus Jerome.
+          Therefore one must think differently about unbelievers.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e236">
+          ¶ Fourth it is proved because Christ did not give power to the Church over pagans to exasperate them,
+          persecute them,
+          afflict them,
+          and excite them to tumult and sedition with hatred of the Christian religion:
+          but that by gentleness,
+          kindnesses,
+          courtesy,
+          and evangelical words they might be attracted to submit to the gentle yoke of Christ:
+          as is proved from the 
+          <ref xml:id="lca8s8-d1e144-Rd1e253">
+            gloss of Augustine, Anselm, Bede
+          </ref>
+          and also from 
+          <ref xml:id="lca8s8-d1e144-Rd1e257">
+            Paul 2 Corinthians 10 and 13
+          </ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e261" source="http://scta.info/resource/IIcor10_8@8-19">
+            concerning our power (he says) which the Lord gave us for building up and not for destruction
+          </quote>.
+          From 
+          <ref xml:id="lca8s8-d1e144-Rd1e268">
+            1 Corinthians 14
+          </ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e270" source="http://scta.info/resource/Icor14_26@18-22">
+            let all things be done for edification
+          </quote>.
+          Therefore to punish pagans worshiping idols does not pertain to the Church,
+          for an offense is provided to the gospel.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e280">
+          ¶ Fifth,
+          it is proved:
+          because when a superior judge calls a certain case to himself,
+          an inferior judge cannot hear it,
+          otherwise the judgment is null as in
+          <ref xml:id="lca8s8-d1e144-Rd1e291" target="http://scta.info/resource/cice-l2t28-d1e953">
+            c. ut nostrum de appellationibus
+          </ref>
+          and in 
+          <ref xml:id="lca8s8-d1e144-Rd1e295" target="http://scta.info/resource/cice-l2t28-d1e953">
+            c. unico, ut ecclesiastica beneficia
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e300" target="http://scta.info/resource/cice-l1t5-d1e149">
+            postulatione prelatorum c. Bonae
+          </ref>
+          in 2
+          <ref xml:id="lca8s8-d1e144-Rd1e305" target="http://scta.info/resource/cice-l1t29-d1e559">
+            de officio delegati c. licet
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e310" target="http://scta.info/resource/gd-p2c2q1-d1e301">
+            23 q. 1, c. nomen
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e313" target="http://scta.info/resource/gd-p2c3q6-d1e228">
+            3. q. 6, c. multum stupeo
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e319">
+            Cod. de relationibus l. 1
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e321" target="http://scta.info/resource/azsw2e-d1e4806-d1e254">
+            Cod. de appellationibus l ex illo
+          </ref>.
+          But God wished to reserve to himself the judgment of pagans according to that of 
+          <ref xml:id="lca8s8-d1e144-Rd1e328" corresp="#lca8s8-d1e144-Qd1e334">
+            <name xml:id="lca8s8-d1e144-Nd1e329">Paul</name>
+          </ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e334" source="http://scta.info/resource/Icor5_13@1-7">
+            for those who are outside God will judge
+          </quote>,
+          whose judgment is more severe according to that in
+          <ref xml:id="lca8s8-d1e144-Rd1e339">
+            Hebrews 10
+          </ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e344" source="http://scta.info/resource/hebr10_32@1-7">
+            It is a fearful thing to fall into the hands of the living God
+          </quote>.
+          Since therefore God has reserved their judgment to himself,
+          certainly the Church can in no way judge them nor punish them.
+          For an injury would be done to God who reserved that to himself,
+          and the judgment would be null,
+          namely lacking jurisdiction which is the foundation of judgment,
+          according to that of
+          <ref xml:id="lca8s8-d1e144-Rd1e361">
+            Exodus 2
+          </ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e363" source="http://scta.info/resource/ex2_14@3-10">
+            Who made you a prince and judge over us
+          </quote>;
+          and that can also be objected
+          <quote xml:id="lca8s8-d1e144-Qd1e368" source="http://scta.info/resource/rom14_4@1-12">
+            Who are you (that is) by what authority or power are you,
+            that you judge another's servant?
+            To his own master he stands or falls
+          </quote>
+          <ref xml:id="lca8s8-d1e144-Rd1e377">
+            Romans 14
+          </ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e380">
+          And generally that alone is legitimate judgment which is permitted or conceded by divine authority,
+          according to that in Deuteronomy 1:
+          <quote xml:id="lca8s8-d1e144-Qd1e388" source="http://scta.info/resource/deut1_16@4-10">
+            hear them and judge what is just
+          </quote>:
+          <quote xml:id="lca8s8-d1e144-Qd1e393" source="http://scta.info/resource/deut1_17@14-17">
+            because it is God's judgment
+          </quote>
+          (that is) by divine authority judgment is rendered;
+          and thus 
+          <ref xml:id="lca8s8-d1e144-Rd1e401">
+            the gloss expounds there
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e403">
+            Saint Thomas on the epistle to the Romans ch. 14 lecture 1
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e408" target="http://scta.info/resource/TAca84-d1e1582-d1e493">
+            2a 2e q. 60 a. 2
+          </ref>
+          <ref xml:id="lca8s8-d1e144-Rd1e413" target="http://scta.info/resource/TAca84-d1e1582-d1e493">
+            3
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e417" target="http://scta.info/resource/TAca84-d1e1582-d1e1402">
+            6. c.
+          </ref>
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e421">
+          But he who judges concerning things about which it is not granted to him to judge by divine authority judges rashly,
+          usurping the role of judge when he does not have the power to exercise jurisdiction.
+          Just as if a judge delegated by the pope for some case were to pronounce law outside that case,
+          the judgment would be null,
+          namely because he exceeds the form of the mandate and the power conceded to him as in
+          <ref xml:id="lca8s8-d1e144-Rd1e442" target="http://scta.info/resource/cice-l1t3-d1e437">
+            c. cum dilecta: de rescriptis
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e447">
+            l. diligenter ff mandati
+          </ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e454">
+          The theological reason is that it is not permitted to anyone to transgress the order instituted by divine providence in all things.
+          But then it especially seems not to be observed when judges constituted by God,
+          especially ecclesiastical ones,
+          pass judgment on things committed to another or reserved to the immortal God himself.
+          Thus teaches 
+          <ref xml:id="lca8s8-d1e144-Rd1e469">
+            Saint Dionysius c. 3 <title>of the celestial hierarchy</title> near the beginning
+          </ref>
+          in these words:
+          <ref xml:id="lca8s8-d1e144-Rd1e478" target="http://scta.info/resource/pdah-c3-d1e135@73-113">
+            For it is not right for the holy perfectors,
+            that is superiors,
+            or the holily perfected,
+            that is nor inferiors,
+            to work at all,
+            that is to do anything beyond the proper mysteries of victims,
+            that is beyond the power granted to them,
+            or sacred ordinations,
+            that is beyond the statutes and commands set before them by God.
+            But not even to exist otherwise,
+            that is it is not only illicit for them to work otherwise than is granted to them,
+            but indeed they ought not to remain in life otherwise,
+            if they desire the divine clarity itself,
+            that is if they truly desire to be illuminated;
+            as if he openly said to those doing otherwise than is granted to them divine justice deservedly withdraws the rays of its splendor and grace,
+            so that they err in their doings and fall into more serious crimes
+          </ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e514">
+          The same teaches 
+          <ref xml:id="lca8s8-d1e144-Rd1e519">
+            Chrysostom on Matthew ch. 1 homily 1 in the imperfect work
+          </ref>.
+          See,
+          he says,
+          how illicit it is to usurp a work which has not been committed by God,
+          et cetera.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e529">
+          That those taking judgment upon themselves over pagans are injurious to God,
+          usurping that judgment,
+          is proved from 
+          <ref xml:id="lca8s8-d1e144-Rd1e535">
+            Augustine in a certain epistle
+          </ref>
+          which is cited in 
+          <ref xml:id="lca8s8-d1e144-Rd1e541" target="http://scta.info/resource/gd-p2c2q1-d1e301">
+            c. nomen 2 q. 1
+          </ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e544">
+            Lest I seem to do injury to the power of divine piety,
+            under whose examination the case still is,
+            if I should wish to prevent his judgment by my judgment,
+            which not even in secular affairs do judges do
+          </quote>.
+          Thus Augustine.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e559">
+          Therefore the Church of Christ the spouse,
+          confirmed by light in truth,
+          never usurped divine judgment,
+          always content with the office of judgment conferred upon it over the Christian people,
+          not over strangers,
+          that is unbelievers,
+          following that of 
+          <ref xml:id="lca8s8-d1e144-Rd1e572">
+            Ecclesiasticus
+          </ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e574">
+            A wise judge will judge his own people
+          </quote>,
+          namely only.
+          And thus it never exacted punishment from idolaters or inflicted penalty.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e584">
+          ¶ Sixth it is proved because,
+          as is clear from 
+          <ref xml:id="lca8s8-d1e144-Rd1e588">
+            the words of Saint Thomas cited above
+          </ref>,
+          it does not pertain to the Church to punish the paganism of those who have never been washed by Christian baptism;
+          and he speaks distinctly and generally,
+          therefore neither idolatry.
+          The consequence is proved in three ways:
+          first,
+          because it seems to have been impossible,
+          at least after the first age of the world,
+          for any nation not knowing the true God not to worship idols either much or little along with unbelief,
+          the reason for which is this:
+          Since God fashioned man in his own image,
+          making him capable of himself,
+          he instructed him with three most noble powers,
+          namely the rational,
+          concupiscible,
+          and irascible superior powers.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e624">
+          The rational power provides some,
+          though most confused,
+          knowledge of God,
+          namely that there is a God to whom we and all our things must submit as to a lord and superior.
+          The concupiscible power effects that man should desire to seek and know God,
+          so that thence he may conceive joy and sweetness in his soul.
+          But the irascible inclines,
+          teaches,
+          and impels that man should exhibit subjection and honor to God according to his manner,
+          and should use certain sensible things,
+          offering them to God as a sign of due subjection and honor,
+          according to the likeness of those who offer something to their lords in recognition of lordship.
+          These things pertain to the nature of sacrifice,
+          which the irascible power naturally intends.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e660">
+          ¶ Since it is impossible for the rational power not to be always eager and hungry to know the truth up to the first cause itself,
+          namely God;
+          likewise since the concupiscible,
+          most eager for pleasure,
+          cannot not seek some sweet pleasure and goodness until it reaches God;
+          thus also it is impossible for the irascible power not to subject itself to the service of him whom it judges to be God.
+          Hence it has come about that men,
+          both by their crimes and by the sin of the first parent,
+          destitute of grace and knowledge of God,
+          when there was no one who would lead their rational power to knowledge of the first cause,
+          or the concupiscible to seeking him who alone is good and truly sweet,
+          or the irascible to exhibiting true obedience and divine honors to the true God to whom alone it is due.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e702">
+          The most impious and malicious demons,
+          to whom it has always been a study to usurp the honor due to God,
+          drove men to such insanity that instead of pure and perfect truth they received false opinions and fell into various errors,
+          worshiping the simulacra of vain gods instead of the true God,
+          and they should desire as goods and sweets things that are impious and wretched;
+          likewise that they should exhibit divine honors to the impious simulacra of demons and animals through sacrifice due to the one true God alone.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e728">
+          Since therefore men are led by the force of nature to the worship of God or of him whom they believe to be God,
+          and to loving true or false goodness,
+          they can in no way not offer sacrifices and divine honors to the true or fictitious God.
+          If they exhibit honor to the true God it is pious worship which is called latria;
+          if to false gods it is called not latria but idolatry.
+          The reason for these things is that by nature it is impossible for man to live without a true or false god.
+          This is signified by the divine words of 
+          <ref xml:id="lca8s8-d1e144-Rd1e751">
+            Deuteronomy 8
+          </ref>
+          <quote xml:id="lca8s8-d1e144-Qd1e754" source="http://scta.info/resource/deut8_19@1-10">
+            But if (says the Lord) you forget your God and follow foreign gods
+          </quote>,
+          as if it were impossible for man,
+          abandoning the true God,
+          not to worship false deities.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e766">
+          And so there is no nation,
+          however wild and barbarous,
+          that can live without worship of a true or false deity,
+          which 
+          <ref xml:id="lca8s8-d1e144-Rd1e772" target="http://scta.info/resource/aaaadc-gfdsss-d1e925@56-88">
+            the Philosopher teaches in book 1
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e777" target="http://scta.info/resource/aaaadc-gfdttt-d1e5934@86-101">
+            2 of On the Heavens and the World
+          </ref>.
+          <ref xml:id="lca8s8-d1e144-Rd1e780" target="http://scta.info/resource/ctd99a-asdvss-d1e219@1-44">
+            Cicero in the Tusculan Disputations book 1
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e786">
+            in the book On Laws
+          </ref>.
+          The same is found in 
+          <ref xml:id="lca8s8-d1e144-Rd1e790" target="http://scta.info/resource/hy7y6y-d1e67-Dd1e271">
+            Boethius book 3 prose 10 of the Consolation
+          </ref>.
+          ¶
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e797">
+          Since therefore the opinion or belief in false gods is unbelief,
+          and the worship exhibited to them is idolatry,
+          and it is impossible that this worship should be omitted by those deceived by such errors,
+          without it being exhibited to him whom false opinion induces,
+          just as it is held impossible that any nation can live without a deity,
+          certainly it necessarily follows that there is or has been no unbelieving nation that is not or has not been idolatrous.
+          Since therefore this did not escape 
+          <ref xml:id="lca8s8-d1e144-Rd1e822">
+            <name xml:id="lca8s8-d1e144-Nd1e823">Saint Thomas</name>
+          </ref>,
+          when he wrote that the Church cannot punish pagans for unbelief,
+          <note type="marginal-note" place="margin-right" hand="F">
+            unbelief is never separated from idolatry
+          </note>
+          without doubt he also wished to signify that the Church cannot punish idolaters,
+          since nowhere on earth has unbelief existed separated from idolatry.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e844">
+          ¶ Second the consequence is proved,
+          namely that the Church cannot punish pagan worshipers of idols for idolatry,
+          because worshiping idols presupposes paganism or unbelief and is a superstitious protestation of unbelief and draws its origin from it,
+          just as the virtue of religion is a protestation of Catholic faith and presupposes it.
+          And although idolatry is an immediate subalternate species of superstition,
+          since it adds exterior worship and reverence which is not due,
+          according to that in 
+          <ref xml:id="lca8s8-d1e144-Rd1e875" target="http://scta.info/resource/act17_22@8-15">
+            Acts 17
+          </ref>
+          of Paul to the Athenians,
+          when his spirit was stirred within him seeing the city given over to idolatry:
+          <quote xml:id="lca8s8-d1e144-Qd1e882">
+            Men of Athens,
+            in all things I see you as somewhat superstitious
+          </quote>,
+          nevertheless all this is reduced and referred to unbelief as to its most general genus.
+          And this whether
+          <quote xml:id="lca8s8-d1e144-Qc2aghf" source="http://scta.info/resource/TAca84-d1e1324-d1e297@3-19">
+            unbelief is accepted according to pure negation,
+            as it is in those who have heard nothing of the faith,
+            in whom unbelief does not have the nature of sin
+          </quote>,
+          or whether it is accepted
+          <quote xml:id="lca8s8-d1e144-Qch2ddd" source="http://scta.info/resource/TAca84-d1e1324-d1e271@28-56">
+            according to contrariety to faith,
+            when namely some resist hearing the faith or even despise it
+          </quote>,
+          in which the nature of unbelief and sin is properly perfected:
+          always from ignorance of the true God and divine things,
+          or from contempt of knowing him and asserting the faith,
+          proceeds idolatry.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e922">
+          Therefore to whom it does not belong in the genus to punish unbelief for certain causes,
+          through the same causes it will not pertain to him to punish idolatry in the species,
+          by the argument or place from the removal of the genus,
+          whose maxim is:
+          from whomsoever the genus is removed,
+          any species of it is removed,
+          as is clear in 
+          <ref xml:id="lca8s8-d1e144-Rd1e939">
+            book 1 of the Topics
+          </ref>;
+          and by the canonists in 
+          <ref xml:id="lca8s8-d1e144-Rd1e942" target="http://scta.info/resource/cice-l1t2-d1e164">
+            c. nam et concupiscentiam. de constitutionibus
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e945">
+            the legists in l. si causa cognita
+          </ref>,
+          joined with the 
+          <ref xml:id="lca8s8-d1e144-Rd1e951">
+            gloss in the word peremisti c. de transactionibus
+          </ref>,
+          and in 
+          <ref xml:id="lca8s8-d1e144-Rd1e956">
+            § Vulgo. institutionum de successione cognatorum
+          </ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e962">
+          Nor does it stand against this if someone should object that idolatry is a most serious crime on the part of sin,
+          and therefore that the Church,
+          which the zeal for the decorum of the house of God ought to excite so that it may take care that the name of Christ be worshiped and reign in the hearts of men,
+          can punish worshipers of idols as men committing a most serious crime.
+          But to this argument it is responded that paganism or unbelief,
+          which spurns and rejects evangelical truth,
+          is a more serious sin than worshiping idols.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e986">
+          This is proved first because,
+          although idolatry from its genus is a most serious crime,
+          nevertheless on the part of those committing it,
+          such as idolaters,
+          since they sin through ignorance,
+          thinking they worship the true God according to that of the apostle 
+          <ref xml:id="lca8s8-d1e144-Rd1e997">
+            Paul to the Athenians Acts 17
+          </ref>
+          <quote xml:id="lca8s8-d1e144-Qd1e1000" source="http://scta.info/resource/act17_23@16-23">
+            what you worship in ignorance,
+            this I announce to you
+          </quote>,
+          ignorance renders the sin less serious because it diminishes the voluntary in some way;
+          nor does the ignorant person directly cast himself into sin,
+          but sins per accidens,
+          like one who,
+          laboring under an erroneous conscience,
+          thinks he can steal or commit adultery without sin.
+          Whence on account of this there is less nature of sin in idolatry.
+          But truly the sin of unbelief,
+          as we speak of it here,
+          those who resist hearing the faith directly and purposely,
+          voluntarily and out of contempt,
+          commit.
+          Whence not only the sin of unbelief but even any other sin can be more serious than idolatry.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e1044">
+          It is proved second that the sin of unbelief is born from pride,
+          by the authority of 
+          <ref xml:id="lca8s8-d1e144-Rd1e1050" target="http://scta.info/resource/TAca84-d1e1324-d1e349">
+            Saint Thomas 2a 2ae q. 10 ar. 1 ad 3
+          </ref>;
+          but sins which proceed from pride are most serious on the part of conversion,
+          for they erect themselves against God and hence have God himself as adversary,
+          according to that of 
+          <ref xml:id="lca8s8-d1e144-Rd1e1065">
+            James 4
+          </ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e1067" source="http://scta.info/resource/iac4_6@8-10">
+            God resists the proud
+          </quote>.
+          But the sin of idolatry proceeds from ignorance,
+          as has been proved.
+          Therefore the sin of unbelief is more serious than that of idolatry,
+          about which 
+          <ref xml:id="lca8s8-d1e144-Rd1e1077">
+            Saint Thomas treats 2a 2ae q. 162, ar. 6
+          </ref>
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e1082">
+            in the body and 7 ad 4
+          </ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e1088">
+          ¶ Third,
+          that unbelief is a greater sin than idolatry is proved because God in his supreme wisdom and equity punishes any sin according to the gravity of the crime,
+          according to that of 
+          <ref xml:id="lca8s8-d1e144-Rd1e1097">
+            Deuteronomy 25
+          </ref>:
+          <quote xml:id="lca8s8-d1e144-Qd1e1099" source="http://scta.info/resource/deut25_2@15-21">
+            according to the measure of the sin will be the manner of the stripes
+          </quote>,
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e1105" target="http://scta.info/resource/deut25_2/critical/transcription@15-21">
+            c. non asseramus 24 q. 1 with its concordances
+          </ref>,
+          although according to the Theologians he always punishes less than is deserved,
+          that is,
+          the punishment is less than the gravity of the offense.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e1115">
+          This supposed,
+          God punishes unbelief more severely than idolatry and than any other sin considering the genus of sin,
+          according to 
+          <ref xml:id="lca8s8-d1e144-Rd1e1123" target="http://scta.info/resource/TAca84-d1e1324-d1e745">
+            Saint Thomas 2a 2ae q. 10 ar. 3, ad 3
+          </ref>.
+          Therefore idolatry is a less serious sin than unbelief.
+          Therefore the gravity of the sin of idolatry does not help toward this,
+          that the Church,
+          which cannot punish unbelievers who are in all ways outside the Church for unbelief,
+          can punish worshipers of idols on account of the gravity of the sin of idolatry.
+          Whence whoever teaches that pagans cannot be punished by the Church,
+          he certainly thinks the same,
+          and not absurdly,
+          about pagan idolaters.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e1148">
+          ¶ Third principally the principal consequence is proved (namely) that it does not pertain to the Church to punish worshipers of idols for idolatry,
+          since it does not pertain to punish unbelief,
+          because the unbelief of Jews and Saracens is much more serious and damnable than the unbelief of those who worship idols.
+          For in them the nature of unbelief and the gravity of sin is properly perfected;
+          but in these ignorance and deprivation of hearing the word of God intervenes,
+          as has been said.
+          For the Jews and Saracens have heard the words of Christ and the preaching of the apostolic men,
+          and the words of evangelical truth daily strike their hard hearts;
+          since they do not receive evangelical doctrine with an obstinate and contumacious mind aforementioned,
+          they are guilty of malicious depravity.
+          But the worshipers of idols,
+          at least the Indians about whom our disputation is instituted,
+          have never heard the doctrine of Christian truth even by rumor;
+          whence they sin less than Jews or Saracens,
+          for ignorance excuses somewhat.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e1213">
+          This supposed,
+          we see that the Church does not punish the blindness of the Jews nor the worshipers of Mohammedan superstition,
+          even if Jews or Saracens inhabit the cities of Christian territories,
+          which is more manifest than that it needs proof.
+          For Rome,
+          the citadel of Christian religion,
+          has Jews;
+          Germany has them;
+          Bohemia has Jews,
+          and Spain once had Saracens who were commonly called Mudejars,
+          whom we saw with our eyes.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e1237">
+          Since therefore the Church does not punish the unbelief of Jews,
+          even if they inhabit the territories of Christian religion,
+          much less will it punish idolaters inhabiting an immense orb of lands unheard of in prior ages,
+          who were never subjects of the Church or its members,
+          nor knew what the Church was.
+          For the argument from the greater holds,
+          as by the Philosopher and the doctors in 
+          <ref xml:id="lca8s8-d1e144-Rd1e1258" target="http://scta.info/resource/cice-l1t6-d1e210">
+            c. cum in cunctis de electione
+          </ref>.
+        </p>
+
+        <p xml:id="lca8s8-d1e144-d1e1262">
+          Concerning many things from the above,
+          <ref xml:id="lca8s8-d1e144-Rd1e1266" target="http://scta.info/resource/TAca84-d1e1065-d1e747">
+            Saint Thomas should be read in 1a 2ae q. 76 a. 3
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e1271" target="http://scta.info/resource/TAca84-d1e1065-d1e1012 http://scta.info/resource/TAca84-d1e1065-d1e1045">
+            4 in the body
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e1276" target="http://scta.info/resource/TAca84-d1e1199-d1e1062 http://scta.info/resource/TAca84-d1e1199-d1e1100 http://scta.info/resource/TAca84-d1e1199-d1e1148@1-10">
+            q. 102 a. 3 ad 2
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e1279" target="http://scta.info/resource/TAca84-d1e1324-d1e271 http://scta.info/resource/TAca84-d1e1324-d1e297">
+            2a 2ae q. 10 ar. 1 in the body
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e1285" target="http://scta.info/resource/TAca84-d1e1324-d1e349@5-28">
+            ad 3
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e1288" target="http://scta.info/resource/TAca84-d1e1324-d1e668">
+            ar. 3 in the body
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e1293" target="http://scta.info/resource/TAca84-d1e1324-d1e745">
+            ad 3
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e1296" target="http://scta.info/resource/TAca84-d1e1324-d1e1043@138-246">
+            a. 5 in the body
+          </ref>,
+          and 
+          <ref xml:id="lca8s8-d1e144-Rd1e1299" target="http://scta.info/resource/TAca84-d1e1324-d1e1132">
+            ad 1
+          </ref>,
+          and in 
+          <ref xml:id="lca8s8-d1e144-Rd1e1303">
+            the question on evil, q. 2, a. 10 in the body
+          </ref>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

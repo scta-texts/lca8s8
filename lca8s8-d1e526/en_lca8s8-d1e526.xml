@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 37 [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 37 [Bnf 12926 Translation]</title>
+          <date when="2025-05-09">May 09, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" 
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="164-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e526">
+        <head xml:id="lca8s8-d1e526-Hd1e97">Chapter 37</head>
+        
+        <p xml:id="lca8s8-d1e526-d1e99">
+          Chapter 37
+        </p>
+        
+        <p xml:id="lca8s8-d1e526-d1e104">
+          <pc type="pilcrow"/> All that has been deduced above seems to be confirmed,
+          and thus it can be persuaded that it is not entirely abominable to sacrifice men to God,
+          through that which God commanded Abraham,
+          that he should sacrifice to Him his only son Isaac.
+          Although from the words of sacred Scripture Genesis 22 chapter,
+          and from the interpretation of the sacred doctors,
+          it is established that God commanded this in order to show men the faith and obedience 
+          of his servant Abraham,
+          and to signify that mystery worthy of adoration by which God the Father offered 
+          his only son Jesus in sacrifice to death for the salvation of men:
+          nevertheless we can still say that God also wished to signify:
+          that he would do no injury to anyone if he had commanded that he be offered to Him 
+          in sacrifice.
+          For God is the author of every creature,
+          and all creatures are his possessions,
+          as has been said.
+          <quote xml:id="lca8s8-d1e526-Qd1e150">For the earth is the Lord's and the fullness thereof</quote>
+          <ref xml:id="lca8s8-d1e526-Rd1e157">Psalm 23</ref>.
+          <quote xml:id="lca8s8-d1e526-Qd1e159">And you are the Lord of all things</quote>
+          <ref xml:id="lca8s8-d1e526-Rd1e165">2 Maccabees 14</ref>,
+          and consequently of death and life.
+          Although the Lord only once requested that a human victim be offered to Him as a 
+          holocaust (namely Isaac according to what Abraham understood),
+          nor did He wish that very thing to be completed,
+          nevertheless this was not because all things,
+          even the lives of men,
+          ought not to be offered to Him,
+          but surely this proceeded from his immense charity toward the human race:
+          and thus pitying Isaac he did not wish him to be sacrificed to Him on account of 
+          the covenant which he had made with Abraham and his posterity,
+          from which originates that which we have called in the second principle 
+          condescending justice.
+        </p>
+        
+        <p xml:id="lca8s8-d1e526-d1e200">
+          Moreover,
+          that all things ought to be owed and offered to God,
+          even men in sacrifice,
+          seems to be confirmed from another place of Scripture.
+          For He commanded his people to sacrifice to Him every firstborn in these words:
+          sanctify to me every firstborn that opens the womb among the children of Israel,
+          both of men and of beasts:
+          for they are all mine Exodus 13 and Numbers 8.
+          Although afterwards He freed them from this precept:
+          provided that they offer a pair of turtledoves or a yearling lamb,
+          as is clear in Leviticus 12 and Luke 2.
+          For when God commanded that all the firstborn be sacrificed to Him:
+          and when He added they are all mine,
+          He sufficiently showed that all things are justly owed to Him:
+          and that He can without injury to anyone command that they be sacrificed to Him,
+          or that they serve Him perpetually in the tabernacle of the covenant:
+          in the ministry of divine worship.
+          Just as today we see God sometimes snatch away the firstborn by death:
+          as it pleases Him:
+          which being done He inflicts injury on no one,
+          as has been said.
+          Thus also God wished certain ones to be bound to His service,
+          namely the Tribe of Levi,
+          as is clear in Numbers 3 and 8 chapter,
+          and finally without injury to anyone He can at His pleasure either kill all men 
+          or preserve them or assign them to any use.
+          When indeed that precept sacrifice to me every firstborn wishes to be redeemed by 
+          the offering of a pair of turtledoves or certain animals,
+          He manifestly shows us His immense mercy,
+          condescension,
+          grace,
+          and condescending justice.
+        </p>
+        
+        <p xml:id="lca8s8-d1e526-d1e284">
+          To these things agrees what we read in Judges 11 chapter,
+          that Jephthah sacrificed his only daughter to God:
+          perhaps led to believe that God had demanded a similar sacrifice from Abraham:
+          and therefore thinking that it would be pleasing to Him,
+          which 
+          <ref xml:id="lca8s8-d1e526-Rd1e302">Abulensis notes in questions 48 and 52</ref>.
+          Since indeed the Israelite people was most famous and celebrated among all the nations 
+          of the world on account of the admirable works and miracles performed by God among them,
+          according to Eusebius in de preparatione evangelica book 11 and 12,
+          where he asserts that the Greeks and Plato learned many things pertaining to religion 
+          and government from the Hebrews:
+          <quote xml:id="lca8s8-d1e526-Qd1e321">the wise men (he says) of the Greeks imitated 
+            Jewish doctrine</quote>.
+          And a little below:
+          <quote xml:id="lca8s8-d1e526-Qd1e329">but no one will wonder that they stole everything 
+            from the Jews and barbarians and spoke it more elegantly,
+            who does not know that they were both speakers and thieves</quote>.
+          Thus Eusebius.
+          Therefore not absurdly might someone suspect that the custom of sacrificing men was 
+          derived to all peoples:
+          because they would hear that the greatest God of the Jews commanded his most beloved 
+          servant Abraham to offer his own son to Him in sacrifice:
+          and moreover that the most famous leader of that people,
+          having obtained victory,
+          sacrificed his only daughter to God:
+          certainly not about to do this unless he thought it would be most pleasing to God.
+          It is therefore not surprising if peoples destitute of Christian faith and instruction,
+          acknowledging the immense majesty of God and His most abundant beneficence toward all,
+          and that they were bound to offer sacrifice to Him from their most precious things 
+          (which however how many and of what kind they are is left to their judgment),
+          were persuaded to decree that from the whole people on certain days and for certain 
+          necessities some,
+          however innocent,
+          should be sacrificed to the gods for the salvation of the entire republic.
+        </p>
+        
+        <p xml:id="lca8s8-d1e526-d1e386">
+          And thus it appears that it cannot be done briefly or in few words to make it evident 
+          to infidels,
+          especially our own,
+          that sacrificing men to God is contrary to nature.
+          And therefore it manifestly follows that it is not a just cause for waging war against 
+          any kingdoms that the inhabitants sacrifice men to their gods or even eat human flesh.
+          And moreover this custom inveterate among them cannot suddenly be uprooted:
+          therefore the most innocent Indians are not to be blamed because at the first voice 
+          of one preaching the Gospel they do not wake up.
+          For they do not understand the speaker nor ought they immediately desert the religion 
+          of their ancestors (not understanding what is better),
+          nor is sacrificing men even innocent ones for the salvation of the entire republic 
+          so contrary to natural reason that,
+          as if a thing contrary to the dictate of nature,
+          it should immediately be abominated.
+          For this error can take its origin from probable natural reason.
+        </p>
+        
+        <p xml:id="lca8s8-d1e526-d1e434">
+          <pc type="pilcrow"/> From the above it is proven that those who willingly suffer 
+          themselves to be sacrificed,
+          as commonly are the common people,
+          and the ministers who sacrifice them to the gods at the command of princes or priests,
+          have excusable and invincible ignorance,
+          and their error must be pardoned even if we were to suppose there were some 
+          competent judge who could punish these sins.
+          But if in such sacrifices they offend God,
+          He alone will punish this sin of sacrificing men.
+        </p>
+        
+        <p xml:id="lca8s8-d1e526-d1e476">
+          Nevertheless insofar as they offer sacrifices to idols,
+          certainly they do not seem able to be excused by invincible ignorance according to 
+          the common opinion of the doctors,
+          who say that in those things which are necessary for attaining eternal salvation,
+          no one has invincible ignorance.
+          Since if men do what is in them,
+          the Lord will give them light or the inspiration of the Holy Spirit,
+          giving to each one knowledge of Himself,
+          or opening the eyes of infidels through men or through angels.
+          For in a similar case Saint Thomas in the questions de veritate q. 14 article 11 
+          to the 1st,
+          speaking of a man raised among groves,
+          forests and wild beasts,
+          says:
+          for it pertains to divine providence to provide for each one concerning what is 
+          necessary for salvation,
+          provided that on his part he is not impeded.
+          If indeed anyone is so nourished in the forests or among wolves,
+          and follows the guidance of natural reason with an appetite for good and flight from evil,
+          it is most certain to hold that God would reveal to him through internal inspiration 
+          those things which are necessary for belief,
+          or would direct some preacher of the faith,
+          just as he sent Peter to Cornelius Acts 10.
+          Thus Saint Thomas.
+        </p>
+        
+        <p xml:id="lca8s8-d1e526-d1e538">
+          He teaches the same thing on the epistle to the Romans chapter 10 lesson 3.
+          That however as regards men they are excused is proven in 
+          <ref xml:id="lca8s8-d1e526-Rd1e546" target="http://scta.info/resource/bgy6gt-d1e1823-Dd1e201">
+            l. regula, ff de iure et facti ignorantia</ref>,
+          where probable error excuses from punishment.
+          Which is also proven in 
+          <ref xml:id="lca8s8-d1e526-Rd1e557" target="http://scta.info/resource/cice-l4t15-d1e195">
+            c. fraternitas. de frigidis et maleficis</ref>,
+          and 
+          <ref xml:id="lca8s8-d1e526-Rd1e562">there Abbas teaches in the 2nd column prepositi)</ref>.
+          And 
+          <ref xml:id="lca8s8-d1e526-Rd1e567">the cardinal in clementinas 1. q. 39. 
+            de privilegiis)</ref>.
+          Moreover it is proven because the error of the people confirmed by the authority 
+          of the prince makes law and excuses,
+          as per the jurists in l. Barbarius Philippus ff de officio presidis,
+          and in l. si arbiter. C. de sententiis et interlocutionibus omnium iudicum,
+          and ff de suppellectile legata. l. 3 in finem,
+          and C. de testamentis l. 3,
+          and per the Canonists in c. nihil. de electione,
+          and there at length Abbas 9 column and following.
+        </p>
+        
+        <p xml:id="lca8s8-d1e526-d1e592">
+          <pc type="pilcrow"/> Since therefore among some regions of the new world either by 
+          law or most ancient custom,
+          and by the command of princes,
+          confirmed by the authority of teachers and priests,
+          and thus by public authority,
+          it is held pious and holy to sacrifice men to the gods esteemed as the true God,
+          it follows that this custom and common error among them makes law,
+          and consequently will excuse those sacrificing:
+          for he is not judged to err or be deceived who follows public law,
+          as in l. nihil consensui ff de regulis iuris.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

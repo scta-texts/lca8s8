@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 28b [Bnf 12926 Translation]</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 28b [Bnf 12926 Translation]</title>
+          <date when="2025-04-30">Apr 30, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+              Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+            </ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition. 
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-30" status="draft" n="0.0.0">
+          <p>
+            Created file for the first time.
+          </p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="129-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e415">
+        <head xml:id="lca8s8-d1e415-Hd1e97">
+          Chapter 28b [Bnf 12926 Translation]
+        </head>
+        <p xml:id="lca8s8-d1e415-d1e99">
+          Chapter <choice><sic>28m</sic><corr>28m bis</corr></choice>
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e108">
+          ¶ Where,
+          therefore,
+          unbelievers committing such a crime (namely) killing infants for sacrifice or for eating are found:
+          they are not always to be attacked with war,
+          although it pertains to the Church to provide a remedy by removing the impediment:
+          but first and much must be weighed:
+          lest,
+          in order to prevent the death of a few innocents,
+          we devote to destruction an innumerable multitude of people,
+          even those undeserving:
+          we destroy whole kingdoms:
+          we implant hatred of the Christian religion in their souls:
+          so that nowhere would they be willing to hear the name or teaching of Christ forever.
+          Which things are certainly contrary to the end which God and Mother Church herself intend.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e145">
+          Indeed,
+          one must abstain from war and tolerate that evil at least for a time:
+          indeed even perpetually in certain cases:
+          as will be said:
+          but rather some prudent and Christian method must be devised:
+          by which through the word of God cleansing all things,
+          or through admonitions,
+          prayers,
+          or exhortations,
+          the peoples might abstain from that barbarity.
+          For this custom does not prevail among all the peoples of the Indies:
+          nor if it prevails will there be a great multitude of those killed:
+          otherwise they would all already have been consumed.
+          And yet we find all regions most full of mortals.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e174">
+          That one must abstain from war and even tolerate the death of a few innocents
+          <pb ed="#P" n="129-v"/>
+          is proven by arguments and by manifold authority.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e186">
+          And first indeed thus.
+          For according to the rules of right reason,
+          when we are between two evils both of fault and of punishment,
+          and we cannot avoid both:
+          we ought to choose the lesser evil.
+          For with respect to the greater,
+          the lesser evil has the nature of good.
+          Thus teaches 
+          <ref xml:id="lca8s8-d1e415-Rd1e204">
+            <name xml:id="lca8s8-d1e415-Nd1e205">
+              the Philosopher
+            </name> 
+            in the second book of the <title>Ethics</title>,
+            chapter 9
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e415-Rd1e210">
+            third <title>Ethics</title> chapter 5
+          </ref>.
+          And 
+          <ref xml:id="lca8s8-d1e415-Rd1e217">
+            fifth <title>Ethics</title> chapter 6
+          </ref>.
+          And 
+          <ref xml:id="lca8s8-d1e415-Rd1e222">
+            third <title>Topics</title>
+          </ref>.
+          It is likewise proven from the text 
+          <ref xml:id="lca8s8-d1e415-Rd1e230">
+            c. duo mala and following,
+            distinction 13
+          </ref>.
+          the 
+          <ref xml:id="lca8s8-d1e415-Rd1e235">
+            canonists note,
+            and distinction 14,
+            c. 1
+          </ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e415-Rd1e240">
+            c. non solum,
+            question 4,
+            case 22
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e415-Rd1e245">
+            by the legists in l. 1. §. penultimo. ff. de periculo
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e415-Rd1e250">
+            commodo rei vendie
+          </ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e415-Rd1e255">
+            l. quotiens la. 4a. ff. de regulis
+          </ref>.
+          Now the lesser evil is the death of a few innocents than an innumerable multitude of people perishing forever,
+          slaughtered by the fury of war.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e273">
+          ¶ Likewise it is better or a lesser evil than that whole kingdoms,
+          cities,
+          and fortresses be utterly destroyed.
+          For not all eat those innocent victims:
+          but only the princes or priests who sacrifice them:
+          but war drags along with it into destruction innumerable innocent people who have merited nothing of the sort:
+          therefore,
+          if by no other way than war can those evils be removed:
+          one must abstain from it and such evils must be tolerated.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e295">
+          ¶ Moreover,
+          it is without comparison a lesser inconvenience that a few innocents die:
+          than that the adorable name of Christ be blasphemed by unbelievers:
+          and the Christian religion be defamed and held in hatred
+          <pb ed="#P" n="130-r"/>
+          by those peoples and by others to whom the report flies:
+          when they have heard that by Christians,
+          very many of their people - children,
+          old men,
+          women - are slaughtered without cause,
+          as necessarily happens,
+          indeed has happened,
+          in the fury of war.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e329">
+          What I ask will this be:
+          if not to be a perpetual obstacle to their salvation:
+          so that there will be no further hope for their conversion?
+          Therefore,
+          in the case where war ought to be waged concerning such matters:
+          it is rather to be allowed that those few innocents be oppressed or suffer unjust death.
+          Indeed,
+          it <add place="above-line" hand="B">would be</add> the greatest sin and against the natural law on this account to wage war against unbelievers.
+          Which is proven thus.
+          According to right reason,
+          and thus it is established to be from the natural law,
+          in every case and in every matter,
+          from two evils especially of fault:
+          one <seg>must assume<subst hand="B"><del rend="strikethrough">ere</del><add place="above-line"></add></subst></seg> what harms less or is believed will harm less:
+          therefore,
+          to wish to liberate innocents through war,
+          given the case as posited in its terms as it has been posited,
+          will be against the natural law and a sin not only mortal but indeed most grave.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e380">
+          This is clear.
+          because the graver the sin is:
+          the greater the harm it inflicts,
+          according to 
+          <ref xml:id="lca8s8-d1e415-Rd1e386">
+            <name xml:id="lca8s8-d1e415-Nd1e387">
+              St. Thomas
+            </name> 
+            1a 2ae,
+            question 20,
+            article 5
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e415-Rd1e393">
+            question 73,
+            article 8 in the body
+          </ref>.
+          And this is so even if that harm is not the intention nor foreseen,
+          because whatever per se follows from a sin:
+          pertains in some way to the very species of the sin.
+          But from such a war an infinite multitude of people
+          <pb ed="#P" n="130-v"/>
+          of both sexes and ages,
+          all innocent,
+          will necessarily perish in both worlds:
+          and the other evils which have been related will per se follow upon the war itself.
+          Therefore,
+          those <seg>would commit<del rend="strikethrough" hand="B">ur</del></seg> a most grave mortal sin
+          <subst hand="B"><del rend="strikethrough">if</del><add place="margin-left">who</add></subst> 
+          by the way of war <seg>would attempt<del rend="strikethrough" hand="B">ur</del></seg> 
+          to liberate those suffering such evils.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e440">
+          This reasoning is confirmed by the rules which the learned jurists hand down concerning permission.
+          Which permission is indeed due:
+          when evils and even grave sins are permitted so that more grave ones in the republic may be avoided:
+          or lest goods by which the state of the republic is made more firm be impeded.
+          This is clear from the permission of prostitutes in cities:
+          and in the rites of the Jews.
+          Whence the prince or governor of any republic in the posited case ought by law to tolerate evil:
+          from which the <seg>utility<subst hand="B"><del rend="strikethrough">tem</del><add place="above-line"></add></subst></seg> 
+          of the republic is hoped <seg>to arise<del rend="strikethrough" hand="B">turam</del></seg>,
+          or a coming evil is prevented,
+          which if he did not do:
+          he would certainly sin mortally.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e489">
+          These things are especially proven 
+          <ref xml:id="lca8s8-d1e415-Rd1e491">
+            distinction 50,
+            vt constitueretur
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e415-Rd1e496">
+            c. domino sancto
+          </ref>.
+          And in 
+          <ref xml:id="lca8s8-d1e415-Rd1e500">
+            c. at si clerici in § de adultrerijs de judicis
+          </ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e415-Rd1e505">
+            c. consilium. de obseruatione jeiuniorum
+          </ref>.
+          and in 
+          <ref xml:id="lca8s8-d1e415-Rd1e511">
+            c. denique. distinction 4
+          </ref>.
+          And in other parts.
+          And 
+          <ref xml:id="lca8s8-d1e415-Rd1e517">
+            <name xml:id="lca8s8-d1e415-Nd1e518">
+              Johannes Andreae
+            </name> 
+            discourses very extensively on permission in regula peccatum. de regulis iuris,
+            question 3
+          </ref>.
+          And the most learned master 
+          <ref xml:id="lca8s8-d1e415-Rd1e530">
+            <name xml:id="lca8s8-d1e415-Nd1e531">
+              Vitoria
+            </name> 
+            in the second relectio <title>on the Indies</title>
+          </ref> 
+          proves this our opinion,
+          specifically speaking of not waging war against the Indians.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e536">
+          ¶ Secondly,
+          the aforesaid conclusion is proven
+          <pb ed="#P" n="131-r"/>
+          principally thus:
+          we have a negative precept which must be observed in every case:
+          nor is it licit in any way or place to transgress it,
+          namely 
+          <quote xml:id="lca8s8-d1e415-Qd1e547" source="http://scta.info/resource/ex20_13@1-2">
+            thou shalt not kill
+          </quote>.
+          This is read in 
+          <ref xml:id="lca8s8-d1e415-Rd1e553">
+            Exodus chapter 20
+          </ref>.
+          Again in 
+          <ref xml:id="lca8s8-d1e415-Rd1e555">
+            chapter 23 of that book
+          </ref> 
+          there is another stricter one:
+          <quote xml:id="lca8s8-d1e415-Qd1e560" source="http://scta.info/resource/ex23_7@3-10">
+            the innocent and just (says God) you shall not kill,
+            because I abhor the impious
+          </quote>.
+          Likewise 
+          <ref xml:id="lca8s8-d1e415-Rd1e565" target="http://scta.info/resource/dan13_53@11-15">
+            Daniel 13
+          </ref>.
+          Hence 
+          <ref xml:id="lca8s8-d1e415-Rd1e570">
+            <name xml:id="lca8s8-d1e415-Nd1e571">
+              St. Thomas
+            </name> 
+            in the third book of the Sentences,
+            distinction 47,
+            article 3,
+            ad 1
+          </ref>.
+          <quote xml:id="lca8s8-d1e415-Qd1e575">
+            To hand over an innocent man to suffering and death against his will is impious and cruel
+          </quote>,
+          thus he says.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e585">
+          For to the laws which God wished to be observed inviolably and strictly He added threats against transgressors:
+          which is a vehement indication:
+          that the Lord wishes them to be observed most exactly,
+          according to that saying:
+          <quote xml:id="lca8s8-d1e415-Qd1e598" source="http://scta.info/resource/ex22_22@1-5">
+            You shall not harm the widow and the orphan:
+            if you afflict them,
+            they will cry out to me:
+            and I will hear their cry:
+            and my fury will be kindled,
+            and I will strike you with the sword,
+            and your wives shall be widows and your sons orphans
+          </quote>,
+          et cetera.
+          <ref xml:id="lca8s8-d1e415-Rd1e612">
+            Exodus as above
+          </ref>.
+          Again,
+          we have another negative precept par excellence in 
+          <ref xml:id="lca8s8-d1e415-Rd1e618">
+            Deuteronomy 24
+          </ref>.
+          <quote xml:id="lca8s8-d1e415-Qd1e620" source="http://scta.info/resource/deut24_16">
+            The fathers shall not be put to death for the children:
+            nor the children for the fathers:
+            but each one shall die for his own sin
+          </quote>.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e630">
+          But if wars are waged against the Indians for this cause:
+          a huge multitude of blameless and most innocent people will perish,
+          utterly immune
+          <pb ed="#P" n="131-v"/>
+          from those crimes:
+          and the son will bear the iniquity of the father:
+          and the father the iniquity of the son.
+          Therefore,
+          such a war is impious,
+          and the warriors together with those commanding,
+          giving counsel,
+          or giving aid to wage it are pursued by God with mortal hatred.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e668">
+          ¶ And because 
+          <name xml:id="lca8s8-d1e415-Nd1e671">
+            a little
+          </name> 
+          above we said there is another stricter precept,
+          namely 
+          <quote xml:id="lca8s8-d1e415-Qd1e675" source="http://scta.info/resource/ex23_7@3-7">
+            the innocent and just you shall not kill
+          </quote>.
+          <ref xml:id="lca8s8-d1e415-Rd1e680">
+            Exodus 23
+          </ref>,
+          for clearer explanation it should be noted:
+          that according to 
+          <ref xml:id="lca8s8-d1e415-Rd1e685">
+            <name xml:id="lca8s8-d1e415-Nd1e686">
+              St. Thomas
+            </name> 
+            quodlibet 9,
+            article 15
+          </ref>.
+          and 
+          <ref xml:id="lca8s8-d1e415-Rd1e691">
+            <name xml:id="lca8s8-d1e415-Nd1e692">
+              Henry of Ghent
+            </name> 
+            quodlibet 2,
+            article 17
+          </ref>,
+          four genera of human acts are found.
+          Some are absolutely good,
+          so that in no way can they be evil,
+          such as to adore,
+          worship,
+          and love God and neighbor on account of God.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e712">
+          Some are absolutely and properly impious and foul,
+          so that in no way can they be good,
+          but they have inseparable depravity and impiety according to 
+          <name xml:id="lca8s8-d1e415-Nd1e720">
+            the Philosopher
+          </name> 
+          in the second book of the <title>Ethics</title>,
+          chapter [9],
+          whence they can never be licit.
+          Of this kind are adulteries,
+          ingratitude,
+          theft,
+          and also lying,
+          for indeed it is depraved in itself and to be avoided 
+          <ref xml:id="lca8s8-d1e415-Rd1e739">
+            according to him in the fourth book of his work
+          </ref>.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e746">
+          Some,
+          considered absolutely,
+          bear a certain deformity and seem foul:
+          but with an added quality or circumstance they are licit.
+          Of this kind are <subst hand="B"><del rend="strikethrough">to strip</del><add place="above-line">to kill</add></subst> 
+          or to strike a man,
+          which considered absolutely shows disorder and deformity:
+          however,
+          if you add that a judge hangs a robber:
+          he acts piously and
+          <pb ed="#P" n="132-r"/>
+          obtains the grace of Christ for himself.
+          But certain human acts are indifferent (that is) which are neither evil nor good,
+          for instance to go to the forum.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e786">
+          Therefore,
+          to the second genus pertains killing innocents:
+          which can never be licit from any accident,
+          on the authority of 
+          <ref xml:id="lca8s8-d1e415-Rd1e792">
+            <name xml:id="lca8s8-d1e415-Nd1e793">
+              St. Thomas
+            </name> 
+            2a 2ae,
+            question 64,
+            article 6 in the body,
+            at the end
+          </ref>.
+          Where he concludes that it is in no way licit to kill an innocent,
+          and in 
+          <ref xml:id="lca8s8-d1e415-Rd1e803">
+            question 100,
+            article 8,
+            ad 3
+          </ref> 
+          he says that human law cannot grant that a good man be killed unjustly.
+          And 
+          <ref xml:id="lca8s8-d1e415-Rd1e813">
+            <name xml:id="lca8s8-d1e415-Nd1e814">
+              Abulensis
+            </name> 
+            on Genesis,
+            chapter 22,
+            column 6,
+            at the beginning and at the end
+          </ref>:
+          says that to kill an innocent is always evil:
+          nor in any way can it be made good.
+        </p>
+        <p xml:id="lca8s8-d1e415-d1e824">
+          By which it appears that this precept was most strict:
+          and by no reasoning or circumstance can it ever be licit by human law or by a prince's command to kill the blameless and harmless:
+          in order that other innocents be freed from death,
+          especially where those who are killed unjustly,
+          as is in our case,
+          are few:
+          and those to be killed,
+          that they may be freed,
+          are many.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

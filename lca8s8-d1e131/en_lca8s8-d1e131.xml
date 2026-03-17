@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 7 [Bnf 12926 Transcription]</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 7 [Bnf 12926 Transcription]</title>
+          <date when="2024-08-16">August 16, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-dlc9qq">Bnf Latin 12926</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition. </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="37-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="lca8s8-d1e131">
+        <head xml:id="lca8s8-d1e131-Hd1e107">Chapter 7 [Bnf 12926 Transcription]</head>
+        
+        <p xml:id="lca8s8-d1e131-d1e109">
+          Chapter 7
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e114">
+          That infidels are not of the forum of the Church is proven secondly from 
+          <ref xml:id="lca8s8-d1e131-Rd1e120">Paul in the first letter to the Corinthians, chapter 5</ref>. 
+          <quote xml:id="lca8s8-d1e131-Qd1e122" source="http://scta.info/resource/Icor5_13@1-17 http://scta.info/resource/Icor5_1@1-7">For what have I (he says) to do with judging those who are outside? 
+            Do you not judge those who are inside? 
+            For God will judge those who are outside</quote>. 
+          These words of Paul all doctors, 
+          both sacred and not holy, 
+          both Greek and Latin, 
+          interpret to signify that the Church cannot regularly judge infidels who have never received the Christian faith. 
+          The reason for this is.
+          <note type="marginal-note" place="margin-right" hand="E">thus now in the Council of Trent, session 14, 2</note>
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e150">
+          Because God, 
+          who is Lord of all, 
+          did not wish His Church to judge these: 
+          but reserved judgment to Himself. 
+          <ref xml:id="lca8s8-d1e131-Rd1e158">The interlinear gloss</ref> 
+          explaining those words 
+          <quote xml:id="lca8s8-d1e131-Qd1e163" source="http://scta.info/resource/Icor5_12@6-8">those who are outside</quote> 
+          says 
+          <quote xml:id="lca8s8-d1e131-Qd1e167">outside the Church, 
+            He has entrusted to us that we should deal gently with them</quote>.
+          <note type="marginal-note" place="margin-right" hand="F">Jerome</note>
+          And 
+          <ref xml:id="lca8s8-d1e131-Rd1e175"><name xml:id="lca8s8-d1e131-Nd1e176">Jerome</name></ref> 
+          there: 
+          <quote xml:id="lca8s8-d1e131-Qd1e178">Do you not judge only those who are inside the Church</quote>. 
+          Thus he says. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e187">
+          <note type="marginal-note" place="rm" hand="F">Anselm</note>
+          Again 
+          <ref xml:id="lca8s8-d1e131-Rd1e192">Anselm</ref>: 
+          <quote xml:id="lca8s8-d1e131-Qd1e194">Concerning infidels (he says) who are outside, 
+            that is, 
+            outside the Church, 
+            so that I should judge them as ones for you to avoid, 
+            as you thought: 
+            for we must deal gently with them, 
+            so that through love and <hi rend="underline">sweetness they may be won for Christ</hi></quote>. 
+          And below: 
+          <quote xml:id="lca8s8-d1e131-Qd1e207">For God has not entrusted to you the judging of those who are outside: 
+            but He Himself will judge them in the future according to the distinction of His justice, 
+            rendering worthy punishments</quote>. 
+          Thus Anselm. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e218">
+          <note type="marginal-note" place="margin-right" hand="F">Athanasius</note>
+          And 
+          <ref xml:id="lca8s8-d1e131-Rd1e223">Athanasius in the same place</ref>. 
+          <quote xml:id="lca8s8-d1e131-Qd1e225">Indeed, 
+            I address none now of those who are outsiders: 
+            for that would exceed my laws. 
+            Therefore it would be superfluous for me to enjoin Christ's precepts on those who wander outside Christ's court. 
+            For whatever the law says, 
+            it says to those who are under the law</quote>. 
+          Thus he says. 
+          <note type="marginal-note" place="margin-right" hand="F">Augustine</note>
+          The same is taught by 
+          <ref xml:id="lca8s8-d1e131-Rd1e244" target="http://scta.info/resource/aconf-l13-d1e262@246-280">Augustine in many places</ref>. 
+          <ref xml:id="lca8s8-d1e131-Rd1e249">Theophylact</ref> 
+          and 
+          <ref xml:id="lca8s8-d1e131-Rd1e251">Bede</ref>, 
+          Again 
+          <ref xml:id="lca8s8-d1e131-Rd1e253"><name xml:id="lca8s8-d1e131-Nd1e254">Nicholas of Gorran</name> interprets the Apostle's words</ref> 
+          in this way. 
+          As if he were to say. 
+          <quote xml:id="lca8s8-d1e131-Qd1e262">To judge infidels does not pertain to me: 
+            but rather we must deal gently with them, 
+            so that they may be converted. 
+            Thus also the Lord willed 
+            <ref xml:id="lca8s8-d1e131-Rd1e270">Luke 12</ref>. 
+            <quote xml:id="lca8s8-d1e131-Qd1e272" source="http://scta.info/resource/lc12_14@5-13">O man, 
+              who made me a judge or divider over you</quote>.
+            He was not one of His disciples</quote>. 
+          Thus he says. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e284">
+          <note type="marginal-note" place="margin-left" hand="F">Saint Thomas</note>
+          Again Saint 
+          <ref xml:id="lca8s8-d1e131-Rd1e291">Thomas expounds that passage</ref> 
+          thus. 
+          <quote xml:id="lca8s8-d1e131-Qd1e293"><quote xml:id="lca8s8-d1e131-Qd1e294">For what have I to do</quote>, 
+            that is, 
+            what does it pertain to me to judge, 
+            that is, 
+            to pronounce a sentence of condemnation concerning those who are outside, 
+            that is, 
+            concerning infidels who are completely outside the Church. 
+            For the prelates of the Churches receive spiritual power only over those who have submitted themselves to the faith, 
+            according to that passage 
+            <ref xml:id="lca8s8-d1e131-Rd1e312">2 Corinthians 10</ref>: 
+            <quote xml:id="lca8s8-d1e131-Qd1e314">being ready to punish all disobedience when your obedience is complete</quote></quote>. 
+          Thus Saint Thomas. 
+          Moreover, 
+          in 
+          <ref xml:id="lca8s8-d1e131-Rd1e324">the treatise against those who impugn religion, 
+            chapter 15, 
+            to the 4th objection</ref> 
+          he expounds those words in the same way. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e332">
+          <note type="marginal-note" place="lm" hand="F">Bruno</note>
+          The same is the opinion of 
+          <ref xml:id="lca8s8-d1e131-Rd1e337"><name xml:id="lca8s8-d1e131-Nd1e338">Saint Bruno</name> 
+            on the Epistles of Paul</ref>, 
+          and 
+          <note type="marginal-note" place="lm" hand="F">Richard</note>
+          <ref xml:id="lca8s8-d1e131-Rd1e346"><name xml:id="lca8s8-d1e131-Nd1e347">Richard</name> of Middleton in the 4th book of the Sentences, 
+            distinction 7, 
+            article 2, 
+            question 2</ref> 
+          teaching that 
+          <quote xml:id="lca8s8-d1e131-Qd1e354" source="http://scta.info/resource/kzz7yh-k20934-d1e410@16-148">to the vicar of Christ has not been granted any direct power over those who have not received the sacrament of baptism: 
+            which is the door by which one enters the Church militant: 
+            whence 
+            <ref xml:id="lca8s8-d1e131-Rd1e364">the Apostle in the first letter to the Corinthians, 
+              chapter 5</ref> 
+            says 
+            <quote xml:id="lca8s8-d1e131-Qd1e370" source="http://scta.info/resource/Icor5_12@1-5">what have I to do with those</quote> 
+            and so on. 
+            Whence the gloss says 
+            <quote xml:id="lca8s8-d1e131-Qd1e374">that is, 
+              what does it pertain to me to judge. 
+              As if he were to say, 
+              it does not pertain to me to judge in these matters: 
+              but concerning those who are inside the Church by profession and name: 
+              do you not judge? 
+              Indeed, 
+              and God alone will judge those who are outside: 
+              He has not entrusted us to judge them now</quote></quote> 
+          and so on. 
+          All this from Richard. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e391">
+          Similarly 
+          <ref xml:id="lca8s8-d1e131-Rd1e395"><name xml:id="lca8s8-d1e131-Nd1e396">Saint Thomas</name> in the Summa, 
+            2a 2ae, 
+            question 12, 
+            article 2</ref> 
+          says:
+          <quote xml:id="lca8s8-d1e131-Qd1e402" source="http://scta.info/resource/TAca84-d1e1334-d1e508@57-93">It does not pertain to the Church to punish infidelity in those who have never received the faith, 
+            according to 
+            <ref xml:id="lca8s8-d1e131-Rd1e408">the Apostle in 1 Corinthians 5</ref>: 
+            <quote xml:id="lca8s8-d1e131-Qd1e410" source="http://scta.info/resource/Icor5_12@1-5">What have I to do with those</quote> 
+            and so on: 
+            But the Church can punish by sentence the infidelity of those who have received the faith</quote>. 
+          Thus 
+          <name xml:id="lca8s8-d1e131-Nd1e419">Saint Thomas</name>. 
+          If it does not pertain to the Church to punish the infidelity of infidels who have not received the faith: 
+          therefore they are not of the forum of the Church.
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e429">
+          To the same effect 
+          <ref xml:id="lca8s8-d1e131-Rd1e431"><name xml:id="lca8s8-d1e131-Nd1e432">Nicholas of Lyra</name></ref>: 
+          <quote xml:id="lca8s8-d1e131-Qd1e437">expounds the same words in this way: 
+            it does not pertain to me because they are outside the forum of the Church</quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e445">
+          Therefore all doctors teach from those words of Paul that infidels cannot be punished by the Church because they are not of the forum of the Church.
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e453">	
+          Moreover, 
+          thirdly, 
+          that the Church cannot punish infidels is proven by this argument: 
+          which I and all that is mine submit to its correction. 
+          <note type="marginal-note" place="rm" hand="F">
+            It does not pertain to the Church 
+            to forcibly remove the worship 
+            of idols among those not subject to it
+          </note>
+          It does not pertain to the Church to forcibly remove the worship of idols: 
+          nor to chastise idolaters, 
+          at least those not subject to it, 
+          therefore idolaters and infidels are not of the ecclesiastical forum. 
+          The consequence is now clear from the preceding reasons and authorities. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e476">
+          But the antecedent as to the first part (namely) that it does not pertain to the Church to forcibly remove the worship of idols. 
+          <note type="marginal-note" place="margin-right" hand="F">Augustine</note> 
+          This is proven from 
+          <ref xml:id="lca8s8-d1e131-Rd1e486"><name xml:id="lca8s8-d1e131-Nd1e487">Augustine</name> in the book 
+            <title>On the Words of the Lord</title>, 
+            sermon 6</ref> 
+          on the centurion's boy: 
+          who writes these words there: 
+          <quote xml:id="lca8s8-d1e131-Qd1e496">Brothers, 
+            it pertains to us to speak to you, 
+            it pertains to us to speak to Christians. 
+            <quote xml:id="lca8s8-d1e131-Qd1e500">For what have I to do with judging those who are outside?</quote> 
+            <ref xml:id="lca8s8-d1e131-Rd1e505">the Apostle himself says</ref>:
+            We address those (namely) pagans differently, 
+            as if they were weak. 
+            We must deal gently with them so that they may hear the truth: 
+            in you the corruption must be cut out. 
+            If you ask by what means pagans may be conquered, 
+            by what means they may be enlightened, 
+            by what means they may be called to salvation: 
+            abandon all their solemnities: 
+            abandon their follies, 
+            and if they do not consent to our truth: 
+            let them be ashamed of their fewness</quote>. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e529">
+          And below: 
+          <quote xml:id="lca8s8-d1e131-Qd1e531">Do not believe their words nor fear them. 
+            They call us enemies of their idols. 
+            So may God grant and give all things into power as He gave what has been done, 
+            for we say this to your charity, 
+            that you should not do these things: 
+            when it is not in your power to do that. 
+            It is the way of wicked men, 
+            of madmen: 
+            of circumcellions: 
+            both where they do not have power to rage. 
+            And they hasten to die without cause. 
+            Did you hear what we read to you? 
+            You who were recently absent from the mapalia? 
+            <quote xml:id="lca8s8-d1e131-Qd1e554">When the land shall have been given to you in power. 
+              <ref xml:id="lca8s8-d1e131-Rd1e558">Deuteronomy 7 and 12</ref> 
+              First (it says in power) you shall destroy their altars (he says): 
+              you shall break down their groves, 
+              and you shall shatter all their monuments</quote>. 
+            When <emph rend="underline">you shall have received power, 
+              do this: 
+              where power has not been given to us, 
+              we do not do it: 
+              where it has been given</emph> 
+            we do not omit it. 
+            Many pagans have these abominations on their estates: 
+            do we approach and break them? 
+            For first we act so that we may break the idols in their hearts. 
+            When they themselves have been made Christians: 
+            they either invite us to such a good work: 
+            or they anticipate us: 
+            now we must pray for them: 
+            not be angry at them</quote>. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e593">
+          And below: 
+          <quote xml:id="lca8s8-d1e131-Qd1e595">Because therefore God has willed: 
+            they think we seek idols everywhere: 
+            which when we find in all places we break them.
+            Why? 
+            Are there not places before us in which they are? 
+            Or do we truly not know where they are? 
+            And yet we do not do it: 
+            because God has not given it into power. 
+            When does God give into power? 
+            When he shall be a Christian, 
+            whose property it is. 
+            Now He willed it to be done by the one whose it is. 
+            If he were unwilling to give the place itself to the Church and only command concerning his own property: 
+            I do not think the idols should be removed: 
+            because it ought to be done with the greatest devotion by Christians: 
+            the absent one would be helped. 
+            The Christian soul who wishes to give thanks to God from the land: 
+            does not want anything to be there to the insult of God. 
+            It is too little for them that we do not remove those things from their estates: 
+            we do not break them; 
+            and they want them to be preserved in ours. 
+            We preach against idols: 
+            <emph rend="underline">we remove them from hearts: 
+              we are persecutors of idols: 
+              we profess it. 
+              Are we their preservers?</emph> 
+            I do not do it where I cannot: 
+            I do not do it where the owner of the property will complain, 
+            but where he wishes it to be done and gives thanks: 
+            I shall be guilty, 
+            if I do not act</quote>. 
+          All these things are from Augustine. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e649">
+          From these words it is manifestly elicited that Augustine held that the Church does not regularly have jurisdiction over idolaters: 
+          and those subject to itself or its members, 
+          nor can it forcibly compel them to abandon the worship of idols: 
+          nor shatter their vain images against their will.
+          Where he says: 
+          <quote xml:id="lca8s8-d1e131-Qd1e664">Are there not places before us in which they are? 
+            Or do we truly not know where they are?</quote> 
+          as if he were to say: 
+          <quote xml:id="lca8s8-d1e131-Qd1e674">We do not not know, 
+            but we do not do it: 
+            because God has not given it to us in power</quote>:
+          he manifestly shows that this power has been denied to the Church not as a matter of fact but of law. 
+          Since Christians could remove idols by force, 
+          as Augustine suggests there. 
+          And thus he wishes to teach that the Church in this matter, 
+          in removing idols against the will of idolaters, 
+          completely lacks power, 
+          and thus it is illicit. 
+          This opinion of Augustine not only refutes the vain opinion of our adversaries: 
+          but also proves false the opinion of 
+          <ref xml:id="lca8s8-d1e131-Rd1e700">Hostiensis in the chapter "quod super his": 
+            concerning vows</ref> 
+          about which I have discussed more fully elsewhere.
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e708">
+          But it should be noted that Augustine says that to shatter idols and forbid their worship before we have the pagans in power. 
+          Which should be understood as before they are of the forum of the Church through baptism: 
+          is the work of demented and mad men, 
+          of circumcellions. 
+          These circumcellions, 
+          according to 
+          <ref xml:id="lca8s8-d1e131-Rd1e723">Isidore in the Etymologies, 
+            book 8, 
+            chapter 5</ref> 
+          were certain heretics who killed themselves, 
+          so that they might be held as martyrs.
+          <note type="marginal-note" place="lm" hand="F">
+            Circumcellions were called 
+            certain heretics 
+            who killed themselves 
+            so that they might be 
+            martyrs
+          </note>
+          <ref xml:id="lca8s8-d1e131-Rd1e735">Augustine writes</ref> 
+          that those are similar to these who attempt to remove the worship of idols where they strive to do this, 
+          so that being killed they may be thought martyrs, 
+          and therefore he says: 
+          <quote xml:id="lca8s8-d1e131-Qd1e743">Where they do not have power to rage and to wish to die, 
+            they hasten without cause</quote> 
+          and so on. 
+          And therefore, 
+          if I am not mistaken, 
+          against these 
+          <ref xml:id="lca8s8-d1e131-Rd1e750">the Council of Elvira, 
+            chapter 60</ref> 
+          had its origin, 
+          which says: 
+          <quote xml:id="lca8s8-d1e131-Qd1e761">if anyone breaks idols and is killed there: 
+            because it is not written in the gospel, 
+            nor is it found ever to have been done by the apostles: 
+            it has pleased us not to receive them in the number of martyrs</quote>. 
+          Note from the words of the council that Christ never broke idols, 
+          nor did His apostles, 
+          in whose time the whole world was raging in the worship of idols: 
+          nor did they order anyone else to break idols by force. 
+          For indeed if He had done this or commanded it, 
+          certainly it would be read in the Gospel. 
+          Which truly, 
+          if this were expedient or just, 
+          Christ and the apostles would have done it without fear of princes: 
+          whom they would have terrified either by miracles or by the word of God. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e795">
+          We read that 
+          <name xml:id="lca8s8-d1e131-Nd1e798">Ananias</name> 
+          and 
+          <name xml:id="lca8s8-d1e131-Nd1e800">Sapphira</name> 
+          were rebuked by the words of the apostle 
+          <name xml:id="lca8s8-d1e131-Nd1e802">Peter</name> 
+          and breathed out their souls: 
+          and therefore great fear was struck into the others. 
+          Thus it is read in 
+          <ref xml:id="lca8s8-d1e131-Rd1e814">Acts 5</ref>: 
+          <quote xml:id="lca8s8-d1e131-Qd1e816">But Ananias hearing these words fell down and expired: 
+            and great fear came upon all who heard</quote>. 
+          From which it is elicited that the apostles did not break idols: 
+          not because they were poor and destitute of all defense, 
+          but because it was not lawful. 
+          For they could destroy a man with a word alone, 
+          nor did they cease from fear of death or disgrace to do what was conducive to the evangelical work. 
+          For they surpassed in power: 
+          all princes, 
+          caesars and tyrants: 
+          and therefore the Holy Spirit calls them princes of the earth in 
+          <ref xml:id="lca8s8-d1e131-Rd1e844">Psalm 44</ref>: 
+          <quote xml:id="lca8s8-d1e131-Qd1e846">You will make them princes over all the earth</quote>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e852">
+          But if we sometimes read that the apostles or martyrs commanded demons, 
+          when they were brought to sacrifice to idols: 
+          to shatter those images of vain gods: 
+          that was with the consent of the pagans. 
+          Of this kind is what we read in the life of 
+          <ref xml:id="lca8s8-d1e131-Rd1e866"><name xml:id="lca8s8-d1e131-Nd1e867">Saint Bartholomew</name></ref>, 
+          <quote xml:id="lca8s8-d1e131-Qd1e869">if you wish all the sick to receive health: 
+            take down this idol and break it, 
+            and I will consecrate this temple to Christ</quote>: 
+          which when they tried at the king's command, 
+          and could not: 
+          <ref xml:id="lca8s8-d1e131-Rd1e881">the apostle said</ref> 
+          to the demon: 
+          <quote xml:id="lca8s8-d1e131-Qd1e886">Come out of the image, 
+            and break it</quote>. 
+          These things are 
+          <ref xml:id="lca8s8-d1e131-Rd1e888">in the legend and life of him</ref>.
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e891">
+          Sometimes they broke idols by divine power: 
+          so that by displaying miracles, 
+          faith might be given to the evangelical truth which they were announcing. 
+          Thus we read in 
+          <ref xml:id="lca8s8-d1e131-Rd1e901">Acts 17</ref> 
+          that the apostle Paul went around all the images of idols in Athens, 
+          and finally looked upon an altar consecrated to the unknown god, 
+          and conversing with Dionysius, 
+          first by reasoning and by performing a miracle, 
+          drew him to contempt of idols: 
+          but not by seizing or overthrowing the idols, 
+          to the worship of the true God, 
+          so that both he and many others broke the idols with their own hands: 
+          which happens to us very often among the Indians.
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e933">
+          This indeed is the truly Christian method, 
+          that God may first hand over to us in possession the land: 
+          that is: 
+          that the idolaters may be converted whose idols they are: 
+          and consequently of shattering idols and abrogating the worship of idols: 
+          namely to teach the worshippers of idols the evangelical truth and to lead them by reasoning to the net of the Church. 
+          For then we will lawfully break them (as 
+          <ref xml:id="lca8s8-d1e131-Rd1e954">Augustine said</ref>) 
+          indeed they themselves, 
+          adoring the evangelical light: 
+          will break the impious images of demons, 
+          and will trample them underfoot with us.
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e966">
+          Therefore the Church regularly cannot forcibly break idols: 
+          before the pagans have heard and willingly received the evangelical truth. 
+          For it is fatal to the expansion of true religion. 
+          Unless perhaps the pagans were already very inclined to receive our religion: 
+          or if they had voluntarily submitted themselves to our rule: 
+          then the worship of idols can be forbidden, 
+          with some light laws added. 
+          If only there be no scandal at all. 
+          Which however will rarely happen: 
+          and not unless where the present occasion of things shows that the matter will turn to the advantage of the people. 
+          For it is not expedient for the worship of idols to be removed by violence of men: 
+          but by the word of God.
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e999">
+          For what shall we accomplish: 
+          if, 
+          with idols forcibly broken, 
+          the pagans still ignorant of Christ: 
+          secretly offer their sacrifices to their gods in forests, 
+          mountains and deserts: 
+          where those who oppress them are especially accustomed to find Christ? 
+          For perhaps the idols will be removed from temples: 
+          but not from hearts. 
+          Wherefore 
+          <name xml:id="lca8s8-d1e131-Nd1e1015">Saint Gregory</name> 
+          says most excellently: 
+          <note type="marginal-note" place="rm" hand="F">Gregory</note>
+          <quote xml:id="lca8s8-d1e131-Qd1e1020">In vain do we either completely remove ceremonies from infidels or set rules for how they ought to be observed: 
+            if through this we cannot gain them?</quote> 
+          <ref xml:id="lca8s8-d1e131-Rd1e1029" target="http://scta.info/resource/gd-p1d45-d1e142">45th distinction, 
+            chapter "qui sincera"</ref>. 
+          <quote xml:id="lca8s8-d1e131-Qd1e1035">Therefore first, 
+            Augustine says, 
+            let us break the idols in their hearts</quote>. 
+          But idolatry will be abolished late or never without the preaching of the Gospel and knowledge of the true God, 
+          according to 
+          <ref xml:id="lca8s8-d1e131-Rd1e1047">Chrysostom on 2 Corinthians, 
+            homily 7</ref> 
+          and 
+          <ref xml:id="lca8s8-d1e131-Rd1e1053">William of Paris in the book on laws</ref>. 
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e1060">
+          Hence 
+          <ref xml:id="lca8s8-d1e131-Rd1e1062" target="http://scta.info/resource/TAca84-d1e1324-d1e2553 http://scta.info/resource/TAca84-d1e1324-d1e2590@1-40">Saint Thomas in the Summa, 
+            2a 2ae, 
+            question 10, 
+            article 11</ref> 
+          teaches that the rites of pagans ought to be tolerated by the Church: 
+          so that hearing the evangelical preaching they may be converted to the faith. 
+          He speaks of pagan rites: 
+          which are performed in the lands of the Church. 
+          For concerning others it was not necessary for him to say they ought to be tolerated. 
+          Since nothing pertains to the Church concerning such things except through opportune preaching of the Gospel to persuade them to abandon them. 
+          The words of 
+          <name xml:id="lca8s8-d1e131-Nd1e1084">Saint Thomas</name> 
+          are these. 
+          <quote xml:id="lca8s8-d1e131-Qd1e1088" source="http://scta.info/resource/TAca84-d1e1324-d1e2590@57-98">For the sake of avoiding some evil (he says) (namely) to avoid scandal or dissension which could arise from this: 
+            or the impediment to their salvation: 
+            who being thus tolerated will little by little be converted to the faith: 
+            for on this account indeed even the rites of heretics and pagans the Church sometimes tolerated: 
+            when there was a great multitude of infidels</quote>.
+          Thus Saint Thomas.
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e1109">
+          Indeed these things are so manifest: 
+          that I think they would satisfy 
+          <name xml:id="lca8s8-d1e131-Nd1e1113">Sepulveda</name> 
+          however pertinacious an asserter of his opinion. 
+          For what now can he calumniate? 
+          He objects to us Saint Thomas against himself. 
+          Certainly that holy man wishes pagans to be tolerated and allured to the faith: 
+          not violently compelled: 
+          to teach is the part of Christians, 
+          to compel is the part of tyrants. 
+          For what can be assigned as the general reason of all the aforesaid. 
+          Since indeed nature itself teaches that the whole human race ought to worship God: 
+          but divine worship consists in ceremonies: 
+          hence it happens that just as men cannot live without God truly or falsely held for true: 
+          so neither without the exercise of any ceremonies. 
+          Especially since among gentiles the opinion flourished that by ceremonies and sacrifices: 
+          the whole state of the republic was preserved in felicity. 
+          Whence if we were to completely remove their ceremonies against their will, 
+          besides other many inconveniences which would follow: 
+          they would <seg type="correction">hold</seg> the Catholic faith and Christian religion as fleshless, 
+          and we would seem to compel them indirectly to receive the faith itself (which is forbidden).
+        </p>
+        
+        <p xml:id="lca8s8-d1e131-d1e1179">
+          When therefore was there ever such a multitude of infidels in the whole world: 
+          that there was just cause for tolerating their rites even if they had been subject to the Church? 
+          Or in which other nations could idols more easily be broken in hearts: 
+          and thus idolatry be totally abolished altogether
+          <note type="marginal-note" place="rm" hand="F"><del rend="srikethrough" hand="?">as in the western regions of the Indies</del></note>
+          Most serious scandals be avoided: 
+          also the perdition of innumerable souls: 
+          if they were taught little by little and tolerated, 
+          than among our nations of Indians? 
+          Indeed the holy Church itself knows better that it pertains to it in no way to forcibly remove idols and idolatry from infidels of whom we are speaking: 
+          but only by the divine word and sweet urgency of reason: 
+          in the way it has always been known to have used from its infancy, 
+          and will use (as I hope) until the coming of the just judge, 
+          its spouse Jesus Christ. 
+          Therefore they err and act against the custom of the Church and the doctrine and examples of the holy fathers: 
+          doing the contrary or asserting that the contrary ought to be done. 
+          And thus finally it is clear that infidels insofar as such are not of the forum or jurisdiction of the Church. 
+          See 
+          <ref xml:id="lca8s8-d1e131-Rd1e1235">below in chapter 48</ref> 
+          more fully.
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
